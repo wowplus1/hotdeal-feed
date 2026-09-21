@@ -1,7 +1,16 @@
 {
- "updated": "2026-09-21T14:54:41.004+09:00",
- "count": 21,
+ "updated": "2026-09-21T14:58:22.568+09:00",
+ "count": 22,
  "items": [
+  {
+   "uid": "5205578992",
+   "mall": "토스쇼핑",
+   "title": "네이처 그래놀라, 1kg, 1개",
+   "price": 10500,
+   "image": "https://shopping.toss.im/live/taca/ai/NjgxM2Fj/U3JUaHk3RHJkSk5NUElaaGx0SUpIbmFoc095TUpXa1NNMXF1YTBYMmN0Zz0.png",
+   "sentAt": "2026-09-21T14:58:22.162+09:00",
+   "link": "https://hotdeal.best/5205578992?utm_source=kakao"
+  },
   {
    "uid": "9739014866",
    "mall": "쿠팡",
