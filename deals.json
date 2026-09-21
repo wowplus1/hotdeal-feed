@@ -1,7 +1,17 @@
 {
- "updated": "2026-09-21T15:48:29.292+09:00",
- "count": 22,
+ "updated": "2026-09-21T16:34:42.317+09:00",
+ "count": 23,
  "items": [
+  {
+   "uid": "4230371967",
+   "mall": "토스쇼핑",
+   "title": "마니커에프앤지 도톰 한입 산적구이 너비아니, 1kg, 2개",
+   "price": 13900,
+   "image": "https://shopping.toss.im/live/product/28899935/d93beb2a-e1ca-4c3c-9dc7-5b3e32005004.jpeg",
+   "sentAt": "2026-09-21T16:34:41.802+09:00",
+   "unit": "[object Object]",
+   "link": "https://toss.im/_m/fYzQQhpy"
+  },
   {
    "baseline": 14080,
    "baselineNote": "판매글 4곳 최저가",
