@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-21T17:25:31.436+09:00",
- "count": 26,
+ "updated": "2026-09-21T17:47:19.592+09:00",
+ "count": 27,
  "items": [
+  {
+   "uid": "2692929073",
+   "mall": "쿠팡",
+   "title": "스팸 클래식, 340g, 9개",
+   "price": 30030,
+   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/images/2016/10/16/22/1/0ebcbeee-535c-42e4-ab8c-8888b925350d.jpg",
+   "sentAt": "2026-09-21T17:47:19.056+09:00",
+   "saving": 10,
+   "baseline": 33220,
+   "baselineNote": "594곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hdUb4nMo1s"
+  },
   {
    "uid": "1404121462",
    "mall": "롯데온",
