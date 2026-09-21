@@ -1,0 +1,30 @@
+{
+ "updated": "2026-09-21T14:27:57.744+09:00",
+ "count": 3,
+ "items": [
+  {
+   "uid": "9275856588",
+   "mall": "쿠팡",
+   "title": "MSI 시력보호 모니터 MP242L850 무결점",
+   "price": 85000,
+   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/rs_quotation_api/my9abpas/89a6aa669d8746b88bcd340663209672.jpg",
+   "sentAt": "2026-09-21T14:27:57.510+09:00"
+  },
+  {
+   "uid": "2509949381",
+   "mall": "쿠팡",
+   "title": "뿌리또 위생장갑, 100개입, 2개",
+   "price": 2980,
+   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/89531c0d-a7dc-482c-a032-f33105421244145429577366304767.png",
+   "sentAt": "2026-09-21T14:27:57.512+09:00"
+  },
+  {
+   "uid": "2977344521",
+   "mall": "토스쇼핑",
+   "title": "가쯔 쿡스 전자레인지 찜기, 라이트그레이, 1L, 2개",
+   "price": 5900,
+   "image": "https://shopping.toss.im/live/taca/ai/NTVkODVi/RTIydFFxelpHYVNUWm5KYk1tbXBKcG1Na25sTFZwenZiM2hVTDVld2FGMD0.png",
+   "sentAt": "2026-09-21T14:27:57.512+09:00"
+  }
+ ]
+}
