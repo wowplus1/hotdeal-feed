@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-22T07:09:33.691+09:00",
- "count": 30,
+ "updated": "2026-09-22T07:29:30.781+09:00",
+ "count": 31,
  "items": [
+  {
+   "uid": "4453994442",
+   "mall": "쿠팡",
+   "title": "첵스초코 쿠키앤크림 시리얼, 420g, 2개",
+   "price": 8570,
+   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/3a8a934b-b8c4-4847-b7be-20725dc931123515374390231033697.png",
+   "sentAt": "2026-09-22T07:29:30.221+09:00",
+   "saving": 54,
+   "baseline": 18660,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/heQZA069PU"
+  },
   {
    "uid": "2791116204",
    "mall": "쿠팡",
