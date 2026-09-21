@@ -1,7 +1,19 @@
 {
- "updated": "2026-09-21T17:47:19.592+09:00",
- "count": 27,
+ "updated": "2026-09-21T17:54:20.735+09:00",
+ "count": 28,
  "items": [
+  {
+   "uid": "2545628334",
+   "mall": "11번가",
+   "title": "후라이드+콜라1.25L",
+   "price": 15900,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/8/2/4/3/3/7/gHjff/9580824337_238971396.webp",
+   "sentAt": "2026-09-21T17:54:20.238+09:00",
+   "saving": 29,
+   "baseline": 22280,
+   "baselineNote": "판매글 3곳 최저가",
+   "link": "http://app.ac/ntVTHrM93"
+  },
   {
    "uid": "2692929073",
    "mall": "쿠팡",
