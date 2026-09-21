@@ -1,16 +1,16 @@
 {
- "updated": "2026-09-21T16:34:42.317+09:00",
+ "updated": "2026-09-21T17:02:52.414+09:00",
  "count": 23,
  "items": [
   {
-   "uid": "4230371967",
-   "mall": "토스쇼핑",
-   "title": "마니커에프앤지 도톰 한입 산적구이 너비아니, 1kg, 2개",
-   "price": 13900,
    "image": "https://shopping.toss.im/live/product/28899935/d93beb2a-e1ca-4c3c-9dc7-5b3e32005004.jpeg",
+   "link": "https://toss.im/_m/fYzQQhpy",
+   "mall": "토스쇼핑",
+   "price": 13900,
    "sentAt": "2026-09-21T16:34:41.802+09:00",
-   "unit": "[object Object]",
-   "link": "https://toss.im/_m/fYzQQhpy"
+   "title": "마니커에프앤지 도톰 한입 산적구이 너비아니, 1kg, 2개",
+   "uid": "4230371967",
+   "unit": "[object Object]"
   },
   {
    "baseline": 14080,
@@ -89,7 +89,7 @@
    "baseline": 14600,
    "baselineNote": "11곳 중 최저 · 무료배송",
    "image": "https://gdimg.gmarket.co.kr/4671042163/goodsimage",
-   "link": "https://hotdeal.best/4503086739?utm_source=kakao",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4671042163",
    "mall": "지마켓",
    "price": 12840,
    "saving": 12,
@@ -101,7 +101,7 @@
    "baseline": 10650,
    "baselineNote": "판매글 5곳 최저가",
    "image": "https://gdimg.gmarket.co.kr/3545661354/goodsimage",
-   "link": "https://hotdeal.best/8838500326?utm_source=kakao",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=3545661354",
    "mall": "지마켓",
    "price": 7900,
    "saving": 26,
@@ -155,7 +155,7 @@
    "baseline": 12110,
    "baselineNote": "판매글 24곳 최저가",
    "image": "https://contents.lotteon.com/itemimage/20260921102144/LO/16/32/77/67/35/_1/63/27/76/73/6/LO1632776735_1632776736_1.jpg",
-   "link": "https://hotdeal.best/6492656046?utm_source=kakao",
+   "link": "http://app.ac/Hbpkwfl83",
    "mall": "롯데온",
    "price": 9500,
    "saving": 22,
@@ -167,7 +167,7 @@
    "baseline": 35000,
    "baselineNote": "판매글 8곳 최저가",
    "image": "https://gdimg.gmarket.co.kr/4826434107/goodsimage",
-   "link": "https://hotdeal.best/2360753973?utm_source=kakao",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4826434107",
    "mall": "지마켓",
    "price": 18700,
    "saving": 47,
@@ -244,7 +244,7 @@
   },
   {
    "image": "https://gdimg.gmarket.co.kr/4565686845/goodsimage",
-   "link": "https://hotdeal.best/3929898203?utm_source=kakao",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4565686845",
    "mall": "지마켓",
    "price": 250720,
    "sentAt": "2026-09-20T19:25:00.000+09:00",
