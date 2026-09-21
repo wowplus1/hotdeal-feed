@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-21T15:47:28.939+09:00",
- "count": 21,
+ "updated": "2026-09-21T15:47:58.502+09:00",
+ "count": 22,
  "items": [
   {
    "uid": "3458513504",
@@ -49,6 +49,19 @@
    "baseline": 14628,
    "baselineNote": "판매글 21곳 최저가",
    "link": "https://toss.im/_m/Ji4ihgVq"
+  },
+  {
+   "uid": "2509949381",
+   "mall": "쿠팡",
+   "title": "뿌리또 위생장갑 200매",
+   "price": 2980,
+   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/89531c0d-a7dc-482c-a032-f33105421244145429577366304767.png",
+   "sentAt": "2026-09-21T14:06:00.000+09:00",
+   "saving": 22,
+   "baseline": 3820,
+   "baselineNote": "판매글 7곳 최저가",
+   "unit": "개당 15원",
+   "link": "https://link.coupang.com/a/hdEncgKJzM"
   },
   {
    "uid": "9739014866",
