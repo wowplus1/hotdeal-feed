@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-21T17:15:52.451+09:00",
- "count": 25,
+ "updated": "2026-09-21T17:25:31.436+09:00",
+ "count": 26,
  "items": [
+  {
+   "uid": "1404121462",
+   "mall": "롯데온",
+   "title": "세타필 모이스춰라이징 크림 550g 2개",
+   "price": 30530,
+   "image": "https://contents.lotteon.com/itemimage/20260715105100/LO/25/23/01/95/70/_2/52/30/19/57/1/LO2523019570_2523019571_2.jpg",
+   "sentAt": "2026-09-21T17:25:30.808+09:00",
+   "saving": 16,
+   "baseline": 36470,
+   "baselineNote": "판매글 16곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/kjwRvCa43"
+  },
   {
    "uid": "1531695319",
    "mall": "롯데온",
