@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-21T20:50:38.271+09:00",
- "count": 29,
+ "updated": "2026-09-22T07:09:33.691+09:00",
+ "count": 30,
  "items": [
+  {
+   "uid": "2791116204",
+   "mall": "쿠팡",
+   "title": "케라시스 퍼퓸 샴푸 러블리 앤 로맨틱, 980ml, 2개",
+   "price": 7990,
+   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/3528911214679-76e416a0-c274-4426-95a7-2a94030fddac.jpg",
+   "sentAt": "2026-09-22T07:09:32.873+09:00",
+   "saving": 32,
+   "baseline": 11760,
+   "baselineNote": "109곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hePzbkJBAG"
+  },
   {
    "uid": "4165864094",
    "mall": "지마켓",
