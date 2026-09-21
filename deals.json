@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-21T17:54:20.735+09:00",
- "count": 28,
+ "updated": "2026-09-21T20:50:38.271+09:00",
+ "count": 29,
  "items": [
+  {
+   "uid": "4165864094",
+   "mall": "지마켓",
+   "title": "풀무원 톡스 콤부차 레몬 350ml 24캔",
+   "price": 12890,
+   "image": "https://gdimg.gmarket.co.kr/4422849650/goodsimage",
+   "sentAt": "2026-09-21T20:50:37.520+09:00",
+   "saving": 55,
+   "baseline": 28910,
+   "baselineNote": "판매글 23곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4422849650"
+  },
   {
    "uid": "2545628334",
    "mall": "11번가",
