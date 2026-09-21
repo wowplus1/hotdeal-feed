@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-21T15:07:42.459+09:00",
- "count": 18,
+ "updated": "2026-09-21T15:07:27.231+09:00",
+ "count": 19,
  "items": [
+  {
+   "uid": "3506420255",
+   "mall": "쿠팡",
+   "title": "이지드롭 변기크리너 뉴 레몬향 리필, 5개",
+   "price": 14830,
+   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1209025925880078-81124ef9-378e-42b0-8d05-7db2027004a5.jpg",
+   "sentAt": "2026-09-21T15:07:26.982+09:00",
+   "saving": 29,
+   "baseline": 20900,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hdINBN4GI0"
+  },
   {
    "uid": "5205578992",
    "mall": "토스쇼핑",
