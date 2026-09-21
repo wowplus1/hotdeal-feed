@@ -1,7 +1,19 @@
 {
- "updated": "2026-09-21T15:07:27.231+09:00",
- "count": 19,
+ "updated": "2026-09-21T15:12:22.438+09:00",
+ "count": 20,
  "items": [
+  {
+   "uid": "2449058269",
+   "mall": "토스쇼핑",
+   "title": "휴대용 공기펌프 PR-375, 블랙, 1개",
+   "price": 27900,
+   "image": "https://shopping.toss.im/live/taca/ai/NWUwYmIz/WnJQcmtwQTNJaysxcEZsUUpReWExOWxzWkpZWnlSa1V0VXlJNVdRYVppTT0.png",
+   "sentAt": "2026-09-21T15:12:22.170+09:00",
+   "saving": 26,
+   "baseline": 37760,
+   "baselineNote": "판매글 3곳 최저가",
+   "link": "https://toss.im/_m/ZvOrQV2q"
+  },
   {
    "uid": "3506420255",
    "mall": "쿠팡",
