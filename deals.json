@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-22T19:08:24.047+09:00",
- "count": 46,
+ "updated": "2026-09-22T19:12:02.746+09:00",
+ "count": 47,
  "items": [
+  {
+   "uid": "7345755077",
+   "mall": "쿠팡",
+   "title": "목우촌 뚝심 340g 4개",
+   "price": 10440,
+   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/126949572343378-43b60095-550b-4576-b482-d68121350676.jpg",
+   "sentAt": "2026-09-22T19:12:02.251+09:00",
+   "saving": 13,
+   "baseline": 12060,
+   "baselineNote": "22곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hfFceJ1cmi"
+  },
   {
    "uid": "9560491609",
    "mall": "토스쇼핑",
