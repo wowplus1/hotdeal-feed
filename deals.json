@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-22T18:38:19.004+09:00",
- "count": 45,
+ "updated": "2026-09-22T19:08:24.047+09:00",
+ "count": 46,
  "items": [
+  {
+   "uid": "9560491609",
+   "mall": "토스쇼핑",
+   "title": "서울식품 뻥이요 골드 오리지널, 60g, 15개",
+   "price": 4235,
+   "image": "https://shopping.toss.im/live/taca/ai/MWRkYzc5/QUowT21jMWpVMlp4bU9TZHppME9ZekhDOFp4c0dmRWxqcThPMm5GUzhTMk8.png",
+   "sentAt": "2026-09-22T19:08:23.473+09:00",
+   "saving": 64,
+   "baseline": 11730,
+   "baselineNote": "47곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://toss.im/_m/5wHVzSxe"
+  },
   {
    "uid": "4348282237",
    "mall": "토스쇼핑",
