@@ -1,7 +1,19 @@
 {
- "updated": "2026-09-22T19:12:02.746+09:00",
- "count": 47,
+ "updated": "2026-09-22T19:17:19.839+09:00",
+ "count": 48,
  "items": [
+  {
+   "uid": "7193733857",
+   "mall": "지마켓",
+   "title": "ps5 디스크 드라이브",
+   "price": 4950,
+   "image": "https://gdimg.gmarket.co.kr/3374130133/goodsimage",
+   "sentAt": "2026-09-22T19:17:19.187+09:00",
+   "saving": 73,
+   "baseline": 18360,
+   "baselineNote": "판매글 12곳 최저가",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=3374130133"
+  },
   {
    "uid": "7345755077",
    "mall": "쿠팡",
