@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-22T17:06:55.369+09:00",
- "count": 43,
+ "updated": "2026-09-22T17:31:05.317+09:00",
+ "count": 44,
  "items": [
+  {
+   "uid": "4411601427",
+   "mall": "토스쇼핑",
+   "title": "탑프룻 망고젤리, 망고맛, 320g, 3개",
+   "price": 6930,
+   "image": "https://shopping.toss.im/live/temp/2026-09-11/171d606c-d573-4b2d-a4a7-590cffb62613.jpeg",
+   "sentAt": "2026-09-22T17:31:04.732+09:00",
+   "saving": 44,
+   "baseline": 12380,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://toss.im/_m/Vvbz8mei"
+  },
   {
    "uid": "3933214808",
    "mall": "쿠팡",
