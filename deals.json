@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-22T19:41:21.193+09:00",
- "count": 50,
+ "updated": "2026-09-22T19:57:40.267+09:00",
+ "count": 51,
  "items": [
+  {
+   "uid": "9148683495",
+   "mall": "지마켓",
+   "title": "환타 제로 파인 190ml 30캔 환타 북마크",
+   "price": 12160,
+   "image": "https://gdimg.gmarket.co.kr/4715900503/goodsimage",
+   "sentAt": "2026-09-22T19:57:39.597+09:00",
+   "saving": 36,
+   "baseline": 19090,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4715900503"
+  },
   {
    "uid": "2015251570",
    "mall": "쿠팡",
