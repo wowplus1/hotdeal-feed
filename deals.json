@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-22T12:50:14.750+09:00",
- "count": 37,
+ "updated": "2026-09-22T13:06:14.631+09:00",
+ "count": 38,
  "items": [
+  {
+   "uid": "4923308093",
+   "mall": "쿠팡",
+   "title": "하림 용가리 치킨 , 1kg, 2개",
+   "price": 16750,
+   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/82615689077121-a07649b2-43cb-46d6-8823-0ea9cd7a193c.jpg",
+   "sentAt": "2026-09-22T13:06:14.061+09:00",
+   "saving": 16,
+   "baseline": 19920,
+   "baselineNote": "257곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/g3GOkVzjG0"
+  },
   {
    "uid": "7927201334",
    "mall": "쿠팡",
