@@ -1,7 +1,17 @@
 {
- "updated": "2026-09-22T15:08:50.440+09:00",
- "count": 42,
+ "updated": "2026-09-22T17:06:55.369+09:00",
+ "count": 43,
  "items": [
+  {
+   "uid": "3933214808",
+   "mall": "쿠팡",
+   "title": "apple 에어태그 2세대 4개",
+   "price": 131330,
+   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/01/27/14/7/22d155d0-3b8d-4231-8f44-e37c56ba5364.jpg",
+   "sentAt": "2026-09-22T17:06:54.436+09:00",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hfwgj4WY9s"
+  },
   {
    "uid": "7329993910",
    "mall": "토스쇼핑",
