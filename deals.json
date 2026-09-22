@@ -1,7 +1,19 @@
 {
- "updated": "2026-09-22T19:17:19.839+09:00",
- "count": 48,
+ "updated": "2026-09-22T19:25:14.223+09:00",
+ "count": 49,
  "items": [
+  {
+   "uid": "2560011294",
+   "mall": "롯데온",
+   "title": "진도담은 전통간장 500ml",
+   "price": 6990,
+   "image": "https://contents.lotteon.com/itemimage/20260915160504/LO/26/39/97/00/29/_2/63/99/70/03/0/LO2639970029_2639970030_1.jpg",
+   "sentAt": "2026-09-22T19:25:13.646+09:00",
+   "saving": 35,
+   "baseline": 10680,
+   "baselineNote": "판매글 3곳 최저가",
+   "link": "http://app.ac/gtVNr8M73"
+  },
   {
    "uid": "7193733857",
    "mall": "지마켓",
