@@ -1,7 +1,17 @@
 {
- "updated": "2026-09-22T14:58:31.210+09:00",
- "count": 41,
+ "updated": "2026-09-22T15:08:50.440+09:00",
+ "count": 42,
  "items": [
+  {
+   "uid": "7329993910",
+   "mall": "토스쇼핑",
+   "title": "다용도 손잡이 수납함, 10개",
+   "price": 8319,
+   "image": "https://shopping.toss.im/live/temp/2025-07-22/f1f41bcc-ce5d-4d8b-8f6c-6e09e4fc8fe0.jpeg",
+   "sentAt": "2026-09-22T15:08:49.865+09:00",
+   "unit": "[object Object]",
+   "link": "https://toss.im/_m/zluiUz4g"
+  },
   {
    "uid": "3803025465",
    "mall": "쿠팡",
