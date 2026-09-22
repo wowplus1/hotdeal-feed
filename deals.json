@@ -1,7 +1,19 @@
 {
- "updated": "2026-09-22T07:29:30.781+09:00",
- "count": 31,
+ "updated": "2026-09-22T09:08:10.681+09:00",
+ "count": 32,
  "items": [
+  {
+   "uid": "2473022392",
+   "mall": "토스쇼핑",
+   "title": "미스티파이 마스터 샐러드 스피너 8PC 세트, 화이트, 1개",
+   "price": 29500,
+   "image": "https://shopping.toss.im/live/taca/ai/v2/MDQwODFj/VWZwT3YyM0c4QTFrei9xSVJPRTZuSmk0OVU1NUhnem5CcklJWDZTN2JrRT0.png",
+   "sentAt": "2026-09-22T09:08:09.926+09:00",
+   "saving": 24,
+   "baseline": 39000,
+   "baselineNote": "판매글 7곳 최저가",
+   "link": "https://toss.im/_m/nhNszxeB"
+  },
   {
    "uid": "4453994442",
    "mall": "쿠팡",
