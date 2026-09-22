@@ -1,7 +1,19 @@
 {
- "updated": "2026-09-22T19:25:14.223+09:00",
- "count": 49,
+ "updated": "2026-09-22T19:41:21.193+09:00",
+ "count": 50,
  "items": [
+  {
+   "uid": "2015251570",
+   "mall": "쿠팡",
+   "title": "Sevenmoon여름 트레이닝복 세트 남자 속건 런닝 루즈핏 캐주얼 피트니스 빅사이즈 3XL",
+   "price": 3000,
+   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/3188/a4736cf1612fe074de32060a33fecec4f17cc9816a340807f60ec294de95.png",
+   "sentAt": "2026-09-22T19:41:20.444+09:00",
+   "saving": 67,
+   "baseline": 8990,
+   "baselineNote": "판매글 33곳 최저가",
+   "link": "https://link.coupang.com/a/hfHeBbFBAq"
+  },
   {
    "uid": "2560011294",
    "mall": "롯데온",
