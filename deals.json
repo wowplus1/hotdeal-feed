@@ -1,7 +1,19 @@
 {
- "updated": "2026-09-22T10:50:12.292+09:00",
- "count": 36,
+ "updated": "2026-09-22T12:50:14.750+09:00",
+ "count": 37,
  "items": [
+  {
+   "uid": "7927201334",
+   "mall": "쿠팡",
+   "title": "포인트앤 딥 클린 포어 클렌징 오일, 490ml, 1개",
+   "price": 7950,
+   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/56677439295782-579e004a-6636-4b22-9d5f-07f05ef412de.jpg",
+   "sentAt": "2026-09-22T12:50:13.980+09:00",
+   "saving": 31,
+   "baseline": 11540,
+   "baselineNote": "판매글 10곳 최저가",
+   "link": "https://link.coupang.com/a/hfdSYccbJY"
+  },
   {
    "uid": "7588229110",
    "mall": "지마켓",
