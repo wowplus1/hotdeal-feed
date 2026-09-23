@@ -1,7 +1,17 @@
 {
- "updated": "2026-09-23T11:32:06.001+09:00",
+ "updated": "2026-09-23T13:19:30.739+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1930238860",
+   "mall": "쿠팡",
+   "title": "씨그램 레몬 무라벨, 350ml, 24개",
+   "price": 9680,
+   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/33455254882561-69061bdf-a29e-415b-84ca-43765250d974.jpg",
+   "sentAt": "2026-09-23T13:19:29.749+09:00",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hgURMD1Aom"
+  },
   {
    "uid": "4180099560",
    "mall": "롯데온",
@@ -698,18 +708,6 @@
    "sentAt": "2026-09-20T19:25:00.000+09:00",
    "title": "Q27G4/WS 게이밍모니터 外 19건",
    "uid": "3929898203"
-  },
-  {
-   "baseline": 4500,
-   "baselineNote": "판매글 6곳 최저가",
-   "image": "https://shopping.toss.im/live/temp/2026-09-10/50ba94fb-8aab-4b95-89bf-d895628d6ebf.jpeg",
-   "link": "https://toss.im/_m/zyqmJshc",
-   "mall": "토스쇼핑",
-   "price": 3000,
-   "saving": 33,
-   "sentAt": "2026-09-20T17:54:00.000+09:00",
-   "title": "초코무초 쿠키앤크림, 30g, 10개입, 1팩",
-   "uid": "8774473517"
   }
  ]
 }
