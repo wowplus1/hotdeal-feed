@@ -1,7 +1,19 @@
 {
- "updated": "2026-09-23T16:46:58.223+09:00",
+ "updated": "2026-09-23T17:07:05.726+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4106027222",
+   "mall": "롯데온",
+   "title": "제주직송 노지감귤 3kg/5kg/10kg",
+   "price": 6240,
+   "image": "https://contents.lotteon.com/itemimage/20260923143730/LO/27/60/06/70/01/_2/76/00/67/00/9/LO2760067001_2760067009_2.JPG",
+   "sentAt": "2026-09-23T17:07:05.134+09:00",
+   "saving": 30,
+   "baseline": 8900,
+   "baselineNote": "판매글 37곳 최저가",
+   "link": "http://app.ac/mqnvd4253"
+  },
   {
    "uid": "9238335285",
    "mall": "11번가",
@@ -701,18 +713,6 @@
    "sentAt": "2026-09-21T08:24:00.000+09:00",
    "title": "호정가 우리쌀약과, 1kg, 1세트",
    "uid": "9150572789"
-  },
-  {
-   "baseline": 10260,
-   "baselineNote": "218곳 중 최저",
-   "image": "https://t3a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/8389750809879-77298a1e-8109-4151-886b-b21668dfaa82.jpg",
-   "link": "https://link.coupang.com/a/hdez4LO9Ke",
-   "mall": "쿠팡",
-   "price": 8600,
-   "saving": 16,
-   "sentAt": "2026-09-21T08:05:00.000+09:00",
-   "title": "가나 마일드 초콜릿 미니 175g 2개",
-   "uid": "4137727300"
   }
  ]
 }
