@@ -1,7 +1,17 @@
 {
- "updated": "2026-09-23T13:19:30.739+09:00",
+ "updated": "2026-09-23T14:41:58.412+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9630429396",
+   "mall": "11번가",
+   "title": "갈아만든 배, 500ml, 24개",
+   "price": 12610,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/5729559926/B.jpg?488000000",
+   "sentAt": "2026-09-23T14:41:57.617+09:00",
+   "unit": "[object Object]",
+   "link": "http://app.ac/hbp9o5l63"
+  },
   {
    "uid": "1930238860",
    "mall": "쿠팡",
@@ -699,15 +709,6 @@
    "sentAt": "2026-09-20T21:24:00.000+09:00",
    "title": "서진 무선 진공 청소기, VC500, 1개",
    "uid": "4007442473"
-  },
-  {
-   "image": "https://gdimg.gmarket.co.kr/4565686845/goodsimage",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4565686845",
-   "mall": "지마켓",
-   "price": 250720,
-   "sentAt": "2026-09-20T19:25:00.000+09:00",
-   "title": "Q27G4/WS 게이밍모니터 外 19건",
-   "uid": "3929898203"
   }
  ]
 }
