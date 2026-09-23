@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-23T17:07:05.726+09:00",
+ "updated": "2026-09-23T17:47:22.888+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6362360145",
+   "mall": "11번가",
+   "title": "롯데웰푸드 초코퍼지, 70ml, 40개",
+   "price": 15820,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/8430966085/B.webp?447637298",
+   "sentAt": "2026-09-23T17:47:21.939+09:00",
+   "saving": 21,
+   "baseline": 20090,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/RjwkU0a53"
+  },
   {
    "uid": "4106027222",
    "mall": "롯데온",
@@ -704,15 +717,6 @@
    "sentAt": "2026-09-21T08:41:00.000+09:00",
    "title": "미미네 오리지널 국물떡볶이, 오리지널, 570g, 4봉",
    "uid": "3047225095"
-  },
-  {
-   "image": "https://shopping.toss.im/live/taca/ai/YzYwZjc1/SzBySmFmczhOVWsybVpOa2ZheGt0VnVrNVNUSXh0VFQ1MVF3MmpPMFJXbz0.png",
-   "link": "https://toss.im/_m/pIOyvKVb",
-   "mall": "토스쇼핑",
-   "price": 4990,
-   "sentAt": "2026-09-21T08:24:00.000+09:00",
-   "title": "호정가 우리쌀약과, 1kg, 1세트",
-   "uid": "9150572789"
   }
  ]
 }
