@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-23T15:24:30.188+09:00",
+ "updated": "2026-09-23T16:31:59.216+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3709825906",
+   "mall": "쿠팡",
+   "title": "불스원샷 익스트림 연료 첨가제 가솔린용 2개",
+   "price": 20960,
+   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/322614522163442-334ad817-4b8e-49aa-9728-be8766863cac.jpg",
+   "sentAt": "2026-09-23T16:31:58.421+09:00",
+   "saving": 20,
+   "baseline": 26300,
+   "baselineNote": "43곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hg8FrhjISi"
+  },
   {
    "uid": "4429192139",
    "mall": "쿠팡",
@@ -699,18 +712,6 @@
    "sentAt": "2026-09-21T07:41:00.000+09:00",
    "title": "해태제과 홈런볼 스윗커스타드 4P, 164g, * 4개",
    "uid": "2192307126"
-  },
-  {
-   "baseline": 16570,
-   "baselineNote": "판매글 3곳 최저가",
-   "image": "https://shopping.toss.im/live/taca/ai/v2/Y2Q0ZmIx/Y2hZbTBwek1acXVXOFp5dlVDMVZ1MDI4TlhMMHA2OVRHV2haait3NVRMQT0.png",
-   "link": "https://toss.im/_m/FZ3FwQli",
-   "mall": "토스쇼핑",
-   "price": 12890,
-   "saving": 22,
-   "sentAt": "2026-09-20T21:35:00.000+09:00",
-   "title": "웅진식품 더 빅토리아 쿨라임 탄산음료, 500ml, 20개",
-   "uid": "7983992789"
   }
  ]
 }
