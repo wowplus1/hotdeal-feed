@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-24T07:06:36.392+09:00",
+ "updated": "2026-09-24T07:24:46.699+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1673941914",
+   "mall": "쿠팡",
+   "title": "벡셀 아이프라임 알카라인 AA건전지, 40개입, 1개",
+   "price": 10530,
+   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/8ec2/cdfd587ff76cd95bb8113921b993e2c7c4c40e55ee4070dd9d1bef1cbe9b.jpg",
+   "sentAt": "2026-09-24T07:24:46.001+09:00",
+   "saving": 28,
+   "baseline": 14570,
+   "baselineNote": "판매글 11곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hiarD5tVWm"
+  },
   {
    "uid": "8527336871",
    "mall": "쿠팡",
@@ -716,18 +729,6 @@
    "sentAt": "2026-09-21T15:44:15.930+09:00",
    "title": "네오디뮴 자석고리 자석걸이, 180도 회전, 대, 실버, 7kg, 1세트",
    "uid": "3458513504"
-  },
-  {
-   "baseline": 37760,
-   "baselineNote": "판매글 3곳 최저가",
-   "image": "https://shopping.toss.im/live/taca/ai/NWUwYmIz/WnJQcmtwQTNJaysxcEZsUUpReWExOWxzWkpZWnlSa1V0VXlJNVdRYVppTT0.png",
-   "link": "https://toss.im/_m/ZvOrQV2q",
-   "mall": "토스쇼핑",
-   "price": 27900,
-   "saving": 26,
-   "sentAt": "2026-09-21T15:12:22.170+09:00",
-   "title": "휴대용 공기펌프 PR-375, 블랙, 1개",
-   "uid": "2449058269"
   }
  ]
 }
