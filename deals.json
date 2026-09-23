@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-23T16:31:59.216+09:00",
+ "updated": "2026-09-23T16:46:58.223+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9238335285",
+   "mall": "11번가",
+   "title": "롯데제과 마가렛트 구운모카, 대, 352g, 4개",
+   "price": 13500,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/7350176984/B.webp?489378721",
+   "sentAt": "2026-09-23T16:46:57.507+09:00",
+   "saving": 15,
+   "baseline": 15960,
+   "baselineNote": "421곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "http://app.ac/6AGTmi573"
+  },
   {
    "uid": "3709825906",
    "mall": "쿠팡",
@@ -700,18 +713,6 @@
    "sentAt": "2026-09-21T08:05:00.000+09:00",
    "title": "가나 마일드 초콜릿 미니 175g 2개",
    "uid": "4137727300"
-  },
-  {
-   "baseline": 18720,
-   "baselineNote": "판매글 8곳 최저가",
-   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/b358/627da32bb330fcecebed58ccbbfe27783f7d7ff09abe796b3993dbb238e9.png",
-   "link": "https://link.coupang.com/a/hdcRTfNN2y",
-   "mall": "쿠팡",
-   "price": 12150,
-   "saving": 35,
-   "sentAt": "2026-09-21T07:41:00.000+09:00",
-   "title": "해태제과 홈런볼 스윗커스타드 4P, 164g, * 4개",
-   "uid": "2192307126"
   }
  ]
 }
