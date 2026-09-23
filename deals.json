@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-24T07:24:46.699+09:00",
+ "updated": "2026-09-24T07:37:37.150+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3011227982",
+   "mall": "쿠팡",
+   "title": "매일두유 99.9 플레인, 190ml, 24개",
+   "price": 12020,
+   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/139627710988148-dd5d246c-120d-451a-9d79-6e8926882a1e.png",
+   "sentAt": "2026-09-24T07:37:36.457+09:00",
+   "saving": 22,
+   "baseline": 15450,
+   "baselineNote": "판매글 32곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/f9BiBhejsq"
+  },
   {
    "uid": "1673941914",
    "mall": "쿠팡",
@@ -717,18 +730,6 @@
    "title": "마니커에프앤지 도톰 한입 산적구이 너비아니, 1kg, 2개",
    "uid": "4230371967",
    "unit": "[object Object]"
-  },
-  {
-   "baseline": 14080,
-   "baselineNote": "판매글 4곳 최저가",
-   "image": "https://shopping.toss.im/live/temp/2026-09-10/c1c5ba20-5c8a-4a2c-87aa-2a937f5517d5.jpeg",
-   "link": "https://toss.im/_m/fUPqFU9x",
-   "mall": "토스쇼핑",
-   "price": 8990,
-   "saving": 36,
-   "sentAt": "2026-09-21T15:44:15.930+09:00",
-   "title": "네오디뮴 자석고리 자석걸이, 180도 회전, 대, 실버, 7kg, 1세트",
-   "uid": "3458513504"
   }
  ]
 }
