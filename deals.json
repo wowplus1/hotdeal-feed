@@ -1,7 +1,19 @@
 {
- "updated": "2026-09-23T21:30:49.509+09:00",
+ "updated": "2026-09-24T07:02:54.072+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4017004623",
+   "mall": "쿠팡",
+   "title": "올가홀푸드 전통 발효 진액 약도라지 10g x 10p + 생강 진액 10g x 10p + 흑마늘 10g x 10p 진액 선물세트 10g*1세트",
+   "price": 19500,
+   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1289875134215208-95cf8477-0374-4b5b-8daf-f2560c5687b0.png",
+   "sentAt": "2026-09-24T07:02:53.258+09:00",
+   "saving": 50,
+   "baseline": 38700,
+   "baselineNote": "판매글 3곳 최저가",
+   "link": "https://link.coupang.com/a/hh8SCwMGSO"
+  },
   {
    "uid": "5386602829",
    "mall": "토스쇼핑",
@@ -715,18 +727,6 @@
    "sentAt": "2026-09-21T15:07:26.982+09:00",
    "title": "이지드롭 변기크리너 뉴 레몬향 리필, 5개",
    "uid": "3506420255"
-  },
-  {
-   "baseline": 14628,
-   "baselineNote": "판매글 21곳 최저가",
-   "image": "https://shopping.toss.im/live/taca/ai/NjgxM2Fj/U3JUaHk3RHJkSk5NUElaaGx0SUpIbmFoc095TUpXa1NNMXF1YTBYMmN0Zz0.png",
-   "link": "https://toss.im/_m/Ji4ihgVq",
-   "mall": "토스쇼핑",
-   "price": 10500,
-   "saving": 28,
-   "sentAt": "2026-09-21T14:55:00.000+09:00",
-   "title": "네이처 그래놀라, 1kg, 1개",
-   "uid": "5205578992"
   }
  ]
 }
