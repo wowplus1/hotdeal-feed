@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-24T07:02:54.072+09:00",
+ "updated": "2026-09-24T07:06:36.392+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8527336871",
+   "mall": "쿠팡",
+   "title": "샤워메이트 뉴 산양유 비누 버베나, 90g, 12개입",
+   "price": 6860,
+   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/db05/7cc989748d59bbac3c805015e0214030a496af1de85863395254172c2245.jpg",
+   "sentAt": "2026-09-24T07:06:35.744+09:00",
+   "saving": 30,
+   "baseline": 9800,
+   "baselineNote": "판매글 17곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hh89uFIaMS"
+  },
   {
    "uid": "4017004623",
    "mall": "쿠팡",
@@ -715,18 +728,6 @@
    "sentAt": "2026-09-21T15:12:22.170+09:00",
    "title": "휴대용 공기펌프 PR-375, 블랙, 1개",
    "uid": "2449058269"
-  },
-  {
-   "baseline": 20900,
-   "baselineNote": "판매글 3곳 최저가",
-   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1209025925880078-81124ef9-378e-42b0-8d05-7db2027004a5.jpg",
-   "link": "https://link.coupang.com/a/hdINBN4GI0",
-   "mall": "쿠팡",
-   "price": 14830,
-   "saving": 29,
-   "sentAt": "2026-09-21T15:07:26.982+09:00",
-   "title": "이지드롭 변기크리너 뉴 레몬향 리필, 5개",
-   "uid": "3506420255"
   }
  ]
 }
