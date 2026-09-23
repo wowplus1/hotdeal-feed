@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-23T10:42:51.348+09:00",
- "count": 56,
+ "updated": "2026-09-23T10:53:33.302+09:00",
+ "count": 57,
  "items": [
+  {
+   "uid": "4548534188",
+   "mall": "쿠팡",
+   "title": "팁코 쇼군 NFC 오렌지 주스 100%, 1L, 5개",
+   "price": 15610,
+   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/113044388688471-65199ab6-4780-448d-a9d8-2060b9a48562.jpg",
+   "sentAt": "2026-09-23T10:53:32.745+09:00",
+   "saving": 27,
+   "baseline": 21500,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hgKqpnLLNY"
+  },
   {
    "uid": "4280233578",
    "mall": "쿠팡",
