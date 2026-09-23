@@ -1,7 +1,19 @@
 {
- "updated": "2026-09-23T14:41:58.412+09:00",
+ "updated": "2026-09-23T15:24:30.188+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4429192139",
+   "mall": "쿠팡",
+   "title": "아토팜 MLE 페이스 유아로션, 80ml, 1개",
+   "price": 7970,
+   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/68861798077714-5b4833b7-7b7f-4ee5-89dc-fe0f3c3f9db7.jpg",
+   "sentAt": "2026-09-23T15:24:29.486+09:00",
+   "saving": 25,
+   "baseline": 10640,
+   "baselineNote": "판매글 14곳 최저가",
+   "link": "https://link.coupang.com/a/hg3O8uhNfM"
+  },
   {
    "uid": "9630429396",
    "mall": "11번가",
@@ -699,16 +711,6 @@
    "sentAt": "2026-09-20T21:35:00.000+09:00",
    "title": "웅진식품 더 빅토리아 쿨라임 탄산음료, 500ml, 20개",
    "uid": "7983992789"
-  },
-  {
-   "image": "https://shopping.toss.im/live/temp/2026-01-15/ee667f35-f38a-432f-85f2-c59ccb41e860.jpeg",
-   "link": "https://toss.im/_m/lHT9SaeB",
-   "mall": "토스쇼핑",
-   "price": 31999,
-   "saving": 18,
-   "sentAt": "2026-09-20T21:24:00.000+09:00",
-   "title": "서진 무선 진공 청소기, VC500, 1개",
-   "uid": "4007442473"
   }
  ]
 }
