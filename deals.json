@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-23T09:22:13.345+09:00",
- "count": 53,
+ "updated": "2026-09-23T09:50:02.673+09:00",
+ "count": 54,
  "items": [
+  {
+   "uid": "9754315203",
+   "mall": "쿠팡",
+   "title": "포인트앤 비타 로즈 멀티 클렌징 패드, 1개, 60매입",
+   "price": 4390,
+   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/09/11/14/3/223b81b4-2e76-4783-9f4f-3ab40c791fd6.jpg",
+   "sentAt": "2026-09-23T09:50:02.078+09:00",
+   "saving": 61,
+   "baseline": 11130,
+   "baselineNote": "98곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hgFWREICNU"
+  },
   {
    "uid": "7105030121",
    "mall": "쿠팡",
