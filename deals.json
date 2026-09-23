@@ -1,7 +1,19 @@
 {
- "updated": "2026-09-23T11:17:17.232+09:00",
- "count": 59,
+ "updated": "2026-09-23T11:32:06.001+09:00",
+ "count": 60,
  "items": [
+  {
+   "uid": "4180099560",
+   "mall": "롯데온",
+   "title": "리파인드 스탠다드 맨투맨 티셔츠 MMT200 / 5color",
+   "price": 17970,
+   "image": "https://contents.lotteon.com/itemimage/20260921173650/LO/26/13/93/29/11/bndl_img/LO2613932911_1.jpg",
+   "sentAt": "2026-09-23T11:32:05.442+09:00",
+   "saving": 24,
+   "baseline": 23500,
+   "baselineNote": "판매글 3곳 최저가",
+   "link": "http://app.ac/kECRx6S23"
+  },
   {
    "uid": "7815376520",
    "mall": "쿠팡",
