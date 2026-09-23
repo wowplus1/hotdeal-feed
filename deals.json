@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-23T17:52:24.840+09:00",
+ "updated": "2026-09-23T18:21:39.714+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8694917195",
+   "mall": "쿠팡",
+   "title": "곰도리 온열안대 오리지널 케어 플러스, 40개입, 1세트",
+   "price": 5900,
+   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/424992188187108-99f1b1cd-b985-4fd4-bd68-e783276dd5c2.png",
+   "sentAt": "2026-09-23T18:21:38.971+09:00",
+   "saving": 26,
+   "baseline": 8000,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hhguZZbXga"
+  },
   {
    "uid": "1550661896",
    "mall": "11번가",
@@ -706,18 +719,6 @@
    "sentAt": "2026-09-21T10:40:00.000+09:00",
    "title": "3대째 달인 재래 도시락김 27봉 선물세트",
    "uid": "6492656046"
-  },
-  {
-   "baseline": 35000,
-   "baselineNote": "판매글 8곳 최저가",
-   "image": "https://gdimg.gmarket.co.kr/4826434107/goodsimage",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4826434107",
-   "mall": "지마켓",
-   "price": 18700,
-   "saving": 47,
-   "sentAt": "2026-09-21T09:00:00.000+09:00",
-   "title": "한삼수 고려홍삼절편200g",
-   "uid": "2360753973"
   }
  ]
 }
