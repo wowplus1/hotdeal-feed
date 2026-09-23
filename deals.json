@@ -1,7 +1,45 @@
 {
- "updated": "2026-09-23T21:28:54.808+09:00",
+ "updated": "2026-09-23T21:30:49.509+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5386602829",
+   "mall": "토스쇼핑",
+   "title": "킨도 오슬림 밴드형 기저귀, 3단계, 34매입, 4팩",
+   "price": 45000,
+   "image": "https://shopping.toss.im/live/taca/ai/ZDUwNDcy/QUtXMlBGdmlmSG1EYWNUeXhqV0Rqam1PTVdsdFpTR2JPL1pVcHBJNVZHbk4.png",
+   "sentAt": "2026-09-23T21:30:48.980+09:00",
+   "saving": 31,
+   "baseline": 65130,
+   "baselineNote": "판매글 23곳 최저가",
+   "link": "https://toss.shopping/_m/dD2HYqDj"
+  },
+  {
+   "uid": "7523175988",
+   "mall": "토스쇼핑",
+   "title": "하기스 네이처메이드 밴드 기저귀, 2단계, 소형, 남여공용, 174개",
+   "price": 58900,
+   "image": "https://shopping.toss.im/live/temp/2026-08-08/b35f1880-d3f5-4cb3-953a-fdff0913779c.jpeg",
+   "sentAt": "2026-09-23T21:30:48.980+09:00",
+   "saving": 22,
+   "baseline": 75400,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/VGh8Q7od"
+  },
+  {
+   "uid": "5507756104",
+   "mall": "토스쇼핑",
+   "title": "펫푸드궁 산양분유, 소고기맛, 200g, 1통",
+   "price": 11500,
+   "image": "https://shopping.toss.im/live/taca/ai/v2/YTFmYWMy/TzFLMm5sU3QxMVZpdExWSmxUS2FxM1dNNnhKb0JUWldvc3RObGQzeXpKRT0.png",
+   "sentAt": "2026-09-23T21:30:48.980+09:00",
+   "saving": 11,
+   "baseline": 12850,
+   "baselineNote": "2곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/5dIqpARp"
+  },
   {
    "uid": "3711180984",
    "mall": "토스쇼핑",
@@ -689,43 +727,6 @@
    "sentAt": "2026-09-21T14:55:00.000+09:00",
    "title": "네이처 그래놀라, 1kg, 1개",
    "uid": "5205578992"
-  },
-  {
-   "baseline": 3820,
-   "baselineNote": "판매글 7곳 최저가",
-   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/89531c0d-a7dc-482c-a032-f33105421244145429577366304767.png",
-   "link": "https://link.coupang.com/a/hdEncgKJzM",
-   "mall": "쿠팡",
-   "price": 2980,
-   "saving": 22,
-   "sentAt": "2026-09-21T14:06:00.000+09:00",
-   "title": "뿌리또 위생장갑 200매",
-   "uid": "2509949381",
-   "unit": "개당 15원"
-  },
-  {
-   "baseline": 9780,
-   "baselineNote": "296곳 중 최저",
-   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/8517180766390-95fb083b-4b0f-45eb-a85a-34ced00a6718.jpg",
-   "link": "https://link.coupang.com/a/hdCUENn5bw",
-   "mall": "쿠팡",
-   "price": 6620,
-   "saving": 32,
-   "sentAt": "2026-09-21T13:45:00.000+09:00",
-   "title": "맛선생 꽃게 참치액, 950g, 2개",
-   "uid": "9739014866"
-  },
-  {
-   "baseline": 14600,
-   "baselineNote": "11곳 중 최저 · 무료배송",
-   "image": "https://gdimg.gmarket.co.kr/4671042163/goodsimage",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4671042163",
-   "mall": "지마켓",
-   "price": 12840,
-   "saving": 12,
-   "sentAt": "2026-09-21T13:45:00.000+09:00",
-   "title": "닥터페퍼제로 190ml x 30캔",
-   "uid": "4503086739"
   }
  ]
 }
