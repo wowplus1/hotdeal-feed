@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-23T10:57:45.368+09:00",
- "count": 58,
+ "updated": "2026-09-23T11:17:17.232+09:00",
+ "count": 59,
  "items": [
+  {
+   "uid": "7815376520",
+   "mall": "쿠팡",
+   "title": "프로쉬 섬유유연제 알로에베라 본품 750ml 2개",
+   "price": 6470,
+   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/108999338989331-03dc80c2-c7a4-462e-9a78-6c599754c26e.jpg",
+   "sentAt": "2026-09-23T11:17:16.678+09:00",
+   "saving": 61,
+   "baseline": 16440,
+   "baselineNote": "44곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hgL9JclNMi"
+  },
   {
    "uid": "6477994519",
    "mall": "롯데온",
