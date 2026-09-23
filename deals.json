@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-23T17:47:22.888+09:00",
+ "updated": "2026-09-23T17:52:24.840+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1550661896",
+   "mall": "11번가",
+   "title": "롯데웰푸드 보석바, 80ml, 40개",
+   "price": 15820,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/8430958900/B.webp?657242449",
+   "sentAt": "2026-09-23T17:52:24.289+09:00",
+   "saving": 37,
+   "baseline": 25270,
+   "baselineNote": "판매글 7곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/YtVNdBM63"
+  },
   {
    "uid": "6362360145",
    "mall": "11번가",
@@ -705,18 +718,6 @@
    "sentAt": "2026-09-21T09:00:00.000+09:00",
    "title": "한삼수 고려홍삼절편200g",
    "uid": "2360753973"
-  },
-  {
-   "baseline": 20420,
-   "baselineNote": "50곳 중 최저 · 무료배송",
-   "image": "https://shopping.toss.im/live/temp/2025-06-16/175dd140-c026-4092-b0fe-83912e77fb2b.png",
-   "link": "https://toss.im/_m/j26TXnpo",
-   "mall": "토스쇼핑",
-   "price": 9900,
-   "saving": 52,
-   "sentAt": "2026-09-21T08:41:00.000+09:00",
-   "title": "미미네 오리지널 국물떡볶이, 오리지널, 570g, 4봉",
-   "uid": "3047225095"
   }
  ]
 }
