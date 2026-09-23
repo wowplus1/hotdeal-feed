@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-23T18:33:16.070+09:00",
+ "updated": "2026-09-23T19:58:36.457+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8241238895",
+   "mall": "쿠팡",
+   "title": "웨더스오리지날 크리미필링 캔디, 80g, 3개",
+   "price": 3900,
+   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/718c/68ad2061dd2273d03947d639f717630940f4ba0503957c9d4ca218760e3c.jpg",
+   "sentAt": "2026-09-23T19:58:35.551+09:00",
+   "saving": 45,
+   "baseline": 7130,
+   "baselineNote": "15곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hhnpsSrcdg"
+  },
   {
    "uid": "6179444598",
    "mall": "쿠팡",
@@ -711,18 +724,6 @@
    "sentAt": "2026-09-21T11:16:00.000+09:00",
    "title": "마이키즈 정품 초코맛 150ml*24개",
    "uid": "2794707239"
-  },
-  {
-   "baseline": 10350,
-   "baselineNote": "판매글 8곳 최저가",
-   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1080033451518268-7439100f-4785-49b8-9f1b-ba4ab0546e9f.jpg",
-   "link": "https://link.coupang.com/a/hdrVwbHVBY",
-   "mall": "쿠팡",
-   "price": 6480,
-   "saving": 37,
-   "sentAt": "2026-09-21T11:12:00.000+09:00",
-   "title": "참그린 순수발효 식물 설거지 주방세제, 3.87L, 1개",
-   "uid": "7544972694"
   }
  ]
 }
