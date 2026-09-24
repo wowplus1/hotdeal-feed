@@ -1,7 +1,19 @@
 {
- "updated": "2026-09-24T16:03:05.549+09:00",
+ "updated": "2026-09-24T18:26:07.835+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7087647873",
+   "mall": "11번가",
+   "title": "리벤스 프리미엄 세라믹 스텐 통3중 IH 인덕션 후라이팬 24cm",
+   "price": 15900,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/0/6/5/7/5/2/XjlVN/8103065752_237684831.jpg",
+   "sentAt": "2026-09-24T18:26:07.076+09:00",
+   "saving": 18,
+   "baseline": 19349,
+   "baselineNote": "판매글 15곳 최저가",
+   "link": "http://app.ac/RECkIoS33"
+  },
   {
    "uid": "9041303375",
    "mall": "쿠팡",
@@ -713,19 +725,6 @@
    "baseline": 11540,
    "baselineNote": "판매글 10곳 최저가",
    "link": "https://link.coupang.com/a/hfdSYccbJY"
-  },
-  {
-   "uid": "7588229110",
-   "mall": "지마켓",
-   "title": "우유에빠지다 바디로션 1000ml 2개",
-   "price": 11500,
-   "image": "https://gdimg.gmarket.co.kr/2630641040/goodsimage",
-   "sentAt": "2026-09-22T10:50:11.533+09:00",
-   "saving": 11,
-   "baseline": 12930,
-   "baselineNote": "32곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2630641040"
   }
  ]
 }
