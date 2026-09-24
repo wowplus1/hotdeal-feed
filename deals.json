@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-25T07:09:30.398+09:00",
+ "updated": "2026-09-25T07:15:45.857+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3692842840",
+   "mall": "쿠팡",
+   "title": "콘푸로스트 컵 시리얼, 40g, 12개",
+   "price": 7820,
+   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/0926/cf9c1388780be49218f1a5d459071d8a87b4df6e23ebe5bd38087d13c78a.jpg",
+   "sentAt": "2026-09-25T07:15:45.119+09:00",
+   "saving": 53,
+   "baseline": 16554,
+   "baselineNote": "판매글 18곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hjOF58Eg3M"
+  },
   {
    "uid": "7346491858",
    "mall": "쿠팡",
@@ -714,18 +727,6 @@
    "baseline": 13410,
    "baselineNote": "32곳 중 최저",
    "link": "https://link.coupang.com/a/hfm24xTYSi"
-  },
-  {
-   "uid": "9749163054",
-   "mall": "토스쇼핑",
-   "title": "티피링크 3MP 회전형 스마트 홈 Wi-Fi 카메라, TC71, 1개",
-   "price": 36700,
-   "image": "https://shopping.toss.im/live/taca/ai/YTAwZWQ0/TVRISEhzM09PSE0yZWVPTXljTWNjWVltNFk1dytaNXhqd1poeHZDNW5qaz0.png",
-   "sentAt": "2026-09-22T13:55:35.726+09:00",
-   "saving": 17,
-   "baseline": 44160,
-   "baselineNote": "판매글 30곳 최저가",
-   "link": "https://toss.im/_m/1Uiyu8z4"
   }
  ]
 }
