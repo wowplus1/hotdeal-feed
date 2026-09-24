@@ -1,7 +1,40 @@
 {
- "updated": "2026-09-24T07:37:37.150+09:00",
+ "updated": "2026-09-24T09:09:08.706+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2528803850",
+   "mall": "토스쇼핑",
+   "title": "토르소 그리페스 스켈레톤 오토매틱 다이아몬드 워치, T602M-RSC, 1개",
+   "price": 133980,
+   "image": "https://shopping.toss.im/live/taca/ai/ODlhNDlj/WjVQWWVTdVd4bS9HT0EyeC9sNllNVkE1dXRaVktXaDRQdFJaT2VmVXQ4WT0.png",
+   "sentAt": "2026-09-24T09:09:07.678+09:00",
+   "saving": 29,
+   "baseline": 189000,
+   "baselineNote": "판매글 4곳 최저가",
+   "link": "https://toss.shopping/_m/Zh6g8xq8"
+  },
+  {
+   "uid": "2486743657",
+   "mall": "토스쇼핑",
+   "title": "토르소 그리페스 스켈레톤 오토매틱 다이아몬드 워치, T602M-BBB, 1개",
+   "price": 133980,
+   "image": "https://shopping.toss.im/live/taca/ai/ODIxMTQw/T1pQb2VadkdaaGxubVpmbGFacW1iUVpwK2RZMXFmeG12bFI5Rys1UWcvRT0.png",
+   "sentAt": "2026-09-24T09:09:07.678+09:00",
+   "saving": 29,
+   "baseline": 189000,
+   "baselineNote": "판매글 3곳 최저가",
+   "link": "https://toss.shopping/_m/nSpUKHSv"
+  },
+  {
+   "uid": "7375720207",
+   "mall": "토스쇼핑",
+   "title": "발렌티노루디 VR6568A-RGBR 남자 시계 가죽 시계, 단품",
+   "price": 45900,
+   "image": "https://shopping.toss.im/live/taca/ai/YzEzMDQ1/QU9IdEhyVlBzZkJPc2tiSHVVMjVua0UrMFhGT1VVYlBxYSs1ZEJNVVdKdnY.png",
+   "sentAt": "2026-09-24T09:09:07.678+09:00",
+   "link": "https://toss.shopping/_m/1zYPgG87"
+  },
   {
    "uid": "3011227982",
    "mall": "쿠팡",
@@ -702,34 +735,6 @@
    "baselineNote": "판매글 16곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/kjwRvCa43"
-  },
-  {
-   "uid": "1531695319",
-   "mall": "롯데온",
-   "title": "K2실크스타 WAVE W KWU24142-JS",
-   "price": 78000,
-   "image": "https://contents.lotteon.com/itemimage/20260818151807/LE/12/22/28/09/84/_1/33/52/68/68/3/LE1222280984_1335268683_1.jpg",
-   "sentAt": "2026-09-21T17:15:51.754+09:00",
-   "link": "http://app.ac/DjwRv8a43"
-  },
-  {
-   "image": "https://contents.lotteon.com/itemimage/20260921103926/LO/26/20/03/90/52/bndl_img/LO2620039052_1.jpg",
-   "link": "http://app.ac/YtVTzsM73",
-   "mall": "롯데온",
-   "price": 18910,
-   "sentAt": "2026-09-21T17:04:40.679+09:00",
-   "title": "bhc 뿌링클+콜라1.25L",
-   "uid": "7232297999"
-  },
-  {
-   "image": "https://shopping.toss.im/live/product/28899935/d93beb2a-e1ca-4c3c-9dc7-5b3e32005004.jpeg",
-   "link": "https://toss.im/_m/fYzQQhpy",
-   "mall": "토스쇼핑",
-   "price": 13900,
-   "sentAt": "2026-09-21T16:34:41.802+09:00",
-   "title": "마니커에프앤지 도톰 한입 산적구이 너비아니, 1kg, 2개",
-   "uid": "4230371967",
-   "unit": "[object Object]"
   }
  ]
 }
