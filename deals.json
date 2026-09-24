@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-25T07:04:16.257+09:00",
+ "updated": "2026-09-25T07:09:30.398+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7346491858",
+   "mall": "쿠팡",
+   "title": "스카치브라이트 베이직 제로 스크래치 스펀지 수세미, 8개입, 1개",
+   "price": 6990,
+   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/374857959409947-07e13cd2-bf10-4480-81b1-e7c748917fa7.jpg",
+   "sentAt": "2026-09-25T07:09:29.707+09:00",
+   "saving": 31,
+   "baseline": 10100,
+   "baselineNote": "56곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gwa5a0JGX6"
+  },
   {
    "uid": "9214548565",
    "mall": "쿠팡",
@@ -713,18 +726,6 @@
    "baseline": 44160,
    "baselineNote": "판매글 30곳 최저가",
    "link": "https://toss.im/_m/1Uiyu8z4"
-  },
-  {
-   "uid": "3516294261",
-   "mall": "쿠팡",
-   "title": "다노클리닉 AS 아쿠아세럼 수분 헤어에센스, 250ml, 1개",
-   "price": 12560,
-   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2021/06/14/15/1/16582cd3-a7f5-4362-9511-3c7c7fd1f463.jpg",
-   "sentAt": "2026-09-22T13:32:46.476+09:00",
-   "saving": 25,
-   "baseline": 16730,
-   "baselineNote": "68곳 중 최저",
-   "link": "https://link.coupang.com/a/hfgV1KXo1A"
   }
  ]
 }
