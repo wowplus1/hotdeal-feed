@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-24T19:12:23.085+09:00",
+ "updated": "2026-09-25T07:04:16.257+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9214548565",
+   "mall": "쿠팡",
+   "title": "온더바디 코튼풋 발을 씻자 풋샴푸 비누향 리필 1개입*500ml*3개",
+   "price": 13230,
+   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/81d3a272-3046-49b5-9ed6-be7523611ab78441998113391443341.png",
+   "sentAt": "2026-09-25T07:04:15.450+09:00",
+   "saving": 18,
+   "baseline": 16100,
+   "baselineNote": "116곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hjNSVtV6WG"
+  },
   {
    "uid": "5055686977",
    "mall": "쿠팡",
@@ -712,19 +725,6 @@
    "baseline": 16730,
    "baselineNote": "68곳 중 최저",
    "link": "https://link.coupang.com/a/hfgV1KXo1A"
-  },
-  {
-   "uid": "4923308093",
-   "mall": "쿠팡",
-   "title": "하림 용가리 치킨 , 1kg, 2개",
-   "price": 16750,
-   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/82615689077121-a07649b2-43cb-46d6-8823-0ea9cd7a193c.jpg",
-   "sentAt": "2026-09-22T13:06:14.061+09:00",
-   "saving": 16,
-   "baseline": 19920,
-   "baselineNote": "257곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/g3GOkVzjG0"
   }
  ]
 }
