@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-25T07:15:45.857+09:00",
+ "updated": "2026-09-25T07:23:38.100+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8334502199",
+   "mall": "쿠팡",
+   "title": "닥터유 한입쏙 단백질바, 380g, 1개",
+   "price": 7660,
+   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/bc4c/bc49415b75acf6cdbd771286c468e9418d0c0c29f8b0d8886af147a22ce8.jpg",
+   "sentAt": "2026-09-25T07:23:37.473+09:00",
+   "saving": 25,
+   "baseline": 10180,
+   "baselineNote": "판매글 6곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gdTPCoofnw"
+  },
   {
    "uid": "3692842840",
    "mall": "쿠팡",
@@ -715,18 +728,6 @@
    "sentAt": "2026-09-22T15:08:49.865+09:00",
    "unit": "[object Object]",
    "link": "https://toss.im/_m/zluiUz4g"
-  },
-  {
-   "uid": "3803025465",
-   "mall": "쿠팡",
-   "title": "다슈 솔루션 퍼퓸 데오 바디스프레이 프레쉬 블루, 200ml, 1개",
-   "price": 8140,
-   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/1025_amir_coupang_oct_80k/45f6/6bf791173d71b8bc986e38deae845e5f21d7417335126a8833e9721d61a7.jpg",
-   "sentAt": "2026-09-22T14:58:30.503+09:00",
-   "saving": 39,
-   "baseline": 13410,
-   "baselineNote": "32곳 중 최저",
-   "link": "https://link.coupang.com/a/hfm24xTYSi"
   }
  ]
 }
