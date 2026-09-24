@@ -1,7 +1,19 @@
 {
- "updated": "2026-09-24T09:57:55.485+09:00",
+ "updated": "2026-09-24T11:56:01.077+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3109996151",
+   "mall": "롯데온",
+   "title": "최신 블루투스 6.0V 오픈형 이어링 이어폰 BZ-EO9",
+   "price": 29900,
+   "image": "https://contents.lotteon.com/itemimage/20260918221757/LO/26/16/77/75/38/_2/61/67/77/53/9/LO2616777538_2616777539_1.jpg",
+   "sentAt": "2026-09-24T11:56:00.199+09:00",
+   "saving": 61,
+   "baseline": 76140,
+   "baselineNote": "판매글 11곳 최저가",
+   "link": "http://app.ac/PbpTeWl13"
+  },
   {
    "uid": "4621735432",
    "mall": "롯데온",
@@ -718,19 +730,6 @@
    "baselineNote": "109곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hePzbkJBAG"
-  },
-  {
-   "uid": "4165864094",
-   "mall": "지마켓",
-   "title": "풀무원 톡스 콤부차 레몬 350ml 24캔",
-   "price": 12890,
-   "image": "https://gdimg.gmarket.co.kr/4422849650/goodsimage",
-   "sentAt": "2026-09-21T20:50:37.520+09:00",
-   "saving": 55,
-   "baseline": 28910,
-   "baselineNote": "판매글 23곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4422849650"
   }
  ]
 }
