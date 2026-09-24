@@ -1,7 +1,17 @@
 {
- "updated": "2026-09-24T12:13:17.104+09:00",
+ "updated": "2026-09-24T12:27:56.882+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2688063696",
+   "mall": "쿠팡",
+   "title": "펩시 생 제로 후레시 콜라, 600ml*6개",
+   "price": 9640,
+   "image": "https://t3a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/629e/0e9ddebc5ec607b36e3e755ab9c59a116b4af43adca2e9f9709c375198f8.jpg",
+   "sentAt": "2026-09-24T12:27:56.331+09:00",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/f9zhq25fiK"
+  },
   {
    "uid": "3282453420",
    "mall": "토스쇼핑",
@@ -716,19 +726,6 @@
    "baseline": 39000,
    "baselineNote": "판매글 7곳 최저가",
    "link": "https://toss.im/_m/nhNszxeB"
-  },
-  {
-   "uid": "4453994442",
-   "mall": "쿠팡",
-   "title": "첵스초코 쿠키앤크림 시리얼, 420g, 2개",
-   "price": 8570,
-   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/3a8a934b-b8c4-4847-b7be-20725dc931123515374390231033697.png",
-   "sentAt": "2026-09-22T07:29:30.221+09:00",
-   "saving": 54,
-   "baseline": 18660,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/heQZA069PU"
   }
  ]
 }
