@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-25T07:29:03.753+09:00",
+ "updated": "2026-09-25T07:52:36.137+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1977677262",
+   "mall": "쿠팡",
+   "title": "코카콜라 제로 제로 무라벨, 370ml, 18개",
+   "price": 12330,
+   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/763923949485522-786b0053-fb3b-4733-a8ae-e446ac716c29.jpg",
+   "sentAt": "2026-09-25T07:52:35.378+09:00",
+   "saving": 20,
+   "baseline": 15420,
+   "baselineNote": "32곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gkKwVf9qSq"
+  },
   {
    "uid": "7133219722",
    "mall": "쿠팡",
@@ -721,16 +734,6 @@
    "baselineNote": "판매글 3곳 최저가",
    "unit": "[object Object]",
    "link": "https://toss.im/_m/Vvbz8mei"
-  },
-  {
-   "uid": "3933214808",
-   "mall": "쿠팡",
-   "title": "apple 에어태그 2세대 4개",
-   "price": 131330,
-   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/01/27/14/7/22d155d0-3b8d-4231-8f44-e37c56ba5364.jpg",
-   "sentAt": "2026-09-22T17:06:54.436+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hfwgj4WY9s"
   }
  ]
 }
