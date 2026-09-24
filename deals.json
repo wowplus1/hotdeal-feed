@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-24T13:31:56.245+09:00",
+ "updated": "2026-09-24T14:57:07.810+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1196266749",
+   "mall": "11번가",
+   "title": "국내산 냉장 다진마늘 1kg x 2팩",
+   "price": 11590,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/1/1/0/7/7/0/uByOc/9382110770_239136346.jpg",
+   "sentAt": "2026-09-24T14:57:07.021+09:00",
+   "saving": 27,
+   "baseline": 15980,
+   "baselineNote": "다른 곳 최저",
+   "unit": "[object Object]",
+   "link": "http://app.ac/HtVvXQM73"
+  },
   {
    "uid": "3897423752",
    "mall": "쿠팡",
@@ -715,18 +728,6 @@
    "baseline": 25120,
    "baselineNote": "판매글 6곳 최저가",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4804344348"
-  },
-  {
-   "uid": "4207455229",
-   "mall": "쿠팡",
-   "title": "벨베이비 휴대용 틴케이스 미니 자석블럭 2cm 39p, 숫자나라, 1개",
-   "price": 16980,
-   "image": "https://t3a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/79477827045334-15cc8d44-37eb-40e1-a9de-1d6290ddf610.jpg",
-   "sentAt": "2026-09-22T10:02:02.828+09:00",
-   "saving": 24,
-   "baseline": 22400,
-   "baselineNote": "판매글 5곳 최저가",
-   "link": "https://link.coupang.com/a/he1Tpss0WG"
   }
  ]
 }
