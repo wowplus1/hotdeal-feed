@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-25T07:23:38.100+09:00",
+ "updated": "2026-09-25T07:29:03.753+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7133219722",
+   "mall": "쿠팡",
+   "title": "첫맛 만능 비빔 무침 양념, 1.1kg, 1개",
+   "price": 3950,
+   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/310e48ba-6eed-4a85-8531-603a44d2d8c85489819512140784727.png",
+   "sentAt": "2026-09-25T07:29:03.053+09:00",
+   "saving": 39,
+   "baseline": 6500,
+   "baselineNote": "다른 곳 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hjPDhtw9JY"
+  },
   {
    "uid": "8334502199",
    "mall": "쿠팡",
@@ -718,16 +731,6 @@
    "sentAt": "2026-09-22T17:06:54.436+09:00",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hfwgj4WY9s"
-  },
-  {
-   "uid": "7329993910",
-   "mall": "토스쇼핑",
-   "title": "다용도 손잡이 수납함, 10개",
-   "price": 8319,
-   "image": "https://shopping.toss.im/live/temp/2025-07-22/f1f41bcc-ce5d-4d8b-8f6c-6e09e4fc8fe0.jpeg",
-   "sentAt": "2026-09-22T15:08:49.865+09:00",
-   "unit": "[object Object]",
-   "link": "https://toss.im/_m/zluiUz4g"
   }
  ]
 }
