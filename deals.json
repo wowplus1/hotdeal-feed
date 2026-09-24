@@ -1,7 +1,17 @@
 {
- "updated": "2026-09-24T14:57:07.810+09:00",
+ "updated": "2026-09-24T16:03:05.549+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9041303375",
+   "mall": "쿠팡",
+   "title": "아이솝 메가 센서티브 신생아 아기 세제 무향 3.1L 2개 31,700원",
+   "price": 31700,
+   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/d708/b3c43c97cfb881ef5cf722d3fe111cec458d4ce025259acd2f1b16bc8fc4.png",
+   "sentAt": "2026-09-24T16:03:04.637+09:00",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hiLuVAFW9Y"
+  },
   {
    "uid": "1196266749",
    "mall": "11번가",
@@ -716,18 +726,6 @@
    "baselineNote": "32곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2630641040"
-  },
-  {
-   "uid": "5431826778",
-   "mall": "지마켓",
-   "title": "피지 모락셀라 실내건조 섬유유연제 코튼향 2L + 리필 1.5L",
-   "price": 19630,
-   "image": "https://gdimg.gmarket.co.kr/4804344348/goodsimage",
-   "sentAt": "2026-09-22T10:31:25.442+09:00",
-   "saving": 22,
-   "baseline": 25120,
-   "baselineNote": "판매글 6곳 최저가",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4804344348"
   }
  ]
 }
