@@ -1,7 +1,19 @@
 {
- "updated": "2026-09-24T12:27:56.882+09:00",
+ "updated": "2026-09-24T13:17:34.108+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8965864895",
+   "mall": "11번가",
+   "title": "짜르르 프리미엄 짜장라면 140g 12입+ 전용 타포린백 증정",
+   "price": 12770,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9436387160/B.webp?912376730",
+   "sentAt": "2026-09-24T13:17:33.208+09:00",
+   "saving": 24,
+   "baseline": 16830,
+   "baselineNote": "판매글 5곳 최저가",
+   "link": "http://app.ac/zqnxiI233"
+  },
   {
    "uid": "2688063696",
    "mall": "쿠팡",
@@ -714,18 +726,6 @@
    "baseline": 60000,
    "baselineNote": "판매글 10곳 최저가",
    "link": "https://link.coupang.com/a/he1uGuYCMS"
-  },
-  {
-   "uid": "2473022392",
-   "mall": "토스쇼핑",
-   "title": "미스티파이 마스터 샐러드 스피너 8PC 세트, 화이트, 1개",
-   "price": 29500,
-   "image": "https://shopping.toss.im/live/taca/ai/v2/MDQwODFj/VWZwT3YyM0c4QTFrei9xSVJPRTZuSmk0OVU1NUhnem5CcklJWDZTN2JrRT0.png",
-   "sentAt": "2026-09-22T09:08:09.926+09:00",
-   "saving": 24,
-   "baseline": 39000,
-   "baselineNote": "판매글 7곳 최저가",
-   "link": "https://toss.im/_m/nhNszxeB"
   }
  ]
 }
