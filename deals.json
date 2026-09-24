@@ -1,7 +1,16 @@
 {
- "updated": "2026-09-25T07:52:36.137+09:00",
+ "updated": "2026-09-25T08:32:42.195+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7755442990",
+   "mall": "롯데온",
+   "title": "롯데 빼빼로 아몬드 패키지 10입+초코필드 패키지 10입",
+   "price": 13090,
+   "image": "https://contents.lotteon.com/itemimage/20260904155113/LO/27/63/42/45/23/_2/76/34/24/52/4/LO2763424523_2763424524_1.jpg",
+   "sentAt": "2026-09-25T08:32:41.292+09:00",
+   "link": "http://app.ac/RtVvzCM93"
+  },
   {
    "uid": "1977677262",
    "mall": "쿠팡",
@@ -721,19 +730,6 @@
    "sentAt": "2026-09-22T18:38:18.111+09:00",
    "unit": "[object Object]",
    "link": "https://toss.im/_m/PyCj7kte"
-  },
-  {
-   "uid": "4411601427",
-   "mall": "토스쇼핑",
-   "title": "탑프룻 망고젤리, 망고맛, 320g, 3개",
-   "price": 6930,
-   "image": "https://shopping.toss.im/live/temp/2026-09-11/171d606c-d573-4b2d-a4a7-590cffb62613.jpeg",
-   "sentAt": "2026-09-22T17:31:04.732+09:00",
-   "saving": 44,
-   "baseline": 12380,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://toss.im/_m/Vvbz8mei"
   }
  ]
 }
