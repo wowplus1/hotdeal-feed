@@ -1,7 +1,16 @@
 {
- "updated": "2026-09-24T09:11:29.072+09:00",
+ "updated": "2026-09-24T09:57:55.485+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4621735432",
+   "mall": "롯데온",
+   "title": "bhc 뿌링클+콜라1.25L",
+   "price": 18910,
+   "image": "https://contents.lotteon.com/itemimage/20260918150303/LO/26/20/69/98/46/bndl_img/LO2620699846_1.jpg",
+   "sentAt": "2026-09-24T09:57:54.954+09:00",
+   "link": "http://app.ac/xAGNKP523"
+  },
   {
    "uid": "5898596973",
    "mall": "토스쇼핑",
@@ -722,18 +731,6 @@
    "baselineNote": "판매글 23곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4422849650"
-  },
-  {
-   "uid": "2545628334",
-   "mall": "11번가",
-   "title": "후라이드+콜라1.25L",
-   "price": 15900,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/8/2/4/3/3/7/gHjff/9580824337_238971396.webp",
-   "sentAt": "2026-09-21T17:54:20.238+09:00",
-   "saving": 29,
-   "baseline": 22280,
-   "baselineNote": "판매글 3곳 최저가",
-   "link": "http://app.ac/ntVTHrM93"
   }
  ]
 }
