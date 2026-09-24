@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-24T13:17:34.108+09:00",
+ "updated": "2026-09-24T13:31:56.245+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3897423752",
+   "mall": "쿠팡",
+   "title": "스키피 크리미 땅콩버터 462g 2개",
+   "price": 10540,
+   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/96475471748997-3df0dbe0-49c2-4be6-985e-d885c13c06fc.png",
+   "sentAt": "2026-09-24T13:31:55.633+09:00",
+   "saving": 15,
+   "baseline": 12400,
+   "baselineNote": "299곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hiAHRTjLmC"
+  },
   {
    "uid": "8965864895",
    "mall": "11번가",
@@ -714,18 +727,6 @@
    "baseline": 22400,
    "baselineNote": "판매글 5곳 최저가",
    "link": "https://link.coupang.com/a/he1Tpss0WG"
-  },
-  {
-   "uid": "3114333642",
-   "mall": "쿠팡",
-   "title": "미즈노 남녀공용 스피드 런닝화 D1GH223022, 225사이즈",
-   "price": 20370,
-   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/aa5c/6e898bf40d01768121af7f7e28bd84ad15a091b512c096edee53c39e5507.jpg",
-   "sentAt": "2026-09-22T09:57:01.040+09:00",
-   "saving": 66,
-   "baseline": 60000,
-   "baselineNote": "판매글 10곳 최저가",
-   "link": "https://link.coupang.com/a/he1uGuYCMS"
   }
  ]
 }
