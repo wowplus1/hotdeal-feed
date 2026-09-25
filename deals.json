@@ -1,7 +1,16 @@
 {
- "updated": "2026-09-25T14:30:53.072+09:00",
+ "updated": "2026-09-25T15:11:03.510+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3150299014",
+   "mall": "지마켓",
+   "title": "K2 여성 경량 실크스타 구스다운 KWU24544",
+   "price": 70130,
+   "image": "https://gdimg.gmarket.co.kr/4829677404/goodsimage",
+   "sentAt": "2026-09-25T15:11:02.738+09:00",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4829677404"
+  },
   {
    "uid": "7829970107",
    "mall": "토스쇼핑",
@@ -718,18 +727,6 @@
    "baselineNote": "판매글 5곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4715900503"
-  },
-  {
-   "uid": "2015251570",
-   "mall": "쿠팡",
-   "title": "Sevenmoon여름 트레이닝복 세트 남자 속건 런닝 루즈핏 캐주얼 피트니스 빅사이즈 3XL",
-   "price": 3000,
-   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/3188/a4736cf1612fe074de32060a33fecec4f17cc9816a340807f60ec294de95.png",
-   "sentAt": "2026-09-22T19:41:20.444+09:00",
-   "saving": 67,
-   "baseline": 8990,
-   "baselineNote": "판매글 33곳 최저가",
-   "link": "https://link.coupang.com/a/hfHeBbFBAq"
   }
  ]
 }
