@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-25T18:15:34.142+09:00",
+ "updated": "2026-09-26T07:04:32.368+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3661918801",
+   "mall": "쿠팡",
+   "title": "분다버그 핑크 그레이프푸르트 탄산음료, 375ml, 12개",
+   "price": 18630,
+   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/0974/4bf6cefc414f13df1c717883f7b7bc459ffac17cca5bb4dd86953e79f3b7.png",
+   "sentAt": "2026-09-26T07:04:31.578+09:00",
+   "saving": 26,
+   "baseline": 25320,
+   "baselineNote": "판매글 20곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hlsOHZqLW8"
+  },
   {
    "uid": "4123370495",
    "mall": "롯데온",
@@ -712,19 +725,6 @@
    "baselineNote": "56곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "http://app.ac/gqnv15253"
-  },
-  {
-   "uid": "9754315203",
-   "mall": "쿠팡",
-   "title": "포인트앤 비타 로즈 멀티 클렌징 패드, 1개, 60매입",
-   "price": 4390,
-   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/09/11/14/3/223b81b4-2e76-4783-9f4f-3ab40c791fd6.jpg",
-   "sentAt": "2026-09-23T09:50:02.078+09:00",
-   "saving": 61,
-   "baseline": 11130,
-   "baselineNote": "98곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hgFWREICNU"
   }
  ]
 }
