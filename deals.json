@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-26T07:06:36.106+09:00",
+ "updated": "2026-09-26T07:29:49.172+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9260003478",
+   "mall": "쿠팡",
+   "title": "팔도비빔면 컵 115g 16개",
+   "price": 8280,
+   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/7887733774376160-96456dc6-fd64-444d-a96b-812740c14553.jpg",
+   "sentAt": "2026-09-26T07:29:48.585+09:00",
+   "saving": 30,
+   "baseline": 11790,
+   "baselineNote": "판매글 34곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hluCE63VLM"
+  },
   {
    "uid": "7995519401",
    "mall": "쿠팡",
@@ -711,19 +724,6 @@
    "baselineNote": "판매글 3곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hgKqpnLLNY"
-  },
-  {
-   "uid": "4280233578",
-   "mall": "쿠팡",
-   "title": "피지 모락셀라 냄새제거 부스터 캡슐세제 화이트머스크향 26개입",
-   "price": 12900,
-   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/12/02/18/0/6af2ac73-a9a5-4d61-8fa9-b2de89d256d0.png",
-   "sentAt": "2026-09-23T10:42:50.387+09:00",
-   "saving": 39,
-   "baseline": 21320,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hgJEQ1Zism"
   }
  ]
 }
