@@ -1,7 +1,19 @@
 {
- "updated": "2026-09-25T12:11:29.577+09:00",
+ "updated": "2026-09-25T13:46:15.747+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2660262779",
+   "mall": "지마켓",
+   "title": "예지미인 데일리코튼 롱 팬티라이너 81px2팩+20Px4팩",
+   "price": 11500,
+   "image": "https://gdimg.gmarket.co.kr/2815508381/goodsimage",
+   "sentAt": "2026-09-25T13:46:14.940+09:00",
+   "saving": 68,
+   "baseline": 35600,
+   "baselineNote": "판매글 24곳 최저가",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2815508381"
+  },
   {
    "uid": "7282733098",
    "mall": "쿠팡",
@@ -718,18 +730,6 @@
    "baseline": 10680,
    "baselineNote": "판매글 3곳 최저가",
    "link": "http://app.ac/gtVNr8M73"
-  },
-  {
-   "uid": "7193733857",
-   "mall": "지마켓",
-   "title": "ps5 디스크 드라이브",
-   "price": 4950,
-   "image": "https://gdimg.gmarket.co.kr/3374130133/goodsimage",
-   "sentAt": "2026-09-22T19:17:19.187+09:00",
-   "saving": 73,
-   "baseline": 18360,
-   "baselineNote": "판매글 12곳 최저가",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=3374130133"
   }
  ]
 }
