@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-25T15:11:03.510+09:00",
+ "updated": "2026-09-25T16:12:18.362+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1719949656",
+   "mall": "롯데온",
+   "title": "랩신 냄새제거부스터 캡슐세제 무향 25입",
+   "price": 10870,
+   "image": "https://contents.lotteon.com/itemimage/20260814181950/LO/25/68/51/77/33/_2/56/85/17/73/4/LO2568517733_2568517734_4.png",
+   "sentAt": "2026-09-25T16:12:17.614+09:00",
+   "saving": 16,
+   "baseline": 12900,
+   "baselineNote": "73곳 중 최저",
+   "unit": "[object Object]",
+   "link": "http://app.ac/mqnxSP293"
+  },
   {
    "uid": "3150299014",
    "mall": "지마켓",
@@ -714,19 +727,6 @@
    "baselineNote": "292곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/giJHiA7zzg"
-  },
-  {
-   "uid": "9148683495",
-   "mall": "지마켓",
-   "title": "환타 제로 파인 190ml 30캔 환타 북마크",
-   "price": 12160,
-   "image": "https://gdimg.gmarket.co.kr/4715900503/goodsimage",
-   "sentAt": "2026-09-22T19:57:39.597+09:00",
-   "saving": 36,
-   "baseline": 19090,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4715900503"
   }
  ]
 }
