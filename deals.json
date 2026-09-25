@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-25T11:03:17.250+09:00",
+ "updated": "2026-09-25T12:11:29.577+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7282733098",
+   "mall": "쿠팡",
+   "title": "솔리몬 스퀴즈드 레몬즙, 500ml, 2개",
+   "price": 8900,
+   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/06/27/17/7/ebab526d-0921-4bed-8b72-39ada2ed07d2.jpg",
+   "sentAt": "2026-09-25T12:11:28.663+09:00",
+   "saving": 24,
+   "baseline": 11690,
+   "baselineNote": "38곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gmhgp8WKLA"
+  },
   {
    "uid": "7111421865",
    "mall": "쿠팡",
@@ -717,19 +730,6 @@
    "baseline": 18360,
    "baselineNote": "판매글 12곳 최저가",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=3374130133"
-  },
-  {
-   "uid": "7345755077",
-   "mall": "쿠팡",
-   "title": "목우촌 뚝심 340g 4개",
-   "price": 10440,
-   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/126949572343378-43b60095-550b-4576-b482-d68121350676.jpg",
-   "sentAt": "2026-09-22T19:12:02.251+09:00",
-   "saving": 13,
-   "baseline": 12060,
-   "baselineNote": "22곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hfFceJ1cmi"
   }
  ]
 }
