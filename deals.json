@@ -1,7 +1,19 @@
 {
- "updated": "2026-09-25T16:12:18.362+09:00",
+ "updated": "2026-09-25T17:15:30.372+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6957790536",
+   "mall": "쿠팡",
+   "title": "코디 데일리 쿨링 타월 70g 5p, 1개",
+   "price": 1860,
+   "image": "https://t3a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/ecf663b5-a37a-4658-9c52-9758ae2d12e94700011761621347740.png",
+   "sentAt": "2026-09-25T17:15:29.187+09:00",
+   "saving": 63,
+   "baseline": 4990,
+   "baselineNote": "판매글 5곳 최저가",
+   "link": "https://link.coupang.com/a/hkvy1hS6LY"
+  },
   {
    "uid": "1719949656",
    "mall": "롯데온",
@@ -714,19 +726,6 @@
    "baselineNote": "판매글 9곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hgDV16okPA"
-  },
-  {
-   "uid": "2550811146",
-   "mall": "쿠팡",
-   "title": "스프라이트 제로 사이다, 350ml, 24개",
-   "price": 12840,
-   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/3057/8476349e6225fc49f978d71fc1ac8c504952e508d2c628f5463340b194b2.png",
-   "sentAt": "2026-09-23T07:02:52.431+09:00",
-   "saving": 13,
-   "baseline": 14800,
-   "baselineNote": "292곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/giJHiA7zzg"
   }
  ]
 }
