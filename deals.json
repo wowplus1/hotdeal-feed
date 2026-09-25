@@ -1,7 +1,19 @@
 {
- "updated": "2026-09-25T13:46:15.747+09:00",
+ "updated": "2026-09-25T14:30:53.072+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7829970107",
+   "mall": "토스쇼핑",
+   "title": "로랜텍 맥세이프 케이스 투명, 갤럭시S24, 1개",
+   "price": 5900,
+   "image": "https://shopping.toss.im/7cddfc98-ff15-4349-beb3-4843323e691e.jpg",
+   "sentAt": "2026-09-25T14:30:52.307+09:00",
+   "saving": 22,
+   "baseline": 7550,
+   "baselineNote": "판매글 8곳 최저가",
+   "link": "https://toss.shopping/_m/xzezBlXz"
+  },
   {
    "uid": "2660262779",
    "mall": "지마켓",
@@ -718,18 +730,6 @@
    "baseline": 8990,
    "baselineNote": "판매글 33곳 최저가",
    "link": "https://link.coupang.com/a/hfHeBbFBAq"
-  },
-  {
-   "uid": "2560011294",
-   "mall": "롯데온",
-   "title": "진도담은 전통간장 500ml",
-   "price": 6990,
-   "image": "https://contents.lotteon.com/itemimage/20260915160504/LO/26/39/97/00/29/_2/63/99/70/03/0/LO2639970029_2639970030_1.jpg",
-   "sentAt": "2026-09-22T19:25:13.646+09:00",
-   "saving": 35,
-   "baseline": 10680,
-   "baselineNote": "판매글 3곳 최저가",
-   "link": "http://app.ac/gtVNr8M73"
   }
  ]
 }
