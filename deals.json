@@ -1,7 +1,19 @@
 {
- "updated": "2026-09-26T07:04:32.368+09:00",
+ "updated": "2026-09-26T07:06:36.106+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7995519401",
+   "mall": "쿠팡",
+   "title": "락피도 철분 키즈 90g*1개",
+   "price": 10920,
+   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/865096744743421-72a621a8-7130-4cb5-8613-abbc69dd092d.jpg",
+   "sentAt": "2026-09-26T07:06:35.425+09:00",
+   "saving": 35,
+   "baseline": 16800,
+   "baselineNote": "판매글 9곳 최저가",
+   "link": "https://link.coupang.com/a/hlsXk2BFqC"
+  },
   {
    "uid": "3661918801",
    "mall": "쿠팡",
@@ -712,19 +724,6 @@
    "baselineNote": "판매글 4곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hgJEQ1Zism"
-  },
-  {
-   "uid": "9382602930",
-   "mall": "롯데온",
-   "title": "펩시콜라 엑스트라피즈 355ml 48캔",
-   "price": 26840,
-   "image": "https://contents.lotteon.com/itemimage/20260918111328/LO/27/23/25/58/98/_2/72/32/55/89/9/LO2723255898_2723255899_1.jpg",
-   "sentAt": "2026-09-23T10:07:11.597+09:00",
-   "saving": 19,
-   "baseline": 33000,
-   "baselineNote": "56곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "http://app.ac/gqnv15253"
   }
  ]
 }
