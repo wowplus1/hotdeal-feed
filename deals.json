@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-26T07:29:49.172+09:00",
+ "updated": "2026-09-26T08:42:28.239+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7184186501",
+   "mall": "쿠팡",
+   "title": "켈로그 펀 팩 시리얼 8개입",
+   "price": 9500,
+   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/c618/1f6b19f4c42a955a5a63210bea6fad1384f4199b95c8643b756f05390068.jpg",
+   "sentAt": "2026-09-26T08:42:27.434+09:00",
+   "saving": 25,
+   "baseline": 12600,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hlzNsrGGES"
+  },
   {
    "uid": "9260003478",
    "mall": "쿠팡",
@@ -711,19 +724,6 @@
    "sentAt": "2026-09-23T10:57:44.882+09:00",
    "unit": "[object Object]",
    "link": "http://app.ac/htVNHCM73"
-  },
-  {
-   "uid": "4548534188",
-   "mall": "쿠팡",
-   "title": "팁코 쇼군 NFC 오렌지 주스 100%, 1L, 5개",
-   "price": 15610,
-   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/113044388688471-65199ab6-4780-448d-a9d8-2060b9a48562.jpg",
-   "sentAt": "2026-09-23T10:53:32.745+09:00",
-   "saving": 27,
-   "baseline": 21500,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hgKqpnLLNY"
   }
  ]
 }
