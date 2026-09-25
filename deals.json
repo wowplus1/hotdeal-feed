@@ -1,7 +1,19 @@
 {
- "updated": "2026-09-25T17:15:30.372+09:00",
+ "updated": "2026-09-25T18:15:34.142+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4123370495",
+   "mall": "롯데온",
+   "title": "플루크 굿 캠퍼 슬로건 맨투맨티셔츠 FMT3050-Z / 5color",
+   "price": 25080,
+   "image": "https://contents.lotteon.com/itemimage/20260922154951/LO/26/31/90/70/20/bndl_img/LO2631907020_1.jpg",
+   "sentAt": "2026-09-25T18:15:33.400+09:00",
+   "saving": 24,
+   "baseline": 32800,
+   "baselineNote": "판매글 16곳 최저가",
+   "link": "http://app.ac/EECkmwS73"
+  },
   {
    "uid": "6957790536",
    "mall": "쿠팡",
@@ -713,19 +725,6 @@
    "baselineNote": "98곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hgFWREICNU"
-  },
-  {
-   "uid": "7105030121",
-   "mall": "쿠팡",
-   "title": "일양약품 장건강 마이크로바이옴 메가바이오틱스 프로 프리바이오틱스 생유산균 30포",
-   "price": 16900,
-   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/aeac/7ebd7515e9da2cf0ab85f123dd85a959afd0ea42bd7b5631100c15191664.jpg",
-   "sentAt": "2026-09-23T09:22:12.568+09:00",
-   "saving": 30,
-   "baseline": 24020,
-   "baselineNote": "판매글 9곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hgDV16okPA"
   }
  ]
 }
