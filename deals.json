@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-25T09:14:04.414+09:00",
+ "updated": "2026-09-25T11:03:17.250+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7111421865",
+   "mall": "쿠팡",
+   "title": "케라시스 두피 쿨링 단백질 샴푸, 1.5L, 2개 12,430원",
+   "price": 12430,
+   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/106810595858080-a05aaba3-ab58-440a-ad81-0aa3fc27a2b0.jpg",
+   "sentAt": "2026-09-25T11:03:16.489+09:00",
+   "saving": 12,
+   "baseline": 14160,
+   "baselineNote": "62곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hj4X2W7riK"
+  },
   {
    "uid": "3617696970",
    "mall": "쿠팡",
@@ -717,19 +730,6 @@
    "baselineNote": "22곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hfFceJ1cmi"
-  },
-  {
-   "uid": "9560491609",
-   "mall": "토스쇼핑",
-   "title": "서울식품 뻥이요 골드 오리지널, 60g, 15개",
-   "price": 4235,
-   "image": "https://shopping.toss.im/live/taca/ai/MWRkYzc5/QUowT21jMWpVMlp4bU9TZHppME9ZekhDOFp4c0dmRWxqcThPMm5GUzhTMk8.png",
-   "sentAt": "2026-09-22T19:08:23.473+09:00",
-   "saving": 64,
-   "baseline": 11730,
-   "baselineNote": "47곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://toss.im/_m/5wHVzSxe"
   }
  ]
 }
