@@ -1,7 +1,17 @@
 {
- "updated": "2026-09-25T08:32:42.195+09:00",
+ "updated": "2026-09-25T09:14:04.414+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3617696970",
+   "mall": "쿠팡",
+   "title": "피넛버터앤코 땅콩버터잼 크런치 타임 454g*1개",
+   "price": 5710,
+   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/1025_amir_coupang_oct_80k/40cf/bf5a75ad6a0413f9ffbe5a69bff5aef0f97ccd68739417b7b63e7cc3d2cd.jpg",
+   "sentAt": "2026-09-25T09:14:03.829+09:00",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hjXbuCtwUC"
+  },
   {
    "uid": "7755442990",
    "mall": "롯데온",
@@ -720,16 +730,6 @@
    "baselineNote": "47곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://toss.im/_m/5wHVzSxe"
-  },
-  {
-   "uid": "4348282237",
-   "mall": "토스쇼핑",
-   "title": "리치 오트밀 미니바이트, 1kg, 1개",
-   "price": 3500,
-   "image": "https://shopping.toss.im/live/taca/ai/Mzc3Njdk/QU9acDF0YXk4NWxMbVI5MUptTHZzMTVYclpMQjNYWXEyVzFVeW1HNjBmVys.png",
-   "sentAt": "2026-09-22T18:38:18.111+09:00",
-   "unit": "[object Object]",
-   "link": "https://toss.im/_m/PyCj7kte"
   }
  ]
 }
