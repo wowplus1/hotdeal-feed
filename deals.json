@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-27T07:09:25.102+09:00",
+ "updated": "2026-09-27T07:11:13.121+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6847265334",
+   "mall": "쿠팡",
+   "title": "슈가로로 애사비 스파클링 파인애플, 350ml, 48개",
+   "price": 19090,
+   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/4ef1/bb6421cca37b46b6f4df8b1f16e6034ccdc07fae33fb4fbcab4696f73521.png",
+   "sentAt": "2026-09-27T07:11:12.527+09:00",
+   "saving": 49,
+   "baseline": 37610,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hm8cVzUsLc"
+  },
   {
    "uid": "9961715593",
    "mall": "쿠팡",
@@ -715,19 +728,6 @@
    "baselineNote": "판매글 3곳 최저가",
    "unit": "[object Object]",
    "link": "https://toss.shopping/_m/VGh8Q7od"
-  },
-  {
-   "uid": "5507756104",
-   "mall": "토스쇼핑",
-   "title": "펫푸드궁 산양분유, 소고기맛, 200g, 1통",
-   "price": 11500,
-   "image": "https://shopping.toss.im/live/taca/ai/v2/YTFmYWMy/TzFLMm5sU3QxMVZpdExWSmxUS2FxM1dNNnhKb0JUWldvc3RObGQzeXpKRT0.png",
-   "sentAt": "2026-09-23T21:30:48.980+09:00",
-   "saving": 11,
-   "baseline": 12850,
-   "baselineNote": "2곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/5dIqpARp"
   }
  ]
 }
