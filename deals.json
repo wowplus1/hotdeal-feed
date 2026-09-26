@@ -1,7 +1,19 @@
 {
- "updated": "2026-09-26T16:08:22.168+09:00",
+ "updated": "2026-09-26T17:18:56.144+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6417905765",
+   "mall": "쿠팡",
+   "title": "데일리아 플레이 버블 클렌저 3종세트 600ml, 1세트",
+   "price": 6880,
+   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/244681172511477-caae04f6-10f4-4bb6-873f-e1b88a2e33cf.jpg",
+   "sentAt": "2026-09-26T17:18:55.320+09:00",
+   "saving": 52,
+   "baseline": 14300,
+   "baselineNote": "판매글 5곳 최저가",
+   "link": "https://link.coupang.com/a/hmaJgrjW3M"
+  },
   {
    "uid": "5546647638",
    "mall": "쿠팡",
@@ -719,18 +731,6 @@
    "baselineNote": "판매글 4곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/RjwkU0a53"
-  },
-  {
-   "uid": "4106027222",
-   "mall": "롯데온",
-   "title": "제주직송 노지감귤 3kg/5kg/10kg",
-   "price": 6240,
-   "image": "https://contents.lotteon.com/itemimage/20260923143730/LO/27/60/06/70/01/_2/76/00/67/00/9/LO2760067001_2760067009_2.JPG",
-   "sentAt": "2026-09-23T17:07:05.134+09:00",
-   "saving": 30,
-   "baseline": 8900,
-   "baselineNote": "판매글 37곳 최저가",
-   "link": "http://app.ac/mqnvd4253"
   }
  ]
 }
