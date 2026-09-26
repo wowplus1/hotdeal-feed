@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-26T17:32:16.568+09:00",
+ "updated": "2026-09-26T20:12:00.231+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6426963988",
+   "mall": "지마켓",
+   "title": "올리브 짜파게티20입 박스",
+   "price": 17100,
+   "image": "https://gdimg.gmarket.co.kr/2443764980/goodsimage",
+   "sentAt": "2026-09-26T20:11:59.201+09:00",
+   "saving": 23,
+   "baseline": 22250,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2443764980"
+  },
   {
    "uid": "5119136244",
    "mall": "쿠팡",
@@ -718,19 +731,6 @@
    "baselineNote": "판매글 4곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hhgvzgImQ0"
-  },
-  {
-   "uid": "8694917195",
-   "mall": "쿠팡",
-   "title": "곰도리 온열안대 오리지널 케어 플러스, 40개입, 1세트",
-   "price": 5900,
-   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/424992188187108-99f1b1cd-b985-4fd4-bd68-e783276dd5c2.png",
-   "sentAt": "2026-09-23T18:21:38.971+09:00",
-   "saving": 26,
-   "baseline": 8000,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hhguZZbXga"
   }
  ]
 }
