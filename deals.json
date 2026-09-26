@@ -1,7 +1,16 @@
 {
- "updated": "2026-09-27T07:05:13.998+09:00",
+ "updated": "2026-09-27T07:09:25.102+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9961715593",
+   "mall": "쿠팡",
+   "title": "소자매 오늘은 7월 콜드브루 더치커피 30ml*10개입*2개",
+   "price": 4110,
+   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/319427843202509-cf87f025-cb1f-49fb-b8ab-a847823ea40c.jpg",
+   "sentAt": "2026-09-27T07:09:24.545+09:00",
+   "link": "https://link.coupang.com/a/hm71R9p73k"
+  },
   {
    "uid": "8061016999",
    "mall": "쿠팡",
@@ -719,18 +728,6 @@
    "baselineNote": "2곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://toss.shopping/_m/5dIqpARp"
-  },
-  {
-   "uid": "3711180984",
-   "mall": "토스쇼핑",
-   "title": "뽀로로 비타7세븐, 1000정, 1개",
-   "price": 18400,
-   "image": "https://shopping.toss.im/live/taca/ai/v2/ZGVmZDli/TU5OSWRHOGJNem0yM0dUYkdXUFpqdWxtSnhLbW1jTTNURG5PWWRwRlBQdz0.png",
-   "sentAt": "2026-09-23T21:28:53.853+09:00",
-   "saving": 40,
-   "baseline": 30840,
-   "baselineNote": "판매글 37곳 최저가",
-   "link": "https://toss.shopping/_m/xElVps7c"
   }
  ]
 }
