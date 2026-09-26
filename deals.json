@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-27T07:01:50.806+09:00",
+ "updated": "2026-09-27T07:02:43.446+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2264834919",
+   "mall": "쿠팡",
+   "title": "폰타나 나폴리 뽀모도로 토마토 파스타소스, 1.5kg, 1개",
+   "price": 8380,
+   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/image_audit/advertiser/1751845987432/12354216-93b7-44cb-82b8-aca9da58f490.png",
+   "sentAt": "2026-09-27T07:02:42.924+09:00",
+   "saving": 16,
+   "baseline": 9980,
+   "baselineNote": "33곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hm7A5Js8Fo"
+  },
   {
    "uid": "4029279629",
    "mall": "쿠팡",
@@ -719,16 +732,6 @@
    "baselineNote": "다른 곳 최저",
    "unit": "[object Object]",
    "link": "https://toss.shopping/_m/lWwS5L3h"
-  },
-  {
-   "uid": "3031311535",
-   "mall": "토스쇼핑",
-   "title": "태양생활건강 뽀로로 아연담은 면역 쏙, 딸기, 100ml, 10개",
-   "price": 5400,
-   "image": "https://shopping.toss.im/live/taca/ai/v2/MzY5YmY0/ZTVlMXBzOGphTVp0cDlZeU9rMWs2Yll3TWxsTXpZNDV0bkRieWRsc0pMWT0.png",
-   "sentAt": "2026-09-23T21:28:53.853+09:00",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/7KZoOwmn"
   }
  ]
 }
