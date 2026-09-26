@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-26T20:35:02.800+09:00",
+ "updated": "2026-09-26T20:42:17.734+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6547915354",
+   "mall": "지마켓",
+   "title": "짜르르 8개",
+   "price": 9000,
+   "image": "https://gdimg.gmarket.co.kr/4796129920/goodsimage",
+   "sentAt": "2026-09-26T20:42:17.162+09:00",
+   "saving": 70,
+   "baseline": 29550,
+   "baselineNote": "판매글 10곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4796129920"
+  },
   {
    "uid": "4154645963",
    "mall": "쿠팡",
@@ -716,18 +729,6 @@
    "baselineNote": "15곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hhnpsSrcdg"
-  },
-  {
-   "uid": "6179444598",
-   "mall": "쿠팡",
-   "title": "씨앤피 뮤제너 카밍 앰플 미스트 100ml*1개",
-   "price": 7870,
-   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/007b5a31-0924-4adb-a6f6-842f8ec7537c13375580388967389310.png",
-   "sentAt": "2026-09-23T18:33:15.541+09:00",
-   "saving": 46,
-   "baseline": 14500,
-   "baselineNote": "121곳 중 최저",
-   "link": "https://link.coupang.com/a/hhhjpyULJc"
   }
  ]
 }
