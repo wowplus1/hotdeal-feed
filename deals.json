@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-26T17:18:56.144+09:00",
+ "updated": "2026-09-26T17:27:19.938+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2669421256",
+   "mall": "쿠팡",
+   "title": "그린핑거 힘센보습 인텐시브 크리미 오일, 180ml, 2개",
+   "price": 12940,
+   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/78d8/d1910073c421f765f42a6fc4228cc62369aa270b8edf582d705ad5a57081.jpg",
+   "sentAt": "2026-09-26T17:27:19.340+09:00",
+   "saving": 45,
+   "baseline": 23550,
+   "baselineNote": "판매글 9곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hmbj8osMCq"
+  },
   {
    "uid": "6417905765",
    "mall": "쿠팡",
@@ -718,19 +731,6 @@
    "baselineNote": "판매글 7곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/YtVNdBM63"
-  },
-  {
-   "uid": "6362360145",
-   "mall": "11번가",
-   "title": "롯데웰푸드 초코퍼지, 70ml, 40개",
-   "price": 15820,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/8430966085/B.webp?447637298",
-   "sentAt": "2026-09-23T17:47:21.939+09:00",
-   "saving": 21,
-   "baseline": 20090,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/RjwkU0a53"
   }
  ]
 }
