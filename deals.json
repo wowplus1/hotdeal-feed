@@ -1,7 +1,17 @@
 {
- "updated": "2026-09-26T20:12:00.231+09:00",
+ "updated": "2026-09-26T20:35:02.800+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4154645963",
+   "mall": "쿠팡",
+   "title": "프롬바다 완도 자른 다시마, 100g, 2개",
+   "price": 3780,
+   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/12920878477398-34b86ebe-454d-46ea-89e9-13f48c3bf894.png",
+   "sentAt": "2026-09-26T20:35:02.226+09:00",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hmoJ3XsArA"
+  },
   {
    "uid": "6426963988",
    "mall": "지마켓",
@@ -718,19 +728,6 @@
    "baseline": 14500,
    "baselineNote": "121곳 중 최저",
    "link": "https://link.coupang.com/a/hhhjpyULJc"
-  },
-  {
-   "uid": "6025441073",
-   "mall": "쿠팡",
-   "title": "곰도리 라이트 케어 플러스 온열안대 무향, 40개입, 1개",
-   "price": 5900,
-   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/02/10/10/6/74033193-8713-45d7-b93c-e457e89a112d.png",
-   "sentAt": "2026-09-23T18:22:36.724+09:00",
-   "saving": 26,
-   "baseline": 7990,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hhgvzgImQ0"
   }
  ]
 }
