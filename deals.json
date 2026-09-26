@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-26T11:07:40.658+09:00",
+ "updated": "2026-09-26T11:52:17.225+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6772347138",
+   "mall": "롯데온",
+   "title": "광동 비타500 제로 스파클링 유자 250ml 24캔",
+   "price": 11570,
+   "image": "https://contents.lotteon.com/itemimage/20260616122454/LO/27/02/08/11/22/_2/70/20/81/12/3/LO2702081122_2702081123_1.jpg",
+   "sentAt": "2026-09-26T11:52:16.458+09:00",
+   "saving": 27,
+   "baseline": 15890,
+   "baselineNote": "226곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "http://app.ac/OqnzXd243"
+  },
   {
    "uid": "2813765329",
    "mall": "쿠팡",
@@ -718,18 +731,6 @@
    "baselineNote": "43곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hg8FrhjISi"
-  },
-  {
-   "uid": "4429192139",
-   "mall": "쿠팡",
-   "title": "아토팜 MLE 페이스 유아로션, 80ml, 1개",
-   "price": 7970,
-   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/68861798077714-5b4833b7-7b7f-4ee5-89dc-fe0f3c3f9db7.jpg",
-   "sentAt": "2026-09-23T15:24:29.486+09:00",
-   "saving": 25,
-   "baseline": 10640,
-   "baselineNote": "판매글 14곳 최저가",
-   "link": "https://link.coupang.com/a/hg3O8uhNfM"
   }
  ]
 }
