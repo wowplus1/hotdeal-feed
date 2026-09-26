@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-26T10:12:01.062+09:00",
+ "updated": "2026-09-26T11:01:38.174+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8824096784",
+   "mall": "쿠팡",
+   "title": "청우식품 쫀득초코칩, 240g, 5개",
+   "price": 9620,
+   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/438571341888737-dec23803-cee9-4c68-a5ad-36a06cf86d38.jpg",
+   "sentAt": "2026-09-26T11:01:37.602+09:00",
+   "saving": 61,
+   "baseline": 24370,
+   "baselineNote": "47곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gJjug2XebA"
+  },
   {
    "uid": "1349465497",
    "mall": "쿠팡",
@@ -714,16 +727,6 @@
    "sentAt": "2026-09-23T14:41:57.617+09:00",
    "unit": "[object Object]",
    "link": "http://app.ac/hbp9o5l63"
-  },
-  {
-   "uid": "1930238860",
-   "mall": "쿠팡",
-   "title": "씨그램 레몬 무라벨, 350ml, 24개",
-   "price": 9680,
-   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/33455254882561-69061bdf-a29e-415b-84ca-43765250d974.jpg",
-   "sentAt": "2026-09-23T13:19:29.749+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hgURMD1Aom"
   }
  ]
 }
