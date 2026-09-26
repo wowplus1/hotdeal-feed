@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-26T17:27:19.938+09:00",
+ "updated": "2026-09-26T17:32:16.568+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5119136244",
+   "mall": "쿠팡",
+   "title": "친수 스위트 칠리소스, 295g, 2개",
+   "price": 2980,
+   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/dbef6781-eb5d-4711-9c60-9b96c18107885371924079785429654.png",
+   "sentAt": "2026-09-26T17:32:15.989+09:00",
+   "saving": 42,
+   "baseline": 5110,
+   "baselineNote": "판매글 8곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hmbDEO8dwa"
+  },
   {
    "uid": "2669421256",
    "mall": "쿠팡",
@@ -718,19 +731,6 @@
    "baselineNote": "판매글 5곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hhguZZbXga"
-  },
-  {
-   "uid": "1550661896",
-   "mall": "11번가",
-   "title": "롯데웰푸드 보석바, 80ml, 40개",
-   "price": 15820,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/8430958900/B.webp?657242449",
-   "sentAt": "2026-09-23T17:52:24.289+09:00",
-   "saving": 37,
-   "baseline": 25270,
-   "baselineNote": "판매글 7곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/YtVNdBM63"
   }
  ]
 }
