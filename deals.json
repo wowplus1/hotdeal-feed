@@ -1,7 +1,19 @@
 {
- "updated": "2026-09-27T07:02:43.446+09:00",
+ "updated": "2026-09-27T07:05:13.998+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8061016999",
+   "mall": "쿠팡",
+   "title": "신일 EMF 전기요 SEB-H220CP 더블 135*180 cm",
+   "price": 19900,
+   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/e2aa/58af46344a75ee54572e56165e4b69ed1bdd98067ce5cc13d1b5e06ae0a0.jpg",
+   "sentAt": "2026-09-27T07:05:13.452+09:00",
+   "saving": 31,
+   "baseline": 28760,
+   "baselineNote": "판매글 4곳 최저가",
+   "link": "https://link.coupang.com/a/havB3WJjRS"
+  },
   {
    "uid": "2264834919",
    "mall": "쿠팡",
@@ -719,19 +731,6 @@
    "baseline": 30840,
    "baselineNote": "판매글 37곳 최저가",
    "link": "https://toss.shopping/_m/xElVps7c"
-  },
-  {
-   "uid": "5190691481",
-   "mall": "토스쇼핑",
-   "title": "키즈텐 칼슘업, 30입, 1개",
-   "price": 38500,
-   "image": "https://shopping.toss.im/live/product/613101/32ab8a42-4913-4827-bf7b-c9d3e9f65c3e.jpg",
-   "sentAt": "2026-09-23T21:28:53.853+09:00",
-   "saving": 10,
-   "baseline": 42750,
-   "baselineNote": "다른 곳 최저",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/lWwS5L3h"
   }
  ]
 }
