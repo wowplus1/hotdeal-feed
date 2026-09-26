@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-26T11:52:17.225+09:00",
+ "updated": "2026-09-26T15:25:23.555+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5933351400",
+   "mall": "쿠팡",
+   "title": "리템 하이브 데스크오거나이저, 화이트, 2개",
+   "price": 8750,
+   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/907c/8a61ee3d19200855e71185e90692f76a8ff4a810934653af2a5501e9e93c.jpg",
+   "sentAt": "2026-09-26T15:25:22.784+09:00",
+   "saving": 59,
+   "baseline": 21140,
+   "baselineNote": "판매글 23곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hl2BVLjiqy"
+  },
   {
    "uid": "6772347138",
    "mall": "롯데온",
@@ -718,19 +731,6 @@
    "baselineNote": "421곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "http://app.ac/6AGTmi573"
-  },
-  {
-   "uid": "3709825906",
-   "mall": "쿠팡",
-   "title": "불스원샷 익스트림 연료 첨가제 가솔린용 2개",
-   "price": 20960,
-   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/322614522163442-334ad817-4b8e-49aa-9728-be8766863cac.jpg",
-   "sentAt": "2026-09-23T16:31:58.421+09:00",
-   "saving": 20,
-   "baseline": 26300,
-   "baselineNote": "43곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hg8FrhjISi"
   }
  ]
 }
