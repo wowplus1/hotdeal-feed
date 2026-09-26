@@ -1,7 +1,19 @@
 {
- "updated": "2026-09-26T09:05:20.927+09:00",
+ "updated": "2026-09-26T10:03:34.018+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6086326977",
+   "mall": "쿠팡",
+   "title": "아토팜 mle 페이스 유아로션 80ml 5,670원",
+   "price": 5670,
+   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2740021607357893-4b77647a-519d-475a-ad45-77b3e8195f2f.JPG",
+   "sentAt": "2026-09-26T10:03:33.111+09:00",
+   "saving": 40,
+   "baseline": 9500,
+   "baselineNote": "판매글 14곳 최저가",
+   "link": "https://link.coupang.com/a/hlFAqPB73k"
+  },
   {
    "uid": "8516070645",
    "mall": "토스쇼핑",
@@ -714,19 +726,6 @@
    "baseline": 23500,
    "baselineNote": "판매글 3곳 최저가",
    "link": "http://app.ac/kECRx6S23"
-  },
-  {
-   "uid": "7815376520",
-   "mall": "쿠팡",
-   "title": "프로쉬 섬유유연제 알로에베라 본품 750ml 2개",
-   "price": 6470,
-   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/108999338989331-03dc80c2-c7a4-462e-9a78-6c599754c26e.jpg",
-   "sentAt": "2026-09-23T11:17:16.678+09:00",
-   "saving": 61,
-   "baseline": 16440,
-   "baselineNote": "44곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hgL9JclNMi"
   }
  ]
 }
