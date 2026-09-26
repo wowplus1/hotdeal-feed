@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-26T08:42:28.239+09:00",
+ "updated": "2026-09-26T09:05:20.927+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8516070645",
+   "mall": "토스쇼핑",
+   "title": "국내산 꽃상추, 2kg 내외, 1개",
+   "price": 7500,
+   "image": "https://shopping.toss.im/live/taca/ai/v2/ZmQ0YjVk/WTR6cGNaNTgwNkk1UGJETDdlM0Z6TTN4eE1hTTVEWXVsK0dUcnBXdzZpcz0.png",
+   "sentAt": "2026-09-26T09:05:20.333+09:00",
+   "saving": 21,
+   "baseline": 9500,
+   "baselineNote": "판매글 7곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/BLHWtLrn"
+  },
   {
    "uid": "7184186501",
    "mall": "쿠팡",
@@ -714,16 +727,6 @@
    "baselineNote": "44곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hgL9JclNMi"
-  },
-  {
-   "uid": "6477994519",
-   "mall": "롯데온",
-   "title": "무항생제 HACCP인증 자연방사 난각번호 1번 유정란 20구 계란농장",
-   "price": 7390,
-   "image": "https://contents.lotteon.com/itemimage/20260922165744/LO/27/77/83/11/50/_2/77/78/31/15/1/LO2777831150_2777831151_1.jpg",
-   "sentAt": "2026-09-23T10:57:44.882+09:00",
-   "unit": "[object Object]",
-   "link": "http://app.ac/htVNHCM73"
   }
  ]
 }
