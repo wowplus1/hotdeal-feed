@@ -1,7 +1,17 @@
 {
- "updated": "2026-09-26T10:03:34.018+09:00",
+ "updated": "2026-09-26T10:12:01.062+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1349465497",
+   "mall": "쿠팡",
+   "title": "씨그램 레몬 무라벨 350ml 48개",
+   "price": 18980,
+   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/109603195991680-e358de38-4766-4074-b44b-c07a252a29ca.jpg",
+   "sentAt": "2026-09-26T10:12:00.350+09:00",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hlGejBs3zw"
+  },
   {
    "uid": "6086326977",
    "mall": "쿠팡",
@@ -714,18 +724,6 @@
    "sentAt": "2026-09-23T13:19:29.749+09:00",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hgURMD1Aom"
-  },
-  {
-   "uid": "4180099560",
-   "mall": "롯데온",
-   "title": "리파인드 스탠다드 맨투맨 티셔츠 MMT200 / 5color",
-   "price": 17970,
-   "image": "https://contents.lotteon.com/itemimage/20260921173650/LO/26/13/93/29/11/bndl_img/LO2613932911_1.jpg",
-   "sentAt": "2026-09-23T11:32:05.442+09:00",
-   "saving": 24,
-   "baseline": 23500,
-   "baselineNote": "판매글 3곳 최저가",
-   "link": "http://app.ac/kECRx6S23"
   }
  ]
 }
