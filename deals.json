@@ -1,7 +1,19 @@
 {
- "updated": "2026-09-27T17:22:06.605+09:00",
+ "updated": "2026-09-27T17:30:25.019+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8060684695",
+   "mall": "쿠팡",
+   "title": "리르 EGF 디판텐 리페어 크림, 60g, 1개",
+   "price": 2850,
+   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/9c2d5e02-0c83-4830-9322-fb8c2887f5507187859006694313260.png",
+   "sentAt": "2026-09-27T17:30:24.443+09:00",
+   "saving": 80,
+   "baseline": 14150,
+   "baselineNote": "판매글 24곳 최저가",
+   "link": "https://link.coupang.com/a/hnQsDEoJHM"
+  },
   {
    "uid": "6614079851",
    "mall": "토스쇼핑",
@@ -715,18 +727,6 @@
    "baseline": 16650,
    "baselineNote": "59곳 중 최저",
    "link": "https://toss.shopping/_m/TiKmqOWk"
-  },
-  {
-   "uid": "2528803850",
-   "mall": "토스쇼핑",
-   "title": "토르소 그리페스 스켈레톤 오토매틱 다이아몬드 워치, T602M-RSC, 1개",
-   "price": 133980,
-   "image": "https://shopping.toss.im/live/taca/ai/ODlhNDlj/WjVQWWVTdVd4bS9HT0EyeC9sNllNVkE1dXRaVktXaDRQdFJaT2VmVXQ4WT0.png",
-   "sentAt": "2026-09-24T09:09:07.678+09:00",
-   "saving": 29,
-   "baseline": 189000,
-   "baselineNote": "판매글 4곳 최저가",
-   "link": "https://toss.shopping/_m/Zh6g8xq8"
   }
  ]
 }
