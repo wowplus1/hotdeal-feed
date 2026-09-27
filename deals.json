@@ -1,7 +1,19 @@
 {
- "updated": "2026-09-27T10:10:27.485+09:00",
+ "updated": "2026-09-27T10:32:54.002+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5240940937",
+   "mall": "쿠팡",
+   "title": "바겐슈타이거 무연마제 스텐304 IH 퓨어폴리싱 케틀팟 2L*1개",
+   "price": 18610,
+   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/10/22/13/6/fe20dfe1-9bb7-4677-b35e-407e87dfd894.jpg",
+   "sentAt": "2026-09-27T10:32:52.738+09:00",
+   "saving": 34,
+   "baseline": 28340,
+   "baselineNote": "판매글 21곳 최저가",
+   "link": "https://link.coupang.com/a/gCQsws6gp2"
+  },
   {
    "uid": "2666674815",
    "mall": "쿠팡",
@@ -714,18 +726,6 @@
    "baselineNote": "판매글 17곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hh89uFIaMS"
-  },
-  {
-   "uid": "4017004623",
-   "mall": "쿠팡",
-   "title": "올가홀푸드 전통 발효 진액 약도라지 10g x 10p + 생강 진액 10g x 10p + 흑마늘 10g x 10p 진액 선물세트 10g*1세트",
-   "price": 19500,
-   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1289875134215208-95cf8477-0374-4b5b-8daf-f2560c5687b0.png",
-   "sentAt": "2026-09-24T07:02:53.258+09:00",
-   "saving": 50,
-   "baseline": 38700,
-   "baselineNote": "판매글 3곳 최저가",
-   "link": "https://link.coupang.com/a/hh8SCwMGSO"
   }
  ]
 }
