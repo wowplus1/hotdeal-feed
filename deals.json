@@ -1,7 +1,19 @@
 {
- "updated": "2026-09-28T07:19:25.132+09:00",
+ "updated": "2026-09-28T07:21:40.944+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1967518413",
+   "mall": "쿠팡",
+   "title": "에뛰드하우스 립 앤 아이 리무버, 250ml, 1개",
+   "price": 4500,
+   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/549615796488186-acb53100-3faf-4265-800f-1584437f1674.jpg",
+   "sentAt": "2026-09-28T07:21:39.773+09:00",
+   "saving": 38,
+   "baseline": 7290,
+   "baselineNote": "30곳 중 최저",
+   "link": "https://link.coupang.com/a/hoNRnb0qpo"
+  },
   {
    "uid": "6618613940",
    "mall": "쿠팡",
@@ -722,16 +734,6 @@
    "baseline": 19349,
    "baselineNote": "판매글 15곳 최저가",
    "link": "http://app.ac/RECkIoS33"
-  },
-  {
-   "uid": "9041303375",
-   "mall": "쿠팡",
-   "title": "아이솝 메가 센서티브 신생아 아기 세제 무향 3.1L 2개 31,700원",
-   "price": 31700,
-   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/d708/b3c43c97cfb881ef5cf722d3fe111cec458d4ce025259acd2f1b16bc8fc4.png",
-   "sentAt": "2026-09-24T16:03:04.637+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hiLuVAFW9Y"
   }
  ]
 }
