@@ -1,7 +1,19 @@
 {
- "updated": "2026-09-27T12:15:28.716+09:00",
+ "updated": "2026-09-27T16:19:15.877+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1576935393",
+   "mall": "쿠팡",
+   "title": "크리넥스 코튼처럼 부드러운 프리미엄 미니티슈 카카오프렌즈, 230매입, 6개",
+   "price": 5820,
+   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/281194090687917-9b48f7c0-2084-4a7d-a5dc-c8840ff1b689.jpg",
+   "sentAt": "2026-09-27T16:19:15.113+09:00",
+   "saving": 22,
+   "baseline": 7480,
+   "baselineNote": "판매글 40곳 최저가",
+   "link": "https://link.coupang.com/a/gl5T7Cy50K"
+  },
   {
    "uid": "4913140768",
    "mall": "롯데온",
@@ -714,15 +726,6 @@
    "baseline": 189000,
    "baselineNote": "판매글 3곳 최저가",
    "link": "https://toss.shopping/_m/nSpUKHSv"
-  },
-  {
-   "uid": "7375720207",
-   "mall": "토스쇼핑",
-   "title": "발렌티노루디 VR6568A-RGBR 남자 시계 가죽 시계, 단품",
-   "price": 45900,
-   "image": "https://shopping.toss.im/live/taca/ai/YzEzMDQ1/QU9IdEhyVlBzZkJPc2tiSHVVMjVua0UrMFhGT1VVYlBxYSs1ZEJNVVdKdnY.png",
-   "sentAt": "2026-09-24T09:09:07.678+09:00",
-   "link": "https://toss.shopping/_m/1zYPgG87"
   }
  ]
 }
