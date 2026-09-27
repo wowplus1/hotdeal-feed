@@ -1,7 +1,17 @@
 {
- "updated": "2026-09-27T07:11:13.121+09:00",
+ "updated": "2026-09-27T09:20:29.915+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3906931269",
+   "mall": "토스쇼핑",
+   "title": "침대시트 고정 밴드, 일자형, 블랙, 4개",
+   "price": 4500,
+   "image": "https://shopping.toss.im/live/temp/2025-12-31/027b9b0a-5955-4bf7-84c0-df00da87d8f4.png",
+   "sentAt": "2026-09-27T09:20:29.056+09:00",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/N98ODPon"
+  },
   {
    "uid": "6847265334",
    "mall": "쿠팡",
@@ -715,19 +725,6 @@
    "baseline": 65130,
    "baselineNote": "판매글 23곳 최저가",
    "link": "https://toss.shopping/_m/dD2HYqDj"
-  },
-  {
-   "uid": "7523175988",
-   "mall": "토스쇼핑",
-   "title": "하기스 네이처메이드 밴드 기저귀, 2단계, 소형, 남여공용, 174개",
-   "price": 58900,
-   "image": "https://shopping.toss.im/live/temp/2026-08-08/b35f1880-d3f5-4cb3-953a-fdff0913779c.jpeg",
-   "sentAt": "2026-09-23T21:30:48.980+09:00",
-   "saving": 22,
-   "baseline": 75400,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/VGh8Q7od"
   }
  ]
 }
