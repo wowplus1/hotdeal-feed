@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-28T07:09:16.041+09:00",
+ "updated": "2026-09-28T07:17:31.308+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3230055767",
+   "mall": "쿠팡",
+   "title": "코카콜라 오리지널 350ml*24개",
+   "price": 15430,
+   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/45775547563672-e9b83757-fd28-4a5d-92de-7ce0af9bf330.jpg",
+   "sentAt": "2026-09-28T07:17:30.593+09:00",
+   "saving": 23,
+   "baseline": 20040,
+   "baselineNote": "판매글 23곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hoNxnXXOzQ"
+  },
   {
    "uid": "3257009737",
    "mall": "쿠팡",
@@ -719,19 +732,6 @@
    "baselineNote": "다른 곳 최저",
    "unit": "[object Object]",
    "link": "http://app.ac/HtVvXQM73"
-  },
-  {
-   "uid": "3897423752",
-   "mall": "쿠팡",
-   "title": "스키피 크리미 땅콩버터 462g 2개",
-   "price": 10540,
-   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/96475471748997-3df0dbe0-49c2-4be6-985e-d885c13c06fc.png",
-   "sentAt": "2026-09-24T13:31:55.633+09:00",
-   "saving": 15,
-   "baseline": 12400,
-   "baselineNote": "299곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hiAHRTjLmC"
   }
  ]
 }
