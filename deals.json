@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-27T10:57:27.814+09:00",
+ "updated": "2026-09-27T11:07:23.662+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1507678876",
+   "mall": "쿠팡",
+   "title": "활명수 편안활 스트롱 까스활 농축액, 15g, 24개",
+   "price": 10780,
+   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/526401156876157-6c15ce8b-56cd-4fd1-bb01-056e7552c4be.jpg",
+   "sentAt": "2026-09-27T11:07:23.024+09:00",
+   "saving": 35,
+   "baseline": 16500,
+   "baselineNote": "판매글 8곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hno4psmSAK"
+  },
   {
    "uid": "6493870804",
    "mall": "쿠팡",
@@ -710,19 +723,6 @@
    "baselineNote": "판매글 32곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/f9BiBhejsq"
-  },
-  {
-   "uid": "1673941914",
-   "mall": "쿠팡",
-   "title": "벡셀 아이프라임 알카라인 AA건전지, 40개입, 1개",
-   "price": 10530,
-   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/8ec2/cdfd587ff76cd95bb8113921b993e2c7c4c40e55ee4070dd9d1bef1cbe9b.jpg",
-   "sentAt": "2026-09-24T07:24:46.001+09:00",
-   "saving": 28,
-   "baseline": 14570,
-   "baselineNote": "판매글 11곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hiarD5tVWm"
   }
  ]
 }
