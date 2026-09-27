@@ -1,7 +1,19 @@
 {
- "updated": "2026-09-27T21:22:12.440+09:00",
+ "updated": "2026-09-28T07:00:42.670+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4011982143",
+   "mall": "쿠팡",
+   "title": "나우푸드 아연 50mg, 250정, 1개",
+   "price": 4190,
+   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/4553/1b3252124dc55ad0a529351865657d2d415e0dd73b9e35c2c91498554b1e.jpg",
+   "sentAt": "2026-09-28T07:00:41.728+09:00",
+   "saving": 62,
+   "baseline": 11082,
+   "baselineNote": "33곳 중 최저",
+   "link": "https://link.coupang.com/a/hoMnb38sai"
+  },
   {
    "uid": "3660054255",
    "mall": "쿠팡",
@@ -716,18 +728,6 @@
    "sentAt": "2026-09-24T12:27:56.331+09:00",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/f9zhq25fiK"
-  },
-  {
-   "uid": "3282453420",
-   "mall": "토스쇼핑",
-   "title": "란센 무선 전동식 발각질제거기, BPL-03, 1개",
-   "price": 8900,
-   "image": "https://shopping.toss.im/live/temp/2026-09-10/c8124045-d20e-49c3-8aa8-3f301d24ef90.jpeg",
-   "sentAt": "2026-09-24T12:13:16.246+09:00",
-   "saving": 44,
-   "baseline": 15900,
-   "baselineNote": "판매글 4곳 최저가",
-   "link": "https://toss.shopping/_m/ZWP0CBsd"
   }
  ]
 }
