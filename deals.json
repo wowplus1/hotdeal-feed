@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-27T16:19:15.877+09:00",
+ "updated": "2026-09-27T17:22:06.605+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6614079851",
+   "mall": "토스쇼핑",
+   "title": "라라스윗 저당 토피넛콘, 35g, 10개",
+   "price": 9500,
+   "image": "https://shopping.toss.im/live/temp/2026-05-15/fcfdb4ae-296d-488f-9a30-96af60e7328b.png",
+   "sentAt": "2026-09-27T17:22:05.689+09:00",
+   "saving": 26,
+   "baseline": 12900,
+   "baselineNote": "판매글 15곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/DsCifLqo"
+  },
   {
    "uid": "1576935393",
    "mall": "쿠팡",
@@ -714,18 +727,6 @@
    "baseline": 189000,
    "baselineNote": "판매글 4곳 최저가",
    "link": "https://toss.shopping/_m/Zh6g8xq8"
-  },
-  {
-   "uid": "2486743657",
-   "mall": "토스쇼핑",
-   "title": "토르소 그리페스 스켈레톤 오토매틱 다이아몬드 워치, T602M-BBB, 1개",
-   "price": 133980,
-   "image": "https://shopping.toss.im/live/taca/ai/ODIxMTQw/T1pQb2VadkdaaGxubVpmbGFacW1iUVpwK2RZMXFmeG12bFI5Rys1UWcvRT0.png",
-   "sentAt": "2026-09-24T09:09:07.678+09:00",
-   "saving": 29,
-   "baseline": 189000,
-   "baselineNote": "판매글 3곳 최저가",
-   "link": "https://toss.shopping/_m/nSpUKHSv"
   }
  ]
 }
