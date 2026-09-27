@@ -1,7 +1,17 @@
 {
- "updated": "2026-09-27T10:32:54.002+09:00",
+ "updated": "2026-09-27T10:57:27.814+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6493870804",
+   "mall": "쿠팡",
+   "title": "듀라셀 오리지널 AAA 건전지, 20개입, 1개",
+   "price": 9730,
+   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/88504895011624-349b534a-7b7b-43f8-964c-3f130494c65c.jpg",
+   "sentAt": "2026-09-27T10:57:27.195+09:00",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gzGnJqyXaC"
+  },
   {
    "uid": "5240940937",
    "mall": "쿠팡",
@@ -713,19 +723,6 @@
    "baselineNote": "판매글 11곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hiarD5tVWm"
-  },
-  {
-   "uid": "8527336871",
-   "mall": "쿠팡",
-   "title": "샤워메이트 뉴 산양유 비누 버베나, 90g, 12개입",
-   "price": 6860,
-   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/db05/7cc989748d59bbac3c805015e0214030a496af1de85863395254172c2245.jpg",
-   "sentAt": "2026-09-24T07:06:35.744+09:00",
-   "saving": 30,
-   "baseline": 9800,
-   "baselineNote": "판매글 17곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hh89uFIaMS"
   }
  ]
 }
