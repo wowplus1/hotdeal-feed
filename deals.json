@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-27T17:30:25.019+09:00",
+ "updated": "2026-09-27T17:41:17.032+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2118976085",
+   "mall": "쿠팡",
+   "title": "샤오커오라 무설탕 비타민C 민트 박하 12가지맛 믹스 미니 과일 사탕 캔디 중형, 500g, 1개",
+   "price": 9600,
+   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/d7cd/d94639020baaf03ca954e8351cd582dd1b7bf928cb266de1bfb2e44a75bf.png",
+   "sentAt": "2026-09-27T17:41:16.142+09:00",
+   "saving": 25,
+   "baseline": 12800,
+   "baselineNote": "판매글 8곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hnRdr9ovng"
+  },
   {
    "uid": "8060684695",
    "mall": "쿠팡",
@@ -715,18 +728,6 @@
    "baselineNote": "판매글 7곳 최저가",
    "unit": "[object Object]",
    "link": "https://toss.shopping/_m/9XeCS5ad"
-  },
-  {
-   "uid": "9222410386",
-   "mall": "토스쇼핑",
-   "title": "크리오 펌프팝 키즈 2단계, 10개입, 2개",
-   "price": 14900,
-   "image": "https://shopping.toss.im/live/taca/ai/v2/MmQzNzQ1/QUp5MDNiU2Z2TnkwdytQTXROTGhuRFRINWZIRDNMU2VmOUMwNDB0OHZDNGM.png",
-   "sentAt": "2026-09-24T09:11:28.381+09:00",
-   "saving": 11,
-   "baseline": 16650,
-   "baselineNote": "59곳 중 최저",
-   "link": "https://toss.shopping/_m/TiKmqOWk"
   }
  ]
 }
