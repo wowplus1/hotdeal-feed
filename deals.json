@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-27T11:07:23.662+09:00",
+ "updated": "2026-09-27T12:15:28.716+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4913140768",
+   "mall": "롯데온",
+   "title": "칠갑농산 감자수제비 380g x 3개",
+   "price": 7900,
+   "image": "https://contents.lotteon.com/itemimage/20260921162128/LO/27/76/97/30/94/bndl_img/LO2776973094_1.jpg",
+   "sentAt": "2026-09-27T12:15:27.957+09:00",
+   "saving": 36,
+   "baseline": 12280,
+   "baselineNote": "판매글 11곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/1bpNhSl53"
+  },
   {
    "uid": "1507678876",
    "mall": "쿠팡",
@@ -710,19 +723,6 @@
    "image": "https://shopping.toss.im/live/taca/ai/YzEzMDQ1/QU9IdEhyVlBzZkJPc2tiSHVVMjVua0UrMFhGT1VVYlBxYSs1ZEJNVVdKdnY.png",
    "sentAt": "2026-09-24T09:09:07.678+09:00",
    "link": "https://toss.shopping/_m/1zYPgG87"
-  },
-  {
-   "uid": "3011227982",
-   "mall": "쿠팡",
-   "title": "매일두유 99.9 플레인, 190ml, 24개",
-   "price": 12020,
-   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/139627710988148-dd5d246c-120d-451a-9d79-6e8926882a1e.png",
-   "sentAt": "2026-09-24T07:37:36.457+09:00",
-   "saving": 22,
-   "baseline": 15450,
-   "baselineNote": "판매글 32곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/f9BiBhejsq"
   }
  ]
 }
