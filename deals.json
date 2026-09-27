@@ -1,7 +1,16 @@
 {
- "updated": "2026-09-27T17:41:17.032+09:00",
+ "updated": "2026-09-27T17:47:22.402+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3254030039",
+   "mall": "롯데온",
+   "title": "SAMSUNG 삼성 갤럭시 버즈4 프로 SM-R640 블루투스 이어폰 액티브 노이즈 캔슬링",
+   "price": 204731,
+   "image": "https://contents.lotteon.com/itemimage/20260923144341/LO/27/76/73/82/07/_2/77/67/38/20/8/LO2776738207_2776738208_1.jpg",
+   "sentAt": "2026-09-27T17:47:21.799+09:00",
+   "link": "http://app.ac/EbpNQVl33"
+  },
   {
    "uid": "2118976085",
    "mall": "쿠팡",
@@ -715,19 +724,6 @@
    "image": "https://contents.lotteon.com/itemimage/20260918150303/LO/26/20/69/98/46/bndl_img/LO2620699846_1.jpg",
    "sentAt": "2026-09-24T09:57:54.954+09:00",
    "link": "http://app.ac/xAGNKP523"
-  },
-  {
-   "uid": "5898596973",
-   "mall": "토스쇼핑",
-   "title": "도브 베이비 리치 모이스처 바디 워시, 400ml, 2개",
-   "price": 19390,
-   "image": "https://shopping.toss.im/live/taca/ai/v2/NjA2NDI5/UDhCdnU2L3dQbnhRQjliQmxhZkd5WHA4dVRiNjlMbXpCVTFHWEU1VVp0dz0.png",
-   "sentAt": "2026-09-24T09:11:28.381+09:00",
-   "saving": 27,
-   "baseline": 26505,
-   "baselineNote": "판매글 7곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/9XeCS5ad"
   }
  ]
 }
