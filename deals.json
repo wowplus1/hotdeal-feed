@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-27T09:20:29.915+09:00",
+ "updated": "2026-09-27T10:10:27.485+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2666674815",
+   "mall": "쿠팡",
+   "title": "동화약품 소다활 제로 탄산음료 매실맛, 24개, 500ml",
+   "price": 11880,
+   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/958114194082896-2e6691f1-fabb-4807-9eb8-e13afd991deb.jpg",
+   "sentAt": "2026-09-27T10:10:26.940+09:00",
+   "saving": 20,
+   "baseline": 14900,
+   "baselineNote": "판매글 33곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hnkX6ZcXHE"
+  },
   {
    "uid": "3906931269",
    "mall": "토스쇼핑",
@@ -713,18 +726,6 @@
    "baseline": 38700,
    "baselineNote": "판매글 3곳 최저가",
    "link": "https://link.coupang.com/a/hh8SCwMGSO"
-  },
-  {
-   "uid": "5386602829",
-   "mall": "토스쇼핑",
-   "title": "킨도 오슬림 밴드형 기저귀, 3단계, 34매입, 4팩",
-   "price": 45000,
-   "image": "https://shopping.toss.im/live/taca/ai/ZDUwNDcy/QUtXMlBGdmlmSG1EYWNUeXhqV0Rqam1PTVdsdFpTR2JPL1pVcHBJNVZHbk4.png",
-   "sentAt": "2026-09-23T21:30:48.980+09:00",
-   "saving": 31,
-   "baseline": 65130,
-   "baselineNote": "판매글 23곳 최저가",
-   "link": "https://toss.shopping/_m/dD2HYqDj"
   }
  ]
 }
