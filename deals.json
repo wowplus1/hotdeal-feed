@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-27T20:04:44.730+09:00",
+ "updated": "2026-09-27T21:22:12.440+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3660054255",
+   "mall": "쿠팡",
+   "title": "몬스터에너지 드링크 파피용 355ml 24개",
+   "price": 24570,
+   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/05/07/13/8/7a8782f9-51eb-4aa8-a69e-fb836d26cd25.jpg",
+   "sentAt": "2026-09-27T21:22:11.485+09:00",
+   "saving": 13,
+   "baseline": 28080,
+   "baselineNote": "346곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hn60jWqFP2"
+  },
   {
    "uid": "4489669778",
    "mall": "쿠팡",
@@ -715,18 +728,6 @@
    "baseline": 15900,
    "baselineNote": "판매글 4곳 최저가",
    "link": "https://toss.shopping/_m/ZWP0CBsd"
-  },
-  {
-   "uid": "3109996151",
-   "mall": "롯데온",
-   "title": "최신 블루투스 6.0V 오픈형 이어링 이어폰 BZ-EO9",
-   "price": 29900,
-   "image": "https://contents.lotteon.com/itemimage/20260918221757/LO/26/16/77/75/38/_2/61/67/77/53/9/LO2616777538_2616777539_1.jpg",
-   "sentAt": "2026-09-24T11:56:00.199+09:00",
-   "saving": 61,
-   "baseline": 76140,
-   "baselineNote": "판매글 11곳 최저가",
-   "link": "http://app.ac/PbpTeWl13"
   }
  ]
 }
