@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-28T07:00:42.670+09:00",
+ "updated": "2026-09-28T07:04:43.141+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1680867102",
+   "mall": "쿠팡",
+   "title": "가그린 제로 구강청결제, 1.2L, 2개",
+   "price": 9310,
+   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2412923165467698-e1935ae5-ac40-4af8-8861-7f5e30dd41a4.jpg",
+   "sentAt": "2026-09-28T07:04:42.477+09:00",
+   "saving": 33,
+   "baseline": 13900,
+   "baselineNote": "판매글 16곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gkKvlsxQHs"
+  },
   {
    "uid": "4011982143",
    "mall": "쿠팡",
@@ -718,16 +731,6 @@
    "baseline": 16830,
    "baselineNote": "판매글 5곳 최저가",
    "link": "http://app.ac/zqnxiI233"
-  },
-  {
-   "uid": "2688063696",
-   "mall": "쿠팡",
-   "title": "펩시 생 제로 후레시 콜라, 600ml*6개",
-   "price": 9640,
-   "image": "https://t3a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/629e/0e9ddebc5ec607b36e3e755ab9c59a116b4af43adca2e9f9709c375198f8.jpg",
-   "sentAt": "2026-09-24T12:27:56.331+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/f9zhq25fiK"
   }
  ]
 }
