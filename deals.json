@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-28T07:04:43.141+09:00",
+ "updated": "2026-09-28T07:09:16.041+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3257009737",
+   "mall": "쿠팡",
+   "title": "이클립스 블랙커런트향 캔디, 35g, 8개",
+   "price": 8520,
+   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/1025_amir_coupang_oct_80k/cc31/737b4dd4fe7ff47277495b1f64b78b9fac3fadfc5c3f35f961cf6b9ffa71.jpg",
+   "sentAt": "2026-09-28T07:09:15.472+09:00",
+   "saving": 44,
+   "baseline": 15220,
+   "baselineNote": "14곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/f9Av1SeaKi"
+  },
   {
    "uid": "1680867102",
    "mall": "쿠팡",
@@ -719,18 +732,6 @@
    "baselineNote": "299곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hiAHRTjLmC"
-  },
-  {
-   "uid": "8965864895",
-   "mall": "11번가",
-   "title": "짜르르 프리미엄 짜장라면 140g 12입+ 전용 타포린백 증정",
-   "price": 12770,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9436387160/B.webp?912376730",
-   "sentAt": "2026-09-24T13:17:33.208+09:00",
-   "saving": 24,
-   "baseline": 16830,
-   "baselineNote": "판매글 5곳 최저가",
-   "link": "http://app.ac/zqnxiI233"
   }
  ]
 }
