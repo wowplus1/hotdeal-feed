@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-28T07:17:31.308+09:00",
+ "updated": "2026-09-28T07:19:25.132+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6618613940",
+   "mall": "쿠팡",
+   "title": "글라스락 내열 강화유리 정사각 간편 찬통, 6개, 850ml",
+   "price": 15240,
+   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/e151/70c749fe4527d9a7571d415377d9f91cdfdcc49762c7c874542124113d91.png",
+   "sentAt": "2026-09-28T07:19:24.504+09:00",
+   "saving": 21,
+   "baseline": 19350,
+   "baselineNote": "판매글 7곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hoNG29HCHk"
+  },
   {
    "uid": "3230055767",
    "mall": "쿠팡",
@@ -719,19 +732,6 @@
    "sentAt": "2026-09-24T16:03:04.637+09:00",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hiLuVAFW9Y"
-  },
-  {
-   "uid": "1196266749",
-   "mall": "11번가",
-   "title": "국내산 냉장 다진마늘 1kg x 2팩",
-   "price": 11590,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/1/1/0/7/7/0/uByOc/9382110770_239136346.jpg",
-   "sentAt": "2026-09-24T14:57:07.021+09:00",
-   "saving": 27,
-   "baseline": 15980,
-   "baselineNote": "다른 곳 최저",
-   "unit": "[object Object]",
-   "link": "http://app.ac/HtVvXQM73"
   }
  ]
 }
