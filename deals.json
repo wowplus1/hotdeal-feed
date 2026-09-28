@@ -1,7 +1,16 @@
 {
- "updated": "2026-09-28T20:25:35.103+09:00",
+ "updated": "2026-09-28T21:30:30.319+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3111249612",
+   "mall": "토스쇼핑",
+   "title": "10SPACE 아망뜨 300 패션 전신거울, 월넛, 1개",
+   "price": 22000,
+   "image": "https://shopping.toss.im/live/temp/2025-07-14/aeb75237-48c0-4117-a091-b62aa0c45780.png",
+   "sentAt": "2026-09-28T21:30:29.500+09:00",
+   "link": "https://toss.shopping/_m/DgyEHtV9"
+  },
   {
    "uid": "4233674512",
    "mall": "롯데온",
@@ -707,18 +716,6 @@
    "baselineNote": "판매글 20곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hlsOHZqLW8"
-  },
-  {
-   "uid": "4123370495",
-   "mall": "롯데온",
-   "title": "플루크 굿 캠퍼 슬로건 맨투맨티셔츠 FMT3050-Z / 5color",
-   "price": 25080,
-   "image": "https://contents.lotteon.com/itemimage/20260922154951/LO/26/31/90/70/20/bndl_img/LO2631907020_1.jpg",
-   "sentAt": "2026-09-25T18:15:33.400+09:00",
-   "saving": 24,
-   "baseline": 32800,
-   "baselineNote": "판매글 16곳 최저가",
-   "link": "http://app.ac/EECkmwS73"
   }
  ]
 }
