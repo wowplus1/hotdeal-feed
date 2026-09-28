@@ -1,7 +1,19 @@
 {
- "updated": "2026-09-28T09:08:05.864+09:00",
+ "updated": "2026-09-28T10:20:39.230+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6603765319",
+   "mall": "쿠팡",
+   "title": "벨킨 Z Charger 67W USB C타입 듀얼 포트 GaN 초고속 충전기 WCH020krWH",
+   "price": 25820,
+   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/09/03/17/6/11ea5ffb-2cfd-472e-ba91-13b8b50cd40c.jpg",
+   "sentAt": "2026-09-28T10:20:38.435+09:00",
+   "saving": 13,
+   "baseline": 29720,
+   "baselineNote": "판매글 3곳 최저가",
+   "link": "https://link.coupang.com/a/ho0EaNqeZM"
+  },
   {
    "uid": "4237892019",
    "mall": "토스쇼핑",
@@ -710,19 +722,6 @@
    "baselineNote": "다른 곳 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hjPDhtw9JY"
-  },
-  {
-   "uid": "8334502199",
-   "mall": "쿠팡",
-   "title": "닥터유 한입쏙 단백질바, 380g, 1개",
-   "price": 7660,
-   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/bc4c/bc49415b75acf6cdbd771286c468e9418d0c0c29f8b0d8886af147a22ce8.jpg",
-   "sentAt": "2026-09-25T07:23:37.473+09:00",
-   "saving": 25,
-   "baseline": 10180,
-   "baselineNote": "판매글 6곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gdTPCoofnw"
   }
  ]
 }
