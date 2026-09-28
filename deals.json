@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-29T07:42:44.887+09:00",
+ "updated": "2026-09-29T07:57:32.415+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9671578496",
+   "mall": "쿠팡",
+   "title": "테일러 푸룬 딥워터 180ml 4개",
+   "price": 13860,
+   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1047924397647343-3172b7eb-c021-4a65-aa6a-f103031b141e.jpg",
+   "sentAt": "2026-09-29T07:57:31.479+09:00",
+   "saving": 33,
+   "baseline": 20570,
+   "baselineNote": "29곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hqvja1pSOi"
+  },
   {
    "uid": "1623225762",
    "mall": "쿠팡",
@@ -703,16 +716,6 @@
    "baselineNote": "47곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gJjug2XebA"
-  },
-  {
-   "uid": "1349465497",
-   "mall": "쿠팡",
-   "title": "씨그램 레몬 무라벨 350ml 48개",
-   "price": 18980,
-   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/109603195991680-e358de38-4766-4074-b44b-c07a252a29ca.jpg",
-   "sentAt": "2026-09-26T10:12:00.350+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hlGejBs3zw"
   }
  ]
 }
