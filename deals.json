@@ -1,7 +1,17 @@
 {
- "updated": "2026-09-29T07:14:30.136+09:00",
+ "updated": "2026-09-29T07:17:34.890+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5689689804",
+   "mall": "쿠팡",
+   "title": "이지드롭 변기크리너 레몬향, 3개",
+   "price": 9310,
+   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/a4c1a941-18de-460b-be74-3fefca23f8617229786411023203761.png",
+   "sentAt": "2026-09-29T07:17:34.366+09:00",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hqsskxYH7s"
+  },
   {
    "uid": "5917171933",
    "mall": "쿠팡",
@@ -702,19 +712,6 @@
    "baselineNote": "판매글 4곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hlzNsrGGES"
-  },
-  {
-   "uid": "9260003478",
-   "mall": "쿠팡",
-   "title": "팔도비빔면 컵 115g 16개",
-   "price": 8280,
-   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/7887733774376160-96456dc6-fd64-444d-a96b-812740c14553.jpg",
-   "sentAt": "2026-09-26T07:29:48.585+09:00",
-   "saving": 30,
-   "baseline": 11790,
-   "baselineNote": "판매글 34곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hluCE63VLM"
   }
  ]
 }
