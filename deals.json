@@ -1,7 +1,16 @@
 {
- "updated": "2026-09-28T08:00:14.279+09:00",
+ "updated": "2026-09-28T09:00:27.674+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6979112772",
+   "mall": "롯데온",
+   "title": "001 신더 001M-CINDER",
+   "price": 271440,
+   "image": "https://contents.lotteon.com/itemimage/20260916172728/LO/24/47/29/64/81/bndl_img/LO2447296481_1.jpg",
+   "sentAt": "2026-09-28T09:00:26.933+09:00",
+   "link": "http://app.ac/kECTIQS23"
+  },
   {
    "uid": "4497064171",
    "mall": "쿠팡",
@@ -720,18 +729,6 @@
    "baselineNote": "116곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hjNSVtV6WG"
-  },
-  {
-   "uid": "5055686977",
-   "mall": "쿠팡",
-   "title": "마이디어 mdwmt0601w ae kr 자동문열림 6인용 식기세척기",
-   "price": 299000,
-   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/352318513920045-8bc54b59-092d-44fc-952a-fc5274f45b59.jpg",
-   "sentAt": "2026-09-24T19:12:22.496+09:00",
-   "saving": 19,
-   "baseline": 371000,
-   "baselineNote": "59곳 중 최저 · 무료배송",
-   "link": "https://link.coupang.com/a/hiY0dbnTqK"
   }
  ]
 }
