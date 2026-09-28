@@ -1,7 +1,19 @@
 {
- "updated": "2026-09-28T21:30:30.319+09:00",
+ "updated": "2026-09-29T07:05:24.279+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4401937787",
+   "mall": "쿠팡",
+   "title": "유닉스 에어스피더 BLDC 드라이기 1600W",
+   "price": 39910,
+   "image": "https://t3a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/e4e0/850c05738c56cfdea3b35cbd183f86539692a6f9f58dcf17ab2b344818cf.png",
+   "sentAt": "2026-09-29T07:05:23.481+09:00",
+   "saving": 43,
+   "baseline": 70040,
+   "baselineNote": "판매글 4곳 최저가",
+   "link": "https://link.coupang.com/a/hqrBQNDJ9M"
+  },
   {
    "uid": "3111249612",
    "mall": "토스쇼핑",
@@ -703,19 +715,6 @@
    "baseline": 16800,
    "baselineNote": "판매글 9곳 최저가",
    "link": "https://link.coupang.com/a/hlsXk2BFqC"
-  },
-  {
-   "uid": "3661918801",
-   "mall": "쿠팡",
-   "title": "분다버그 핑크 그레이프푸르트 탄산음료, 375ml, 12개",
-   "price": 18630,
-   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/0974/4bf6cefc414f13df1c717883f7b7bc459ffac17cca5bb4dd86953e79f3b7.png",
-   "sentAt": "2026-09-26T07:04:31.578+09:00",
-   "saving": 26,
-   "baseline": 25320,
-   "baselineNote": "판매글 20곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hlsOHZqLW8"
   }
  ]
 }
