@@ -1,7 +1,19 @@
 {
- "updated": "2026-09-29T07:05:24.279+09:00",
+ "updated": "2026-09-29T07:14:30.136+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5917171933",
+   "mall": "쿠팡",
+   "title": "쿠첸 에어프라이어 5L",
+   "price": 46760,
+   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/1025_amir_coupang_oct_80k/4c02/12281ca24ec6cbdc0c6070fba3907e841ac9e7a2ea7c57eea1baf8fa95a1.jpg",
+   "sentAt": "2026-09-29T07:14:29.566+09:00",
+   "saving": 40,
+   "baseline": 77430,
+   "baselineNote": "판매글 6곳 최저가",
+   "link": "https://link.coupang.com/a/hqsex9EM3w"
+  },
   {
    "uid": "4401937787",
    "mall": "쿠팡",
@@ -703,18 +715,6 @@
    "baselineNote": "판매글 34곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hluCE63VLM"
-  },
-  {
-   "uid": "7995519401",
-   "mall": "쿠팡",
-   "title": "락피도 철분 키즈 90g*1개",
-   "price": 10920,
-   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/865096744743421-72a621a8-7130-4cb5-8613-abbc69dd092d.jpg",
-   "sentAt": "2026-09-26T07:06:35.425+09:00",
-   "saving": 35,
-   "baseline": 16800,
-   "baselineNote": "판매글 9곳 최저가",
-   "link": "https://link.coupang.com/a/hlsXk2BFqC"
   }
  ]
 }
