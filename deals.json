@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-28T17:16:05.121+09:00",
+ "updated": "2026-09-28T17:47:32.771+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6651928370",
+   "mall": "쿠팡",
+   "title": "해태제과 오예스 미니 크림소다맛, 192g, 2개",
+   "price": 3750,
+   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/abcf4484-56ab-46df-9f7f-1b880a182c2411906668487223699428.png",
+   "sentAt": "2026-09-28T17:47:31.876+09:00",
+   "saving": 41,
+   "baseline": 6330,
+   "baselineNote": "91곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hpwA3egY32"
+  },
   {
    "uid": "9772783000",
    "mall": "쿠팡",
@@ -711,18 +724,6 @@
    "baseline": 7550,
    "baselineNote": "판매글 8곳 최저가",
    "link": "https://toss.shopping/_m/xzezBlXz"
-  },
-  {
-   "uid": "2660262779",
-   "mall": "지마켓",
-   "title": "예지미인 데일리코튼 롱 팬티라이너 81px2팩+20Px4팩",
-   "price": 11500,
-   "image": "https://gdimg.gmarket.co.kr/2815508381/goodsimage",
-   "sentAt": "2026-09-25T13:46:14.940+09:00",
-   "saving": 68,
-   "baseline": 35600,
-   "baselineNote": "판매글 24곳 최저가",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2815508381"
   }
  ]
 }
