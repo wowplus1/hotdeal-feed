@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-29T07:17:34.890+09:00",
+ "updated": "2026-09-29T07:30:32.897+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2766492555",
+   "mall": "쿠팡",
+   "title": "쿤달 허니 앤드 마카다미아, 네이처 샴푸 베이비파우더향 500ml*2개",
+   "price": 9300,
+   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/548996971556574-cef484c1-e99c-40a3-9720-35f1ed128116.jpg",
+   "sentAt": "2026-09-29T07:30:32.254+09:00",
+   "saving": 49,
+   "baseline": 18220,
+   "baselineNote": "186곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hqtmUxVjzw"
+  },
   {
    "uid": "5689689804",
    "mall": "쿠팡",
@@ -699,19 +712,6 @@
    "baselineNote": "판매글 7곳 최저가",
    "unit": "[object Object]",
    "link": "https://toss.shopping/_m/BLHWtLrn"
-  },
-  {
-   "uid": "7184186501",
-   "mall": "쿠팡",
-   "title": "켈로그 펀 팩 시리얼 8개입",
-   "price": 9500,
-   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/c618/1f6b19f4c42a955a5a63210bea6fad1384f4199b95c8643b756f05390068.jpg",
-   "sentAt": "2026-09-26T08:42:27.434+09:00",
-   "saving": 25,
-   "baseline": 12600,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hlzNsrGGES"
   }
  ]
 }
