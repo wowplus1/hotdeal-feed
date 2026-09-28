@@ -1,7 +1,16 @@
 {
- "updated": "2026-09-28T20:00:00.634+09:00",
+ "updated": "2026-09-28T20:25:35.103+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4233674512",
+   "mall": "롯데온",
+   "title": "W P-6000 BV1021-022",
+   "price": 72110,
+   "image": "https://contents.lotteon.com/itemimage/20260923180755/LE/12/22/51/91/71/_1/33/68/95/24/1/LE1222519171_1336895241_1.jpg",
+   "sentAt": "2026-09-28T20:25:34.406+09:00",
+   "link": "http://app.ac/AAGx4W563"
+  },
   {
    "uid": "3217320030",
    "mall": "쿠팡",
@@ -710,18 +719,6 @@
    "baseline": 32800,
    "baselineNote": "판매글 16곳 최저가",
    "link": "http://app.ac/EECkmwS73"
-  },
-  {
-   "uid": "6957790536",
-   "mall": "쿠팡",
-   "title": "코디 데일리 쿨링 타월 70g 5p, 1개",
-   "price": 1860,
-   "image": "https://t3a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/ecf663b5-a37a-4658-9c52-9758ae2d12e94700011761621347740.png",
-   "sentAt": "2026-09-25T17:15:29.187+09:00",
-   "saving": 63,
-   "baseline": 4990,
-   "baselineNote": "판매글 5곳 최저가",
-   "link": "https://link.coupang.com/a/hkvy1hS6LY"
   }
  ]
 }
