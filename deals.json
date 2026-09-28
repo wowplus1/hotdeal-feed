@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-28T11:08:16.901+09:00",
+ "updated": "2026-09-28T14:52:31.261+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1645428572",
+   "mall": "11번가",
+   "title": "켈로그 콘푸로스트 다크초코 550g, 2개",
+   "price": 8800,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9131913657/B.jpg?858112789",
+   "sentAt": "2026-09-28T14:52:30.475+09:00",
+   "saving": 11,
+   "baseline": 9920,
+   "baselineNote": "210곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "http://app.ac/Mbpvxql53"
+  },
   {
    "uid": "1389173219",
    "mall": "쿠팡",
@@ -709,15 +722,6 @@
    "sentAt": "2026-09-25T09:14:03.829+09:00",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hjXbuCtwUC"
-  },
-  {
-   "uid": "7755442990",
-   "mall": "롯데온",
-   "title": "롯데 빼빼로 아몬드 패키지 10입+초코필드 패키지 10입",
-   "price": 13090,
-   "image": "https://contents.lotteon.com/itemimage/20260904155113/LO/27/63/42/45/23/_2/76/34/24/52/4/LO2763424523_2763424524_1.jpg",
-   "sentAt": "2026-09-25T08:32:41.292+09:00",
-   "link": "http://app.ac/RtVvzCM93"
   }
  ]
 }
