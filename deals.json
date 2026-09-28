@@ -1,7 +1,17 @@
 {
- "updated": "2026-09-28T18:25:47.090+09:00",
+ "updated": "2026-09-28T20:00:00.634+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3217320030",
+   "mall": "쿠팡",
+   "title": "호주산 소고기 샤브샤브용 , 1개, 500g",
+   "price": 9290,
+   "image": "https://t3a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/24689712518039-5ab11da9-f53f-4c81-92e2-bb84e02eb202.jpg",
+   "sentAt": "2026-09-28T19:59:59.844+09:00",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hpF0HIcGLA"
+  },
   {
    "uid": "1552193577",
    "mall": "롯데온",
@@ -712,19 +722,6 @@
    "baseline": 4990,
    "baselineNote": "판매글 5곳 최저가",
    "link": "https://link.coupang.com/a/hkvy1hS6LY"
-  },
-  {
-   "uid": "1719949656",
-   "mall": "롯데온",
-   "title": "랩신 냄새제거부스터 캡슐세제 무향 25입",
-   "price": 10870,
-   "image": "https://contents.lotteon.com/itemimage/20260814181950/LO/25/68/51/77/33/_2/56/85/17/73/4/LO2568517733_2568517734_4.png",
-   "sentAt": "2026-09-25T16:12:17.614+09:00",
-   "saving": 16,
-   "baseline": 12900,
-   "baselineNote": "73곳 중 최저",
-   "unit": "[object Object]",
-   "link": "http://app.ac/mqnxSP293"
   }
  ]
 }
