@@ -1,7 +1,16 @@
 {
- "updated": "2026-09-28T17:47:32.771+09:00",
+ "updated": "2026-09-28T17:50:50.260+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5446412897",
+   "mall": "롯데온",
+   "title": "공용 휘슬라이저 슬립온 7LC7625",
+   "price": 58480,
+   "image": "https://contents.lotteon.com/itemimage/20260923173800/LE/12/22/52/07/79/_1/33/69/04/92/9/LE1222520779_1336904929_1.jpg",
+   "sentAt": "2026-09-28T17:50:49.535+09:00",
+   "link": "http://app.ac/wECTJiS23"
+  },
   {
    "uid": "6651928370",
    "mall": "쿠팡",
@@ -712,18 +721,6 @@
    "image": "https://gdimg.gmarket.co.kr/4829677404/goodsimage",
    "sentAt": "2026-09-25T15:11:02.738+09:00",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4829677404"
-  },
-  {
-   "uid": "7829970107",
-   "mall": "토스쇼핑",
-   "title": "로랜텍 맥세이프 케이스 투명, 갤럭시S24, 1개",
-   "price": 5900,
-   "image": "https://shopping.toss.im/7cddfc98-ff15-4349-beb3-4843323e691e.jpg",
-   "sentAt": "2026-09-25T14:30:52.307+09:00",
-   "saving": 22,
-   "baseline": 7550,
-   "baselineNote": "판매글 8곳 최저가",
-   "link": "https://toss.shopping/_m/xzezBlXz"
   }
  ]
 }
