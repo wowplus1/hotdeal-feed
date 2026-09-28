@@ -1,7 +1,19 @@
 {
- "updated": "2026-09-28T15:04:04.999+09:00",
+ "updated": "2026-09-28T15:51:01.435+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2318493467",
+   "mall": "쿠팡",
+   "title": "나이키 남성용 레볼루션 8 엑스트라 와이드 러닝화 HQ1996, 260",
+   "price": 35620,
+   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/b23b/036eed02507ac417ba1f3d5751bf5e0b3393aa399ef7b4cae33353de6a98.jpg",
+   "sentAt": "2026-09-28T15:51:00.500+09:00",
+   "saving": 38,
+   "baseline": 57510,
+   "baselineNote": "357곳 중 최저",
+   "link": "https://link.coupang.com/a/hpoguDsXG8"
+  },
   {
    "uid": "1117685994",
    "mall": "쿠팡",
@@ -712,19 +724,6 @@
    "baselineNote": "38곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gmhgp8WKLA"
-  },
-  {
-   "uid": "7111421865",
-   "mall": "쿠팡",
-   "title": "케라시스 두피 쿨링 단백질 샴푸, 1.5L, 2개 12,430원",
-   "price": 12430,
-   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/106810595858080-a05aaba3-ab58-440a-ad81-0aa3fc27a2b0.jpg",
-   "sentAt": "2026-09-25T11:03:16.489+09:00",
-   "saving": 12,
-   "baseline": 14160,
-   "baselineNote": "62곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hj4X2W7riK"
   }
  ]
 }
