@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-28T11:01:11.770+09:00",
+ "updated": "2026-09-28T11:08:16.901+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1389173219",
+   "mall": "쿠팡",
+   "title": "프로그 팔목긴 위생장갑 50매 3,590원",
+   "price": 3590,
+   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/123392203800498-05ff80a5-0b74-4b98-be83-7b7668d162bd.jpg",
+   "sentAt": "2026-09-28T11:08:16.278+09:00",
+   "saving": 48,
+   "baseline": 6880,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/ho32corFf2"
+  },
   {
    "uid": "7799081947",
    "mall": "지마켓",
@@ -705,19 +718,6 @@
    "image": "https://contents.lotteon.com/itemimage/20260904155113/LO/27/63/42/45/23/_2/76/34/24/52/4/LO2763424523_2763424524_1.jpg",
    "sentAt": "2026-09-25T08:32:41.292+09:00",
    "link": "http://app.ac/RtVvzCM93"
-  },
-  {
-   "uid": "1977677262",
-   "mall": "쿠팡",
-   "title": "코카콜라 제로 제로 무라벨, 370ml, 18개",
-   "price": 12330,
-   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/763923949485522-786b0053-fb3b-4733-a8ae-e446ac716c29.jpg",
-   "sentAt": "2026-09-25T07:52:35.378+09:00",
-   "saving": 20,
-   "baseline": 15420,
-   "baselineNote": "32곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gkKwVf9qSq"
   }
  ]
 }
