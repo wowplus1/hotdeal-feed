@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-28T14:52:31.261+09:00",
+ "updated": "2026-09-28T15:04:04.999+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1117685994",
+   "mall": "쿠팡",
+   "title": "콘푸로스트 라이트 시리얼, 530g, 2개",
+   "price": 7100,
+   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/e66a/ae77da57a38d469a5052c0812996f476a3461230a74e0920bebccfa664e2.jpg",
+   "sentAt": "2026-09-28T15:04:04.378+09:00",
+   "saving": 41,
+   "baseline": 11970,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hpkTXn8yFo"
+  },
   {
    "uid": "1645428572",
    "mall": "11번가",
@@ -712,16 +725,6 @@
    "baselineNote": "62곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hj4X2W7riK"
-  },
-  {
-   "uid": "3617696970",
-   "mall": "쿠팡",
-   "title": "피넛버터앤코 땅콩버터잼 크런치 타임 454g*1개",
-   "price": 5710,
-   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/1025_amir_coupang_oct_80k/40cf/bf5a75ad6a0413f9ffbe5a69bff5aef0f97ccd68739417b7b63e7cc3d2cd.jpg",
-   "sentAt": "2026-09-25T09:14:03.829+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hjXbuCtwUC"
   }
  ]
 }
