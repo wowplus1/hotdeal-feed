@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-28T17:50:50.260+09:00",
+ "updated": "2026-09-28T18:25:47.090+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1552193577",
+   "mall": "롯데온",
+   "title": "얼큰 우거지 갈비탕 5팩",
+   "price": 35980,
+   "image": "https://contents.lotteon.com/itemimage/20260923094321/LO/27/27/80/44/29/_2/72/78/04/43/0/LO2727804429_2727804430_1.png",
+   "sentAt": "2026-09-28T18:25:46.326+09:00",
+   "saving": 12,
+   "baseline": 40850,
+   "baselineNote": "판매글 14곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/CtVzYmM43"
+  },
   {
    "uid": "5446412897",
    "mall": "롯데온",
@@ -712,15 +725,6 @@
    "baselineNote": "73곳 중 최저",
    "unit": "[object Object]",
    "link": "http://app.ac/mqnxSP293"
-  },
-  {
-   "uid": "3150299014",
-   "mall": "지마켓",
-   "title": "K2 여성 경량 실크스타 구스다운 KWU24544",
-   "price": 70130,
-   "image": "https://gdimg.gmarket.co.kr/4829677404/goodsimage",
-   "sentAt": "2026-09-25T15:11:02.738+09:00",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4829677404"
   }
  ]
 }
