@@ -1,7 +1,19 @@
 {
- "updated": "2026-09-28T15:51:01.435+09:00",
+ "updated": "2026-09-28T17:16:05.121+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9772783000",
+   "mall": "쿠팡",
+   "title": "카시오 남성 우레탄 손목시계 F-91WM-3AJH",
+   "price": 11950,
+   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/d1ca/4b68633b487dad2bf5eb323a2f3ff3925a612e8bca4bedbc2303b41bba7c.jpg",
+   "sentAt": "2026-09-28T17:16:04.213+09:00",
+   "saving": 34,
+   "baseline": 18150,
+   "baselineNote": "판매글 22곳 최저가",
+   "link": "https://link.coupang.com/a/hpujGvwV7A"
+  },
   {
    "uid": "2318493467",
    "mall": "쿠팡",
@@ -711,19 +723,6 @@
    "baseline": 35600,
    "baselineNote": "판매글 24곳 최저가",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2815508381"
-  },
-  {
-   "uid": "7282733098",
-   "mall": "쿠팡",
-   "title": "솔리몬 스퀴즈드 레몬즙, 500ml, 2개",
-   "price": 8900,
-   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/06/27/17/7/ebab526d-0921-4bed-8b72-39ada2ed07d2.jpg",
-   "sentAt": "2026-09-25T12:11:28.663+09:00",
-   "saving": 24,
-   "baseline": 11690,
-   "baselineNote": "38곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gmhgp8WKLA"
   }
  ]
 }
