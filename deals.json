@@ -1,7 +1,16 @@
 {
- "updated": "2026-09-28T10:20:39.230+09:00",
+ "updated": "2026-09-28T11:01:11.770+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7799081947",
+   "mall": "지마켓",
+   "title": "오므론 혈압 측정기HEM-7142T2",
+   "price": 68910,
+   "image": "https://gdimg.gmarket.co.kr/2897716862/goodsimage",
+   "sentAt": "2026-09-28T11:01:11.174+09:00",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2897716862"
+  },
   {
    "uid": "6603765319",
    "mall": "쿠팡",
@@ -709,19 +718,6 @@
    "baselineNote": "32곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gkKwVf9qSq"
-  },
-  {
-   "uid": "7133219722",
-   "mall": "쿠팡",
-   "title": "첫맛 만능 비빔 무침 양념, 1.1kg, 1개",
-   "price": 3950,
-   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/310e48ba-6eed-4a85-8531-603a44d2d8c85489819512140784727.png",
-   "sentAt": "2026-09-25T07:29:03.053+09:00",
-   "saving": 39,
-   "baseline": 6500,
-   "baselineNote": "다른 곳 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hjPDhtw9JY"
   }
  ]
 }
