@@ -1,7 +1,28 @@
 {
- "updated": "2026-09-28T09:00:27.674+09:00",
+ "updated": "2026-09-28T09:06:46.272+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6605991598",
+   "mall": "토스쇼핑",
+   "title": "모니터 받침대, SQ15, 100cm, 화이트, 1개",
+   "price": 28900,
+   "image": "https://shopping.toss.im/live/temp/2026-08-03/86bfab31-95fc-47a0-95da-3ad80fc598ab.jpeg",
+   "sentAt": "2026-09-28T09:06:45.696+09:00",
+   "saving": 23,
+   "baseline": 37540,
+   "baselineNote": "판매글 3곳 최저가",
+   "link": "https://toss.shopping/_m/NAv48Vbh"
+  },
+  {
+   "uid": "8420368624",
+   "mall": "토스쇼핑",
+   "title": "앙쥬 블랙스네일 각질싹 필링젤, 180ml, 1+1+1 구성, 총 3개",
+   "price": 9380,
+   "image": "https://shopping.toss.im/live/temp/2025-10-27/d740c6bf-59a4-4f4a-af47-79bb8b10bb24.jpeg",
+   "sentAt": "2026-09-28T09:06:45.696+09:00",
+   "link": "https://toss.shopping/_m/tyL4GMbv"
+  },
   {
    "uid": "6979112772",
    "mall": "롯데온",
@@ -703,32 +724,6 @@
    "baselineNote": "판매글 18곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hjOF58Eg3M"
-  },
-  {
-   "uid": "7346491858",
-   "mall": "쿠팡",
-   "title": "스카치브라이트 베이직 제로 스크래치 스펀지 수세미, 8개입, 1개",
-   "price": 6990,
-   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/374857959409947-07e13cd2-bf10-4480-81b1-e7c748917fa7.jpg",
-   "sentAt": "2026-09-25T07:09:29.707+09:00",
-   "saving": 31,
-   "baseline": 10100,
-   "baselineNote": "56곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gwa5a0JGX6"
-  },
-  {
-   "uid": "9214548565",
-   "mall": "쿠팡",
-   "title": "온더바디 코튼풋 발을 씻자 풋샴푸 비누향 리필 1개입*500ml*3개",
-   "price": 13230,
-   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/81d3a272-3046-49b5-9ed6-be7523611ab78441998113391443341.png",
-   "sentAt": "2026-09-25T07:04:15.450+09:00",
-   "saving": 18,
-   "baseline": 16100,
-   "baselineNote": "116곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hjNSVtV6WG"
   }
  ]
 }
