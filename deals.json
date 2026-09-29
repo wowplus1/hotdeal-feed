@@ -1,7 +1,16 @@
 {
- "updated": "2026-09-29T18:03:14.826+09:00",
+ "updated": "2026-09-29T18:11:14.189+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8698226649",
+   "mall": "11번가",
+   "title": "오리온 베스트파이콤보 24입, 2개",
+   "price": 13900,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/8521119579/B.webp?505253734",
+   "sentAt": "2026-09-29T18:11:13.490+09:00",
+   "link": "http://app.ac/Kjwwg9a13"
+  },
   {
    "uid": "6398064387",
    "mall": "지마켓",
@@ -690,19 +699,6 @@
    "baseline": 7480,
    "baselineNote": "판매글 40곳 최저가",
    "link": "https://link.coupang.com/a/gl5T7Cy50K"
-  },
-  {
-   "uid": "4913140768",
-   "mall": "롯데온",
-   "title": "칠갑농산 감자수제비 380g x 3개",
-   "price": 7900,
-   "image": "https://contents.lotteon.com/itemimage/20260921162128/LO/27/76/97/30/94/bndl_img/LO2776973094_1.jpg",
-   "sentAt": "2026-09-27T12:15:27.957+09:00",
-   "saving": 36,
-   "baseline": 12280,
-   "baselineNote": "판매글 11곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/1bpNhSl53"
   }
  ]
 }
