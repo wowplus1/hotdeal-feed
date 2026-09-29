@@ -1,7 +1,19 @@
 {
- "updated": "2026-09-29T09:59:26.766+09:00",
+ "updated": "2026-09-29T10:07:20.144+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1687273287",
+   "mall": "GS SHOP",
+   "title": "리얼프라이스 3겹 화장지 27m x 30롤 x 1팩",
+   "price": 10900,
+   "image": "https://asset.m-gs.kr/prod/1134512880/1/280",
+   "sentAt": "2026-09-29T10:07:19.382+09:00",
+   "saving": 31,
+   "baseline": 15890,
+   "baselineNote": "판매글 15곳 최저가",
+   "link": "http://app.ac/ljwvLSa53"
+  },
   {
    "uid": "7674723060",
    "mall": "쿠팡",
@@ -699,19 +711,6 @@
    "baseline": 14300,
    "baselineNote": "판매글 5곳 최저가",
    "link": "https://link.coupang.com/a/hmaJgrjW3M"
-  },
-  {
-   "uid": "5546647638",
-   "mall": "쿠팡",
-   "title": "케라시스 히트 액티브 극손상 헤어 바르는 트리트먼트, 220ml, 2개",
-   "price": 8890,
-   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/91932784832414-0f72d8ed-a4a3-4d8a-bd03-a327e402532a.jpg",
-   "sentAt": "2026-09-26T16:08:21.496+09:00",
-   "saving": 22,
-   "baseline": 11400,
-   "baselineNote": "42곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hl5GOUxlaS"
   }
  ]
 }
