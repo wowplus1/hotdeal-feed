@@ -1,7 +1,16 @@
 {
- "updated": "2026-09-29T12:16:41.542+09:00",
+ "updated": "2026-09-29T12:37:10.365+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6495932309",
+   "mall": "롯데온",
+   "title": "아디제로 EVO SL KI3381",
+   "price": 112940,
+   "image": "https://contents.lotteon.com/itemimage/20260928125754/LE/12/21/55/93/89/_1/33/05/29/45/7/LE1221559389_1330529457_1.jpg",
+   "sentAt": "2026-09-29T12:37:09.755+09:00",
+   "link": "http://app.ac/pjwvPLa83"
+  },
   {
    "uid": "7623136669",
    "mall": "쿠팡",
@@ -701,16 +710,6 @@
    "baselineNote": "판매글 10곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4796129920"
-  },
-  {
-   "uid": "4154645963",
-   "mall": "쿠팡",
-   "title": "프롬바다 완도 자른 다시마, 100g, 2개",
-   "price": 3780,
-   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/12920878477398-34b86ebe-454d-46ea-89e9-13f48c3bf894.png",
-   "sentAt": "2026-09-26T20:35:02.226+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hmoJ3XsArA"
   }
  ]
 }
