@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-29T08:00:57.225+09:00",
+ "updated": "2026-09-29T09:10:51.758+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7050806128",
+   "mall": "토스쇼핑",
+   "title": "멈칫 바이오톡스 디퓨저, 탐다오, 200ml, 2개",
+   "price": 7800,
+   "image": "https://shopping.toss.im/live/taca/ai/MWMyNTgw/QU94MjIwazh4bjlwYVQ2eTNwYko2U09XVGFyVUxiTlZLZGxVKzVQdGRLN1U.png",
+   "sentAt": "2026-09-29T09:10:50.916+09:00",
+   "saving": 52,
+   "baseline": 16190,
+   "baselineNote": "다른 곳 최저",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/ndPvfPRe"
+  },
   {
    "uid": "9160044148",
    "mall": "쿠팡",
@@ -702,19 +715,6 @@
    "baselineNote": "226곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "http://app.ac/OqnzXd243"
-  },
-  {
-   "uid": "2813765329",
-   "mall": "쿠팡",
-   "title": "피지 모락셀라 냄새제거 빨래쉰내 실내건조 세탁세제 본품 허브향, 2.1L, 2개",
-   "price": 16900,
-   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1238772348057305-1d82b0a1-8349-4026-aa48-905aad3f084e.jpg",
-   "sentAt": "2026-09-26T11:07:39.929+09:00",
-   "saving": 40,
-   "baseline": 28380,
-   "baselineNote": "판매글 10곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hlKczKxDNY"
   }
  ]
 }
