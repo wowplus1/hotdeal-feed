@@ -1,7 +1,16 @@
 {
- "updated": "2026-09-29T14:07:14.277+09:00",
+ "updated": "2026-09-29T14:10:33.405+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9794963817",
+   "mall": "쿠팡",
+   "title": "LG 그램 프로 16Z90TS-GS5PK",
+   "price": 1491850,
+   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/0802/0ce4b67b8a1b42713ced1b1cb754936085db2c7ae19299b9a329df9dbb47.jpg",
+   "sentAt": "2026-09-29T14:10:32.824+09:00",
+   "link": "https://link.coupang.com/a/g7fkvWGdcy"
+  },
   {
    "uid": "2329200372",
    "mall": "지마켓",
@@ -691,19 +700,6 @@
    "sentAt": "2026-09-27T09:20:29.056+09:00",
    "unit": "[object Object]",
    "link": "https://toss.shopping/_m/N98ODPon"
-  },
-  {
-   "uid": "6847265334",
-   "mall": "쿠팡",
-   "title": "슈가로로 애사비 스파클링 파인애플, 350ml, 48개",
-   "price": 19090,
-   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/4ef1/bb6421cca37b46b6f4df8b1f16e6034ccdc07fae33fb4fbcab4696f73521.png",
-   "sentAt": "2026-09-27T07:11:12.527+09:00",
-   "saving": 49,
-   "baseline": 37610,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hm8cVzUsLc"
   }
  ]
 }
