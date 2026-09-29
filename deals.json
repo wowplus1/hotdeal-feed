@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-29T10:07:20.144+09:00",
+ "updated": "2026-09-29T11:03:24.250+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3552590288",
+   "mall": "쿠팡",
+   "title": "쿠라콘 시오콘부 염장 다시마, 47g, 3개 10,680원",
+   "price": 10680,
+   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/27a1/8b56bc9aab7f69e169a2da90af950adec713bcc56b68cae2533bfe385ed8.jpg",
+   "sentAt": "2026-09-29T11:03:23.524+09:00",
+   "saving": 37,
+   "baseline": 16830,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hqIAjCZgjY"
+  },
   {
    "uid": "1687273287",
    "mall": "GS SHOP",
@@ -699,18 +712,6 @@
    "baselineNote": "판매글 9곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hmbj8osMCq"
-  },
-  {
-   "uid": "6417905765",
-   "mall": "쿠팡",
-   "title": "데일리아 플레이 버블 클렌저 3종세트 600ml, 1세트",
-   "price": 6880,
-   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/244681172511477-caae04f6-10f4-4bb6-873f-e1b88a2e33cf.jpg",
-   "sentAt": "2026-09-26T17:18:55.320+09:00",
-   "saving": 52,
-   "baseline": 14300,
-   "baselineNote": "판매글 5곳 최저가",
-   "link": "https://link.coupang.com/a/hmaJgrjW3M"
   }
  ]
 }
