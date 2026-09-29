@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-29T16:55:06.035+09:00",
+ "updated": "2026-09-29T17:11:30.003+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1816008117",
+   "mall": "토스쇼핑",
+   "title": "스파클 생수, 무라벨, 2L, 24개",
+   "price": 7400,
+   "image": "https://shopping.toss.im/live/temp/2026-03-18/268e4c6a-1595-43e9-9c1b-f101e5774429.jpeg",
+   "sentAt": "2026-09-29T17:11:29.387+09:00",
+   "saving": 24,
+   "baseline": 9700,
+   "baselineNote": "176곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://toss.im/_m/9DrhDg0r"
+  },
   {
    "uid": "4775490305",
    "mall": "지마켓",
@@ -690,18 +703,6 @@
    "sentAt": "2026-09-27T10:57:27.195+09:00",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gzGnJqyXaC"
-  },
-  {
-   "uid": "5240940937",
-   "mall": "쿠팡",
-   "title": "바겐슈타이거 무연마제 스텐304 IH 퓨어폴리싱 케틀팟 2L*1개",
-   "price": 18610,
-   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/10/22/13/6/fe20dfe1-9bb7-4677-b35e-407e87dfd894.jpg",
-   "sentAt": "2026-09-27T10:32:52.738+09:00",
-   "saving": 34,
-   "baseline": 28340,
-   "baselineNote": "판매글 21곳 최저가",
-   "link": "https://link.coupang.com/a/gCQsws6gp2"
   }
  ]
 }
