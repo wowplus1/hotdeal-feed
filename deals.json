@@ -1,7 +1,19 @@
 {
- "updated": "2026-09-29T14:00:22.165+09:00",
+ "updated": "2026-09-29T14:03:07.350+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1942898652",
+   "mall": "지마켓",
+   "title": "세타필 로션 473ml 9,500원",
+   "price": 9500,
+   "image": "https://gdimg.gmarket.co.kr/3108542278/goodsimage",
+   "sentAt": "2026-09-29T14:03:06.708+09:00",
+   "saving": 57,
+   "baseline": 22300,
+   "baselineNote": "판매글 9곳 최저가",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=3108542278"
+  },
   {
    "uid": "9115489388",
    "mall": "지마켓",
@@ -691,18 +703,6 @@
    "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/319427843202509-cf87f025-cb1f-49fb-b8ab-a847823ea40c.jpg",
    "sentAt": "2026-09-27T07:09:24.545+09:00",
    "link": "https://link.coupang.com/a/hm71R9p73k"
-  },
-  {
-   "uid": "8061016999",
-   "mall": "쿠팡",
-   "title": "신일 EMF 전기요 SEB-H220CP 더블 135*180 cm",
-   "price": 19900,
-   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/e2aa/58af46344a75ee54572e56165e4b69ed1bdd98067ce5cc13d1b5e06ae0a0.jpg",
-   "sentAt": "2026-09-27T07:05:13.452+09:00",
-   "saving": 31,
-   "baseline": 28760,
-   "baselineNote": "판매글 4곳 최저가",
-   "link": "https://link.coupang.com/a/havB3WJjRS"
   }
  ]
 }
