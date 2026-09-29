@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-29T14:10:33.405+09:00",
+ "updated": "2026-09-29T15:02:32.118+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8969075655",
+   "mall": "쿠팡",
+   "title": "비오비타 키즈 유산균 60p, 120g, 1개",
+   "price": 17800,
+   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/fe18a856-7fbf-493c-81d8-1867210265e57875374378359071028.png",
+   "sentAt": "2026-09-29T15:02:31.454+09:00",
+   "saving": 40,
+   "baseline": 29730,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hqZHlMCvpQ"
+  },
   {
    "uid": "9794963817",
    "mall": "쿠팡",
@@ -690,16 +703,6 @@
    "baselineNote": "판매글 33곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hnkX6ZcXHE"
-  },
-  {
-   "uid": "3906931269",
-   "mall": "토스쇼핑",
-   "title": "침대시트 고정 밴드, 일자형, 블랙, 4개",
-   "price": 4500,
-   "image": "https://shopping.toss.im/live/temp/2025-12-31/027b9b0a-5955-4bf7-84c0-df00da87d8f4.png",
-   "sentAt": "2026-09-27T09:20:29.056+09:00",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/N98ODPon"
   }
  ]
 }
