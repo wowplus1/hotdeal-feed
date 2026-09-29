@@ -1,7 +1,17 @@
 {
- "updated": "2026-09-29T14:03:07.350+09:00",
+ "updated": "2026-09-29T14:07:14.277+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2329200372",
+   "mall": "지마켓",
+   "title": "칭따오 0.0 논알콜 맥주 330ml 24캔",
+   "price": 15280,
+   "image": "https://gdimg.gmarket.co.kr/4573241314/goodsimage",
+   "sentAt": "2026-09-29T14:07:13.455+09:00",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4573241314"
+  },
   {
    "uid": "1942898652",
    "mall": "지마켓",
@@ -694,15 +704,6 @@
    "baselineNote": "판매글 4곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hm8cVzUsLc"
-  },
-  {
-   "uid": "9961715593",
-   "mall": "쿠팡",
-   "title": "소자매 오늘은 7월 콜드브루 더치커피 30ml*10개입*2개",
-   "price": 4110,
-   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/319427843202509-cf87f025-cb1f-49fb-b8ab-a847823ea40c.jpg",
-   "sentAt": "2026-09-27T07:09:24.545+09:00",
-   "link": "https://link.coupang.com/a/hm71R9p73k"
   }
  ]
 }
