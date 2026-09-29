@@ -1,7 +1,17 @@
 {
- "updated": "2026-09-29T17:16:59.063+09:00",
+ "updated": "2026-09-29T18:03:14.826+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6398064387",
+   "mall": "지마켓",
+   "title": "루솔 이유식 22팩 45,920원",
+   "price": 45670,
+   "image": "https://gdimg.gmarket.co.kr/4734688465/goodsimage",
+   "sentAt": "2026-09-29T18:03:14.019+09:00",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4734688465"
+  },
   {
    "uid": "3545911130",
    "mall": "쿠팡",
@@ -693,19 +703,6 @@
    "baselineNote": "판매글 11곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/1bpNhSl53"
-  },
-  {
-   "uid": "1507678876",
-   "mall": "쿠팡",
-   "title": "활명수 편안활 스트롱 까스활 농축액, 15g, 24개",
-   "price": 10780,
-   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/526401156876157-6c15ce8b-56cd-4fd1-bb01-056e7552c4be.jpg",
-   "sentAt": "2026-09-27T11:07:23.024+09:00",
-   "saving": 35,
-   "baseline": 16500,
-   "baselineNote": "판매글 8곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hno4psmSAK"
   }
  ]
 }
