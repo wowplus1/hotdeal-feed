@@ -1,7 +1,16 @@
 {
- "updated": "2026-09-29T13:07:06.964+09:00",
+ "updated": "2026-09-29T13:31:25.629+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8771472723",
+   "mall": "하이마트",
+   "title": "ASUS TUF GAMING X870-PLUS WIFI 메인보드 인텍앤컴퍼니",
+   "price": 307820,
+   "image": "https://static1.e-himart.co.kr/contents/goods/00/35/55/07/77/0035550777__AMG103171127531XE574__M_640_640.jpg",
+   "sentAt": "2026-09-29T13:31:24.727+09:00",
+   "link": "http://app.ac/HtV1wdM73"
+  },
   {
    "uid": "1590250139",
    "mall": "쿠팡",
@@ -697,19 +706,6 @@
    "baselineNote": "33곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hm7A5Js8Fo"
-  },
-  {
-   "uid": "4029279629",
-   "mall": "쿠팡",
-   "title": "어메이징오트 언스위트, 190ml, 24개",
-   "price": 10510,
-   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/0bd6/e5de94f65093969e229a4d11aee238e462abda727234f2a3d112bdfac96f.png",
-   "sentAt": "2026-09-27T07:01:50.040+09:00",
-   "saving": 23,
-   "baseline": 13710,
-   "baselineNote": "203곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gl3CLij06n"
   }
  ]
 }
