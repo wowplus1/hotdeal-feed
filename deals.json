@@ -1,7 +1,16 @@
 {
- "updated": "2026-09-29T18:55:23.763+09:00",
+ "updated": "2026-09-30T07:08:22.448+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5380699071",
+   "mall": "쿠팡",
+   "title": "세타필 모이스춰라이징 로션, 591ml, 1개",
+   "price": 9490,
+   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/77276365654004-a842d9c0-df4d-44fe-82a3-5dc3bc7ba775.jpg",
+   "sentAt": "2026-09-30T07:08:21.679+09:00",
+   "link": "https://link.coupang.com/a/hr6HuCo0Ye"
+  },
   {
    "uid": "3377914903",
    "mall": "롯데온",
@@ -686,19 +695,6 @@
    "baseline": 14150,
    "baselineNote": "판매글 24곳 최저가",
    "link": "https://link.coupang.com/a/hnQsDEoJHM"
-  },
-  {
-   "uid": "6614079851",
-   "mall": "토스쇼핑",
-   "title": "라라스윗 저당 토피넛콘, 35g, 10개",
-   "price": 9500,
-   "image": "https://shopping.toss.im/live/temp/2026-05-15/fcfdb4ae-296d-488f-9a30-96af60e7328b.png",
-   "sentAt": "2026-09-27T17:22:05.689+09:00",
-   "saving": 26,
-   "baseline": 12900,
-   "baselineNote": "판매글 15곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/DsCifLqo"
   }
  ]
 }
