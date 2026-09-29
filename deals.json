@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-29T12:37:10.365+09:00",
+ "updated": "2026-09-29T13:07:06.964+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1590250139",
+   "mall": "쿠팡",
+   "title": "매일두유 99.9 서리태, 24개, 190ml",
+   "price": 11560,
+   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/372004234278260-b3618843-c949-4f19-aea9-7964af03adda.jpg",
+   "sentAt": "2026-09-29T13:07:05.906+09:00",
+   "saving": 36,
+   "baseline": 18180,
+   "baselineNote": "판매글 16곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gJHvmIdks1"
+  },
   {
    "uid": "6495932309",
    "mall": "롯데온",
@@ -697,19 +710,6 @@
    "baselineNote": "203곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gl3CLij06n"
-  },
-  {
-   "uid": "6547915354",
-   "mall": "지마켓",
-   "title": "짜르르 8개",
-   "price": 9000,
-   "image": "https://gdimg.gmarket.co.kr/4796129920/goodsimage",
-   "sentAt": "2026-09-26T20:42:17.162+09:00",
-   "saving": 70,
-   "baseline": 29550,
-   "baselineNote": "판매글 10곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4796129920"
   }
  ]
 }
