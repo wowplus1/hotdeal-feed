@@ -1,7 +1,30 @@
 {
- "updated": "2026-09-30T07:08:22.448+09:00",
+ "updated": "2026-09-30T08:02:43.987+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1894223584",
+   "mall": "쿠팡",
+   "title": "돌 하이 오렌지 주스 120ml x 32개",
+   "price": 16570,
+   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/62272490678507-ecc7ad5c-1f5a-4d92-a583-6e8fdb7a15fb.jpg",
+   "sentAt": "2026-09-30T08:02:43.386+09:00",
+   "saving": 41,
+   "baseline": 27950,
+   "baselineNote": "4곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hsayx5uSfk"
+  },
+  {
+   "uid": "1530903873",
+   "mall": "쿠팡",
+   "title": "일본 목캔디 용각산 목사탕, 88g*6개",
+   "price": 11640,
+   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/bc35/f625112f3b5d04d56b4d1b065c5c55b20d72fdf169792b685bd0ec9539d0.jpg",
+   "sentAt": "2026-09-30T08:02:43.386+09:00",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gl6Kif8pQO"
+  },
   {
    "uid": "5380699071",
    "mall": "쿠팡",
@@ -670,31 +693,6 @@
    "image": "https://contents.lotteon.com/itemimage/20260923144341/LO/27/76/73/82/07/_2/77/67/38/20/8/LO2776738207_2776738208_1.jpg",
    "sentAt": "2026-09-27T17:47:21.799+09:00",
    "link": "http://app.ac/EbpNQVl33"
-  },
-  {
-   "uid": "2118976085",
-   "mall": "쿠팡",
-   "title": "샤오커오라 무설탕 비타민C 민트 박하 12가지맛 믹스 미니 과일 사탕 캔디 중형, 500g, 1개",
-   "price": 9600,
-   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/d7cd/d94639020baaf03ca954e8351cd582dd1b7bf928cb266de1bfb2e44a75bf.png",
-   "sentAt": "2026-09-27T17:41:16.142+09:00",
-   "saving": 25,
-   "baseline": 12800,
-   "baselineNote": "판매글 8곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hnRdr9ovng"
-  },
-  {
-   "uid": "8060684695",
-   "mall": "쿠팡",
-   "title": "리르 EGF 디판텐 리페어 크림, 60g, 1개",
-   "price": 2850,
-   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/9c2d5e02-0c83-4830-9322-fb8c2887f5507187859006694313260.png",
-   "sentAt": "2026-09-27T17:30:24.443+09:00",
-   "saving": 80,
-   "baseline": 14150,
-   "baselineNote": "판매글 24곳 최저가",
-   "link": "https://link.coupang.com/a/hnQsDEoJHM"
   }
  ]
 }
