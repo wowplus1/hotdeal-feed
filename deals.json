@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-29T12:03:03.577+09:00",
+ "updated": "2026-09-29T12:16:41.542+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7623136669",
+   "mall": "쿠팡",
+   "title": "코카콜라 제로 레몬라임, 30개, 190ml",
+   "price": 12800,
+   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/beba/5686b94b877b38e9bc6234313c121a29a75bf511ad7877c795837e202099.jpg",
+   "sentAt": "2026-09-29T12:16:40.762+09:00",
+   "saving": 13,
+   "baseline": 14760,
+   "baselineNote": "141곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gcbVKfTQ8O"
+  },
   {
    "uid": "2161019304",
    "mall": "쿠팡",
@@ -698,19 +711,6 @@
    "sentAt": "2026-09-26T20:35:02.226+09:00",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hmoJ3XsArA"
-  },
-  {
-   "uid": "6426963988",
-   "mall": "지마켓",
-   "title": "올리브 짜파게티20입 박스",
-   "price": 17100,
-   "image": "https://gdimg.gmarket.co.kr/2443764980/goodsimage",
-   "sentAt": "2026-09-26T20:11:59.201+09:00",
-   "saving": 23,
-   "baseline": 22250,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2443764980"
   }
  ]
 }
