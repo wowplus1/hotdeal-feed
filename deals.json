@@ -1,7 +1,19 @@
 {
- "updated": "2026-09-29T15:02:32.118+09:00",
+ "updated": "2026-09-29T16:55:06.035+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4775490305",
+   "mall": "지마켓",
+   "title": "샤오미 미지아 스마트 구강세정기 Pro MEO706 10단계수압",
+   "price": 65900,
+   "image": "https://gdimg.gmarket.co.kr/4865856480/goodsimage",
+   "sentAt": "2026-09-29T16:55:05.260+09:00",
+   "saving": 10,
+   "baseline": 73150,
+   "baselineNote": "판매글 5곳 최저가",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4865856480"
+  },
   {
    "uid": "8969075655",
    "mall": "쿠팡",
@@ -690,19 +702,6 @@
    "baseline": 28340,
    "baselineNote": "판매글 21곳 최저가",
    "link": "https://link.coupang.com/a/gCQsws6gp2"
-  },
-  {
-   "uid": "2666674815",
-   "mall": "쿠팡",
-   "title": "동화약품 소다활 제로 탄산음료 매실맛, 24개, 500ml",
-   "price": 11880,
-   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/958114194082896-2e6691f1-fabb-4807-9eb8-e13afd991deb.jpg",
-   "sentAt": "2026-09-27T10:10:26.940+09:00",
-   "saving": 20,
-   "baseline": 14900,
-   "baselineNote": "판매글 33곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hnkX6ZcXHE"
   }
  ]
 }
