@@ -1,7 +1,19 @@
 {
- "updated": "2026-09-29T18:11:14.189+09:00",
+ "updated": "2026-09-29T18:55:23.763+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3377914903",
+   "mall": "롯데온",
+   "title": "푸주 한돈으로 만든 고추장 불고기 4팩 + 간장맛 순한 돼지불고기 4팩 외",
+   "price": 16640,
+   "image": "https://contents.lotteon.com/itemimage/20260810150327/LO/26/89/63/15/64/_2/68/96/31/56/5/LO2689631564_2689631565_1.jpg",
+   "sentAt": "2026-09-29T18:55:23.186+09:00",
+   "saving": 32,
+   "baseline": 24450,
+   "baselineNote": "판매글 3곳 최저가",
+   "link": "http://app.ac/YECqGqS23"
+  },
   {
    "uid": "8698226649",
    "mall": "11번가",
@@ -687,18 +699,6 @@
    "baselineNote": "판매글 15곳 최저가",
    "unit": "[object Object]",
    "link": "https://toss.shopping/_m/DsCifLqo"
-  },
-  {
-   "uid": "1576935393",
-   "mall": "쿠팡",
-   "title": "크리넥스 코튼처럼 부드러운 프리미엄 미니티슈 카카오프렌즈, 230매입, 6개",
-   "price": 5820,
-   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/281194090687917-9b48f7c0-2084-4a7d-a5dc-c8840ff1b689.jpg",
-   "sentAt": "2026-09-27T16:19:15.113+09:00",
-   "saving": 22,
-   "baseline": 7480,
-   "baselineNote": "판매글 40곳 최저가",
-   "link": "https://link.coupang.com/a/gl5T7Cy50K"
   }
  ]
 }
