@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-29T17:11:30.003+09:00",
+ "updated": "2026-09-29T17:16:59.063+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3545911130",
+   "mall": "쿠팡",
+   "title": "오레오오즈 시리얼 450g 2개",
+   "price": 11070,
+   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/239114803017380-dc4ab663-350c-4501-b274-3b2970c32128.jpg",
+   "sentAt": "2026-09-29T17:16:58.375+09:00",
+   "saving": 47,
+   "baseline": 20740,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gK2hKKhp3Q"
+  },
   {
    "uid": "1816008117",
    "mall": "토스쇼핑",
@@ -693,16 +706,6 @@
    "baselineNote": "판매글 8곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hno4psmSAK"
-  },
-  {
-   "uid": "6493870804",
-   "mall": "쿠팡",
-   "title": "듀라셀 오리지널 AAA 건전지, 20개입, 1개",
-   "price": 9730,
-   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/88504895011624-349b534a-7b7b-43f8-964c-3f130494c65c.jpg",
-   "sentAt": "2026-09-27T10:57:27.195+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gzGnJqyXaC"
   }
  ]
 }
