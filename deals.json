@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-29T09:22:11.849+09:00",
+ "updated": "2026-09-29T09:59:26.766+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7674723060",
+   "mall": "쿠팡",
+   "title": "모던하우스 ON 아크릴수세미 4종 세트 그린, 4개입, 1세트",
+   "price": 990,
+   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/250858281660432-54763300-951f-42a3-81ca-2f51feb680bb.jpg",
+   "sentAt": "2026-09-29T09:59:26.168+09:00",
+   "saving": 92,
+   "baseline": 13120,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hqD2uly0tM"
+  },
   {
    "uid": "1012874118",
    "mall": "토스쇼핑",
@@ -699,19 +712,6 @@
    "baselineNote": "42곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hl5GOUxlaS"
-  },
-  {
-   "uid": "5933351400",
-   "mall": "쿠팡",
-   "title": "리템 하이브 데스크오거나이저, 화이트, 2개",
-   "price": 8750,
-   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/907c/8a61ee3d19200855e71185e90692f76a8ff4a810934653af2a5501e9e93c.jpg",
-   "sentAt": "2026-09-26T15:25:22.784+09:00",
-   "saving": 59,
-   "baseline": 21140,
-   "baselineNote": "판매글 23곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hl2BVLjiqy"
   }
  ]
 }
