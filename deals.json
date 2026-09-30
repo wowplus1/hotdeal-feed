@@ -1,7 +1,19 @@
 {
- "updated": "2026-09-30T08:02:43.987+09:00",
+ "updated": "2026-09-30T09:03:27.885+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2946463897",
+   "mall": "토스쇼핑",
+   "title": "한경희 LED 스탠드형 스팀다리미, HSI-D2520, 화이트, 1개",
+   "price": 136000,
+   "image": "https://shopping.toss.im/live/taca/ai/v2/OWRiMTE1/QUsxdHZBeGUwbUhqV2hZVHBGcmMzdEdsTDZZejNwRjVIRkxrZWN6ZW1JZno.png",
+   "sentAt": "2026-09-30T09:03:27.147+09:00",
+   "saving": 32,
+   "baseline": 199000,
+   "baselineNote": "판매글 3곳 최저가",
+   "link": "https://toss.shopping/_m/32WtOMRq"
+  },
   {
    "uid": "1894223584",
    "mall": "쿠팡",
@@ -684,15 +696,6 @@
    "baseline": 5530,
    "baselineNote": "31곳 중 최저",
    "link": "https://link.coupang.com/a/hn1uNvSA1Y"
-  },
-  {
-   "uid": "3254030039",
-   "mall": "롯데온",
-   "title": "SAMSUNG 삼성 갤럭시 버즈4 프로 SM-R640 블루투스 이어폰 액티브 노이즈 캔슬링",
-   "price": 204731,
-   "image": "https://contents.lotteon.com/itemimage/20260923144341/LO/27/76/73/82/07/_2/77/67/38/20/8/LO2776738207_2776738208_1.jpg",
-   "sentAt": "2026-09-27T17:47:21.799+09:00",
-   "link": "http://app.ac/EbpNQVl33"
   }
  ]
 }
