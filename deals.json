@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-30T17:17:08.442+09:00",
+ "updated": "2026-09-30T17:56:18.143+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5479804863",
+   "mall": "11번가",
+   "title": "오리온 크림치즈 샌드 나 77g, 10개",
+   "price": 8800,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9167438816/B.webp?27694510",
+   "sentAt": "2026-09-30T17:56:17.550+09:00",
+   "saving": 50,
+   "baseline": 17550,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/UAGrCF523"
+  },
   {
    "uid": "6900835236",
    "mall": "쿠팡",
@@ -689,19 +702,6 @@
    "baselineNote": "판매글 28곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hquehTuRae"
-  },
-  {
-   "uid": "9619858317",
-   "mall": "쿠팡",
-   "title": "엠앤엠즈 밀크 픽앤믹스 초콜릿, 337.5g, 1개",
-   "price": 8290,
-   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/1025_amir_coupang_oct_80k/0ebd/baa69dcd5dc1731003c7f1ecdfabc812f3d5e8525f76ae52d382d3783158.jpg",
-   "sentAt": "2026-09-29T07:38:28.296+09:00",
-   "saving": 46,
-   "baseline": 15300,
-   "baselineNote": "21곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/f9zn55DdSe"
   }
  ]
 }
