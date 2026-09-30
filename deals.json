@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-01T07:44:22.627+09:00",
+ "updated": "2026-10-01T07:49:08.379+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3463057848",
+   "mall": "쿠팡",
+   "title": "하이뮨 프로틴 밸런스 L, 608g, 1개",
+   "price": 24840,
+   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/d7cb/845be5ec70e6e63c9668c58899b2ba2cddaea7fa1a57042c4ea7a8125be6.jpg",
+   "sentAt": "2026-10-01T07:49:07.763+09:00",
+   "saving": 36,
+   "baseline": 38700,
+   "baselineNote": "3곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/htOxZw5Twa"
+  },
   {
    "uid": "5753453045",
    "mall": "쿠팡",
@@ -691,18 +704,6 @@
    "baselineNote": "판매글 28곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gsLYde1HEa"
-  },
-  {
-   "uid": "3872932673",
-   "mall": "쿠팡",
-   "title": "LG전자 2025 그램 프로 AI 16 코어 Ultra5 256GB 16GB 루나레이크 노트북",
-   "price": 1413610,
-   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/590361029837486-b84d9f4a-d007-429d-927e-b8d865349f78.png",
-   "sentAt": "2026-09-29T11:25:21.133+09:00",
-   "saving": 29,
-   "baseline": 1985610,
-   "baselineNote": "판매글 9곳 최저가",
-   "link": "https://link.coupang.com/a/gVAVQhrvvU"
   }
  ]
 }
