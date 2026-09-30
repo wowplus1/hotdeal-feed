@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-30T10:50:34.015+09:00",
+ "updated": "2026-09-30T11:06:38.698+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8570793257",
+   "mall": "쿠팡",
+   "title": "조지아 블랙 무라벨 커피, 370ml, 20개",
+   "price": 16440,
+   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/129299413373747-329dd76d-4db8-417c-b8ac-4b62ff55c1d1.jpg",
+   "sentAt": "2026-09-30T11:06:37.844+09:00",
+   "saving": 33,
+   "baseline": 24480,
+   "baselineNote": "판매글 27곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gwhWYW2f3k"
+  },
   {
    "uid": "4720758280",
    "mall": "지마켓",
@@ -689,18 +702,6 @@
    "baseline": 29720,
    "baselineNote": "판매글 3곳 최저가",
    "link": "https://link.coupang.com/a/ho0EaNqeZM"
-  },
-  {
-   "uid": "4237892019",
-   "mall": "토스쇼핑",
-   "title": "맘스럽 시그니처코튼 물티슈, 100매입, 10팩, 1개",
-   "price": 4990,
-   "image": "https://shopping.toss.im/live/temp/2026-08-19/0a772c5e-a39c-483a-901f-cf08c10f1f4d.jpeg",
-   "sentAt": "2026-09-28T09:08:05.345+09:00",
-   "saving": 48,
-   "baseline": 9600,
-   "baselineNote": "판매글 7곳 최저가",
-   "link": "https://toss.shopping/_m/hYhoxadh"
   }
  ]
 }
