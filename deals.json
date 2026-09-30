@@ -1,7 +1,19 @@
 {
- "updated": "2026-09-30T16:54:37.789+09:00",
+ "updated": "2026-09-30T17:03:28.794+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6766842552",
+   "mall": "하이마트",
+   "title": "오브제 모던엣지 콤비 냉장고 Q405MEE151",
+   "price": 935000,
+   "image": "https://static1.e-himart.co.kr/contents/goods/00/65/02/80/93/0065028093__Q405MEE151.AKOR__M_640_640.jpg",
+   "sentAt": "2026-09-30T17:03:28.066+09:00",
+   "saving": 15,
+   "baseline": 1099000,
+   "baselineNote": "179곳 중 최저 · 무료배송",
+   "link": "http://app.ac/ebpzM6l53"
+  },
   {
    "uid": "2150083888",
    "mall": "쿠팡",
@@ -694,16 +706,6 @@
    "baselineNote": "186곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hqtmUxVjzw"
-  },
-  {
-   "uid": "5689689804",
-   "mall": "쿠팡",
-   "title": "이지드롭 변기크리너 레몬향, 3개",
-   "price": 9310,
-   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/a4c1a941-18de-460b-be74-3fefca23f8617229786411023203761.png",
-   "sentAt": "2026-09-29T07:17:34.366+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hqsskxYH7s"
   }
  ]
 }
