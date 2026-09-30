@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-30T12:03:51.891+09:00",
+ "updated": "2026-09-30T13:33:09.305+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5784318662",
+   "mall": "토스쇼핑",
+   "title": "멈칫 바이오톡스 디퓨저, 잉글리쉬페어앤프리지아, 200ml, 2개",
+   "price": 7800,
+   "image": "https://shopping.toss.im/live/taca/ai/MjVhYTY5/QU94MjI2azh4bDlwYVQ2UzNwTEo3VGZTVGF2VUxiTlZLVmxVK1paTlZLN1c.png",
+   "sentAt": "2026-09-30T13:33:08.510+09:00",
+   "saving": 52,
+   "baseline": 16190,
+   "baselineNote": "다른 곳 최저",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/pSLsMlsj"
+  },
   {
    "uid": "7192650104",
    "mall": "지마켓",
@@ -686,18 +699,6 @@
    "baseline": 18150,
    "baselineNote": "판매글 22곳 최저가",
    "link": "https://link.coupang.com/a/hpujGvwV7A"
-  },
-  {
-   "uid": "2318493467",
-   "mall": "쿠팡",
-   "title": "나이키 남성용 레볼루션 8 엑스트라 와이드 러닝화 HQ1996, 260",
-   "price": 35620,
-   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/b23b/036eed02507ac417ba1f3d5751bf5e0b3393aa399ef7b4cae33353de6a98.jpg",
-   "sentAt": "2026-09-28T15:51:00.500+09:00",
-   "saving": 38,
-   "baseline": 57510,
-   "baselineNote": "357곳 중 최저",
-   "link": "https://link.coupang.com/a/hpoguDsXG8"
   }
  ]
 }
