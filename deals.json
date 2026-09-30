@@ -1,7 +1,19 @@
 {
- "updated": "2026-09-30T10:27:29.263+09:00",
+ "updated": "2026-09-30T10:31:28.934+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3260787279",
+   "mall": "쿠팡",
+   "title": "시티즌 녹판 BM8180-71W 남자시계",
+   "price": 133490,
+   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/f4e1/9ad4b43dcd2e28bbf7e90e160252c750b9de8b6c2abd7001373218203077.jpg",
+   "sentAt": "2026-09-30T10:31:28.433+09:00",
+   "saving": 14,
+   "baseline": 155580,
+   "baselineNote": "판매글 38곳 최저가",
+   "link": "https://link.coupang.com/a/hslctFoiWG"
+  },
   {
    "uid": "6026162801",
    "mall": "롯데온",
@@ -683,16 +695,6 @@
    "image": "https://contents.lotteon.com/itemimage/20260916172728/LO/24/47/29/64/81/bndl_img/LO2447296481_1.jpg",
    "sentAt": "2026-09-28T09:00:26.933+09:00",
    "link": "http://app.ac/kECTIQS23"
-  },
-  {
-   "uid": "4497064171",
-   "mall": "쿠팡",
-   "title": "락앤락 인디고 글라스 320ml*6개",
-   "price": 8680,
-   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/75620674511167-8f00f40b-7d97-454a-983e-95bf6d8f7814.jpg",
-   "sentAt": "2026-09-28T08:00:13.531+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hoQzXi1XnE"
   }
  ]
 }
