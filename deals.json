@@ -1,7 +1,19 @@
 {
- "updated": "2026-09-30T14:21:08.976+09:00",
+ "updated": "2026-09-30T15:05:02.586+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2074204180",
+   "mall": "토스쇼핑",
+   "title": "CKI 휴대용 핸디 헤어 스트레이트너 CKI-0703, 핑크, 1개",
+   "price": 12700,
+   "image": "https://shopping.toss.im/live/taca/ai/MWIwNWUy/QU1wSmJrbGFTUzFzbWt2Yk03bXptYkpOc3BTVFpiVG0zQ1NrdHMyVEpFazM.png",
+   "sentAt": "2026-09-30T15:05:01.816+09:00",
+   "saving": 20,
+   "baseline": 15890,
+   "baselineNote": "21곳 중 최저 · 무료배송",
+   "link": "https://toss.shopping/_m/rURl3iqw"
+  },
   {
    "uid": "2881861448",
    "mall": "쿠팡",
@@ -693,15 +705,6 @@
    "image": "https://shopping.toss.im/live/temp/2025-07-14/aeb75237-48c0-4117-a091-b62aa0c45780.png",
    "sentAt": "2026-09-28T21:30:29.500+09:00",
    "link": "https://toss.shopping/_m/DgyEHtV9"
-  },
-  {
-   "uid": "4233674512",
-   "mall": "롯데온",
-   "title": "W P-6000 BV1021-022",
-   "price": 72110,
-   "image": "https://contents.lotteon.com/itemimage/20260923180755/LE/12/22/51/91/71/_1/33/68/95/24/1/LE1222519171_1336895241_1.jpg",
-   "sentAt": "2026-09-28T20:25:34.406+09:00",
-   "link": "http://app.ac/AAGx4W563"
   }
  ]
 }
