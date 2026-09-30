@@ -1,7 +1,19 @@
 {
- "updated": "2026-09-30T10:18:39.755+09:00",
+ "updated": "2026-09-30T10:22:52.473+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3261297360",
+   "mall": "쿠팡",
+   "title": "홍영의 붉은대게 백간장, 500ml, 1개",
+   "price": 7150,
+   "image": "https://t3a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/13779973240795-2b82dcf3-28c0-4029-850b-62fc12f35a34.jpg",
+   "sentAt": "2026-09-30T10:22:51.980+09:00",
+   "saving": 21,
+   "baseline": 9020,
+   "baselineNote": "33곳 중 최저",
+   "link": "https://link.coupang.com/a/hskzEo0lzg"
+  },
   {
    "uid": "3924418885",
    "mall": "쿠팡",
@@ -680,19 +692,6 @@
    "baseline": 7290,
    "baselineNote": "30곳 중 최저",
    "link": "https://link.coupang.com/a/hoNRnb0qpo"
-  },
-  {
-   "uid": "6618613940",
-   "mall": "쿠팡",
-   "title": "글라스락 내열 강화유리 정사각 간편 찬통, 6개, 850ml",
-   "price": 15240,
-   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/e151/70c749fe4527d9a7571d415377d9f91cdfdcc49762c7c874542124113d91.png",
-   "sentAt": "2026-09-28T07:19:24.504+09:00",
-   "saving": 21,
-   "baseline": 19350,
-   "baselineNote": "판매글 7곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hoNG29HCHk"
   }
  ]
 }
