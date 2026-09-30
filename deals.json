@@ -1,7 +1,19 @@
 {
- "updated": "2026-09-30T09:05:46.193+09:00",
+ "updated": "2026-09-30T09:11:25.227+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4254306678",
+   "mall": "쿠팡",
+   "title": "세타필 모이스춰라이징 로션 1.25L",
+   "price": 17740,
+   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/34596278653464-caa22e7d-dff4-4c9a-a8da-143cd32d85aa.jpg",
+   "sentAt": "2026-09-30T09:11:24.616+09:00",
+   "saving": 42,
+   "baseline": 30540,
+   "baselineNote": "판매글 10곳 최저가",
+   "link": "https://link.coupang.com/a/gYlZ4rRaeq"
+  },
   {
    "uid": "6184303527",
    "mall": "토스쇼핑",
@@ -684,18 +696,6 @@
    "baselineNote": "판매글 16곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gkKvlsxQHs"
-  },
-  {
-   "uid": "4011982143",
-   "mall": "쿠팡",
-   "title": "나우푸드 아연 50mg, 250정, 1개",
-   "price": 4190,
-   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/4553/1b3252124dc55ad0a529351865657d2d415e0dd73b9e35c2c91498554b1e.jpg",
-   "sentAt": "2026-09-28T07:00:41.728+09:00",
-   "saving": 62,
-   "baseline": 11082,
-   "baselineNote": "33곳 중 최저",
-   "link": "https://link.coupang.com/a/hoMnb38sai"
   }
  ]
 }
