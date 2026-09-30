@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-30T09:25:35.460+09:00",
+ "updated": "2026-09-30T10:03:31.484+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8585026087",
+   "mall": "쿠팡",
+   "title": "세타필 모이스춰라이징 크림, 550g, 2개 23,860원",
+   "price": 23860,
+   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/107773577349111-724cc438-f29e-4636-9a1c-0a4b7bcb57b6.jpg",
+   "sentAt": "2026-09-30T10:03:30.738+09:00",
+   "saving": 35,
+   "baseline": 36470,
+   "baselineNote": "판매글 14곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hsjcet77jo"
+  },
   {
    "uid": "9414339170",
    "mall": "지마켓",
@@ -680,19 +693,6 @@
    "baselineNote": "판매글 23곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hoNxnXXOzQ"
-  },
-  {
-   "uid": "3257009737",
-   "mall": "쿠팡",
-   "title": "이클립스 블랙커런트향 캔디, 35g, 8개",
-   "price": 8520,
-   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/1025_amir_coupang_oct_80k/cc31/737b4dd4fe7ff47277495b1f64b78b9fac3fadfc5c3f35f961cf6b9ffa71.jpg",
-   "sentAt": "2026-09-28T07:09:15.472+09:00",
-   "saving": 44,
-   "baseline": 15220,
-   "baselineNote": "14곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/f9Av1SeaKi"
   }
  ]
 }
