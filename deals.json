@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-30T10:22:52.473+09:00",
+ "updated": "2026-09-30T10:27:29.263+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6026162801",
+   "mall": "롯데온",
+   "title": "국내가공 백진미채 1kg / 아이스박스포장",
+   "price": 17790,
+   "image": "https://contents.lotteon.com/itemimage/20260930101706/LO/27/02/39/59/65/_2/70/23/95/96/6/LO2702395965_2702395966_4.jpg",
+   "sentAt": "2026-09-30T10:27:28.743+09:00",
+   "saving": 29,
+   "baseline": 24900,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/WAG1AI523"
+  },
   {
    "uid": "3261297360",
    "mall": "쿠팡",
@@ -680,18 +693,6 @@
    "sentAt": "2026-09-28T08:00:13.531+09:00",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hoQzXi1XnE"
-  },
-  {
-   "uid": "1967518413",
-   "mall": "쿠팡",
-   "title": "에뛰드하우스 립 앤 아이 리무버, 250ml, 1개",
-   "price": 4500,
-   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/549615796488186-acb53100-3faf-4265-800f-1584437f1674.jpg",
-   "sentAt": "2026-09-28T07:21:39.773+09:00",
-   "saving": 38,
-   "baseline": 7290,
-   "baselineNote": "30곳 중 최저",
-   "link": "https://link.coupang.com/a/hoNRnb0qpo"
   }
  ]
 }
