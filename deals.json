@@ -1,7 +1,16 @@
 {
- "updated": "2026-09-30T15:07:00.603+09:00",
+ "updated": "2026-09-30T16:11:40.264+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1484649780",
+   "mall": "쿠팡",
+   "title": "세이코 솔라 SBPX083 남자시계",
+   "price": 159330,
+   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/a48c/13304375067de1915b5397f5744eec446d8790da22a3546f833e5bda286e.jpg",
+   "sentAt": "2026-09-30T16:11:39.530+09:00",
+   "link": "https://link.coupang.com/a/hsJuObxbi0"
+  },
   {
    "uid": "4292308421",
    "mall": "쿠팡",
@@ -694,18 +703,6 @@
    "baseline": 77430,
    "baselineNote": "판매글 6곳 최저가",
    "link": "https://link.coupang.com/a/hqsex9EM3w"
-  },
-  {
-   "uid": "4401937787",
-   "mall": "쿠팡",
-   "title": "유닉스 에어스피더 BLDC 드라이기 1600W",
-   "price": 39910,
-   "image": "https://t3a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/e4e0/850c05738c56cfdea3b35cbd183f86539692a6f9f58dcf17ab2b344818cf.png",
-   "sentAt": "2026-09-29T07:05:23.481+09:00",
-   "saving": 43,
-   "baseline": 70040,
-   "baselineNote": "판매글 4곳 최저가",
-   "link": "https://link.coupang.com/a/hqrBQNDJ9M"
   }
  ]
 }
