@@ -1,7 +1,16 @@
 {
- "updated": "2026-09-30T12:03:04.280+09:00",
+ "updated": "2026-09-30T12:03:51.891+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7192650104",
+   "mall": "지마켓",
+   "title": "HEM-7121J 가정용 자동전자혈압계 혈압측정기",
+   "price": 50000,
+   "image": "https://gdimg.gmarket.co.kr/3181843810/goodsimage",
+   "sentAt": "2026-09-30T12:03:51.387+09:00",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=3181843810"
+  },
   {
    "uid": "5479258947",
    "mall": "쿠팡",
@@ -689,19 +698,6 @@
    "baseline": 57510,
    "baselineNote": "357곳 중 최저",
    "link": "https://link.coupang.com/a/hpoguDsXG8"
-  },
-  {
-   "uid": "1117685994",
-   "mall": "쿠팡",
-   "title": "콘푸로스트 라이트 시리얼, 530g, 2개",
-   "price": 7100,
-   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/e66a/ae77da57a38d469a5052c0812996f476a3461230a74e0920bebccfa664e2.jpg",
-   "sentAt": "2026-09-28T15:04:04.378+09:00",
-   "saving": 41,
-   "baseline": 11970,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hpkTXn8yFo"
   }
  ]
 }
