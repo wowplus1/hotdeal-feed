@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-30T13:33:09.305+09:00",
+ "updated": "2026-09-30T13:40:42.082+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9842216698",
+   "mall": "토스쇼핑",
+   "title": "수뜰리에 소프트 섬유유연제 비누향, 2.5L, 4개",
+   "price": 8900,
+   "image": "https://shopping.toss.im/live/temp/2026-08-10/1e4fe51d-5eff-40b9-82e5-057e3a8529d9.png",
+   "sentAt": "2026-09-30T13:40:41.329+09:00",
+   "saving": 53,
+   "baseline": 19000,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://toss.im/_m/DmM1tP1B"
+  },
   {
    "uid": "5784318662",
    "mall": "토스쇼핑",
@@ -687,18 +700,6 @@
    "baselineNote": "91곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hpwA3egY32"
-  },
-  {
-   "uid": "9772783000",
-   "mall": "쿠팡",
-   "title": "카시오 남성 우레탄 손목시계 F-91WM-3AJH",
-   "price": 11950,
-   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/d1ca/4b68633b487dad2bf5eb323a2f3ff3925a612e8bca4bedbc2303b41bba7c.jpg",
-   "sentAt": "2026-09-28T17:16:04.213+09:00",
-   "saving": 34,
-   "baseline": 18150,
-   "baselineNote": "판매글 22곳 최저가",
-   "link": "https://link.coupang.com/a/hpujGvwV7A"
   }
  ]
 }
