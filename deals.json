@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-01T07:49:08.379+09:00",
+ "updated": "2026-10-01T07:52:28.045+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2699539564",
+   "mall": "쿠팡",
+   "title": "파워에이드 마운틴블라스트 무라벨, 355ml, 20개",
+   "price": 13610,
+   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/3791012530342-62232d3f-aa6f-4929-98e6-09442c8e391d.jpg",
+   "sentAt": "2026-10-01T07:52:27.469+09:00",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gnRAgAQf3k"
+  },
   {
    "uid": "3463057848",
    "mall": "쿠팡",
@@ -691,19 +701,6 @@
    "baselineNote": "141곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gcbVKfTQ8O"
-  },
-  {
-   "uid": "2161019304",
-   "mall": "쿠팡",
-   "title": "매일두유 고단백 플레인 두유, 190ml, 24개",
-   "price": 15210,
-   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/18173613690250-8e416156-0a55-413b-9873-1784de864fab.jpg",
-   "sentAt": "2026-09-29T12:03:02.277+09:00",
-   "saving": 27,
-   "baseline": 20805,
-   "baselineNote": "판매글 28곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gsLYde1HEa"
   }
  ]
 }
