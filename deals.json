@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-30T10:31:28.934+09:00",
+ "updated": "2026-09-30T10:40:16.241+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5283365843",
+   "mall": "11번가",
+   "title": "제주 서귀포 극조생감귤 로얄과 4.5kg /실중량",
+   "price": 9980,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/8757659737/B.webp?669344929",
+   "sentAt": "2026-09-30T10:40:15.700+09:00",
+   "saving": 21,
+   "baseline": 12670,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/ojwxjFa43"
+  },
   {
    "uid": "3260787279",
    "mall": "쿠팡",
@@ -686,15 +699,6 @@
    "image": "https://shopping.toss.im/live/temp/2025-10-27/d740c6bf-59a4-4f4a-af47-79bb8b10bb24.jpeg",
    "sentAt": "2026-09-28T09:06:45.696+09:00",
    "link": "https://toss.shopping/_m/tyL4GMbv"
-  },
-  {
-   "uid": "6979112772",
-   "mall": "롯데온",
-   "title": "001 신더 001M-CINDER",
-   "price": 271440,
-   "image": "https://contents.lotteon.com/itemimage/20260916172728/LO/24/47/29/64/81/bndl_img/LO2447296481_1.jpg",
-   "sentAt": "2026-09-28T09:00:26.933+09:00",
-   "link": "http://app.ac/kECTIQS23"
   }
  ]
 }
