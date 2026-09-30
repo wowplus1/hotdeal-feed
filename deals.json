@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-30T11:10:01.997+09:00",
+ "updated": "2026-09-30T11:29:57.276+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5440151184",
+   "mall": "지마켓",
+   "title": "햇 사과대추 1kg",
+   "price": 11870,
+   "image": "https://gdimg.gmarket.co.kr/4158232750/goodsimage",
+   "sentAt": "2026-09-30T11:29:56.472+09:00",
+   "saving": 30,
+   "baseline": 16910,
+   "baselineNote": "판매글 9곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4158232750"
+  },
   {
    "uid": "6875083285",
    "mall": "토스쇼핑",
@@ -694,15 +707,6 @@
    "baselineNote": "판매글 3곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/ho32corFf2"
-  },
-  {
-   "uid": "7799081947",
-   "mall": "지마켓",
-   "title": "오므론 혈압 측정기HEM-7142T2",
-   "price": 68910,
-   "image": "https://gdimg.gmarket.co.kr/2897716862/goodsimage",
-   "sentAt": "2026-09-28T11:01:11.174+09:00",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2897716862"
   }
  ]
 }
