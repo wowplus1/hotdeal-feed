@@ -1,7 +1,16 @@
 {
- "updated": "2026-10-01T07:24:09.520+09:00",
+ "updated": "2026-10-01T07:29:59.766+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7631444412",
+   "mall": "쿠팡",
+   "title": "스탠리 퀜처 H2.0 플로우스테이트 텀블러 591ml*1개",
+   "price": 26270,
+   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/323998672578335-45df1932-c130-4dbb-8f88-8de8382b62a5.jpg",
+   "sentAt": "2026-10-01T07:29:59.192+09:00",
+   "link": "https://link.coupang.com/a/htM7SMmIa4"
+  },
   {
    "uid": "8863332654",
    "mall": "토스쇼핑",
@@ -693,19 +702,6 @@
    "baseline": 15890,
    "baselineNote": "판매글 15곳 최저가",
    "link": "http://app.ac/ljwvLSa53"
-  },
-  {
-   "uid": "7674723060",
-   "mall": "쿠팡",
-   "title": "모던하우스 ON 아크릴수세미 4종 세트 그린, 4개입, 1세트",
-   "price": 990,
-   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/250858281660432-54763300-951f-42a3-81ca-2f51feb680bb.jpg",
-   "sentAt": "2026-09-29T09:59:26.168+09:00",
-   "saving": 92,
-   "baseline": 13120,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hqD2uly0tM"
   }
  ]
 }
