@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-30T11:06:38.698+09:00",
+ "updated": "2026-09-30T11:10:01.997+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6875083285",
+   "mall": "토스쇼핑",
+   "title": "엠앤엠즈 미니 튜브, 35g, 24개",
+   "price": 17400,
+   "image": "https://shopping.toss.im/live/taca/ai/OTdmZTQx/V1diRzkrOUxxU2JXdERranprbFN4bVBaU2ZISnBWWHNhbGk4YWJTMFo1ND0.png",
+   "sentAt": "2026-09-30T11:10:01.516+09:00",
+   "saving": 45,
+   "baseline": 31380,
+   "baselineNote": "14곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://toss.im/_m/HhwQfyse"
+  },
   {
    "uid": "8570793257",
    "mall": "쿠팡",
@@ -690,18 +703,6 @@
    "image": "https://gdimg.gmarket.co.kr/2897716862/goodsimage",
    "sentAt": "2026-09-28T11:01:11.174+09:00",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2897716862"
-  },
-  {
-   "uid": "6603765319",
-   "mall": "쿠팡",
-   "title": "벨킨 Z Charger 67W USB C타입 듀얼 포트 GaN 초고속 충전기 WCH020krWH",
-   "price": 25820,
-   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/09/03/17/6/11ea5ffb-2cfd-472e-ba91-13b8b50cd40c.jpg",
-   "sentAt": "2026-09-28T10:20:38.435+09:00",
-   "saving": 13,
-   "baseline": 29720,
-   "baselineNote": "판매글 3곳 최저가",
-   "link": "https://link.coupang.com/a/ho0EaNqeZM"
   }
  ]
 }
