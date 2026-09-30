@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-30T10:45:18.733+09:00",
+ "updated": "2026-09-30T10:50:34.015+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4720758280",
+   "mall": "지마켓",
+   "title": "오븐에구운 촉촉한 도넛 10개입x2박스",
+   "price": 10970,
+   "image": "https://gdimg.gmarket.co.kr/4387022377/goodsimage",
+   "sentAt": "2026-09-30T10:50:33.389+09:00",
+   "saving": 22,
+   "baseline": 14140,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4387022377"
+  },
   {
    "uid": "2471987606",
    "mall": "지마켓",
@@ -688,18 +701,6 @@
    "baseline": 9600,
    "baselineNote": "판매글 7곳 최저가",
    "link": "https://toss.shopping/_m/hYhoxadh"
-  },
-  {
-   "uid": "6605991598",
-   "mall": "토스쇼핑",
-   "title": "모니터 받침대, SQ15, 100cm, 화이트, 1개",
-   "price": 28900,
-   "image": "https://shopping.toss.im/live/temp/2026-08-03/86bfab31-95fc-47a0-95da-3ad80fc598ab.jpeg",
-   "sentAt": "2026-09-28T09:06:45.696+09:00",
-   "saving": 23,
-   "baseline": 37540,
-   "baselineNote": "판매글 3곳 최저가",
-   "link": "https://toss.shopping/_m/NAv48Vbh"
   }
  ]
 }
