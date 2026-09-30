@@ -1,7 +1,16 @@
 {
- "updated": "2026-09-30T17:03:28.794+09:00",
+ "updated": "2026-09-30T17:17:08.442+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6900835236",
+   "mall": "쿠팡",
+   "title": "MSI 2026 모던 A15 AI 플러스 라이젠 AI 라이젠 AI 300 시리즈 512GB 16GB 노트북",
+   "price": 699000,
+   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/8688/6d6353bf8d8a702f35868fda17d8d2d336f3ffcb61109652a05a4b2105a0.jpg",
+   "sentAt": "2026-09-30T17:16:57.960+09:00",
+   "link": "https://link.coupang.com/a/hsN9Nrdw04"
+  },
   {
    "uid": "6766842552",
    "mall": "하이마트",
@@ -693,19 +702,6 @@
    "baselineNote": "21곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/f9zn55DdSe"
-  },
-  {
-   "uid": "2766492555",
-   "mall": "쿠팡",
-   "title": "쿤달 허니 앤드 마카다미아, 네이처 샴푸 베이비파우더향 500ml*2개",
-   "price": 9300,
-   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/548996971556574-cef484c1-e99c-40a3-9720-35f1ed128116.jpg",
-   "sentAt": "2026-09-29T07:30:32.254+09:00",
-   "saving": 49,
-   "baseline": 18220,
-   "baselineNote": "186곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hqtmUxVjzw"
   }
  ]
 }
