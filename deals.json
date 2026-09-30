@@ -1,7 +1,17 @@
 {
- "updated": "2026-09-30T10:40:16.241+09:00",
+ "updated": "2026-09-30T10:45:18.733+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2471987606",
+   "mall": "지마켓",
+   "title": "활 톱밥꽃게 3kg 12미 내외",
+   "price": 36340,
+   "image": "https://gdimg.gmarket.co.kr/4864806415/goodsimage",
+   "sentAt": "2026-09-30T10:45:18.193+09:00",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4864806415"
+  },
   {
    "uid": "5283365843",
    "mall": "11번가",
@@ -690,15 +700,6 @@
    "baseline": 37540,
    "baselineNote": "판매글 3곳 최저가",
    "link": "https://toss.shopping/_m/NAv48Vbh"
-  },
-  {
-   "uid": "8420368624",
-   "mall": "토스쇼핑",
-   "title": "앙쥬 블랙스네일 각질싹 필링젤, 180ml, 1+1+1 구성, 총 3개",
-   "price": 9380,
-   "image": "https://shopping.toss.im/live/temp/2025-10-27/d740c6bf-59a4-4f4a-af47-79bb8b10bb24.jpeg",
-   "sentAt": "2026-09-28T09:06:45.696+09:00",
-   "link": "https://toss.shopping/_m/tyL4GMbv"
   }
  ]
 }
