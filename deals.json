@@ -1,7 +1,17 @@
 {
- "updated": "2026-09-30T15:05:02.586+09:00",
+ "updated": "2026-09-30T15:07:00.603+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4292308421",
+   "mall": "쿠팡",
+   "title": "피죤 건조기용 오리지널 드라이시트 섬유유연제 핑크로즈 본품, 120개입, 1개",
+   "price": 8330,
+   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/265200381119219-2e65c9c4-f923-4e6c-a311-bc8c1daa83d9.jpg",
+   "sentAt": "2026-09-30T15:06:59.800+09:00",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hsERfebGLY"
+  },
   {
    "uid": "2074204180",
    "mall": "토스쇼핑",
@@ -696,15 +706,6 @@
    "baseline": 70040,
    "baselineNote": "판매글 4곳 최저가",
    "link": "https://link.coupang.com/a/hqrBQNDJ9M"
-  },
-  {
-   "uid": "3111249612",
-   "mall": "토스쇼핑",
-   "title": "10SPACE 아망뜨 300 패션 전신거울, 월넛, 1개",
-   "price": 22000,
-   "image": "https://shopping.toss.im/live/temp/2025-07-14/aeb75237-48c0-4117-a091-b62aa0c45780.png",
-   "sentAt": "2026-09-28T21:30:29.500+09:00",
-   "link": "https://toss.shopping/_m/DgyEHtV9"
   }
  ]
 }
