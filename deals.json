@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-30T18:08:49.753+09:00",
+ "updated": "2026-09-30T20:44:47.465+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2407236840",
+   "mall": "토스쇼핑",
+   "title": "초임계 알티지 오메가3 루테인지아잔틴, 1100mg, 30캡슐, 3개",
+   "price": 19900,
+   "image": "https://shopping.toss.im/live/taca/ai/YzE3ZDQ2/QUxTZXIxVG0wbEg0RjlaM2kxV3ZqalJOcWVIaitXVWVDKzhCY1hhL1VJcTU.png",
+   "sentAt": "2026-09-30T20:44:46.730+09:00",
+   "saving": 62,
+   "baseline": 52600,
+   "baselineNote": "판매글 8곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/nF1rrn2m"
+  },
   {
    "uid": "9097090357",
    "mall": "롯데온",
@@ -689,19 +702,6 @@
    "baseline": 14870,
    "baselineNote": "판매글 8곳 최저가",
    "link": "https://link.coupang.com/a/hqvyb0AVZA"
-  },
-  {
-   "uid": "9671578496",
-   "mall": "쿠팡",
-   "title": "테일러 푸룬 딥워터 180ml 4개",
-   "price": 13860,
-   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1047924397647343-3172b7eb-c021-4a65-aa6a-f103031b141e.jpg",
-   "sentAt": "2026-09-29T07:57:31.479+09:00",
-   "saving": 33,
-   "baseline": 20570,
-   "baselineNote": "29곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hqvja1pSOi"
   }
  ]
 }
