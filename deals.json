@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-30T17:56:18.143+09:00",
+ "updated": "2026-09-30T18:08:49.753+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9097090357",
+   "mall": "롯데온",
+   "title": "세타필 모이스춰라이징 로션 591ml 2개",
+   "price": 23750,
+   "image": "https://contents.lotteon.com/itemimage/20260716122224/LO/25/23/01/97/04/_2/52/30/19/70/5/LO2523019704_2523019705_1.jpg",
+   "sentAt": "2026-09-30T18:08:49.160+09:00",
+   "saving": 21,
+   "baseline": 29880,
+   "baselineNote": "판매글 21곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/hjwGYZa93"
+  },
   {
    "uid": "5479804863",
    "mall": "11번가",
@@ -689,19 +702,6 @@
    "baselineNote": "29곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hqvja1pSOi"
-  },
-  {
-   "uid": "1623225762",
-   "mall": "쿠팡",
-   "title": "광동 v라인 유기농 옥수수수염차 500ml 24개",
-   "price": 17510,
-   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/03/31/12/1/14e2a053-c65c-4c74-9a07-ecc262dc4460.jpg",
-   "sentAt": "2026-09-29T07:42:44.258+09:00",
-   "saving": 22,
-   "baseline": 22460,
-   "baselineNote": "판매글 28곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hquehTuRae"
   }
  ]
 }
