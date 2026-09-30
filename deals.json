@@ -1,7 +1,20 @@
 {
- "updated": "2026-09-30T10:03:31.484+09:00",
+ "updated": "2026-09-30T10:18:39.755+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3924418885",
+   "mall": "쿠팡",
+   "title": "뉴케어 마이키즈 바나나맛 150ml*24개",
+   "price": 20540,
+   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/487527425508484-aeb607cd-59f2-478d-aeb9-a3912026c32e.jpg",
+   "sentAt": "2026-09-30T10:18:39.174+09:00",
+   "saving": 40,
+   "baseline": 34130,
+   "baselineNote": "판매글 8곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hskisVmPmK"
+  },
   {
    "uid": "8585026087",
    "mall": "쿠팡",
@@ -680,19 +693,6 @@
    "baselineNote": "판매글 7곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hoNG29HCHk"
-  },
-  {
-   "uid": "3230055767",
-   "mall": "쿠팡",
-   "title": "코카콜라 오리지널 350ml*24개",
-   "price": 15430,
-   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/45775547563672-e9b83757-fd28-4a5d-92de-7ce0af9bf330.jpg",
-   "sentAt": "2026-09-28T07:17:30.593+09:00",
-   "saving": 23,
-   "baseline": 20040,
-   "baselineNote": "판매글 23곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hoNxnXXOzQ"
   }
  ]
 }
