@@ -1,7 +1,19 @@
 {
- "updated": "2026-09-30T11:29:57.276+09:00",
+ "updated": "2026-09-30T11:32:14.023+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3712204074",
+   "mall": "롯데온",
+   "title": "베네통 남성 티셔츠1종 블랙 BNMTLS4O35T",
+   "price": 9770,
+   "image": "https://contents.lotteon.com/itemimage/20260929170418/LO/27/73/34/30/79/bndl_img/LO2773343079_1.jpg",
+   "sentAt": "2026-09-30T11:32:13.550+09:00",
+   "saving": 22,
+   "baseline": 12510,
+   "baselineNote": "판매글 34곳 최저가",
+   "link": "http://app.ac/2AG1lm533"
+  },
   {
    "uid": "5440151184",
    "mall": "지마켓",
@@ -694,19 +706,6 @@
    "baselineNote": "210곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "http://app.ac/Mbpvxql53"
-  },
-  {
-   "uid": "1389173219",
-   "mall": "쿠팡",
-   "title": "프로그 팔목긴 위생장갑 50매 3,590원",
-   "price": 3590,
-   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/123392203800498-05ff80a5-0b74-4b98-be83-7b7668d162bd.jpg",
-   "sentAt": "2026-09-28T11:08:16.278+09:00",
-   "saving": 48,
-   "baseline": 6880,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/ho32corFf2"
   }
  ]
 }
