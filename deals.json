@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-01T07:34:09.994+09:00",
+ "updated": "2026-10-01T07:44:22.627+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5753453045",
+   "mall": "쿠팡",
+   "title": "청정원 토마토 스파게티소스, 600g, 3개",
+   "price": 9690,
+   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/74018536875219-85e4a6c8-b94d-4077-99b8-397bd1255dd4.jpg",
+   "sentAt": "2026-10-01T07:44:21.959+09:00",
+   "saving": 27,
+   "baseline": 13317,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gfpywjyPWS"
+  },
   {
    "uid": "4118721288",
    "mall": "지마켓",
@@ -690,19 +703,6 @@
    "baseline": 1985610,
    "baselineNote": "판매글 9곳 최저가",
    "link": "https://link.coupang.com/a/gVAVQhrvvU"
-  },
-  {
-   "uid": "3552590288",
-   "mall": "쿠팡",
-   "title": "쿠라콘 시오콘부 염장 다시마, 47g, 3개 10,680원",
-   "price": 10680,
-   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/27a1/8b56bc9aab7f69e169a2da90af950adec713bcc56b68cae2533bfe385ed8.jpg",
-   "sentAt": "2026-09-29T11:03:23.524+09:00",
-   "saving": 37,
-   "baseline": 16830,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hqIAjCZgjY"
   }
  ]
 }
