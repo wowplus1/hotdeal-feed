@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-01T07:14:52.360+09:00",
+ "updated": "2026-10-01T07:24:09.520+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8863332654",
+   "mall": "토스쇼핑",
+   "title": "산과들에 윤서의달밤, 30g, 20봉",
+   "price": 11900,
+   "image": "https://shopping.toss.im/live/temp/2026-08-07/d3842a8f-f17f-4c65-abcf-1abbd9080a7a.jpeg",
+   "sentAt": "2026-10-01T07:24:08.945+09:00",
+   "saving": 30,
+   "baseline": 16920,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://toss.im/_m/Hp5wWE7h"
+  },
   {
    "uid": "6629756307",
    "mall": "쿠팡",
@@ -693,16 +706,6 @@
    "baselineNote": "판매글 5곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hqD2uly0tM"
-  },
-  {
-   "uid": "1012874118",
-   "mall": "토스쇼핑",
-   "title": "선풍기 커버, 대형, 그레이, 2개",
-   "price": 6101,
-   "image": "https://shopping.toss.im/live/temp/2025-07-24/3418e7f4-89e0-4bc8-988b-2deceb8bb88c.jpeg",
-   "sentAt": "2026-09-29T09:22:10.944+09:00",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/Ll4uBc22"
   }
  ]
 }
