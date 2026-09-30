@@ -1,7 +1,16 @@
 {
- "updated": "2026-09-30T13:44:12.841+09:00",
+ "updated": "2026-09-30T14:21:08.976+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2881861448",
+   "mall": "쿠팡",
+   "title": "스탠리 퀜처 H2.0 플로우스테이트 텀블러 2.0*1.18L*1개",
+   "price": 34080,
+   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2849633657372996-bcd9b1ee-ad66-43c3-9682-ce568d3cd3b4.jpg",
+   "sentAt": "2026-09-30T14:21:07.798+09:00",
+   "link": "https://link.coupang.com/a/hsBCnjNeF2"
+  },
   {
    "uid": "2856938281",
    "mall": "토스쇼핑",
@@ -693,16 +702,6 @@
    "image": "https://contents.lotteon.com/itemimage/20260923180755/LE/12/22/51/91/71/_1/33/68/95/24/1/LE1222519171_1336895241_1.jpg",
    "sentAt": "2026-09-28T20:25:34.406+09:00",
    "link": "http://app.ac/AAGx4W563"
-  },
-  {
-   "uid": "3217320030",
-   "mall": "쿠팡",
-   "title": "호주산 소고기 샤브샤브용 , 1개, 500g",
-   "price": 9290,
-   "image": "https://t3a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/24689712518039-5ab11da9-f53f-4c81-92e2-bb84e02eb202.jpg",
-   "sentAt": "2026-09-28T19:59:59.844+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hpF0HIcGLA"
   }
  ]
 }
