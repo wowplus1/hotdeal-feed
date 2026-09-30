@@ -1,7 +1,17 @@
 {
- "updated": "2026-09-30T09:11:25.227+09:00",
+ "updated": "2026-09-30T09:25:35.460+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9414339170",
+   "mall": "지마켓",
+   "title": "바세린 핸드 앤 네일 에센스 60ml 2개",
+   "price": 4900,
+   "image": "https://gdimg.gmarket.co.kr/2320981479/goodsimage",
+   "sentAt": "2026-09-30T09:25:34.927+09:00",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2320981479"
+  },
   {
    "uid": "4254306678",
    "mall": "쿠팡",
@@ -683,19 +693,6 @@
    "baselineNote": "14곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/f9Av1SeaKi"
-  },
-  {
-   "uid": "1680867102",
-   "mall": "쿠팡",
-   "title": "가그린 제로 구강청결제, 1.2L, 2개",
-   "price": 9310,
-   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2412923165467698-e1935ae5-ac40-4af8-8861-7f5e30dd41a4.jpg",
-   "sentAt": "2026-09-28T07:04:42.477+09:00",
-   "saving": 33,
-   "baseline": 13900,
-   "baselineNote": "판매글 16곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gkKvlsxQHs"
   }
  ]
 }
