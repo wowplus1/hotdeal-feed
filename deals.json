@@ -1,7 +1,45 @@
 {
- "updated": "2026-09-30T13:40:42.082+09:00",
+ "updated": "2026-09-30T13:44:12.841+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2856938281",
+   "mall": "토스쇼핑",
+   "title": "그릭데이 그릭요거트 시그니처, 100g, 5개",
+   "price": 14500,
+   "image": "https://shopping.toss.im/live/temp/2026-09-10/1e7b1884-27f6-4d35-b19c-b4a227721081.jpeg",
+   "sentAt": "2026-09-30T13:44:12.365+09:00",
+   "saving": 39,
+   "baseline": 23660,
+   "baselineNote": "판매글 6곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://toss.im/_m/vMioa69l"
+  },
+  {
+   "uid": "9141260346",
+   "mall": "토스쇼핑",
+   "title": "착한팩토리 비타 리얼 글루타치온 토너, 400ml, 1개",
+   "price": 12900,
+   "image": "https://shopping.toss.im/live/temp/2025-12-29/f6dd3a57-2190-49de-a963-e3434c6fbaf7.jpeg",
+   "sentAt": "2026-09-30T13:44:12.365+09:00",
+   "saving": 27,
+   "baseline": 17580,
+   "baselineNote": "판매글 8곳 최저가",
+   "link": "https://toss.shopping/_m/J9J1NzT4"
+  },
+  {
+   "uid": "3216175346",
+   "mall": "토스쇼핑",
+   "title": "라오메뜨 전설의패치 레전드, 준대형, 40매, 1개",
+   "price": 8900,
+   "image": "https://shopping.toss.im/live/taca/ai/ODYyZDZm/ZkRRSG4vUGg1SDFIbTd0ay9sTVIvSStENFBnQVBQL0NOQTBQOG0va2NBVT0.png",
+   "sentAt": "2026-09-30T13:44:12.365+09:00",
+   "saving": 16,
+   "baseline": 10550,
+   "baselineNote": "85곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://toss.im/_m/LQTZqmS4"
+  },
   {
    "uid": "9842216698",
    "mall": "토스쇼핑",
@@ -665,41 +703,6 @@
    "sentAt": "2026-09-28T19:59:59.844+09:00",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hpF0HIcGLA"
-  },
-  {
-   "uid": "1552193577",
-   "mall": "롯데온",
-   "title": "얼큰 우거지 갈비탕 5팩",
-   "price": 35980,
-   "image": "https://contents.lotteon.com/itemimage/20260923094321/LO/27/27/80/44/29/_2/72/78/04/43/0/LO2727804429_2727804430_1.png",
-   "sentAt": "2026-09-28T18:25:46.326+09:00",
-   "saving": 12,
-   "baseline": 40850,
-   "baselineNote": "판매글 14곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/CtVzYmM43"
-  },
-  {
-   "uid": "5446412897",
-   "mall": "롯데온",
-   "title": "공용 휘슬라이저 슬립온 7LC7625",
-   "price": 58480,
-   "image": "https://contents.lotteon.com/itemimage/20260923173800/LE/12/22/52/07/79/_1/33/69/04/92/9/LE1222520779_1336904929_1.jpg",
-   "sentAt": "2026-09-28T17:50:49.535+09:00",
-   "link": "http://app.ac/wECTJiS23"
-  },
-  {
-   "uid": "6651928370",
-   "mall": "쿠팡",
-   "title": "해태제과 오예스 미니 크림소다맛, 192g, 2개",
-   "price": 3750,
-   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/abcf4484-56ab-46df-9f7f-1b880a182c2411906668487223699428.png",
-   "sentAt": "2026-09-28T17:47:31.876+09:00",
-   "saving": 41,
-   "baseline": 6330,
-   "baselineNote": "91곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hpwA3egY32"
   }
  ]
 }
