@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-01T07:29:59.766+09:00",
+ "updated": "2026-10-01T07:34:09.994+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4118721288",
+   "mall": "지마켓",
+   "title": "성균관생활건강 뼈를 위한 호두 아몬드 두유 72팩",
+   "price": 21210,
+   "image": "https://gdimg.gmarket.co.kr/4205345989/goodsimage",
+   "sentAt": "2026-10-01T07:34:09.514+09:00",
+   "saving": 13,
+   "baseline": 24510,
+   "baselineNote": "판매글 32곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4205345989"
+  },
   {
    "uid": "7631444412",
    "mall": "쿠팡",
@@ -690,18 +703,6 @@
    "baselineNote": "판매글 4곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hqIAjCZgjY"
-  },
-  {
-   "uid": "1687273287",
-   "mall": "GS SHOP",
-   "title": "리얼프라이스 3겹 화장지 27m x 30롤 x 1팩",
-   "price": 10900,
-   "image": "https://asset.m-gs.kr/prod/1134512880/1/280",
-   "sentAt": "2026-09-29T10:07:19.382+09:00",
-   "saving": 31,
-   "baseline": 15890,
-   "baselineNote": "판매글 15곳 최저가",
-   "link": "http://app.ac/ljwvLSa53"
   }
  ]
 }
