@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-01T16:28:47.274+09:00",
+ "updated": "2026-10-01T16:30:03.632+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7045388999",
+   "mall": "지마켓",
+   "title": "동원 리챔 오리지널 200g x 5개 + 더블라이트 200g x 5개",
+   "price": 17890,
+   "image": "https://gdimg.gmarket.co.kr/4820948443/goodsimage",
+   "sentAt": "2026-10-01T16:30:03.129+09:00",
+   "saving": 12,
+   "baseline": 20320,
+   "baselineNote": "14곳 중 최저 · 무료배송",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4820948443"
+  },
   {
    "uid": "9857763995",
    "mall": "지마켓",
@@ -694,18 +706,6 @@
    "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/4015727893534-22bb65af-b241-4be3-8f86-5004c5cc47af.jpg",
    "sentAt": "2026-09-30T12:03:03.589+09:00",
    "link": "https://link.coupang.com/a/grI53VDYKy"
-  },
-  {
-   "uid": "3712204074",
-   "mall": "롯데온",
-   "title": "베네통 남성 티셔츠1종 블랙 BNMTLS4O35T",
-   "price": 9770,
-   "image": "https://contents.lotteon.com/itemimage/20260929170418/LO/27/73/34/30/79/bndl_img/LO2773343079_1.jpg",
-   "sentAt": "2026-09-30T11:32:13.550+09:00",
-   "saving": 22,
-   "baseline": 12510,
-   "baselineNote": "판매글 34곳 최저가",
-   "link": "http://app.ac/2AG1lm533"
   }
  ]
 }
