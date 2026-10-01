@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-01T13:43:54.775+09:00",
+ "updated": "2026-10-01T13:45:25.752+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6922441942",
+   "mall": "쿠팡",
+   "title": "리고 100% 땅콩버터 크리미, 453g, 2개",
+   "price": 9380,
+   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/f870/a06ae96bc470c3b23e2d6102165b676e6b27785a4fdea757ba88e290bca0.png",
+   "sentAt": "2026-10-01T13:45:25.255+09:00",
+   "saving": 41,
+   "baseline": 16000,
+   "baselineNote": "37곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hudYDFCuvQ"
+  },
   {
    "uid": "5484044860",
    "mall": "지마켓",
@@ -707,19 +720,6 @@
    "baselineNote": "판매글 8곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hskisVmPmK"
-  },
-  {
-   "uid": "8585026087",
-   "mall": "쿠팡",
-   "title": "세타필 모이스춰라이징 크림, 550g, 2개 23,860원",
-   "price": 23860,
-   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/107773577349111-724cc438-f29e-4636-9a1c-0a4b7bcb57b6.jpg",
-   "sentAt": "2026-09-30T10:03:30.738+09:00",
-   "saving": 35,
-   "baseline": 36470,
-   "baselineNote": "판매글 14곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hsjcet77jo"
   }
  ]
 }
