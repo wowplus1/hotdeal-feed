@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-01T10:14:20.656+09:00",
+ "updated": "2026-10-01T10:15:19.236+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4015897284",
+   "mall": "쿠팡",
+   "title": "레노버 2026 아이디어패드 슬림 3 15IPH111 코어Ultra5 인텔 14세대 512GB, 16GB 노트북",
+   "price": 731410,
+   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/06/30/16/1/30482071-b427-4d6d-96c5-11937bde8aa0.jpg",
+   "sentAt": "2026-10-01T10:15:18.740+09:00",
+   "saving": 56,
+   "baseline": 1669000,
+   "baselineNote": "판매글 7곳 최저가",
+   "link": "https://link.coupang.com/a/htYX5C2nxk"
+  },
   {
    "uid": "2694979440",
    "mall": "지마켓",
@@ -695,16 +707,6 @@
    "baseline": 22300,
    "baselineNote": "판매글 9곳 최저가",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=3108542278"
-  },
-  {
-   "uid": "9115489388",
-   "mall": "지마켓",
-   "title": "광천김 올리브유 녹차대용량 도시락김 5g 72봉",
-   "price": 18620,
-   "image": "https://gdimg.gmarket.co.kr/1561054893/goodsimage",
-   "sentAt": "2026-09-29T14:00:21.142+09:00",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=1561054893"
   }
  ]
 }
