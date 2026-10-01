@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-01T11:54:19.793+09:00",
+ "updated": "2026-10-01T11:59:20.271+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3097507987",
+   "mall": "지마켓",
+   "title": "펩시제로 210ml 30캔 +사이다제로 210ml 30캔",
+   "price": 21300,
+   "image": "https://gdimg.gmarket.co.kr/3384154261/goodsimage",
+   "sentAt": "2026-10-01T11:59:19.720+09:00",
+   "saving": 20,
+   "baseline": 26700,
+   "baselineNote": "판매글 7곳 최저가",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=3384154261"
+  },
   {
    "uid": "1167825486",
    "mall": "롯데온",
@@ -711,18 +723,6 @@
    "baseline": 73640,
    "baselineNote": "22곳 중 최저 · 무료배송",
    "link": "https://toss.shopping/_m/viYWlno9"
-  },
-  {
-   "uid": "2946463897",
-   "mall": "토스쇼핑",
-   "title": "한경희 LED 스탠드형 스팀다리미, HSI-D2520, 화이트, 1개",
-   "price": 136000,
-   "image": "https://shopping.toss.im/live/taca/ai/v2/OWRiMTE1/QUsxdHZBeGUwbUhqV2hZVHBGcmMzdEdsTDZZejNwRjVIRkxrZWN6ZW1JZno.png",
-   "sentAt": "2026-09-30T09:03:27.147+09:00",
-   "saving": 32,
-   "baseline": 199000,
-   "baselineNote": "판매글 3곳 최저가",
-   "link": "https://toss.shopping/_m/32WtOMRq"
   }
  ]
 }
