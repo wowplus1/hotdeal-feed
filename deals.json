@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-01T11:42:05.889+09:00",
+ "updated": "2026-10-01T11:54:19.793+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1167825486",
+   "mall": "롯데온",
+   "title": "남성 소가죽 페니 로퍼 - 3MR5001/5002",
+   "price": 58770,
+   "image": "https://contents.lotteon.com/itemimage/20260722161916/LO/24/42/12/74/44/_2/44/21/27/44/5/LO2442127444_2442127445_1.jpg",
+   "sentAt": "2026-10-01T11:54:19.255+09:00",
+   "saving": 26,
+   "baseline": 79930,
+   "baselineNote": "판매글 12곳 최저가",
+   "link": "http://app.ac/jECWxYS03"
+  },
   {
    "uid": "6427569364",
    "mall": "지마켓",
@@ -711,19 +723,6 @@
    "baseline": 199000,
    "baselineNote": "판매글 3곳 최저가",
    "link": "https://toss.shopping/_m/32WtOMRq"
-  },
-  {
-   "uid": "1894223584",
-   "mall": "쿠팡",
-   "title": "돌 하이 오렌지 주스 120ml x 32개",
-   "price": 16570,
-   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/62272490678507-ecc7ad5c-1f5a-4d92-a583-6e8fdb7a15fb.jpg",
-   "sentAt": "2026-09-30T08:02:43.386+09:00",
-   "saving": 41,
-   "baseline": 27950,
-   "baselineNote": "4곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hsayx5uSfk"
   }
  ]
 }
