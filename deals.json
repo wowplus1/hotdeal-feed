@@ -1,7 +1,16 @@
 {
- "updated": "2026-10-01T07:52:28.045+09:00",
+ "updated": "2026-10-01T09:29:16.307+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7966386590",
+   "mall": "지마켓",
+   "title": "냉동 삼겹살 1kg+1kg",
+   "price": 17670,
+   "image": "https://gdimg.gmarket.co.kr/4076604264/goodsimage",
+   "sentAt": "2026-10-01T09:29:15.417+09:00",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4076604264"
+  },
   {
    "uid": "2699539564",
    "mall": "쿠팡",
@@ -688,19 +697,6 @@
    "image": "https://contents.lotteon.com/itemimage/20260928125754/LE/12/21/55/93/89/_1/33/05/29/45/7/LE1221559389_1330529457_1.jpg",
    "sentAt": "2026-09-29T12:37:09.755+09:00",
    "link": "http://app.ac/pjwvPLa83"
-  },
-  {
-   "uid": "7623136669",
-   "mall": "쿠팡",
-   "title": "코카콜라 제로 레몬라임, 30개, 190ml",
-   "price": 12800,
-   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/beba/5686b94b877b38e9bc6234313c121a29a75bf511ad7877c795837e202099.jpg",
-   "sentAt": "2026-09-29T12:16:40.762+09:00",
-   "saving": 13,
-   "baseline": 14760,
-   "baselineNote": "141곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gcbVKfTQ8O"
   }
  ]
 }
