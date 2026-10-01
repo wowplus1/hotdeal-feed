@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-02T07:38:50.835+09:00",
+ "updated": "2026-10-02T07:41:24.688+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5320390398",
+   "mall": "쿠팡",
+   "title": "프로그 라텍스 컴포트 고무장갑 * 3세트",
+   "price": 4280,
+   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/312155490495377-1aef1935-1e37-4e6c-9553-f67816f00c21.jpg",
+   "sentAt": "2026-10-02T07:41:23.931+09:00",
+   "saving": 27,
+   "baseline": 5900,
+   "baselineNote": "판매글 13곳 최저가",
+   "link": "https://link.coupang.com/a/hvsSSYMJTE"
+  },
   {
    "uid": "2362241172",
    "mall": "쿠팡",
@@ -702,16 +714,6 @@
    "image": "https://gdimg.gmarket.co.kr/4076604264/goodsimage",
    "sentAt": "2026-10-01T09:29:15.417+09:00",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4076604264"
-  },
-  {
-   "uid": "2699539564",
-   "mall": "쿠팡",
-   "title": "파워에이드 마운틴블라스트 무라벨, 355ml, 20개",
-   "price": 13610,
-   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/3791012530342-62232d3f-aa6f-4929-98e6-09442c8e391d.jpg",
-   "sentAt": "2026-10-01T07:52:27.469+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gnRAgAQf3k"
   }
  ]
 }
