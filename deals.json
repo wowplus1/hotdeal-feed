@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-02T07:41:24.688+09:00",
+ "updated": "2026-10-02T08:35:51.556+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4103018333",
+   "mall": "쿠팡",
+   "title": "이클립스 캔디 포도향, 34g, 8개",
+   "price": 11740,
+   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/01/08/9/7/0890b3af-fcd7-4fe2-9d17-f2208237162f.jpg",
+   "sentAt": "2026-10-02T08:35:50.848+09:00",
+   "saving": 14,
+   "baseline": 13710,
+   "baselineNote": "380곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gus1IT5hlY"
+  },
   {
    "uid": "5320390398",
    "mall": "쿠팡",
@@ -705,15 +718,6 @@
    "baselineNote": "79곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://toss.im/_m/dI9tWrLD"
-  },
-  {
-   "uid": "7966386590",
-   "mall": "지마켓",
-   "title": "냉동 삼겹살 1kg+1kg",
-   "price": 17670,
-   "image": "https://gdimg.gmarket.co.kr/4076604264/goodsimage",
-   "sentAt": "2026-10-01T09:29:15.417+09:00",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4076604264"
   }
  ]
 }
