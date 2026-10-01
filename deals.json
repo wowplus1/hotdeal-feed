@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-02T07:01:01.474+09:00",
+ "updated": "2026-10-02T07:06:13.486+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3953273607",
+   "mall": "쿠팡",
+   "title": "게토레이 레몬, 300ml, 24개",
+   "price": 12600,
+   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/06/22/11/9/9f2f0406-088a-4c85-8210-95afee35d6b8.png",
+   "sentAt": "2026-10-02T07:06:12.913+09:00",
+   "saving": 30,
+   "baseline": 17970,
+   "baselineNote": "판매글 31곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gcbD1sWWwS"
+  },
   {
    "uid": "5953706997",
    "mall": "지마켓",
@@ -701,19 +714,6 @@
    "baselineNote": "판매글 14곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/htL3ft8slE"
-  },
-  {
-   "uid": "1308218876",
-   "mall": "쿠팡",
-   "title": "그래놀라하우스 오리지널 리필용, 500g, 1개",
-   "price": 12870,
-   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/image_audit/prod/494031f7-4fe5-4059-93a6-832a64bc5388_fixing_v2.png",
-   "sentAt": "2026-09-30T21:40:16.125+09:00",
-   "saving": 44,
-   "baseline": 23060,
-   "baselineNote": "판매글 15곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hs62cQwxAO"
   }
  ]
 }
