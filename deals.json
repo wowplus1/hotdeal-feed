@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-01T14:17:09.917+09:00",
+ "updated": "2026-10-01T14:36:25.953+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7132779964",
+   "mall": "지마켓",
+   "title": "스포츠리서치 오메가3 180정 2병",
+   "price": 99900,
+   "image": "https://gdimg.gmarket.co.kr/4715996604/goodsimage",
+   "sentAt": "2026-10-01T14:36:24.647+09:00",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4715996604"
+  },
   {
    "uid": "7600461231",
    "mall": "11번가",
@@ -701,18 +711,6 @@
    "baselineNote": "판매글 5곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/ojwxjFa43"
-  },
-  {
-   "uid": "3260787279",
-   "mall": "쿠팡",
-   "title": "시티즌 녹판 BM8180-71W 남자시계",
-   "price": 133490,
-   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/f4e1/9ad4b43dcd2e28bbf7e90e160252c750b9de8b6c2abd7001373218203077.jpg",
-   "sentAt": "2026-09-30T10:31:28.433+09:00",
-   "saving": 14,
-   "baseline": 155580,
-   "baselineNote": "판매글 38곳 최저가",
-   "link": "https://link.coupang.com/a/hslctFoiWG"
   }
  ]
 }
