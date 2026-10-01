@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-01T19:05:06.861+09:00",
+ "updated": "2026-10-01T19:54:53.114+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3866460600",
+   "mall": "쿠팡",
+   "title": "오뚜기 스위트콘, 340g, 3개",
+   "price": 3870,
+   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/320342467364406-88d00970-fba4-4789-a36e-49583e51d21d.png",
+   "sentAt": "2026-10-01T19:54:52.317+09:00",
+   "saving": 34,
+   "baseline": 5840,
+   "baselineNote": "17곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/huEk8BvZHU"
+  },
   {
    "uid": "8770561636",
    "mall": "지마켓",
@@ -699,16 +712,6 @@
    "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/a48c/13304375067de1915b5397f5744eec446d8790da22a3546f833e5bda286e.jpg",
    "sentAt": "2026-09-30T16:11:39.530+09:00",
    "link": "https://link.coupang.com/a/hsJuObxbi0"
-  },
-  {
-   "uid": "4292308421",
-   "mall": "쿠팡",
-   "title": "피죤 건조기용 오리지널 드라이시트 섬유유연제 핑크로즈 본품, 120개입, 1개",
-   "price": 8330,
-   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/265200381119219-2e65c9c4-f923-4e6c-a311-bc8c1daa83d9.jpg",
-   "sentAt": "2026-09-30T15:06:59.800+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hsERfebGLY"
   }
  ]
 }
