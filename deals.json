@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-01T11:33:18.592+09:00",
+ "updated": "2026-10-01T11:34:21.911+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6744302182",
+   "mall": "토스쇼핑",
+   "title": "목우촌 주부9단 프랑크 소시지, 500g, 3개",
+   "price": 14500,
+   "image": "https://shopping.toss.im/live/temp/2025-08-27/9649e8fe-d02e-41bf-a1b6-731c2c8becbd.jpeg",
+   "sentAt": "2026-10-01T11:34:21.273+09:00",
+   "saving": 21,
+   "baseline": 18460,
+   "baselineNote": "판매글 27곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/dQNTuMSf"
+  },
   {
    "uid": "8539032792",
    "mall": "쿠팡",
@@ -709,15 +722,6 @@
    "sentAt": "2026-09-30T08:02:43.386+09:00",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gl6Kif8pQO"
-  },
-  {
-   "uid": "5380699071",
-   "mall": "쿠팡",
-   "title": "세타필 모이스춰라이징 로션, 591ml, 1개",
-   "price": 9490,
-   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/77276365654004-a842d9c0-df4d-44fe-82a3-5dc3bc7ba775.jpg",
-   "sentAt": "2026-09-30T07:08:21.679+09:00",
-   "link": "https://link.coupang.com/a/hr6HuCo0Ye"
   }
  ]
 }
