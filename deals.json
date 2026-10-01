@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-01T21:19:50.878+09:00",
+ "updated": "2026-10-01T21:24:39.800+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6496037776",
+   "mall": "11번가",
+   "title": "앙블랑 아기물티슈 그랜드 네이비 캡형 70매X20팩",
+   "price": 23870,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/7407909161/B.webp",
+   "sentAt": "2026-10-01T21:24:39.285+09:00",
+   "saving": 26,
+   "baseline": 32250,
+   "baselineNote": "판매글 27곳 최저가",
+   "link": "http://app.ac/5AGKnn583"
+  },
   {
    "uid": "1389454396",
    "mall": "롯데온",
@@ -703,19 +715,6 @@
    "baselineNote": "판매글 21곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/hjwGYZa93"
-  },
-  {
-   "uid": "5479804863",
-   "mall": "11번가",
-   "title": "오리온 크림치즈 샌드 나 77g, 10개",
-   "price": 8800,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9167438816/B.webp?27694510",
-   "sentAt": "2026-09-30T17:56:17.550+09:00",
-   "saving": 50,
-   "baseline": 17550,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/UAGrCF523"
   }
  ]
 }
