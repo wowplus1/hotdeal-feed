@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-01T14:36:25.953+09:00",
+ "updated": "2026-10-01T14:43:58.575+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2215283017",
+   "mall": "지마켓",
+   "title": "슈퍼대디 82평량 미스터펭 아기 물티슈 캡형 70매 20팩",
+   "price": 19080,
+   "image": "https://gdimg.gmarket.co.kr/2949529082/goodsimage",
+   "sentAt": "2026-10-01T14:43:57.955+09:00",
+   "saving": 54,
+   "baseline": 41360,
+   "baselineNote": "판매글 3곳 최저가",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2949529082"
+  },
   {
    "uid": "7132779964",
    "mall": "지마켓",
@@ -698,19 +710,6 @@
    "sentAt": "2026-09-30T10:45:18.193+09:00",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4864806415"
-  },
-  {
-   "uid": "5283365843",
-   "mall": "11번가",
-   "title": "제주 서귀포 극조생감귤 로얄과 4.5kg /실중량",
-   "price": 9980,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/8757659737/B.webp?669344929",
-   "sentAt": "2026-09-30T10:40:15.700+09:00",
-   "saving": 21,
-   "baseline": 12670,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/ojwxjFa43"
   }
  ]
 }
