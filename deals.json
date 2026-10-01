@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-02T07:06:13.486+09:00",
+ "updated": "2026-10-02T07:15:09.066+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1930238860",
+   "mall": "쿠팡",
+   "title": "씨그램 레몬 무라벨, 350ml, 24개",
+   "price": 9600,
+   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/33455254882561-69061bdf-a29e-415b-84ca-43765250d974.jpg",
+   "sentAt": "2026-10-02T07:15:08.382+09:00",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hgURMD1Aom"
+  },
   {
    "uid": "3953273607",
    "mall": "쿠팡",
@@ -701,19 +711,6 @@
    "baselineNote": "판매글 3곳 최저가",
    "unit": "[object Object]",
    "link": "https://toss.im/_m/Hp5wWE7h"
-  },
-  {
-   "uid": "6629756307",
-   "mall": "쿠팡",
-   "title": "비트 캡슐 실내건조 캡슐세제 그린 플로럴향, 42개입, 1개",
-   "price": 10240,
-   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/6fcd/07874e1b1bf4c3481505ce3bc7014ab3c655512590e64a62b01b4f1a5b1c.jpg",
-   "sentAt": "2026-10-01T07:14:51.539+09:00",
-   "saving": 55,
-   "baseline": 22895,
-   "baselineNote": "판매글 14곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/htL3ft8slE"
   }
  ]
 }
