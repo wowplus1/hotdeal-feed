@@ -1,7 +1,30 @@
 {
- "updated": "2026-10-02T07:22:05.372+09:00",
+ "updated": "2026-10-02T07:25:55.593+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9960050244",
+   "mall": "쿠팡",
+   "title": "양키캔들 라지자 캔들 623g*1개",
+   "price": 11110,
+   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/08db/e9eff32b79c7f220ae10d9ca60b69f234e3e37db3cd73dae310d070dab5d.jpg",
+   "sentAt": "2026-10-02T07:25:55.085+09:00",
+   "saving": 46,
+   "baseline": 20650,
+   "baselineNote": "29곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hvrMcE3Mce"
+  },
+  {
+   "uid": "7826047650",
+   "mall": "쿠팡",
+   "title": "양키캔들 라지자 캔들 623.7g*1개",
+   "price": 11110,
+   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/08db/e9eff32b79c7f220ae10d9ca60b69f234e3e37db3cd73dae310d070dab5d.jpg",
+   "sentAt": "2026-10-02T07:25:55.085+09:00",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hvrMNzQZ08"
+  },
   {
    "uid": "7229358040",
    "mall": "쿠팡",
@@ -689,28 +712,6 @@
    "baselineNote": "판매글 4곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gfpywjyPWS"
-  },
-  {
-   "uid": "4118721288",
-   "mall": "지마켓",
-   "title": "성균관생활건강 뼈를 위한 호두 아몬드 두유 72팩",
-   "price": 21210,
-   "image": "https://gdimg.gmarket.co.kr/4205345989/goodsimage",
-   "sentAt": "2026-10-01T07:34:09.514+09:00",
-   "saving": 13,
-   "baseline": 24510,
-   "baselineNote": "판매글 32곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4205345989"
-  },
-  {
-   "uid": "7631444412",
-   "mall": "쿠팡",
-   "title": "스탠리 퀜처 H2.0 플로우스테이트 텀블러 591ml*1개",
-   "price": 26270,
-   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/323998672578335-45df1932-c130-4dbb-8f88-8de8382b62a5.jpg",
-   "sentAt": "2026-10-01T07:29:59.192+09:00",
-   "link": "https://link.coupang.com/a/htM7SMmIa4"
   }
  ]
 }
