@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-02T08:35:51.556+09:00",
+ "updated": "2026-10-02T08:39:57.602+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5336418115",
+   "mall": "쿠팡",
+   "title": "공차 레몬 자스민티, 500ml, 12개",
+   "price": 11840,
+   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/8a204d60-6a02-444b-b229-cc50ff22f2068876256335793136951.png",
+   "sentAt": "2026-10-02T08:39:56.813+09:00",
+   "saving": 24,
+   "baseline": 15510,
+   "baselineNote": "판매글 32곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hvw5jB3y32"
+  },
   {
    "uid": "4103018333",
    "mall": "쿠팡",
@@ -705,19 +718,6 @@
    "baselineNote": "판매글 17곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/htXBqRJOoK"
-  },
-  {
-   "uid": "2690595693",
-   "mall": "토스쇼핑",
-   "title": "스파클 생수 무라벨, 1L, 36개",
-   "price": 10990,
-   "image": "https://shopping.toss.im/live/taca/ai/ODgyYWFi/UEhQZ2NRT1BNWS9zZk1aeEg0ZGpqdkE4K0hFZm9UdU84Tnk4Y1I3UjU2RT0.png",
-   "sentAt": "2026-10-01T09:54:27.236+09:00",
-   "saving": 11,
-   "baseline": 12330,
-   "baselineNote": "79곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://toss.im/_m/dI9tWrLD"
   }
  ]
 }
