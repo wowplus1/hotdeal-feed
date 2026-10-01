@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-01T13:45:25.752+09:00",
+ "updated": "2026-10-01T13:55:15.887+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3118544900",
+   "mall": "롯데온",
+   "title": "선 미네랄 크림 50ml SPF50+ PA++++",
+   "price": 28060,
+   "image": "https://contents.lotteon.com/itemimage/20260907144510/LO/26/27/06/76/88/bndl_img/LO2627067688_1.png",
+   "sentAt": "2026-10-01T13:55:15.184+09:00",
+   "saving": 10,
+   "baseline": 31210,
+   "baselineNote": "판매글 3곳 최저가",
+   "link": "http://app.ac/5qnOAQ263"
+  },
   {
    "uid": "6922441942",
    "mall": "쿠팡",
@@ -707,19 +719,6 @@
    "baseline": 9020,
    "baselineNote": "33곳 중 최저",
    "link": "https://link.coupang.com/a/hskzEo0lzg"
-  },
-  {
-   "uid": "3924418885",
-   "mall": "쿠팡",
-   "title": "뉴케어 마이키즈 바나나맛 150ml*24개",
-   "price": 20540,
-   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/487527425508484-aeb607cd-59f2-478d-aeb9-a3912026c32e.jpg",
-   "sentAt": "2026-09-30T10:18:39.174+09:00",
-   "saving": 40,
-   "baseline": 34130,
-   "baselineNote": "판매글 8곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hskisVmPmK"
   }
  ]
 }
