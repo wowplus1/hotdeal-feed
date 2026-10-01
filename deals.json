@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-02T08:39:57.602+09:00",
+ "updated": "2026-10-02T08:53:43.525+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5155498750",
+   "mall": "지마켓",
+   "title": "도라지배즙 80ml 100포",
+   "price": 15320,
+   "image": "https://gdimg.gmarket.co.kr/4515805941/goodsimage",
+   "sentAt": "2026-10-02T08:53:42.866+09:00",
+   "saving": 53,
+   "baseline": 32900,
+   "baselineNote": "63곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4515805941"
+  },
   {
    "uid": "5336418115",
    "mall": "쿠팡",
@@ -705,19 +718,6 @@
    "baselineNote": "판매글 7곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4026885381"
-  },
-  {
-   "uid": "1897120201",
-   "mall": "쿠팡",
-   "title": "폰타나 이탈리아 스파게티 500g 3개",
-   "price": 5220,
-   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/23229890409490-a75e2441-c8b7-4653-89ac-6b8857f8695b.png",
-   "sentAt": "2026-10-01T10:02:52.430+09:00",
-   "saving": 33,
-   "baseline": 7740,
-   "baselineNote": "판매글 17곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/htXBqRJOoK"
   }
  ]
 }
