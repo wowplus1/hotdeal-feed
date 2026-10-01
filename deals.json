@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-01T10:26:49.282+09:00",
+ "updated": "2026-10-01T10:38:58.320+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4833526955",
+   "mall": "쿠팡",
+   "title": "오뚜기 3분 쇠고기 간짜장 200g 5개",
+   "price": 5450,
+   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/66211501463025-6804d14f-23bd-46f6-8109-52a25fac50af.jpg",
+   "sentAt": "2026-10-01T10:38:57.558+09:00",
+   "saving": 45,
+   "baseline": 9990,
+   "baselineNote": "2곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/ht0FTDxdpA"
+  },
   {
    "uid": "5084465239",
    "mall": "롯데온",
@@ -698,16 +711,6 @@
    "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/0802/0ce4b67b8a1b42713ced1b1cb754936085db2c7ae19299b9a329df9dbb47.jpg",
    "sentAt": "2026-09-29T14:10:32.824+09:00",
    "link": "https://link.coupang.com/a/g7fkvWGdcy"
-  },
-  {
-   "uid": "2329200372",
-   "mall": "지마켓",
-   "title": "칭따오 0.0 논알콜 맥주 330ml 24캔",
-   "price": 15280,
-   "image": "https://gdimg.gmarket.co.kr/4573241314/goodsimage",
-   "sentAt": "2026-09-29T14:07:13.455+09:00",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4573241314"
   }
  ]
 }
