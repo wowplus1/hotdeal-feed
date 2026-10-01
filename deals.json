@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-01T11:17:14.033+09:00",
+ "updated": "2026-10-01T11:29:25.893+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1228525998",
+   "mall": "지마켓",
+   "title": "부산 다대포 꼬치어묵 40개",
+   "price": 11870,
+   "image": "https://gdimg.gmarket.co.kr/2258499382/goodsimage",
+   "sentAt": "2026-10-01T11:29:25.036+09:00",
+   "saving": 26,
+   "baseline": 15960,
+   "baselineNote": "판매글 9곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2258499382"
+  },
   {
    "uid": "8772250008",
    "mall": "11번가",
@@ -700,16 +713,6 @@
    "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/8521119579/B.webp?505253734",
    "sentAt": "2026-09-29T18:11:13.490+09:00",
    "link": "http://app.ac/Kjwwg9a13"
-  },
-  {
-   "uid": "6398064387",
-   "mall": "지마켓",
-   "title": "루솔 이유식 22팩 45,920원",
-   "price": 45670,
-   "image": "https://gdimg.gmarket.co.kr/4734688465/goodsimage",
-   "sentAt": "2026-09-29T18:03:14.019+09:00",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4734688465"
   }
  ]
 }
