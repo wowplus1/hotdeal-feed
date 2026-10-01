@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-01T11:02:57.665+09:00",
+ "updated": "2026-10-01T11:17:14.033+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8772250008",
+   "mall": "11번가",
+   "title": "삼성전자 오디세이 G5 LS27FG500 68~69cm IPS QHD 180Hz",
+   "price": 271920,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/pd/v2/0/7/6/3/8/8/jbqeJ/8778076388_B.webp",
+   "sentAt": "2026-10-01T11:17:13.327+09:00",
+   "saving": 17,
+   "baseline": 329000,
+   "baselineNote": "판매글 3곳 최저가",
+   "link": "http://app.ac/KECvdOS03"
+  },
   {
    "uid": "2902537668",
    "mall": "지마켓",
@@ -698,19 +710,6 @@
    "sentAt": "2026-09-29T18:03:14.019+09:00",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4734688465"
-  },
-  {
-   "uid": "3545911130",
-   "mall": "쿠팡",
-   "title": "오레오오즈 시리얼 450g 2개",
-   "price": 11070,
-   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/239114803017380-dc4ab663-350c-4501-b274-3b2970c32128.jpg",
-   "sentAt": "2026-09-29T17:16:58.375+09:00",
-   "saving": 47,
-   "baseline": 20740,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gK2hKKhp3Q"
   }
  ]
 }
