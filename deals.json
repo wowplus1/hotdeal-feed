@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-01T15:04:21.464+09:00",
+ "updated": "2026-10-01T15:58:56.760+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2433859169",
+   "mall": "지마켓",
+   "title": "바세린 바디로션 400ml 2개 + 샤워볼 증정",
+   "price": 10980,
+   "image": "https://gdimg.gmarket.co.kr/2203183649/goodsimage",
+   "sentAt": "2026-10-01T15:58:55.850+09:00",
+   "saving": 29,
+   "baseline": 15430,
+   "baselineNote": "판매글 5곳 최저가",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2203183649"
+  },
   {
    "uid": "5766630776",
    "mall": "지마켓",
@@ -697,19 +709,6 @@
    "baselineNote": "14곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://toss.im/_m/HhwQfyse"
-  },
-  {
-   "uid": "8570793257",
-   "mall": "쿠팡",
-   "title": "조지아 블랙 무라벨 커피, 370ml, 20개",
-   "price": 16440,
-   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/129299413373747-329dd76d-4db8-417c-b8ac-4b62ff55c1d1.jpg",
-   "sentAt": "2026-09-30T11:06:37.844+09:00",
-   "saving": 33,
-   "baseline": 24480,
-   "baselineNote": "판매글 27곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gwhWYW2f3k"
   }
  ]
 }
