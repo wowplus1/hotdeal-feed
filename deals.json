@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-01T10:52:14.502+09:00",
+ "updated": "2026-10-01T10:57:23.397+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6417263955",
+   "mall": "11번가",
+   "title": "ASRock 스틸레전드 SL-1000G 80PLUS골드 풀모듈러 ATX3.1",
+   "price": 155880,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9524442834/B.webp?846866518",
+   "sentAt": "2026-10-01T10:57:22.787+09:00",
+   "saving": 18,
+   "baseline": 189050,
+   "baselineNote": "106곳 중 최저",
+   "unit": "[object Object]",
+   "link": "http://app.ac/hbpCnPl13"
+  },
   {
    "uid": "3161789023",
    "mall": "지마켓",
@@ -701,19 +714,6 @@
    "baseline": 73150,
    "baselineNote": "판매글 5곳 최저가",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4865856480"
-  },
-  {
-   "uid": "8969075655",
-   "mall": "쿠팡",
-   "title": "비오비타 키즈 유산균 60p, 120g, 1개",
-   "price": 17800,
-   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/fe18a856-7fbf-493c-81d8-1867210265e57875374378359071028.png",
-   "sentAt": "2026-09-29T15:02:31.454+09:00",
-   "saving": 40,
-   "baseline": 29730,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hqZHlMCvpQ"
   }
  ]
 }
