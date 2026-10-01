@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-01T21:26:25.237+09:00",
+ "updated": "2026-10-02T07:01:01.474+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5953706997",
+   "mall": "지마켓",
+   "title": "뽑아쓰는 키친타올 3겹 100매 9팩",
+   "price": 6650,
+   "image": "https://gdimg.gmarket.co.kr/4776510902/goodsimage",
+   "sentAt": "2026-10-02T07:01:00.730+09:00",
+   "saving": 42,
+   "baseline": 11390,
+   "baselineNote": "판매글 7곳 최저가",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4776510902"
+  },
   {
    "uid": "2008726499",
    "mall": "쿠팡",
@@ -702,19 +714,6 @@
    "baselineNote": "판매글 15곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hs62cQwxAO"
-  },
-  {
-   "uid": "2407236840",
-   "mall": "토스쇼핑",
-   "title": "초임계 알티지 오메가3 루테인지아잔틴, 1100mg, 30캡슐, 3개",
-   "price": 19900,
-   "image": "https://shopping.toss.im/live/taca/ai/YzE3ZDQ2/QUxTZXIxVG0wbEg0RjlaM2kxV3ZqalJOcWVIaitXVWVDKzhCY1hhL1VJcTU.png",
-   "sentAt": "2026-09-30T20:44:46.730+09:00",
-   "saving": 62,
-   "baseline": 52600,
-   "baselineNote": "판매글 8곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/nF1rrn2m"
   }
  ]
 }
