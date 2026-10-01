@@ -1,7 +1,16 @@
 {
- "updated": "2026-10-01T16:30:03.632+09:00",
+ "updated": "2026-10-01T16:56:32.163+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5130020728",
+   "mall": "하이마트",
+   "title": "샤크 파워 클린 360 무선청소기 IW4271KRCP",
+   "price": 735050,
+   "image": "https://static1.e-himart.co.kr/contents/goods/00/50/04/71/93/0050047193__IW4271KRCP__M_640_640.jpg",
+   "sentAt": "2026-10-01T16:56:31.479+09:00",
+   "link": "http://app.ac/lECwXOS13"
+  },
   {
    "uid": "7045388999",
    "mall": "지마켓",
@@ -697,15 +706,6 @@
    "image": "https://gdimg.gmarket.co.kr/3181843810/goodsimage",
    "sentAt": "2026-09-30T12:03:51.387+09:00",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=3181843810"
-  },
-  {
-   "uid": "5479258947",
-   "mall": "쿠팡",
-   "title": "세타필 베이비 데일리 로션, 400ml, 1개",
-   "price": 9870,
-   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/4015727893534-22bb65af-b241-4be3-8f86-5004c5cc47af.jpg",
-   "sentAt": "2026-09-30T12:03:03.589+09:00",
-   "link": "https://link.coupang.com/a/grI53VDYKy"
   }
  ]
 }
