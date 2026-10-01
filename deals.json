@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-01T12:03:33.919+09:00",
+ "updated": "2026-10-01T12:16:07.635+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4220420724",
+   "mall": "쿠팡",
+   "title": "셀퓨전씨 포스트 알파 퍼스트 쿨링 마스크 5개입",
+   "price": 3400,
+   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/266051231470304-245dc95a-f619-4f55-9cad-e722d4003136.jpg",
+   "sentAt": "2026-10-01T12:16:06.950+09:00",
+   "saving": 41,
+   "baseline": 5790,
+   "baselineNote": "123곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/ht7Bmt9P3c"
+  },
   {
    "uid": "9483178301",
    "mall": "지마켓",
@@ -711,19 +724,6 @@
    "baseline": 30540,
    "baselineNote": "판매글 10곳 최저가",
    "link": "https://link.coupang.com/a/gYlZ4rRaeq"
-  },
-  {
-   "uid": "6184303527",
-   "mall": "토스쇼핑",
-   "title": "대림바스 디클린 주방용 멀티필터 헤드 리필 필터, 단색, 4개입, 1세트",
-   "price": 9500,
-   "image": "https://shopping.toss.im/live/taca/ai/MTU0NzE0/SExTdlBmdkwxclRqUy92TEhyU3RheHkwM3JUalMvZmY0MHV0YXh5MDFwUT0.png",
-   "sentAt": "2026-09-30T09:05:45.706+09:00",
-   "saving": 48,
-   "baseline": 18320,
-   "baselineNote": "204곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/p27OfSpD"
   }
  ]
 }
