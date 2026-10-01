@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-01T10:38:58.320+09:00",
+ "updated": "2026-10-01T10:52:14.502+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3161789023",
+   "mall": "지마켓",
+   "title": "에이서 스위프트 에어 SFA14-I31-567J",
+   "price": 699000,
+   "image": "https://gdimg.gmarket.co.kr/4812117383/goodsimage",
+   "sentAt": "2026-10-01T10:52:13.871+09:00",
+   "saving": 42,
+   "baseline": 1199000,
+   "baselineNote": "판매글 7곳 최저가",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4812117383"
+  },
   {
    "uid": "4833526955",
    "mall": "쿠팡",
@@ -702,15 +714,6 @@
    "baselineNote": "판매글 3곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hqZHlMCvpQ"
-  },
-  {
-   "uid": "9794963817",
-   "mall": "쿠팡",
-   "title": "LG 그램 프로 16Z90TS-GS5PK",
-   "price": 1491850,
-   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/0802/0ce4b67b8a1b42713ced1b1cb754936085db2c7ae19299b9a329df9dbb47.jpg",
-   "sentAt": "2026-09-29T14:10:32.824+09:00",
-   "link": "https://link.coupang.com/a/g7fkvWGdcy"
   }
  ]
 }
