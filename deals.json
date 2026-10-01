@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-01T19:04:31.126+09:00",
+ "updated": "2026-10-01T19:05:06.861+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8770561636",
+   "mall": "지마켓",
+   "title": "오리온 초코파이 48P 1872g",
+   "price": 12900,
+   "image": "https://gdimg.gmarket.co.kr/2242561796/goodsimage",
+   "sentAt": "2026-10-01T19:05:06.318+09:00",
+   "saving": 20,
+   "baseline": 16150,
+   "baselineNote": "판매글 8곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2242561796"
+  },
   {
    "uid": "7317073770",
    "mall": "토스쇼핑",
@@ -696,18 +709,6 @@
    "sentAt": "2026-09-30T15:06:59.800+09:00",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hsERfebGLY"
-  },
-  {
-   "uid": "2074204180",
-   "mall": "토스쇼핑",
-   "title": "CKI 휴대용 핸디 헤어 스트레이트너 CKI-0703, 핑크, 1개",
-   "price": 12700,
-   "image": "https://shopping.toss.im/live/taca/ai/MWIwNWUy/QU1wSmJrbGFTUzFzbWt2Yk03bXptYkpOc3BTVFpiVG0zQ1NrdHMyVEpFazM.png",
-   "sentAt": "2026-09-30T15:05:01.816+09:00",
-   "saving": 20,
-   "baseline": 15890,
-   "baselineNote": "21곳 중 최저 · 무료배송",
-   "link": "https://toss.shopping/_m/rURl3iqw"
   }
  ]
 }
