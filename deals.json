@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-01T11:30:59.870+09:00",
+ "updated": "2026-10-01T11:33:18.592+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8539032792",
+   "mall": "쿠팡",
+   "title": "오뚜기 양조 식초, 900ml, 2개",
+   "price": 2180,
+   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/323552448696826-4574664e-94b9-4e2e-824e-d6accb904451.png",
+   "sentAt": "2026-10-01T11:33:18.074+09:00",
+   "saving": 13,
+   "baseline": 2510,
+   "baselineNote": "77곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/ht4wLp9wOq"
+  },
   {
    "uid": "3222764813",
    "mall": "토스쇼핑",
@@ -705,18 +718,6 @@
    "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/77276365654004-a842d9c0-df4d-44fe-82a3-5dc3bc7ba775.jpg",
    "sentAt": "2026-09-30T07:08:21.679+09:00",
    "link": "https://link.coupang.com/a/hr6HuCo0Ye"
-  },
-  {
-   "uid": "3377914903",
-   "mall": "롯데온",
-   "title": "푸주 한돈으로 만든 고추장 불고기 4팩 + 간장맛 순한 돼지불고기 4팩 외",
-   "price": 16640,
-   "image": "https://contents.lotteon.com/itemimage/20260810150327/LO/26/89/63/15/64/_2/68/96/31/56/5/LO2689631564_2689631565_1.jpg",
-   "sentAt": "2026-09-29T18:55:23.186+09:00",
-   "saving": 32,
-   "baseline": 24450,
-   "baselineNote": "판매글 3곳 최저가",
-   "link": "http://app.ac/YECqGqS23"
   }
  ]
 }
