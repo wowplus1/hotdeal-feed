@@ -1,7 +1,16 @@
 {
- "updated": "2026-10-01T10:57:23.397+09:00",
+ "updated": "2026-10-01T10:57:59.801+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3159196985",
+   "mall": "지마켓",
+   "title": "gigabyte g27q20t 200hz qhd 27인치 게이밍 모니터",
+   "price": 240240,
+   "image": "https://gdimg.gmarket.co.kr/4861293421/goodsimage",
+   "sentAt": "2026-10-01T10:57:59.290+09:00",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4861293421"
+  },
   {
    "uid": "6417263955",
    "mall": "11번가",
@@ -702,18 +711,6 @@
    "baselineNote": "176곳 중 최저",
    "unit": "[object Object]",
    "link": "https://toss.im/_m/9DrhDg0r"
-  },
-  {
-   "uid": "4775490305",
-   "mall": "지마켓",
-   "title": "샤오미 미지아 스마트 구강세정기 Pro MEO706 10단계수압",
-   "price": 65900,
-   "image": "https://gdimg.gmarket.co.kr/4865856480/goodsimage",
-   "sentAt": "2026-09-29T16:55:05.260+09:00",
-   "saving": 10,
-   "baseline": 73150,
-   "baselineNote": "판매글 5곳 최저가",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4865856480"
   }
  ]
 }
