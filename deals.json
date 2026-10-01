@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-02T07:15:09.066+09:00",
+ "updated": "2026-10-02T07:22:05.372+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7229358040",
+   "mall": "쿠팡",
+   "title": "피노 프리미엄 터치 헤어 마스크 230g 3개",
+   "price": 18300,
+   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/02e1/8a5dc9a9be87e6d20bcf854a5d73ffb4ed998ebfa8fc2e7d701a4cadcb8f.jpg",
+   "sentAt": "2026-10-02T07:22:04.823+09:00",
+   "saving": 32,
+   "baseline": 26800,
+   "baselineNote": "117곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hvruJ2FJGS"
+  },
   {
    "uid": "1930238860",
    "mall": "쿠팡",
@@ -698,19 +711,6 @@
    "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/323998672578335-45df1932-c130-4dbb-8f88-8de8382b62a5.jpg",
    "sentAt": "2026-10-01T07:29:59.192+09:00",
    "link": "https://link.coupang.com/a/htM7SMmIa4"
-  },
-  {
-   "uid": "8863332654",
-   "mall": "토스쇼핑",
-   "title": "산과들에 윤서의달밤, 30g, 20봉",
-   "price": 11900,
-   "image": "https://shopping.toss.im/live/temp/2026-08-07/d3842a8f-f17f-4c65-abcf-1abbd9080a7a.jpeg",
-   "sentAt": "2026-10-01T07:24:08.945+09:00",
-   "saving": 30,
-   "baseline": 16920,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://toss.im/_m/Hp5wWE7h"
   }
  ]
 }
