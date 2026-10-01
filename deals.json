@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-01T16:56:32.163+09:00",
+ "updated": "2026-10-01T17:00:12.875+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8100759504",
+   "mall": "지마켓",
+   "title": "시나노 골드 실속 4kg 소과",
+   "price": 9760,
+   "image": "https://gdimg.gmarket.co.kr/4196228784/goodsimage",
+   "sentAt": "2026-10-01T17:00:12.050+09:00",
+   "saving": 39,
+   "baseline": 16100,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4196228784"
+  },
   {
    "uid": "5130020728",
    "mall": "하이마트",
@@ -697,15 +710,6 @@
    "baselineNote": "다른 곳 최저",
    "unit": "[object Object]",
    "link": "https://toss.shopping/_m/pSLsMlsj"
-  },
-  {
-   "uid": "7192650104",
-   "mall": "지마켓",
-   "title": "HEM-7121J 가정용 자동전자혈압계 혈압측정기",
-   "price": 50000,
-   "image": "https://gdimg.gmarket.co.kr/3181843810/goodsimage",
-   "sentAt": "2026-09-30T12:03:51.387+09:00",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=3181843810"
   }
  ]
 }
