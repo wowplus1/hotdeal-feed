@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-01T10:02:54.133+09:00",
+ "updated": "2026-10-01T10:14:20.656+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2694979440",
+   "mall": "지마켓",
+   "title": "제주 햇 조생감귤 로얄과 2.5kg",
+   "price": 9940,
+   "image": "https://gdimg.gmarket.co.kr/4026885381/goodsimage",
+   "sentAt": "2026-10-01T10:14:20.048+09:00",
+   "saving": 32,
+   "baseline": 14536,
+   "baselineNote": "판매글 7곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4026885381"
+  },
   {
    "uid": "1897120201",
    "mall": "쿠팡",
@@ -692,15 +705,6 @@
    "sentAt": "2026-09-29T14:00:21.142+09:00",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=1561054893"
-  },
-  {
-   "uid": "8771472723",
-   "mall": "하이마트",
-   "title": "ASUS TUF GAMING X870-PLUS WIFI 메인보드 인텍앤컴퍼니",
-   "price": 307820,
-   "image": "https://static1.e-himart.co.kr/contents/goods/00/35/55/07/77/0035550777__AMG103171127531XE574__M_640_640.jpg",
-   "sentAt": "2026-09-29T13:31:24.727+09:00",
-   "link": "http://app.ac/HtV1wdM73"
   }
  ]
 }
