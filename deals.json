@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-01T11:34:21.911+09:00",
+ "updated": "2026-10-01T11:42:05.889+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6427569364",
+   "mall": "지마켓",
+   "title": "lg 지싱크 게이밍 27g411b 15만원대부터 화이트 4k",
+   "price": 150642,
+   "image": "https://gdimg.gmarket.co.kr/4759610405/goodsimage",
+   "sentAt": "2026-10-01T11:42:04.999+09:00",
+   "saving": 12,
+   "baseline": 170500,
+   "baselineNote": "112곳 중 최저 · 무료배송",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4759610405"
+  },
   {
    "uid": "6744302182",
    "mall": "토스쇼핑",
@@ -712,16 +724,6 @@
    "baselineNote": "4곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hsayx5uSfk"
-  },
-  {
-   "uid": "1530903873",
-   "mall": "쿠팡",
-   "title": "일본 목캔디 용각산 목사탕, 88g*6개",
-   "price": 11640,
-   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/bc35/f625112f3b5d04d56b4d1b065c5c55b20d72fdf169792b685bd0ec9539d0.jpg",
-   "sentAt": "2026-09-30T08:02:43.386+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gl6Kif8pQO"
   }
  ]
 }
