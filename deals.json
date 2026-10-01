@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-01T17:10:36.847+09:00",
+ "updated": "2026-10-01T17:14:13.570+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6839062311",
+   "mall": "지마켓",
+   "title": "몽쉘 생크림 408g 3+1개",
+   "price": 13270,
+   "image": "https://gdimg.gmarket.co.kr/4646998419/goodsimage",
+   "sentAt": "2026-10-01T17:14:13.062+09:00",
+   "saving": 36,
+   "baseline": 20740,
+   "baselineNote": "판매글 4곳 최저가",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4646998419"
+  },
   {
    "uid": "3928015276",
    "mall": "쿠팡",
@@ -694,19 +706,6 @@
    "baselineNote": "85곳 중 최저",
    "unit": "[object Object]",
    "link": "https://toss.im/_m/LQTZqmS4"
-  },
-  {
-   "uid": "9842216698",
-   "mall": "토스쇼핑",
-   "title": "수뜰리에 소프트 섬유유연제 비누향, 2.5L, 4개",
-   "price": 8900,
-   "image": "https://shopping.toss.im/live/temp/2026-08-10/1e4fe51d-5eff-40b9-82e5-057e3a8529d9.png",
-   "sentAt": "2026-09-30T13:40:41.329+09:00",
-   "saving": 53,
-   "baseline": 19000,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://toss.im/_m/DmM1tP1B"
   }
  ]
 }
