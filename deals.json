@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-02T07:25:55.593+09:00",
+ "updated": "2026-10-02T07:33:04.679+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2668589235",
+   "mall": "쿠팡",
+   "title": "폰즈 클리어 훼이스 스파 립 앤 아이 메이크업 리무버, 120ml, 2개",
+   "price": 7990,
+   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/492249120081095-264e0be1-dc68-4867-a84a-c7da042ba53b.png",
+   "sentAt": "2026-10-02T07:33:03.932+09:00",
+   "saving": 10,
+   "baseline": 8870,
+   "baselineNote": "148곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hvshE88wWO"
+  },
   {
    "uid": "9960050244",
    "mall": "쿠팡",
@@ -699,19 +712,6 @@
    "baselineNote": "3곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/htOxZw5Twa"
-  },
-  {
-   "uid": "5753453045",
-   "mall": "쿠팡",
-   "title": "청정원 토마토 스파게티소스, 600g, 3개",
-   "price": 9690,
-   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/74018536875219-85e4a6c8-b94d-4077-99b8-397bd1255dd4.jpg",
-   "sentAt": "2026-10-01T07:44:21.959+09:00",
-   "saving": 27,
-   "baseline": 13317,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gfpywjyPWS"
   }
  ]
 }
