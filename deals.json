@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-01T10:57:59.801+09:00",
+ "updated": "2026-10-01T11:02:57.665+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2902537668",
+   "mall": "지마켓",
+   "title": "닥터아토 손소독티슈 휴대용 20매 20팩 15,850원",
+   "price": 15850,
+   "image": "https://gdimg.gmarket.co.kr/3979306238/goodsimage",
+   "sentAt": "2026-10-01T11:02:57.085+09:00",
+   "saving": 36,
+   "baseline": 24890,
+   "baselineNote": "판매글 11곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=3979306238"
+  },
   {
    "uid": "3159196985",
    "mall": "지마켓",
@@ -698,19 +711,6 @@
    "baselineNote": "판매글 4곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gK2hKKhp3Q"
-  },
-  {
-   "uid": "1816008117",
-   "mall": "토스쇼핑",
-   "title": "스파클 생수, 무라벨, 2L, 24개",
-   "price": 7400,
-   "image": "https://shopping.toss.im/live/temp/2026-03-18/268e4c6a-1595-43e9-9c1b-f101e5774429.jpeg",
-   "sentAt": "2026-09-29T17:11:29.387+09:00",
-   "saving": 24,
-   "baseline": 9700,
-   "baselineNote": "176곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://toss.im/_m/9DrhDg0r"
   }
  ]
 }
