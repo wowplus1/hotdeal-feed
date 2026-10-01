@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-01T15:03:03.680+09:00",
+ "updated": "2026-10-01T15:04:21.464+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5766630776",
+   "mall": "지마켓",
+   "title": "크림치즈 스프레드 플레인200g 4개",
+   "price": 17680,
+   "image": "https://gdimg.gmarket.co.kr/4130141016/goodsimage",
+   "sentAt": "2026-10-01T15:04:20.958+09:00",
+   "saving": 18,
+   "baseline": 21650,
+   "baselineNote": "판매글 11곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4130141016"
+  },
   {
    "uid": "7666594424",
    "mall": "지마켓",
@@ -697,19 +710,6 @@
    "baselineNote": "판매글 27곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gwhWYW2f3k"
-  },
-  {
-   "uid": "4720758280",
-   "mall": "지마켓",
-   "title": "오븐에구운 촉촉한 도넛 10개입x2박스",
-   "price": 10970,
-   "image": "https://gdimg.gmarket.co.kr/4387022377/goodsimage",
-   "sentAt": "2026-09-30T10:50:33.389+09:00",
-   "saving": 22,
-   "baseline": 14140,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4387022377"
   }
  ]
 }
