@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-01T18:10:21.885+09:00",
+ "updated": "2026-10-01T19:04:31.126+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7317073770",
+   "mall": "토스쇼핑",
+   "title": "고궁 통참깨 참기름, 350ml, 4개",
+   "price": 20900,
+   "image": "https://shopping.toss.im/live/taca/ai/YWI3MDZm/QUxidnRjZm8vbVdXNGR4c3RHanMyM3U3RWJ0bEt4RHliU3NRTjgvckVHeS8.png",
+   "sentAt": "2026-10-01T19:04:30.338+09:00",
+   "saving": 30,
+   "baseline": 30030,
+   "baselineNote": "판매글 8곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://toss.im/_m/j3Ni93Iy"
+  },
   {
    "uid": "4081048653",
    "mall": "지마켓",
@@ -695,15 +708,6 @@
    "baseline": 15890,
    "baselineNote": "21곳 중 최저 · 무료배송",
    "link": "https://toss.shopping/_m/rURl3iqw"
-  },
-  {
-   "uid": "2881861448",
-   "mall": "쿠팡",
-   "title": "스탠리 퀜처 H2.0 플로우스테이트 텀블러 2.0*1.18L*1개",
-   "price": 34080,
-   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2849633657372996-bcd9b1ee-ad66-43c3-9682-ce568d3cd3b4.jpg",
-   "sentAt": "2026-09-30T14:21:07.798+09:00",
-   "link": "https://link.coupang.com/a/hsBCnjNeF2"
   }
  ]
 }
