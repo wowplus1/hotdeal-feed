@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-01T09:54:27.795+09:00",
+ "updated": "2026-10-01T10:02:54.133+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1897120201",
+   "mall": "쿠팡",
+   "title": "폰타나 이탈리아 스파게티 500g 3개",
+   "price": 5220,
+   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/23229890409490-a75e2441-c8b7-4653-89ac-6b8857f8695b.png",
+   "sentAt": "2026-10-01T10:02:52.430+09:00",
+   "saving": 33,
+   "baseline": 7740,
+   "baselineNote": "판매글 17곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/htXBqRJOoK"
+  },
   {
    "uid": "2690595693",
    "mall": "토스쇼핑",
@@ -688,19 +701,6 @@
    "image": "https://static1.e-himart.co.kr/contents/goods/00/35/55/07/77/0035550777__AMG103171127531XE574__M_640_640.jpg",
    "sentAt": "2026-09-29T13:31:24.727+09:00",
    "link": "http://app.ac/HtV1wdM73"
-  },
-  {
-   "uid": "1590250139",
-   "mall": "쿠팡",
-   "title": "매일두유 99.9 서리태, 24개, 190ml",
-   "price": 11560,
-   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/372004234278260-b3618843-c949-4f19-aea9-7964af03adda.jpg",
-   "sentAt": "2026-09-29T13:07:05.906+09:00",
-   "saving": 36,
-   "baseline": 18180,
-   "baselineNote": "판매글 16곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gJHvmIdks1"
   }
  ]
 }
