@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-01T15:58:56.760+09:00",
+ "updated": "2026-10-01T16:20:23.316+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9874532831",
+   "mall": "쿠팡",
+   "title": "스키피 수퍼청크 땅콩버터, 462g, 2개",
+   "price": 9480,
+   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/876901982179428-d6ba30ea-7014-4660-b1f9-8f665bf4121a.png",
+   "sentAt": "2026-10-01T16:20:22.321+09:00",
+   "saving": 26,
+   "baseline": 12890,
+   "baselineNote": "95곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gVfMKWGRlQ"
+  },
   {
    "uid": "2433859169",
    "mall": "지마켓",
@@ -696,19 +709,6 @@
    "baselineNote": "판매글 9곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4158232750"
-  },
-  {
-   "uid": "6875083285",
-   "mall": "토스쇼핑",
-   "title": "엠앤엠즈 미니 튜브, 35g, 24개",
-   "price": 17400,
-   "image": "https://shopping.toss.im/live/taca/ai/OTdmZTQx/V1diRzkrOUxxU2JXdERranprbFN4bVBaU2ZISnBWWHNhbGk4YWJTMFo1ND0.png",
-   "sentAt": "2026-09-30T11:10:01.516+09:00",
-   "saving": 45,
-   "baseline": 31380,
-   "baselineNote": "14곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://toss.im/_m/HhwQfyse"
   }
  ]
 }
