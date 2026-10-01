@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-01T14:43:58.575+09:00",
+ "updated": "2026-10-01T15:03:03.680+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7666594424",
+   "mall": "지마켓",
+   "title": "하남쭈꾸미 보통매운맛 500g 5팩 46,810원",
+   "price": 46810,
+   "image": "https://gdimg.gmarket.co.kr/2872005960/goodsimage",
+   "sentAt": "2026-10-01T15:03:02.871+09:00",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2872005960"
+  },
   {
    "uid": "2215283017",
    "mall": "지마켓",
@@ -700,16 +710,6 @@
    "baselineNote": "판매글 3곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4387022377"
-  },
-  {
-   "uid": "2471987606",
-   "mall": "지마켓",
-   "title": "활 톱밥꽃게 3kg 12미 내외",
-   "price": 36340,
-   "image": "https://gdimg.gmarket.co.kr/4864806415/goodsimage",
-   "sentAt": "2026-09-30T10:45:18.193+09:00",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4864806415"
   }
  ]
 }
