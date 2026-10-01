@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-01T20:44:22.329+09:00",
+ "updated": "2026-10-01T21:19:50.878+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1389454396",
+   "mall": "롯데온",
+   "title": "남성 간절기 기능성 셔츠형 타슬란 비노 우븐셔켓 MLUFJ201",
+   "price": 31960,
+   "image": "https://contents.lotteon.com/itemimage/20260926140816/LE/12/22/41/20/83/_1/33/63/34/36/1/LE1222412083_1336334361_1.jpg",
+   "sentAt": "2026-10-01T21:19:49.965+09:00",
+   "saving": 17,
+   "baseline": 38450,
+   "baselineNote": "판매글 40곳 최저가",
+   "link": "http://app.ac/e3MvXsJ23"
+  },
   {
    "uid": "2117446911",
    "mall": "토스쇼핑",
@@ -704,15 +716,6 @@
    "baselineNote": "판매글 3곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/UAGrCF523"
-  },
-  {
-   "uid": "6900835236",
-   "mall": "쿠팡",
-   "title": "MSI 2026 모던 A15 AI 플러스 라이젠 AI 라이젠 AI 300 시리즈 512GB 16GB 노트북",
-   "price": 699000,
-   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/8688/6d6353bf8d8a702f35868fda17d8d2d336f3ffcb61109652a05a4b2105a0.jpg",
-   "sentAt": "2026-09-30T17:16:57.960+09:00",
-   "link": "https://link.coupang.com/a/hsN9Nrdw04"
   }
  ]
 }
