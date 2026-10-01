@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-01T11:59:20.271+09:00",
+ "updated": "2026-10-01T12:03:33.919+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9483178301",
+   "mall": "지마켓",
+   "title": "명장 김치찌개 250g 10개입",
+   "price": 19380,
+   "image": "https://gdimg.gmarket.co.kr/3912444095/goodsimage",
+   "sentAt": "2026-10-01T12:03:33.427+09:00",
+   "saving": 17,
+   "baseline": 23300,
+   "baselineNote": "191곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=3912444095"
+  },
   {
    "uid": "3097507987",
    "mall": "지마켓",
@@ -711,18 +724,6 @@
    "baselineNote": "204곳 중 최저",
    "unit": "[object Object]",
    "link": "https://toss.shopping/_m/p27OfSpD"
-  },
-  {
-   "uid": "3359559363",
-   "mall": "토스쇼핑",
-   "title": "디라이프 구이스타 엑스 3in1 전기그릴, DLA-GR5000A, 가방 포함, 1개",
-   "price": 56300,
-   "image": "https://shopping.toss.im/live/taca/ai/v2/NDMxMjIz/QUpsbUxNYXljODVHbWFadGszWnpXREVzNU9lYnhobVpwQ3pNTVpseE9jWm0.png",
-   "sentAt": "2026-09-30T09:05:45.706+09:00",
-   "saving": 24,
-   "baseline": 73640,
-   "baselineNote": "22곳 중 최저 · 무료배송",
-   "link": "https://toss.shopping/_m/viYWlno9"
   }
  ]
 }
