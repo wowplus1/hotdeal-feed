@@ -1,7 +1,16 @@
 {
- "updated": "2026-10-01T13:55:15.887+09:00",
+ "updated": "2026-10-01T14:11:14.144+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2170579127",
+   "mall": "지마켓",
+   "title": "코카콜라+환타오렌지 190ml 60캔",
+   "price": 21260,
+   "image": "https://gdimg.gmarket.co.kr/2352580870/goodsimage",
+   "sentAt": "2026-10-01T14:11:13.291+09:00",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2352580870"
+  },
   {
    "uid": "3118544900",
    "mall": "롯데온",
@@ -707,18 +716,6 @@
    "baselineNote": "판매글 3곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/WAG1AI523"
-  },
-  {
-   "uid": "3261297360",
-   "mall": "쿠팡",
-   "title": "홍영의 붉은대게 백간장, 500ml, 1개",
-   "price": 7150,
-   "image": "https://t3a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/13779973240795-2b82dcf3-28c0-4029-850b-62fc12f35a34.jpg",
-   "sentAt": "2026-09-30T10:22:51.980+09:00",
-   "saving": 21,
-   "baseline": 9020,
-   "baselineNote": "33곳 중 최저",
-   "link": "https://link.coupang.com/a/hskzEo0lzg"
   }
  ]
 }
