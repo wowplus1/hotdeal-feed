@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-01T16:20:23.316+09:00",
+ "updated": "2026-10-01T16:28:47.274+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9857763995",
+   "mall": "지마켓",
+   "title": "동아제약 얼박사 355ml 48개",
+   "price": 40320,
+   "image": "https://gdimg.gmarket.co.kr/4867613636/goodsimage",
+   "sentAt": "2026-10-01T16:28:46.696+09:00",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4867613636"
+  },
   {
    "uid": "9874532831",
    "mall": "쿠팡",
@@ -696,19 +706,6 @@
    "baseline": 12510,
    "baselineNote": "판매글 34곳 최저가",
    "link": "http://app.ac/2AG1lm533"
-  },
-  {
-   "uid": "5440151184",
-   "mall": "지마켓",
-   "title": "햇 사과대추 1kg",
-   "price": 11870,
-   "image": "https://gdimg.gmarket.co.kr/4158232750/goodsimage",
-   "sentAt": "2026-09-30T11:29:56.472+09:00",
-   "saving": 30,
-   "baseline": 16910,
-   "baselineNote": "판매글 9곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4158232750"
   }
  ]
 }
