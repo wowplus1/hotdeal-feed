@@ -1,7 +1,30 @@
 {
- "updated": "2026-10-01T20:00:01.275+09:00",
+ "updated": "2026-10-01T20:44:22.329+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2117446911",
+   "mall": "토스쇼핑",
+   "title": "썬키스트 제로, 복숭아레몬소다, 600ml, 24개",
+   "price": 18900,
+   "image": "https://shopping.toss.im/live/temp/2026-04-28/3203b3eb-8c9c-42b5-a105-3c6e33149d0a.jpeg",
+   "sentAt": "2026-10-01T20:44:21.604+09:00",
+   "saving": 19,
+   "baseline": 23470,
+   "baselineNote": "판매글 31곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/TSVlf8Rl"
+  },
+  {
+   "uid": "1817734454",
+   "mall": "토스쇼핑",
+   "title": "카라카라 오렌지, 중대과, 14~17과 내외, 3.5kg, 1박스",
+   "price": 12900,
+   "image": "https://shopping.toss.im/live/temp/2026-03-13/f02a448b-5ae6-46a1-9678-b780373089fc.jpeg",
+   "sentAt": "2026-10-01T20:44:21.604+09:00",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/NS4E6SAz"
+  },
   {
    "uid": "8166388036",
    "mall": "지마켓",
@@ -690,31 +713,6 @@
    "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/8688/6d6353bf8d8a702f35868fda17d8d2d336f3ffcb61109652a05a4b2105a0.jpg",
    "sentAt": "2026-09-30T17:16:57.960+09:00",
    "link": "https://link.coupang.com/a/hsN9Nrdw04"
-  },
-  {
-   "uid": "6766842552",
-   "mall": "하이마트",
-   "title": "오브제 모던엣지 콤비 냉장고 Q405MEE151",
-   "price": 935000,
-   "image": "https://static1.e-himart.co.kr/contents/goods/00/65/02/80/93/0065028093__Q405MEE151.AKOR__M_640_640.jpg",
-   "sentAt": "2026-09-30T17:03:28.066+09:00",
-   "saving": 15,
-   "baseline": 1099000,
-   "baselineNote": "179곳 중 최저 · 무료배송",
-   "link": "http://app.ac/ebpzM6l53"
-  },
-  {
-   "uid": "2150083888",
-   "mall": "쿠팡",
-   "title": "비비고 한식간장김자반, 50g, 2개",
-   "price": 3540,
-   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/d214/944b04753b8e2ac7a1fce515a2308f623b66a6cac486c6d9bcf3a19a73ac.jpg",
-   "sentAt": "2026-09-30T16:54:37.181+09:00",
-   "saving": 41,
-   "baseline": 5990,
-   "baselineNote": "48곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hsMz7xjV6W"
   }
  ]
 }
