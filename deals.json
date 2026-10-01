@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-01T19:54:53.114+09:00",
+ "updated": "2026-10-01T20:00:01.275+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8166388036",
+   "mall": "지마켓",
+   "title": "필립스 퍼펙트케어 파워다리미 GC3929/68+보풀제거기",
+   "price": 65310,
+   "image": "https://gdimg.gmarket.co.kr/2135848642/goodsimage",
+   "sentAt": "2026-10-01T20:00:00.671+09:00",
+   "saving": 21,
+   "baseline": 82260,
+   "baselineNote": "104곳 중 최저 · 무료배송",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2135848642"
+  },
   {
    "uid": "3866460600",
    "mall": "쿠팡",
@@ -703,15 +715,6 @@
    "baselineNote": "48곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hsMz7xjV6W"
-  },
-  {
-   "uid": "1484649780",
-   "mall": "쿠팡",
-   "title": "세이코 솔라 SBPX083 남자시계",
-   "price": 159330,
-   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/a48c/13304375067de1915b5397f5744eec446d8790da22a3546f833e5bda286e.jpg",
-   "sentAt": "2026-09-30T16:11:39.530+09:00",
-   "link": "https://link.coupang.com/a/hsJuObxbi0"
   }
  ]
 }
