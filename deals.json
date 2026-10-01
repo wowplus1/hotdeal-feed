@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-02T07:33:04.679+09:00",
+ "updated": "2026-10-02T07:38:50.835+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2362241172",
+   "mall": "쿠팡",
+   "title": "불닭볶음면 140g 10개",
+   "price": 8380,
+   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/344801897244744-1de94e9f-29e9-408c-9143-88bbc2a9998e.png",
+   "sentAt": "2026-10-02T07:38:50.158+09:00",
+   "saving": 15,
+   "baseline": 9820,
+   "baselineNote": "132곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hgY1v3gKJw"
+  },
   {
    "uid": "2668589235",
    "mall": "쿠팡",
@@ -699,19 +712,6 @@
    "sentAt": "2026-10-01T07:52:27.469+09:00",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gnRAgAQf3k"
-  },
-  {
-   "uid": "3463057848",
-   "mall": "쿠팡",
-   "title": "하이뮨 프로틴 밸런스 L, 608g, 1개",
-   "price": 24840,
-   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/d7cb/845be5ec70e6e63c9668c58899b2ba2cddaea7fa1a57042c4ea7a8125be6.jpg",
-   "sentAt": "2026-10-01T07:49:07.763+09:00",
-   "saving": 36,
-   "baseline": 38700,
-   "baselineNote": "3곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/htOxZw5Twa"
   }
  ]
 }
