@@ -1,7 +1,16 @@
 {
- "updated": "2026-10-01T12:16:07.635+09:00",
+ "updated": "2026-10-01T13:34:12.172+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2665447889",
+   "mall": "지마켓",
+   "title": "모다모다 제로그레이 블랙10 갈변샴푸 300g 2통+10일샤쉐",
+   "price": 35920,
+   "image": "https://gdimg.gmarket.co.kr/4840182125/goodsimage",
+   "sentAt": "2026-10-01T13:34:11.443+09:00",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4840182125"
+  },
   {
    "uid": "4220420724",
    "mall": "쿠팡",
@@ -712,18 +721,6 @@
    "sentAt": "2026-09-30T09:25:34.927+09:00",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2320981479"
-  },
-  {
-   "uid": "4254306678",
-   "mall": "쿠팡",
-   "title": "세타필 모이스춰라이징 로션 1.25L",
-   "price": 17740,
-   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/34596278653464-caa22e7d-dff4-4c9a-a8da-143cd32d85aa.jpg",
-   "sentAt": "2026-09-30T09:11:24.616+09:00",
-   "saving": 42,
-   "baseline": 30540,
-   "baselineNote": "판매글 10곳 최저가",
-   "link": "https://link.coupang.com/a/gYlZ4rRaeq"
   }
  ]
 }
