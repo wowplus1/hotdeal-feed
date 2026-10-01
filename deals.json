@@ -1,7 +1,16 @@
 {
- "updated": "2026-10-01T13:34:12.172+09:00",
+ "updated": "2026-10-01T13:43:54.775+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5484044860",
+   "mall": "지마켓",
+   "title": "삼성 갤럭시 버즈 코어 SM-R410 블루투스 이어폰 액티브 노이즈 캔슬링 ai번역 글로벌버전",
+   "price": 48760,
+   "image": "https://gdimg.gmarket.co.kr/4861306746/goodsimage",
+   "sentAt": "2026-10-01T13:43:54.198+09:00",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4861306746"
+  },
   {
    "uid": "2665447889",
    "mall": "지마켓",
@@ -711,16 +720,6 @@
    "baselineNote": "판매글 14곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hsjcet77jo"
-  },
-  {
-   "uid": "9414339170",
-   "mall": "지마켓",
-   "title": "바세린 핸드 앤 네일 에센스 60ml 2개",
-   "price": 4900,
-   "image": "https://gdimg.gmarket.co.kr/2320981479/goodsimage",
-   "sentAt": "2026-09-30T09:25:34.927+09:00",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2320981479"
   }
  ]
 }
