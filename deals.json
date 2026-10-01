@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-01T17:24:14.328+09:00",
+ "updated": "2026-10-01T17:34:09.522+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1096631230",
+   "mall": "지마켓",
+   "title": "로투스 비스코프 비스킷 50Px6개 1875g",
+   "price": 19080,
+   "image": "https://gdimg.gmarket.co.kr/4778137012/goodsimage",
+   "sentAt": "2026-10-01T17:34:08.782+09:00",
+   "saving": 26,
+   "baseline": 25740,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4778137012"
+  },
   {
    "uid": "8550723110",
    "mall": "토스쇼핑",
@@ -691,18 +704,6 @@
    "baselineNote": "판매글 6곳 최저가",
    "unit": "[object Object]",
    "link": "https://toss.im/_m/vMioa69l"
-  },
-  {
-   "uid": "9141260346",
-   "mall": "토스쇼핑",
-   "title": "착한팩토리 비타 리얼 글루타치온 토너, 400ml, 1개",
-   "price": 12900,
-   "image": "https://shopping.toss.im/live/temp/2025-12-29/f6dd3a57-2190-49de-a963-e3434c6fbaf7.jpeg",
-   "sentAt": "2026-09-30T13:44:12.365+09:00",
-   "saving": 27,
-   "baseline": 17580,
-   "baselineNote": "판매글 8곳 최저가",
-   "link": "https://toss.shopping/_m/J9J1NzT4"
   }
  ]
 }
