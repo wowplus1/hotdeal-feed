@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-01T17:34:09.522+09:00",
+ "updated": "2026-10-01T18:10:21.885+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4081048653",
+   "mall": "지마켓",
+   "title": "죠리퐁 레트로 74g 16개",
+   "price": 10700,
+   "image": "https://gdimg.gmarket.co.kr/4775478141/goodsimage",
+   "sentAt": "2026-10-01T18:10:21.000+09:00",
+   "saving": 55,
+   "baseline": 23750,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4775478141"
+  },
   {
    "uid": "1096631230",
    "mall": "지마켓",
@@ -691,19 +704,6 @@
    "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2849633657372996-bcd9b1ee-ad66-43c3-9682-ce568d3cd3b4.jpg",
    "sentAt": "2026-09-30T14:21:07.798+09:00",
    "link": "https://link.coupang.com/a/hsBCnjNeF2"
-  },
-  {
-   "uid": "2856938281",
-   "mall": "토스쇼핑",
-   "title": "그릭데이 그릭요거트 시그니처, 100g, 5개",
-   "price": 14500,
-   "image": "https://shopping.toss.im/live/temp/2026-09-10/1e7b1884-27f6-4d35-b19c-b4a227721081.jpeg",
-   "sentAt": "2026-09-30T13:44:12.365+09:00",
-   "saving": 39,
-   "baseline": 23660,
-   "baselineNote": "판매글 6곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://toss.im/_m/vMioa69l"
   }
  ]
 }
