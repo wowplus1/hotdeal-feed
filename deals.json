@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-01T11:29:25.893+09:00",
+ "updated": "2026-10-01T11:30:59.870+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3222764813",
+   "mall": "토스쇼핑",
+   "title": "지아자 산양유 헤어샴푸, 400ml, 4개",
+   "price": 16065,
+   "image": "https://shopping.toss.im/live/temp/2026-07-20/54b39de3-efbb-495c-9607-5e92e0dd7145.jpeg",
+   "sentAt": "2026-10-01T11:30:59.378+09:00",
+   "saving": 34,
+   "baseline": 24500,
+   "baselineNote": "4곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://toss.im/_m/jWa3VS3l"
+  },
   {
    "uid": "1228525998",
    "mall": "지마켓",
@@ -704,15 +717,6 @@
    "baseline": 24450,
    "baselineNote": "판매글 3곳 최저가",
    "link": "http://app.ac/YECqGqS23"
-  },
-  {
-   "uid": "8698226649",
-   "mall": "11번가",
-   "title": "오리온 베스트파이콤보 24입, 2개",
-   "price": 13900,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/8521119579/B.webp?505253734",
-   "sentAt": "2026-09-29T18:11:13.490+09:00",
-   "link": "http://app.ac/Kjwwg9a13"
   }
  ]
 }
