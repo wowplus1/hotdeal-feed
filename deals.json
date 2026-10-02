@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-02T11:11:49.395+09:00",
+ "updated": "2026-10-02T11:16:55.668+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7290258737",
+   "mall": "지마켓",
+   "title": "프리티스킨 30데이즈 올인원 수분크림 100ml 2개",
+   "price": 7880,
+   "image": "https://gdimg.gmarket.co.kr/3256234228/goodsimage",
+   "sentAt": "2026-10-02T11:16:55.052+09:00",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=3256234228"
+  },
   {
    "uid": "3080687894",
    "mall": "쿠팡",
@@ -710,19 +720,6 @@
    "baselineNote": "4곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://toss.im/_m/jWa3VS3l"
-  },
-  {
-   "uid": "1228525998",
-   "mall": "지마켓",
-   "title": "부산 다대포 꼬치어묵 40개",
-   "price": 11870,
-   "image": "https://gdimg.gmarket.co.kr/2258499382/goodsimage",
-   "sentAt": "2026-10-01T11:29:25.036+09:00",
-   "saving": 26,
-   "baseline": 15960,
-   "baselineNote": "판매글 9곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2258499382"
   }
  ]
 }
