@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-02T19:07:39.525+09:00",
+ "updated": "2026-10-02T19:18:52.883+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6433213847",
+   "mall": "롯데온",
+   "title": "프리미엄 곱창김 도시락김 5g 27봉",
+   "price": 11200,
+   "image": "https://contents.lotteon.com/itemimage/20261001114339/LO/23/73/46/03/84/_2/37/34/60/38/5/LO2373460384_2373460385_1.jpg",
+   "sentAt": "2026-10-02T19:18:52.212+09:00",
+   "saving": 54,
+   "baseline": 24510,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/5tVyslM63"
+  },
   {
    "uid": "4593358903",
    "mall": "롯데온",
@@ -718,18 +731,6 @@
    "sentAt": "2026-10-01T15:03:02.871+09:00",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2872005960"
-  },
-  {
-   "uid": "2215283017",
-   "mall": "지마켓",
-   "title": "슈퍼대디 82평량 미스터펭 아기 물티슈 캡형 70매 20팩",
-   "price": 19080,
-   "image": "https://gdimg.gmarket.co.kr/2949529082/goodsimage",
-   "sentAt": "2026-10-01T14:43:57.955+09:00",
-   "saving": 54,
-   "baseline": 41360,
-   "baselineNote": "판매글 3곳 최저가",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2949529082"
   }
  ]
 }
