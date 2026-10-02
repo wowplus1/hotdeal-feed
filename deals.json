@@ -1,7 +1,16 @@
 {
- "updated": "2026-10-02T11:16:55.668+09:00",
+ "updated": "2026-10-02T11:20:29.783+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6105556258",
+   "mall": "지마켓",
+   "title": "AHC 텐레볼루션 아이크림 35ml 4개 +7ml 4개 +쇼핑백",
+   "price": 23040,
+   "image": "https://gdimg.gmarket.co.kr/4357749541/goodsimage",
+   "sentAt": "2026-10-02T11:20:29.165+09:00",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4357749541"
+  },
   {
    "uid": "7290258737",
    "mall": "지마켓",
@@ -707,19 +716,6 @@
    "baselineNote": "77곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/ht4wLp9wOq"
-  },
-  {
-   "uid": "3222764813",
-   "mall": "토스쇼핑",
-   "title": "지아자 산양유 헤어샴푸, 400ml, 4개",
-   "price": 16065,
-   "image": "https://shopping.toss.im/live/temp/2026-07-20/54b39de3-efbb-495c-9607-5e92e0dd7145.jpeg",
-   "sentAt": "2026-10-01T11:30:59.378+09:00",
-   "saving": 34,
-   "baseline": 24500,
-   "baselineNote": "4곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://toss.im/_m/jWa3VS3l"
   }
  ]
 }
