@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-03T07:14:34.108+09:00",
+ "updated": "2026-10-03T07:21:55.778+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5054793873",
+   "mall": "쿠팡",
+   "title": "하이트진로 블랙보리 제로칼로리 500ml x 20개",
+   "price": 14450,
+   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/09/11/15/7/7ba75dbc-7595-4850-bace-21300070c1a2.jpg",
+   "sentAt": "2026-10-03T07:21:55.238+09:00",
+   "saving": 25,
+   "baseline": 19210,
+   "baselineNote": "판매글 11곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hw6pokwRoa"
+  },
   {
    "uid": "4418265424",
    "mall": "쿠팡",
@@ -719,18 +732,6 @@
    "image": "https://static1.e-himart.co.kr/contents/goods/00/50/04/71/93/0050047193__IW4271KRCP__M_640_640.jpg",
    "sentAt": "2026-10-01T16:56:31.479+09:00",
    "link": "http://app.ac/lECwXOS13"
-  },
-  {
-   "uid": "7045388999",
-   "mall": "지마켓",
-   "title": "동원 리챔 오리지널 200g x 5개 + 더블라이트 200g x 5개",
-   "price": 17890,
-   "image": "https://gdimg.gmarket.co.kr/4820948443/goodsimage",
-   "sentAt": "2026-10-01T16:30:03.129+09:00",
-   "saving": 12,
-   "baseline": 20320,
-   "baselineNote": "14곳 중 최저 · 무료배송",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4820948443"
   }
  ]
 }
