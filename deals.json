@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-03T07:21:55.778+09:00",
+ "updated": "2026-10-03T07:24:15.851+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8433605962",
+   "mall": "토스쇼핑",
+   "title": "국내산 고등어, 100-120g, 10팩",
+   "price": 12900,
+   "image": "https://shopping.toss.im/live/taca/ai/v2/MGQ5MTRj/QU16emJoeTV3ZFBteWNWdHNPYWFobGsyVEIweCtUUDAwNEx4WWN4L3dUT2I.png",
+   "sentAt": "2026-10-03T07:24:15.362+09:00",
+   "saving": 20,
+   "baseline": 16100,
+   "baselineNote": "판매글 8곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://toss.im/_m/x6U5gv66"
+  },
   {
    "uid": "5054793873",
    "mall": "쿠팡",
@@ -723,15 +736,6 @@
    "baselineNote": "판매글 3곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4196228784"
-  },
-  {
-   "uid": "5130020728",
-   "mall": "하이마트",
-   "title": "샤크 파워 클린 360 무선청소기 IW4271KRCP",
-   "price": 735050,
-   "image": "https://static1.e-himart.co.kr/contents/goods/00/50/04/71/93/0050047193__IW4271KRCP__M_640_640.jpg",
-   "sentAt": "2026-10-01T16:56:31.479+09:00",
-   "link": "http://app.ac/lECwXOS13"
   }
  ]
 }
