@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-03T07:24:15.851+09:00",
+ "updated": "2026-10-03T07:43:55.348+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1744604815",
+   "mall": "쿠팡",
+   "title": "명가꽈배기 흑당, 500g*1개",
+   "price": 3580,
+   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/98c3/07e7a5c533f06c84be206860be4f80d64ba3bfec9624499d83624b949970.jpg",
+   "sentAt": "2026-10-03T07:43:54.683+09:00",
+   "saving": 59,
+   "baseline": 8810,
+   "baselineNote": "판매글 6곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hw7YrtYxaK"
+  },
   {
    "uid": "8433605962",
    "mall": "토스쇼핑",
@@ -723,19 +736,6 @@
    "sentAt": "2026-10-01T17:10:36.305+09:00",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/husFiDunp6"
-  },
-  {
-   "uid": "8100759504",
-   "mall": "지마켓",
-   "title": "시나노 골드 실속 4kg 소과",
-   "price": 9760,
-   "image": "https://gdimg.gmarket.co.kr/4196228784/goodsimage",
-   "sentAt": "2026-10-01T17:00:12.050+09:00",
-   "saving": 39,
-   "baseline": 16100,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4196228784"
   }
  ]
 }
