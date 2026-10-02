@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-02T20:50:06.030+09:00",
+ "updated": "2026-10-02T21:03:28.849+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7434824866",
+   "mall": "지마켓",
+   "title": "시크릿데이 입는오버나이트 에디션 생리대 6p 10팩",
+   "price": 27190,
+   "image": "https://gdimg.gmarket.co.kr/1917673345/goodsimage",
+   "sentAt": "2026-10-02T21:03:28.137+09:00",
+   "saving": 55,
+   "baseline": 61000,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=1917673345"
+  },
   {
    "uid": "5935947117",
    "mall": "11번가",
@@ -721,19 +734,6 @@
    "baseline": 15430,
    "baselineNote": "판매글 5곳 최저가",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2203183649"
-  },
-  {
-   "uid": "5766630776",
-   "mall": "지마켓",
-   "title": "크림치즈 스프레드 플레인200g 4개",
-   "price": 17680,
-   "image": "https://gdimg.gmarket.co.kr/4130141016/goodsimage",
-   "sentAt": "2026-10-01T15:04:20.958+09:00",
-   "saving": 18,
-   "baseline": 21650,
-   "baselineNote": "판매글 11곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4130141016"
   }
  ]
 }
