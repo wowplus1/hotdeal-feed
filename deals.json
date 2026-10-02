@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-02T19:18:52.883+09:00",
+ "updated": "2026-10-02T20:50:06.030+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5935947117",
+   "mall": "11번가",
+   "title": "HACCP 구운계란 60구 대란",
+   "price": 15900,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9152329359/B.webp?540545867",
+   "sentAt": "2026-10-02T20:50:05.215+09:00",
+   "saving": 20,
+   "baseline": 19860,
+   "baselineNote": "판매글 6곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/CECrkzS13"
+  },
   {
    "uid": "6433213847",
    "mall": "롯데온",
@@ -721,16 +734,6 @@
    "baselineNote": "판매글 11곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4130141016"
-  },
-  {
-   "uid": "7666594424",
-   "mall": "지마켓",
-   "title": "하남쭈꾸미 보통매운맛 500g 5팩 46,810원",
-   "price": 46810,
-   "image": "https://gdimg.gmarket.co.kr/2872005960/goodsimage",
-   "sentAt": "2026-10-01T15:03:02.871+09:00",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2872005960"
   }
  ]
 }
