@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-02T16:52:01.971+09:00",
+ "updated": "2026-10-02T17:04:28.222+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7383708640",
+   "mall": "롯데온",
+   "title": "바르온 도가니탕 500g x 5팩",
+   "price": 10410,
+   "image": "https://contents.lotteon.com/itemimage/20260820103120/LO/25/30/05/72/16/_2/53/00/57/21/7/LO2530057216_2530057217_1.jpg",
+   "sentAt": "2026-10-02T17:04:27.407+09:00",
+   "saving": 21,
+   "baseline": 13210,
+   "baselineNote": "9곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "http://app.ac/CtV59LM03"
+  },
   {
    "uid": "9175243564",
    "mall": "롯데온",
@@ -712,15 +725,6 @@
    "sentAt": "2026-10-01T14:17:09.184+09:00",
    "unit": "[object Object]",
    "link": "http://app.ac/jbprnkl13"
-  },
-  {
-   "uid": "2170579127",
-   "mall": "지마켓",
-   "title": "코카콜라+환타오렌지 190ml 60캔",
-   "price": 21260,
-   "image": "https://gdimg.gmarket.co.kr/2352580870/goodsimage",
-   "sentAt": "2026-10-01T14:11:13.291+09:00",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2352580870"
   }
  ]
 }
