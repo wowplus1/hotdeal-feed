@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-02T17:04:28.222+09:00",
+ "updated": "2026-10-02T18:04:36.445+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9596953843",
+   "mall": "11번가",
+   "title": "26년 햇양파 국내산 무안양파 중 3kg",
+   "price": 4670,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/2/2/6/0/6/3/DBSmm/9452226063_239809512.webp",
+   "sentAt": "2026-10-02T18:04:35.540+09:00",
+   "saving": 36,
+   "baseline": 7280,
+   "baselineNote": "판매글 16곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/WAGHdD593"
+  },
   {
    "uid": "7383708640",
    "mall": "롯데온",
@@ -715,16 +728,6 @@
    "sentAt": "2026-10-01T14:36:24.647+09:00",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4715996604"
-  },
-  {
-   "uid": "7600461231",
-   "mall": "11번가",
-   "title": "리얼 네이처 알로에 수딩젤 수분크림 1000ml 2개 알로에베라 99% 대용량 진정 보습 끈적임 제로",
-   "price": 9900,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/4/2/1/7/1/3/JQCTQ/8369421713_238082268.webp",
-   "sentAt": "2026-10-01T14:17:09.184+09:00",
-   "unit": "[object Object]",
-   "link": "http://app.ac/jbprnkl13"
   }
  ]
 }
