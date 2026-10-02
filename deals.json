@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-02T11:32:07.746+09:00",
+ "updated": "2026-10-02T11:48:28.353+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8878393694",
+   "mall": "토스쇼핑",
+   "title": "하이뮨 프로틴 밸런스 액티브, 바닐라봉봉, 제로, 250ml, 18개, 2박스",
+   "price": 35820,
+   "image": "https://shopping.toss.im/live/temp/2026-09-10/4a2412ef-dc0b-4b30-a827-fad08cd99133.jpeg",
+   "sentAt": "2026-10-02T11:48:27.276+09:00",
+   "saving": 33,
+   "baseline": 53300,
+   "baselineNote": "40곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/XgjEcsIz"
+  },
   {
    "uid": "5793894230",
    "mall": "쿠팡",
@@ -703,19 +716,6 @@
    "baseline": 170500,
    "baselineNote": "112곳 중 최저 · 무료배송",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4759610405"
-  },
-  {
-   "uid": "6744302182",
-   "mall": "토스쇼핑",
-   "title": "목우촌 주부9단 프랑크 소시지, 500g, 3개",
-   "price": 14500,
-   "image": "https://shopping.toss.im/live/temp/2025-08-27/9649e8fe-d02e-41bf-a1b6-731c2c8becbd.jpeg",
-   "sentAt": "2026-10-01T11:34:21.273+09:00",
-   "saving": 21,
-   "baseline": 18460,
-   "baselineNote": "판매글 27곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/dQNTuMSf"
   }
  ]
 }
