@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-02T15:10:18.515+09:00",
+ "updated": "2026-10-02T16:52:01.971+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9175243564",
+   "mall": "롯데온",
+   "title": "울혼방 니트 집업 가디건 블랙 OKW2SWZU201K1",
+   "price": 14530,
+   "image": "https://contents.lotteon.com/itemimage/20260706140616/LO/24/56/83/69/17/_2/45/68/36/91/8/LO2456836917_2456836918_1.jpg",
+   "sentAt": "2026-10-02T16:52:01.181+09:00",
+   "saving": 47,
+   "baseline": 27260,
+   "baselineNote": "43곳 중 최저",
+   "link": "http://app.ac/CECxhGS13"
+  },
   {
    "uid": "8604174861",
    "mall": "토스쇼핑",
@@ -709,18 +721,6 @@
    "image": "https://gdimg.gmarket.co.kr/2352580870/goodsimage",
    "sentAt": "2026-10-01T14:11:13.291+09:00",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2352580870"
-  },
-  {
-   "uid": "3118544900",
-   "mall": "롯데온",
-   "title": "선 미네랄 크림 50ml SPF50+ PA++++",
-   "price": 28060,
-   "image": "https://contents.lotteon.com/itemimage/20260907144510/LO/26/27/06/76/88/bndl_img/LO2627067688_1.png",
-   "sentAt": "2026-10-01T13:55:15.184+09:00",
-   "saving": 10,
-   "baseline": 31210,
-   "baselineNote": "판매글 3곳 최저가",
-   "link": "http://app.ac/5qnOAQ263"
   }
  ]
 }
