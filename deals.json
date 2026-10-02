@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-02T10:17:09.096+09:00",
+ "updated": "2026-10-02T11:06:11.839+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2077885152",
+   "mall": "지마켓",
+   "title": "국내가공 백진미채 1kg",
+   "price": 18520,
+   "image": "https://gdimg.gmarket.co.kr/1558350154/goodsimage",
+   "sentAt": "2026-10-02T11:06:11.105+09:00",
+   "saving": 21,
+   "baseline": 23560,
+   "baselineNote": "다른 곳 최저",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=1558350154"
+  },
   {
    "uid": "7969729873",
    "mall": "롯데온",
@@ -709,19 +722,6 @@
    "baseline": 329000,
    "baselineNote": "판매글 3곳 최저가",
    "link": "http://app.ac/KECvdOS03"
-  },
-  {
-   "uid": "2902537668",
-   "mall": "지마켓",
-   "title": "닥터아토 손소독티슈 휴대용 20매 20팩 15,850원",
-   "price": 15850,
-   "image": "https://gdimg.gmarket.co.kr/3979306238/goodsimage",
-   "sentAt": "2026-10-01T11:02:57.085+09:00",
-   "saving": 36,
-   "baseline": 24890,
-   "baselineNote": "판매글 11곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=3979306238"
   }
  ]
 }
