@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-02T12:24:21.387+09:00",
+ "updated": "2026-10-02T13:59:59.377+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8976144397",
+   "mall": "지마켓",
+   "title": "테이프클리너 리필15입",
+   "price": 11360,
+   "image": "https://gdimg.gmarket.co.kr/2767151748/goodsimage",
+   "sentAt": "2026-10-02T13:59:58.620+09:00",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2767151748"
+  },
   {
    "uid": "2953911853",
    "mall": "토스쇼핑",
@@ -706,19 +716,6 @@
    "baselineNote": "123곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/ht7Bmt9P3c"
-  },
-  {
-   "uid": "9483178301",
-   "mall": "지마켓",
-   "title": "명장 김치찌개 250g 10개입",
-   "price": 19380,
-   "image": "https://gdimg.gmarket.co.kr/3912444095/goodsimage",
-   "sentAt": "2026-10-01T12:03:33.427+09:00",
-   "saving": 17,
-   "baseline": 23300,
-   "baselineNote": "191곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=3912444095"
   }
  ]
 }
