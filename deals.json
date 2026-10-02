@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-02T11:48:28.353+09:00",
+ "updated": "2026-10-02T11:51:40.644+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4719186878",
+   "mall": "11번가",
+   "title": "오렌지망고 200ml, 40개",
+   "price": 14810,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9621030934/B.webp?701727496",
+   "sentAt": "2026-10-02T11:51:39.939+09:00",
+   "saving": 44,
+   "baseline": 26600,
+   "baselineNote": "판매글 9곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/LtVyHUM63"
+  },
   {
    "uid": "8878393694",
    "mall": "토스쇼핑",
@@ -704,18 +717,6 @@
    "baseline": 79930,
    "baselineNote": "판매글 12곳 최저가",
    "link": "http://app.ac/jECWxYS03"
-  },
-  {
-   "uid": "6427569364",
-   "mall": "지마켓",
-   "title": "lg 지싱크 게이밍 27g411b 15만원대부터 화이트 4k",
-   "price": 150642,
-   "image": "https://gdimg.gmarket.co.kr/4759610405/goodsimage",
-   "sentAt": "2026-10-01T11:42:04.999+09:00",
-   "saving": 12,
-   "baseline": 170500,
-   "baselineNote": "112곳 중 최저 · 무료배송",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4759610405"
   }
  ]
 }
