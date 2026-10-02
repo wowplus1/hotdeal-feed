@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-02T09:33:53.478+09:00",
+ "updated": "2026-10-02T10:04:00.769+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6597383007",
+   "mall": "지마켓",
+   "title": "마니커 버팔로 치킨윙봉 1kg+1kg",
+   "price": 18400,
+   "image": "https://gdimg.gmarket.co.kr/1695859677/goodsimage",
+   "sentAt": "2026-10-02T10:04:00.052+09:00",
+   "saving": 22,
+   "baseline": 23650,
+   "baselineNote": "61곳 중 최저 · 무료배송",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=1695859677"
+  },
   {
    "uid": "8346395587",
    "mall": "쿠팡",
@@ -706,19 +718,6 @@
    "image": "https://gdimg.gmarket.co.kr/4861293421/goodsimage",
    "sentAt": "2026-10-01T10:57:59.290+09:00",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4861293421"
-  },
-  {
-   "uid": "6417263955",
-   "mall": "11번가",
-   "title": "ASRock 스틸레전드 SL-1000G 80PLUS골드 풀모듈러 ATX3.1",
-   "price": 155880,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9524442834/B.webp?846866518",
-   "sentAt": "2026-10-01T10:57:22.787+09:00",
-   "saving": 18,
-   "baseline": 189050,
-   "baselineNote": "106곳 중 최저",
-   "unit": "[object Object]",
-   "link": "http://app.ac/hbpCnPl13"
   }
  ]
 }
