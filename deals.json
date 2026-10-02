@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-02T15:04:52.807+09:00",
+ "updated": "2026-10-02T15:10:18.515+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8604174861",
+   "mall": "토스쇼핑",
+   "title": "후디스 하이키드 킨더밀쉬, 200ml, 24입, 1박스",
+   "price": 9900,
+   "image": "https://shopping.toss.im/live/temp/2025-07-14/c8e1b8aa-7b9b-4907-9b0e-eeb94e7abb35.jpeg",
+   "sentAt": "2026-10-02T15:10:17.805+09:00",
+   "saving": 64,
+   "baseline": 27300,
+   "baselineNote": "33곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/zO2ObEqo"
+  },
   {
    "uid": "7158865470",
    "mall": "11번가",
@@ -708,19 +721,6 @@
    "baseline": 31210,
    "baselineNote": "판매글 3곳 최저가",
    "link": "http://app.ac/5qnOAQ263"
-  },
-  {
-   "uid": "6922441942",
-   "mall": "쿠팡",
-   "title": "리고 100% 땅콩버터 크리미, 453g, 2개",
-   "price": 9380,
-   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/f870/a06ae96bc470c3b23e2d6102165b676e6b27785a4fdea757ba88e290bca0.png",
-   "sentAt": "2026-10-01T13:45:25.255+09:00",
-   "saving": 41,
-   "baseline": 16000,
-   "baselineNote": "37곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hudYDFCuvQ"
   }
  ]
 }
