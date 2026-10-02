@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-02T14:01:57.794+09:00",
+ "updated": "2026-10-02T15:04:52.807+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7158865470",
+   "mall": "11번가",
+   "title": "옥이네 쫄볶이 순한맛 2팩",
+   "price": 6080,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/3/3/6/8/9/9/SdUMW/3496336899_239542235.webp",
+   "sentAt": "2026-10-02T15:04:52.050+09:00",
+   "unit": "[object Object]",
+   "link": "http://app.ac/f3MvOCJ13"
+  },
   {
    "uid": "4898693829",
    "mall": "쿠팡",
@@ -711,15 +721,6 @@
    "baselineNote": "37곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hudYDFCuvQ"
-  },
-  {
-   "uid": "5484044860",
-   "mall": "지마켓",
-   "title": "삼성 갤럭시 버즈 코어 SM-R410 블루투스 이어폰 액티브 노이즈 캔슬링 ai번역 글로벌버전",
-   "price": 48760,
-   "image": "https://gdimg.gmarket.co.kr/4861306746/goodsimage",
-   "sentAt": "2026-10-01T13:43:54.198+09:00",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4861306746"
   }
  ]
 }
