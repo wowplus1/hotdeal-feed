@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-03T07:04:58.083+09:00",
+ "updated": "2026-10-03T07:14:34.108+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4418265424",
+   "mall": "쿠팡",
+   "title": "청정원 쉐프의 치킨스톡, 465g, 1개",
+   "price": 4930,
+   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1ad7a0fc-54eb-4461-9453-9e834baedc091884227809150847540.png",
+   "sentAt": "2026-10-03T07:14:33.368+09:00",
+   "saving": 39,
+   "baseline": 8050,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hw5S0K5qrQ"
+  },
   {
    "uid": "3862095746",
    "mall": "쿠팡",
@@ -718,16 +731,6 @@
    "baseline": 20320,
    "baselineNote": "14곳 중 최저 · 무료배송",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4820948443"
-  },
-  {
-   "uid": "9857763995",
-   "mall": "지마켓",
-   "title": "동아제약 얼박사 355ml 48개",
-   "price": 40320,
-   "image": "https://gdimg.gmarket.co.kr/4867613636/goodsimage",
-   "sentAt": "2026-10-01T16:28:46.696+09:00",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4867613636"
   }
  ]
 }
