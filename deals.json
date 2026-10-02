@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-02T09:19:07.501+09:00",
+ "updated": "2026-10-02T09:23:50.476+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5150325328",
+   "mall": "지마켓",
+   "title": "소프트 클린 비데티슈 캡형 60매 10팩",
+   "price": 9600,
+   "image": "https://gdimg.gmarket.co.kr/3503567949/goodsimage",
+   "sentAt": "2026-10-02T09:23:49.937+09:00",
+   "saving": 17,
+   "baseline": 11500,
+   "baselineNote": "64곳 중 최저 · 무료배송",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=3503567949"
+  },
   {
    "uid": "9902262655",
    "mall": "지마켓",
@@ -706,19 +718,6 @@
    "baselineNote": "2곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/ht0FTDxdpA"
-  },
-  {
-   "uid": "5084465239",
-   "mall": "롯데온",
-   "title": "일리캡슐커피 18캡슐 X 6팩 세트 모음전",
-   "price": 69960,
-   "image": "https://contents.lotteon.com/itemimage/20260812140048/LO/25/10/26/48/05/_2/51/02/64/80/6/LO2510264805_2510264806_1.jpg",
-   "sentAt": "2026-10-01T10:26:48.738+09:00",
-   "saving": 11,
-   "baseline": 78460,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/DAGezr573"
   }
  ]
 }
