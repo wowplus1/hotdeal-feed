@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-02T09:15:04.021+09:00",
+ "updated": "2026-10-02T09:19:07.501+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9902262655",
+   "mall": "지마켓",
+   "title": "브리타 정수기 필터 막스트라 프로 퓨어 퍼포먼스 3입",
+   "price": 17800,
+   "image": "https://gdimg.gmarket.co.kr/3605787557/goodsimage",
+   "sentAt": "2026-10-02T09:19:06.859+09:00",
+   "saving": 19,
+   "baseline": 21900,
+   "baselineNote": "42곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=3605787557"
+  },
   {
    "uid": "3341898907",
    "mall": "롯데온",
@@ -706,18 +719,6 @@
    "baselineNote": "판매글 4곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/DAGezr573"
-  },
-  {
-   "uid": "4015897284",
-   "mall": "쿠팡",
-   "title": "레노버 2026 아이디어패드 슬림 3 15IPH111 코어Ultra5 인텔 14세대 512GB, 16GB 노트북",
-   "price": 731410,
-   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/06/30/16/1/30482071-b427-4d6d-96c5-11937bde8aa0.jpg",
-   "sentAt": "2026-10-01T10:15:18.740+09:00",
-   "saving": 56,
-   "baseline": 1669000,
-   "baselineNote": "판매글 7곳 최저가",
-   "link": "https://link.coupang.com/a/htYX5C2nxk"
   }
  ]
 }
