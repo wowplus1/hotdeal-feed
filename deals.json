@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-02T08:53:43.525+09:00",
+ "updated": "2026-10-02T09:15:04.021+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3341898907",
+   "mall": "롯데온",
+   "title": "정선사위 국산 생강 착즙원액 650g 생강청 생강차",
+   "price": 19760,
+   "image": "https://contents.lotteon.com/itemimage/20261001153954/LO/25/97/52/62/85/_2/59/75/26/28/6/LO2597526285_2597526286_5.jpg",
+   "sentAt": "2026-10-02T09:15:03.441+09:00",
+   "saving": 24,
+   "baseline": 26000,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/zAGHTf563"
+  },
   {
    "uid": "5155498750",
    "mall": "지마켓",
@@ -705,19 +718,6 @@
    "baseline": 1669000,
    "baselineNote": "판매글 7곳 최저가",
    "link": "https://link.coupang.com/a/htYX5C2nxk"
-  },
-  {
-   "uid": "2694979440",
-   "mall": "지마켓",
-   "title": "제주 햇 조생감귤 로얄과 2.5kg",
-   "price": 9940,
-   "image": "https://gdimg.gmarket.co.kr/4026885381/goodsimage",
-   "sentAt": "2026-10-01T10:14:20.048+09:00",
-   "saving": 32,
-   "baseline": 14536,
-   "baselineNote": "판매글 7곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4026885381"
   }
  ]
 }
