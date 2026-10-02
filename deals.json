@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-02T11:06:11.839+09:00",
+ "updated": "2026-10-02T11:11:49.395+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3080687894",
+   "mall": "쿠팡",
+   "title": "하인즈 토마토 케찹, 570g, 2개",
+   "price": 5480,
+   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1105972027584631-227ca7a8-f143-485b-9ab9-f94fc4960382.jpg",
+   "sentAt": "2026-10-02T11:11:48.846+09:00",
+   "saving": 38,
+   "baseline": 8770,
+   "baselineNote": "423곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gpVwueJRpk"
+  },
   {
    "uid": "2077885152",
    "mall": "지마켓",
@@ -710,18 +723,6 @@
    "baselineNote": "판매글 9곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2258499382"
-  },
-  {
-   "uid": "8772250008",
-   "mall": "11번가",
-   "title": "삼성전자 오디세이 G5 LS27FG500 68~69cm IPS QHD 180Hz",
-   "price": 271920,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/pd/v2/0/7/6/3/8/8/jbqeJ/8778076388_B.webp",
-   "sentAt": "2026-10-01T11:17:13.327+09:00",
-   "saving": 17,
-   "baseline": 329000,
-   "baselineNote": "판매글 3곳 최저가",
-   "link": "http://app.ac/KECvdOS03"
   }
  ]
 }
