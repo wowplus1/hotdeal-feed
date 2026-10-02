@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-02T12:11:53.604+09:00",
+ "updated": "2026-10-02T12:24:21.387+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2953911853",
+   "mall": "토스쇼핑",
+   "title": "교동 버섯 들깨탕, 500g, 5개",
+   "price": 12900,
+   "image": "https://shopping.toss.im/live/taca/ai/NDE0MDQ4/WW0zZXk3U0RHMkU0Y1dRZTNtUFJObTFqTHRPV0lYbE1qdUd6cVRsRXpQWT0.png",
+   "sentAt": "2026-10-02T12:24:20.768+09:00",
+   "saving": 27,
+   "baseline": 17600,
+   "baselineNote": "판매글 26곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://toss.im/_m/nl3Ts5Ko"
+  },
   {
    "uid": "9285486134",
    "mall": "쿠팡",
@@ -706,18 +719,6 @@
    "baselineNote": "191곳 중 최저",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=3912444095"
-  },
-  {
-   "uid": "3097507987",
-   "mall": "지마켓",
-   "title": "펩시제로 210ml 30캔 +사이다제로 210ml 30캔",
-   "price": 21300,
-   "image": "https://gdimg.gmarket.co.kr/3384154261/goodsimage",
-   "sentAt": "2026-10-01T11:59:19.720+09:00",
-   "saving": 20,
-   "baseline": 26700,
-   "baselineNote": "판매글 7곳 최저가",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=3384154261"
   }
  ]
 }
