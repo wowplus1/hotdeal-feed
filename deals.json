@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-02T13:59:59.377+09:00",
+ "updated": "2026-10-02T14:00:57.822+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9962698719",
+   "mall": "롯데온",
+   "title": "쟌슨빌 소시지 김치 볶음밥 250g 10팩",
+   "price": 22730,
+   "image": "https://contents.lotteon.com/itemimage/20260714152457/LO/24/93/19/97/60/_2/49/31/99/76/3/LO2493199760_2493199763_1.jpg",
+   "sentAt": "2026-10-02T14:00:57.313+09:00",
+   "saving": 23,
+   "baseline": 29350,
+   "baselineNote": "22곳 중 최저",
+   "unit": "[object Object]",
+   "link": "http://app.ac/KAGH08593"
+  },
   {
    "uid": "8976144397",
    "mall": "지마켓",
@@ -703,19 +716,6 @@
    "image": "https://gdimg.gmarket.co.kr/4840182125/goodsimage",
    "sentAt": "2026-10-01T13:34:11.443+09:00",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4840182125"
-  },
-  {
-   "uid": "4220420724",
-   "mall": "쿠팡",
-   "title": "셀퓨전씨 포스트 알파 퍼스트 쿨링 마스크 5개입",
-   "price": 3400,
-   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/266051231470304-245dc95a-f619-4f55-9cad-e722d4003136.jpg",
-   "sentAt": "2026-10-01T12:16:06.950+09:00",
-   "saving": 41,
-   "baseline": 5790,
-   "baselineNote": "123곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/ht7Bmt9P3c"
   }
  ]
 }
