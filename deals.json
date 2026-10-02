@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-02T21:03:28.849+09:00",
+ "updated": "2026-10-02T21:49:57.776+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1235988686",
+   "mall": "쿠팡",
+   "title": "오뚜기 양조 식초 3개",
+   "price": 3270,
+   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/63909649319936-f46d34e2-0a55-49d1-943c-6facfd3dee95.jpg",
+   "sentAt": "2026-10-02T21:49:56.738+09:00",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hwrxcju9T2"
+  },
   {
    "uid": "7434824866",
    "mall": "지마켓",
@@ -722,18 +732,6 @@
    "baselineNote": "95곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gVfMKWGRlQ"
-  },
-  {
-   "uid": "2433859169",
-   "mall": "지마켓",
-   "title": "바세린 바디로션 400ml 2개 + 샤워볼 증정",
-   "price": 10980,
-   "image": "https://gdimg.gmarket.co.kr/2203183649/goodsimage",
-   "sentAt": "2026-10-01T15:58:55.850+09:00",
-   "saving": 29,
-   "baseline": 15430,
-   "baselineNote": "판매글 5곳 최저가",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2203183649"
   }
  ]
 }
