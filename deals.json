@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-02T11:51:40.644+09:00",
+ "updated": "2026-10-02T12:11:53.604+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9285486134",
+   "mall": "쿠팡",
+   "title": "르샤트라1802 드라이시트 섬유유연제 피오니부케 본품 120매",
+   "price": 7660,
+   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/934573637270894-6a0b2e9c-171c-4d0a-a0b1-6dd8f169eb04.jpg",
+   "sentAt": "2026-10-02T12:11:53.067+09:00",
+   "saving": 27,
+   "baseline": 10450,
+   "baselineNote": "80곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hvMdJ3uSHI"
+  },
   {
    "uid": "4719186878",
    "mall": "11번가",
@@ -705,18 +718,6 @@
    "baseline": 26700,
    "baselineNote": "판매글 7곳 최저가",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=3384154261"
-  },
-  {
-   "uid": "1167825486",
-   "mall": "롯데온",
-   "title": "남성 소가죽 페니 로퍼 - 3MR5001/5002",
-   "price": 58770,
-   "image": "https://contents.lotteon.com/itemimage/20260722161916/LO/24/42/12/74/44/_2/44/21/27/44/5/LO2442127444_2442127445_1.jpg",
-   "sentAt": "2026-10-01T11:54:19.255+09:00",
-   "saving": 26,
-   "baseline": 79930,
-   "baselineNote": "판매글 12곳 최저가",
-   "link": "http://app.ac/jECWxYS03"
   }
  ]
 }
