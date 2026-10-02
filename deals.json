@@ -1,7 +1,16 @@
 {
- "updated": "2026-10-02T21:49:57.776+09:00",
+ "updated": "2026-10-03T07:04:58.083+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3862095746",
+   "mall": "쿠팡",
+   "title": "그린핑거포레스트 마일드 너츠 바디워시 500ml*1개",
+   "price": 4450,
+   "image": "https://t3a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/789188069811149-94b2c29f-e1e8-4624-8100-4d1bcaa69e4b.jpg",
+   "sentAt": "2026-10-03T07:04:57.269+09:00",
+   "link": "https://link.coupang.com/a/hw5aGbTt36"
+  },
   {
    "uid": "1235988686",
    "mall": "쿠팡",
@@ -719,19 +728,6 @@
    "sentAt": "2026-10-01T16:28:46.696+09:00",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4867613636"
-  },
-  {
-   "uid": "9874532831",
-   "mall": "쿠팡",
-   "title": "스키피 수퍼청크 땅콩버터, 462g, 2개",
-   "price": 9480,
-   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/876901982179428-d6ba30ea-7014-4660-b1f9-8f665bf4121a.png",
-   "sentAt": "2026-10-01T16:20:22.321+09:00",
-   "saving": 26,
-   "baseline": 12890,
-   "baselineNote": "95곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gVfMKWGRlQ"
   }
  ]
 }
