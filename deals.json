@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-02T10:04:00.769+09:00",
+ "updated": "2026-10-02T10:17:09.096+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7969729873",
+   "mall": "롯데온",
+   "title": "칠성사이다 제로 유자 355ml 24캔",
+   "price": 13940,
+   "image": "https://contents.lotteon.com/itemimage/20261001100414/LO/27/82/59/72/55/_2/78/25/97/25/6/LO2782597255_2782597256_1.jpg",
+   "sentAt": "2026-10-02T10:17:08.393+09:00",
+   "saving": 19,
+   "baseline": 17270,
+   "baselineNote": "344곳 중 최저",
+   "unit": "[object Object]",
+   "link": "http://app.ac/UjwzT9a23"
+  },
   {
    "uid": "6597383007",
    "mall": "지마켓",
@@ -709,15 +722,6 @@
    "baselineNote": "판매글 11곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=3979306238"
-  },
-  {
-   "uid": "3159196985",
-   "mall": "지마켓",
-   "title": "gigabyte g27q20t 200hz qhd 27인치 게이밍 모니터",
-   "price": 240240,
-   "image": "https://gdimg.gmarket.co.kr/4861293421/goodsimage",
-   "sentAt": "2026-10-01T10:57:59.290+09:00",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4861293421"
   }
  ]
 }
