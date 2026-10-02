@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-02T11:20:29.783+09:00",
+ "updated": "2026-10-02T11:32:07.746+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5793894230",
+   "mall": "쿠팡",
+   "title": "청정원 진한 토마토케찹, 500g, 2개",
+   "price": 3080,
+   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/31935897880269-5584b7ae-cbe9-4d57-aeae-18a7382788de.jpg",
+   "sentAt": "2026-10-02T11:32:07.211+09:00",
+   "saving": 49,
+   "baseline": 6030,
+   "baselineNote": "판매글 33곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hvJkCv68ey"
+  },
   {
    "uid": "6105556258",
    "mall": "지마켓",
@@ -703,19 +716,6 @@
    "baselineNote": "판매글 27곳 최저가",
    "unit": "[object Object]",
    "link": "https://toss.shopping/_m/dQNTuMSf"
-  },
-  {
-   "uid": "8539032792",
-   "mall": "쿠팡",
-   "title": "오뚜기 양조 식초, 900ml, 2개",
-   "price": 2180,
-   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/323552448696826-4574664e-94b9-4e2e-824e-d6accb904451.png",
-   "sentAt": "2026-10-01T11:33:18.074+09:00",
-   "saving": 13,
-   "baseline": 2510,
-   "baselineNote": "77곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/ht4wLp9wOq"
   }
  ]
 }
