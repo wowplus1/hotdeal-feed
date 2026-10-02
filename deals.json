@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-02T18:04:36.445+09:00",
+ "updated": "2026-10-02T19:07:39.525+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4593358903",
+   "mall": "롯데온",
+   "title": "아이나비 QXD9900mini 32GB 64GB 전후방QHD 2채널 블랙박스, 설치비 포함",
+   "price": 201070,
+   "image": "https://contents.lotteon.com/itemimage/20260806094841/LO/27/03/62/77/30/_2/70/36/27/73/5/LO2703627730_2703627735_1.jpg",
+   "sentAt": "2026-10-02T19:07:38.744+09:00",
+   "saving": 36,
+   "baseline": 311880,
+   "baselineNote": "판매글 8곳 최저가",
+   "link": "http://app.ac/Ujwlrla03"
+  },
   {
    "uid": "9596953843",
    "mall": "11번가",
@@ -718,16 +730,6 @@
    "baseline": 41360,
    "baselineNote": "판매글 3곳 최저가",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2949529082"
-  },
-  {
-   "uid": "7132779964",
-   "mall": "지마켓",
-   "title": "스포츠리서치 오메가3 180정 2병",
-   "price": 99900,
-   "image": "https://gdimg.gmarket.co.kr/4715996604/goodsimage",
-   "sentAt": "2026-10-01T14:36:24.647+09:00",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4715996604"
   }
  ]
 }
