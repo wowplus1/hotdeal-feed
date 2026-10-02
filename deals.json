@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-02T09:27:05.213+09:00",
+ "updated": "2026-10-02T09:33:53.478+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8346395587",
+   "mall": "쿠팡",
+   "title": "청정원 고소한 마요네즈, 300g, 2개",
+   "price": 3980,
+   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/90537317427466-8bc4a583-5edc-4346-9941-5ffc8870e6d8.jpg",
+   "sentAt": "2026-10-02T09:33:52.925+09:00",
+   "saving": 43,
+   "baseline": 6980,
+   "baselineNote": "186곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gJ8xdSyZ5g"
+  },
   {
    "uid": "5079216827",
    "mall": "11번가",
@@ -706,18 +719,6 @@
    "baselineNote": "106곳 중 최저",
    "unit": "[object Object]",
    "link": "http://app.ac/hbpCnPl13"
-  },
-  {
-   "uid": "3161789023",
-   "mall": "지마켓",
-   "title": "에이서 스위프트 에어 SFA14-I31-567J",
-   "price": 699000,
-   "image": "https://gdimg.gmarket.co.kr/4812117383/goodsimage",
-   "sentAt": "2026-10-01T10:52:13.871+09:00",
-   "saving": 42,
-   "baseline": 1199000,
-   "baselineNote": "판매글 7곳 최저가",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4812117383"
   }
  ]
 }
