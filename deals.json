@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-02T14:00:57.822+09:00",
+ "updated": "2026-10-02T14:01:57.794+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4898693829",
+   "mall": "쿠팡",
+   "title": "비비드키친 저칼로리 토마토케찹 320g 2개",
+   "price": 4280,
+   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/63391494214727-186bf070-06b9-4f1c-9139-9ee6be248faf.png",
+   "sentAt": "2026-10-02T14:01:57.015+09:00",
+   "saving": 42,
+   "baseline": 7370,
+   "baselineNote": "판매글 6곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hvT4PRhod2"
+  },
   {
    "uid": "9962698719",
    "mall": "롯데온",
@@ -707,15 +720,6 @@
    "image": "https://gdimg.gmarket.co.kr/4861306746/goodsimage",
    "sentAt": "2026-10-01T13:43:54.198+09:00",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4861306746"
-  },
-  {
-   "uid": "2665447889",
-   "mall": "지마켓",
-   "title": "모다모다 제로그레이 블랙10 갈변샴푸 300g 2통+10일샤쉐",
-   "price": 35920,
-   "image": "https://gdimg.gmarket.co.kr/4840182125/goodsimage",
-   "sentAt": "2026-10-01T13:34:11.443+09:00",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4840182125"
   }
  ]
 }
