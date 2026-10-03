@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-03T11:18:22.867+09:00",
+ "updated": "2026-10-03T11:21:47.309+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1545958827",
+   "mall": "지마켓",
+   "title": "ahc 마이크로로즈 마리착붙 마스크시트33ml 20ea 앱솔루트 10매",
+   "price": 9170,
+   "image": "https://gdimg.gmarket.co.kr/4209742777/goodsimage",
+   "sentAt": "2026-10-03T11:21:46.784+09:00",
+   "saving": 49,
+   "baseline": 18090,
+   "baselineNote": "판매글 31곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4209742777"
+  },
   {
    "uid": "5499779922",
    "mall": "쿠팡",
@@ -726,19 +739,6 @@
    "baselineNote": "판매글 4곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4775478141"
-  },
-  {
-   "uid": "1096631230",
-   "mall": "지마켓",
-   "title": "로투스 비스코프 비스킷 50Px6개 1875g",
-   "price": 19080,
-   "image": "https://gdimg.gmarket.co.kr/4778137012/goodsimage",
-   "sentAt": "2026-10-01T17:34:08.782+09:00",
-   "saving": 26,
-   "baseline": 25740,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4778137012"
   }
  ]
 }
