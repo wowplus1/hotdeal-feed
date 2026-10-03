@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-03T17:54:55.716+09:00",
+ "updated": "2026-10-03T18:14:09.135+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3369271312",
+   "mall": "토스쇼핑",
+   "title": "국내산 홍옥사과, 중소과, 2kg, 1박스",
+   "price": 12900,
+   "image": "https://shopping.toss.im/live/temp/2026-09-09/265e82aa-bc70-4c2c-a6ed-4d1220ef4b89.jpeg",
+   "sentAt": "2026-10-03T18:14:08.619+09:00",
+   "saving": 48,
+   "baseline": 24660,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/pIfic7Hp"
+  },
   {
    "uid": "4674896416",
    "mall": "롯데온",
@@ -725,16 +738,6 @@
    "baselineNote": "판매글 31곳 최저가",
    "unit": "[object Object]",
    "link": "https://toss.shopping/_m/TSVlf8Rl"
-  },
-  {
-   "uid": "1817734454",
-   "mall": "토스쇼핑",
-   "title": "카라카라 오렌지, 중대과, 14~17과 내외, 3.5kg, 1박스",
-   "price": 12900,
-   "image": "https://shopping.toss.im/live/temp/2026-03-13/f02a448b-5ae6-46a1-9678-b780373089fc.jpeg",
-   "sentAt": "2026-10-01T20:44:21.604+09:00",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/NS4E6SAz"
   }
  ]
 }
