@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-03T14:52:19.997+09:00",
+ "updated": "2026-10-03T14:54:05.752+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1429795570",
+   "mall": "토스쇼핑",
+   "title": "당연구소 병아리콩과자 튀김, 30g, 10봉",
+   "price": 8500,
+   "image": "https://shopping.toss.im/live/taca/ai/MmE5MjM4/QU5OR0Nsa0p1ZFN6OW1ZOUpOd2NTdGloMGFVMmVpOWE0WXorcEJrVFVGUG0.png",
+   "sentAt": "2026-10-03T14:54:05.263+09:00",
+   "unit": "[object Object]",
+   "link": "https://toss.im/_m/pDjLInvy"
+  },
   {
    "uid": "5434138180",
    "mall": "롯데온",
@@ -725,19 +735,6 @@
    "baseline": 82260,
    "baselineNote": "104곳 중 최저 · 무료배송",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2135848642"
-  },
-  {
-   "uid": "3866460600",
-   "mall": "쿠팡",
-   "title": "오뚜기 스위트콘, 340g, 3개",
-   "price": 3870,
-   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/320342467364406-88d00970-fba4-4789-a36e-49583e51d21d.png",
-   "sentAt": "2026-10-01T19:54:52.317+09:00",
-   "saving": 34,
-   "baseline": 5840,
-   "baselineNote": "17곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/huEk8BvZHU"
   }
  ]
 }
