@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-03T18:14:09.135+09:00",
+ "updated": "2026-10-03T18:50:19.308+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6359371973",
+   "mall": "지마켓",
+   "title": "불스원샷 플래티넘 첨가제 5IN1 2개",
+   "price": 21960,
+   "image": "https://gdimg.gmarket.co.kr/2217959476/goodsimage",
+   "sentAt": "2026-10-03T18:50:18.566+09:00",
+   "saving": 26,
+   "baseline": 29640,
+   "baselineNote": "판매글 26곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2217959476"
+  },
   {
    "uid": "3369271312",
    "mall": "토스쇼핑",
@@ -725,19 +738,6 @@
    "baseline": 38450,
    "baselineNote": "판매글 40곳 최저가",
    "link": "http://app.ac/e3MvXsJ23"
-  },
-  {
-   "uid": "2117446911",
-   "mall": "토스쇼핑",
-   "title": "썬키스트 제로, 복숭아레몬소다, 600ml, 24개",
-   "price": 18900,
-   "image": "https://shopping.toss.im/live/temp/2026-04-28/3203b3eb-8c9c-42b5-a105-3c6e33149d0a.jpeg",
-   "sentAt": "2026-10-01T20:44:21.604+09:00",
-   "saving": 19,
-   "baseline": 23470,
-   "baselineNote": "판매글 31곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/TSVlf8Rl"
   }
  ]
 }
