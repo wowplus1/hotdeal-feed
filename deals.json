@@ -1,7 +1,16 @@
 {
- "updated": "2026-10-03T09:41:03.221+09:00",
+ "updated": "2026-10-03T10:40:56.366+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6623712475",
+   "mall": "지마켓",
+   "title": "피죤 섬유유연제 피죤 3100ml x3개+2300mlx1개",
+   "price": 14160,
+   "image": "https://gdimg.gmarket.co.kr/1928172559/goodsimage",
+   "sentAt": "2026-10-03T10:40:55.619+09:00",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=1928172559"
+  },
   {
    "uid": "2378901764",
    "mall": "토스쇼핑",
@@ -727,18 +736,6 @@
    "sentAt": "2026-10-01T17:24:13.466+09:00",
    "unit": "[object Object]",
    "link": "https://toss.im/_m/7BWu8NAo"
-  },
-  {
-   "uid": "6839062311",
-   "mall": "지마켓",
-   "title": "몽쉘 생크림 408g 3+1개",
-   "price": 13270,
-   "image": "https://gdimg.gmarket.co.kr/4646998419/goodsimage",
-   "sentAt": "2026-10-01T17:14:13.062+09:00",
-   "saving": 36,
-   "baseline": 20740,
-   "baselineNote": "판매글 4곳 최저가",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4646998419"
   }
  ]
 }
