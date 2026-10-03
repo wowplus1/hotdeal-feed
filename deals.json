@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-03T12:12:48.311+09:00",
+ "updated": "2026-10-03T12:23:52.176+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6103059791",
+   "mall": "토스쇼핑",
+   "title": "바른 돼지국밥, 500g, 5개",
+   "price": 14900,
+   "image": "https://shopping.toss.im/live/temp/2026-06-15/fc748c01-e1e5-4ced-899e-85bb69ecf463.jpeg",
+   "sentAt": "2026-10-03T12:23:51.628+09:00",
+   "saving": 32,
+   "baseline": 22000,
+   "baselineNote": "14곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://toss.im/_m/HpbsW9br"
+  },
   {
    "uid": "5424212984",
    "mall": "토스쇼핑",
@@ -725,19 +738,6 @@
    "baselineNote": "판매글 8곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2242561796"
-  },
-  {
-   "uid": "7317073770",
-   "mall": "토스쇼핑",
-   "title": "고궁 통참깨 참기름, 350ml, 4개",
-   "price": 20900,
-   "image": "https://shopping.toss.im/live/taca/ai/YWI3MDZm/QUxidnRjZm8vbVdXNGR4c3RHanMyM3U3RWJ0bEt4RHliU3NRTjgvckVHeS8.png",
-   "sentAt": "2026-10-01T19:04:30.338+09:00",
-   "saving": 30,
-   "baseline": 30030,
-   "baselineNote": "판매글 8곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://toss.im/_m/j3Ni93Iy"
   }
  ]
 }
