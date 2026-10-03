@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-03T11:21:47.309+09:00",
+ "updated": "2026-10-03T12:12:48.311+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5424212984",
+   "mall": "토스쇼핑",
+   "title": "숨 물걸레 청소포, 50매입, 6팩",
+   "price": 7900,
+   "image": "https://shopping.toss.im/live/taca/ai/MTA4NDZh/UitHZmpqaytyQTUyWk5abXczUmx4eWNsMkU0OGJPSjh6TTBIZ2RtQk9iTT0.png",
+   "sentAt": "2026-10-03T12:12:47.445+09:00",
+   "saving": 40,
+   "baseline": 13220,
+   "baselineNote": "판매글 19곳 최저가",
+   "link": "https://toss.shopping/_m/TAk2Z9It"
+  },
   {
    "uid": "1545958827",
    "mall": "지마켓",
@@ -726,19 +738,6 @@
    "baselineNote": "판매글 8곳 최저가",
    "unit": "[object Object]",
    "link": "https://toss.im/_m/j3Ni93Iy"
-  },
-  {
-   "uid": "4081048653",
-   "mall": "지마켓",
-   "title": "죠리퐁 레트로 74g 16개",
-   "price": 10700,
-   "image": "https://gdimg.gmarket.co.kr/4775478141/goodsimage",
-   "sentAt": "2026-10-01T18:10:21.000+09:00",
-   "saving": 55,
-   "baseline": 23750,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4775478141"
   }
  ]
 }
