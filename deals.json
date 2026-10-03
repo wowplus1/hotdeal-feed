@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-04T07:03:08.030+09:00",
+ "updated": "2026-10-04T07:20:45.016+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5555330198",
+   "mall": "쿠팡",
+   "title": "락피도 프로바이오틱스 키즈 플러스 60p, 120g, 1개",
+   "price": 14920,
+   "image": "https://t3a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1572077319772154-e8c7b116-539f-49c3-9c10-9f9a78d32272.jpg",
+   "sentAt": "2026-10-04T07:20:44.467+09:00",
+   "saving": 32,
+   "baseline": 21900,
+   "baselineNote": "판매글 14곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hyLevpurkG"
+  },
   {
    "uid": "9303222621",
    "mall": "쿠팡",
@@ -727,18 +740,6 @@
    "baselineNote": "15곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/huKUEP33sW"
-  },
-  {
-   "uid": "6496037776",
-   "mall": "11번가",
-   "title": "앙블랑 아기물티슈 그랜드 네이비 캡형 70매X20팩",
-   "price": 23870,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/7407909161/B.webp",
-   "sentAt": "2026-10-01T21:24:39.285+09:00",
-   "saving": 26,
-   "baseline": 32250,
-   "baselineNote": "판매글 27곳 최저가",
-   "link": "http://app.ac/5AGKnn583"
   }
  ]
 }
