@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-03T14:54:05.752+09:00",
+ "updated": "2026-10-03T17:54:55.716+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4674896416",
+   "mall": "롯데온",
+   "title": "울혼방 니트 집업 가디건 블랙 OKW2SWZU201K1",
+   "price": 7640,
+   "image": "https://contents.lotteon.com/itemimage/20261002191854/LO/26/32/08/25/80/bndl_img/LO2632082580_1.jpg",
+   "sentAt": "2026-10-03T17:54:54.924+09:00",
+   "saving": 72,
+   "baseline": 27260,
+   "baselineNote": "45곳 중 최저",
+   "link": "http://app.ac/gjw1Rwa03"
+  },
   {
    "uid": "1429795570",
    "mall": "토스쇼핑",
@@ -723,18 +735,6 @@
    "sentAt": "2026-10-01T20:44:21.604+09:00",
    "unit": "[object Object]",
    "link": "https://toss.shopping/_m/NS4E6SAz"
-  },
-  {
-   "uid": "8166388036",
-   "mall": "지마켓",
-   "title": "필립스 퍼펙트케어 파워다리미 GC3929/68+보풀제거기",
-   "price": 65310,
-   "image": "https://gdimg.gmarket.co.kr/2135848642/goodsimage",
-   "sentAt": "2026-10-01T20:00:00.671+09:00",
-   "saving": 21,
-   "baseline": 82260,
-   "baselineNote": "104곳 중 최저 · 무료배송",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2135848642"
   }
  ]
 }
