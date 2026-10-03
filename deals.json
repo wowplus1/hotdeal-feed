@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-03T12:23:52.176+09:00",
+ "updated": "2026-10-03T14:52:19.997+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5434138180",
+   "mall": "롯데온",
+   "title": "랩신 쉰내/꿉꿉내 제거 섬유항균제 2L*2개",
+   "price": 15820,
+   "image": "https://contents.lotteon.com/itemimage/20260710191957/LO/24/80/73/01/01/_2/48/07/30/10/2/LO2480730101_2480730102_5.png",
+   "sentAt": "2026-10-03T14:52:19.267+09:00",
+   "saving": 26,
+   "baseline": 21450,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/9bpW2Gl03"
+  },
   {
    "uid": "6103059791",
    "mall": "토스쇼핑",
@@ -725,19 +738,6 @@
    "baselineNote": "17곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/huEk8BvZHU"
-  },
-  {
-   "uid": "8770561636",
-   "mall": "지마켓",
-   "title": "오리온 초코파이 48P 1872g",
-   "price": 12900,
-   "image": "https://gdimg.gmarket.co.kr/2242561796/goodsimage",
-   "sentAt": "2026-10-01T19:05:06.318+09:00",
-   "saving": 20,
-   "baseline": 16150,
-   "baselineNote": "판매글 8곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2242561796"
   }
  ]
 }
