@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-03T10:40:56.366+09:00",
+ "updated": "2026-10-03T11:18:22.867+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5499779922",
+   "mall": "쿠팡",
+   "title": "오션스프레이 크랜베리 주스, 3L, 2개",
+   "price": 9990,
+   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/80561277488009-c1a3d245-f713-48f5-8aff-e261d2a8a915.jpg",
+   "sentAt": "2026-10-03T11:18:22.287+09:00",
+   "saving": 43,
+   "baseline": 17550,
+   "baselineNote": "판매글 7곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hxniE6jsR2"
+  },
   {
    "uid": "6623712475",
    "mall": "지마켓",
@@ -726,16 +739,6 @@
    "baselineNote": "판매글 5곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4778137012"
-  },
-  {
-   "uid": "8550723110",
-   "mall": "토스쇼핑",
-   "title": "제스프리 썬 골드키위, 중대과, 9과, 1kg, 1팩",
-   "price": 8700,
-   "image": "https://shopping.toss.im/live/temp/2026-04-24/e98af57f-712c-4b77-8353-ed42ee1545fb.jpeg",
-   "sentAt": "2026-10-01T17:24:13.466+09:00",
-   "unit": "[object Object]",
-   "link": "https://toss.im/_m/7BWu8NAo"
   }
  ]
 }
