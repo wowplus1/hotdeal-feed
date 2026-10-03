@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-03T07:43:55.348+09:00",
+ "updated": "2026-10-03T09:41:03.221+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2378901764",
+   "mall": "토스쇼핑",
+   "title": "광동 썬키스트 피스타치오 오리지널, 190ml, 24개",
+   "price": 9900,
+   "image": "https://shopping.toss.im/live/temp/2026-07-14/e4897ae6-5152-433e-b2c1-80fd97b72bd7.jpeg",
+   "sentAt": "2026-10-03T09:41:02.349+09:00",
+   "saving": 45,
+   "baseline": 17930,
+   "baselineNote": "판매글 26곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/FlzFEL3b"
+  },
   {
    "uid": "1744604815",
    "mall": "쿠팡",
@@ -726,16 +739,6 @@
    "baseline": 20740,
    "baselineNote": "판매글 4곳 최저가",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4646998419"
-  },
-  {
-   "uid": "3928015276",
-   "mall": "쿠팡",
-   "title": "그린자이언트 니블렛 스위트콘, 340g, 5개",
-   "price": 5700,
-   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/a5b69768-3835-492f-b029-b01cb41165355705134877936661678.png",
-   "sentAt": "2026-10-01T17:10:36.305+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/husFiDunp6"
   }
  ]
 }
