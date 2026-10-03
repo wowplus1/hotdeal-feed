@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-03T18:50:19.308+09:00",
+ "updated": "2026-10-04T07:03:08.030+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9303222621",
+   "mall": "쿠팡",
+   "title": "2080 키즈 콩순이 2스텝 영유아 칫솔 1개입*12개",
+   "price": 5100,
+   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/a734/87b579ff3cf56e4dded274cd309228fdf9658c97fe64e4527e46ad51c523.jpg",
+   "sentAt": "2026-10-04T07:03:07.256+09:00",
+   "saving": 51,
+   "baseline": 10370,
+   "baselineNote": "26곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hyJYkXtado"
+  },
   {
    "uid": "6359371973",
    "mall": "지마켓",
@@ -726,18 +739,6 @@
    "baseline": 32250,
    "baselineNote": "판매글 27곳 최저가",
    "link": "http://app.ac/5AGKnn583"
-  },
-  {
-   "uid": "1389454396",
-   "mall": "롯데온",
-   "title": "남성 간절기 기능성 셔츠형 타슬란 비노 우븐셔켓 MLUFJ201",
-   "price": 31960,
-   "image": "https://contents.lotteon.com/itemimage/20260926140816/LE/12/22/41/20/83/_1/33/63/34/36/1/LE1222412083_1336334361_1.jpg",
-   "sentAt": "2026-10-01T21:19:49.965+09:00",
-   "saving": 17,
-   "baseline": 38450,
-   "baselineNote": "판매글 40곳 최저가",
-   "link": "http://app.ac/e3MvXsJ23"
   }
  ]
 }
