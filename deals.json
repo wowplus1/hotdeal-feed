@@ -1,7 +1,16 @@
 {
- "updated": "2026-10-04T07:20:45.016+09:00",
+ "updated": "2026-10-04T07:48:10.349+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8443673562",
+   "mall": "쿠팡",
+   "title": "퓨어덤 옴므 아쿠아 올인원 로션, 500ml, 1개",
+   "price": 10500,
+   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/118635982382968-370983c1-994a-405b-a044-332f5a3c68fc.jpg",
+   "sentAt": "2026-10-04T07:48:09.668+09:00",
+   "link": "https://link.coupang.com/a/g6NcfnHh4S"
+  },
   {
    "uid": "5555330198",
    "mall": "쿠팡",
@@ -727,19 +736,6 @@
    "baseline": 11390,
    "baselineNote": "판매글 7곳 최저가",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4776510902"
-  },
-  {
-   "uid": "2008726499",
-   "mall": "쿠팡",
-   "title": "이가자연면 투움바 파스타 179.5g 6개",
-   "price": 9900,
-   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/54086336946569-7b82755f-5a35-4bc1-8961-bb444aa5d6f9.jpg",
-   "sentAt": "2026-10-01T21:26:24.598+09:00",
-   "saving": 26,
-   "baseline": 13300,
-   "baselineNote": "15곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/huKUEP33sW"
   }
  ]
 }
