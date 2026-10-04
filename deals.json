@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-04T09:46:28.715+09:00",
+ "updated": "2026-10-04T11:00:28.677+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6800358737",
+   "mall": "11번가",
+   "title": "진드기방지 호텔 방수베개커버 누빔 베개패드 2장 40x60 50x70",
+   "price": 8800,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/5/4/4/6/7/7/VLpKq/3308544677_239750357.webp",
+   "sentAt": "2026-10-04T11:00:27.940+09:00",
+   "unit": "[object Object]",
+   "link": "http://app.ac/vjw14Ea43"
+  },
   {
    "uid": "5682966112",
    "mall": "쿠팡",
@@ -726,16 +736,6 @@
    "baselineNote": "117곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hvruJ2FJGS"
-  },
-  {
-   "uid": "1930238860",
-   "mall": "쿠팡",
-   "title": "씨그램 레몬 무라벨, 350ml, 24개",
-   "price": 9600,
-   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/33455254882561-69061bdf-a29e-415b-84ca-43765250d974.jpg",
-   "sentAt": "2026-10-02T07:15:08.382+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hgURMD1Aom"
   }
  ]
 }
