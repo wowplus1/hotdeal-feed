@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-04T12:24:05.524+09:00",
+ "updated": "2026-10-05T07:03:24.604+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5380699071",
+   "mall": "쿠팡",
+   "title": "세타필 모이스춰라이징 로션, 591ml, 1개",
+   "price": 9480,
+   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/77276365654004-a842d9c0-df4d-44fe-82a3-5dc3bc7ba775.jpg",
+   "sentAt": "2026-10-05T07:03:23.743+09:00",
+   "saving": 27,
+   "baseline": 13070,
+   "baselineNote": "판매글 5곳 최저가",
+   "link": "https://link.coupang.com/a/hr6HuCo0Ye"
+  },
   {
    "uid": "4730868538",
    "mall": "토스쇼핑",
@@ -717,19 +729,6 @@
    "baselineNote": "63곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4515805941"
-  },
-  {
-   "uid": "5336418115",
-   "mall": "쿠팡",
-   "title": "공차 레몬 자스민티, 500ml, 12개",
-   "price": 11840,
-   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/8a204d60-6a02-444b-b229-cc50ff22f2068876256335793136951.png",
-   "sentAt": "2026-10-02T08:39:56.813+09:00",
-   "saving": 24,
-   "baseline": 15510,
-   "baselineNote": "판매글 32곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hvw5jB3y32"
   }
  ]
 }
