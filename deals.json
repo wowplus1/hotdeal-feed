@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-05T07:18:59.423+09:00",
+ "updated": "2026-10-05T07:31:00.395+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5000143444",
+   "mall": "쿠팡",
+   "title": "나우푸드 울트라 오메가 3 500 EPA 250 DHA 소프트젤, 180정, 1개",
+   "price": 29280,
+   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/b644/1ba79ee7ac43d1f92b0ac28c5ec5dba00551024b2a98ec91ec6306425752.jpg",
+   "sentAt": "2026-10-05T07:30:59.717+09:00",
+   "saving": 23,
+   "baseline": 37846,
+   "baselineNote": "40곳 중 최저",
+   "link": "https://link.coupang.com/a/gzxrcaZZ24"
+  },
   {
    "uid": "1582563539",
    "mall": "쿠팡",
@@ -716,19 +728,6 @@
    "baselineNote": "42곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=3605787557"
-  },
-  {
-   "uid": "3341898907",
-   "mall": "롯데온",
-   "title": "정선사위 국산 생강 착즙원액 650g 생강청 생강차",
-   "price": 19760,
-   "image": "https://contents.lotteon.com/itemimage/20261001153954/LO/25/97/52/62/85/_2/59/75/26/28/6/LO2597526285_2597526286_5.jpg",
-   "sentAt": "2026-10-02T09:15:03.441+09:00",
-   "saving": 24,
-   "baseline": 26000,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/zAGHTf563"
   }
  ]
 }
