@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-04T11:02:56.508+09:00",
+ "updated": "2026-10-04T11:05:49.748+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1786123381",
+   "mall": "지마켓",
+   "title": "3M 스카치 원터치 테이프 디스펜서 리필 2롤 등",
+   "price": 9920,
+   "image": "https://gdimg.gmarket.co.kr/1493501531/goodsimage",
+   "sentAt": "2026-10-04T11:05:49.139+09:00",
+   "saving": 46,
+   "baseline": 18260,
+   "baselineNote": "62곳 중 최저",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=1493501531"
+  },
   {
    "uid": "2881861448",
    "mall": "쿠팡",
@@ -722,16 +734,6 @@
    "baselineNote": "29곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hvrMcE3Mce"
-  },
-  {
-   "uid": "7826047650",
-   "mall": "쿠팡",
-   "title": "양키캔들 라지자 캔들 623.7g*1개",
-   "price": 11110,
-   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/08db/e9eff32b79c7f220ae10d9ca60b69f234e3e37db3cd73dae310d070dab5d.jpg",
-   "sentAt": "2026-10-02T07:25:55.085+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hvrMNzQZ08"
   }
  ]
 }
