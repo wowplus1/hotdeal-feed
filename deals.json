@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-04T12:03:05.274+09:00",
+ "updated": "2026-10-04T12:24:05.524+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4730868538",
+   "mall": "토스쇼핑",
+   "title": "착한습관 건자두, 250g, 2개",
+   "price": 6900,
+   "image": "https://shopping.toss.im/live/temp/2026-09-14/a9ffc360-d8c6-45fc-ac85-bfa9ba57a62f.jpeg",
+   "sentAt": "2026-10-04T12:24:04.819+09:00",
+   "saving": 46,
+   "baseline": 12710,
+   "baselineNote": "판매글 6곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/HDYEQVlt"
+  },
   {
    "uid": "7183396566",
    "mall": "쿠팡",
@@ -717,19 +730,6 @@
    "baselineNote": "판매글 32곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hvw5jB3y32"
-  },
-  {
-   "uid": "4103018333",
-   "mall": "쿠팡",
-   "title": "이클립스 캔디 포도향, 34g, 8개",
-   "price": 11740,
-   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/01/08/9/7/0890b3af-fcd7-4fe2-9d17-f2208237162f.jpg",
-   "sentAt": "2026-10-02T08:35:50.848+09:00",
-   "saving": 14,
-   "baseline": 13710,
-   "baselineNote": "380곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gus1IT5hlY"
   }
  ]
 }
