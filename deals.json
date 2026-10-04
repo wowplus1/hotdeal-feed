@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-04T11:33:51.284+09:00",
+ "updated": "2026-10-04T12:03:05.274+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7183396566",
+   "mall": "쿠팡",
+   "title": "풀무원 노엣지피자 코리안BBQ 5개 18,770원",
+   "price": 18770,
+   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/444117156065058-db349960-4c19-4b15-a094-9b35bb446dee.jpg",
+   "sentAt": "2026-10-04T12:03:04.506+09:00",
+   "saving": 22,
+   "baseline": 24210,
+   "baselineNote": "137곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hy5n0NX9yu"
+  },
   {
    "uid": "3463723873",
    "mall": "쿠팡",
@@ -717,18 +730,6 @@
    "baselineNote": "380곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gus1IT5hlY"
-  },
-  {
-   "uid": "5320390398",
-   "mall": "쿠팡",
-   "title": "프로그 라텍스 컴포트 고무장갑 * 3세트",
-   "price": 4280,
-   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/312155490495377-1aef1935-1e37-4e6c-9553-f67816f00c21.jpg",
-   "sentAt": "2026-10-02T07:41:23.931+09:00",
-   "saving": 27,
-   "baseline": 5900,
-   "baselineNote": "판매글 13곳 최저가",
-   "link": "https://link.coupang.com/a/hvsSSYMJTE"
   }
  ]
 }
