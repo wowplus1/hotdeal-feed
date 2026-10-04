@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-04T11:05:49.748+09:00",
+ "updated": "2026-10-04T11:11:44.156+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1857034877",
+   "mall": "롯데온",
+   "title": "플레이보이 남성 레터링 베스트 구성 드로즈 남자 속옷 10매입 PMD2118+PMD2110",
+   "price": 19620,
+   "image": "https://contents.lotteon.com/itemimage/20260708165402/LO/26/52/83/26/59/bndl_img/LO2652832659_1.jpg",
+   "sentAt": "2026-10-04T11:11:43.654+09:00",
+   "saving": 34,
+   "baseline": 29930,
+   "baselineNote": "34곳 중 최저 · 무료배송",
+   "link": "http://app.ac/VbpWccl63"
+  },
   {
    "uid": "1786123381",
    "mall": "지마켓",
@@ -721,19 +733,6 @@
    "baselineNote": "148곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hvshE88wWO"
-  },
-  {
-   "uid": "9960050244",
-   "mall": "쿠팡",
-   "title": "양키캔들 라지자 캔들 623g*1개",
-   "price": 11110,
-   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/08db/e9eff32b79c7f220ae10d9ca60b69f234e3e37db3cd73dae310d070dab5d.jpg",
-   "sentAt": "2026-10-02T07:25:55.085+09:00",
-   "saving": 46,
-   "baseline": 20650,
-   "baselineNote": "29곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hvrMcE3Mce"
   }
  ]
 }
