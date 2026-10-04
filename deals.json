@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-05T07:03:24.604+09:00",
+ "updated": "2026-10-05T07:18:59.423+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1582563539",
+   "mall": "쿠팡",
+   "title": "오뚜기 실쏙 찹쌀 군만두 고기 , 1.5kg, 1개",
+   "price": 5990,
+   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/323372ef-52fc-49f1-82c9-1c0074a337711100990313456660151.png",
+   "sentAt": "2026-10-05T07:18:58.897+09:00",
+   "saving": 60,
+   "baseline": 15050,
+   "baselineNote": "판매글 11곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hAp0oZ8mB2"
+  },
   {
    "uid": "5380699071",
    "mall": "쿠팡",
@@ -716,19 +729,6 @@
    "baselineNote": "판매글 4곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/zAGHTf563"
-  },
-  {
-   "uid": "5155498750",
-   "mall": "지마켓",
-   "title": "도라지배즙 80ml 100포",
-   "price": 15320,
-   "image": "https://gdimg.gmarket.co.kr/4515805941/goodsimage",
-   "sentAt": "2026-10-02T08:53:42.866+09:00",
-   "saving": 53,
-   "baseline": 32900,
-   "baselineNote": "63곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4515805941"
   }
  ]
 }
