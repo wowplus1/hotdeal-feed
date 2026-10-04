@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-04T09:12:24.339+09:00",
+ "updated": "2026-10-04T09:46:28.715+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5682966112",
+   "mall": "쿠팡",
+   "title": "신라면 로제 134g 8개",
+   "price": 5740,
+   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/235544130433870-4ab0d9c3-c348-44a1-bafc-7fc3b117bfd4.jpg",
+   "sentAt": "2026-10-04T09:46:27.896+09:00",
+   "saving": 41,
+   "baseline": 9800,
+   "baselineNote": "82곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hyVAZ17kdg"
+  },
   {
    "uid": "9244940987",
    "mall": "지마켓",
@@ -723,19 +736,6 @@
    "sentAt": "2026-10-02T07:15:08.382+09:00",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hgURMD1Aom"
-  },
-  {
-   "uid": "3953273607",
-   "mall": "쿠팡",
-   "title": "게토레이 레몬, 300ml, 24개",
-   "price": 12600,
-   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/06/22/11/9/9f2f0406-088a-4c85-8210-95afee35d6b8.png",
-   "sentAt": "2026-10-02T07:06:12.913+09:00",
-   "saving": 30,
-   "baseline": 17970,
-   "baselineNote": "판매글 31곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gcbD1sWWwS"
   }
  ]
 }
