@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-04T07:48:10.349+09:00",
+ "updated": "2026-10-04T09:12:24.339+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9244940987",
+   "mall": "지마켓",
+   "title": "피죤 시그니처 건조기 드라이시트 120매 2개",
+   "price": 12470,
+   "image": "https://gdimg.gmarket.co.kr/2133979989/goodsimage",
+   "sentAt": "2026-10-04T09:12:23.582+09:00",
+   "saving": 30,
+   "baseline": 17900,
+   "baselineNote": "판매글 9곳 최저가",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2133979989"
+  },
   {
    "uid": "8443673562",
    "mall": "쿠팡",
@@ -724,18 +736,6 @@
    "baselineNote": "판매글 31곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gcbD1sWWwS"
-  },
-  {
-   "uid": "5953706997",
-   "mall": "지마켓",
-   "title": "뽑아쓰는 키친타올 3겹 100매 9팩",
-   "price": 6650,
-   "image": "https://gdimg.gmarket.co.kr/4776510902/goodsimage",
-   "sentAt": "2026-10-02T07:01:00.730+09:00",
-   "saving": 42,
-   "baseline": 11390,
-   "baselineNote": "판매글 7곳 최저가",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4776510902"
   }
  ]
 }
