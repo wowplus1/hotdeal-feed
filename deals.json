@@ -1,7 +1,16 @@
 {
- "updated": "2026-10-04T11:12:32.980+09:00",
+ "updated": "2026-10-04T11:33:51.284+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3463723873",
+   "mall": "쿠팡",
+   "title": "리쥬란 힐러 리밸런싱 토너 120ml",
+   "price": 10570,
+   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/389614366962528-aae12a4b-3263-45ce-92ee-539c29d17392.jpg",
+   "sentAt": "2026-10-04T11:33:50.751+09:00",
+   "link": "https://link.coupang.com/a/hy3jMvuaEm"
+  },
   {
    "uid": "3872776037",
    "mall": "쿠팡",
@@ -720,19 +729,6 @@
    "baseline": 5900,
    "baselineNote": "판매글 13곳 최저가",
    "link": "https://link.coupang.com/a/hvsSSYMJTE"
-  },
-  {
-   "uid": "2362241172",
-   "mall": "쿠팡",
-   "title": "불닭볶음면 140g 10개",
-   "price": 8380,
-   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/344801897244744-1de94e9f-29e9-408c-9143-88bbc2a9998e.png",
-   "sentAt": "2026-10-02T07:38:50.158+09:00",
-   "saving": 15,
-   "baseline": 9820,
-   "baselineNote": "132곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hgY1v3gKJw"
   }
  ]
 }
