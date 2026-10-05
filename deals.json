@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-05T20:32:57.366+09:00",
+ "updated": "2026-10-06T07:03:08.422+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3331938712",
+   "mall": "쿠팡",
+   "title": "AHC 슈프림 리얼 아이크림 포 페이스, 30ml, 2개",
+   "price": 11900,
+   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/d55f6df0-4021-49f3-ae30-8f62f27991932089761956341905549.png",
+   "sentAt": "2026-10-06T07:03:07.436+09:00",
+   "saving": 36,
+   "baseline": 18480,
+   "baselineNote": "다른 곳 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hB3KwLlpqS"
+  },
   {
    "uid": "4155089755",
    "mall": "쿠팡",
@@ -727,18 +740,6 @@
    "baselineNote": "9곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "http://app.ac/CtV59LM03"
-  },
-  {
-   "uid": "9175243564",
-   "mall": "롯데온",
-   "title": "울혼방 니트 집업 가디건 블랙 OKW2SWZU201K1",
-   "price": 14530,
-   "image": "https://contents.lotteon.com/itemimage/20260706140616/LO/24/56/83/69/17/_2/45/68/36/91/8/LO2456836917_2456836918_1.jpg",
-   "sentAt": "2026-10-02T16:52:01.181+09:00",
-   "saving": 47,
-   "baseline": 27260,
-   "baselineNote": "43곳 중 최저",
-   "link": "http://app.ac/CECxhGS13"
   }
  ]
 }
