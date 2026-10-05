@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-05T20:10:14.764+09:00",
+ "updated": "2026-10-05T20:21:11.386+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4901964410",
+   "mall": "지마켓",
+   "title": "제주 햇 극조생감귤 로얄과 4.5kg",
+   "price": 10260,
+   "image": "https://gdimg.gmarket.co.kr/4614591709/goodsimage",
+   "sentAt": "2026-10-05T20:21:10.617+09:00",
+   "saving": 23,
+   "baseline": 13270,
+   "baselineNote": "판매글 18곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4614591709"
+  },
   {
    "uid": "5432336019",
    "mall": "쿠팡",
@@ -726,16 +739,6 @@
    "baselineNote": "33곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://toss.shopping/_m/zO2ObEqo"
-  },
-  {
-   "uid": "7158865470",
-   "mall": "11번가",
-   "title": "옥이네 쫄볶이 순한맛 2팩",
-   "price": 6080,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/3/3/6/8/9/9/SdUMW/3496336899_239542235.webp",
-   "sentAt": "2026-10-02T15:04:52.050+09:00",
-   "unit": "[object Object]",
-   "link": "http://app.ac/f3MvOCJ13"
   }
  ]
 }
