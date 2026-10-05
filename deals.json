@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-05T13:19:47.994+09:00",
+ "updated": "2026-10-05T13:40:55.690+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4904632352",
+   "mall": "롯데온",
+   "title": "썬키스트 마시는 피스타치오 오리지널 190ml 24입",
+   "price": 9950,
+   "image": "https://contents.lotteon.com/itemimage/20260929160057/LO/26/78/51/30/78/_2/67/85/13/07/9/LO2678513078_2678513079_1.jpg",
+   "sentAt": "2026-10-05T13:40:55.046+09:00",
+   "saving": 44,
+   "baseline": 17800,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/03Mz9kJ13"
+  },
   {
    "uid": "5843852015",
    "mall": "지마켓",
@@ -721,19 +734,6 @@
    "sentAt": "2026-10-02T13:59:58.620+09:00",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2767151748"
-  },
-  {
-   "uid": "2953911853",
-   "mall": "토스쇼핑",
-   "title": "교동 버섯 들깨탕, 500g, 5개",
-   "price": 12900,
-   "image": "https://shopping.toss.im/live/taca/ai/NDE0MDQ4/WW0zZXk3U0RHMkU0Y1dRZTNtUFJObTFqTHRPV0lYbE1qdUd6cVRsRXpQWT0.png",
-   "sentAt": "2026-10-02T12:24:20.768+09:00",
-   "saving": 27,
-   "baseline": 17600,
-   "baselineNote": "판매글 26곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://toss.im/_m/nl3Ts5Ko"
   }
  ]
 }
