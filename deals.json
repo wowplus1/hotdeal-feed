@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-05T13:01:31.631+09:00",
+ "updated": "2026-10-05T13:19:47.994+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5843852015",
+   "mall": "지마켓",
+   "title": "BBQ 닭강정 코스트코 야자당 양념닭강정 1.2kg X 2개",
+   "price": 25440,
+   "image": "https://gdimg.gmarket.co.kr/4579417652/goodsimage",
+   "sentAt": "2026-10-05T13:19:47.428+09:00",
+   "saving": 23,
+   "baseline": 32870,
+   "baselineNote": "판매글 19곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4579417652"
+  },
   {
    "uid": "8410096009",
    "mall": "토스쇼핑",
@@ -721,19 +734,6 @@
    "baselineNote": "판매글 26곳 최저가",
    "unit": "[object Object]",
    "link": "https://toss.im/_m/nl3Ts5Ko"
-  },
-  {
-   "uid": "9285486134",
-   "mall": "쿠팡",
-   "title": "르샤트라1802 드라이시트 섬유유연제 피오니부케 본품 120매",
-   "price": 7660,
-   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/934573637270894-6a0b2e9c-171c-4d0a-a0b1-6dd8f169eb04.jpg",
-   "sentAt": "2026-10-02T12:11:53.067+09:00",
-   "saving": 27,
-   "baseline": 10450,
-   "baselineNote": "80곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hvMdJ3uSHI"
   }
  ]
 }
