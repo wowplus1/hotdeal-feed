@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-05T20:21:11.386+09:00",
+ "updated": "2026-10-05T20:32:57.366+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4155089755",
+   "mall": "쿠팡",
+   "title": "크라운 버터와플, 810g, 1개",
+   "price": 10670,
+   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/6086768595157260-877f5a11-c2d8-41e5-a5ff-bb28d4aec577.jpg",
+   "sentAt": "2026-10-05T20:32:56.772+09:00",
+   "saving": 28,
+   "baseline": 14830,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hBiKFdBa32"
+  },
   {
    "uid": "4901964410",
    "mall": "지마켓",
@@ -726,19 +739,6 @@
    "baseline": 27260,
    "baselineNote": "43곳 중 최저",
    "link": "http://app.ac/CECxhGS13"
-  },
-  {
-   "uid": "8604174861",
-   "mall": "토스쇼핑",
-   "title": "후디스 하이키드 킨더밀쉬, 200ml, 24입, 1박스",
-   "price": 9900,
-   "image": "https://shopping.toss.im/live/temp/2025-07-14/c8e1b8aa-7b9b-4907-9b0e-eeb94e7abb35.jpeg",
-   "sentAt": "2026-10-02T15:10:17.805+09:00",
-   "saving": 64,
-   "baseline": 27300,
-   "baselineNote": "33곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/zO2ObEqo"
   }
  ]
 }
