@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-05T12:01:45.247+09:00",
+ "updated": "2026-10-05T12:03:21.220+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5833628516",
+   "mall": "쿠팡",
+   "title": "찰떡파이 명가 두바이st 피스타치오맛, 300g 5,630원",
+   "price": 5630,
+   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/03/09/17/2/29b7270b-7ef2-46cf-ac90-38a4e1a4f9eb.jpg",
+   "sentAt": "2026-10-05T12:03:20.705+09:00",
+   "saving": 21,
+   "baseline": 7160,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hAKh0Q9k1l"
+  },
   {
    "uid": "4003286516",
    "mall": "롯데온",
@@ -721,15 +734,6 @@
    "baselineNote": "판매글 33곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hvJkCv68ey"
-  },
-  {
-   "uid": "6105556258",
-   "mall": "지마켓",
-   "title": "AHC 텐레볼루션 아이크림 35ml 4개 +7ml 4개 +쇼핑백",
-   "price": 23040,
-   "image": "https://gdimg.gmarket.co.kr/4357749541/goodsimage",
-   "sentAt": "2026-10-02T11:20:29.165+09:00",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4357749541"
   }
  ]
 }
