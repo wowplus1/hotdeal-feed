@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-05T12:03:21.220+09:00",
+ "updated": "2026-10-05T12:47:26.208+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3237313389",
+   "mall": "쿠팡",
+   "title": "찰떡파이 명가 두바이st 피스타치오맛, 300g, 1개",
+   "price": 5630,
+   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/03/09/17/2/29b7270b-7ef2-46cf-ac90-38a4e1a4f9eb.jpg",
+   "sentAt": "2026-10-05T12:47:25.502+09:00",
+   "saving": 21,
+   "baseline": 7160,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hANrOD0HsW"
+  },
   {
    "uid": "5833628516",
    "mall": "쿠팡",
@@ -721,19 +734,6 @@
    "baselineNote": "40곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://toss.shopping/_m/XgjEcsIz"
-  },
-  {
-   "uid": "5793894230",
-   "mall": "쿠팡",
-   "title": "청정원 진한 토마토케찹, 500g, 2개",
-   "price": 3080,
-   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/31935897880269-5584b7ae-cbe9-4d57-aeae-18a7382788de.jpg",
-   "sentAt": "2026-10-02T11:32:07.211+09:00",
-   "saving": 49,
-   "baseline": 6030,
-   "baselineNote": "판매글 33곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hvJkCv68ey"
   }
  ]
 }
