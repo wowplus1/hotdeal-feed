@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-05T18:03:02.610+09:00",
+ "updated": "2026-10-05T20:10:14.764+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5432336019",
+   "mall": "쿠팡",
+   "title": "바릴라 스파게티, 1kg, 2개",
+   "price": 7480,
+   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/294666128988053-0b37a596-9b84-47bf-96f5-f1fa108cc696.jpg",
+   "sentAt": "2026-10-05T20:10:13.754+09:00",
+   "saving": 45,
+   "baseline": 13480,
+   "baselineNote": "판매글 7곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hBi6fxdIrI"
+  },
   {
    "uid": "8799731164",
    "mall": "지마켓",
@@ -723,19 +736,6 @@
    "sentAt": "2026-10-02T15:04:52.050+09:00",
    "unit": "[object Object]",
    "link": "http://app.ac/f3MvOCJ13"
-  },
-  {
-   "uid": "4898693829",
-   "mall": "쿠팡",
-   "title": "비비드키친 저칼로리 토마토케찹 320g 2개",
-   "price": 4280,
-   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/63391494214727-186bf070-06b9-4f1c-9139-9ee6be248faf.png",
-   "sentAt": "2026-10-02T14:01:57.015+09:00",
-   "saving": 42,
-   "baseline": 7370,
-   "baselineNote": "판매글 6곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hvT4PRhod2"
   }
  ]
 }
