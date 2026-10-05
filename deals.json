@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-05T10:55:15.454+09:00",
+ "updated": "2026-10-05T12:01:45.247+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4003286516",
+   "mall": "롯데온",
+   "title": "서문시장 손맛 감자칼국수 400g 4봉 + 스프 8개",
+   "price": 8360,
+   "image": "https://contents.lotteon.com/itemimage/20260909153338/LO/23/67/86/66/90/_2/36/78/66/69/1/LO2367866690_2367866691_1.jpg",
+   "sentAt": "2026-10-05T12:01:44.524+09:00",
+   "saving": 35,
+   "baseline": 12820,
+   "baselineNote": "판매글 3곳 최저가",
+   "link": "http://app.ac/ybpGF6l13"
+  },
   {
    "uid": "7817300786",
    "mall": "지마켓",
@@ -718,16 +730,6 @@
    "image": "https://gdimg.gmarket.co.kr/4357749541/goodsimage",
    "sentAt": "2026-10-02T11:20:29.165+09:00",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4357749541"
-  },
-  {
-   "uid": "7290258737",
-   "mall": "지마켓",
-   "title": "프리티스킨 30데이즈 올인원 수분크림 100ml 2개",
-   "price": 7880,
-   "image": "https://gdimg.gmarket.co.kr/3256234228/goodsimage",
-   "sentAt": "2026-10-02T11:16:55.052+09:00",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=3256234228"
   }
  ]
 }
