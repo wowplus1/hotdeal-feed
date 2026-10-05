@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-05T10:04:51.107+09:00",
+ "updated": "2026-10-05T10:55:15.454+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7817300786",
+   "mall": "지마켓",
+   "title": "호밍스 대게와 랍스터볶음밥 210g 10개",
+   "price": 13120,
+   "image": "https://gdimg.gmarket.co.kr/2770992431/goodsimage",
+   "sentAt": "2026-10-05T10:55:14.703+09:00",
+   "saving": 39,
+   "baseline": 21380,
+   "baselineNote": "판매글 11곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2770992431"
+  },
   {
    "uid": "5921518521",
    "mall": "토스쇼핑",
@@ -715,19 +728,6 @@
    "sentAt": "2026-10-02T11:16:55.052+09:00",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=3256234228"
-  },
-  {
-   "uid": "3080687894",
-   "mall": "쿠팡",
-   "title": "하인즈 토마토 케찹, 570g, 2개",
-   "price": 5480,
-   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1105972027584631-227ca7a8-f143-485b-9ab9-f94fc4960382.jpg",
-   "sentAt": "2026-10-02T11:11:48.846+09:00",
-   "saving": 38,
-   "baseline": 8770,
-   "baselineNote": "423곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gpVwueJRpk"
   }
  ]
 }
