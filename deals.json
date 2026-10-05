@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-05T09:03:29.755+09:00",
+ "updated": "2026-10-05T09:36:15.373+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5028540152",
+   "mall": "쿠팡",
+   "title": "피죤 건조기용 오리지널 드라이시트 섬유유연제 옐로미모사 본품, 120개입, 1개",
+   "price": 7930,
+   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/0318/894e0c3dee1622df0bf3d8d9bb34423baa1d6b91dc71208d62f97b09625b.jpg",
+   "sentAt": "2026-10-05T09:36:14.530+09:00",
+   "saving": 34,
+   "baseline": 11940,
+   "baselineNote": "판매글 6곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hAzMzFWq3E"
+  },
   {
    "uid": "5991170968",
    "mall": "쿠팡",
@@ -716,19 +729,6 @@
    "baselineNote": "다른 곳 최저",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=1558350154"
-  },
-  {
-   "uid": "7969729873",
-   "mall": "롯데온",
-   "title": "칠성사이다 제로 유자 355ml 24캔",
-   "price": 13940,
-   "image": "https://contents.lotteon.com/itemimage/20261001100414/LO/27/82/59/72/55/_2/78/25/97/25/6/LO2782597255_2782597256_1.jpg",
-   "sentAt": "2026-10-02T10:17:08.393+09:00",
-   "saving": 19,
-   "baseline": 17270,
-   "baselineNote": "344곳 중 최저",
-   "unit": "[object Object]",
-   "link": "http://app.ac/UjwzT9a23"
   }
  ]
 }
