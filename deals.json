@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-05T13:40:55.690+09:00",
+ "updated": "2026-10-05T16:10:19.292+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5440202260",
+   "mall": "지마켓",
+   "title": "오리온 포카칩 어니언 66g x 20봉",
+   "price": 20160,
+   "image": "https://gdimg.gmarket.co.kr/1562379826/goodsimage",
+   "sentAt": "2026-10-05T16:10:18.579+09:00",
+   "saving": 21,
+   "baseline": 25640,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=1562379826"
+  },
   {
    "uid": "4904632352",
    "mall": "롯데온",
@@ -724,16 +737,6 @@
    "baselineNote": "22곳 중 최저",
    "unit": "[object Object]",
    "link": "http://app.ac/KAGH08593"
-  },
-  {
-   "uid": "8976144397",
-   "mall": "지마켓",
-   "title": "테이프클리너 리필15입",
-   "price": 11360,
-   "image": "https://gdimg.gmarket.co.kr/2767151748/goodsimage",
-   "sentAt": "2026-10-02T13:59:58.620+09:00",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2767151748"
   }
  ]
 }
