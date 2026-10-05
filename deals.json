@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-05T09:00:41.614+09:00",
+ "updated": "2026-10-05T09:03:29.755+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5991170968",
+   "mall": "쿠팡",
+   "title": "앱솔루트 킨더밀쉬 유아우유 200ml 24개 18,250원",
+   "price": 18250,
+   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1417892515071002-49208dc6-7441-45ef-a38d-7017b8971e36.png",
+   "sentAt": "2026-10-05T09:03:29.262+09:00",
+   "saving": 29,
+   "baseline": 25870,
+   "baselineNote": "90곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hAxrneEp7k"
+  },
   {
    "uid": "6273693307",
    "mall": "쿠팡",
@@ -716,18 +729,6 @@
    "baselineNote": "344곳 중 최저",
    "unit": "[object Object]",
    "link": "http://app.ac/UjwzT9a23"
-  },
-  {
-   "uid": "6597383007",
-   "mall": "지마켓",
-   "title": "마니커 버팔로 치킨윙봉 1kg+1kg",
-   "price": 18400,
-   "image": "https://gdimg.gmarket.co.kr/1695859677/goodsimage",
-   "sentAt": "2026-10-02T10:04:00.052+09:00",
-   "saving": 22,
-   "baseline": 23650,
-   "baselineNote": "61곳 중 최저 · 무료배송",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=1695859677"
   }
  ]
 }
