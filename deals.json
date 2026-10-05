@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-05T08:33:18.655+09:00",
+ "updated": "2026-10-05T09:00:41.614+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6273693307",
+   "mall": "쿠팡",
+   "title": "테일러 트리플 클렌즈 24h 주스, 946ml, 2개",
+   "price": 14220,
+   "image": "https://t3a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2ec2022e-b044-48a8-ae89-9969974b8dfb8282939326597658660.png",
+   "sentAt": "2026-10-05T09:00:41.102+09:00",
+   "saving": 24,
+   "baseline": 18600,
+   "baselineNote": "판매글 13곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hAxd6ZVVw4"
+  },
   {
    "uid": "5140144256",
    "mall": "쿠팡",
@@ -715,19 +728,6 @@
    "baseline": 23650,
    "baselineNote": "61곳 중 최저 · 무료배송",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=1695859677"
-  },
-  {
-   "uid": "8346395587",
-   "mall": "쿠팡",
-   "title": "청정원 고소한 마요네즈, 300g, 2개",
-   "price": 3980,
-   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/90537317427466-8bc4a583-5edc-4346-9941-5ffc8870e6d8.jpg",
-   "sentAt": "2026-10-02T09:33:52.925+09:00",
-   "saving": 43,
-   "baseline": 6980,
-   "baselineNote": "186곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gJ8xdSyZ5g"
   }
  ]
 }
