@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-05T09:36:15.373+09:00",
+ "updated": "2026-10-05T10:04:51.107+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5921518521",
+   "mall": "토스쇼핑",
+   "title": "한국생활건강연구소 호리온 식물성 멜라토닌 2mg, 800mg, 30정, 1개",
+   "price": 8900,
+   "image": "https://shopping.toss.im/live/temp/2026-07-29/d47cb95a-6a90-463d-9139-4392934eb433.jpeg",
+   "sentAt": "2026-10-05T10:04:50.426+09:00",
+   "saving": 32,
+   "baseline": 13150,
+   "baselineNote": "판매글 6곳 최저가",
+   "link": "https://toss.shopping/_m/jfucydU6"
+  },
   {
    "uid": "5028540152",
    "mall": "쿠팡",
@@ -716,19 +728,6 @@
    "baselineNote": "423곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gpVwueJRpk"
-  },
-  {
-   "uid": "2077885152",
-   "mall": "지마켓",
-   "title": "국내가공 백진미채 1kg",
-   "price": 18520,
-   "image": "https://gdimg.gmarket.co.kr/1558350154/goodsimage",
-   "sentAt": "2026-10-02T11:06:11.105+09:00",
-   "saving": 21,
-   "baseline": 23560,
-   "baselineNote": "다른 곳 최저",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=1558350154"
   }
  ]
 }
