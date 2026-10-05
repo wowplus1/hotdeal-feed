@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-05T13:00:51.167+09:00",
+ "updated": "2026-10-05T13:01:31.631+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8410096009",
+   "mall": "토스쇼핑",
+   "title": "가쯔 멀티 논슬립 옷걸이, 블랙, 30개",
+   "price": 5510,
+   "image": "https://shopping.toss.im/live/taca/ai/MzljOTI3/VFBQeHo4MmVUbGx0c0xqTjNMUmwydEdNenNrdVlER2FrczdMU1VlaE5qWT0.png",
+   "sentAt": "2026-10-05T13:01:31.151+09:00",
+   "saving": 26,
+   "baseline": 7430,
+   "baselineNote": "29곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/9JrXObEo"
+  },
   {
    "uid": "9163587873",
    "mall": "쿠팡",
@@ -721,19 +734,6 @@
    "baselineNote": "80곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hvMdJ3uSHI"
-  },
-  {
-   "uid": "4719186878",
-   "mall": "11번가",
-   "title": "오렌지망고 200ml, 40개",
-   "price": 14810,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9621030934/B.webp?701727496",
-   "sentAt": "2026-10-02T11:51:39.939+09:00",
-   "saving": 44,
-   "baseline": 26600,
-   "baselineNote": "판매글 9곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/LtVyHUM63"
   }
  ]
 }
