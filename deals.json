@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-05T16:10:19.292+09:00",
+ "updated": "2026-10-05T18:03:02.610+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8799731164",
+   "mall": "지마켓",
+   "title": "크리넥스 마이비데 클린케어 카카오 40매 16팩",
+   "price": 17600,
+   "image": "https://gdimg.gmarket.co.kr/4488461792/goodsimage",
+   "sentAt": "2026-10-05T18:03:01.858+09:00",
+   "saving": 29,
+   "baseline": 24910,
+   "baselineNote": "판매글 9곳 최저가",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4488461792"
+  },
   {
    "uid": "5440202260",
    "mall": "지마켓",
@@ -724,19 +736,6 @@
    "baselineNote": "판매글 6곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hvT4PRhod2"
-  },
-  {
-   "uid": "9962698719",
-   "mall": "롯데온",
-   "title": "쟌슨빌 소시지 김치 볶음밥 250g 10팩",
-   "price": 22730,
-   "image": "https://contents.lotteon.com/itemimage/20260714152457/LO/24/93/19/97/60/_2/49/31/99/76/3/LO2493199760_2493199763_1.jpg",
-   "sentAt": "2026-10-02T14:00:57.313+09:00",
-   "saving": 23,
-   "baseline": 29350,
-   "baselineNote": "22곳 중 최저",
-   "unit": "[object Object]",
-   "link": "http://app.ac/KAGH08593"
   }
  ]
 }
