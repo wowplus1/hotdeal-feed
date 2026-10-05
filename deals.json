@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-05T12:47:26.208+09:00",
+ "updated": "2026-10-05T13:00:51.167+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9163587873",
+   "mall": "쿠팡",
+   "title": "청정원 하프칼로리 마요네즈, 290g, 1개",
+   "price": 2780,
+   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/02/25/11/2/ad3d7fa2-b240-4e4d-84e7-8213a739df4e.jpg",
+   "sentAt": "2026-10-05T13:00:50.264+09:00",
+   "saving": 35,
+   "baseline": 4250,
+   "baselineNote": "15곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hAOnfKPgUS"
+  },
   {
    "uid": "3237313389",
    "mall": "쿠팡",
@@ -721,19 +734,6 @@
    "baselineNote": "판매글 9곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/LtVyHUM63"
-  },
-  {
-   "uid": "8878393694",
-   "mall": "토스쇼핑",
-   "title": "하이뮨 프로틴 밸런스 액티브, 바닐라봉봉, 제로, 250ml, 18개, 2박스",
-   "price": 35820,
-   "image": "https://shopping.toss.im/live/temp/2026-09-10/4a2412ef-dc0b-4b30-a827-fad08cd99133.jpeg",
-   "sentAt": "2026-10-02T11:48:27.276+09:00",
-   "saving": 33,
-   "baseline": 53300,
-   "baselineNote": "40곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/XgjEcsIz"
   }
  ]
 }
