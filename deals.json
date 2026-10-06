@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-06T11:46:53.686+09:00",
+ "updated": "2026-10-06T13:30:19.399+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1800017629",
+   "mall": "지마켓",
+   "title": "에너자이저 알카파워 알카라인 건전지 AA 22입+AAA 22입",
+   "price": 19900,
+   "image": "https://gdimg.gmarket.co.kr/4679790667/goodsimage",
+   "sentAt": "2026-10-06T13:30:18.671+09:00",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4679790667"
+  },
   {
    "uid": "1948112882",
    "mall": "지마켓",
@@ -729,19 +739,6 @@
    "baselineNote": "판매글 11곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hw6pokwRoa"
-  },
-  {
-   "uid": "4418265424",
-   "mall": "쿠팡",
-   "title": "청정원 쉐프의 치킨스톡, 465g, 1개",
-   "price": 4930,
-   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1ad7a0fc-54eb-4461-9453-9e834baedc091884227809150847540.png",
-   "sentAt": "2026-10-03T07:14:33.368+09:00",
-   "saving": 39,
-   "baseline": 8050,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hw5S0K5qrQ"
   }
  ]
 }
