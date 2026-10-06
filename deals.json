@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-07T07:40:06.245+09:00",
+ "updated": "2026-10-07T07:41:40.126+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7510883773",
+   "mall": "쿠팡",
+   "title": "롯데웰푸드 에이비씨 초콜릿, 187g, 2개",
+   "price": 7960,
+   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/images/2018/08/14/11/4/b15c18d3-d1f4-4e90-a02b-b577d3ae13b7.jpg",
+   "sentAt": "2026-10-07T07:41:39.523+09:00",
+   "saving": 34,
+   "baseline": 12030,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gfrifGTm7o"
+  },
   {
    "uid": "1454771454",
    "mall": "토스쇼핑",
@@ -723,19 +736,6 @@
    "baselineNote": "26곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hyJYkXtado"
-  },
-  {
-   "uid": "6359371973",
-   "mall": "지마켓",
-   "title": "불스원샷 플래티넘 첨가제 5IN1 2개",
-   "price": 21960,
-   "image": "https://gdimg.gmarket.co.kr/2217959476/goodsimage",
-   "sentAt": "2026-10-03T18:50:18.566+09:00",
-   "saving": 26,
-   "baseline": 29640,
-   "baselineNote": "판매글 26곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2217959476"
   }
  ]
 }
