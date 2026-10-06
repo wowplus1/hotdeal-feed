@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-06T14:00:14.333+09:00",
+ "updated": "2026-10-06T14:02:57.798+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6973397048",
+   "mall": "쿠팡",
+   "title": "트윅스 솔티드 카라멜, 46g, 6개 5,650원",
+   "price": 5650,
+   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/65037716689866-2b8fcb63-8668-40a4-9574-91cb6c22a2a9.jpg",
+   "sentAt": "2026-10-06T14:02:57.300+09:00",
+   "saving": 37,
+   "baseline": 9000,
+   "baselineNote": "판매글 12곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hCxL9xDSpg"
+  },
   {
    "uid": "8293321378",
    "mall": "11번가",
@@ -722,19 +735,6 @@
    "baselineNote": "판매글 6곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hw7YrtYxaK"
-  },
-  {
-   "uid": "8433605962",
-   "mall": "토스쇼핑",
-   "title": "국내산 고등어, 100-120g, 10팩",
-   "price": 12900,
-   "image": "https://shopping.toss.im/live/taca/ai/v2/MGQ5MTRj/QU16emJoeTV3ZFBteWNWdHNPYWFobGsyVEIweCtUUDAwNEx4WWN4L3dUT2I.png",
-   "sentAt": "2026-10-03T07:24:15.362+09:00",
-   "saving": 20,
-   "baseline": 16100,
-   "baselineNote": "판매글 8곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://toss.im/_m/x6U5gv66"
   }
  ]
 }
