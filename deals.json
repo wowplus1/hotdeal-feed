@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-07T07:08:26.035+09:00",
+ "updated": "2026-10-07T07:15:38.921+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2510414590",
+   "mall": "쿠팡",
+   "title": "가그린 오리지널 구강청결제, 1.2L, 2개",
+   "price": 8660,
+   "image": "https://thumbnail1.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/5029683759443372-726e0d90-0f5e-4bbc-aa6b-9a9690bca812.jpg",
+   "sentAt": "2026-10-07T07:15:38.227+09:00",
+   "saving": 54,
+   "baseline": 18700,
+   "baselineNote": "판매글 21곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gHDmlvluxg"
+  },
   {
    "uid": "8104737097",
    "mall": "쿠팡",
@@ -726,18 +739,6 @@
    "baselineNote": "판매글 4곳 최저가",
    "unit": "[object Object]",
    "link": "https://toss.shopping/_m/pIfic7Hp"
-  },
-  {
-   "uid": "4674896416",
-   "mall": "롯데온",
-   "title": "울혼방 니트 집업 가디건 블랙 OKW2SWZU201K1",
-   "price": 7640,
-   "image": "https://contents.lotteon.com/itemimage/20261002191854/LO/26/32/08/25/80/bndl_img/LO2632082580_1.jpg",
-   "sentAt": "2026-10-03T17:54:54.924+09:00",
-   "saving": 72,
-   "baseline": 27260,
-   "baselineNote": "45곳 중 최저",
-   "link": "http://app.ac/gjw1Rwa03"
   }
  ]
 }
