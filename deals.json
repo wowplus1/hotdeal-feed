@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-06T14:02:57.798+09:00",
+ "updated": "2026-10-06T14:16:58.157+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5751117119",
+   "mall": "11번가",
+   "title": "오리온 치즈뿌린 치킨팝 65g, 5개 + 치킨팝 닭강정 65g, 5개",
+   "price": 7540,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9179493622/B.webp",
+   "sentAt": "2026-10-06T14:16:57.488+09:00",
+   "saving": 31,
+   "baseline": 10900,
+   "baselineNote": "판매글 12곳 최저가",
+   "link": "http://app.ac/0tV8IyM23"
+  },
   {
    "uid": "6973397048",
    "mall": "쿠팡",
@@ -722,19 +734,6 @@
    "baselineNote": "판매글 26곳 최저가",
    "unit": "[object Object]",
    "link": "https://toss.shopping/_m/FlzFEL3b"
-  },
-  {
-   "uid": "1744604815",
-   "mall": "쿠팡",
-   "title": "명가꽈배기 흑당, 500g*1개",
-   "price": 3580,
-   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/98c3/07e7a5c533f06c84be206860be4f80d64ba3bfec9624499d83624b949970.jpg",
-   "sentAt": "2026-10-03T07:43:54.683+09:00",
-   "saving": 59,
-   "baseline": 8810,
-   "baselineNote": "판매글 6곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hw7YrtYxaK"
   }
  ]
 }
