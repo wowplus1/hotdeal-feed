@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-06T09:09:50.149+09:00",
+ "updated": "2026-10-06T09:29:49.943+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8277490377",
+   "mall": "쿠팡",
+   "title": "오뚜기3분 카레 순한맛, 200g, 4개",
+   "price": 4360,
+   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2593440860399310-ae1f7b2f-c809-422d-aeaf-3c4e317f5add.png",
+   "sentAt": "2026-10-06T09:29:49.133+09:00",
+   "saving": 40,
+   "baseline": 7220,
+   "baselineNote": "25곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hCegvBQGQu"
+  },
   {
    "uid": "9538872399",
    "mall": "쿠팡",
@@ -726,19 +739,6 @@
    "baseline": 311880,
    "baselineNote": "판매글 8곳 최저가",
    "link": "http://app.ac/Ujwlrla03"
-  },
-  {
-   "uid": "9596953843",
-   "mall": "11번가",
-   "title": "26년 햇양파 국내산 무안양파 중 3kg",
-   "price": 4670,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/2/2/6/0/6/3/DBSmm/9452226063_239809512.webp",
-   "sentAt": "2026-10-02T18:04:35.540+09:00",
-   "saving": 36,
-   "baseline": 7280,
-   "baselineNote": "판매글 16곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/WAGHdD593"
   }
  ]
 }
