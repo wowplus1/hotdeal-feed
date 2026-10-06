@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-07T07:15:38.921+09:00",
+ "updated": "2026-10-07T07:40:06.245+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1454771454",
+   "mall": "토스쇼핑",
+   "title": "트레비 ECO 플레인, 350ml, 20개",
+   "price": 8900,
+   "image": "https://shopping.toss.im/live/product/7551619/40eddbb4-0145-4a66-a93e-cf2aa34871dc.jpeg",
+   "sentAt": "2026-10-07T07:40:05.540+09:00",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/79uJmM4A"
+  },
   {
    "uid": "2510414590",
    "mall": "쿠팡",
@@ -726,19 +736,6 @@
    "baselineNote": "판매글 26곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2217959476"
-  },
-  {
-   "uid": "3369271312",
-   "mall": "토스쇼핑",
-   "title": "국내산 홍옥사과, 중소과, 2kg, 1박스",
-   "price": 12900,
-   "image": "https://shopping.toss.im/live/temp/2026-09-09/265e82aa-bc70-4c2c-a6ed-4d1220ef4b89.jpeg",
-   "sentAt": "2026-10-03T18:14:08.619+09:00",
-   "saving": 48,
-   "baseline": 24660,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/pIfic7Hp"
   }
  ]
 }
