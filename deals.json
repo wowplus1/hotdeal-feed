@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-07T07:03:47.925+09:00",
+ "updated": "2026-10-07T07:06:02.487+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2605768939",
+   "mall": "쿠팡",
+   "title": "코카콜라 제로제로, 350ml, 24개",
+   "price": 15490,
+   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/76227677833552-feae0a48-4e94-4932-9f8a-612194c626e8.jpg",
+   "sentAt": "2026-10-07T07:06:02.001+09:00",
+   "saving": 24,
+   "baseline": 20450,
+   "baselineNote": "78곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://hotdeal.best/2605768939?utm_source=kakao"
+  },
   {
    "uid": "6465058685",
    "mall": "쿠팡",
@@ -722,19 +735,6 @@
    "sentAt": "2026-10-03T14:54:05.263+09:00",
    "unit": "[object Object]",
    "link": "https://toss.im/_m/pDjLInvy"
-  },
-  {
-   "uid": "5434138180",
-   "mall": "롯데온",
-   "title": "랩신 쉰내/꿉꿉내 제거 섬유항균제 2L*2개",
-   "price": 15820,
-   "image": "https://contents.lotteon.com/itemimage/20260710191957/LO/24/80/73/01/01/_2/48/07/30/10/2/LO2480730101_2480730102_5.png",
-   "sentAt": "2026-10-03T14:52:19.267+09:00",
-   "saving": 26,
-   "baseline": 21450,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/9bpW2Gl03"
   }
  ]
 }
