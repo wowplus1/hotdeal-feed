@@ -1,7 +1,32 @@
 {
- "updated": "2026-10-06T10:16:34.143+09:00",
+ "updated": "2026-10-06T11:20:45.706+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8941557910",
+   "mall": "토스쇼핑",
+   "title": "페페브루노 엑스트라버진 올리브 오일, 1L, 1개",
+   "price": 11900,
+   "image": "https://shopping.toss.im/live/taca/ai/ZjllOWU2/QUpmRE85aG9IZVFubC9BYnlYQVA1TFR2K0p0TEVBTmt0T3ZzdTB1VlVIeTA.png",
+   "sentAt": "2026-10-06T11:20:45.015+09:00",
+   "saving": 41,
+   "baseline": 20070,
+   "baselineNote": "35곳 중 최저 · 무료배송",
+   "link": "https://toss.im/_m/Pp1nDBa1"
+  },
+  {
+   "uid": "6588138628",
+   "mall": "토스쇼핑",
+   "title": "파이토메이드 고칼슘&비타민D 두유 21곡 미숫가루, 190ml, 24개",
+   "price": 7900,
+   "image": "https://shopping.toss.im/live/taca/ai/MTQyNTRh/QU9CbmtzREM0dzFzNUUzNGtCT1pMZG9uZWRNa2s1d3YyamNaMytTY3pMalA.png",
+   "sentAt": "2026-10-06T11:20:45.015+09:00",
+   "saving": 27,
+   "baseline": 10800,
+   "baselineNote": "판매글 15곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://toss.im/_m/NHKZYg8m"
+  },
   {
    "uid": "9920731137",
    "mall": "지마켓",
@@ -713,32 +738,6 @@
    "sentAt": "2026-10-02T21:49:56.738+09:00",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hwrxcju9T2"
-  },
-  {
-   "uid": "7434824866",
-   "mall": "지마켓",
-   "title": "시크릿데이 입는오버나이트 에디션 생리대 6p 10팩",
-   "price": 27190,
-   "image": "https://gdimg.gmarket.co.kr/1917673345/goodsimage",
-   "sentAt": "2026-10-02T21:03:28.137+09:00",
-   "saving": 55,
-   "baseline": 61000,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=1917673345"
-  },
-  {
-   "uid": "5935947117",
-   "mall": "11번가",
-   "title": "HACCP 구운계란 60구 대란",
-   "price": 15900,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9152329359/B.webp?540545867",
-   "sentAt": "2026-10-02T20:50:05.215+09:00",
-   "saving": 20,
-   "baseline": 19860,
-   "baselineNote": "판매글 6곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/CECrkzS13"
   }
  ]
 }
