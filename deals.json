@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-07T07:06:02.487+09:00",
+ "updated": "2026-10-07T07:08:26.035+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8104737097",
+   "mall": "쿠팡",
+   "title": "스프라이트 제로 사이다, 250ml, 30개",
+   "price": 11980,
+   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/3057/8476349e6225fc49f978d71fc1ac8c504952e508d2c628f5463340b194b2.png",
+   "sentAt": "2026-10-07T07:08:25.470+09:00",
+   "saving": 29,
+   "baseline": 16920,
+   "baselineNote": "판매글 11곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gaqS8zDclM"
+  },
   {
    "uid": "2605768939",
    "mall": "쿠팡",
@@ -725,16 +738,6 @@
    "baseline": 27260,
    "baselineNote": "45곳 중 최저",
    "link": "http://app.ac/gjw1Rwa03"
-  },
-  {
-   "uid": "1429795570",
-   "mall": "토스쇼핑",
-   "title": "당연구소 병아리콩과자 튀김, 30g, 10봉",
-   "price": 8500,
-   "image": "https://shopping.toss.im/live/taca/ai/MmE5MjM4/QU5OR0Nsa0p1ZFN6OW1ZOUpOd2NTdGloMGFVMmVpOWE0WXorcEJrVFVGUG0.png",
-   "sentAt": "2026-10-03T14:54:05.263+09:00",
-   "unit": "[object Object]",
-   "link": "https://toss.im/_m/pDjLInvy"
   }
  ]
 }
