@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-06T11:20:45.706+09:00",
+ "updated": "2026-10-06T11:26:13.761+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2231313927",
+   "mall": "토스쇼핑",
+   "title": "농가살리기 쑥인절미, 20g, 75개입, 1박스",
+   "price": 10900,
+   "image": "https://shopping.toss.im/live/taca/ai/ZDE5NjM5/QU1PVUF5aUcyWFhtcXRyWHBGRklDNVRoRHJ3MEJhZ2cwaXIxZjFwK3kzQnA.png",
+   "sentAt": "2026-10-06T11:26:13.053+09:00",
+   "saving": 34,
+   "baseline": 16440,
+   "baselineNote": "판매글 6곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://toss.im/_m/9oq6dHhC"
+  },
   {
    "uid": "8941557910",
    "mall": "토스쇼핑",
@@ -728,16 +741,6 @@
    "image": "https://t3a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/789188069811149-94b2c29f-e1e8-4624-8100-4d1bcaa69e4b.jpg",
    "sentAt": "2026-10-03T07:04:57.269+09:00",
    "link": "https://link.coupang.com/a/hw5aGbTt36"
-  },
-  {
-   "uid": "1235988686",
-   "mall": "쿠팡",
-   "title": "오뚜기 양조 식초 3개",
-   "price": 3270,
-   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/63909649319936-f46d34e2-0a55-49d1-943c-6facfd3dee95.jpg",
-   "sentAt": "2026-10-02T21:49:56.738+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hwrxcju9T2"
   }
  ]
 }
