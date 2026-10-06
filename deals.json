@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-06T07:03:08.422+09:00",
+ "updated": "2026-10-06T09:09:50.149+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9538872399",
+   "mall": "쿠팡",
+   "title": "얼라이브 원스데일리 포 맨 멀티비타민, 80정, 1개",
+   "price": 22720,
+   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/428647611897284-e9a70e91-42ea-448e-80f6-361b9b55cc4c.jpg",
+   "sentAt": "2026-10-06T09:09:49.311+09:00",
+   "saving": 23,
+   "baseline": 29430,
+   "baselineNote": "29곳 중 최저 · 무료배송",
+   "link": "https://link.coupang.com/a/gay92Pk0ke"
+  },
   {
    "uid": "3331938712",
    "mall": "쿠팡",
@@ -727,19 +739,6 @@
    "baselineNote": "판매글 16곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/WAGHdD593"
-  },
-  {
-   "uid": "7383708640",
-   "mall": "롯데온",
-   "title": "바르온 도가니탕 500g x 5팩",
-   "price": 10410,
-   "image": "https://contents.lotteon.com/itemimage/20260820103120/LO/25/30/05/72/16/_2/53/00/57/21/7/LO2530057216_2530057217_1.jpg",
-   "sentAt": "2026-10-02T17:04:27.407+09:00",
-   "saving": 21,
-   "baseline": 13210,
-   "baselineNote": "9곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "http://app.ac/CtV59LM03"
   }
  ]
 }
