@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-06T21:20:23.709+09:00",
+ "updated": "2026-10-07T07:03:47.925+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6465058685",
+   "mall": "쿠팡",
+   "title": "고로고로 마루용 테이프 크리너 리필 3개입 38*160 mm*1개",
+   "price": 6160,
+   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/6526/d61d806aa6302b961313d59c43a1af3b7b502cce23ae111805e5c70d645e.jpg",
+   "sentAt": "2026-10-07T07:03:47.143+09:00",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hDIHGYoIkC"
+  },
   {
    "uid": "5916460515",
    "mall": "쿠팡",
@@ -725,19 +735,6 @@
    "baselineNote": "판매글 3곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/9bpW2Gl03"
-  },
-  {
-   "uid": "6103059791",
-   "mall": "토스쇼핑",
-   "title": "바른 돼지국밥, 500g, 5개",
-   "price": 14900,
-   "image": "https://shopping.toss.im/live/temp/2026-06-15/fc748c01-e1e5-4ced-899e-85bb69ecf463.jpeg",
-   "sentAt": "2026-10-03T12:23:51.628+09:00",
-   "saving": 32,
-   "baseline": 22000,
-   "baselineNote": "14곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://toss.im/_m/HpbsW9br"
   }
  ]
 }
