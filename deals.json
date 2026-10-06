@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-06T11:26:13.761+09:00",
+ "updated": "2026-10-06T11:46:53.686+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1948112882",
+   "mall": "지마켓",
+   "title": "몬스터 에너지 355ml 48캔",
+   "price": 48360,
+   "image": "https://gdimg.gmarket.co.kr/4861201385/goodsimage",
+   "sentAt": "2026-10-06T11:46:53.137+09:00",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4861201385"
+  },
   {
    "uid": "2231313927",
    "mall": "토스쇼핑",
@@ -732,15 +742,6 @@
    "baselineNote": "판매글 5곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hw5S0K5qrQ"
-  },
-  {
-   "uid": "3862095746",
-   "mall": "쿠팡",
-   "title": "그린핑거포레스트 마일드 너츠 바디워시 500ml*1개",
-   "price": 4450,
-   "image": "https://t3a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/789188069811149-94b2c29f-e1e8-4624-8100-4d1bcaa69e4b.jpg",
-   "sentAt": "2026-10-03T07:04:57.269+09:00",
-   "link": "https://link.coupang.com/a/hw5aGbTt36"
   }
  ]
 }
