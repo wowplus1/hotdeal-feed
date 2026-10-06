@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-06T14:20:23.047+09:00",
+ "updated": "2026-10-06T17:21:23.420+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4413830506",
+   "mall": "토스쇼핑",
+   "title": "센토 프라임 고불소 구취케어 치약 아쿠아민트향, 120g, 8개",
+   "price": 14900,
+   "image": "https://shopping.toss.im/live/temp/2026-06-09/7d26bb8a-c103-4912-b06e-21ec2b01c871.jpeg",
+   "sentAt": "2026-10-06T17:21:22.460+09:00",
+   "saving": 46,
+   "baseline": 27800,
+   "baselineNote": "3곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://toss.im/_m/zdu4SXSg"
+  },
   {
    "uid": "3763536376",
    "mall": "쿠팡",
@@ -725,15 +738,6 @@
    "baselineNote": "판매글 7곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hxniE6jsR2"
-  },
-  {
-   "uid": "6623712475",
-   "mall": "지마켓",
-   "title": "피죤 섬유유연제 피죤 3100ml x3개+2300mlx1개",
-   "price": 14160,
-   "image": "https://gdimg.gmarket.co.kr/1928172559/goodsimage",
-   "sentAt": "2026-10-03T10:40:55.619+09:00",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=1928172559"
   }
  ]
 }
