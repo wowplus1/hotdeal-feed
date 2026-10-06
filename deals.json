@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-06T09:29:49.943+09:00",
+ "updated": "2026-10-06T09:51:05.606+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9969718037",
+   "mall": "쿠팡",
+   "title": "청정원순창 현미 태양초 찰고추장, 3kg, 1개",
+   "price": 10450,
+   "image": "https://t3a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/30648394422368-399b24ec-052b-48b8-9ce0-3a15d2ecac52.jpg",
+   "sentAt": "2026-10-06T09:51:05.063+09:00",
+   "saving": 43,
+   "baseline": 18180,
+   "baselineNote": "115곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/f9zm6fZVrU"
+  },
   {
    "uid": "8277490377",
    "mall": "쿠팡",
@@ -727,18 +740,6 @@
    "baselineNote": "판매글 3곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/5tVyslM63"
-  },
-  {
-   "uid": "4593358903",
-   "mall": "롯데온",
-   "title": "아이나비 QXD9900mini 32GB 64GB 전후방QHD 2채널 블랙박스, 설치비 포함",
-   "price": 201070,
-   "image": "https://contents.lotteon.com/itemimage/20260806094841/LO/27/03/62/77/30/_2/70/36/27/73/5/LO2703627730_2703627735_1.jpg",
-   "sentAt": "2026-10-02T19:07:38.744+09:00",
-   "saving": 36,
-   "baseline": 311880,
-   "baselineNote": "판매글 8곳 최저가",
-   "link": "http://app.ac/Ujwlrla03"
   }
  ]
 }
