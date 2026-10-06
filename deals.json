@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-06T17:26:57.810+09:00",
+ "updated": "2026-10-06T20:41:58.630+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6945705350",
+   "mall": "지마켓",
+   "title": "해피콜 플렉스팬 IH 와이드 인덕션 후라이팬 20cm",
+   "price": 14820,
+   "image": "https://gdimg.gmarket.co.kr/2647573160/goodsimage",
+   "sentAt": "2026-10-06T20:41:57.603+09:00",
+   "saving": 29,
+   "baseline": 20800,
+   "baselineNote": "판매글 7곳 최저가",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2647573160"
+  },
   {
    "uid": "1719949656",
    "mall": "롯데온",
@@ -725,19 +737,6 @@
    "baseline": 13220,
    "baselineNote": "판매글 19곳 최저가",
    "link": "https://toss.shopping/_m/TAk2Z9It"
-  },
-  {
-   "uid": "1545958827",
-   "mall": "지마켓",
-   "title": "ahc 마이크로로즈 마리착붙 마스크시트33ml 20ea 앱솔루트 10매",
-   "price": 9170,
-   "image": "https://gdimg.gmarket.co.kr/4209742777/goodsimage",
-   "sentAt": "2026-10-03T11:21:46.784+09:00",
-   "saving": 49,
-   "baseline": 18090,
-   "baselineNote": "판매글 31곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4209742777"
   }
  ]
 }
