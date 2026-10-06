@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-06T09:51:05.606+09:00",
+ "updated": "2026-10-06T10:16:34.143+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9920731137",
+   "mall": "지마켓",
+   "title": "환타 멜론 350ml 24캔 +조앤프렌즈 스티커 A",
+   "price": 11630,
+   "image": "https://gdimg.gmarket.co.kr/4361702913/goodsimage",
+   "sentAt": "2026-10-06T10:16:33.355+09:00",
+   "saving": 29,
+   "baseline": 16410,
+   "baselineNote": "212곳 중 최저",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4361702913"
+  },
   {
    "uid": "9969718037",
    "mall": "쿠팡",
@@ -727,19 +739,6 @@
    "baselineNote": "판매글 6곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/CECrkzS13"
-  },
-  {
-   "uid": "6433213847",
-   "mall": "롯데온",
-   "title": "프리미엄 곱창김 도시락김 5g 27봉",
-   "price": 11200,
-   "image": "https://contents.lotteon.com/itemimage/20261001114339/LO/23/73/46/03/84/_2/37/34/60/38/5/LO2373460384_2373460385_1.jpg",
-   "sentAt": "2026-10-02T19:18:52.212+09:00",
-   "saving": 54,
-   "baseline": 24510,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/5tVyslM63"
   }
  ]
 }
