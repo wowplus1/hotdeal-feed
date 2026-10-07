@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-07T13:26:59.891+09:00",
+ "updated": "2026-10-07T14:05:36.884+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1811107248",
+   "mall": "토스쇼핑",
+   "title": "보넬드 아이엠 그린 주스, NFC 착즙, 1L, 3병",
+   "price": 16340,
+   "image": "https://shopping.toss.im/live/taca/ai/v2/YTRiYzQx/QU9mR2Zkc2JMR2tuYkRpMjJNUERUMnd4aHYyYkRqYjltMGtzdGU5TThFOTg.png",
+   "sentAt": "2026-10-07T14:05:36.165+09:00",
+   "saving": 49,
+   "baseline": 31920,
+   "baselineNote": "56곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/t3BTu7AD"
+  },
   {
    "uid": "8658406671",
    "mall": "쿠팡",
@@ -737,15 +750,6 @@
    "baselineNote": "137곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hy5n0NX9yu"
-  },
-  {
-   "uid": "3463723873",
-   "mall": "쿠팡",
-   "title": "리쥬란 힐러 리밸런싱 토너 120ml",
-   "price": 10570,
-   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/389614366962528-aae12a4b-3263-45ce-92ee-539c29d17392.jpg",
-   "sentAt": "2026-10-04T11:33:50.751+09:00",
-   "link": "https://link.coupang.com/a/hy3jMvuaEm"
   }
  ]
 }
