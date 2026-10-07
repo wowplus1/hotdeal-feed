@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-07T18:35:28.374+09:00",
+ "updated": "2026-10-07T20:05:32.184+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3521132740",
+   "mall": "쿠팡",
+   "title": "텐케 두가지맛 도라야키, 220g, 1개",
+   "price": 4560,
+   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/01/26/17/2/f3eee7a2-1b04-439d-928e-d70228b88bd1.jpg",
+   "sentAt": "2026-10-07T20:05:31.047+09:00",
+   "saving": 24,
+   "baseline": 5980,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hECyj18ILY"
+  },
   {
    "uid": "1590043787",
    "mall": "지마켓",
@@ -736,19 +749,6 @@
    "baselineNote": "판매글 8곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hAvhFR9SaP"
-  },
-  {
-   "uid": "4992242255",
-   "mall": "쿠팡",
-   "title": "칠성사이다 제로 210ml 30개",
-   "price": 12470,
-   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/98307885117518-6d4b140a-2090-4c8d-92f4-acf2b837b7bc.png",
-   "sentAt": "2026-10-05T08:32:17.719+09:00",
-   "saving": 22,
-   "baseline": 16020,
-   "baselineNote": "90곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hAvcYiqvdY"
   }
  ]
 }
