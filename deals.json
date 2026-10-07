@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-08T07:30:08.012+09:00",
+ "updated": "2026-10-08T08:07:18.330+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4045113269",
+   "mall": "쿠팡",
+   "title": "오레오 초콜릿 샌드위치 쿠키 화이트 크림, 1kg, 2개",
+   "price": 15570,
+   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/240a73af-52dd-46be-aab0-be090b1f1dea18122730977407297004.png",
+   "sentAt": "2026-10-08T08:07:17.204+09:00",
+   "saving": 38,
+   "baseline": 24920,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hFpcOI9PYi"
+  },
   {
    "uid": "1365925506",
    "mall": "쿠팡",
@@ -736,19 +749,6 @@
    "baselineNote": "판매글 6곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hAzMzFWq3E"
-  },
-  {
-   "uid": "5991170968",
-   "mall": "쿠팡",
-   "title": "앱솔루트 킨더밀쉬 유아우유 200ml 24개 18,250원",
-   "price": 18250,
-   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1417892515071002-49208dc6-7441-45ef-a38d-7017b8971e36.png",
-   "sentAt": "2026-10-05T09:03:29.262+09:00",
-   "saving": 29,
-   "baseline": 25870,
-   "baselineNote": "90곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hAxrneEp7k"
   }
  ]
 }
