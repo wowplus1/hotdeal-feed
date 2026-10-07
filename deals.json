@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-07T11:15:40.453+09:00",
+ "updated": "2026-10-07T11:26:18.098+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1792723490",
+   "mall": "토스쇼핑",
+   "title": "센토 주니어 세이프 구취케어 어린이 치약, 사과향, 120g, 8개",
+   "price": 12900,
+   "image": "https://shopping.toss.im/live/taca/ai/v2/NzYxOTcw/UGlIZUhpZVNUcDMxakg3MHo0RzVtOHFFRllwT2RHeXBwUER1SVpFU0E5bz0.png",
+   "sentAt": "2026-10-07T11:26:17.445+09:00",
+   "saving": 52,
+   "baseline": 27021,
+   "baselineNote": "3곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/VlHu7jHk"
+  },
   {
    "uid": "9609645721",
    "mall": "GS SHOP",
@@ -727,19 +740,6 @@
    "sentAt": "2026-10-04T11:00:27.940+09:00",
    "unit": "[object Object]",
    "link": "http://app.ac/vjw14Ea43"
-  },
-  {
-   "uid": "5682966112",
-   "mall": "쿠팡",
-   "title": "신라면 로제 134g 8개",
-   "price": 5740,
-   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/235544130433870-4ab0d9c3-c348-44a1-bafc-7fc3b117bfd4.jpg",
-   "sentAt": "2026-10-04T09:46:27.896+09:00",
-   "saving": 41,
-   "baseline": 9800,
-   "baselineNote": "82곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hyVAZ17kdg"
   }
  ]
 }
