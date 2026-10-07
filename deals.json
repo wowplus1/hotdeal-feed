@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-07T17:26:21.244+09:00",
+ "updated": "2026-10-07T18:24:59.058+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6544498771",
+   "mall": "롯데온",
+   "title": "소프트마인드 뽑아쓰는 키친타월 100매 9개입",
+   "price": 5880,
+   "image": "https://contents.lotteon.com/itemimage/20261001153734/LO/25/59/06/73/08/_2/55/90/67/30/9/LO2559067308_2559067309_6.jpg",
+   "sentAt": "2026-10-07T18:24:58.256+09:00",
+   "saving": 25,
+   "baseline": 7820,
+   "baselineNote": "판매글 12곳 최저가",
+   "link": "http://app.ac/Q3MH1FJ53"
+  },
   {
    "uid": "7444325041",
    "mall": "토스쇼핑",
@@ -737,18 +749,6 @@
    "baseline": 10590,
    "baselineNote": "22곳 중 최저",
    "link": "https://link.coupang.com/a/hArTg2L6hU"
-  },
-  {
-   "uid": "5000143444",
-   "mall": "쿠팡",
-   "title": "나우푸드 울트라 오메가 3 500 EPA 250 DHA 소프트젤, 180정, 1개",
-   "price": 29280,
-   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/b644/1ba79ee7ac43d1f92b0ac28c5ec5dba00551024b2a98ec91ec6306425752.jpg",
-   "sentAt": "2026-10-05T07:30:59.717+09:00",
-   "saving": 23,
-   "baseline": 37846,
-   "baselineNote": "40곳 중 최저",
-   "link": "https://link.coupang.com/a/gzxrcaZZ24"
   }
  ]
 }
