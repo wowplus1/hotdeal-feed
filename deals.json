@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-07T14:05:36.884+09:00",
+ "updated": "2026-10-07T14:20:40.823+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2903127529",
+   "mall": "롯데온",
+   "title": "그릭요거트 80g 모음",
+   "price": 15260,
+   "image": "https://contents.lotteon.com/itemimage/20260511105436/LO/25/49/58/31/44/_2/54/95/83/14/5/LO2549583144_2549583145_1.jpg",
+   "sentAt": "2026-10-07T14:20:40.248+09:00",
+   "saving": 38,
+   "baseline": 24719,
+   "baselineNote": "판매글 3곳 최저가",
+   "link": "http://app.ac/ItVokRM73"
+  },
   {
    "uid": "1811107248",
    "mall": "토스쇼핑",
@@ -737,19 +749,6 @@
    "baselineNote": "판매글 6곳 최저가",
    "unit": "[object Object]",
    "link": "https://toss.shopping/_m/HDYEQVlt"
-  },
-  {
-   "uid": "7183396566",
-   "mall": "쿠팡",
-   "title": "풀무원 노엣지피자 코리안BBQ 5개 18,770원",
-   "price": 18770,
-   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/444117156065058-db349960-4c19-4b15-a094-9b35bb446dee.jpg",
-   "sentAt": "2026-10-04T12:03:04.506+09:00",
-   "saving": 22,
-   "baseline": 24210,
-   "baselineNote": "137곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hy5n0NX9yu"
   }
  ]
 }
