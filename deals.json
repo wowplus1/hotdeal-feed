@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-07T11:26:18.098+09:00",
+ "updated": "2026-10-07T11:26:58.490+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1498612116",
+   "mall": "쿠팡",
+   "title": "신라면 로제 큰사발면 108g 4개",
+   "price": 3940,
+   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/76156687216488-73b76fd7-3028-4ba3-b43f-b27669ab61c6.jpg",
+   "sentAt": "2026-10-07T11:26:57.994+09:00",
+   "saving": 44,
+   "baseline": 7020,
+   "baselineNote": "51곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hD1st0LBCu"
+  },
   {
    "uid": "1792723490",
    "mall": "토스쇼핑",
@@ -730,16 +743,6 @@
    "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2849633657372996-bcd9b1ee-ad66-43c3-9682-ce568d3cd3b4.jpg",
    "sentAt": "2026-10-04T11:02:55.896+09:00",
    "link": "https://link.coupang.com/a/hsBCnjNeF2"
-  },
-  {
-   "uid": "6800358737",
-   "mall": "11번가",
-   "title": "진드기방지 호텔 방수베개커버 누빔 베개패드 2장 40x60 50x70",
-   "price": 8800,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/5/4/4/6/7/7/VLpKq/3308544677_239750357.webp",
-   "sentAt": "2026-10-04T11:00:27.940+09:00",
-   "unit": "[object Object]",
-   "link": "http://app.ac/vjw14Ea43"
   }
  ]
 }
