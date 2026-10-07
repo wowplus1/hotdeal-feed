@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-07T11:37:00.078+09:00",
+ "updated": "2026-10-07T11:55:39.618+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6023314035",
+   "mall": "롯데온",
+   "title": "1+1 텐제로 남녀공용 올시즌 데일리 골지바지 코듀로이와이드팬츠 8컬러 통바지 밴딩바지 TZ25-301P2",
+   "price": 9810,
+   "image": "https://contents.lotteon.com/itemimage/20261001095348/LO/27/84/24/18/43/_2/78/42/41/84/4/LO2784241843_2784241844_1.jpg",
+   "sentAt": "2026-10-07T11:55:38.876+09:00",
+   "saving": 46,
+   "baseline": 18270,
+   "baselineNote": "판매글 6곳 최저가",
+   "link": "http://app.ac/53MH65J73"
+  },
   {
    "uid": "3122037870",
    "mall": "롯데온",
@@ -735,18 +747,6 @@
    "baseline": 29930,
    "baselineNote": "34곳 중 최저 · 무료배송",
    "link": "http://app.ac/VbpWccl63"
-  },
-  {
-   "uid": "1786123381",
-   "mall": "지마켓",
-   "title": "3M 스카치 원터치 테이프 디스펜서 리필 2롤 등",
-   "price": 9920,
-   "image": "https://gdimg.gmarket.co.kr/1493501531/goodsimage",
-   "sentAt": "2026-10-04T11:05:49.139+09:00",
-   "saving": 46,
-   "baseline": 18260,
-   "baselineNote": "62곳 중 최저",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=1493501531"
   }
  ]
 }
