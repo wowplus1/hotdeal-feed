@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-07T07:41:40.126+09:00",
+ "updated": "2026-10-07T09:54:55.863+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8695438669",
+   "mall": "롯데온",
+   "title": "Tech-Poly 사방스판 에센셜 수트 네이비  SSJUZ02SET",
+   "price": 39650,
+   "image": "https://contents.lotteon.com/itemimage/20260825105225/LO/27/54/76/84/34/bndl_img/LO2754768434_1.jpg",
+   "sentAt": "2026-10-07T09:54:54.986+09:00",
+   "saving": 42,
+   "baseline": 68180,
+   "baselineNote": "판매글 14곳 최저가",
+   "link": "http://app.ac/9ECXAyS23"
+  },
   {
    "uid": "7510883773",
    "mall": "쿠팡",
@@ -723,19 +735,6 @@
    "baselineNote": "판매글 14곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hyLevpurkG"
-  },
-  {
-   "uid": "9303222621",
-   "mall": "쿠팡",
-   "title": "2080 키즈 콩순이 2스텝 영유아 칫솔 1개입*12개",
-   "price": 5100,
-   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/a734/87b579ff3cf56e4dded274cd309228fdf9658c97fe64e4527e46ad51c523.jpg",
-   "sentAt": "2026-10-04T07:03:07.256+09:00",
-   "saving": 51,
-   "baseline": 10370,
-   "baselineNote": "26곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hyJYkXtado"
   }
  ]
 }
