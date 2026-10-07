@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-07T09:54:55.863+09:00",
+ "updated": "2026-10-07T10:15:17.228+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6131158481",
+   "mall": "쿠팡",
+   "title": "꼬북칩 콘스프맛, 80g, 5개",
+   "price": 5720,
+   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/93043487816262-cc105578-4cf7-4728-bed1-897525f54c6f.jpg",
+   "sentAt": "2026-10-07T10:15:16.351+09:00",
+   "saving": 39,
+   "baseline": 9370,
+   "baselineNote": "3곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hDWoPIHboG"
+  },
   {
    "uid": "8695438669",
    "mall": "롯데온",
@@ -722,19 +735,6 @@
    "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/118635982382968-370983c1-994a-405b-a044-332f5a3c68fc.jpg",
    "sentAt": "2026-10-04T07:48:09.668+09:00",
    "link": "https://link.coupang.com/a/g6NcfnHh4S"
-  },
-  {
-   "uid": "5555330198",
-   "mall": "쿠팡",
-   "title": "락피도 프로바이오틱스 키즈 플러스 60p, 120g, 1개",
-   "price": 14920,
-   "image": "https://t3a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1572077319772154-e8c7b116-539f-49c3-9c10-9f9a78d32272.jpg",
-   "sentAt": "2026-10-04T07:20:44.467+09:00",
-   "saving": 32,
-   "baseline": 21900,
-   "baselineNote": "판매글 14곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hyLevpurkG"
   }
  ]
 }
