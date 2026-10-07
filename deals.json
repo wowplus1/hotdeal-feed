@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-07T11:26:58.490+09:00",
+ "updated": "2026-10-07T11:37:00.078+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3122037870",
+   "mall": "롯데온",
+   "title": "전남 순천일대 햇밤 알밤 2kg",
+   "price": 8220,
+   "image": "https://contents.lotteon.com/itemimage/20261006171801/LO/27/87/28/28/52/_2/78/72/82/85/3/LO2787282852_2787282853_1.jpg",
+   "sentAt": "2026-10-07T11:36:59.482+09:00",
+   "saving": 27,
+   "baseline": 11310,
+   "baselineNote": "판매글 12곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/9ECy6PS33"
+  },
   {
    "uid": "1498612116",
    "mall": "쿠팡",
@@ -734,15 +747,6 @@
    "baseline": 18260,
    "baselineNote": "62곳 중 최저",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=1493501531"
-  },
-  {
-   "uid": "2881861448",
-   "mall": "쿠팡",
-   "title": "스탠리 퀜처 H2.0 플로우스테이트 텀블러 2.0*1.18L*1개",
-   "price": 34070,
-   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2849633657372996-bcd9b1ee-ad66-43c3-9682-ce568d3cd3b4.jpg",
-   "sentAt": "2026-10-04T11:02:55.896+09:00",
-   "link": "https://link.coupang.com/a/hsBCnjNeF2"
   }
  ]
 }
