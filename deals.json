@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-08T08:09:58.098+09:00",
+ "updated": "2026-10-08T08:29:53.944+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4483884668",
+   "mall": "토스쇼핑",
+   "title": "핫식스 더킹 파인버스트, 파인버스트, 355ml, 24개",
+   "price": 13900,
+   "image": "https://shopping.toss.im/live/taca/ai/ZmFjZGU2/QU1jUG5Kd3hobk5qbW5tTW5tV09hMEhZOGJTdUp6UkowM0NQdGl5ZmNFM1Q.png",
+   "sentAt": "2026-10-08T08:29:53.398+09:00",
+   "saving": 45,
+   "baseline": 25260,
+   "baselineNote": "판매글 31곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/fLjQHDNp"
+  },
   {
    "uid": "8960131864",
    "mall": "지마켓",
@@ -734,18 +747,6 @@
    "baselineNote": "판매글 11곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2770992431"
-  },
-  {
-   "uid": "5921518521",
-   "mall": "토스쇼핑",
-   "title": "한국생활건강연구소 호리온 식물성 멜라토닌 2mg, 800mg, 30정, 1개",
-   "price": 8900,
-   "image": "https://shopping.toss.im/live/temp/2026-07-29/d47cb95a-6a90-463d-9139-4392934eb433.jpeg",
-   "sentAt": "2026-10-05T10:04:50.426+09:00",
-   "saving": 32,
-   "baseline": 13150,
-   "baselineNote": "판매글 6곳 최저가",
-   "link": "https://toss.shopping/_m/jfucydU6"
   }
  ]
 }
