@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-07T11:55:39.618+09:00",
+ "updated": "2026-10-07T13:26:04.365+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4204257931",
+   "mall": "쿠팡",
+   "title": "번개표 개별스위치 멀티탭 3구 WI-MC21633V 1.5m*화이트*1개",
+   "price": 5810,
+   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/5b31/f2ef765ad7561ac225fd15675cf650464bb00b9b3c8b8b292d6eab16e271.png",
+   "sentAt": "2026-10-07T13:26:03.535+09:00",
+   "saving": 88,
+   "baseline": 48390,
+   "baselineNote": "판매글 5곳 최저가",
+   "link": "https://link.coupang.com/a/hD92hOVWHA"
+  },
   {
    "uid": "6023314035",
    "mall": "롯데온",
@@ -735,18 +747,6 @@
    "baselineNote": "354곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hy1M9uqjls"
-  },
-  {
-   "uid": "1857034877",
-   "mall": "롯데온",
-   "title": "플레이보이 남성 레터링 베스트 구성 드로즈 남자 속옷 10매입 PMD2118+PMD2110",
-   "price": 19620,
-   "image": "https://contents.lotteon.com/itemimage/20260708165402/LO/26/52/83/26/59/bndl_img/LO2652832659_1.jpg",
-   "sentAt": "2026-10-04T11:11:43.654+09:00",
-   "saving": 34,
-   "baseline": 29930,
-   "baselineNote": "34곳 중 최저 · 무료배송",
-   "link": "http://app.ac/VbpWccl63"
   }
  ]
 }
