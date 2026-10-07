@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-08T07:00:59.837+09:00",
+ "updated": "2026-10-08T07:30:08.012+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1365925506",
+   "mall": "쿠팡",
+   "title": "미닛메이드 레몬에이드 탄산음료, 355ml, 24개",
+   "price": 10600,
+   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/03/20/10/8/ff0ae358-aeaa-47bd-9ecf-d984bc25fac7.jpg",
+   "sentAt": "2026-10-08T07:30:07.321+09:00",
+   "saving": 21,
+   "baseline": 13370,
+   "baselineNote": "182곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gnMUBIQLoy"
+  },
   {
    "uid": "1498603198",
    "mall": "쿠팡",
@@ -736,19 +749,6 @@
    "baselineNote": "90곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hAxrneEp7k"
-  },
-  {
-   "uid": "6273693307",
-   "mall": "쿠팡",
-   "title": "테일러 트리플 클렌즈 24h 주스, 946ml, 2개",
-   "price": 14220,
-   "image": "https://t3a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2ec2022e-b044-48a8-ae89-9969974b8dfb8282939326597658660.png",
-   "sentAt": "2026-10-05T09:00:41.102+09:00",
-   "saving": 24,
-   "baseline": 18600,
-   "baselineNote": "판매글 13곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hAxd6ZVVw4"
   }
  ]
 }
