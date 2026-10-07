@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-07T18:24:59.058+09:00",
+ "updated": "2026-10-07T18:35:28.374+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1590043787",
+   "mall": "지마켓",
+   "title": "AULA 독거미 F108pro 블랙 세이야축 기계식 키보 8000mah",
+   "price": 54600,
+   "image": "https://gdimg.gmarket.co.kr/4871773313/goodsimage",
+   "sentAt": "2026-10-07T18:35:27.611+09:00",
+   "saving": 41,
+   "baseline": 93320,
+   "baselineNote": "판매글 10곳 최저가",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4871773313"
+  },
   {
    "uid": "6544498771",
    "mall": "롯데온",
@@ -737,18 +749,6 @@
    "baselineNote": "90곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hAvcYiqvdY"
-  },
-  {
-   "uid": "7152931863",
-   "mall": "쿠팡",
-   "title": "에뛰드하우스 순정 2x 베리어 보습 크림, 60ml, 1개",
-   "price": 5760,
-   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/237247338492222-ba143446-ac5a-4b00-8534-a31b34f69256.jpg",
-   "sentAt": "2026-10-05T07:45:41.936+09:00",
-   "saving": 46,
-   "baseline": 10590,
-   "baselineNote": "22곳 중 최저",
-   "link": "https://link.coupang.com/a/hArTg2L6hU"
   }
  ]
 }
