@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-07T16:47:29.977+09:00",
+ "updated": "2026-10-07T17:19:52.985+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8747767483",
+   "mall": "지마켓",
+   "title": "크림블 크림브륄레 320g 4입",
+   "price": 10500,
+   "image": "https://gdimg.gmarket.co.kr/4307272681/goodsimage",
+   "sentAt": "2026-10-07T17:19:51.600+09:00",
+   "saving": 32,
+   "baseline": 15470,
+   "baselineNote": "판매글 11곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4307272681"
+  },
   {
    "uid": "6368981824",
    "mall": "롯데온",
@@ -736,18 +749,6 @@
    "baselineNote": "판매글 11곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hAp0oZ8mB2"
-  },
-  {
-   "uid": "5380699071",
-   "mall": "쿠팡",
-   "title": "세타필 모이스춰라이징 로션, 591ml, 1개",
-   "price": 9480,
-   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/77276365654004-a842d9c0-df4d-44fe-82a3-5dc3bc7ba775.jpg",
-   "sentAt": "2026-10-05T07:03:23.743+09:00",
-   "saving": 27,
-   "baseline": 13070,
-   "baselineNote": "판매글 5곳 최저가",
-   "link": "https://link.coupang.com/a/hr6HuCo0Ye"
   }
  ]
 }
