@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-07T13:26:04.365+09:00",
+ "updated": "2026-10-07T13:26:59.891+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8658406671",
+   "mall": "쿠팡",
+   "title": "스탠리 퀜처 프로투어 플립스트로 텀블러 하이드렌지아 887ml",
+   "price": 34080,
+   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/975050457425344-62af8b2b-ba08-46f7-8a91-a7c86f8ac5f9.jpg",
+   "sentAt": "2026-10-07T13:26:59.227+09:00",
+   "saving": 30,
+   "baseline": 48600,
+   "baselineNote": "316곳 중 최저 · 무료배송",
+   "link": "https://link.coupang.com/a/hD96bGudlk"
+  },
   {
    "uid": "4204257931",
    "mall": "쿠팡",
@@ -734,19 +746,6 @@
    "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/389614366962528-aae12a4b-3263-45ce-92ee-539c29d17392.jpg",
    "sentAt": "2026-10-04T11:33:50.751+09:00",
    "link": "https://link.coupang.com/a/hy3jMvuaEm"
-  },
-  {
-   "uid": "3872776037",
-   "mall": "쿠팡",
-   "title": "2080 클래식 치약 170g*1개입*10개",
-   "price": 9560,
-   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/4b2e/b5d146b42306b2fc19a071973f3f52833100466deb1e626639129de2d3f5.PNG",
-   "sentAt": "2026-10-04T11:12:32.437+09:00",
-   "saving": 28,
-   "baseline": 13190,
-   "baselineNote": "354곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hy1M9uqjls"
   }
  ]
 }
