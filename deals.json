@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-07T14:20:40.823+09:00",
+ "updated": "2026-10-07T16:47:29.977+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6368981824",
+   "mall": "롯데온",
+   "title": "순살바 5종 x 2세트",
+   "price": 19990,
+   "image": "https://contents.lotteon.com/itemimage/20261006174116/LO/26/53/68/15/74/_2/65/36/81/57/5/LO2653681574_2653681575_1.jpg",
+   "sentAt": "2026-10-07T16:47:28.687+09:00",
+   "saving": 29,
+   "baseline": 28164,
+   "baselineNote": "판매글 13곳 최저가",
+   "link": "http://app.ac/yqn7yx213"
+  },
   {
    "uid": "2903127529",
    "mall": "롯데온",
@@ -736,19 +748,6 @@
    "baseline": 13070,
    "baselineNote": "판매글 5곳 최저가",
    "link": "https://link.coupang.com/a/hr6HuCo0Ye"
-  },
-  {
-   "uid": "4730868538",
-   "mall": "토스쇼핑",
-   "title": "착한습관 건자두, 250g, 2개",
-   "price": 6900,
-   "image": "https://shopping.toss.im/live/temp/2026-09-14/a9ffc360-d8c6-45fc-ac85-bfa9ba57a62f.jpeg",
-   "sentAt": "2026-10-04T12:24:04.819+09:00",
-   "saving": 46,
-   "baseline": 12710,
-   "baselineNote": "판매글 6곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/HDYEQVlt"
   }
  ]
 }
