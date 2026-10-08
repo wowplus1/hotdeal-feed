@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-08T18:05:56.759+09:00",
+ "updated": "2026-10-08T19:09:51.384+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8951626399",
+   "mall": "11번가",
+   "title": "국내산 머스크 메론 2kg 대과 2수 특품",
+   "price": 14750,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/pd/v2/5/8/2/2/0/5/KNHYi/9467582205_B.webp",
+   "sentAt": "2026-10-08T19:09:50.625+09:00",
+   "saving": 31,
+   "baseline": 21280,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/iECOvLS43"
+  },
   {
    "uid": "1299414582",
    "mall": "11번가",
@@ -733,18 +746,6 @@
    "baselineNote": "판매글 15곳 최저가",
    "unit": "[object Object]",
    "link": "https://toss.im/_m/NHKZYg8m"
-  },
-  {
-   "uid": "9920731137",
-   "mall": "지마켓",
-   "title": "환타 멜론 350ml 24캔 +조앤프렌즈 스티커 A",
-   "price": 11630,
-   "image": "https://gdimg.gmarket.co.kr/4361702913/goodsimage",
-   "sentAt": "2026-10-06T10:16:33.355+09:00",
-   "saving": 29,
-   "baseline": 16410,
-   "baselineNote": "212곳 중 최저",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4361702913"
   }
  ]
 }
