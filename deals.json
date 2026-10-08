@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-08T08:29:53.944+09:00",
+ "updated": "2026-10-08T09:19:46.486+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1944759597",
+   "mall": "롯데온",
+   "title": "오리온 스윙칩 까르보불닭 55g 12개",
+   "price": 9700,
+   "image": "https://contents.lotteon.com/itemimage/20261002162547/LO/27/82/48/99/11/_2/78/24/89/91/2/LO2782489911_2782489912_1.jpg",
+   "sentAt": "2026-10-08T09:19:45.714+09:00",
+   "saving": 51,
+   "baseline": 19600,
+   "baselineNote": "판매글 7곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/tjwJLra53"
+  },
   {
    "uid": "4483884668",
    "mall": "토스쇼핑",
@@ -734,19 +747,6 @@
    "baseline": 12820,
    "baselineNote": "판매글 3곳 최저가",
    "link": "http://app.ac/ybpGF6l13"
-  },
-  {
-   "uid": "7817300786",
-   "mall": "지마켓",
-   "title": "호밍스 대게와 랍스터볶음밥 210g 10개",
-   "price": 13120,
-   "image": "https://gdimg.gmarket.co.kr/2770992431/goodsimage",
-   "sentAt": "2026-10-05T10:55:14.703+09:00",
-   "saving": 39,
-   "baseline": 21380,
-   "baselineNote": "판매글 11곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2770992431"
   }
  ]
 }
