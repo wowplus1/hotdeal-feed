@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-09T07:27:47.578+09:00",
+ "updated": "2026-10-09T07:59:14.532+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9791759386",
+   "mall": "쿠팡",
+   "title": "자연은 더말린 제로 애플망고, 500ml, 20개",
+   "price": 12320,
+   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/0f5f/16b21bab689709335b3ead4682ff92ac2a1f94056861c18801cd748abea4.jpg",
+   "sentAt": "2026-10-09T07:59:13.945+09:00",
+   "saving": 22,
+   "baseline": 15710,
+   "baselineNote": "144곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/f9zoPwPztk"
+  },
   {
    "uid": "2407844649",
    "mall": "쿠팡",
@@ -734,16 +747,6 @@
    "sentAt": "2026-10-06T13:30:18.671+09:00",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4679790667"
-  },
-  {
-   "uid": "1948112882",
-   "mall": "지마켓",
-   "title": "몬스터 에너지 355ml 48캔",
-   "price": 48360,
-   "image": "https://gdimg.gmarket.co.kr/4861201385/goodsimage",
-   "sentAt": "2026-10-06T11:46:53.137+09:00",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4861201385"
   }
  ]
 }
