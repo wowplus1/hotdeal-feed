@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-08T12:05:08.894+09:00",
+ "updated": "2026-10-08T14:04:54.920+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3453694899",
+   "mall": "11번가",
+   "title": "배상면주가 원별막걸리 4.5도 저도주 750ml x 5입",
+   "price": 9880,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/5/5/5/7/5/5/fesYz/9490555755_240024379.webp",
+   "sentAt": "2026-10-08T14:04:54.051+09:00",
+   "saving": 21,
+   "baseline": 12500,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/UjwJwFa03"
+  },
   {
    "uid": "8273771513",
    "mall": "토스쇼핑",
@@ -735,19 +748,6 @@
    "baselineNote": "판매글 5곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hBiKFdBa32"
-  },
-  {
-   "uid": "4901964410",
-   "mall": "지마켓",
-   "title": "제주 햇 극조생감귤 로얄과 4.5kg",
-   "price": 10260,
-   "image": "https://gdimg.gmarket.co.kr/4614591709/goodsimage",
-   "sentAt": "2026-10-05T20:21:10.617+09:00",
-   "saving": 23,
-   "baseline": 13270,
-   "baselineNote": "판매글 18곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4614591709"
   }
  ]
 }
