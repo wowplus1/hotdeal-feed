@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-08T09:19:46.486+09:00",
+ "updated": "2026-10-08T09:36:04.637+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5935180176",
+   "mall": "쿠팡",
+   "title": "안성탕면 125g, 40개",
+   "price": 20460,
+   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/74120486903669-b159c686-148e-4f79-9ffe-f631aeefeded.jpg",
+   "sentAt": "2026-10-08T09:36:03.904+09:00",
+   "saving": 41,
+   "baseline": 34740,
+   "baselineNote": "판매글 18곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hFyuRayPcb"
+  },
   {
    "uid": "1944759597",
    "mall": "롯데온",
@@ -735,18 +748,6 @@
    "baselineNote": "판매글 4곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hAKh0Q9k1l"
-  },
-  {
-   "uid": "4003286516",
-   "mall": "롯데온",
-   "title": "서문시장 손맛 감자칼국수 400g 4봉 + 스프 8개",
-   "price": 8360,
-   "image": "https://contents.lotteon.com/itemimage/20260909153338/LO/23/67/86/66/90/_2/36/78/66/69/1/LO2367866690_2367866691_1.jpg",
-   "sentAt": "2026-10-05T12:01:44.524+09:00",
-   "saving": 35,
-   "baseline": 12820,
-   "baselineNote": "판매글 3곳 최저가",
-   "link": "http://app.ac/ybpGF6l13"
   }
  ]
 }
