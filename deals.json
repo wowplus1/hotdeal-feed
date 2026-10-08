@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-08T17:36:44.055+09:00",
+ "updated": "2026-10-08T18:05:56.759+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1299414582",
+   "mall": "11번가",
+   "title": "국내산 나주 신고배 5kg 8-9과 실속 가정용",
+   "price": 10180,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/pd/v2/9/4/0/1/6/1/cyhTn/9575940161_B.webp",
+   "sentAt": "2026-10-08T18:05:56.175+09:00",
+   "saving": 31,
+   "baseline": 14690,
+   "baselineNote": "판매글 21곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/rAGovf553"
+  },
   {
    "uid": "5479804863",
    "mall": "11번가",
@@ -732,19 +745,6 @@
    "baseline": 16410,
    "baselineNote": "212곳 중 최저",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4361702913"
-  },
-  {
-   "uid": "9969718037",
-   "mall": "쿠팡",
-   "title": "청정원순창 현미 태양초 찰고추장, 3kg, 1개",
-   "price": 10450,
-   "image": "https://t3a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/30648394422368-399b24ec-052b-48b8-9ce0-3a15d2ecac52.jpg",
-   "sentAt": "2026-10-06T09:51:05.063+09:00",
-   "saving": 43,
-   "baseline": 18180,
-   "baselineNote": "115곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/f9zm6fZVrU"
   }
  ]
 }
