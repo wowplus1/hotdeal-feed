@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-08T19:09:51.384+09:00",
+ "updated": "2026-10-08T19:50:06.506+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5555376183",
+   "mall": "롯데온",
+   "title": "무주 반딧불 26년 햇 사과로 만든 사과즙 착즙 통사과즙 120ml 30봉 NFC착즙",
+   "price": 13610,
+   "image": "https://contents.lotteon.com/itemimage/20260914161749/LO/23/78/32/77/13/_2/37/83/27/71/4/LO2378327713_2378327714_1.jpg",
+   "sentAt": "2026-10-08T19:50:05.952+09:00",
+   "unit": "[object Object]",
+   "link": "http://app.ac/ibp01Zl63"
+  },
   {
    "uid": "8951626399",
    "mall": "11번가",
@@ -733,19 +743,6 @@
    "baseline": 20070,
    "baselineNote": "35곳 중 최저 · 무료배송",
    "link": "https://toss.im/_m/Pp1nDBa1"
-  },
-  {
-   "uid": "6588138628",
-   "mall": "토스쇼핑",
-   "title": "파이토메이드 고칼슘&비타민D 두유 21곡 미숫가루, 190ml, 24개",
-   "price": 7900,
-   "image": "https://shopping.toss.im/live/taca/ai/MTQyNTRh/QU9CbmtzREM0dzFzNUUzNGtCT1pMZG9uZWRNa2s1d3YyamNaMytTY3pMalA.png",
-   "sentAt": "2026-10-06T11:20:45.015+09:00",
-   "saving": 27,
-   "baseline": 10800,
-   "baselineNote": "판매글 15곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://toss.im/_m/NHKZYg8m"
   }
  ]
 }
