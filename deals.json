@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-08T10:05:58.804+09:00",
+ "updated": "2026-10-08T10:10:03.679+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3199763949",
+   "mall": "토스쇼핑",
+   "title": "사리원 닭곰탕, 600g, 10팩",
+   "price": 29900,
+   "image": "https://shopping.toss.im/live/taca/ai/YjU4MGU2/ZHYzRk5yak5GN094ZkY2emRTeWI4bVVzOGxJK3ROSENlbklISHN0Q01sVT0.png",
+   "sentAt": "2026-10-08T10:10:03.190+09:00",
+   "saving": 27,
+   "baseline": 40920,
+   "baselineNote": "판매글 31곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/dYPvW2P"
+  },
   {
    "uid": "5734117500",
    "mall": "GS SHOP",
@@ -735,19 +748,6 @@
    "baselineNote": "15곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hAOnfKPgUS"
-  },
-  {
-   "uid": "3237313389",
-   "mall": "쿠팡",
-   "title": "찰떡파이 명가 두바이st 피스타치오맛, 300g, 1개",
-   "price": 5630,
-   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/03/09/17/2/29b7270b-7ef2-46cf-ac90-38a4e1a4f9eb.jpg",
-   "sentAt": "2026-10-05T12:47:25.502+09:00",
-   "saving": 21,
-   "baseline": 7160,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hANrOD0HsW"
   }
  ]
 }
