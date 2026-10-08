@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-08T15:47:01.832+09:00",
+ "updated": "2026-10-08T16:06:17.722+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1344719988",
+   "mall": "토스쇼핑",
+   "title": "일양약품 PDRN 톤업 선크림, 50ml, 1개",
+   "price": 5990,
+   "image": "https://shopping.toss.im/live/temp/2026-08-27/8e15c5c2-14c2-4aef-af99-b9a341a82a33.jpeg",
+   "sentAt": "2026-10-08T16:06:16.967+09:00",
+   "saving": 66,
+   "baseline": 17840,
+   "baselineNote": "판매글 19곳 최저가",
+   "link": "https://toss.shopping/_m/P28k54T4"
+  },
   {
    "uid": "2240883506",
    "mall": "롯데온",
@@ -736,18 +748,6 @@
    "baselineNote": "25곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hCegvBQGQu"
-  },
-  {
-   "uid": "9538872399",
-   "mall": "쿠팡",
-   "title": "얼라이브 원스데일리 포 맨 멀티비타민, 80정, 1개",
-   "price": 22720,
-   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/428647611897284-e9a70e91-42ea-448e-80f6-361b9b55cc4c.jpg",
-   "sentAt": "2026-10-06T09:09:49.311+09:00",
-   "saving": 23,
-   "baseline": 29430,
-   "baselineNote": "29곳 중 최저 · 무료배송",
-   "link": "https://link.coupang.com/a/gay92Pk0ke"
   }
  ]
 }
