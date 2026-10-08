@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-08T11:05:02.524+09:00",
+ "updated": "2026-10-08T11:05:54.418+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5078285385",
+   "mall": "토스쇼핑",
+   "title": "하루견과 시그니처 오리지널, 22g, 70봉",
+   "price": 46300,
+   "image": "https://shopping.toss.im/live/taca/ai/N2RlYmE1/QUprOFRWWmsrdE90blUra3JmUVJ1aFJUK0V2V0pWN1VVbE9ydFM2K0VhWHA.png",
+   "sentAt": "2026-10-08T11:05:53.632+09:00",
+   "saving": 24,
+   "baseline": 61290,
+   "baselineNote": "22곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/TM2MhUn8"
+  },
   {
    "uid": "7212120796",
    "mall": "11번가",
@@ -735,19 +748,6 @@
    "baselineNote": "판매글 3곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/03Mz9kJ13"
-  },
-  {
-   "uid": "5843852015",
-   "mall": "지마켓",
-   "title": "BBQ 닭강정 코스트코 야자당 양념닭강정 1.2kg X 2개",
-   "price": 25440,
-   "image": "https://gdimg.gmarket.co.kr/4579417652/goodsimage",
-   "sentAt": "2026-10-05T13:19:47.428+09:00",
-   "saving": 23,
-   "baseline": 32870,
-   "baselineNote": "판매글 19곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4579417652"
   }
  ]
 }
