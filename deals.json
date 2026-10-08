@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-08T11:05:54.418+09:00",
+ "updated": "2026-10-08T11:15:38.563+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6727991328",
+   "mall": "쿠팡",
+   "title": "팬틴 케라틴 극손상케어 트리트먼트 220ml 3p + 샴푸 90ml 세트, 1개",
+   "price": 10260,
+   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/848d/0f65bd5f3e6499bab057f01268f64e2aa576b64b2a1e32c61f75b26ea053.jpg",
+   "sentAt": "2026-10-08T11:15:37.815+09:00",
+   "saving": 38,
+   "baseline": 16550,
+   "baselineNote": "판매글 13곳 최저가",
+   "link": "https://link.coupang.com/a/hFFCcnluPk"
+  },
   {
    "uid": "5078285385",
    "mall": "토스쇼핑",
@@ -735,19 +747,6 @@
    "baselineNote": "판매글 4곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=1562379826"
-  },
-  {
-   "uid": "4904632352",
-   "mall": "롯데온",
-   "title": "썬키스트 마시는 피스타치오 오리지널 190ml 24입",
-   "price": 9950,
-   "image": "https://contents.lotteon.com/itemimage/20260929160057/LO/26/78/51/30/78/_2/67/85/13/07/9/LO2678513078_2678513079_1.jpg",
-   "sentAt": "2026-10-05T13:40:55.046+09:00",
-   "saving": 44,
-   "baseline": 17800,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/03Mz9kJ13"
   }
  ]
 }
