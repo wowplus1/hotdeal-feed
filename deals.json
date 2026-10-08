@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-08T10:10:03.679+09:00",
+ "updated": "2026-10-08T10:57:10.358+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9899525460",
+   "mall": "쿠팡",
+   "title": "롯데자일리톨 알파 오리지날, 86g, 3개",
+   "price": 6060,
+   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/0bee85b0-5531-4323-87d5-fef2c35473d910677828774196760810.png",
+   "sentAt": "2026-10-08T10:57:09.312+09:00",
+   "saving": 52,
+   "baseline": 12570,
+   "baselineNote": "59곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hFEist3rRA"
+  },
   {
    "uid": "3199763949",
    "mall": "토스쇼핑",
@@ -735,19 +748,6 @@
    "baselineNote": "29곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://toss.shopping/_m/9JrXObEo"
-  },
-  {
-   "uid": "9163587873",
-   "mall": "쿠팡",
-   "title": "청정원 하프칼로리 마요네즈, 290g, 1개",
-   "price": 2780,
-   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/02/25/11/2/ad3d7fa2-b240-4e4d-84e7-8213a739df4e.jpg",
-   "sentAt": "2026-10-05T13:00:50.264+09:00",
-   "saving": 35,
-   "baseline": 4250,
-   "baselineNote": "15곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hAOnfKPgUS"
   }
  ]
 }
