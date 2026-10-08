@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-08T14:10:47.753+09:00",
+ "updated": "2026-10-08T15:47:01.832+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2240883506",
+   "mall": "롯데온",
+   "title": "백 진미채 1kg 국내가공",
+   "price": 16970,
+   "image": "https://contents.lotteon.com/itemimage/20260819102212/LO/26/64/24/73/43/_2/66/42/47/34/4/LO2664247343_2664247344_1.jpg",
+   "sentAt": "2026-10-08T15:47:00.928+09:00",
+   "saving": 23,
+   "baseline": 21945,
+   "baselineNote": "판매글 22곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/P3MKkyJ83"
+  },
   {
    "uid": "6854744051",
    "mall": "토스쇼핑",
@@ -735,19 +748,6 @@
    "baseline": 29430,
    "baselineNote": "29곳 중 최저 · 무료배송",
    "link": "https://link.coupang.com/a/gay92Pk0ke"
-  },
-  {
-   "uid": "3331938712",
-   "mall": "쿠팡",
-   "title": "AHC 슈프림 리얼 아이크림 포 페이스, 30ml, 2개",
-   "price": 11900,
-   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/d55f6df0-4021-49f3-ae30-8f62f27991932089761956341905549.png",
-   "sentAt": "2026-10-06T07:03:07.436+09:00",
-   "saving": 36,
-   "baseline": 18480,
-   "baselineNote": "다른 곳 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hB3KwLlpqS"
   }
  ]
 }
