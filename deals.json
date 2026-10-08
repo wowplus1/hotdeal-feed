@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-09T07:05:58.652+09:00",
+ "updated": "2026-10-09T07:27:47.578+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2407844649",
+   "mall": "쿠팡",
+   "title": "랩신 V3 항균 스프레이 살균제, 410ml, 2개",
+   "price": 10930,
+   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/487470401213911-94444051-d6be-44a1-9651-ca56fa43a56a.jpg",
+   "sentAt": "2026-10-09T07:27:46.875+09:00",
+   "saving": 23,
+   "baseline": 14279,
+   "baselineNote": "35곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hG4dVGpuIm"
+  },
   {
    "uid": "3545911130",
    "mall": "쿠팡",
@@ -731,19 +744,6 @@
    "sentAt": "2026-10-06T11:46:53.137+09:00",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4861201385"
-  },
-  {
-   "uid": "2231313927",
-   "mall": "토스쇼핑",
-   "title": "농가살리기 쑥인절미, 20g, 75개입, 1박스",
-   "price": 10900,
-   "image": "https://shopping.toss.im/live/taca/ai/ZDE5NjM5/QU1PVUF5aUcyWFhtcXRyWHBGRklDNVRoRHJ3MEJhZ2cwaXIxZjFwK3kzQnA.png",
-   "sentAt": "2026-10-06T11:26:13.053+09:00",
-   "saving": 34,
-   "baseline": 16440,
-   "baselineNote": "판매글 6곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://toss.im/_m/9oq6dHhC"
   }
  ]
 }
