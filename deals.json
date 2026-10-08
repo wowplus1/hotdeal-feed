@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-09T07:59:14.532+09:00",
+ "updated": "2026-10-09T08:55:44.591+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6763400626",
+   "mall": "쿠팡",
+   "title": "해태htb 갈배사이다 제로, 355ml, 24개",
+   "price": 10000,
+   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/image_audit/prod/ddb78509-3d3c-4de5-9cbd-a2d3c9aec24a_composition_base_0.png",
+   "sentAt": "2026-10-09T08:55:43.465+09:00",
+   "saving": 23,
+   "baseline": 13030,
+   "baselineNote": "275곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gdKXMXeYx2"
+  },
   {
    "uid": "9791759386",
    "mall": "쿠팡",
@@ -737,16 +750,6 @@
    "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9535780055/B.webp?543186364",
    "sentAt": "2026-10-06T14:00:13.702+09:00",
    "link": "http://app.ac/eqnoTD293"
-  },
-  {
-   "uid": "1800017629",
-   "mall": "지마켓",
-   "title": "에너자이저 알카파워 알카라인 건전지 AA 22입+AAA 22입",
-   "price": 19900,
-   "image": "https://gdimg.gmarket.co.kr/4679790667/goodsimage",
-   "sentAt": "2026-10-06T13:30:18.671+09:00",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4679790667"
   }
  ]
 }
