@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-08T11:32:21.285+09:00",
+ "updated": "2026-10-08T11:59:50.662+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7477985608",
+   "mall": "쿠팡",
+   "title": "청정원 아라비아따 스파게티 소스, 600g, 2개",
+   "price": 6670,
+   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/26600563167487-fddfc17e-8bd0-4f96-ac4c-4dc67ca0bc0b.jpg",
+   "sentAt": "2026-10-08T11:59:49.931+09:00",
+   "saving": 35,
+   "baseline": 10270,
+   "baselineNote": "판매글 20곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hFIMTGcaaW"
+  },
   {
    "uid": "7384871946",
    "mall": "롯데온",
@@ -735,18 +748,6 @@
    "baselineNote": "판매글 7곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hBi6fxdIrI"
-  },
-  {
-   "uid": "8799731164",
-   "mall": "지마켓",
-   "title": "크리넥스 마이비데 클린케어 카카오 40매 16팩",
-   "price": 17600,
-   "image": "https://gdimg.gmarket.co.kr/4488461792/goodsimage",
-   "sentAt": "2026-10-05T18:03:01.858+09:00",
-   "saving": 29,
-   "baseline": 24910,
-   "baselineNote": "판매글 9곳 최저가",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4488461792"
   }
  ]
 }
