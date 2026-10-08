@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-08T14:04:54.920+09:00",
+ "updated": "2026-10-08T14:10:47.753+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6854744051",
+   "mall": "토스쇼핑",
+   "title": "애슐리 눈꽃치즈 순살 안동식 찜닭, 2인분, 772g, 1개",
+   "price": 8900,
+   "image": "https://shopping.toss.im/live/taca/ai/ZTRlNzll/SHc1YkhmWVovRG5ZZUxNSGFEekUrMFQ1eUxDYThPNTY3NU16RVJBZjRYOD0.png",
+   "sentAt": "2026-10-08T14:10:47.171+09:00",
+   "saving": 27,
+   "baseline": 12220,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/nN5rO6Di"
+  },
   {
    "uid": "3453694899",
    "mall": "11번가",
@@ -735,19 +748,6 @@
    "baselineNote": "다른 곳 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hB3KwLlpqS"
-  },
-  {
-   "uid": "4155089755",
-   "mall": "쿠팡",
-   "title": "크라운 버터와플, 810g, 1개",
-   "price": 10670,
-   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/6086768595157260-877f5a11-c2d8-41e5-a5ff-bb28d4aec577.jpg",
-   "sentAt": "2026-10-05T20:32:56.772+09:00",
-   "saving": 28,
-   "baseline": 14830,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hBiKFdBa32"
   }
  ]
 }
