@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-08T10:57:10.358+09:00",
+ "updated": "2026-10-08T11:05:02.524+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7212120796",
+   "mall": "11번가",
+   "title": "대추 방울 토마토 2kg 1-2번과",
+   "price": 11660,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9474862385/B.webp?69223797",
+   "sentAt": "2026-10-08T11:05:01.970+09:00",
+   "saving": 33,
+   "baseline": 17390,
+   "baselineNote": "다른 곳 최저",
+   "unit": "[object Object]",
+   "link": "http://app.ac/OtV7IOM33"
+  },
   {
    "uid": "9899525460",
    "mall": "쿠팡",
@@ -735,19 +748,6 @@
    "baselineNote": "판매글 19곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4579417652"
-  },
-  {
-   "uid": "8410096009",
-   "mall": "토스쇼핑",
-   "title": "가쯔 멀티 논슬립 옷걸이, 블랙, 30개",
-   "price": 5510,
-   "image": "https://shopping.toss.im/live/taca/ai/MzljOTI3/VFBQeHo4MmVUbGx0c0xqTjNMUmwydEdNenNrdVlER2FrczdMU1VlaE5qWT0.png",
-   "sentAt": "2026-10-05T13:01:31.151+09:00",
-   "saving": 26,
-   "baseline": 7430,
-   "baselineNote": "29곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/9JrXObEo"
   }
  ]
 }
