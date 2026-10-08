@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-08T11:59:50.662+09:00",
+ "updated": "2026-10-08T12:05:08.894+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8273771513",
+   "mall": "토스쇼핑",
+   "title": "베네틴 플랜트 프로틴 쉐이크 아이솔레이트 곡물맛, 2kg, 1개",
+   "price": 21900,
+   "image": "https://shopping.toss.im/live/temp/2026-09-10/2573232b-ecd8-40e3-b8a8-fb3297d13c1e.png",
+   "sentAt": "2026-10-08T12:05:08.322+09:00",
+   "saving": 28,
+   "baseline": 30500,
+   "baselineNote": "판매글 25곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/N3cbcwYv"
+  },
   {
    "uid": "7477985608",
    "mall": "쿠팡",
@@ -735,19 +748,6 @@
    "baselineNote": "판매글 18곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4614591709"
-  },
-  {
-   "uid": "5432336019",
-   "mall": "쿠팡",
-   "title": "바릴라 스파게티, 1kg, 2개",
-   "price": 7480,
-   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/294666128988053-0b37a596-9b84-47bf-96f5-f1fa108cc696.jpg",
-   "sentAt": "2026-10-05T20:10:13.754+09:00",
-   "saving": 45,
-   "baseline": 13480,
-   "baselineNote": "판매글 7곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hBi6fxdIrI"
   }
  ]
 }
