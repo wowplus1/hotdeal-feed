@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-10T07:12:13.144+09:00",
+ "updated": "2026-10-10T07:14:54.014+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5861973031",
+   "mall": "쿠팡",
+   "title": "오리온 진한 디저트 케익 오뜨 치즈, 156g, 4개",
+   "price": 8200,
+   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/8def/d3f4fb5a01e01e650bc12e2d8edc15db86c27029797ce6af5e7589fda258.jpg",
+   "sentAt": "2026-10-10T07:14:53.373+09:00",
+   "saving": 44,
+   "baseline": 14530,
+   "baselineNote": "파는 곳이 여기 하나",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hIIeAtEGsK"
+  },
   {
    "uid": "6722431094",
    "mall": "쿠팡",
@@ -739,19 +752,6 @@
    "baseline": 68180,
    "baselineNote": "판매글 14곳 최저가",
    "link": "http://app.ac/9ECXAyS23"
-  },
-  {
-   "uid": "7510883773",
-   "mall": "쿠팡",
-   "title": "롯데웰푸드 에이비씨 초콜릿, 187g, 2개",
-   "price": 7960,
-   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/images/2018/08/14/11/4/b15c18d3-d1f4-4e90-a02b-b577d3ae13b7.jpg",
-   "sentAt": "2026-10-07T07:41:39.523+09:00",
-   "saving": 34,
-   "baseline": 12030,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gfrifGTm7o"
   }
  ]
 }
