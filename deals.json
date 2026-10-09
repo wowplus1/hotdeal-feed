@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-09T13:54:55.954+09:00",
+ "updated": "2026-10-09T15:16:49.885+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8418876905",
+   "mall": "롯데온",
+   "title": "웅진식품 캐치티니핑 어린이음료 200ml x 24페트",
+   "price": 11850,
+   "image": "https://contents.lotteon.com/itemimage/20260826112631/LO/26/67/23/30/83/_2/66/72/33/08/5/LO2667233083_2667233085_1.jpg",
+   "sentAt": "2026-10-09T15:16:49.132+09:00",
+   "saving": 27,
+   "baseline": 16140,
+   "baselineNote": "판매글 15곳 최저가",
+   "link": "http://app.ac/hbpIzJl33"
+  },
   {
    "uid": "8581026665",
    "mall": "쿠팡",
@@ -738,19 +750,6 @@
    "sentAt": "2026-10-07T07:03:47.143+09:00",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hDIHGYoIkC"
-  },
-  {
-   "uid": "5916460515",
-   "mall": "쿠팡",
-   "title": "신라면 로제 큰사발면 108g, 6개",
-   "price": 5160,
-   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/445327104277979-55f3c6cb-215a-4009-aedb-a4d732557bf7.jpg",
-   "sentAt": "2026-10-06T21:20:23.139+09:00",
-   "saving": 41,
-   "baseline": 8730,
-   "baselineNote": "76곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hC2Z7GMIQC"
   }
  ]
 }
