@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-09T13:20:22.072+09:00",
+ "updated": "2026-10-09T13:54:55.954+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8581026665",
+   "mall": "쿠팡",
+   "title": "비스코티 강아지 비스켓, 과일, 800g, 1개",
+   "price": 9150,
+   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/366888026041402-dab48863-d57c-4669-95d0-88e75df4fce9.jpg",
+   "sentAt": "2026-10-09T13:54:55.054+09:00",
+   "saving": 33,
+   "baseline": 13560,
+   "baselineNote": "판매글 7곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hHvUPr4RHM"
+  },
   {
    "uid": "5827032539",
    "mall": "롯데온",
@@ -738,18 +751,6 @@
    "baselineNote": "76곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hC2Z7GMIQC"
-  },
-  {
-   "uid": "6945705350",
-   "mall": "지마켓",
-   "title": "해피콜 플렉스팬 IH 와이드 인덕션 후라이팬 20cm",
-   "price": 14820,
-   "image": "https://gdimg.gmarket.co.kr/2647573160/goodsimage",
-   "sentAt": "2026-10-06T20:41:57.603+09:00",
-   "saving": 29,
-   "baseline": 20800,
-   "baselineNote": "판매글 7곳 최저가",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2647573160"
   }
  ]
 }
