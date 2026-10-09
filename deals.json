@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-09T21:45:12.047+09:00",
+ "updated": "2026-10-10T07:03:57.681+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2322058573",
+   "mall": "쿠팡",
+   "title": "풀무원 얄피꽉찬 쌀 물만두 1kg",
+   "price": 5990,
+   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/119041650345236-846b66ab-1dee-4524-988f-9cf149a1dc88.jpg",
+   "sentAt": "2026-10-10T07:03:56.886+09:00",
+   "saving": 37,
+   "baseline": 9460,
+   "baselineNote": "195곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hIHqRgO05I"
+  },
   {
    "uid": "2494229029",
    "mall": "지마켓",
@@ -736,19 +749,6 @@
    "sentAt": "2026-10-07T07:40:05.540+09:00",
    "unit": "[object Object]",
    "link": "https://toss.shopping/_m/79uJmM4A"
-  },
-  {
-   "uid": "2510414590",
-   "mall": "쿠팡",
-   "title": "가그린 오리지널 구강청결제, 1.2L, 2개",
-   "price": 8660,
-   "image": "https://thumbnail1.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/5029683759443372-726e0d90-0f5e-4bbc-aa6b-9a9690bca812.jpg",
-   "sentAt": "2026-10-07T07:15:38.227+09:00",
-   "saving": 54,
-   "baseline": 18700,
-   "baselineNote": "판매글 21곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gHDmlvluxg"
   }
  ]
 }
