@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-09T11:15:07.754+09:00",
+ "updated": "2026-10-09T11:56:18.989+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6341393487",
+   "mall": "토스쇼핑",
+   "title": "푸드앳홈 궁채 알마늘 장아찌, 1kg, 1팩",
+   "price": 5900,
+   "image": "https://shopping.toss.im/live/taca/ai/NmRmNWQ5/TGFRMlVxZHpuSndoNmM5SU1HWkxISjRrMDV2MHRHVVBXajRYVmlqY0NXST0.png",
+   "sentAt": "2026-10-09T11:56:17.958+09:00",
+   "saving": 22,
+   "baseline": 7560,
+   "baselineNote": "23곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://toss.im/_m/X3Z237tw"
+  },
   {
    "uid": "3421888787",
    "mall": "롯데온",
@@ -737,19 +750,6 @@
    "baselineNote": "54곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "http://app.ac/mqnxSP293"
-  },
-  {
-   "uid": "4413830506",
-   "mall": "토스쇼핑",
-   "title": "센토 프라임 고불소 구취케어 치약 아쿠아민트향, 120g, 8개",
-   "price": 14900,
-   "image": "https://shopping.toss.im/live/temp/2026-06-09/7d26bb8a-c103-4912-b06e-21ec2b01c871.jpeg",
-   "sentAt": "2026-10-06T17:21:22.460+09:00",
-   "saving": 46,
-   "baseline": 27800,
-   "baselineNote": "3곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://toss.im/_m/zdu4SXSg"
   }
  ]
 }
