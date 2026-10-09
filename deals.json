@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-10T07:14:54.014+09:00",
+ "updated": "2026-10-10T08:34:55.170+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1753560403",
+   "mall": "쿠팡",
+   "title": "갈아만든배 저칼로리, 340ml, 24개",
+   "price": 10240,
+   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/ce61/c11830fa6c09174f2361a1296ab4c6540ad01e6a88674f10ead7c902d6dc.jpg",
+   "sentAt": "2026-10-10T08:34:54.409+09:00",
+   "saving": 23,
+   "baseline": 13270,
+   "baselineNote": "303곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gkKv1IM2o0"
+  },
   {
    "uid": "5861973031",
    "mall": "쿠팡",
@@ -740,18 +753,6 @@
    "baselineNote": "3곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hDWoPIHboG"
-  },
-  {
-   "uid": "8695438669",
-   "mall": "롯데온",
-   "title": "Tech-Poly 사방스판 에센셜 수트 네이비  SSJUZ02SET",
-   "price": 39650,
-   "image": "https://contents.lotteon.com/itemimage/20260825105225/LO/27/54/76/84/34/bndl_img/LO2754768434_1.jpg",
-   "sentAt": "2026-10-07T09:54:54.986+09:00",
-   "saving": 42,
-   "baseline": 68180,
-   "baselineNote": "판매글 14곳 최저가",
-   "link": "http://app.ac/9ECXAyS23"
   }
  ]
 }
