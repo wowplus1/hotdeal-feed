@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-09T10:35:03.671+09:00",
+ "updated": "2026-10-09T11:03:07.486+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1795451976",
+   "mall": "쿠팡",
+   "title": "투코비 코마 점보플러스 무선 연필깎이 TC-M5 26,490원",
+   "price": 26490,
+   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1745132892138206-cae67409-84c1-41ca-853d-33ac4c2a15b4.jpg",
+   "sentAt": "2026-10-09T11:03:06.418+09:00",
+   "saving": 46,
+   "baseline": 48990,
+   "baselineNote": "판매글 5곳 최저가",
+   "link": "https://link.coupang.com/a/hHjCh8yvLw"
+  },
   {
    "uid": "2842507565",
    "mall": "토스쇼핑",
@@ -739,18 +751,6 @@
    "baselineNote": "363곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gF2RxIfph6"
-  },
-  {
-   "uid": "5751117119",
-   "mall": "11번가",
-   "title": "오리온 치즈뿌린 치킨팝 65g, 5개 + 치킨팝 닭강정 65g, 5개",
-   "price": 7540,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9179493622/B.webp",
-   "sentAt": "2026-10-06T14:16:57.488+09:00",
-   "saving": 31,
-   "baseline": 10900,
-   "baselineNote": "판매글 12곳 최저가",
-   "link": "http://app.ac/0tV8IyM23"
   }
  ]
 }
