@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-09T15:16:49.885+09:00",
+ "updated": "2026-10-09T15:27:00.000+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4322006102",
+   "mall": "쿠팡",
+   "title": "스니커즈 미니스 초코바, 1.098kg, 1개",
+   "price": 15440,
+   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/1c3c/489d0a49f7af4baa4ff32b0e8d117bfb26525c722516aa150c8da4646774.jpg",
+   "sentAt": "2026-10-09T15:26:59.290+09:00",
+   "saving": 39,
+   "baseline": 25460,
+   "baselineNote": "판매글 13곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hHCszUswmq"
+  },
   {
    "uid": "8418876905",
    "mall": "롯데온",
@@ -740,16 +753,6 @@
    "baselineNote": "78곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://hotdeal.best/2605768939?utm_source=kakao"
-  },
-  {
-   "uid": "6465058685",
-   "mall": "쿠팡",
-   "title": "고로고로 마루용 테이프 크리너 리필 3개입 38*160 mm*1개",
-   "price": 6160,
-   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/6526/d61d806aa6302b961313d59c43a1af3b7b502cce23ae111805e5c70d645e.jpg",
-   "sentAt": "2026-10-07T07:03:47.143+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hDIHGYoIkC"
   }
  ]
 }
