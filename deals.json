@@ -1,7 +1,16 @@
 {
- "updated": "2026-10-09T16:05:21.501+09:00",
+ "updated": "2026-10-09T21:45:12.047+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2494229029",
+   "mall": "지마켓",
+   "title": "하림 양푼김치찌개 8입+훌라면 4입+닭칼국수 4입",
+   "price": 13490,
+   "image": "https://gdimg.gmarket.co.kr/4672937495/goodsimage",
+   "sentAt": "2026-10-09T21:45:11.111+09:00",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4672937495"
+  },
   {
    "uid": "7489790095",
    "mall": "쿠팡",
@@ -740,19 +749,6 @@
    "baselineNote": "판매글 21곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gHDmlvluxg"
-  },
-  {
-   "uid": "8104737097",
-   "mall": "쿠팡",
-   "title": "스프라이트 제로 사이다, 250ml, 30개",
-   "price": 11980,
-   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/3057/8476349e6225fc49f978d71fc1ac8c504952e508d2c628f5463340b194b2.png",
-   "sentAt": "2026-10-07T07:08:25.470+09:00",
-   "saving": 29,
-   "baseline": 16920,
-   "baselineNote": "판매글 11곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gaqS8zDclM"
   }
  ]
 }
