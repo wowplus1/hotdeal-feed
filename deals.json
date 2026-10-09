@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-09T11:03:07.486+09:00",
+ "updated": "2026-10-09T11:15:07.754+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3421888787",
+   "mall": "롯데온",
+   "title": "고품질 특품 정량 로메인청상추 1kg/2kg",
+   "price": 5980,
+   "image": "https://contents.lotteon.com/itemimage/20260929111612/LO/25/79/65/87/49/_2/57/96/58/75/0/LO2579658749_2579658750_1.jpg",
+   "sentAt": "2026-10-09T11:15:07.194+09:00",
+   "saving": 24,
+   "baseline": 7910,
+   "baselineNote": "판매글 5곳 최저가",
+   "link": "http://app.ac/eAGzYZ563"
+  },
   {
    "uid": "1795451976",
    "mall": "쿠팡",
@@ -738,19 +750,6 @@
    "baselineNote": "3곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://toss.im/_m/zdu4SXSg"
-  },
-  {
-   "uid": "3763536376",
-   "mall": "쿠팡",
-   "title": "비타500 이온킥 제로 음료, 1.5L, 12개",
-   "price": 15210,
-   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/03/11/14/6/d6bfcaec-2415-4153-af85-283ea8f5905f.jpg",
-   "sentAt": "2026-10-06T14:20:22.539+09:00",
-   "saving": 21,
-   "baseline": 19270,
-   "baselineNote": "363곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gF2RxIfph6"
   }
  ]
 }
