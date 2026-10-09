@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-10T07:03:57.681+09:00",
+ "updated": "2026-10-10T07:12:13.144+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6722431094",
+   "mall": "쿠팡",
+   "title": "그릭데이 그릭요거트 시그니처, 100g, 3개",
+   "price": 6980,
+   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/431654984436990-ed796f2e-b32c-4911-ac2b-2dcb863159d1.jpg",
+   "sentAt": "2026-10-10T07:12:12.600+09:00",
+   "saving": 65,
+   "baseline": 19930,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gyKBuQeyS4"
+  },
   {
    "uid": "2322058573",
    "mall": "쿠팡",
@@ -739,16 +752,6 @@
    "baselineNote": "판매글 4곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gfrifGTm7o"
-  },
-  {
-   "uid": "1454771454",
-   "mall": "토스쇼핑",
-   "title": "트레비 ECO 플레인, 350ml, 20개",
-   "price": 8900,
-   "image": "https://shopping.toss.im/live/product/7551619/40eddbb4-0145-4a66-a93e-cf2aa34871dc.jpeg",
-   "sentAt": "2026-10-07T07:40:05.540+09:00",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/79uJmM4A"
   }
  ]
 }
