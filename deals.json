@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-09T11:56:18.989+09:00",
+ "updated": "2026-10-09T13:20:22.072+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5827032539",
+   "mall": "롯데온",
+   "title": "대상웰라이프 마이밀 마시는 뉴프로틴 190mlx16팩 2박스",
+   "price": 34120,
+   "image": "https://contents.lotteon.com/itemimage/20261002102016/LO/27/85/04/64/88/_2/78/50/46/48/9/LO2785046488_2785046489_1.jpg",
+   "sentAt": "2026-10-09T13:20:21.316+09:00",
+   "saving": 20,
+   "baseline": 42590,
+   "baselineNote": "판매글 9곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/KECJLPS23"
+  },
   {
    "uid": "6341393487",
    "mall": "토스쇼핑",
@@ -737,19 +750,6 @@
    "baseline": 20800,
    "baselineNote": "판매글 7곳 최저가",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2647573160"
-  },
-  {
-   "uid": "1719949656",
-   "mall": "롯데온",
-   "title": "랩신 냄새제거부스터 캡슐세제 무향 25입",
-   "price": 10800,
-   "image": "https://contents.lotteon.com/itemimage/20260814181950/LO/25/68/51/77/33/_2/56/85/17/73/4/LO2568517733_2568517734_4.png",
-   "sentAt": "2026-10-06T17:26:57.248+09:00",
-   "saving": 23,
-   "baseline": 14100,
-   "baselineNote": "54곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "http://app.ac/mqnxSP293"
   }
  ]
 }
