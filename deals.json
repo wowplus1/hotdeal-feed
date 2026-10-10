@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-10T12:03:03.027+09:00",
+ "updated": "2026-10-10T14:20:20.884+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5139777469",
+   "mall": "쿠팡",
+   "title": "불닭볶음면 소컵 70g, 6개",
+   "price": 5110,
+   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2159274712657237-2fa2cbe6-db6e-4c04-b6ed-7844b5a3e37a.jpg",
+   "sentAt": "2026-10-10T14:20:20.119+09:00",
+   "saving": 68,
+   "baseline": 15900,
+   "baselineNote": "판매글 23곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hJcBZehIXY"
+  },
   {
    "uid": "4564440742",
    "mall": "쿠팡",
@@ -740,19 +753,6 @@
    "baselineNote": "3곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://toss.shopping/_m/VlHu7jHk"
-  },
-  {
-   "uid": "9609645721",
-   "mall": "GS SHOP",
-   "title": "쟁여먹는 오리훈제 슬라이스 800g",
-   "price": 10500,
-   "image": "https://asset.m-gs.kr/prod/1134313434/1/280",
-   "sentAt": "2026-10-07T11:15:39.845+09:00",
-   "saving": 25,
-   "baseline": 14040,
-   "baselineNote": "판매글 9곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/MjwO6Aa43"
   }
  ]
 }
