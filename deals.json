@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-10T15:21:42.105+09:00",
+ "updated": "2026-10-10T15:22:28.988+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2011581570",
+   "mall": "11번가",
+   "title": "맥널티 병커피 50g 3개 골라담기",
+   "price": 11900,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/1/4/4/0/2/1/TGgDY/8835144021_240917592.webp",
+   "sentAt": "2026-10-10T15:22:28.415+09:00",
+   "saving": 25,
+   "baseline": 15900,
+   "baselineNote": "판매글 28곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/A3MJ8JJ33"
+  },
   {
    "uid": "1842981286",
    "mall": "쿠팡",
@@ -740,19 +753,6 @@
    "baseline": 18270,
    "baselineNote": "판매글 6곳 최저가",
    "link": "http://app.ac/53MH65J73"
-  },
-  {
-   "uid": "3122037870",
-   "mall": "롯데온",
-   "title": "전남 순천일대 햇밤 알밤 2kg",
-   "price": 8220,
-   "image": "https://contents.lotteon.com/itemimage/20261006171801/LO/27/87/28/28/52/_2/78/72/82/85/3/LO2787282852_2787282853_1.jpg",
-   "sentAt": "2026-10-07T11:36:59.482+09:00",
-   "saving": 27,
-   "baseline": 11310,
-   "baselineNote": "판매글 12곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/9ECy6PS33"
   }
  ]
 }
