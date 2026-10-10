@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-10T17:07:04.188+09:00",
+ "updated": "2026-10-10T17:41:37.156+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4717010180",
+   "mall": "쿠팡",
+   "title": "마이구미 18개",
+   "price": 8040,
+   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/4c0d4212-0ff2-4a87-9ba9-ab4a9a3f958712679674270850825428.png",
+   "sentAt": "2026-10-10T17:41:36.488+09:00",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hJq14vecNw"
+  },
   {
    "uid": "6634418614",
    "mall": "쿠팡",
@@ -743,19 +753,6 @@
    "baseline": 24719,
    "baselineNote": "판매글 3곳 최저가",
    "link": "http://app.ac/ItVokRM73"
-  },
-  {
-   "uid": "1811107248",
-   "mall": "토스쇼핑",
-   "title": "보넬드 아이엠 그린 주스, NFC 착즙, 1L, 3병",
-   "price": 16340,
-   "image": "https://shopping.toss.im/live/taca/ai/v2/YTRiYzQx/QU9mR2Zkc2JMR2tuYkRpMjJNUERUMnd4aHYyYkRqYjltMGtzdGU5TThFOTg.png",
-   "sentAt": "2026-10-07T14:05:36.165+09:00",
-   "saving": 49,
-   "baseline": 31920,
-   "baselineNote": "56곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/t3BTu7AD"
   }
  ]
 }
