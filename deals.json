@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-10T15:39:51.063+09:00",
+ "updated": "2026-10-10T16:04:49.295+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9781034769",
+   "mall": "롯데온",
+   "title": "내츄럴플러스 파로 발효효소 30포 3박스 / 곡물효소 정제효소 NO 고역가수치",
+   "price": 20830,
+   "image": "https://contents.lotteon.com/itemimage/20261006150820/LO/27/87/43/12/76/_2/78/74/31/27/7/LO2787431276_2787431277_1.jpg",
+   "sentAt": "2026-10-10T16:04:48.730+09:00",
+   "saving": 25,
+   "baseline": 27800,
+   "baselineNote": "판매글 32곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/DtVYgbM73"
+  },
   {
    "uid": "8723951549",
    "mall": "쿠팡",
@@ -742,18 +755,6 @@
    "baseline": 48600,
    "baselineNote": "316곳 중 최저 · 무료배송",
    "link": "https://link.coupang.com/a/hD96bGudlk"
-  },
-  {
-   "uid": "4204257931",
-   "mall": "쿠팡",
-   "title": "번개표 개별스위치 멀티탭 3구 WI-MC21633V 1.5m*화이트*1개",
-   "price": 5810,
-   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/5b31/f2ef765ad7561ac225fd15675cf650464bb00b9b3c8b8b292d6eab16e271.png",
-   "sentAt": "2026-10-07T13:26:03.535+09:00",
-   "saving": 88,
-   "baseline": 48390,
-   "baselineNote": "판매글 5곳 최저가",
-   "link": "https://link.coupang.com/a/hD92hOVWHA"
   }
  ]
 }
