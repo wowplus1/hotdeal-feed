@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-10T14:20:20.884+09:00",
+ "updated": "2026-10-10T15:00:05.528+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8379824822",
+   "mall": "쿠팡",
+   "title": "샤워메이트 바디워시 유자, 1.2kg, 2개",
+   "price": 6710,
+   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/9054375210891-843bb793-04fa-47b3-a1e3-b1b8fe26f74f.jpg",
+   "sentAt": "2026-10-10T15:00:04.844+09:00",
+   "saving": 33,
+   "baseline": 10070,
+   "baselineNote": "37곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gMFKlnp4pg"
+  },
   {
    "uid": "5139777469",
    "mall": "쿠팡",
@@ -740,19 +753,6 @@
    "baselineNote": "51곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hD1st0LBCu"
-  },
-  {
-   "uid": "1792723490",
-   "mall": "토스쇼핑",
-   "title": "센토 주니어 세이프 구취케어 어린이 치약, 사과향, 120g, 8개",
-   "price": 12900,
-   "image": "https://shopping.toss.im/live/taca/ai/v2/NzYxOTcw/UGlIZUhpZVNUcDMxakg3MHo0RzVtOHFFRllwT2RHeXBwUER1SVpFU0E5bz0.png",
-   "sentAt": "2026-10-07T11:26:17.445+09:00",
-   "saving": 52,
-   "baseline": 27021,
-   "baselineNote": "3곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/VlHu7jHk"
   }
  ]
 }
