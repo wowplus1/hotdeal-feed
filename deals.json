@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-10T16:04:49.295+09:00",
+ "updated": "2026-10-10T17:07:04.188+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6634418614",
+   "mall": "쿠팡",
+   "title": "남양과수원 청포도, 190ml, 48개",
+   "price": 9940,
+   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/62061438249122-18421894-c5e7-4929-b253-a475810a9ce6.jpg",
+   "sentAt": "2026-10-10T17:07:03.456+09:00",
+   "saving": 32,
+   "baseline": 14640,
+   "baselineNote": "판매글 10곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hJoye35JQG"
+  },
   {
    "uid": "9781034769",
    "mall": "롯데온",
@@ -743,18 +756,6 @@
    "baselineNote": "56곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://toss.shopping/_m/t3BTu7AD"
-  },
-  {
-   "uid": "8658406671",
-   "mall": "쿠팡",
-   "title": "스탠리 퀜처 프로투어 플립스트로 텀블러 하이드렌지아 887ml",
-   "price": 34080,
-   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/975050457425344-62af8b2b-ba08-46f7-8a91-a7c86f8ac5f9.jpg",
-   "sentAt": "2026-10-07T13:26:59.227+09:00",
-   "saving": 30,
-   "baseline": 48600,
-   "baselineNote": "316곳 중 최저 · 무료배송",
-   "link": "https://link.coupang.com/a/hD96bGudlk"
   }
  ]
 }
