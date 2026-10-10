@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-10T18:00:42.946+09:00",
+ "updated": "2026-10-10T20:00:16.913+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1674297445",
+   "mall": "쿠팡",
+   "title": "브이콘 50g 20개",
+   "price": 8960,
+   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/image_audit/prod/e37cb730-64b1-4c84-aafb-d03bdb06022a_fixing_v2.png",
+   "sentAt": "2026-10-10T20:00:16.139+09:00",
+   "saving": 25,
+   "baseline": 11930,
+   "baselineNote": "판매글 6곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hJAGa0zeAS"
+  },
   {
    "uid": "7398723987",
    "mall": "쿠팡",
@@ -739,18 +752,6 @@
    "baselineNote": "판매글 11곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4307272681"
-  },
-  {
-   "uid": "6368981824",
-   "mall": "롯데온",
-   "title": "순살바 5종 x 2세트",
-   "price": 19990,
-   "image": "https://contents.lotteon.com/itemimage/20261006174116/LO/26/53/68/15/74/_2/65/36/81/57/5/LO2653681574_2653681575_1.jpg",
-   "sentAt": "2026-10-07T16:47:28.687+09:00",
-   "saving": 29,
-   "baseline": 28164,
-   "baselineNote": "판매글 13곳 최저가",
-   "link": "http://app.ac/yqn7yx213"
   }
  ]
 }
