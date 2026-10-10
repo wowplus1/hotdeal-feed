@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-10T15:22:28.988+09:00",
+ "updated": "2026-10-10T15:39:51.063+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8723951549",
+   "mall": "쿠팡",
+   "title": "양파깡 3개",
+   "price": 3380,
+   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/521087270619417-541dd920-bb84-4dc8-8a59-e97f56b22998.jpg",
+   "sentAt": "2026-10-10T15:39:50.307+09:00",
+   "saving": 48,
+   "baseline": 6480,
+   "baselineNote": "판매글 8곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hJikNXUOLQ"
+  },
   {
    "uid": "2011581570",
    "mall": "11번가",
@@ -741,18 +754,6 @@
    "baseline": 48390,
    "baselineNote": "판매글 5곳 최저가",
    "link": "https://link.coupang.com/a/hD92hOVWHA"
-  },
-  {
-   "uid": "6023314035",
-   "mall": "롯데온",
-   "title": "1+1 텐제로 남녀공용 올시즌 데일리 골지바지 코듀로이와이드팬츠 8컬러 통바지 밴딩바지 TZ25-301P2",
-   "price": 9810,
-   "image": "https://contents.lotteon.com/itemimage/20261001095348/LO/27/84/24/18/43/_2/78/42/41/84/4/LO2784241843_2784241844_1.jpg",
-   "sentAt": "2026-10-07T11:55:38.876+09:00",
-   "saving": 46,
-   "baseline": 18270,
-   "baselineNote": "판매글 6곳 최저가",
-   "link": "http://app.ac/53MH65J73"
   }
  ]
 }
