@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-10T15:00:05.528+09:00",
+ "updated": "2026-10-10T15:21:42.105+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1842981286",
+   "mall": "쿠팡",
+   "title": "배대감 저당 저칼로리 알룰로스 헤이즐넛시럽 530g 1개",
+   "price": 4190,
+   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/02/05/10/1/8438af7b-5ffb-46ea-9c1c-57bd603b258b.jpg",
+   "sentAt": "2026-10-10T15:21:41.189+09:00",
+   "saving": 53,
+   "baseline": 8920,
+   "baselineNote": "판매글 10곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hJg1MxBQ2S"
+  },
   {
    "uid": "8379824822",
    "mall": "쿠팡",
@@ -740,19 +753,6 @@
    "baselineNote": "판매글 12곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/9ECy6PS33"
-  },
-  {
-   "uid": "1498612116",
-   "mall": "쿠팡",
-   "title": "신라면 로제 큰사발면 108g 4개",
-   "price": 3940,
-   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/76156687216488-73b76fd7-3028-4ba3-b43f-b27669ab61c6.jpg",
-   "sentAt": "2026-10-07T11:26:57.994+09:00",
-   "saving": 44,
-   "baseline": 7020,
-   "baselineNote": "51곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hD1st0LBCu"
   }
  ]
 }
