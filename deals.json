@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-10T17:41:37.156+09:00",
+ "updated": "2026-10-10T18:00:42.946+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7398723987",
+   "mall": "쿠팡",
+   "title": "크라운 쿠크다스 케이크 77g 6개",
+   "price": 6430,
+   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/153716605021071-2f4112ce-8e28-416f-bd17-10bef75e1da5.jpg",
+   "sentAt": "2026-10-10T18:00:42.402+09:00",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hJsolgzt5U"
+  },
   {
    "uid": "4717010180",
    "mall": "쿠팡",
@@ -741,18 +751,6 @@
    "baseline": 28164,
    "baselineNote": "판매글 13곳 최저가",
    "link": "http://app.ac/yqn7yx213"
-  },
-  {
-   "uid": "2903127529",
-   "mall": "롯데온",
-   "title": "그릭요거트 80g 모음",
-   "price": 15260,
-   "image": "https://contents.lotteon.com/itemimage/20260511105436/LO/25/49/58/31/44/_2/54/95/83/14/5/LO2549583144_2549583145_1.jpg",
-   "sentAt": "2026-10-07T14:20:40.248+09:00",
-   "saving": 38,
-   "baseline": 24719,
-   "baselineNote": "판매글 3곳 최저가",
-   "link": "http://app.ac/ItVokRM73"
   }
  ]
 }
