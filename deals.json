@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-10T08:34:55.170+09:00",
+ "updated": "2026-10-10T09:10:20.250+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4370179282",
+   "mall": "롯데온",
+   "title": "랩신 항균 스프레이 용기 410ml*2개",
+   "price": 14070,
+   "image": "https://contents.lotteon.com/itemimage/20260713090036/LO/26/42/96/68/68/_2/64/29/66/86/9/LO2642966868_2642966869_5.png",
+   "sentAt": "2026-10-10T09:10:19.689+09:00",
+   "saving": 23,
+   "baseline": 18160,
+   "baselineNote": "판매글 6곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/9bpoQ3l93"
+  },
   {
    "uid": "1753560403",
    "mall": "쿠팡",
@@ -740,19 +753,6 @@
    "baselineNote": "판매글 3곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/2ECyPoS13"
-  },
-  {
-   "uid": "6131158481",
-   "mall": "쿠팡",
-   "title": "꼬북칩 콘스프맛, 80g, 5개",
-   "price": 5720,
-   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/93043487816262-cc105578-4cf7-4728-bed1-897525f54c6f.jpg",
-   "sentAt": "2026-10-07T10:15:16.351+09:00",
-   "saving": 39,
-   "baseline": 9370,
-   "baselineNote": "3곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hDWoPIHboG"
   }
  ]
 }
