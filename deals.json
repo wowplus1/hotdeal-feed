@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-11T07:20:20.884+09:00",
+ "updated": "2026-10-11T07:55:09.154+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2008434406",
+   "mall": "토스쇼핑",
+   "title": "펩시콜라 엑스트라 피즈, 355ml, 24개",
+   "price": 11800,
+   "image": "https://shopping.toss.im/live/taca/ai/YmQ3MWI4/VDFUMkpiaXZXN3BpNmV4SEQxUVhkNWtQNmJwd2F6WkZZcDNMdXAxRVBtVT0.png",
+   "sentAt": "2026-10-11T07:55:08.634+09:00",
+   "saving": 28,
+   "baseline": 16500,
+   "baselineNote": "332곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/JmWHHkPo"
+  },
   {
    "uid": "9132074430",
    "mall": "쿠팡",
@@ -739,19 +752,6 @@
    "baseline": 7820,
    "baselineNote": "판매글 12곳 최저가",
    "link": "http://app.ac/Q3MH1FJ53"
-  },
-  {
-   "uid": "7444325041",
-   "mall": "토스쇼핑",
-   "title": "제스타 습기제거제, 라벤더향, 250g, 18개",
-   "price": 10600,
-   "image": "https://shopping.toss.im/live/taca/ai/MjQ4OWU0/QU9IakEvZTJIMzhjQTlzOGYwdVpwT0V6TGRLMVpsdDYySEdUdlJoekpQZWs.png",
-   "sentAt": "2026-10-07T17:26:20.564+09:00",
-   "saving": 37,
-   "baseline": 16900,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/RzURJglD"
   }
  ]
 }
