@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-10T20:00:16.913+09:00",
+ "updated": "2026-10-11T07:20:20.884+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9132074430",
+   "mall": "쿠팡",
+   "title": "켈로그 100% 벨기에산 그래놀라 시리얼, 900g, 1개",
+   "price": 6260,
+   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2158833699287375-3f9bd51f-3a4d-4288-b539-98cec484c0c9.jpg",
+   "sentAt": "2026-10-11T07:20:20.095+09:00",
+   "saving": 52,
+   "baseline": 12980,
+   "baselineNote": "6곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/ghC4rpe8MS"
+  },
   {
    "uid": "1674297445",
    "mall": "쿠팡",
@@ -739,19 +752,6 @@
    "baselineNote": "판매글 4곳 최저가",
    "unit": "[object Object]",
    "link": "https://toss.shopping/_m/RzURJglD"
-  },
-  {
-   "uid": "8747767483",
-   "mall": "지마켓",
-   "title": "크림블 크림브륄레 320g 4입",
-   "price": 10500,
-   "image": "https://gdimg.gmarket.co.kr/4307272681/goodsimage",
-   "sentAt": "2026-10-07T17:19:51.600+09:00",
-   "saving": 32,
-   "baseline": 15470,
-   "baselineNote": "판매글 11곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4307272681"
   }
  ]
 }
