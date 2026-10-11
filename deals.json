@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-11T18:46:32.141+09:00",
+ "updated": "2026-10-12T07:09:26.815+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2347167382",
+   "mall": "쿠팡",
+   "title": "배스킨라빈스 민트초코 우유 190ml*24개",
+   "price": 8340,
+   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1155570306024914-e9962cfd-802d-46a3-8836-be46bf1e68cf.jpg",
+   "sentAt": "2026-10-12T07:09:25.870+09:00",
+   "saving": 51,
+   "baseline": 16940,
+   "baselineNote": "131곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hL1EGVlYxo"
+  },
   {
    "uid": "5005151535",
    "mall": "롯데온",
@@ -735,19 +748,6 @@
    "baselineNote": "판매글 31곳 최저가",
    "unit": "[object Object]",
    "link": "https://toss.shopping/_m/dYPvW2P"
-  },
-  {
-   "uid": "5734117500",
-   "mall": "GS SHOP",
-   "title": "피죤 초고농축 실내건조 섬유유연제 클린데이 리필 1.6L*3개",
-   "price": 10900,
-   "image": "https://asset.m-gs.kr/prod/1135883699/1/280",
-   "sentAt": "2026-10-08T10:05:58.066+09:00",
-   "saving": 43,
-   "baseline": 19230,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/Xqnhgg283"
   }
  ]
 }
