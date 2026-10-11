@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-11T09:14:54.627+09:00",
+ "updated": "2026-10-11T11:57:38.612+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7397994153",
+   "mall": "쿠팡",
+   "title": "스카치브라이트 베이직 삼중양면 다목적 수세미, 8개입, 1개",
+   "price": 5970,
+   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/eae4/31ef9fe7ff2243db2602256bf1e0a643a3302cf53815ed917418bd669491.jpg",
+   "sentAt": "2026-10-11T11:57:37.663+09:00",
+   "saving": 64,
+   "baseline": 16730,
+   "baselineNote": "판매글 31곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gHDL13kIUu"
+  },
   {
    "uid": "1057651699",
    "mall": "롯데온",
@@ -740,18 +753,6 @@
    "baselineNote": "판매글 3곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hECyj18ILY"
-  },
-  {
-   "uid": "1590043787",
-   "mall": "지마켓",
-   "title": "AULA 독거미 F108pro 블랙 세이야축 기계식 키보 8000mah",
-   "price": 54600,
-   "image": "https://gdimg.gmarket.co.kr/4871773313/goodsimage",
-   "sentAt": "2026-10-07T18:35:27.611+09:00",
-   "saving": 41,
-   "baseline": 93320,
-   "baselineNote": "판매글 10곳 최저가",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4871773313"
   }
  ]
 }
