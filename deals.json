@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-11T17:00:41.478+09:00",
+ "updated": "2026-10-11T17:26:38.550+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8946957586",
+   "mall": "쿠팡",
+   "title": "일리 디카프 디카페인 캡슐 21개",
+   "price": 10850,
+   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/ccc2/034717ca3cd514681c27f00c27cae29de2cc6ec1be586353e60fe1e5fb56.jpg",
+   "sentAt": "2026-10-11T17:26:37.978+09:00",
+   "saving": 50,
+   "baseline": 21650,
+   "baselineNote": "판매글 6곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hK4RAxlmH6"
+  },
   {
    "uid": "4930572184",
    "mall": "롯데온",
@@ -738,16 +751,6 @@
    "baselineNote": "판매글 31곳 최저가",
    "unit": "[object Object]",
    "link": "https://toss.shopping/_m/fLjQHDNp"
-  },
-  {
-   "uid": "8960131864",
-   "mall": "지마켓",
-   "title": "햇반 130g 36개",
-   "price": 21780,
-   "image": "https://gdimg.gmarket.co.kr/3556370260/goodsimage",
-   "sentAt": "2026-10-08T08:09:57.588+09:00",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=3556370260"
   }
  ]
 }
