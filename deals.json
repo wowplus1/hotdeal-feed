@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-11T15:34:45.738+09:00",
+ "updated": "2026-10-11T15:35:29.767+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8790332473",
+   "mall": "쿠팡",
+   "title": "청정원 클래식 돈카츠 소스, 400g, 1개",
+   "price": 2120,
+   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/322403812409324-829da9f6-2d88-4602-bd5b-3701fe54ad47.jpg",
+   "sentAt": "2026-10-11T15:35:29.149+09:00",
+   "saving": 21,
+   "baseline": 2690,
+   "baselineNote": "331곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hKWQC05Mqq"
+  },
   {
    "uid": "2144192548",
    "mall": "토스쇼핑",
@@ -736,19 +749,6 @@
    "baselineNote": "판매글 4곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hFpcOI9PYi"
-  },
-  {
-   "uid": "1365925506",
-   "mall": "쿠팡",
-   "title": "미닛메이드 레몬에이드 탄산음료, 355ml, 24개",
-   "price": 10600,
-   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/03/20/10/8/ff0ae358-aeaa-47bd-9ecf-d984bc25fac7.jpg",
-   "sentAt": "2026-10-08T07:30:07.321+09:00",
-   "saving": 21,
-   "baseline": 13370,
-   "baselineNote": "182곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gnMUBIQLoy"
   }
  ]
 }
