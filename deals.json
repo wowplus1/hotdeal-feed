@@ -1,7 +1,16 @@
 {
- "updated": "2026-10-11T11:57:38.612+09:00",
+ "updated": "2026-10-11T14:25:24.938+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1313621273",
+   "mall": "쿠팡",
+   "title": "홈스타 락스와 세제 3X 폼 스프레이 후로랄, 500ml, 1개",
+   "price": 2400,
+   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/13929166511944-7cabbe29-5319-4548-aa71-d860c82841a1.png",
+   "sentAt": "2026-10-11T14:25:24.171+09:00",
+   "link": "https://link.coupang.com/a/hKRR6kSvwy"
+  },
   {
    "uid": "7397994153",
    "mall": "쿠팡",
@@ -740,19 +749,6 @@
    "baselineNote": "27곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gkKj7EvlF6"
-  },
-  {
-   "uid": "3521132740",
-   "mall": "쿠팡",
-   "title": "텐케 두가지맛 도라야키, 220g, 1개",
-   "price": 4560,
-   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/01/26/17/2/f3eee7a2-1b04-439d-928e-d70228b88bd1.jpg",
-   "sentAt": "2026-10-07T20:05:31.047+09:00",
-   "saving": 24,
-   "baseline": 5980,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hECyj18ILY"
   }
  ]
 }
