@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-11T14:25:24.938+09:00",
+ "updated": "2026-10-11T15:34:45.738+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2144192548",
+   "mall": "토스쇼핑",
+   "title": "오쏘몰 이뮨 멀티비타민, 14개",
+   "price": 29990,
+   "image": "https://shopping.toss.im/live/temp/2026-09-09/b817d1cc-8b6a-4e4c-8385-dc6559d4ce53.jpeg",
+   "sentAt": "2026-10-11T15:34:45.006+09:00",
+   "saving": 47,
+   "baseline": 56370,
+   "baselineNote": "판매글 32곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/NxzEqc6x"
+  },
   {
    "uid": "1313621273",
    "mall": "쿠팡",
@@ -736,19 +749,6 @@
    "baselineNote": "182곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gnMUBIQLoy"
-  },
-  {
-   "uid": "1498603198",
-   "mall": "쿠팡",
-   "title": "롯데제과 칙촉 오리지널, 168g, 4개",
-   "price": 7380,
-   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/597802743635892-fdbffafc-b581-404a-b522-0beb2b0b406a.jpg",
-   "sentAt": "2026-10-08T07:00:59.094+09:00",
-   "saving": 47,
-   "baseline": 13870,
-   "baselineNote": "27곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gkKj7EvlF6"
   }
  ]
 }
