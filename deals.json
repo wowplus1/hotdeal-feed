@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-11T18:19:55.197+09:00",
+ "updated": "2026-10-11T18:32:09.481+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7212975814",
+   "mall": "쿠팡",
+   "title": "세이코 스피릿 크로노그래프 sbtr005",
+   "price": 137220,
+   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/96bd/7225cc06dbac4428d5cdff6f60017b409b790e04b79f3522ca335eb07ac2.jpg",
+   "sentAt": "2026-10-11T18:32:08.390+09:00",
+   "saving": 31,
+   "baseline": 199990,
+   "baselineNote": "38곳 중 최저",
+   "link": "https://link.coupang.com/a/hK9vxljkcu"
+  },
   {
    "uid": "4179528553",
    "mall": "지마켓",
@@ -737,19 +749,6 @@
    "baselineNote": "판매글 18곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hFyuRayPcb"
-  },
-  {
-   "uid": "1944759597",
-   "mall": "롯데온",
-   "title": "오리온 스윙칩 까르보불닭 55g 12개",
-   "price": 9700,
-   "image": "https://contents.lotteon.com/itemimage/20261002162547/LO/27/82/48/99/11/_2/78/24/89/91/2/LO2782489911_2782489912_1.jpg",
-   "sentAt": "2026-10-08T09:19:45.714+09:00",
-   "saving": 51,
-   "baseline": 19600,
-   "baselineNote": "판매글 7곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/tjwJLra53"
   }
  ]
 }
