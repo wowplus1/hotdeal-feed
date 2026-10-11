@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-12T07:09:26.815+09:00",
+ "updated": "2026-10-12T07:13:26.844+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5250347759",
+   "mall": "쿠팡",
+   "title": "마녀공장 비피다 콤플렉스 앰플, 50ml, 2개",
+   "price": 15490,
+   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/a230d8dc-a195-4536-abc7-f62ce723fff81816402055711164393.png",
+   "sentAt": "2026-10-12T07:13:26.321+09:00",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hL1UX2H79w"
+  },
   {
    "uid": "2347167382",
    "mall": "쿠팡",
@@ -735,19 +745,6 @@
    "baselineNote": "59곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hFEist3rRA"
-  },
-  {
-   "uid": "3199763949",
-   "mall": "토스쇼핑",
-   "title": "사리원 닭곰탕, 600g, 10팩",
-   "price": 29900,
-   "image": "https://shopping.toss.im/live/taca/ai/YjU4MGU2/ZHYzRk5yak5GN094ZkY2emRTeWI4bVVzOGxJK3ROSENlbklISHN0Q01sVT0.png",
-   "sentAt": "2026-10-08T10:10:03.190+09:00",
-   "saving": 27,
-   "baseline": 40920,
-   "baselineNote": "판매글 31곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/dYPvW2P"
   }
  ]
 }
