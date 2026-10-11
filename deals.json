@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-12T07:13:26.844+09:00",
+ "updated": "2026-10-12T07:57:01.021+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1428785980",
+   "mall": "지마켓",
+   "title": "훈제 메추리알 15g 40개입",
+   "price": 19900,
+   "image": "https://gdimg.gmarket.co.kr/4717154401/goodsimage",
+   "sentAt": "2026-10-12T07:57:00.410+09:00",
+   "saving": 23,
+   "baseline": 25840,
+   "baselineNote": "판매글 6곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4717154401"
+  },
   {
    "uid": "5250347759",
    "mall": "쿠팡",
@@ -732,19 +745,6 @@
    "baselineNote": "다른 곳 최저",
    "unit": "[object Object]",
    "link": "http://app.ac/OtV7IOM33"
-  },
-  {
-   "uid": "9899525460",
-   "mall": "쿠팡",
-   "title": "롯데자일리톨 알파 오리지날, 86g, 3개",
-   "price": 6060,
-   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/0bee85b0-5531-4323-87d5-fef2c35473d910677828774196760810.png",
-   "sentAt": "2026-10-08T10:57:09.312+09:00",
-   "saving": 52,
-   "baseline": 12570,
-   "baselineNote": "59곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hFEist3rRA"
   }
  ]
 }
