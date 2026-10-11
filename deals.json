@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-11T18:32:09.481+09:00",
+ "updated": "2026-10-11T18:46:32.141+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5005151535",
+   "mall": "롯데온",
+   "title": "아카데미 남성 드라이 핏 반팔 축구 탑 HJ3792-104",
+   "price": 18400,
+   "image": "https://contents.lotteon.com/itemimage/20261003210834/LE/13/30/33/39/25/bndl_img/LE1330333925_1.jpg",
+   "sentAt": "2026-10-11T18:46:31.439+09:00",
+   "saving": 26,
+   "baseline": 25010,
+   "baselineNote": "판매글 40곳 최저가",
+   "link": "http://app.ac/J3M0tjJ53"
+  },
   {
    "uid": "7212975814",
    "mall": "쿠팡",
@@ -736,19 +748,6 @@
    "baselineNote": "판매글 4곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/Xqnhgg283"
-  },
-  {
-   "uid": "5935180176",
-   "mall": "쿠팡",
-   "title": "안성탕면 125g, 40개",
-   "price": 20460,
-   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/74120486903669-b159c686-148e-4f79-9ffe-f631aeefeded.jpg",
-   "sentAt": "2026-10-08T09:36:03.904+09:00",
-   "saving": 41,
-   "baseline": 34740,
-   "baselineNote": "판매글 18곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hFyuRayPcb"
   }
  ]
 }
