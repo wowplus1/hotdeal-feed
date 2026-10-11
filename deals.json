@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-11T15:35:29.767+09:00",
+ "updated": "2026-10-11T17:00:41.478+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4930572184",
+   "mall": "롯데온",
+   "title": "남성 NEW 원단 간절기 75D 니트본딩 아웃도어 팬츠 MVP6332",
+   "price": 9490,
+   "image": "https://contents.lotteon.com/itemimage/20261009210607/LO/20/56/66/95/38/bndl_img/LO2056669538_1.jpg",
+   "sentAt": "2026-10-11T17:00:40.743+09:00",
+   "saving": 34,
+   "baseline": 14400,
+   "baselineNote": "판매글 26곳 최저가",
+   "link": "http://app.ac/cECo3yS83"
+  },
   {
    "uid": "8790332473",
    "mall": "쿠팡",
@@ -736,19 +748,6 @@
    "sentAt": "2026-10-08T08:09:57.588+09:00",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=3556370260"
-  },
-  {
-   "uid": "4045113269",
-   "mall": "쿠팡",
-   "title": "오레오 초콜릿 샌드위치 쿠키 화이트 크림, 1kg, 2개",
-   "price": 15570,
-   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/240a73af-52dd-46be-aab0-be090b1f1dea18122730977407297004.png",
-   "sentAt": "2026-10-08T08:07:17.204+09:00",
-   "saving": 38,
-   "baseline": 24920,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hFpcOI9PYi"
   }
  ]
 }
