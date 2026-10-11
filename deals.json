@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-11T07:55:09.154+09:00",
+ "updated": "2026-10-11T09:14:54.627+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1057651699",
+   "mall": "롯데온",
+   "title": "헤드앤숄더 샴푸/트리트먼트 850,800ml 3개 + 미니샴푸 2개증정",
+   "price": 24860,
+   "image": "https://contents.lotteon.com/itemimage/20260911104018/LO/26/75/23/19/12/bndl_img/LO2675231912_1.jpg",
+   "sentAt": "2026-10-11T09:14:53.868+09:00",
+   "saving": 46,
+   "baseline": 46040,
+   "baselineNote": "판매글 5곳 최저가",
+   "link": "http://app.ac/ltVR1TM13"
+  },
   {
    "uid": "2008434406",
    "mall": "토스쇼핑",
@@ -740,18 +752,6 @@
    "baseline": 93320,
    "baselineNote": "판매글 10곳 최저가",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4871773313"
-  },
-  {
-   "uid": "6544498771",
-   "mall": "롯데온",
-   "title": "소프트마인드 뽑아쓰는 키친타월 100매 9개입",
-   "price": 5880,
-   "image": "https://contents.lotteon.com/itemimage/20261001153734/LO/25/59/06/73/08/_2/55/90/67/30/9/LO2559067308_2559067309_6.jpg",
-   "sentAt": "2026-10-07T18:24:58.256+09:00",
-   "saving": 25,
-   "baseline": 7820,
-   "baselineNote": "판매글 12곳 최저가",
-   "link": "http://app.ac/Q3MH1FJ53"
   }
  ]
 }
