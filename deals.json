@@ -1,7 +1,29 @@
 {
- "updated": "2026-10-12T09:39:40.618+09:00",
+ "updated": "2026-10-12T10:03:09.334+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7188233989",
+   "mall": "쿠팡",
+   "title": "마이비데 키즈 화장실용 물티슈 캡형, 40매, 9개",
+   "price": 9030,
+   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/bd6f/9ab7097a5e836828032d9c5f9f9282e66b1c6384cd7143911b7858e2e6fa.PNG",
+   "sentAt": "2026-10-12T10:03:08.560+09:00",
+   "saving": 37,
+   "baseline": 14380,
+   "baselineNote": "407곳 중 최저 · 무료배송",
+   "link": "https://link.coupang.com/a/gZS6qgBcqq"
+  },
+  {
+   "uid": "4376478051",
+   "mall": "쿠팡",
+   "title": "코코도르 라지자 캔들 510g*1개",
+   "price": 6050,
+   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/1681/2974f3d67dde139315a006893553405fac5abe279a4b39713a50e9f701c3.jpg",
+   "sentAt": "2026-10-12T10:03:08.560+09:00",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hMd1aJqYpM"
+  },
   {
    "uid": "2476474259",
    "mall": "쿠팡",
@@ -720,31 +742,6 @@
    "baselineNote": "판매글 20곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hFIMTGcaaW"
-  },
-  {
-   "uid": "7384871946",
-   "mall": "롯데온",
-   "title": "베키아에누보 치아바타 샌드위치 3종 9개 세트",
-   "price": 21390,
-   "image": "https://contents.lotteon.com/itemimage/20260814130527/LO/26/38/13/43/91/_2/63/81/34/39/8/LO2638134391_2638134398_1.jpg",
-   "sentAt": "2026-10-08T11:32:20.603+09:00",
-   "saving": 29,
-   "baseline": 30060,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/Tjwe8va43"
-  },
-  {
-   "uid": "6727991328",
-   "mall": "쿠팡",
-   "title": "팬틴 케라틴 극손상케어 트리트먼트 220ml 3p + 샴푸 90ml 세트, 1개",
-   "price": 10260,
-   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/848d/0f65bd5f3e6499bab057f01268f64e2aa576b64b2a1e32c61f75b26ea053.jpg",
-   "sentAt": "2026-10-08T11:15:37.815+09:00",
-   "saving": 38,
-   "baseline": 16550,
-   "baselineNote": "판매글 13곳 최저가",
-   "link": "https://link.coupang.com/a/hFFCcnluPk"
   }
  ]
 }
