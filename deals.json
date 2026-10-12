@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-12T11:40:57.761+09:00",
+ "updated": "2026-10-12T16:06:28.689+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2732712086",
+   "mall": "쿠팡",
+   "title": "롯데자일리톨 알파 오리지날, 86g, 2개",
+   "price": 4460,
+   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/4720770996951581-897025bc-ed20-4d44-8b92-44b0651b1199.jpg",
+   "sentAt": "2026-10-12T16:06:27.951+09:00",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/g3FsqDPej6"
+  },
   {
    "uid": "7195691680",
    "mall": "쿠팡",
@@ -726,18 +736,6 @@
    "sentAt": "2026-10-08T17:36:43.233+09:00",
    "unit": "[object Object]",
    "link": "http://app.ac/UAGrCF523"
-  },
-  {
-   "uid": "1344719988",
-   "mall": "토스쇼핑",
-   "title": "일양약품 PDRN 톤업 선크림, 50ml, 1개",
-   "price": 5990,
-   "image": "https://shopping.toss.im/live/temp/2026-08-27/8e15c5c2-14c2-4aef-af99-b9a341a82a33.jpeg",
-   "sentAt": "2026-10-08T16:06:16.967+09:00",
-   "saving": 66,
-   "baseline": 17840,
-   "baselineNote": "판매글 19곳 최저가",
-   "link": "https://toss.shopping/_m/P28k54T4"
   }
  ]
 }
