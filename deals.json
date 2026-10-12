@@ -1,7 +1,16 @@
 {
- "updated": "2026-10-12T10:30:07.487+09:00",
+ "updated": "2026-10-12T10:53:25.024+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7515718357",
+   "mall": "쿠팡",
+   "title": "스탠리 퀜처 H2.0 플로우 스테이트 텀블러 591ml*1개",
+   "price": 24940,
+   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2624531237438616-a6a1e629-bbbe-40eb-af1e-dfa9c84d1779.jpg",
+   "sentAt": "2026-10-12T10:53:23.872+09:00",
+   "link": "https://link.coupang.com/a/hMhERpcF1U"
+  },
   {
    "uid": "7009779151",
    "mall": "롯데온",
@@ -729,19 +738,6 @@
    "baselineNote": "판매글 3곳 최저가",
    "unit": "[object Object]",
    "link": "https://toss.shopping/_m/nN5rO6Di"
-  },
-  {
-   "uid": "3453694899",
-   "mall": "11번가",
-   "title": "배상면주가 원별막걸리 4.5도 저도주 750ml x 5입",
-   "price": 9880,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/5/5/5/7/5/5/fesYz/9490555755_240024379.webp",
-   "sentAt": "2026-10-08T14:04:54.051+09:00",
-   "saving": 21,
-   "baseline": 12500,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/UjwJwFa03"
   }
  ]
 }
