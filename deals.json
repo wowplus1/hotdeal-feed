@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-12T11:01:38.620+09:00",
+ "updated": "2026-10-12T11:40:57.761+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7195691680",
+   "mall": "쿠팡",
+   "title": "청정원 프리미엄 굴소스, 500g, 2개",
+   "price": 2970,
+   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1466706370788623-04645b79-ecd2-4a4d-983b-9c9adbb7991a.jpg",
+   "sentAt": "2026-10-12T11:40:56.846+09:00",
+   "saving": 55,
+   "baseline": 6630,
+   "baselineNote": "212곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/g9oBdy4THU"
+  },
   {
    "uid": "8890609433",
    "mall": "지마켓",
@@ -725,19 +738,6 @@
    "baseline": 17840,
    "baselineNote": "판매글 19곳 최저가",
    "link": "https://toss.shopping/_m/P28k54T4"
-  },
-  {
-   "uid": "2240883506",
-   "mall": "롯데온",
-   "title": "백 진미채 1kg 국내가공",
-   "price": 16970,
-   "image": "https://contents.lotteon.com/itemimage/20260819102212/LO/26/64/24/73/43/_2/66/42/47/34/4/LO2664247343_2664247344_1.jpg",
-   "sentAt": "2026-10-08T15:47:00.928+09:00",
-   "saving": 23,
-   "baseline": 21945,
-   "baselineNote": "판매글 22곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/P3MKkyJ83"
   }
  ]
 }
