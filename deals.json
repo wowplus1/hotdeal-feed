@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-12T16:06:28.689+09:00",
+ "updated": "2026-10-12T16:12:00.533+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3832715436",
+   "mall": "롯데온",
+   "title": "국내산 계란 특란 30구 무정란",
+   "price": 8590,
+   "image": "https://contents.lotteon.com/itemimage/20261008111627/LO/27/87/46/37/84/_2/78/74/63/78/5/LO2787463784_2787463785_1.jpg",
+   "sentAt": "2026-10-12T16:11:59.944+09:00",
+   "saving": 20,
+   "baseline": 10800,
+   "baselineNote": "268곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "http://app.ac/5jw7Zda53"
+  },
   {
    "uid": "2732712086",
    "mall": "쿠팡",
@@ -726,16 +739,6 @@
    "baselineNote": "판매글 21곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/rAGovf553"
-  },
-  {
-   "uid": "5479804863",
-   "mall": "11번가",
-   "title": "오리온 크림치즈 샌드 나 77g, 10개",
-   "price": 8890,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9167438816/B.webp?27694510",
-   "sentAt": "2026-10-08T17:36:43.233+09:00",
-   "unit": "[object Object]",
-   "link": "http://app.ac/UAGrCF523"
   }
  ]
 }
