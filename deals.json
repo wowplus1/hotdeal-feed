@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-12T21:49:44.652+09:00",
+ "updated": "2026-10-13T07:19:05.297+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1680867102",
+   "mall": "쿠팡",
+   "title": "가그린 제로 구강청결제, 1.2L, 2개",
+   "price": 9300,
+   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2412923165467698-e1935ae5-ac40-4af8-8861-7f5e30dd41a4.jpg",
+   "sentAt": "2026-10-13T07:19:04.396+09:00",
+   "saving": 63,
+   "baseline": 25390,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gkKvlsxQHs"
+  },
   {
    "uid": "1634135907",
    "mall": "지마켓",
@@ -726,19 +739,6 @@
    "baselineNote": "275곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gdKXMXeYx2"
-  },
-  {
-   "uid": "9791759386",
-   "mall": "쿠팡",
-   "title": "자연은 더말린 제로 애플망고, 500ml, 20개",
-   "price": 12320,
-   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/0f5f/16b21bab689709335b3ead4682ff92ac2a1f94056861c18801cd748abea4.jpg",
-   "sentAt": "2026-10-09T07:59:13.945+09:00",
-   "saving": 22,
-   "baseline": 15710,
-   "baselineNote": "144곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/f9zoPwPztk"
   }
  ]
 }
