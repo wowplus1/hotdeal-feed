@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-12T17:15:58.211+09:00",
+ "updated": "2026-10-12T17:20:48.080+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9210204930",
+   "mall": "쿠팡",
+   "title": "하남쭈꾸미 보통 매운맛 , 350g, 1개",
+   "price": 6490,
+   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/8500347333226900-ef4a589d-b987-4a35-b5be-d230839bea1d.jpg",
+   "sentAt": "2026-10-12T17:20:47.558+09:00",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hMJjVEXjBA"
+  },
   {
    "uid": "5322825320",
    "mall": "토스쇼핑",
@@ -726,19 +736,6 @@
    "sentAt": "2026-10-08T19:50:05.952+09:00",
    "unit": "[object Object]",
    "link": "http://app.ac/ibp01Zl63"
-  },
-  {
-   "uid": "8951626399",
-   "mall": "11번가",
-   "title": "국내산 머스크 메론 2kg 대과 2수 특품",
-   "price": 14750,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/pd/v2/5/8/2/2/0/5/KNHYi/9467582205_B.webp",
-   "sentAt": "2026-10-08T19:09:50.625+09:00",
-   "saving": 31,
-   "baseline": 21280,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/iECOvLS43"
   }
  ]
 }
