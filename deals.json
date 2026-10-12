@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-12T10:03:09.334+09:00",
+ "updated": "2026-10-12T10:11:04.632+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8910244617",
+   "mall": "토스쇼핑",
+   "title": "썬키스트 코코피치, 300ml, 20개",
+   "price": 9600,
+   "image": "https://shopping.toss.im/live/temp/2026-04-28/6cadc1c2-55e8-429d-8816-ca5477eccb31.jpeg",
+   "sentAt": "2026-10-12T10:11:04.064+09:00",
+   "saving": 61,
+   "baseline": 24920,
+   "baselineNote": "판매글 9곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://toss.im/_m/tlAigUFD"
+  },
   {
    "uid": "7188233989",
    "mall": "쿠팡",
@@ -729,19 +742,6 @@
    "baselineNote": "판매글 25곳 최저가",
    "unit": "[object Object]",
    "link": "https://toss.shopping/_m/N3cbcwYv"
-  },
-  {
-   "uid": "7477985608",
-   "mall": "쿠팡",
-   "title": "청정원 아라비아따 스파게티 소스, 600g, 2개",
-   "price": 6670,
-   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/26600563167487-fddfc17e-8bd0-4f96-ac4c-4dc67ca0bc0b.jpg",
-   "sentAt": "2026-10-08T11:59:49.931+09:00",
-   "saving": 35,
-   "baseline": 10270,
-   "baselineNote": "판매글 20곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hFIMTGcaaW"
   }
  ]
 }
