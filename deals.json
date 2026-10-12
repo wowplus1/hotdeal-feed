@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-12T10:53:25.024+09:00",
+ "updated": "2026-10-12T11:01:38.620+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8890609433",
+   "mall": "지마켓",
+   "title": "비비고 육개장 500g 6개",
+   "price": 13900,
+   "image": "https://gdimg.gmarket.co.kr/4865764095/goodsimage",
+   "sentAt": "2026-10-12T11:01:38.067+09:00",
+   "saving": 21,
+   "baseline": 17600,
+   "baselineNote": "517곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4865764095"
+  },
   {
    "uid": "7515718357",
    "mall": "쿠팡",
@@ -725,19 +738,6 @@
    "baselineNote": "판매글 22곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/P3MKkyJ83"
-  },
-  {
-   "uid": "6854744051",
-   "mall": "토스쇼핑",
-   "title": "애슐리 눈꽃치즈 순살 안동식 찜닭, 2인분, 772g, 1개",
-   "price": 8900,
-   "image": "https://shopping.toss.im/live/taca/ai/ZTRlNzll/SHc1YkhmWVovRG5ZZUxNSGFEekUrMFQ1eUxDYThPNTY3NU16RVJBZjRYOD0.png",
-   "sentAt": "2026-10-08T14:10:47.171+09:00",
-   "saving": 27,
-   "baseline": 12220,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/nN5rO6Di"
   }
  ]
 }
