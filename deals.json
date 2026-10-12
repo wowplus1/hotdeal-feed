@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-12T17:20:48.080+09:00",
+ "updated": "2026-10-12T17:52:32.088+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7734239522",
+   "mall": "쿠팡",
+   "title": "햇반 흑미밥 작은공기, 130g, 6개",
+   "price": 3910,
+   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/23975530471788-63e1c513-5de4-4bc3-95a5-727cddc3cde9.png",
+   "sentAt": "2026-10-12T17:52:31.328+09:00",
+   "saving": 21,
+   "baseline": 4920,
+   "baselineNote": "81곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hMK8t6YaMC"
+  },
   {
    "uid": "9210204930",
    "mall": "쿠팡",
@@ -726,16 +739,6 @@
    "baselineNote": "판매글 4곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gK2hKKhp3Q"
-  },
-  {
-   "uid": "5555376183",
-   "mall": "롯데온",
-   "title": "무주 반딧불 26년 햇 사과로 만든 사과즙 착즙 통사과즙 120ml 30봉 NFC착즙",
-   "price": 13610,
-   "image": "https://contents.lotteon.com/itemimage/20260914161749/LO/23/78/32/77/13/_2/37/83/27/71/4/LO2378327713_2378327714_1.jpg",
-   "sentAt": "2026-10-08T19:50:05.952+09:00",
-   "unit": "[object Object]",
-   "link": "http://app.ac/ibp01Zl63"
   }
  ]
 }
