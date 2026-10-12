@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-12T21:31:52.354+09:00",
+ "updated": "2026-10-12T21:49:44.652+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1634135907",
+   "mall": "지마켓",
+   "title": "맛군밤 60g x20개",
+   "price": 19900,
+   "image": "https://gdimg.gmarket.co.kr/4870741680/goodsimage",
+   "sentAt": "2026-10-12T21:49:44.096+09:00",
+   "saving": 33,
+   "baseline": 29800,
+   "baselineNote": "199곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4870741680"
+  },
   {
    "uid": "3592063100",
    "mall": "지마켓",
@@ -726,19 +739,6 @@
    "baselineNote": "144곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/f9zoPwPztk"
-  },
-  {
-   "uid": "2407844649",
-   "mall": "쿠팡",
-   "title": "랩신 V3 항균 스프레이 살균제, 410ml, 2개",
-   "price": 10930,
-   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/487470401213911-94444051-d6be-44a1-9651-ca56fa43a56a.jpg",
-   "sentAt": "2026-10-09T07:27:46.875+09:00",
-   "saving": 23,
-   "baseline": 14279,
-   "baselineNote": "35곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hG4dVGpuIm"
   }
  ]
 }
