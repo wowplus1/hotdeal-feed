@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-12T16:12:00.533+09:00",
+ "updated": "2026-10-12T17:15:58.211+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5322825320",
+   "mall": "토스쇼핑",
+   "title": "제주 극조생 감귤, 대과 L-2L, 5kg, 1박스",
+   "price": 7900,
+   "image": "https://shopping.toss.im/live/temp/2026-09-11/9e39b5c9-d743-4595-8fb4-2b8c9457f407.jpeg",
+   "sentAt": "2026-10-12T17:15:57.428+09:00",
+   "saving": 29,
+   "baseline": 11180,
+   "baselineNote": "판매글 21곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/3lPJZ0ys"
+  },
   {
    "uid": "3832715436",
    "mall": "롯데온",
@@ -726,19 +739,6 @@
    "baselineNote": "판매글 3곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/iECOvLS43"
-  },
-  {
-   "uid": "1299414582",
-   "mall": "11번가",
-   "title": "국내산 나주 신고배 5kg 8-9과 실속 가정용",
-   "price": 10180,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/pd/v2/9/4/0/1/6/1/cyhTn/9575940161_B.webp",
-   "sentAt": "2026-10-08T18:05:56.175+09:00",
-   "saving": 31,
-   "baseline": 14690,
-   "baselineNote": "판매글 21곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/rAGovf553"
   }
  ]
 }
