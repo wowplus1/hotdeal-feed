@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-13T20:30:10.954+09:00",
+ "updated": "2026-10-14T07:07:03.219+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1201507668",
+   "mall": "지마켓",
+   "title": "광동 헛개차 1.5L x12",
+   "price": 13100,
+   "image": "https://gdimg.gmarket.co.kr/3256334877/goodsimage",
+   "sentAt": "2026-10-14T07:07:02.483+09:00",
+   "saving": 44,
+   "baseline": 23420,
+   "baselineNote": "판매글 4곳 최저가",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=3256334877"
+  },
   {
    "uid": "9615080025",
    "mall": "지마켓",
@@ -724,19 +736,6 @@
    "baselineNote": "판매글 6곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/9bpoQ3l93"
-  },
-  {
-   "uid": "1753560403",
-   "mall": "쿠팡",
-   "title": "갈아만든배 저칼로리, 340ml, 24개",
-   "price": 10240,
-   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/ce61/c11830fa6c09174f2361a1296ab4c6540ad01e6a88674f10ead7c902d6dc.jpg",
-   "sentAt": "2026-10-10T08:34:54.409+09:00",
-   "saving": 23,
-   "baseline": 13270,
-   "baselineNote": "303곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gkKv1IM2o0"
   }
  ]
 }
