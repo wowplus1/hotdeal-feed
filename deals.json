@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-13T16:48:11.255+09:00",
+ "updated": "2026-10-13T16:57:04.393+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3335009893",
+   "mall": "롯데온",
+   "title": "두다x강다니엘 에디션 베베앙 물티슈 캡형 75평량 70매 총20팩",
+   "price": 16770,
+   "image": "https://contents.lotteon.com/itemimage/20260911144103/LO/25/54/81/24/84/_2/55/48/12/48/5/LO2554812484_2554812485_1.jpg",
+   "sentAt": "2026-10-13T16:57:03.616+09:00",
+   "saving": 20,
+   "baseline": 20990,
+   "baselineNote": "판매글 5곳 최저가",
+   "link": "http://app.ac/lECV8bS63"
+  },
   {
    "uid": "4584590941",
    "mall": "쿠팡",
@@ -727,15 +739,6 @@
    "baselineNote": "195곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hIHqRgO05I"
-  },
-  {
-   "uid": "2494229029",
-   "mall": "지마켓",
-   "title": "하림 양푼김치찌개 8입+훌라면 4입+닭칼국수 4입",
-   "price": 13490,
-   "image": "https://gdimg.gmarket.co.kr/4672937495/goodsimage",
-   "sentAt": "2026-10-09T21:45:11.111+09:00",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4672937495"
   }
  ]
 }
