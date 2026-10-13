@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-13T07:19:05.297+09:00",
+ "updated": "2026-10-13T09:32:09.224+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1009770997",
+   "mall": "롯데온",
+   "title": "츄파춥스 팝아트틴 150입 + 한정판 블루투스 스피커",
+   "price": 18900,
+   "image": "https://contents.lotteon.com/itemimage/20261012141037/LO/27/91/38/24/27/_2/79/13/82/44/4/LO2791382427_2791382444_1.jpg",
+   "sentAt": "2026-10-13T09:32:08.452+09:00",
+   "saving": 38,
+   "baseline": 30630,
+   "baselineNote": "판매글 19곳 최저가",
+   "link": "http://app.ac/63MoVmJ23"
+  },
   {
    "uid": "1680867102",
    "mall": "쿠팡",
@@ -726,19 +738,6 @@
    "baselineNote": "판매글 11곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hHgChcFfBA"
-  },
-  {
-   "uid": "6763400626",
-   "mall": "쿠팡",
-   "title": "해태htb 갈배사이다 제로, 355ml, 24개",
-   "price": 10000,
-   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/image_audit/prod/ddb78509-3d3c-4de5-9cbd-a2d3c9aec24a_composition_base_0.png",
-   "sentAt": "2026-10-09T08:55:43.465+09:00",
-   "saving": 23,
-   "baseline": 13030,
-   "baselineNote": "275곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gdKXMXeYx2"
   }
  ]
 }
