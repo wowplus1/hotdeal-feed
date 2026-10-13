@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-14T07:42:11.208+09:00",
+ "updated": "2026-10-14T08:04:52.248+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1528163346",
+   "mall": "쿠팡",
+   "title": "웅진 생차 녹차, 500ml, 20개",
+   "price": 10650,
+   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/01/07/11/1/fa12adfe-8433-43ef-adeb-eda4d40104a9.jpg",
+   "sentAt": "2026-10-14T08:04:51.544+09:00",
+   "saving": 37,
+   "baseline": 16900,
+   "baselineNote": "67곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gOofhpwk6S"
+  },
   {
    "uid": "4061195109",
    "mall": "쿠팡",
@@ -719,19 +732,6 @@
    "baselineNote": "판매글 28곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/A3MJ8JJ33"
-  },
-  {
-   "uid": "1842981286",
-   "mall": "쿠팡",
-   "title": "배대감 저당 저칼로리 알룰로스 헤이즐넛시럽 530g 1개",
-   "price": 4190,
-   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/02/05/10/1/8438af7b-5ffb-46ea-9c1c-57bd603b258b.jpg",
-   "sentAt": "2026-10-10T15:21:41.189+09:00",
-   "saving": 53,
-   "baseline": 8920,
-   "baselineNote": "판매글 10곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hJg1MxBQ2S"
   }
  ]
 }
