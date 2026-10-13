@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-13T09:32:09.224+09:00",
+ "updated": "2026-10-13T10:03:27.209+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1502583591",
+   "mall": "쿠팡",
+   "title": "스케쳐스 남녀공용 스포츠 백팩 L320U196",
+   "price": 11850,
+   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/93d4/8b30b5a52728bd0956bd53a7697fafe2925548c63bdcc688ecd18461f65a.png",
+   "sentAt": "2026-10-13T10:03:26.566+09:00",
+   "saving": 63,
+   "baseline": 31640,
+   "baselineNote": "판매글 16곳 최저가",
+   "link": "https://link.coupang.com/a/hNSXyTb7am"
+  },
   {
    "uid": "1009770997",
    "mall": "롯데온",
@@ -725,19 +737,6 @@
    "sentAt": "2026-10-09T10:35:02.771+09:00",
    "unit": "[object Object]",
    "link": "https://toss.shopping/_m/1W6KVpne"
-  },
-  {
-   "uid": "7079035609",
-   "mall": "쿠팡",
-   "title": "배대감 저당 저칼로리 알룰로스 바닐라시럽, 530g, 1개",
-   "price": 4190,
-   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/02/05/10/3/288a83c2-59aa-4f81-87b3-5719ba1f14b6.jpg",
-   "sentAt": "2026-10-09T10:20:43.325+09:00",
-   "saving": 53,
-   "baseline": 8920,
-   "baselineNote": "판매글 11곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hHgChcFfBA"
   }
  ]
 }
