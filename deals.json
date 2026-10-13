@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-14T08:04:52.248+09:00",
+ "updated": "2026-10-14T08:11:36.354+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1014225167",
+   "mall": "쿠팡",
+   "title": "조지아 블랙 커피 600ml 24개",
+   "price": 21360,
+   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/145866709860561-892b023b-22f7-4d17-adb4-34e9315630c3.jpg",
+   "sentAt": "2026-10-14T08:11:35.626+09:00",
+   "saving": 31,
+   "baseline": 30980,
+   "baselineNote": "판매글 14곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gYDSauYN6O"
+  },
   {
    "uid": "1528163346",
    "mall": "쿠팡",
@@ -719,19 +732,6 @@
    "baselineNote": "판매글 8곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hJikNXUOLQ"
-  },
-  {
-   "uid": "2011581570",
-   "mall": "11번가",
-   "title": "맥널티 병커피 50g 3개 골라담기",
-   "price": 11900,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/1/4/4/0/2/1/TGgDY/8835144021_240917592.webp",
-   "sentAt": "2026-10-10T15:22:28.415+09:00",
-   "saving": 25,
-   "baseline": 15900,
-   "baselineNote": "판매글 28곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/A3MJ8JJ33"
   }
  ]
 }
