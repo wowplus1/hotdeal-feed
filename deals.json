@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-14T07:31:28.546+09:00",
+ "updated": "2026-10-14T07:42:11.208+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4061195109",
+   "mall": "쿠팡",
+   "title": "이자녹스 로얄 골든 스네일 크림,l 60ml*1개",
+   "price": 8390,
+   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/209968185863426-ca35362a-23ec-4a05-bf2e-a988db49751e.jpg",
+   "sentAt": "2026-10-14T07:42:10.643+09:00",
+   "saving": 55,
+   "baseline": 18710,
+   "baselineNote": "10곳 중 최저 · 무료배송",
+   "link": "https://link.coupang.com/a/hPnM6VcqaG"
+  },
   {
    "uid": "9218488334",
    "mall": "쿠팡",
@@ -720,19 +732,6 @@
    "baselineNote": "판매글 10곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hJg1MxBQ2S"
-  },
-  {
-   "uid": "8379824822",
-   "mall": "쿠팡",
-   "title": "샤워메이트 바디워시 유자, 1.2kg, 2개",
-   "price": 6710,
-   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/9054375210891-843bb793-04fa-47b3-a1e3-b1b8fe26f74f.jpg",
-   "sentAt": "2026-10-10T15:00:04.844+09:00",
-   "saving": 33,
-   "baseline": 10070,
-   "baselineNote": "37곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gMFKlnp4pg"
   }
  ]
 }
