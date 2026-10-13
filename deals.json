@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-13T18:02:39.372+09:00",
+ "updated": "2026-10-13T20:30:10.954+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9615080025",
+   "mall": "지마켓",
+   "title": "크리넥스 키친타월 3겹 120매 12롤2팩",
+   "price": 18870,
+   "image": "https://gdimg.gmarket.co.kr/2122923219/goodsimage",
+   "sentAt": "2026-10-13T20:30:10.230+09:00",
+   "saving": 40,
+   "baseline": 31590,
+   "baselineNote": "판매글 11곳 최저가",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2122923219"
+  },
   {
    "uid": "4487880986",
    "mall": "쿠팡",
@@ -725,19 +737,6 @@
    "baselineNote": "303곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gkKv1IM2o0"
-  },
-  {
-   "uid": "5861973031",
-   "mall": "쿠팡",
-   "title": "오리온 진한 디저트 케익 오뜨 치즈, 156g, 4개",
-   "price": 8200,
-   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/8def/d3f4fb5a01e01e650bc12e2d8edc15db86c27029797ce6af5e7589fda258.jpg",
-   "sentAt": "2026-10-10T07:14:53.373+09:00",
-   "saving": 44,
-   "baseline": 14530,
-   "baselineNote": "파는 곳이 여기 하나",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hIIeAtEGsK"
   }
  ]
 }
