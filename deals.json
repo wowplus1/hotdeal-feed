@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-13T11:30:12.490+09:00",
+ "updated": "2026-10-13T11:44:52.283+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9979892399",
+   "mall": "쿠팡",
+   "title": "전기 충전식 휴대용 손난로 보조배터리 5000mAh",
+   "price": 8380,
+   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2024/11/18/15/5/c29fab8c-de20-4387-bdf8-d5e0a6e6cb69.jpg",
+   "sentAt": "2026-10-13T11:44:51.362+09:00",
+   "saving": 56,
+   "baseline": 18840,
+   "baselineNote": "판매글 6곳 최저가",
+   "link": "https://link.coupang.com/a/hN0eTAnL5g"
+  },
   {
    "uid": "8139215618",
    "mall": "11번가",
@@ -729,19 +741,6 @@
    "baselineNote": "판매글 9곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/KECJLPS23"
-  },
-  {
-   "uid": "6341393487",
-   "mall": "토스쇼핑",
-   "title": "푸드앳홈 궁채 알마늘 장아찌, 1kg, 1팩",
-   "price": 5900,
-   "image": "https://shopping.toss.im/live/taca/ai/NmRmNWQ5/TGFRMlVxZHpuSndoNmM5SU1HWkxISjRrMDV2MHRHVVBXajRYVmlqY0NXST0.png",
-   "sentAt": "2026-10-09T11:56:17.958+09:00",
-   "saving": 22,
-   "baseline": 7560,
-   "baselineNote": "23곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://toss.im/_m/X3Z237tw"
   }
  ]
 }
