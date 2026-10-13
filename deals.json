@@ -1,7 +1,16 @@
 {
- "updated": "2026-10-13T15:51:33.479+09:00",
+ "updated": "2026-10-13T16:48:11.255+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4584590941",
+   "mall": "쿠팡",
+   "title": "빌리프 크리미 클렌징 폼 모이스트, 160ml, 1개",
+   "price": 7910,
+   "image": "https://t3a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/329567515940837-85ba33fa-fec4-4765-94b9-6f17a91a14e5.jpg",
+   "sentAt": "2026-10-13T16:48:10.636+09:00",
+   "link": "https://link.coupang.com/a/hOlUcKKFNY"
+  },
   {
    "uid": "1372023556",
    "mall": "쿠팡",
@@ -727,19 +736,6 @@
    "image": "https://gdimg.gmarket.co.kr/4672937495/goodsimage",
    "sentAt": "2026-10-09T21:45:11.111+09:00",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4672937495"
-  },
-  {
-   "uid": "7489790095",
-   "mall": "쿠팡",
-   "title": "오타후쿠 오코노미야끼 만들기 세트 2인분, 120g, 1개",
-   "price": 4780,
-   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/07/30/16/9/848361c2-1261-4a1d-9a1a-11c1a9870241.jpg",
-   "sentAt": "2026-10-09T16:05:20.931+09:00",
-   "saving": 57,
-   "baseline": 11070,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hHFdj759ae"
   }
  ]
 }
