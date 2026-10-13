@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-14T07:07:03.219+09:00",
+ "updated": "2026-10-14T07:08:07.010+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9878273167",
+   "mall": "쿠팡",
+   "title": "하늘보리 에코 무라벨 500ml 20개",
+   "price": 12240,
+   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/381711721875626-f63d3efa-506b-42b8-9515-f19e338b5d79.jpg",
+   "sentAt": "2026-10-14T07:08:06.524+09:00",
+   "saving": 36,
+   "baseline": 18990,
+   "baselineNote": "판매글 25곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gF4DJc9Foi"
+  },
   {
    "uid": "1201507668",
    "mall": "지마켓",
@@ -723,19 +736,6 @@
    "baselineNote": "판매글 10곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hI2OfImtBk"
-  },
-  {
-   "uid": "4370179282",
-   "mall": "롯데온",
-   "title": "랩신 항균 스프레이 용기 410ml*2개",
-   "price": 14070,
-   "image": "https://contents.lotteon.com/itemimage/20260713090036/LO/26/42/96/68/68/_2/64/29/66/86/9/LO2642966868_2642966869_5.png",
-   "sentAt": "2026-10-10T09:10:19.689+09:00",
-   "saving": 23,
-   "baseline": 18160,
-   "baselineNote": "판매글 6곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/9bpoQ3l93"
   }
  ]
 }
