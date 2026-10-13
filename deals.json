@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-13T11:20:26.759+09:00",
+ "updated": "2026-10-13T11:30:12.490+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8139215618",
+   "mall": "11번가",
+   "title": "내셔널지오그래픽 고체 탈취 방향제 425g",
+   "price": 19600,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9277174966/B.webp?607066893",
+   "sentAt": "2026-10-13T11:30:11.918+09:00",
+   "saving": 27,
+   "baseline": 27000,
+   "baselineNote": "판매글 13곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/MtVuQUM43"
+  },
   {
    "uid": "5021978459",
    "mall": "토스쇼핑",
@@ -729,18 +742,6 @@
    "baselineNote": "23곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://toss.im/_m/X3Z237tw"
-  },
-  {
-   "uid": "3421888787",
-   "mall": "롯데온",
-   "title": "고품질 특품 정량 로메인청상추 1kg/2kg",
-   "price": 5980,
-   "image": "https://contents.lotteon.com/itemimage/20260929111612/LO/25/79/65/87/49/_2/57/96/58/75/0/LO2579658749_2579658750_1.jpg",
-   "sentAt": "2026-10-09T11:15:07.194+09:00",
-   "saving": 24,
-   "baseline": 7910,
-   "baselineNote": "판매글 5곳 최저가",
-   "link": "http://app.ac/eAGzYZ563"
   }
  ]
 }
