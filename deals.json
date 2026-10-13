@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-14T07:08:07.010+09:00",
+ "updated": "2026-10-14T07:21:23.082+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1447465414",
+   "mall": "쿠팡",
+   "title": "풀무원 로스팅 짜장 파기름 라면 105g, 24개",
+   "price": 13700,
+   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/22e0/ec41c955422771a536ba75dfe16164e1a2aab722f205d82dcf6f68e63fbf.JPG",
+   "sentAt": "2026-10-14T07:21:22.537+09:00",
+   "saving": 22,
+   "baseline": 17480,
+   "baselineNote": "45곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hPmkh17Zvg"
+  },
   {
    "uid": "9878273167",
    "mall": "쿠팡",
@@ -723,19 +736,6 @@
    "baselineNote": "판매글 23곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hJcBZehIXY"
-  },
-  {
-   "uid": "4564440742",
-   "mall": "쿠팡",
-   "title": "남양과수원 청포도 190ml 48개 9,940원",
-   "price": 9940,
-   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/62061438249122-18421894-c5e7-4929-b253-a475810a9ce6.jpg",
-   "sentAt": "2026-10-10T12:03:02.283+09:00",
-   "saving": 32,
-   "baseline": 14640,
-   "baselineNote": "판매글 10곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hI2OfImtBk"
   }
  ]
 }
