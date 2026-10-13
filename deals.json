@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-13T13:48:56.296+09:00",
+ "updated": "2026-10-13T14:02:05.589+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7299209479",
+   "mall": "11번가",
+   "title": "오리온 썬 대파크림치즈 80g, 5개 + 핫스파이시맛 80g,5개",
+   "price": 9630,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9495558078/B.webp?756394863",
+   "sentAt": "2026-10-13T14:02:05.047+09:00",
+   "saving": 25,
+   "baseline": 12900,
+   "baselineNote": "판매글 35곳 최저가",
+   "link": "http://app.ac/Jjwh1Ma03"
+  },
   {
    "uid": "3287802754",
    "mall": "쿠팡",
@@ -728,18 +740,6 @@
    "baselineNote": "판매글 13곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hHCszUswmq"
-  },
-  {
-   "uid": "8418876905",
-   "mall": "롯데온",
-   "title": "웅진식품 캐치티니핑 어린이음료 200ml x 24페트",
-   "price": 11850,
-   "image": "https://contents.lotteon.com/itemimage/20260826112631/LO/26/67/23/30/83/_2/66/72/33/08/5/LO2667233083_2667233085_1.jpg",
-   "sentAt": "2026-10-09T15:16:49.132+09:00",
-   "saving": 27,
-   "baseline": 16140,
-   "baselineNote": "판매글 15곳 최저가",
-   "link": "http://app.ac/hbpIzJl33"
   }
  ]
 }
