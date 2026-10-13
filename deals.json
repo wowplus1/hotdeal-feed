@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-13T13:44:05.219+09:00",
+ "updated": "2026-10-13T13:48:56.296+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3287802754",
+   "mall": "쿠팡",
+   "title": "롯데웰푸드 빈츠, 204g, 16개",
+   "price": 29080,
+   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/3ffe/4f0ea4c84672b6bf84a8ed067db9b40c53097558bdf97e07abe0a58c03b3.png",
+   "sentAt": "2026-10-13T13:48:55.804+09:00",
+   "saving": 55,
+   "baseline": 64610,
+   "baselineNote": "판매글 36곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hN87CtAMKq"
+  },
   {
    "uid": "3060567593",
    "mall": "쿠팡",
@@ -727,19 +740,6 @@
    "baseline": 16140,
    "baselineNote": "판매글 15곳 최저가",
    "link": "http://app.ac/hbpIzJl33"
-  },
-  {
-   "uid": "8581026665",
-   "mall": "쿠팡",
-   "title": "비스코티 강아지 비스켓, 과일, 800g, 1개",
-   "price": 9150,
-   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/366888026041402-dab48863-d57c-4669-95d0-88e75df4fce9.jpg",
-   "sentAt": "2026-10-09T13:54:55.054+09:00",
-   "saving": 33,
-   "baseline": 13560,
-   "baselineNote": "판매글 7곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hHvUPr4RHM"
   }
  ]
 }
