@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-13T14:02:05.589+09:00",
+ "updated": "2026-10-13T15:51:33.479+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1372023556",
+   "mall": "쿠팡",
+   "title": "아쿠아시스 먹는샘물 무라벨 2l 18개",
+   "price": 7580,
+   "image": "https://t3a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/199763883433523-82364e3e-6fcd-4706-a6af-88863c6e7e49.jpg",
+   "sentAt": "2026-10-13T15:51:32.613+09:00",
+   "saving": 26,
+   "baseline": 10280,
+   "baselineNote": "판매글 8곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hOhTbdnqU0"
+  },
   {
    "uid": "7299209479",
    "mall": "11번가",
@@ -727,19 +740,6 @@
    "baselineNote": "판매글 3곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hHFdj759ae"
-  },
-  {
-   "uid": "4322006102",
-   "mall": "쿠팡",
-   "title": "스니커즈 미니스 초코바, 1.098kg, 1개",
-   "price": 15440,
-   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/1c3c/489d0a49f7af4baa4ff32b0e8d117bfb26525c722516aa150c8da4646774.jpg",
-   "sentAt": "2026-10-09T15:26:59.290+09:00",
-   "saving": 39,
-   "baseline": 25460,
-   "baselineNote": "판매글 13곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hHCszUswmq"
   }
  ]
 }
