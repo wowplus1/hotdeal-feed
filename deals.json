@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-13T17:59:46.992+09:00",
+ "updated": "2026-10-13T18:02:39.372+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4487880986",
+   "mall": "쿠팡",
+   "title": "풀무원 김치 생 수제비 2인분, 423.2g, 2개 7,000원",
+   "price": 7000,
+   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/a747006b-81a4-4e23-8619-f40ea7178d4d5734071853586486666.png",
+   "sentAt": "2026-10-13T18:02:38.873+09:00",
+   "saving": 28,
+   "baseline": 9790,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hOrfj3Oiaq"
+  },
   {
    "uid": "7745386748",
    "mall": "롯데온",
@@ -725,19 +738,6 @@
    "baselineNote": "파는 곳이 여기 하나",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hIIeAtEGsK"
-  },
-  {
-   "uid": "6722431094",
-   "mall": "쿠팡",
-   "title": "그릭데이 그릭요거트 시그니처, 100g, 3개",
-   "price": 6980,
-   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/431654984436990-ed796f2e-b32c-4911-ac2b-2dcb863159d1.jpg",
-   "sentAt": "2026-10-10T07:12:12.600+09:00",
-   "saving": 65,
-   "baseline": 19930,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gyKBuQeyS4"
   }
  ]
 }
