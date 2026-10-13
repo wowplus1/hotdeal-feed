@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-13T10:03:27.209+09:00",
+ "updated": "2026-10-13T10:39:47.837+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1620726448",
+   "mall": "지마켓",
+   "title": "신제품 오리온 지지미 부추전맛 58g x 12개입",
+   "price": 10900,
+   "image": "https://gdimg.gmarket.co.kr/4799212331/goodsimage",
+   "sentAt": "2026-10-13T10:39:47.093+09:00",
+   "saving": 35,
+   "baseline": 16800,
+   "baselineNote": "43곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4799212331"
+  },
   {
    "uid": "1502583591",
    "mall": "쿠팡",
@@ -727,16 +740,6 @@
    "baseline": 48990,
    "baselineNote": "판매글 5곳 최저가",
    "link": "https://link.coupang.com/a/hHjCh8yvLw"
-  },
-  {
-   "uid": "2842507565",
-   "mall": "토스쇼핑",
-   "title": "한미 완전두유 국산콩 검은콩 고칼슘 저당, 190ml, 32팩",
-   "price": 10900,
-   "image": "https://shopping.toss.im/live/taca/ai/NGY2NWNi/V25adE9oWnVoOHp6QnNIandmd1RaTzB6L0JubjBiMG0zc25zSHA5QkErRT0.png",
-   "sentAt": "2026-10-09T10:35:02.771+09:00",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/1W6KVpne"
   }
  ]
 }
