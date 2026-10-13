@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-14T07:21:23.082+09:00",
+ "updated": "2026-10-14T07:31:28.546+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9218488334",
+   "mall": "쿠팡",
+   "title": "티젠 콤부차 매실 5g 50개입 1개",
+   "price": 9900,
+   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/306394530621593-9efa1b57-e482-4265-a635-9f609ecf9b2a.jpg",
+   "sentAt": "2026-10-14T07:31:27.975+09:00",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gRFUKWGg3w"
+  },
   {
    "uid": "1447465414",
    "mall": "쿠팡",
@@ -723,19 +733,6 @@
    "baselineNote": "37곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gMFKlnp4pg"
-  },
-  {
-   "uid": "5139777469",
-   "mall": "쿠팡",
-   "title": "불닭볶음면 소컵 70g, 6개",
-   "price": 5110,
-   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2159274712657237-2fa2cbe6-db6e-4c04-b6ed-7844b5a3e37a.jpg",
-   "sentAt": "2026-10-10T14:20:20.119+09:00",
-   "saving": 68,
-   "baseline": 15900,
-   "baselineNote": "판매글 23곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hJcBZehIXY"
   }
  ]
 }
