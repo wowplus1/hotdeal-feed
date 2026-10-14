@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-14T12:02:53.262+09:00",
+ "updated": "2026-10-14T12:25:13.821+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3936684665",
+   "mall": "쿠팡",
+   "title": "포스트 크랜베리 아몬드 그래놀라, 500g, 1개",
+   "price": 8700,
+   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/07/18/18/5/215bf88d-569f-4163-8816-51a894652b19.png",
+   "sentAt": "2026-10-14T12:25:12.871+09:00",
+   "saving": 22,
+   "baseline": 11130,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/geHg01A3Ua"
+  },
   {
    "uid": "4059704542",
    "mall": "쿠팡",
@@ -719,19 +732,6 @@
    "baseline": 46040,
    "baselineNote": "판매글 5곳 최저가",
    "link": "http://app.ac/ltVR1TM13"
-  },
-  {
-   "uid": "2008434406",
-   "mall": "토스쇼핑",
-   "title": "펩시콜라 엑스트라 피즈, 355ml, 24개",
-   "price": 11800,
-   "image": "https://shopping.toss.im/live/taca/ai/YmQ3MWI4/VDFUMkpiaXZXN3BpNmV4SEQxUVhkNWtQNmJwd2F6WkZZcDNMdXAxRVBtVT0.png",
-   "sentAt": "2026-10-11T07:55:08.634+09:00",
-   "saving": 28,
-   "baseline": 16500,
-   "baselineNote": "332곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/JmWHHkPo"
   }
  ]
 }
