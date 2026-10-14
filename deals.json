@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-14T08:11:36.354+09:00",
+ "updated": "2026-10-14T09:20:02.468+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6376876518",
+   "mall": "11번가",
+   "title": "마켓오 브라우니 황치즈 12입, 4개",
+   "price": 15150,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9142911783/B.webp?502236538",
+   "sentAt": "2026-10-14T09:20:01.642+09:00",
+   "saving": 46,
+   "baseline": 28000,
+   "baselineNote": "판매글 3곳 최저가",
+   "link": "http://app.ac/p3M7giJ23"
+  },
   {
    "uid": "1014225167",
    "mall": "쿠팡",
@@ -719,19 +731,6 @@
    "baselineNote": "판매글 32곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/DtVYgbM73"
-  },
-  {
-   "uid": "8723951549",
-   "mall": "쿠팡",
-   "title": "양파깡 3개",
-   "price": 3380,
-   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/521087270619417-541dd920-bb84-4dc8-8a59-e97f56b22998.jpg",
-   "sentAt": "2026-10-10T15:39:50.307+09:00",
-   "saving": 48,
-   "baseline": 6480,
-   "baselineNote": "판매글 8곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hJikNXUOLQ"
   }
  ]
 }
