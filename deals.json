@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-14T18:05:26.288+09:00",
+ "updated": "2026-10-14T19:04:46.291+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4139178218",
+   "mall": "쿠팡",
+   "title": "ASUS ROG STRIX XG27ACS 역대가",
+   "price": 199000,
+   "image": "https://thumbnail1.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/06/08/9/3/f369280e-1310-4615-ac82-591776def3db.jpg",
+   "sentAt": "2026-10-14T19:04:45.498+09:00",
+   "saving": 26,
+   "baseline": 269000,
+   "baselineNote": "다른 곳 최저",
+   "link": "https://link.coupang.com/a/hQaA26TKAS"
+  },
   {
    "uid": "9350208540",
    "mall": "쿠팡",
@@ -722,19 +734,6 @@
    "baseline": 14400,
    "baselineNote": "판매글 26곳 최저가",
    "link": "http://app.ac/cECo3yS83"
-  },
-  {
-   "uid": "8790332473",
-   "mall": "쿠팡",
-   "title": "청정원 클래식 돈카츠 소스, 400g, 1개",
-   "price": 2120,
-   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/322403812409324-829da9f6-2d88-4602-bd5b-3701fe54ad47.jpg",
-   "sentAt": "2026-10-11T15:35:29.149+09:00",
-   "saving": 21,
-   "baseline": 2690,
-   "baselineNote": "331곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hKWQC05Mqq"
   }
  ]
 }
