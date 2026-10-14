@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-15T07:00:52.255+09:00",
+ "updated": "2026-10-15T07:17:25.807+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2452488843",
+   "mall": "쿠팡",
+   "title": "롯데웰푸드 ABC초코쿠키, 152g, 3개",
+   "price": 6440,
+   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/6878/3d481fdee51186c3d760f08b3c56e61c9989813cb891886ff77c717d1f14.jpg",
+   "sentAt": "2026-10-15T07:17:25.179+09:00",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hQ0WgOtyE0"
+  },
   {
    "uid": "8156012802",
    "mall": "쿠팡",
@@ -724,18 +734,6 @@
    "baselineNote": "131곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hL1EGVlYxo"
-  },
-  {
-   "uid": "5005151535",
-   "mall": "롯데온",
-   "title": "아카데미 남성 드라이 핏 반팔 축구 탑 HJ3792-104",
-   "price": 18400,
-   "image": "https://contents.lotteon.com/itemimage/20261003210834/LE/13/30/33/39/25/bndl_img/LE1330333925_1.jpg",
-   "sentAt": "2026-10-11T18:46:31.439+09:00",
-   "saving": 26,
-   "baseline": 25010,
-   "baselineNote": "판매글 40곳 최저가",
-   "link": "http://app.ac/J3M0tjJ53"
   }
  ]
 }
