@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-15T08:14:58.830+09:00",
+ "updated": "2026-10-15T08:35:46.610+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3008341893",
+   "mall": "쿠팡",
+   "title": "너구리 얼큰한맛 120g 10개",
+   "price": 7650,
+   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/294395527650331-992425e9-5e72-4223-9b75-41b6874458ad.png",
+   "sentAt": "2026-10-15T08:35:45.906+09:00",
+   "saving": 23,
+   "baseline": 9910,
+   "baselineNote": "260곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gayrSFqAM0"
+  },
   {
    "uid": "8534946572",
    "mall": "쿠팡",
@@ -724,19 +737,6 @@
    "baselineNote": "43곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://toss.im/_m/rsMk0zy4"
-  },
-  {
-   "uid": "1428785980",
-   "mall": "지마켓",
-   "title": "훈제 메추리알 15g 40개입",
-   "price": 19900,
-   "image": "https://gdimg.gmarket.co.kr/4717154401/goodsimage",
-   "sentAt": "2026-10-12T07:57:00.410+09:00",
-   "saving": 23,
-   "baseline": 25840,
-   "baselineNote": "판매글 6곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4717154401"
   }
  ]
 }
