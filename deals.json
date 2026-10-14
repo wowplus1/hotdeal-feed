@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-15T07:17:25.807+09:00",
+ "updated": "2026-10-15T08:04:58.081+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4859317296",
+   "mall": "쿠팡",
+   "title": "동원샘물 무라벨, 2L, 24개",
+   "price": 10120,
+   "image": "https://t3a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/72187695788658-c5ea3793-f790-4708-ba46-c43d287b338d.png",
+   "sentAt": "2026-10-15T08:04:57.334+09:00",
+   "saving": 24,
+   "baseline": 13250,
+   "baselineNote": "393곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gksz6w8iIK"
+  },
   {
    "uid": "2452488843",
    "mall": "쿠팡",
@@ -721,19 +734,6 @@
    "sentAt": "2026-10-12T07:13:26.321+09:00",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hL1UX2H79w"
-  },
-  {
-   "uid": "2347167382",
-   "mall": "쿠팡",
-   "title": "배스킨라빈스 민트초코 우유 190ml*24개",
-   "price": 8340,
-   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1155570306024914-e9962cfd-802d-46a3-8836-be46bf1e68cf.jpg",
-   "sentAt": "2026-10-12T07:09:25.870+09:00",
-   "saving": 51,
-   "baseline": 16940,
-   "baselineNote": "131곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hL1EGVlYxo"
   }
  ]
 }
