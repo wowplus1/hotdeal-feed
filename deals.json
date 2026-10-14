@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-15T08:04:58.081+09:00",
+ "updated": "2026-10-15T08:14:58.830+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8534946572",
+   "mall": "쿠팡",
+   "title": "하이뮨 프로틴 울트라 블랙초코, 400ml, 6개",
+   "price": 12870,
+   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/05/19/17/9/f9c15860-0166-4a33-bb29-36feb1f92d4d.jpg",
+   "sentAt": "2026-10-15T08:14:58.033+09:00",
+   "saving": 43,
+   "baseline": 22750,
+   "baselineNote": "18곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hQ438EgldQ"
+  },
   {
    "uid": "4859317296",
    "mall": "쿠팡",
@@ -724,16 +737,6 @@
    "baselineNote": "판매글 6곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4717154401"
-  },
-  {
-   "uid": "5250347759",
-   "mall": "쿠팡",
-   "title": "마녀공장 비피다 콤플렉스 앰플, 50ml, 2개",
-   "price": 15490,
-   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/a230d8dc-a195-4536-abc7-f62ce723fff81816402055711164393.png",
-   "sentAt": "2026-10-12T07:13:26.321+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hL1UX2H79w"
   }
  ]
 }
