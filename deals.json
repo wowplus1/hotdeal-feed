@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-14T21:35:00.317+09:00",
+ "updated": "2026-10-14T21:35:37.122+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7772365418",
+   "mall": "쿠팡",
+   "title": "오리온 도도한 나쵸 치즈맛, 92g, 4개",
+   "price": 4100,
+   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/96608067583187-8b976fec-cfc3-4386-bbf2-c46ce5b24606.jpg",
+   "sentAt": "2026-10-14T21:35:36.585+09:00",
+   "saving": 33,
+   "baseline": 6080,
+   "baselineNote": "3곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hQlm79cHcG"
+  },
   {
    "uid": "9356059259",
    "mall": "토스쇼핑",
@@ -722,18 +735,6 @@
    "baseline": 199990,
    "baselineNote": "38곳 중 최저",
    "link": "https://link.coupang.com/a/hK9vxljkcu"
-  },
-  {
-   "uid": "4179528553",
-   "mall": "지마켓",
-   "title": "1++ 등급 투뿔한우 국거리 200g+200g",
-   "price": 20000,
-   "image": "https://gdimg.gmarket.co.kr/2843163641/goodsimage",
-   "sentAt": "2026-10-11T18:19:54.324+09:00",
-   "saving": 36,
-   "baseline": 31260,
-   "baselineNote": "판매글 4곳 최저가",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2843163641"
   }
  ]
 }
