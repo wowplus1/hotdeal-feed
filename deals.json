@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-14T18:03:38.073+09:00",
+ "updated": "2026-10-14T18:05:26.288+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9350208540",
+   "mall": "쿠팡",
+   "title": "오뚜기 스테이크 소스, 470g, 2개",
+   "price": 4880,
+   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/620576217624147-b759c456-ecdc-4b16-849f-7f32c06c3af7.jpg",
+   "sentAt": "2026-10-14T18:05:25.623+09:00",
+   "saving": 30,
+   "baseline": 7000,
+   "baselineNote": "11곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hP6jtdglCS"
+  },
   {
    "uid": "7287716706",
    "mall": "지마켓",
@@ -722,19 +735,6 @@
    "baselineNote": "331곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hKWQC05Mqq"
-  },
-  {
-   "uid": "2144192548",
-   "mall": "토스쇼핑",
-   "title": "오쏘몰 이뮨 멀티비타민, 14개",
-   "price": 29990,
-   "image": "https://shopping.toss.im/live/temp/2026-09-09/b817d1cc-8b6a-4e4c-8385-dc6559d4ce53.jpeg",
-   "sentAt": "2026-10-11T15:34:45.006+09:00",
-   "saving": 47,
-   "baseline": 56370,
-   "baselineNote": "판매글 32곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/NxzEqc6x"
   }
  ]
 }
