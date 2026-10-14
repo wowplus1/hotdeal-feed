@@ -1,7 +1,33 @@
 {
- "updated": "2026-10-14T10:10:50.707+09:00",
+ "updated": "2026-10-14T11:31:05.185+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3216175346",
+   "mall": "토스쇼핑",
+   "title": "라오메뜨 전설의패치 레전드, 준대형, 40매, 1개",
+   "price": 6700,
+   "image": "https://shopping.toss.im/live/taca/ai/ODYyZDZm/ZkRRSG4vUGg1SDFIbTd0ay9sTVIvSStENFBnQVBQL0NOQTBQOG0va2NBVT0.png",
+   "sentAt": "2026-10-14T11:31:04.255+09:00",
+   "saving": 56,
+   "baseline": 15300,
+   "baselineNote": "77곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://toss.im/_m/LQTZqmS4"
+  },
+  {
+   "uid": "4671094312",
+   "mall": "토스쇼핑",
+   "title": "마른줄기 상추 궁채, 500g, 1개",
+   "price": 8200,
+   "image": "https://shopping.toss.im/live/temp/2026-07-29/ddf27c6e-f87d-49fe-87ce-a5420ff1c4f7.jpeg",
+   "sentAt": "2026-10-14T11:31:04.255+09:00",
+   "saving": 31,
+   "baseline": 11810,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/zYaA4Vgn"
+  },
   {
    "uid": "8116871803",
    "mall": "쿠팡",
@@ -707,26 +733,6 @@
    "baselineNote": "판매글 6곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hJAGa0zeAS"
-  },
-  {
-   "uid": "7398723987",
-   "mall": "쿠팡",
-   "title": "크라운 쿠크다스 케이크 77g 6개",
-   "price": 6430,
-   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/153716605021071-2f4112ce-8e28-416f-bd17-10bef75e1da5.jpg",
-   "sentAt": "2026-10-10T18:00:42.402+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hJsolgzt5U"
-  },
-  {
-   "uid": "4717010180",
-   "mall": "쿠팡",
-   "title": "마이구미 18개",
-   "price": 8040,
-   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/4c0d4212-0ff2-4a87-9ba9-ab4a9a3f958712679674270850825428.png",
-   "sentAt": "2026-10-10T17:41:36.488+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hJq14vecNw"
   }
  ]
 }
