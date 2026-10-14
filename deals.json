@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-14T19:04:46.291+09:00",
+ "updated": "2026-10-14T20:14:51.944+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3500881760",
+   "mall": "쿠팡",
+   "title": "Toocki PD60W 코일 C타입 차량용 초고속 충전 케이블",
+   "price": 5800,
+   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/8054/5766c1bace178ea4016bbd36803838444d73d46d52369c8f8e8c34928de6.jpg",
+   "sentAt": "2026-10-14T20:14:51.060+09:00",
+   "saving": 33,
+   "baseline": 8640,
+   "baselineNote": "판매글 5곳 최저가",
+   "link": "https://link.coupang.com/a/gkNABBlNka"
+  },
   {
    "uid": "4139178218",
    "mall": "쿠팡",
@@ -722,18 +734,6 @@
    "baselineNote": "판매글 6곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hK4RAxlmH6"
-  },
-  {
-   "uid": "4930572184",
-   "mall": "롯데온",
-   "title": "남성 NEW 원단 간절기 75D 니트본딩 아웃도어 팬츠 MVP6332",
-   "price": 9490,
-   "image": "https://contents.lotteon.com/itemimage/20261009210607/LO/20/56/66/95/38/bndl_img/LO2056669538_1.jpg",
-   "sentAt": "2026-10-11T17:00:40.743+09:00",
-   "saving": 34,
-   "baseline": 14400,
-   "baselineNote": "판매글 26곳 최저가",
-   "link": "http://app.ac/cECo3yS83"
   }
  ]
 }
