@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-14T15:21:58.950+09:00",
+ "updated": "2026-10-14T15:41:57.930+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3297329033",
+   "mall": "롯데온",
+   "title": "리큐 실내건조 세탁세제 시트러스향 2L*3개 + 450ml 추가증정",
+   "price": 10720,
+   "image": "https://contents.lotteon.com/itemimage/20260518164701/LO/26/81/66/40/12/_2/68/16/64/01/3/LO2681664012_2681664013_1.png",
+   "sentAt": "2026-10-14T15:41:57.218+09:00",
+   "saving": 39,
+   "baseline": 17670,
+   "baselineNote": "판매글 3곳 최저가",
+   "link": "http://app.ac/gjwlLYa83"
+  },
   {
    "uid": "9671578496",
    "mall": "쿠팡",
@@ -720,19 +732,6 @@
    "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/13929166511944-7cabbe29-5319-4548-aa71-d860c82841a1.png",
    "sentAt": "2026-10-11T14:25:24.171+09:00",
    "link": "https://link.coupang.com/a/hKRR6kSvwy"
-  },
-  {
-   "uid": "7397994153",
-   "mall": "쿠팡",
-   "title": "스카치브라이트 베이직 삼중양면 다목적 수세미, 8개입, 1개",
-   "price": 5970,
-   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/eae4/31ef9fe7ff2243db2602256bf1e0a643a3302cf53815ed917418bd669491.jpg",
-   "sentAt": "2026-10-11T11:57:37.663+09:00",
-   "saving": 64,
-   "baseline": 16730,
-   "baselineNote": "판매글 31곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gHDL13kIUu"
   }
  ]
 }
