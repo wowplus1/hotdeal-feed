@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-14T20:14:51.944+09:00",
+ "updated": "2026-10-14T21:35:00.317+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9356059259",
+   "mall": "토스쇼핑",
+   "title": "펩시 제로 슈거 라임향, 355ml, 24개",
+   "price": 10000,
+   "image": "https://shopping.toss.im/live/taca/ai/YTM1NDcy/TkQva3k4cHhXMkVkbnMyMDQ4dDJTeDQwbVpIRHcydzBiQXVUeTVMMGJEUT0.png",
+   "sentAt": "2026-10-14T21:34:59.473+09:00",
+   "saving": 26,
+   "baseline": 13510,
+   "baselineNote": "875곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/zDiHjDRo"
+  },
   {
    "uid": "3500881760",
    "mall": "쿠팡",
@@ -721,19 +734,6 @@
    "baseline": 31260,
    "baselineNote": "판매글 4곳 최저가",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2843163641"
-  },
-  {
-   "uid": "8946957586",
-   "mall": "쿠팡",
-   "title": "일리 디카프 디카페인 캡슐 21개",
-   "price": 10850,
-   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/ccc2/034717ca3cd514681c27f00c27cae29de2cc6ec1be586353e60fe1e5fb56.jpg",
-   "sentAt": "2026-10-11T17:26:37.978+09:00",
-   "saving": 50,
-   "baseline": 21650,
-   "baselineNote": "판매글 6곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hK4RAxlmH6"
   }
  ]
 }
