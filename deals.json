@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-14T11:31:05.185+09:00",
+ "updated": "2026-10-14T11:40:25.352+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3923455692",
+   "mall": "쿠팡",
+   "title": "고당도 세척사과 2kg",
+   "price": 6900,
+   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/389a/3c050f602f62b2a00944ba9572b2d73f20989f1fa4042b6c393aa0139f2b.png",
+   "sentAt": "2026-10-14T11:40:24.674+09:00",
+   "saving": 55,
+   "baseline": 15500,
+   "baselineNote": "판매글 8곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hPEN1NrYe4"
+  },
   {
    "uid": "3216175346",
    "mall": "토스쇼핑",
@@ -720,19 +733,6 @@
    "baselineNote": "6곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/ghC4rpe8MS"
-  },
-  {
-   "uid": "1674297445",
-   "mall": "쿠팡",
-   "title": "브이콘 50g 20개",
-   "price": 8960,
-   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/image_audit/prod/e37cb730-64b1-4c84-aafb-d03bdb06022a_fixing_v2.png",
-   "sentAt": "2026-10-10T20:00:16.139+09:00",
-   "saving": 25,
-   "baseline": 11930,
-   "baselineNote": "판매글 6곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hJAGa0zeAS"
   }
  ]
 }
