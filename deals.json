@@ -1,7 +1,16 @@
 {
- "updated": "2026-10-14T09:20:02.468+09:00",
+ "updated": "2026-10-14T09:28:01.313+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6328606036",
+   "mall": "쿠팡",
+   "title": "이니스프리 그린티 세라마이드 밀크 에센스, 160ml, 1개",
+   "price": 8120,
+   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/00c1e8f9-3ea7-4bf6-808a-f1a9da5c96488266312894763387101.png",
+   "sentAt": "2026-10-14T09:28:00.736+09:00",
+   "link": "https://link.coupang.com/a/hPvmsgldJY"
+  },
   {
    "uid": "6376876518",
    "mall": "11번가",
@@ -718,19 +727,6 @@
    "baselineNote": "판매글 10곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hJoye35JQG"
-  },
-  {
-   "uid": "9781034769",
-   "mall": "롯데온",
-   "title": "내츄럴플러스 파로 발효효소 30포 3박스 / 곡물효소 정제효소 NO 고역가수치",
-   "price": 20830,
-   "image": "https://contents.lotteon.com/itemimage/20261006150820/LO/27/87/43/12/76/_2/78/74/31/27/7/LO2787431276_2787431277_1.jpg",
-   "sentAt": "2026-10-10T16:04:48.730+09:00",
-   "saving": 25,
-   "baseline": 27800,
-   "baselineNote": "판매글 32곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/DtVYgbM73"
   }
  ]
 }
