@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-15T09:01:34.304+09:00",
+ "updated": "2026-10-15T09:05:54.234+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6305990565",
+   "mall": "쿠팡",
+   "title": "코카콜라 제로 무라벨, 370ml, 24개",
+   "price": 16790,
+   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/885a/5275afb0998711fbbbcf6aaf2e50daf49885f10e5c34208ec34c8e09e053.jpg",
+   "sentAt": "2026-10-15T09:05:53.349+09:00",
+   "saving": 23,
+   "baseline": 21890,
+   "baselineNote": "222곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gcfie4gWuy"
+  },
   {
    "uid": "8242591585",
    "mall": "롯데온",
@@ -723,19 +736,6 @@
    "sentAt": "2026-10-12T10:03:08.560+09:00",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hMd1aJqYpM"
-  },
-  {
-   "uid": "2476474259",
-   "mall": "쿠팡",
-   "title": "스팸 동그란 스팸, 160g, 1개",
-   "price": 1380,
-   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/75737512063184-63d9baab-534b-4095-9cec-fe4fe69fc0d2.jpg",
-   "sentAt": "2026-10-12T09:39:39.887+09:00",
-   "saving": 49,
-   "baseline": 2690,
-   "baselineNote": "35곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hMcnBbK7rM"
   }
  ]
 }
