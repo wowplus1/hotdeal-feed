@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-15T17:16:41.342+09:00",
+ "updated": "2026-10-15T18:05:08.389+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6670276415",
+   "mall": "토스쇼핑",
+   "title": "부산포차 꼬치어묵, 400g, 3봉",
+   "price": 9900,
+   "image": "https://shopping.toss.im/live/taca/ai/NmE0Yzk5/UkFySGthUFRZNlZsbUxKY1NWWGtyVnNpQ3I4SHZ3bTJsbkowbThTdm5RRT0.png",
+   "sentAt": "2026-10-15T18:05:07.655+09:00",
+   "saving": 24,
+   "baseline": 13110,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://toss.im/_m/XUJXCqyD"
+  },
   {
    "uid": "2512437750",
    "mall": "쿠팡",
@@ -729,19 +742,6 @@
    "baselineNote": "판매글 21곳 최저가",
    "unit": "[object Object]",
    "link": "https://toss.shopping/_m/3lPJZ0ys"
-  },
-  {
-   "uid": "3832715436",
-   "mall": "롯데온",
-   "title": "국내산 계란 특란 30구 무정란",
-   "price": 8590,
-   "image": "https://contents.lotteon.com/itemimage/20261008111627/LO/27/87/46/37/84/_2/78/74/63/78/5/LO2787463784_2787463785_1.jpg",
-   "sentAt": "2026-10-12T16:11:59.944+09:00",
-   "saving": 20,
-   "baseline": 10800,
-   "baselineNote": "268곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "http://app.ac/5jw7Zda53"
   }
  ]
 }
