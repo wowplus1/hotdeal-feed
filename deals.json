@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-15T14:29:05.405+09:00",
+ "updated": "2026-10-15T15:51:26.505+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2942509842",
+   "mall": "지마켓",
+   "title": "오레오 초코크림 600g 3개",
+   "price": 13240,
+   "image": "https://gdimg.gmarket.co.kr/2442790543/goodsimage",
+   "sentAt": "2026-10-15T15:51:25.692+09:00",
+   "saving": 32,
+   "baseline": 19460,
+   "baselineNote": "40곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2442790543"
+  },
   {
    "uid": "8553685173",
    "mall": "쿠팡",
@@ -729,19 +742,6 @@
    "baselineNote": "212곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/g9oBdy4THU"
-  },
-  {
-   "uid": "8890609433",
-   "mall": "지마켓",
-   "title": "비비고 육개장 500g 6개",
-   "price": 13900,
-   "image": "https://gdimg.gmarket.co.kr/4865764095/goodsimage",
-   "sentAt": "2026-10-12T11:01:38.067+09:00",
-   "saving": 21,
-   "baseline": 17600,
-   "baselineNote": "517곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4865764095"
   }
  ]
 }
