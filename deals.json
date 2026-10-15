@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-15T12:15:36.926+09:00",
+ "updated": "2026-10-15T13:04:58.055+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6999619038",
+   "mall": "롯데온",
+   "title": "프리미엄 오픈형 이어링 최신 6.0V 블루투스 이어폰 Radius7",
+   "price": 29900,
+   "image": "https://contents.lotteon.com/itemimage/20260312160219/LO/26/35/47/75/48/_2/63/54/77/54/9/LO2635477548_2635477549_1.JPG",
+   "sentAt": "2026-10-15T13:04:57.504+09:00",
+   "saving": 68,
+   "baseline": 92990,
+   "baselineNote": "판매글 32곳 최저가",
+   "link": "http://app.ac/ctVd6XM83"
+  },
   {
    "uid": "7970804796",
    "mall": "쿠팡",
@@ -727,19 +739,6 @@
    "baselineNote": "다른 곳 최저",
    "unit": "[object Object]",
    "link": "http://app.ac/r3M0k0J93"
-  },
-  {
-   "uid": "8910244617",
-   "mall": "토스쇼핑",
-   "title": "썬키스트 코코피치, 300ml, 20개",
-   "price": 9600,
-   "image": "https://shopping.toss.im/live/temp/2026-04-28/6cadc1c2-55e8-429d-8816-ca5477eccb31.jpeg",
-   "sentAt": "2026-10-12T10:11:04.064+09:00",
-   "saving": 61,
-   "baseline": 24920,
-   "baselineNote": "판매글 9곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://toss.im/_m/tlAigUFD"
   }
  ]
 }
