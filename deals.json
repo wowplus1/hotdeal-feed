@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-15T16:12:01.831+09:00",
+ "updated": "2026-10-15T17:16:41.342+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2512437750",
+   "mall": "쿠팡",
+   "title": "HBAF 군옥수수맛 아몬드, 190g, 3개",
+   "price": 8620,
+   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/5e872597-8676-45db-a1ae-a0b3207862db14531248317771894638.png",
+   "sentAt": "2026-10-15T17:16:40.435+09:00",
+   "saving": 45,
+   "baseline": 15710,
+   "baselineNote": "9곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hRHLJFHBfw"
+  },
   {
    "uid": "6595206528",
    "mall": "쿠팡",
@@ -729,16 +742,6 @@
    "baselineNote": "268곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "http://app.ac/5jw7Zda53"
-  },
-  {
-   "uid": "2732712086",
-   "mall": "쿠팡",
-   "title": "롯데자일리톨 알파 오리지날, 86g, 2개",
-   "price": 4460,
-   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/4720770996951581-897025bc-ed20-4d44-8b92-44b0651b1199.jpg",
-   "sentAt": "2026-10-12T16:06:27.951+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/g3FsqDPej6"
   }
  ]
 }
