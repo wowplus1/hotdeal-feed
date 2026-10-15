@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-15T13:16:29.154+09:00",
+ "updated": "2026-10-15T14:29:05.405+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8553685173",
+   "mall": "쿠팡",
+   "title": "스탠리 퀜처 프로투어 플립스트로 텀블러 1.18L*1개",
+   "price": 34140,
+   "image": "https://thumbnail1.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/975050457425344-62af8b2b-ba08-46f7-8a91-a7c86f8ac5f9.jpg",
+   "sentAt": "2026-10-15T14:29:04.579+09:00",
+   "saving": 45,
+   "baseline": 62100,
+   "baselineNote": "174곳 중 최저 · 무료배송",
+   "link": "https://link.coupang.com/a/hRvM0t1A4a"
+  },
   {
    "uid": "3271397110",
    "mall": "쿠팡",
@@ -730,15 +742,6 @@
    "baselineNote": "517곳 중 최저",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4865764095"
-  },
-  {
-   "uid": "7515718357",
-   "mall": "쿠팡",
-   "title": "스탠리 퀜처 H2.0 플로우 스테이트 텀블러 591ml*1개",
-   "price": 24940,
-   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2624531237438616-a6a1e629-bbbe-40eb-af1e-dfa9c84d1779.jpg",
-   "sentAt": "2026-10-12T10:53:23.872+09:00",
-   "link": "https://link.coupang.com/a/hMhERpcF1U"
   }
  ]
 }
