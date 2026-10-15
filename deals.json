@@ -1,7 +1,16 @@
 {
- "updated": "2026-10-15T18:05:08.389+09:00",
+ "updated": "2026-10-15T21:42:30.591+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6254327135",
+   "mall": "쿠팡",
+   "title": "스탠리 퀜처 H2.0 플로우스테이트 텀블러 1.18L*1개",
+   "price": 28710,
+   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2849633657372996-bcd9b1ee-ad66-43c3-9682-ce568d3cd3b4.jpg",
+   "sentAt": "2026-10-15T21:42:29.815+09:00",
+   "link": "https://link.coupang.com/a/hR0Mxt7duK"
+  },
   {
    "uid": "6670276415",
    "mall": "토스쇼핑",
@@ -729,19 +738,6 @@
    "sentAt": "2026-10-12T17:20:47.558+09:00",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hMJjVEXjBA"
-  },
-  {
-   "uid": "5322825320",
-   "mall": "토스쇼핑",
-   "title": "제주 극조생 감귤, 대과 L-2L, 5kg, 1박스",
-   "price": 7900,
-   "image": "https://shopping.toss.im/live/temp/2026-09-11/9e39b5c9-d743-4595-8fb4-2b8c9457f407.jpeg",
-   "sentAt": "2026-10-12T17:15:57.428+09:00",
-   "saving": 29,
-   "baseline": 11180,
-   "baselineNote": "판매글 21곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/3lPJZ0ys"
   }
  ]
 }
