@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-15T08:35:46.610+09:00",
+ "updated": "2026-10-15T09:01:34.304+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8242591585",
+   "mall": "롯데온",
+   "title": "독일 식기세척기세제 미니 50개입 3개",
+   "price": 33900,
+   "image": "https://contents.lotteon.com/itemimage/20261013191011/LO/24/67/35/47/67/_2/46/73/54/77/3/LO2467354767_2467354773_2.jpg",
+   "sentAt": "2026-10-15T09:01:33.627+09:00",
+   "saving": 35,
+   "baseline": 51800,
+   "baselineNote": "판매글 4곳 최저가",
+   "link": "http://app.ac/NAGS83583"
+  },
   {
    "uid": "3008341893",
    "mall": "쿠팡",
@@ -724,19 +736,6 @@
    "baselineNote": "35곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hMcnBbK7rM"
-  },
-  {
-   "uid": "7441856026",
-   "mall": "토스쇼핑",
-   "title": "풀무원 샘물 생수, 무라벨, 2L, 24개",
-   "price": 6410,
-   "image": "https://shopping.toss.im/live/taca/ai/MmNkNGI3/QUxNOEo4VEQ4VnUxT012OEUrZUxTODVUUHFaVTBPOEg3cXZVMnBmOVFLVjY.png",
-   "sentAt": "2026-10-12T08:19:33.458+09:00",
-   "saving": 56,
-   "baseline": 14460,
-   "baselineNote": "43곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://toss.im/_m/rsMk0zy4"
   }
  ]
 }
