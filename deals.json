@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-15T11:05:59.364+09:00",
+ "updated": "2026-10-15T12:15:36.926+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7970804796",
+   "mall": "쿠팡",
+   "title": "웅진 애사비 파인애플, 500ml, 24개",
+   "price": 13840,
+   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/01/07/11/1/1f22f693-521f-40a9-ab59-edbf8b292191.jpg",
+   "sentAt": "2026-10-15T12:15:36.102+09:00",
+   "saving": 30,
+   "baseline": 19770,
+   "baselineNote": "33곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hRmf5qdGb6"
+  },
   {
    "uid": "1863909464",
    "mall": "토스쇼핑",
@@ -727,18 +740,6 @@
    "baselineNote": "판매글 9곳 최저가",
    "unit": "[object Object]",
    "link": "https://toss.im/_m/tlAigUFD"
-  },
-  {
-   "uid": "7188233989",
-   "mall": "쿠팡",
-   "title": "마이비데 키즈 화장실용 물티슈 캡형, 40매, 9개",
-   "price": 9030,
-   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/bd6f/9ab7097a5e836828032d9c5f9f9282e66b1c6384cd7143911b7858e2e6fa.PNG",
-   "sentAt": "2026-10-12T10:03:08.560+09:00",
-   "saving": 37,
-   "baseline": 14380,
-   "baselineNote": "407곳 중 최저 · 무료배송",
-   "link": "https://link.coupang.com/a/gZS6qgBcqq"
   }
  ]
 }
