@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-15T09:05:54.234+09:00",
+ "updated": "2026-10-15T11:05:59.364+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1863909464",
+   "mall": "토스쇼핑",
+   "title": "그린올린 경기미, 2026년산, 상등급, 3kg, 1개",
+   "price": 9300,
+   "image": "https://shopping.toss.im/live/temp/2026-09-10/55851334-c30c-461c-a789-adc2b4b05dc3.png",
+   "sentAt": "2026-10-15T11:05:58.625+09:00",
+   "saving": 26,
+   "baseline": 12650,
+   "baselineNote": "판매글 8곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/7krNHrhr"
+  },
   {
    "uid": "6305990565",
    "mall": "쿠팡",
@@ -726,16 +739,6 @@
    "baseline": 14380,
    "baselineNote": "407곳 중 최저 · 무료배송",
    "link": "https://link.coupang.com/a/gZS6qgBcqq"
-  },
-  {
-   "uid": "4376478051",
-   "mall": "쿠팡",
-   "title": "코코도르 라지자 캔들 510g*1개",
-   "price": 6050,
-   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/1681/2974f3d67dde139315a006893553405fac5abe279a4b39713a50e9f701c3.jpg",
-   "sentAt": "2026-10-12T10:03:08.560+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hMd1aJqYpM"
   }
  ]
 }
