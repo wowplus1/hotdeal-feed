@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-15T13:04:58.055+09:00",
+ "updated": "2026-10-15T13:16:29.154+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3271397110",
+   "mall": "쿠팡",
+   "title": "코코팜 포도 340ml 48개",
+   "price": 24820,
+   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/785829623602847-7db42065-e30f-43ea-9b51-637ed89f4702.jpg",
+   "sentAt": "2026-10-15T13:16:28.246+09:00",
+   "saving": 21,
+   "baseline": 31570,
+   "baselineNote": "판매글 23곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hRqCbhYJxI"
+  },
   {
    "uid": "6999619038",
    "mall": "롯데온",
@@ -726,19 +739,6 @@
    "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2624531237438616-a6a1e629-bbbe-40eb-af1e-dfa9c84d1779.jpg",
    "sentAt": "2026-10-12T10:53:23.872+09:00",
    "link": "https://link.coupang.com/a/hMhERpcF1U"
-  },
-  {
-   "uid": "7009779151",
-   "mall": "롯데온",
-   "title": "베키아에누보 치아바타 샌드위치 9입",
-   "price": 19900,
-   "image": "https://contents.lotteon.com/itemimage/20261007163342/LO/27/87/97/27/56/_2/78/79/72/75/7/LO2787972756_2787972757_1.jpg",
-   "sentAt": "2026-10-12T10:30:06.846+09:00",
-   "saving": 25,
-   "baseline": 26390,
-   "baselineNote": "다른 곳 최저",
-   "unit": "[object Object]",
-   "link": "http://app.ac/r3M0k0J93"
   }
  ]
 }
