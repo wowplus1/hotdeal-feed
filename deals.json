@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-16T21:19:57.924+09:00",
+ "updated": "2026-10-17T07:02:32.053+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4191553061",
+   "mall": "쿠팡",
+   "title": "켈로그 현미 푸레이크, 550g, 1개",
+   "price": 3850,
+   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/b334dfd7-c834-4007-95ff-a0692afcf741656408621413067266.png",
+   "sentAt": "2026-10-17T07:02:31.283+09:00",
+   "saving": 49,
+   "baseline": 7580,
+   "baselineNote": "46곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hUjGS0Yyia"
+  },
   {
    "uid": "2787462562",
    "mall": "지마켓",
@@ -719,15 +732,6 @@
    "baseline": 20990,
    "baselineNote": "판매글 5곳 최저가",
    "link": "http://app.ac/lECV8bS63"
-  },
-  {
-   "uid": "4584590941",
-   "mall": "쿠팡",
-   "title": "빌리프 크리미 클렌징 폼 모이스트, 160ml, 1개",
-   "price": 7910,
-   "image": "https://t3a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/329567515940837-85ba33fa-fec4-4765-94b9-6f17a91a14e5.jpg",
-   "sentAt": "2026-10-13T16:48:10.636+09:00",
-   "link": "https://link.coupang.com/a/hOlUcKKFNY"
   }
  ]
 }
