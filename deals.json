@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-16T13:20:18.224+09:00",
+ "updated": "2026-10-16T13:24:56.722+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3765874496",
+   "mall": "지마켓",
+   "title": "카누 돌체구스토 호환캡슐 48캡슐+16캡슐 증정 총64캡",
+   "price": 20920,
+   "image": "https://gdimg.gmarket.co.kr/3336362692/goodsimage",
+   "sentAt": "2026-10-16T13:24:56.202+09:00",
+   "saving": 44,
+   "baseline": 37080,
+   "baselineNote": "판매글 19곳 최저가",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=3336362692"
+  },
   {
    "uid": "9173582075",
    "mall": "지마켓",
@@ -722,19 +734,6 @@
    "baselineNote": "판매글 3곳 최저가",
    "unit": "[object Object]",
    "link": "https://toss.shopping/_m/dzaa9CVg"
-  },
-  {
-   "uid": "1620726448",
-   "mall": "지마켓",
-   "title": "신제품 오리온 지지미 부추전맛 58g x 12개입",
-   "price": 10900,
-   "image": "https://gdimg.gmarket.co.kr/4799212331/goodsimage",
-   "sentAt": "2026-10-13T10:39:47.093+09:00",
-   "saving": 35,
-   "baseline": 16800,
-   "baselineNote": "43곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4799212331"
   }
  ]
 }
