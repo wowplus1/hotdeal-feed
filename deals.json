@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-16T12:09:56.404+09:00",
+ "updated": "2026-10-16T12:45:55.770+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4401389080",
+   "mall": "롯데온",
+   "title": "초록매실 제로+자연은 알로에 제로 혼합패키지 500ml x 12페트",
+   "price": 10990,
+   "image": "https://contents.lotteon.com/itemimage/20261008125802/LO/26/98/58/27/73/_2/69/85/82/77/4/LO2698582773_2698582774_1.jpg",
+   "sentAt": "2026-10-16T12:45:54.644+09:00",
+   "saving": 34,
+   "baseline": 16720,
+   "baselineNote": "판매글 6곳 최저가",
+   "link": "http://app.ac/HqnZqM273"
+  },
   {
    "uid": "3274577832",
    "mall": "쿠팡",
@@ -722,18 +734,6 @@
    "baseline": 31640,
    "baselineNote": "판매글 16곳 최저가",
    "link": "https://link.coupang.com/a/hNSXyTb7am"
-  },
-  {
-   "uid": "1009770997",
-   "mall": "롯데온",
-   "title": "츄파춥스 팝아트틴 150입 + 한정판 블루투스 스피커",
-   "price": 18900,
-   "image": "https://contents.lotteon.com/itemimage/20261012141037/LO/27/91/38/24/27/_2/79/13/82/44/4/LO2791382427_2791382444_1.jpg",
-   "sentAt": "2026-10-13T09:32:08.452+09:00",
-   "saving": 38,
-   "baseline": 30630,
-   "baselineNote": "판매글 19곳 최저가",
-   "link": "http://app.ac/63MoVmJ23"
   }
  ]
 }
