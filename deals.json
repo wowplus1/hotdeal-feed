@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-16T17:56:59.393+09:00",
+ "updated": "2026-10-16T18:05:22.260+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5552387236",
+   "mall": "11번가",
+   "title": "아워홈 뉴골든 치킨 가라아게 1kg x 2개",
+   "price": 14310,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9060940339/B.webp",
+   "sentAt": "2026-10-16T18:05:21.625+09:00",
+   "saving": 25,
+   "baseline": 18980,
+   "baselineNote": "파는 곳이 여기 하나",
+   "unit": "[object Object]",
+   "link": "http://app.ac/JbpWLSl93"
+  },
   {
    "uid": "1835276374",
    "mall": "롯데온",
@@ -718,18 +731,6 @@
    "baselineNote": "판매글 36곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hN87CtAMKq"
-  },
-  {
-   "uid": "3060567593",
-   "mall": "쿠팡",
-   "title": "시계 카시오 컬렉션 AQ-S800W-1BJH 남성 블랙",
-   "price": 30680,
-   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/35f9/ff2703f1a05db4aab04a19cb628145f9ac1e5dbd8be066f18fcf84cedaa5.jpg",
-   "sentAt": "2026-10-13T13:44:04.350+09:00",
-   "saving": 36,
-   "baseline": 48150,
-   "baselineNote": "판매글 16곳 최저가",
-   "link": "https://link.coupang.com/a/hN8LtNZ8U0"
   }
  ]
 }
