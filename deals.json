@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-16T18:05:22.260+09:00",
+ "updated": "2026-10-16T19:00:56.950+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5666797110",
+   "mall": "쿠팡",
+   "title": "풀무원 평양왕만두 1.4kg",
+   "price": 8840,
+   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1817796960064529-03528d8e-0e69-4296-bd16-f14da3e4c768.jpg",
+   "sentAt": "2026-10-16T19:00:56.168+09:00",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hTt6rXVfI4"
+  },
   {
    "uid": "5552387236",
    "mall": "11번가",
@@ -718,19 +728,6 @@
    "baseline": 12900,
    "baselineNote": "판매글 35곳 최저가",
    "link": "http://app.ac/Jjwh1Ma03"
-  },
-  {
-   "uid": "3287802754",
-   "mall": "쿠팡",
-   "title": "롯데웰푸드 빈츠, 204g, 16개",
-   "price": 29080,
-   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/3ffe/4f0ea4c84672b6bf84a8ed067db9b40c53097558bdf97e07abe0a58c03b3.png",
-   "sentAt": "2026-10-13T13:48:55.804+09:00",
-   "saving": 55,
-   "baseline": 64610,
-   "baselineNote": "판매글 36곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hN87CtAMKq"
   }
  ]
 }
