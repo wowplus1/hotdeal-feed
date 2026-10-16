@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-16T11:27:05.448+09:00",
+ "updated": "2026-10-16T12:00:39.253+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4762307098",
+   "mall": "지마켓",
+   "title": "올가니카 유기농 레몬수 아쿠아레몬 340ml x 12개",
+   "price": 5950,
+   "image": "https://gdimg.gmarket.co.kr/4843947001/goodsimage",
+   "sentAt": "2026-10-16T12:00:38.522+09:00",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4843947001"
+  },
   {
    "uid": "8044214533",
    "mall": "쿠팡",
@@ -728,19 +738,6 @@
    "baselineNote": "199곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4870741680"
-  },
-  {
-   "uid": "3592063100",
-   "mall": "지마켓",
-   "title": "cj 얼티브 프로틴 초코 250ml x18입",
-   "price": 15500,
-   "image": "https://gdimg.gmarket.co.kr/3033352311/goodsimage",
-   "sentAt": "2026-10-12T21:31:51.567+09:00",
-   "saving": 22,
-   "baseline": 19890,
-   "baselineNote": "215곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=3033352311"
   }
  ]
 }
