@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-17T07:02:32.053+09:00",
+ "updated": "2026-10-17T07:10:45.671+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9403967327",
+   "mall": "쿠팡",
+   "title": "스포츠리서치 1040mg 오메가-3 피쉬 오일 트리플 스트렝스 소프트젤, 180정, 2개",
+   "price": 89080,
+   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/f7ab/f16001b258d50a64147f2a921c0d45bd6b4766ad6990cc6fe8d14ca09e05.jpg",
+   "sentAt": "2026-10-17T07:10:44.958+09:00",
+   "saving": 34,
+   "baseline": 135060,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hvyztxAvng"
+  },
   {
    "uid": "4191553061",
    "mall": "쿠팡",
@@ -720,18 +733,6 @@
    "baseline": 186930,
    "baselineNote": "25곳 중 최저 · 무료배송",
    "link": "http://app.ac/SAGUdu593"
-  },
-  {
-   "uid": "3335009893",
-   "mall": "롯데온",
-   "title": "두다x강다니엘 에디션 베베앙 물티슈 캡형 75평량 70매 총20팩",
-   "price": 16770,
-   "image": "https://contents.lotteon.com/itemimage/20260911144103/LO/25/54/81/24/84/_2/55/48/12/48/5/LO2554812484_2554812485_1.jpg",
-   "sentAt": "2026-10-13T16:57:03.616+09:00",
-   "saving": 20,
-   "baseline": 20990,
-   "baselineNote": "판매글 5곳 최저가",
-   "link": "http://app.ac/lECV8bS63"
   }
  ]
 }
