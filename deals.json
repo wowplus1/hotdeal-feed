@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-16T19:00:56.950+09:00",
+ "updated": "2026-10-16T21:04:57.156+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6656255747",
+   "mall": "11번가",
+   "title": "구첩반찬 오도독 무말랭이무침 1kg+1kg 외 반찬모음",
+   "price": 8930,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9665245542/B.webp?181161715",
+   "sentAt": "2026-10-16T21:04:56.243+09:00",
+   "saving": 31,
+   "baseline": 12920,
+   "baselineNote": "판매글 5곳 최저가",
+   "link": "http://app.ac/WAGdpL593"
+  },
   {
    "uid": "5666797110",
    "mall": "쿠팡",
@@ -716,18 +728,6 @@
    "baselineNote": "판매글 8곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hOhTbdnqU0"
-  },
-  {
-   "uid": "7299209479",
-   "mall": "11번가",
-   "title": "오리온 썬 대파크림치즈 80g, 5개 + 핫스파이시맛 80g,5개",
-   "price": 9630,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9495558078/B.webp?756394863",
-   "sentAt": "2026-10-13T14:02:05.047+09:00",
-   "saving": 25,
-   "baseline": 12900,
-   "baselineNote": "판매글 35곳 최저가",
-   "link": "http://app.ac/Jjwh1Ma03"
   }
  ]
 }
