@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-16T14:25:07.914+09:00",
+ "updated": "2026-10-16T16:07:29.092+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5934764905",
+   "mall": "쿠팡",
+   "title": "켈로그 프로틴 그래놀라 제로슈거 다크초코 350g 4,820원",
+   "price": 4820,
+   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/271825331572050-d3cd2351-054b-446f-a074-da93c809f8fc.jpg",
+   "sentAt": "2026-10-16T16:07:28.329+09:00",
+   "saving": 38,
+   "baseline": 7810,
+   "baselineNote": "174곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hThJQJaKjs"
+  },
   {
    "uid": "2180481410",
    "mall": "토스쇼핑",
@@ -717,19 +730,6 @@
    "baseline": 18840,
    "baselineNote": "판매글 6곳 최저가",
    "link": "https://link.coupang.com/a/hN0eTAnL5g"
-  },
-  {
-   "uid": "8139215618",
-   "mall": "11번가",
-   "title": "내셔널지오그래픽 고체 탈취 방향제 425g",
-   "price": 19600,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9277174966/B.webp?607066893",
-   "sentAt": "2026-10-13T11:30:11.918+09:00",
-   "saving": 27,
-   "baseline": 27000,
-   "baselineNote": "판매글 13곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/MtVuQUM43"
   }
  ]
 }
