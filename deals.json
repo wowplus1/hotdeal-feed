@@ -1,7 +1,16 @@
 {
- "updated": "2026-10-16T13:24:56.722+09:00",
+ "updated": "2026-10-16T14:25:07.914+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2180481410",
+   "mall": "토스쇼핑",
+   "title": "크리오 덴티메이트 시즌2 초극세모 칫솔, 10개입, 2개",
+   "price": 7710,
+   "image": "https://shopping.toss.im/live/taca/ai/NGM3OWU0/QXZqeHVQY3pPWmJQYzJOMm01T2ZqWFJzN3NrbnpINEp1Ung2UDdzUmdmUT0.png",
+   "sentAt": "2026-10-16T14:25:07.106+09:00",
+   "link": "https://toss.shopping/_m/tgXaVcYj"
+  },
   {
    "uid": "3765874496",
    "mall": "지마켓",
@@ -721,19 +730,6 @@
    "baselineNote": "판매글 13곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/MtVuQUM43"
-  },
-  {
-   "uid": "5021978459",
-   "mall": "토스쇼핑",
-   "title": "아이앤어스 올인원 다크 케어 캡슐세제, 100개입, 1개",
-   "price": 6480,
-   "image": "https://shopping.toss.im/live/taca/ai/OTY2Njlj/QU5yejlhRTgwOXFVL1MwdjNrZThvWG85N3AycmwvdHBxZkNSMmdYcUZLZis.png",
-   "sentAt": "2026-10-13T11:20:26.158+09:00",
-   "saving": 30,
-   "baseline": 9310,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/dzaa9CVg"
   }
  ]
 }
