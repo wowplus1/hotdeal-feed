@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-16T10:10:56.840+09:00",
+ "updated": "2026-10-16T11:27:05.448+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8044214533",
+   "mall": "쿠팡",
+   "title": "토레타 이온음료, 240ml, 30개",
+   "price": 11750,
+   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1066292452839793-97c72331-7150-44b7-8df8-71694d61b22a.jpg",
+   "sentAt": "2026-10-16T11:27:04.557+09:00",
+   "saving": 32,
+   "baseline": 17360,
+   "baselineNote": "판매글 18곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/f9AMZdOvcH"
+  },
   {
    "uid": "5677139445",
    "mall": "지마켓",
@@ -728,19 +741,6 @@
    "baselineNote": "215곳 중 최저",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=3033352311"
-  },
-  {
-   "uid": "7734239522",
-   "mall": "쿠팡",
-   "title": "햇반 흑미밥 작은공기, 130g, 6개",
-   "price": 3910,
-   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/23975530471788-63e1c513-5de4-4bc3-95a5-727cddc3cde9.png",
-   "sentAt": "2026-10-12T17:52:31.328+09:00",
-   "saving": 21,
-   "baseline": 4920,
-   "baselineNote": "81곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hMK8t6YaMC"
   }
  ]
 }
