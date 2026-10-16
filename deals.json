@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-16T12:45:55.770+09:00",
+ "updated": "2026-10-16T13:20:18.224+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9173582075",
+   "mall": "지마켓",
+   "title": "빙수하임 284g 2개",
+   "price": 8330,
+   "image": "https://gdimg.gmarket.co.kr/4770164146/goodsimage",
+   "sentAt": "2026-10-16T13:20:17.227+09:00",
+   "saving": 37,
+   "baseline": 13320,
+   "baselineNote": "110곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4770164146"
+  },
   {
    "uid": "4401389080",
    "mall": "롯데온",
@@ -722,18 +735,6 @@
    "baselineNote": "43곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4799212331"
-  },
-  {
-   "uid": "1502583591",
-   "mall": "쿠팡",
-   "title": "스케쳐스 남녀공용 스포츠 백팩 L320U196",
-   "price": 11850,
-   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/93d4/8b30b5a52728bd0956bd53a7697fafe2925548c63bdcc688ecd18461f65a.png",
-   "sentAt": "2026-10-13T10:03:26.566+09:00",
-   "saving": 63,
-   "baseline": 31640,
-   "baselineNote": "판매글 16곳 최저가",
-   "link": "https://link.coupang.com/a/hNSXyTb7am"
   }
  ]
 }
