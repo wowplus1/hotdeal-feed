@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-16T12:05:00.368+09:00",
+ "updated": "2026-10-16T12:09:56.404+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3274577832",
+   "mall": "쿠팡",
+   "title": "삼립 돌아온 로켓단 초코롤 85g",
+   "price": 920,
+   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/426743633513770-840bf65d-38b5-4e16-8eb9-dbd770bc1cfc.jpg",
+   "sentAt": "2026-10-16T12:09:55.856+09:00",
+   "saving": 45,
+   "baseline": 1680,
+   "baselineNote": "판매글 3곳 최저가",
+   "link": "https://link.coupang.com/a/hS0IyykAdU"
+  },
   {
    "uid": "7686135371",
    "mall": "쿠팡",
@@ -722,19 +734,6 @@
    "baseline": 30630,
    "baselineNote": "판매글 19곳 최저가",
    "link": "http://app.ac/63MoVmJ23"
-  },
-  {
-   "uid": "1680867102",
-   "mall": "쿠팡",
-   "title": "가그린 제로 구강청결제, 1.2L, 2개",
-   "price": 9300,
-   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2412923165467698-e1935ae5-ac40-4af8-8861-7f5e30dd41a4.jpg",
-   "sentAt": "2026-10-13T07:19:04.396+09:00",
-   "saving": 63,
-   "baseline": 25390,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gkKvlsxQHs"
   }
  ]
 }
