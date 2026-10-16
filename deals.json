@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-16T21:04:57.156+09:00",
+ "updated": "2026-10-16T21:19:57.924+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2787462562",
+   "mall": "지마켓",
+   "title": "다나 프랑스 직수입 대용량 멸균우유 1L X 12팩 세트",
+   "price": 19980,
+   "image": "https://gdimg.gmarket.co.kr/3938955398/goodsimage",
+   "sentAt": "2026-10-16T21:19:57.379+09:00",
+   "saving": 26,
+   "baseline": 27060,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=3938955398"
+  },
   {
    "uid": "6656255747",
    "mall": "11번가",
@@ -715,19 +728,6 @@
    "image": "https://t3a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/329567515940837-85ba33fa-fec4-4765-94b9-6f17a91a14e5.jpg",
    "sentAt": "2026-10-13T16:48:10.636+09:00",
    "link": "https://link.coupang.com/a/hOlUcKKFNY"
-  },
-  {
-   "uid": "1372023556",
-   "mall": "쿠팡",
-   "title": "아쿠아시스 먹는샘물 무라벨 2l 18개",
-   "price": 7580,
-   "image": "https://t3a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/199763883433523-82364e3e-6fcd-4706-a6af-88863c6e7e49.jpg",
-   "sentAt": "2026-10-13T15:51:32.613+09:00",
-   "saving": 26,
-   "baseline": 10280,
-   "baselineNote": "판매글 8곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hOhTbdnqU0"
   }
  ]
 }
