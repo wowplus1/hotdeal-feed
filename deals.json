@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-16T16:07:29.092+09:00",
+ "updated": "2026-10-16T17:56:59.393+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1835276374",
+   "mall": "롯데온",
+   "title": "닥터크리닉 치석치약 140g*10개 + 50g*3개 추가증정",
+   "price": 14500,
+   "image": "https://contents.lotteon.com/itemimage/20261012174755/LO/25/22/92/54/42/_2/52/29/25/44/3/LO2522925442_2522925443_1.png",
+   "sentAt": "2026-10-16T17:56:58.584+09:00",
+   "saving": 23,
+   "baseline": 18715,
+   "baselineNote": "판매글 5곳 최저가",
+   "link": "http://app.ac/Cjwmg5a63"
+  },
   {
    "uid": "5934764905",
    "mall": "쿠팡",
@@ -718,18 +730,6 @@
    "baseline": 48150,
    "baselineNote": "판매글 16곳 최저가",
    "link": "https://link.coupang.com/a/hN8LtNZ8U0"
-  },
-  {
-   "uid": "9979892399",
-   "mall": "쿠팡",
-   "title": "전기 충전식 휴대용 손난로 보조배터리 5000mAh",
-   "price": 8380,
-   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2024/11/18/15/5/c29fab8c-de20-4387-bdf8-d5e0a6e6cb69.jpg",
-   "sentAt": "2026-10-13T11:44:51.362+09:00",
-   "saving": 56,
-   "baseline": 18840,
-   "baselineNote": "판매글 6곳 최저가",
-   "link": "https://link.coupang.com/a/hN0eTAnL5g"
   }
  ]
 }
