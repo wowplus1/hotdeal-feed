@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-15T21:42:30.591+09:00",
+ "updated": "2026-10-16T10:10:56.840+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5677139445",
+   "mall": "지마켓",
+   "title": "센텔리안24 마데카옴므 올인원 에센스 125ml X 3개",
+   "price": 21920,
+   "image": "https://gdimg.gmarket.co.kr/4736020999/goodsimage",
+   "sentAt": "2026-10-16T10:10:56.035+09:00",
+   "saving": 31,
+   "baseline": 31630,
+   "baselineNote": "48곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4736020999"
+  },
   {
    "uid": "6254327135",
    "mall": "쿠팡",
@@ -728,16 +741,6 @@
    "baselineNote": "81곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hMK8t6YaMC"
-  },
-  {
-   "uid": "9210204930",
-   "mall": "쿠팡",
-   "title": "하남쭈꾸미 보통 매운맛 , 350g, 1개",
-   "price": 6490,
-   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/8500347333226900-ef4a589d-b987-4a35-b5be-d230839bea1d.jpg",
-   "sentAt": "2026-10-12T17:20:47.558+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hMJjVEXjBA"
   }
  ]
 }
