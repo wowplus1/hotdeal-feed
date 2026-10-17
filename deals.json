@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-17T11:20:54.506+09:00",
+ "updated": "2026-10-17T11:32:12.901+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6772347138",
+   "mall": "롯데온",
+   "title": "광동 비타500 제로 스파클링 유자 250ml 24캔",
+   "price": 9840,
+   "image": "https://contents.lotteon.com/itemimage/20260616122454/LO/27/02/08/11/22/_2/70/20/81/12/3/LO2702081122_2702081123_1.jpg",
+   "sentAt": "2026-10-17T11:32:12.379+09:00",
+   "unit": "[object Object]",
+   "link": "http://app.ac/OqnzXd243"
+  },
   {
    "uid": "3673033000",
    "mall": "토스쇼핑",
@@ -722,19 +732,6 @@
    "baselineNote": "45곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hPmkh17Zvg"
-  },
-  {
-   "uid": "9878273167",
-   "mall": "쿠팡",
-   "title": "하늘보리 에코 무라벨 500ml 20개",
-   "price": 12240,
-   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/381711721875626-f63d3efa-506b-42b8-9515-f19e338b5d79.jpg",
-   "sentAt": "2026-10-14T07:08:06.524+09:00",
-   "saving": 36,
-   "baseline": 18990,
-   "baselineNote": "판매글 25곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gF4DJc9Foi"
   }
  ]
 }
