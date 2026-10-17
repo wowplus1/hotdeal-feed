@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-18T07:21:40.063+09:00",
+ "updated": "2026-10-18T07:56:08.061+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1223397952",
+   "mall": "토스쇼핑",
+   "title": "교동 육개장, 500g, 10개",
+   "price": 19100,
+   "image": "https://shopping.toss.im/live/taca/ai/OTI5MmUz/QU5MY1g2WFNMTld0djl5bHBaU2szLzBIbUVpc081U2lkVzBRelZRMEw2V2k.png",
+   "sentAt": "2026-10-18T07:56:07.522+09:00",
+   "saving": 37,
+   "baseline": 30320,
+   "baselineNote": "64곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/DHH75vZp"
+  },
   {
    "uid": "4027254536",
    "mall": "쿠팡",
@@ -723,18 +736,6 @@
    "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/00c1e8f9-3ea7-4bf6-808a-f1a9da5c96488266312894763387101.png",
    "sentAt": "2026-10-14T09:28:00.736+09:00",
    "link": "https://link.coupang.com/a/hPvmsgldJY"
-  },
-  {
-   "uid": "6376876518",
-   "mall": "11번가",
-   "title": "마켓오 브라우니 황치즈 12입, 4개",
-   "price": 15150,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9142911783/B.webp?502236538",
-   "sentAt": "2026-10-14T09:20:01.642+09:00",
-   "saving": 46,
-   "baseline": 28000,
-   "baselineNote": "판매글 3곳 최저가",
-   "link": "http://app.ac/p3M7giJ23"
   }
  ]
 }
