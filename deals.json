@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-17T15:05:03.996+09:00",
+ "updated": "2026-10-17T19:00:10.148+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5160033506",
+   "mall": "지마켓",
+   "title": "국내산 신안 새우젓 1kg x 2병",
+   "price": 10370,
+   "image": "https://gdimg.gmarket.co.kr/2583702784/goodsimage",
+   "sentAt": "2026-10-17T19:00:09.342+09:00",
+   "saving": 44,
+   "baseline": 18550,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2583702784"
+  },
   {
    "uid": "6616138584",
    "mall": "롯데온",
@@ -721,16 +734,6 @@
    "baseline": 18710,
    "baselineNote": "10곳 중 최저 · 무료배송",
    "link": "https://link.coupang.com/a/hPnM6VcqaG"
-  },
-  {
-   "uid": "9218488334",
-   "mall": "쿠팡",
-   "title": "티젠 콤부차 매실 5g 50개입 1개",
-   "price": 9900,
-   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/306394530621593-9efa1b57-e482-4265-a635-9f609ecf9b2a.jpg",
-   "sentAt": "2026-10-14T07:31:27.975+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gRFUKWGg3w"
   }
  ]
 }
