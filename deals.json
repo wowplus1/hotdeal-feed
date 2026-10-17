@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-17T21:25:59.229+09:00",
+ "updated": "2026-10-18T07:04:24.804+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7941705426",
+   "mall": "쿠팡",
+   "title": "프로그 고리형 고무장갑 5개",
+   "price": 5600,
+   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/cf7db46e-cbe4-459c-a9ce-ee46da1ba01f2288763497349359946.png",
+   "sentAt": "2026-10-18T07:04:24.053+09:00",
+   "saving": 56,
+   "baseline": 12650,
+   "baselineNote": "판매글 11곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hVYIGDanAW"
+  },
   {
    "uid": "2945209003",
    "mall": "쿠팡",
@@ -722,19 +735,6 @@
    "baselineNote": "판매글 14곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gYDSauYN6O"
-  },
-  {
-   "uid": "1528163346",
-   "mall": "쿠팡",
-   "title": "웅진 생차 녹차, 500ml, 20개",
-   "price": 10650,
-   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/01/07/11/1/fa12adfe-8433-43ef-adeb-eda4d40104a9.jpg",
-   "sentAt": "2026-10-14T08:04:51.544+09:00",
-   "saving": 37,
-   "baseline": 16900,
-   "baselineNote": "67곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gOofhpwk6S"
   }
  ]
 }
