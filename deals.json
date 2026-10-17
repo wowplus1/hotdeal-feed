@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-18T07:04:24.804+09:00",
+ "updated": "2026-10-18T07:21:40.063+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4027254536",
+   "mall": "쿠팡",
+   "title": "왕뚜껑 미니 컵라면 80g, 16개",
+   "price": 9370,
+   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/fc87/4884e2ea16c439d9cf3bd2efaa1867c20a73e0eac1fefce44b22a487fc48.jpg",
+   "sentAt": "2026-10-18T07:21:39.520+09:00",
+   "saving": 27,
+   "baseline": 12880,
+   "baselineNote": "110곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hVZW0P2bLM"
+  },
   {
    "uid": "7941705426",
    "mall": "쿠팡",
@@ -722,19 +735,6 @@
    "baseline": 28000,
    "baselineNote": "판매글 3곳 최저가",
    "link": "http://app.ac/p3M7giJ23"
-  },
-  {
-   "uid": "1014225167",
-   "mall": "쿠팡",
-   "title": "조지아 블랙 커피 600ml 24개",
-   "price": 21360,
-   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/145866709860561-892b023b-22f7-4d17-adb4-34e9315630c3.jpg",
-   "sentAt": "2026-10-14T08:11:35.626+09:00",
-   "saving": 31,
-   "baseline": 30980,
-   "baselineNote": "판매글 14곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gYDSauYN6O"
   }
  ]
 }
