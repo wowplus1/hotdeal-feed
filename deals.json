@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-17T19:00:10.148+09:00",
+ "updated": "2026-10-17T21:25:59.229+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2945209003",
+   "mall": "쿠팡",
+   "title": "공차 레몬 자스민티, 500ml, 6개",
+   "price": 4880,
+   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/05/20/16/8/9d35ba6a-60db-4760-847c-115a3465eaee.png",
+   "sentAt": "2026-10-17T21:25:58.389+09:00",
+   "saving": 46,
+   "baseline": 9120,
+   "baselineNote": "판매글 27곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hVjmO5zF6W"
+  },
   {
    "uid": "5160033506",
    "mall": "지마켓",
@@ -722,18 +735,6 @@
    "baselineNote": "67곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gOofhpwk6S"
-  },
-  {
-   "uid": "4061195109",
-   "mall": "쿠팡",
-   "title": "이자녹스 로얄 골든 스네일 크림,l 60ml*1개",
-   "price": 8390,
-   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/209968185863426-ca35362a-23ec-4a05-bf2e-a988db49751e.jpg",
-   "sentAt": "2026-10-14T07:42:10.643+09:00",
-   "saving": 55,
-   "baseline": 18710,
-   "baselineNote": "10곳 중 최저 · 무료배송",
-   "link": "https://link.coupang.com/a/hPnM6VcqaG"
   }
  ]
 }
