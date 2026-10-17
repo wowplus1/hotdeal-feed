@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-17T11:32:12.901+09:00",
+ "updated": "2026-10-17T15:05:03.996+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6616138584",
+   "mall": "롯데온",
+   "title": "테이퍼드 하프 밴딩 반바지 4colors",
+   "price": 21280,
+   "image": "https://contents.lotteon.com/itemimage/20260813132628/LO/14/55/26/56/76/bndl_img/LO1455265676_1.jpg",
+   "sentAt": "2026-10-17T15:05:03.227+09:00",
+   "saving": 41,
+   "baseline": 35910,
+   "baselineNote": "판매글 8곳 최저가",
+   "link": "http://app.ac/Ubp85sl03"
+  },
   {
    "uid": "6772347138",
    "mall": "롯데온",
@@ -719,19 +731,6 @@
    "sentAt": "2026-10-14T07:31:27.975+09:00",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gRFUKWGg3w"
-  },
-  {
-   "uid": "1447465414",
-   "mall": "쿠팡",
-   "title": "풀무원 로스팅 짜장 파기름 라면 105g, 24개",
-   "price": 13700,
-   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/22e0/ec41c955422771a536ba75dfe16164e1a2aab722f205d82dcf6f68e63fbf.JPG",
-   "sentAt": "2026-10-14T07:21:22.537+09:00",
-   "saving": 22,
-   "baseline": 17480,
-   "baselineNote": "45곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hPmkh17Zvg"
   }
  ]
 }
