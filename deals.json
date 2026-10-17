@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-17T07:10:45.671+09:00",
+ "updated": "2026-10-17T09:54:06.528+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2473631622",
+   "mall": "쿠팡",
+   "title": "네파키즈 아동용 조르노2 스니커즈 KLG7609",
+   "price": 23700,
+   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1348337547828940-3804c69f-285c-41ce-a9f4-c172352ecf16.jpg",
+   "sentAt": "2026-10-17T09:54:05.785+09:00",
+   "saving": 58,
+   "baseline": 55920,
+   "baselineNote": "판매글 12곳 최저가",
+   "link": "https://link.coupang.com/a/hUvX5CB8RE"
+  },
   {
    "uid": "9403967327",
    "mall": "쿠팡",
@@ -721,18 +733,6 @@
    "baselineNote": "판매글 3곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hOrfj3Oiaq"
-  },
-  {
-   "uid": "7745386748",
-   "mall": "롯데온",
-   "title": "제타 2.6 남녀공용 롱패딩 롱다운 벤치다운 롱패딩자켓 DUW26591",
-   "price": 138520,
-   "image": "https://contents.lotteon.com/itemimage/20261013154819/LE/12/20/33/11/68/_1/32/23/25/98/7/LE1220331168_1322325987_1.jpg",
-   "sentAt": "2026-10-13T17:59:46.250+09:00",
-   "saving": 26,
-   "baseline": 186930,
-   "baselineNote": "25곳 중 최저 · 무료배송",
-   "link": "http://app.ac/SAGUdu593"
   }
  ]
 }
