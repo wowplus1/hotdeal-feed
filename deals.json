@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-17T10:02:41.306+09:00",
+ "updated": "2026-10-17T10:04:03.791+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3107940047",
+   "mall": "쿠팡",
+   "title": "티젠 애사비소다 오리지널, 500ml*24개",
+   "price": 10450,
+   "image": "https://thumbnail1.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1778024901894816-225ef483-2723-4797-9e77-c2cdd18e2674.jpg",
+   "sentAt": "2026-10-17T10:04:03.314+09:00",
+   "saving": 35,
+   "baseline": 15960,
+   "baselineNote": "판매글 9곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gMCFJh2EM0"
+  },
   {
    "uid": "8591408128",
    "mall": "쿠팡",
@@ -721,18 +734,6 @@
    "baseline": 23420,
    "baselineNote": "판매글 4곳 최저가",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=3256334877"
-  },
-  {
-   "uid": "9615080025",
-   "mall": "지마켓",
-   "title": "크리넥스 키친타월 3겹 120매 12롤2팩",
-   "price": 18870,
-   "image": "https://gdimg.gmarket.co.kr/2122923219/goodsimage",
-   "sentAt": "2026-10-13T20:30:10.230+09:00",
-   "saving": 40,
-   "baseline": 31590,
-   "baselineNote": "판매글 11곳 최저가",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2122923219"
   }
  ]
 }
