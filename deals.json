@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-17T09:54:06.528+09:00",
+ "updated": "2026-10-17T10:02:41.306+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8591408128",
+   "mall": "쿠팡",
+   "title": "해피홈 멸균밴드 S 혼합형, 100개입, 1개 2,960원",
+   "price": 2960,
+   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/61598505491327-9ec81f7a-e8fd-42e0-9b27-a122be6df00a.png",
+   "sentAt": "2026-10-17T10:02:40.736+09:00",
+   "saving": 44,
+   "baseline": 5240,
+   "baselineNote": "판매글 6곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hUwy6asp4e"
+  },
   {
    "uid": "2473631622",
    "mall": "쿠팡",
@@ -720,19 +733,6 @@
    "baseline": 31590,
    "baselineNote": "판매글 11곳 최저가",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2122923219"
-  },
-  {
-   "uid": "4487880986",
-   "mall": "쿠팡",
-   "title": "풀무원 김치 생 수제비 2인분, 423.2g, 2개 7,000원",
-   "price": 7000,
-   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/a747006b-81a4-4e23-8619-f40ea7178d4d5734071853586486666.png",
-   "sentAt": "2026-10-13T18:02:38.873+09:00",
-   "saving": 28,
-   "baseline": 9790,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hOrfj3Oiaq"
   }
  ]
 }
