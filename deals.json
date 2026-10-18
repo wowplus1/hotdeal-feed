@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-18T09:22:21.593+09:00",
+ "updated": "2026-10-18T10:36:36.937+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6683469433",
+   "mall": "토스쇼핑",
+   "title": "농협안심 새청무 탄탄대로 쌀, 상등급, 10kg, 1개",
+   "price": 27000,
+   "image": "https://shopping.toss.im/live/taca/ai/Zjg1MDlh/SncvU1dsaTJKYXl4NGR1aEx4bTIxbGh2UzBxYnN2V2xwTmthU1ZsazViWT0.png",
+   "sentAt": "2026-10-18T10:36:36.207+09:00",
+   "saving": 44,
+   "baseline": 48180,
+   "baselineNote": "판매글 9곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://toss.im/_m/hvDqmCgh"
+  },
   {
    "uid": "1856471201",
    "mall": "쿠팡",
@@ -724,19 +737,6 @@
    "baselineNote": "판매글 8곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hPEN1NrYe4"
-  },
-  {
-   "uid": "3216175346",
-   "mall": "토스쇼핑",
-   "title": "라오메뜨 전설의패치 레전드, 준대형, 40매, 1개",
-   "price": 6700,
-   "image": "https://shopping.toss.im/live/taca/ai/ODYyZDZm/ZkRRSG4vUGg1SDFIbTd0ay9sTVIvSStENFBnQVBQL0NOQTBQOG0va2NBVT0.png",
-   "sentAt": "2026-10-14T11:31:04.255+09:00",
-   "saving": 56,
-   "baseline": 15300,
-   "baselineNote": "77곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://toss.im/_m/LQTZqmS4"
   }
  ]
 }
