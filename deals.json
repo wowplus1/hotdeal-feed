@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-19T08:30:48.500+09:00",
+ "updated": "2026-10-19T08:56:46.210+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9196802958",
+   "mall": "쿠팡",
+   "title": "아이오페 레티놀 슈퍼 바운스 세럼 30ml 세트",
+   "price": 17300,
+   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/08/13/11/1/1a003e03-49ec-4a6a-8d49-070e7daf8f1d.jpg",
+   "sentAt": "2026-10-19T08:56:45.607+09:00",
+   "saving": 30,
+   "baseline": 24600,
+   "baselineNote": "판매글 4곳 최저가",
+   "link": "https://link.coupang.com/a/hXLEg9wUdU"
+  },
   {
    "uid": "8474491236",
    "mall": "쿠팡",
@@ -726,19 +738,6 @@
    "baselineNote": "260곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gayrSFqAM0"
-  },
-  {
-   "uid": "8534946572",
-   "mall": "쿠팡",
-   "title": "하이뮨 프로틴 울트라 블랙초코, 400ml, 6개",
-   "price": 12870,
-   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/05/19/17/9/f9c15860-0166-4a33-bb29-36feb1f92d4d.jpg",
-   "sentAt": "2026-10-15T08:14:58.033+09:00",
-   "saving": 43,
-   "baseline": 22750,
-   "baselineNote": "18곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hQ438EgldQ"
   }
  ]
 }
