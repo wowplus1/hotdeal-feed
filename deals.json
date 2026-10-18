@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-18T12:29:42.498+09:00",
+ "updated": "2026-10-18T14:50:08.871+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4834345640",
+   "mall": "롯데온",
+   "title": "밀가루없는 연육함량 85% 대구 명물 서문시장식 양념오뎅 X 5팩",
+   "price": 13340,
+   "image": "https://contents.lotteon.com/itemimage/20261016090806/LO/27/88/19/22/26/_2/78/81/92/22/7/LO2788192226_2788192227_1.jpg",
+   "sentAt": "2026-10-18T14:50:08.088+09:00",
+   "saving": 23,
+   "baseline": 17320,
+   "baselineNote": "판매글 6곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/oqnBpZ203"
+  },
   {
    "uid": "4174180945",
    "mall": "쿠팡",
@@ -722,18 +735,6 @@
    "baselineNote": "11곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hP6jtdglCS"
-  },
-  {
-   "uid": "7287716706",
-   "mall": "지마켓",
-   "title": "듀오락 생유산균 초코볼 55개입 2개+증정 30,380원",
-   "price": 30380,
-   "image": "https://gdimg.gmarket.co.kr/2618481105/goodsimage",
-   "sentAt": "2026-10-14T18:03:37.095+09:00",
-   "saving": 42,
-   "baseline": 51950,
-   "baselineNote": "판매글 6곳 최저가",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2618481105"
   }
  ]
 }
