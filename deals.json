@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-18T11:20:53.331+09:00",
+ "updated": "2026-10-18T11:59:27.537+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8531907738",
+   "mall": "11번가",
+   "title": "매직캔 리필봉투 MH250 MJ250 M250",
+   "price": 14970,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/3/6/4/2/0/7/fiwBx/9094364207_241202569.webp",
+   "sentAt": "2026-10-18T11:59:26.711+09:00",
+   "saving": 24,
+   "baseline": 19670,
+   "baselineNote": "판매글 27곳 최저가",
+   "link": "http://app.ac/5jwSc7a43"
+  },
   {
    "uid": "6344944334",
    "mall": "토스쇼핑",
@@ -722,19 +734,6 @@
    "baseline": 17670,
    "baselineNote": "판매글 3곳 최저가",
    "link": "http://app.ac/gjwlLYa83"
-  },
-  {
-   "uid": "9671578496",
-   "mall": "쿠팡",
-   "title": "테일러 푸룬 딥워터 180ml 4개",
-   "price": 12510,
-   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1047924397647343-3172b7eb-c021-4a65-aa6a-f103031b141e.jpg",
-   "sentAt": "2026-10-14T15:21:58.197+09:00",
-   "saving": 38,
-   "baseline": 20310,
-   "baselineNote": "32곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hqvja1pSOi"
   }
  ]
 }
