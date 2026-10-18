@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-18T07:56:08.061+09:00",
+ "updated": "2026-10-18T09:14:52.343+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7452056257",
+   "mall": "쿠팡",
+   "title": "코코라 올레즈 초코 파티 크래커 10g, 120개",
+   "price": 9900,
+   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/29147623042514-8492f848-cc8b-499f-8fb3-857cb28754e5.jpg",
+   "sentAt": "2026-10-18T09:14:51.389+09:00",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hV72MIwEyi"
+  },
   {
    "uid": "1223397952",
    "mall": "토스쇼핑",
@@ -727,15 +737,6 @@
    "baselineNote": "판매글 5곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hPyqeTJVLw"
-  },
-  {
-   "uid": "6328606036",
-   "mall": "쿠팡",
-   "title": "이니스프리 그린티 세라마이드 밀크 에센스, 160ml, 1개",
-   "price": 8120,
-   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/00c1e8f9-3ea7-4bf6-808a-f1a9da5c96488266312894763387101.png",
-   "sentAt": "2026-10-14T09:28:00.736+09:00",
-   "link": "https://link.coupang.com/a/hPvmsgldJY"
   }
  ]
 }
