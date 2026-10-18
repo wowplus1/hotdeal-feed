@@ -1,7 +1,33 @@
 {
- "updated": "2026-10-18T09:14:52.343+09:00",
+ "updated": "2026-10-18T09:22:21.593+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1856471201",
+   "mall": "쿠팡",
+   "title": "케어웰 트리플 하루당차 500ml 20개",
+   "price": 28750,
+   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/4318/a31eeb5c0469607ef741e7b021c1d932fbff886e88d23be9efad6348ad6a.jpg",
+   "sentAt": "2026-10-18T09:22:21.057+09:00",
+   "saving": 35,
+   "baseline": 44500,
+   "baselineNote": "판매글 6곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hV8yeRxRlY"
+  },
+  {
+   "uid": "2790871906",
+   "mall": "쿠팡",
+   "title": "고래밥 볶음양념맛, 46g, 4개",
+   "price": 2500,
+   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/20d8/e8eb76cee82eafe2081ef6b89f80c18dff21f8dee1ad28997e0954e1fb41.jpg",
+   "sentAt": "2026-10-18T09:22:21.057+09:00",
+   "saving": 26,
+   "baseline": 3390,
+   "baselineNote": "16곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gukWJicvFA"
+  },
   {
    "uid": "7452056257",
    "mall": "쿠팡",
@@ -711,32 +737,6 @@
    "baselineNote": "77곳 중 최저",
    "unit": "[object Object]",
    "link": "https://toss.im/_m/LQTZqmS4"
-  },
-  {
-   "uid": "4671094312",
-   "mall": "토스쇼핑",
-   "title": "마른줄기 상추 궁채, 500g, 1개",
-   "price": 8200,
-   "image": "https://shopping.toss.im/live/temp/2026-07-29/ddf27c6e-f87d-49fe-87ce-a5420ff1c4f7.jpeg",
-   "sentAt": "2026-10-14T11:31:04.255+09:00",
-   "saving": 31,
-   "baseline": 11810,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/zYaA4Vgn"
-  },
-  {
-   "uid": "8116871803",
-   "mall": "쿠팡",
-   "title": "엔요 유산균음료 플레인, 200ml, 24개",
-   "price": 8900,
-   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/59555272630100-9134e38b-7fa2-49fa-b96c-7b24a1d0cbf8.jpg",
-   "sentAt": "2026-10-14T10:10:49.894+09:00",
-   "saving": 29,
-   "baseline": 12500,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hPyqeTJVLw"
   }
  ]
 }
