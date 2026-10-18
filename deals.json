@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-18T10:36:36.937+09:00",
+ "updated": "2026-10-18T10:55:51.106+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4501752268",
+   "mall": "쿠팡",
+   "title": "오뚜기 짜슐랭 145g 15개",
+   "price": 9150,
+   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/958710174931072-3d5c8886-7f82-4ba8-b006-65f36d275acc.jpg",
+   "sentAt": "2026-10-18T10:55:50.560+09:00",
+   "saving": 22,
+   "baseline": 11730,
+   "baselineNote": "33곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gPWHAeoars"
+  },
   {
    "uid": "6683469433",
    "mall": "토스쇼핑",
@@ -724,19 +737,6 @@
    "baseline": 16900,
    "baselineNote": "73곳 중 최저 · 무료배송",
    "link": "https://link.coupang.com/a/gPX0yHsMEK"
-  },
-  {
-   "uid": "3923455692",
-   "mall": "쿠팡",
-   "title": "고당도 세척사과 2kg",
-   "price": 6900,
-   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/389a/3c050f602f62b2a00944ba9572b2d73f20989f1fa4042b6c393aa0139f2b.png",
-   "sentAt": "2026-10-14T11:40:24.674+09:00",
-   "saving": 55,
-   "baseline": 15500,
-   "baselineNote": "판매글 8곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hPEN1NrYe4"
   }
  ]
 }
