@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-18T15:20:53.500+09:00",
+ "updated": "2026-10-18T17:26:25.600+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8753566840",
+   "mall": "토스쇼핑",
+   "title": "가쯔 오래쓰는 자동 변기세정제, 260g, 4개",
+   "price": 5990,
+   "image": "https://shopping.toss.im/live/taca/ai/Nzc2MTU4/QUtsOGJFZHBLZWp3N0h4ZEQxU0dvMUNHMGg0UEtwR1EwQlVyVnFNbEM2clc.png",
+   "sentAt": "2026-10-18T17:26:24.812+09:00",
+   "saving": 38,
+   "baseline": 9660,
+   "baselineNote": "판매글 16곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/HW7Wrsg2"
+  },
   {
    "uid": "9587414680",
    "mall": "토스쇼핑",
@@ -724,18 +737,6 @@
    "baselineNote": "875곳 중 최저",
    "unit": "[object Object]",
    "link": "https://toss.shopping/_m/zDiHjDRo"
-  },
-  {
-   "uid": "3500881760",
-   "mall": "쿠팡",
-   "title": "Toocki PD60W 코일 C타입 차량용 초고속 충전 케이블",
-   "price": 5800,
-   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/8054/5766c1bace178ea4016bbd36803838444d73d46d52369c8f8e8c34928de6.jpg",
-   "sentAt": "2026-10-14T20:14:51.060+09:00",
-   "saving": 33,
-   "baseline": 8640,
-   "baselineNote": "판매글 5곳 최저가",
-   "link": "https://link.coupang.com/a/gkNABBlNka"
   }
  ]
 }
