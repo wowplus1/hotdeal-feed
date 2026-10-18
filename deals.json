@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-19T07:04:39.780+09:00",
+ "updated": "2026-10-19T07:09:26.677+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3318335931",
+   "mall": "쿠팡",
+   "title": "TRIXIE 고 팝 플랫 롤리팝, 2kg, 1개",
+   "price": 6840,
+   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/ab8574d2-cbc5-428c-870a-5c920c2303947635009698244620519.png",
+   "sentAt": "2026-10-19T07:09:26.114+09:00",
+   "saving": 43,
+   "baseline": 12020,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hXDZ1PdBJc"
+  },
   {
    "uid": "1192800326",
    "mall": "쿠팡",
@@ -723,19 +736,6 @@
    "sentAt": "2026-10-15T07:17:25.179+09:00",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hQ0WgOtyE0"
-  },
-  {
-   "uid": "8156012802",
-   "mall": "쿠팡",
-   "title": "순샘 베이킹소다 피톤치드향 주방세제 리필, 1.4L, 3개",
-   "price": 6300,
-   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/images/2019/03/13/19/4/a024ff8e-436e-4f6c-b31c-01fb97d55ae9.jpg",
-   "sentAt": "2026-10-15T07:00:51.498+09:00",
-   "saving": 47,
-   "baseline": 11980,
-   "baselineNote": "판매글 6곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/f9z6eXt36G"
   }
  ]
 }
