@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-18T10:55:51.106+09:00",
+ "updated": "2026-10-18T11:06:32.917+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7057426668",
+   "mall": "쿠팡",
+   "title": "헬시오리진스 퍼포먼스 크레아틴 600g 2개",
+   "price": 57470,
+   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/c555/bfae3ca1b51ede71aaa1b586da086280e97aa64979cd3bb32f5e9150e4cb.jpg",
+   "sentAt": "2026-10-18T11:06:32.372+09:00",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hWf2pzmCD6"
+  },
   {
    "uid": "4501752268",
    "mall": "쿠팡",
@@ -725,18 +735,6 @@
    "baselineNote": "판매글 5곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/geHg01A3Ua"
-  },
-  {
-   "uid": "4059704542",
-   "mall": "쿠팡",
-   "title": "스너글 섬유유연제 햇빛건조향 허거블 선샤인 본품, 4L, 1개",
-   "price": 12850,
-   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/31b1/a6acc5b1eac9586409e02d0c0df6485e5e6017b55dafae750a72d66bf300.jpg",
-   "sentAt": "2026-10-14T12:02:52.640+09:00",
-   "saving": 24,
-   "baseline": 16900,
-   "baselineNote": "73곳 중 최저 · 무료배송",
-   "link": "https://link.coupang.com/a/gPX0yHsMEK"
   }
  ]
 }
