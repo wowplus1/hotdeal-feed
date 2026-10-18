@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-18T14:50:08.871+09:00",
+ "updated": "2026-10-18T15:14:48.255+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5883852319",
+   "mall": "쿠팡",
+   "title": "마카로니, 2.4kg, 1개",
+   "price": 19900,
+   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/image_audit/stage/manual/58cbaba4-7b13-47c4-bfa4-aa8b61533213_1777449492445.jpeg",
+   "sentAt": "2026-10-18T15:14:47.709+09:00",
+   "saving": 23,
+   "baseline": 25780,
+   "baselineNote": "판매글 10곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hWxLqOKqtg"
+  },
   {
    "uid": "4834345640",
    "mall": "롯데온",
@@ -722,19 +735,6 @@
    "baseline": 269000,
    "baselineNote": "다른 곳 최저",
    "link": "https://link.coupang.com/a/hQaA26TKAS"
-  },
-  {
-   "uid": "9350208540",
-   "mall": "쿠팡",
-   "title": "오뚜기 스테이크 소스, 470g, 2개",
-   "price": 4880,
-   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/620576217624147-b759c456-ecdc-4b16-849f-7f32c06c3af7.jpg",
-   "sentAt": "2026-10-14T18:05:25.623+09:00",
-   "saving": 30,
-   "baseline": 7000,
-   "baselineNote": "11곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hP6jtdglCS"
   }
  ]
 }
