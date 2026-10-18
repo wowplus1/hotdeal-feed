@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-18T18:07:05.919+09:00",
+ "updated": "2026-10-19T07:04:39.780+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1192800326",
+   "mall": "쿠팡",
+   "title": "에디파이어 ES850NB 무선 노이즈캔슬링 오버이어 헤드폰",
+   "price": 69490,
+   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/03/10/18/2/923502e1-d36d-492c-a268-ccc8c626c0fe.jpg",
+   "sentAt": "2026-10-19T07:04:39.027+09:00",
+   "saving": 30,
+   "baseline": 98990,
+   "baselineNote": "다른 곳 최저",
+   "link": "https://link.coupang.com/a/hXDCG1t1K8"
+  },
   {
    "uid": "9619858317",
    "mall": "쿠팡",
@@ -724,19 +736,6 @@
    "baselineNote": "판매글 6곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/f9z6eXt36G"
-  },
-  {
-   "uid": "7772365418",
-   "mall": "쿠팡",
-   "title": "오리온 도도한 나쵸 치즈맛, 92g, 4개",
-   "price": 4100,
-   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/96608067583187-8b976fec-cfc3-4386-bbf2-c46ce5b24606.jpg",
-   "sentAt": "2026-10-14T21:35:36.585+09:00",
-   "saving": 33,
-   "baseline": 6080,
-   "baselineNote": "3곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hQlm79cHcG"
   }
  ]
 }
