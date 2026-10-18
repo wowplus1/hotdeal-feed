@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-18T11:06:32.917+09:00",
+ "updated": "2026-10-18T11:20:53.331+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6344944334",
+   "mall": "토스쇼핑",
+   "title": "쏘울너츠 100% 땅콩버터 크런치, 500g, 2개",
+   "price": 6970,
+   "image": "https://shopping.toss.im/live/temp/2026-01-14/a0a74bde-8214-479d-bc11-399abd45a539.jpeg",
+   "sentAt": "2026-10-18T11:20:52.643+09:00",
+   "saving": 33,
+   "baseline": 10330,
+   "baselineNote": "판매글 17곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/Xe5jv76A"
+  },
   {
    "uid": "7057426668",
    "mall": "쿠팡",
@@ -722,19 +735,6 @@
    "baselineNote": "32곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hqvja1pSOi"
-  },
-  {
-   "uid": "3936684665",
-   "mall": "쿠팡",
-   "title": "포스트 크랜베리 아몬드 그래놀라, 500g, 1개",
-   "price": 8700,
-   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/07/18/18/5/215bf88d-569f-4163-8816-51a894652b19.png",
-   "sentAt": "2026-10-14T12:25:12.871+09:00",
-   "saving": 22,
-   "baseline": 11130,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/geHg01A3Ua"
   }
  ]
 }
