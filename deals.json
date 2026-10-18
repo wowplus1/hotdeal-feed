@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-18T15:14:48.255+09:00",
+ "updated": "2026-10-18T15:20:53.500+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9587414680",
+   "mall": "토스쇼핑",
+   "title": "블랙트러플 하몽 소다 크래커, 294g, 3개",
+   "price": 8890,
+   "image": "https://shopping.toss.im/live/taca/ai/ZDEzMDE4/VDZVOE1mQyt0WTJFdmt1M2ZXbGFTd3REYXRUZ1hwYXpGMVpWVHYvUnJXaz0.png",
+   "sentAt": "2026-10-18T15:20:52.675+09:00",
+   "saving": 33,
+   "baseline": 13270,
+   "baselineNote": "판매글 16곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/F1ijpgGu"
+  },
   {
    "uid": "5883852319",
    "mall": "쿠팡",
@@ -723,18 +736,6 @@
    "baseline": 8640,
    "baselineNote": "판매글 5곳 최저가",
    "link": "https://link.coupang.com/a/gkNABBlNka"
-  },
-  {
-   "uid": "4139178218",
-   "mall": "쿠팡",
-   "title": "ASUS ROG STRIX XG27ACS 역대가",
-   "price": 199000,
-   "image": "https://thumbnail1.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/06/08/9/3/f369280e-1310-4615-ac82-591776def3db.jpg",
-   "sentAt": "2026-10-14T19:04:45.498+09:00",
-   "saving": 26,
-   "baseline": 269000,
-   "baselineNote": "다른 곳 최저",
-   "link": "https://link.coupang.com/a/hQaA26TKAS"
   }
  ]
 }
