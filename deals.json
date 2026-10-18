@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-18T17:26:25.600+09:00",
+ "updated": "2026-10-18T18:07:05.919+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9619858317",
+   "mall": "쿠팡",
+   "title": "엠앤엠즈 밀크 픽앤믹스 초콜릿, 337.5g, 1개",
+   "price": 7960,
+   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/1025_amir_coupang_oct_80k/0ebd/baa69dcd5dc1731003c7f1ecdfabc812f3d5e8525f76ae52d382d3783158.jpg",
+   "sentAt": "2026-10-18T18:07:05.246+09:00",
+   "saving": 43,
+   "baseline": 13980,
+   "baselineNote": "21곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/f9zn55DdSe"
+  },
   {
    "uid": "8753566840",
    "mall": "토스쇼핑",
@@ -724,19 +737,6 @@
    "baselineNote": "3곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hQlm79cHcG"
-  },
-  {
-   "uid": "9356059259",
-   "mall": "토스쇼핑",
-   "title": "펩시 제로 슈거 라임향, 355ml, 24개",
-   "price": 10000,
-   "image": "https://shopping.toss.im/live/taca/ai/YTM1NDcy/TkQva3k4cHhXMkVkbnMyMDQ4dDJTeDQwbVpIRHcydzBiQXVUeTVMMGJEUT0.png",
-   "sentAt": "2026-10-14T21:34:59.473+09:00",
-   "saving": 26,
-   "baseline": 13510,
-   "baselineNote": "875곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/zDiHjDRo"
   }
  ]
 }
