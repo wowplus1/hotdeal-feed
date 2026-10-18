@@ -1,7 +1,33 @@
 {
- "updated": "2026-10-19T07:09:26.677+09:00",
+ "updated": "2026-10-19T08:30:48.500+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8474491236",
+   "mall": "쿠팡",
+   "title": "오뚜기 가뿐한끼 현미밥, 150g, 30개",
+   "price": 22980,
+   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/214668785683448-5eaa11d4-2bf1-4420-839e-7d3b1e2c892d.png",
+   "sentAt": "2026-10-19T08:30:47.734+09:00",
+   "saving": 22,
+   "baseline": 29560,
+   "baselineNote": "판매글 22곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hXJKc20dmm"
+  },
+  {
+   "uid": "7050927857",
+   "mall": "쿠팡",
+   "title": "클룹 애사비소다 오리지널 제로, 250ml, 24개",
+   "price": 13240,
+   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/24599234155900-6a7bf1be-daaf-432d-aa63-4f375a18225f.png",
+   "sentAt": "2026-10-19T08:30:47.733+09:00",
+   "saving": 44,
+   "baseline": 23650,
+   "baselineNote": "판매글 12곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gxKmREyFlA"
+  },
   {
    "uid": "3318335931",
    "mall": "쿠팡",
@@ -713,29 +739,6 @@
    "baselineNote": "18곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hQ438EgldQ"
-  },
-  {
-   "uid": "4859317296",
-   "mall": "쿠팡",
-   "title": "동원샘물 무라벨, 2L, 24개",
-   "price": 10120,
-   "image": "https://t3a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/72187695788658-c5ea3793-f790-4708-ba46-c43d287b338d.png",
-   "sentAt": "2026-10-15T08:04:57.334+09:00",
-   "saving": 24,
-   "baseline": 13250,
-   "baselineNote": "393곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gksz6w8iIK"
-  },
-  {
-   "uid": "2452488843",
-   "mall": "쿠팡",
-   "title": "롯데웰푸드 ABC초코쿠키, 152g, 3개",
-   "price": 6440,
-   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/6878/3d481fdee51186c3d760f08b3c56e61c9989813cb891886ff77c717d1f14.jpg",
-   "sentAt": "2026-10-15T07:17:25.179+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hQ0WgOtyE0"
   }
  ]
 }
