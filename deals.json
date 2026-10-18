@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-18T11:59:27.537+09:00",
+ "updated": "2026-10-18T12:29:42.498+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4174180945",
+   "mall": "쿠팡",
+   "title": "오리코 투명 알루미늄 USB 3.0 4K HDMI RJ45 허브",
+   "price": 13000,
+   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/835e/32eb457d5aae2a5f641ccd85f4e45da52b1bb477a6fec1e6e96b252f3055.jpg",
+   "sentAt": "2026-10-18T12:29:41.701+09:00",
+   "saving": 49,
+   "baseline": 25480,
+   "baselineNote": "판매글 24곳 최저가",
+   "link": "https://link.coupang.com/a/hWlYVqteVg"
+  },
   {
    "uid": "8531907738",
    "mall": "11번가",
@@ -722,18 +734,6 @@
    "baseline": 51950,
    "baselineNote": "판매글 6곳 최저가",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2618481105"
-  },
-  {
-   "uid": "3297329033",
-   "mall": "롯데온",
-   "title": "리큐 실내건조 세탁세제 시트러스향 2L*3개 + 450ml 추가증정",
-   "price": 10720,
-   "image": "https://contents.lotteon.com/itemimage/20260518164701/LO/26/81/66/40/12/_2/68/16/64/01/3/LO2681664012_2681664013_1.png",
-   "sentAt": "2026-10-14T15:41:57.218+09:00",
-   "saving": 39,
-   "baseline": 17670,
-   "baselineNote": "판매글 3곳 최저가",
-   "link": "http://app.ac/gjwlLYa83"
   }
  ]
 }
