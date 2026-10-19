@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-19T09:30:52.060+09:00",
+ "updated": "2026-10-19T09:41:34.867+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5455774864",
+   "mall": "11번가",
+   "title": "코카콜라 제로제로, 190ml, 30개",
+   "price": 11770,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/6740168974/B.webp?12122908",
+   "sentAt": "2026-10-19T09:41:34.290+09:00",
+   "saving": 31,
+   "baseline": 17020,
+   "baselineNote": "199곳 중 최저",
+   "unit": "[object Object]",
+   "link": "http://app.ac/vECmZLS23"
+  },
   {
    "uid": "4254306678",
    "mall": "쿠팡",
@@ -725,19 +738,6 @@
    "baselineNote": "판매글 8곳 최저가",
    "unit": "[object Object]",
    "link": "https://toss.shopping/_m/7krNHrhr"
-  },
-  {
-   "uid": "6305990565",
-   "mall": "쿠팡",
-   "title": "코카콜라 제로 무라벨, 370ml, 24개",
-   "price": 16790,
-   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/885a/5275afb0998711fbbbcf6aaf2e50daf49885f10e5c34208ec34c8e09e053.jpg",
-   "sentAt": "2026-10-15T09:05:53.349+09:00",
-   "saving": 23,
-   "baseline": 21890,
-   "baselineNote": "222곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gcfie4gWuy"
   }
  ]
 }
