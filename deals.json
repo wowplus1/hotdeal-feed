@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-19T08:56:46.210+09:00",
+ "updated": "2026-10-19T09:25:45.380+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7086711800",
+   "mall": "쿠팡",
+   "title": "크리넥스 울트라클린 천연펄프 3겹 고급롤화장지, 27m, 30개입, 1개",
+   "price": 13160,
+   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/7587974490006-951c0769-a359-496b-968d-8f57b1658ef2.png",
+   "sentAt": "2026-10-19T09:25:44.312+09:00",
+   "saving": 41,
+   "baseline": 22440,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hXNJF18sqi"
+  },
   {
    "uid": "9196802958",
    "mall": "쿠팡",
@@ -725,19 +738,6 @@
    "baseline": 51800,
    "baselineNote": "판매글 4곳 최저가",
    "link": "http://app.ac/NAGS83583"
-  },
-  {
-   "uid": "3008341893",
-   "mall": "쿠팡",
-   "title": "너구리 얼큰한맛 120g 10개",
-   "price": 7650,
-   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/294395527650331-992425e9-5e72-4223-9b75-41b6874458ad.png",
-   "sentAt": "2026-10-15T08:35:45.906+09:00",
-   "saving": 23,
-   "baseline": 9910,
-   "baselineNote": "260곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gayrSFqAM0"
   }
  ]
 }
