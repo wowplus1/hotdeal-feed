@@ -6,6 +6,7 @@ on:
   push:
     branches: [main]
     paths: ['deals.json', 'web.json']
+  workflow_dispatch:   # 손으로 시험할 때
 jobs:
   ping:
     runs-on: ubuntu-latest
