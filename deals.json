@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-20T07:16:21.315+09:00",
+ "updated": "2026-10-20T08:15:23.732+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5501648467",
+   "mall": "쿠팡",
+   "title": "토레타 이온음료, 500ml, 24개",
+   "price": 14480,
+   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/100102027674102-8cc77207-4f19-4e83-9119-7301407b36e3.jpg",
+   "sentAt": "2026-10-20T08:15:22.916+09:00",
+   "saving": 29,
+   "baseline": 20470,
+   "baselineNote": "판매글 11곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/garbm8eGxo"
+  },
   {
    "uid": "3487709486",
    "mall": "쿠팡",
@@ -725,16 +738,6 @@
    "baseline": 1680,
    "baselineNote": "판매글 3곳 최저가",
    "link": "https://link.coupang.com/a/hS0IyykAdU"
-  },
-  {
-   "uid": "7686135371",
-   "mall": "쿠팡",
-   "title": "펫러닝 수제육포 강아지간식 치킨맆, 15g, 20개",
-   "price": 12240,
-   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/513219261145098-e7ccdcec-6b3d-4f7f-a74b-35197c6375ba.jpg",
-   "sentAt": "2026-10-16T12:04:59.852+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hS0n1Xb5wG"
   }
  ]
 }
