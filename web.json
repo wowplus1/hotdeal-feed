@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-20T00:09:36.849+09:00",
- "count": 10,
+ "updated": "2026-10-20T07:16:17.440+09:00",
+ "count": 11,
  "items": [
+  {
+   "uid": "3414586183",
+   "mall": "쿠팡",
+   "title": "암바사 제로 by 환타, 345ml, 24개",
+   "price": 12820,
+   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/4b05/d9668a8b1de2086150ff6ae00c44b82a99062a00ef6edca525d82d1adf21.jpg",
+   "sentAt": "2026-10-20T07:16:17.440+09:00",
+   "saving": 12,
+   "baseline": 14580,
+   "baselineNote": "431곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gJDOYu0shM",
+   "web": true
+  },
   {
    "uid": "4179528553",
    "mall": "지마켓",
