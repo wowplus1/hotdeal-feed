@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-19T18:07:16.532+09:00",
+ "updated": "2026-10-19T19:16:36.482+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7188227965",
+   "mall": "쿠팡",
+   "title": "허쉬 코코아 파우더 226g*1개입*1개",
+   "price": 6000,
+   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/a1b88860-dfe6-4f91-a621-acd01313ca2f2442214052472405850.png",
+   "sentAt": "2026-10-19T19:16:35.574+09:00",
+   "saving": 55,
+   "baseline": 13210,
+   "baselineNote": "판매글 18곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hYtXY7pUZ2"
+  },
   {
    "uid": "9245909165",
    "mall": "롯데온",
@@ -725,19 +738,6 @@
    "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2849633657372996-bcd9b1ee-ad66-43c3-9682-ce568d3cd3b4.jpg",
    "sentAt": "2026-10-15T21:42:29.815+09:00",
    "link": "https://link.coupang.com/a/hR0Mxt7duK"
-  },
-  {
-   "uid": "6670276415",
-   "mall": "토스쇼핑",
-   "title": "부산포차 꼬치어묵, 400g, 3봉",
-   "price": 9900,
-   "image": "https://shopping.toss.im/live/taca/ai/NmE0Yzk5/UkFySGthUFRZNlZsbUxKY1NWWGtyVnNpQ3I4SHZ3bTJsbkowbThTdm5RRT0.png",
-   "sentAt": "2026-10-15T18:05:07.655+09:00",
-   "saving": 24,
-   "baseline": 13110,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://toss.im/_m/XUJXCqyD"
   }
  ]
 }
