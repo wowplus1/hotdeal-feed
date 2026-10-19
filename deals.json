@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-20T07:04:50.777+09:00",
+ "updated": "2026-10-20T07:16:21.315+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3487709486",
+   "mall": "쿠팡",
+   "title": "청정원순창 재래식 생된장, 2.8kg, 1개",
+   "price": 8780,
+   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/28401590849864-dc5e7736-f554-4f78-84d5-744f48ebd7a7.jpg",
+   "sentAt": "2026-10-20T07:16:20.732+09:00",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hZjlNbxWJo"
+  },
   {
    "uid": "6430656813",
    "mall": "쿠팡",
@@ -725,16 +735,6 @@
    "sentAt": "2026-10-16T12:04:59.852+09:00",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hS0n1Xb5wG"
-  },
-  {
-   "uid": "4762307098",
-   "mall": "지마켓",
-   "title": "올가니카 유기농 레몬수 아쿠아레몬 340ml x 12개",
-   "price": 5950,
-   "image": "https://gdimg.gmarket.co.kr/4843947001/goodsimage",
-   "sentAt": "2026-10-16T12:00:38.522+09:00",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4843947001"
   }
  ]
 }
