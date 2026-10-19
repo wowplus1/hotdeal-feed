@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-19T14:15:59.582+09:00",
+ "updated": "2026-10-19T14:30:49.098+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3933124757",
+   "mall": "쿠팡",
+   "title": "이니스프리 포레스트 쉐이빙 & 클렌징 폼, 150g, 2개",
+   "price": 9300,
+   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/256082018278201-8b1912bd-78cb-4ae5-b9be-0af59d51cd09.jpg",
+   "sentAt": "2026-10-19T14:30:48.452+09:00",
+   "saving": 27,
+   "baseline": 12800,
+   "baselineNote": "56곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hX9wdvHPEW"
+  },
   {
    "uid": "5839956679",
    "mall": "지마켓",
@@ -724,18 +737,6 @@
    "baselineNote": "40곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2442790543"
-  },
-  {
-   "uid": "8553685173",
-   "mall": "쿠팡",
-   "title": "스탠리 퀜처 프로투어 플립스트로 텀블러 1.18L*1개",
-   "price": 34140,
-   "image": "https://thumbnail1.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/975050457425344-62af8b2b-ba08-46f7-8a91-a7c86f8ac5f9.jpg",
-   "sentAt": "2026-10-15T14:29:04.579+09:00",
-   "saving": 45,
-   "baseline": 62100,
-   "baselineNote": "174곳 중 최저 · 무료배송",
-   "link": "https://link.coupang.com/a/hRvM0t1A4a"
   }
  ]
 }
