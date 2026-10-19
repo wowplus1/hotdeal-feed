@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-19T09:25:45.380+09:00",
+ "updated": "2026-10-19T09:30:52.060+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4254306678",
+   "mall": "쿠팡",
+   "title": "세타필 모이스춰라이징 로션 1.25L",
+   "price": 18810,
+   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/34596278653464-caa22e7d-dff4-4c9a-a8da-143cd32d85aa.jpg",
+   "sentAt": "2026-10-19T09:30:51.309+09:00",
+   "saving": 40,
+   "baseline": 31230,
+   "baselineNote": "판매글 8곳 최저가",
+   "link": "https://link.coupang.com/a/gYlZ4rRaeq"
+  },
   {
    "uid": "7086711800",
    "mall": "쿠팡",
@@ -726,18 +738,6 @@
    "baselineNote": "222곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gcfie4gWuy"
-  },
-  {
-   "uid": "8242591585",
-   "mall": "롯데온",
-   "title": "독일 식기세척기세제 미니 50개입 3개",
-   "price": 33900,
-   "image": "https://contents.lotteon.com/itemimage/20261013191011/LO/24/67/35/47/67/_2/46/73/54/77/3/LO2467354767_2467354773_2.jpg",
-   "sentAt": "2026-10-15T09:01:33.627+09:00",
-   "saving": 35,
-   "baseline": 51800,
-   "baselineNote": "판매글 4곳 최저가",
-   "link": "http://app.ac/NAGS83583"
   }
  ]
 }
