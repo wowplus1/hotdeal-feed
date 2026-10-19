@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-19T18:55:23.581+09:00",
- "count": 4,
+ "updated": "2026-10-19T18:57:04.238+09:00",
+ "count": 5,
  "items": [
+  {
+   "uid": "3755135528",
+   "mall": "쿠팡",
+   "title": "LG전자 2026 그램 AI 16 코어 Ultra5 스노우 화이트 · 16ZB90S-GA5PK · 512GB · 16GB · WIN11 Home",
+   "price": 1900000,
+   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/382934972989142-ab9bb35c-e3dd-4a54-827b-07320e95e0a1.jpg",
+   "sentAt": "2026-10-19T18:57:04.238+09:00",
+   "saving": 19,
+   "baseline": 2359000,
+   "baselineNote": "다른 곳 최저",
+   "link": "https://link.coupang.com/a/hYsy86oAma",
+   "web": true
+  },
   {
    "uid": "4953857980",
    "mall": "롯데온",
