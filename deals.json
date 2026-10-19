@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-19T19:36:07.701+09:00",
+ "updated": "2026-10-19T21:30:47.051+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9423100664",
+   "mall": "쿠팡",
+   "title": "미끄럼방지 EVA 욕실화 2개",
+   "price": 6900,
+   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/fa6d/050cabd4e2865e21dc032d69cd292ccf96677efe60f0bd9b60f401ed4255.jpg",
+   "sentAt": "2026-10-19T21:30:45.934+09:00",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hYDxuhFEbs"
+  },
   {
    "uid": "7772066136",
    "mall": "지마켓",
@@ -725,19 +735,6 @@
    "baselineNote": "판매글 18곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/f9AMZdOvcH"
-  },
-  {
-   "uid": "5677139445",
-   "mall": "지마켓",
-   "title": "센텔리안24 마데카옴므 올인원 에센스 125ml X 3개",
-   "price": 21920,
-   "image": "https://gdimg.gmarket.co.kr/4736020999/goodsimage",
-   "sentAt": "2026-10-16T10:10:56.035+09:00",
-   "saving": 31,
-   "baseline": 31630,
-   "baselineNote": "48곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4736020999"
   }
  ]
 }
