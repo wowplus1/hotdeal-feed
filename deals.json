@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-19T11:19:41.199+09:00",
+ "updated": "2026-10-19T11:36:28.510+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3215221414",
+   "mall": "롯데온",
+   "title": "랩신 섬유항균제 파우치 2L*2개",
+   "price": 14500,
+   "image": "https://contents.lotteon.com/itemimage/20261012185518/LO/26/47/03/22/09/_2/64/70/32/21/0/LO2647032209_2647032210_4.png",
+   "sentAt": "2026-10-19T11:36:27.969+09:00",
+   "saving": 40,
+   "baseline": 24290,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/zECmQkS33"
+  },
   {
    "uid": "8461262075",
    "mall": "GS SHOP",
@@ -724,19 +737,6 @@
    "baseline": 92990,
    "baselineNote": "판매글 32곳 최저가",
    "link": "http://app.ac/ctVd6XM83"
-  },
-  {
-   "uid": "7970804796",
-   "mall": "쿠팡",
-   "title": "웅진 애사비 파인애플, 500ml, 24개",
-   "price": 13840,
-   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/01/07/11/1/1f22f693-521f-40a9-ab59-edbf8b292191.jpg",
-   "sentAt": "2026-10-15T12:15:36.102+09:00",
-   "saving": 30,
-   "baseline": 19770,
-   "baselineNote": "33곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hRmf5qdGb6"
   }
  ]
 }
