@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-19T14:30:49.098+09:00",
+ "updated": "2026-10-19T15:46:45.220+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6597383007",
+   "mall": "지마켓",
+   "title": "마니커 버팔로 치킨윙봉 1kg+1kg",
+   "price": 19760,
+   "image": "https://gdimg.gmarket.co.kr/1695859677/goodsimage",
+   "sentAt": "2026-10-19T15:46:44.495+09:00",
+   "saving": 20,
+   "baseline": 24560,
+   "baselineNote": "70곳 중 최저 · 무료배송",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=1695859677"
+  },
   {
    "uid": "3933124757",
    "mall": "쿠팡",
@@ -724,19 +736,6 @@
    "sentAt": "2026-10-15T16:12:01.238+09:00",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hRC7tR3SyO"
-  },
-  {
-   "uid": "2942509842",
-   "mall": "지마켓",
-   "title": "오레오 초코크림 600g 3개",
-   "price": 13240,
-   "image": "https://gdimg.gmarket.co.kr/2442790543/goodsimage",
-   "sentAt": "2026-10-15T15:51:25.692+09:00",
-   "saving": 32,
-   "baseline": 19460,
-   "baselineNote": "40곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2442790543"
   }
  ]
 }
