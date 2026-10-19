@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-19T15:46:45.220+09:00",
+ "updated": "2026-10-19T17:25:09.888+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7810493704",
+   "mall": "토스쇼핑",
+   "title": "동원 보성녹차, 350ml, 24개",
+   "price": 11750,
+   "image": "https://shopping.toss.im/live/temp/2025-08-10/a2f8f364-9a30-4a23-86f2-02ddf05779b4.jpeg",
+   "sentAt": "2026-10-19T17:25:08.879+09:00",
+   "saving": 20,
+   "baseline": 14690,
+   "baselineNote": "판매글 21곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/tyrVgHDk"
+  },
   {
    "uid": "6597383007",
    "mall": "지마켓",
@@ -726,16 +739,6 @@
    "baselineNote": "9곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hRHLJFHBfw"
-  },
-  {
-   "uid": "6595206528",
-   "mall": "쿠팡",
-   "title": "온더바디 너리싱 바디로션 체리블라썸 400ml 2개",
-   "price": 9630,
-   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/60818013615696-43715837-fa56-43c3-81b8-ad3c72178dae.jpg",
-   "sentAt": "2026-10-15T16:12:01.238+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hRC7tR3SyO"
   }
  ]
 }
