@@ -1,7 +1,16 @@
 {
- "updated": "2026-10-19T19:16:36.482+09:00",
+ "updated": "2026-10-19T19:36:07.701+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7772066136",
+   "mall": "지마켓",
+   "title": "이클립스 베스트 믹스 8입 + 증정",
+   "price": 11040,
+   "image": "https://gdimg.gmarket.co.kr/4021208064/goodsimage",
+   "sentAt": "2026-10-19T19:36:06.825+09:00",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4021208064"
+  },
   {
    "uid": "7188227965",
    "mall": "쿠팡",
@@ -729,15 +738,6 @@
    "baselineNote": "48곳 중 최저",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4736020999"
-  },
-  {
-   "uid": "6254327135",
-   "mall": "쿠팡",
-   "title": "스탠리 퀜처 H2.0 플로우스테이트 텀블러 1.18L*1개",
-   "price": 28710,
-   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2849633657372996-bcd9b1ee-ad66-43c3-9682-ce568d3cd3b4.jpg",
-   "sentAt": "2026-10-15T21:42:29.815+09:00",
-   "link": "https://link.coupang.com/a/hR0Mxt7duK"
   }
  ]
 }
