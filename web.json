@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-19T18:57:04.238+09:00",
- "count": 5,
+ "updated": "2026-10-19T19:02:55.355+09:00",
+ "count": 6,
  "items": [
+  {
+   "uid": "7219744532",
+   "mall": "지마켓",
+   "title": "팸퍼스 통잠팬티 2박스 81,800원",
+   "price": 81800,
+   "image": "https://gdimg.gmarket.co.kr/3229365173/goodsimage",
+   "sentAt": "2026-10-19T19:02:55.355+09:00",
+   "saving": 17,
+   "baseline": 98710,
+   "baselineNote": "판매글 5곳 최저가",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=3229365173",
+   "web": true
+  },
   {
    "uid": "3755135528",
    "mall": "쿠팡",
