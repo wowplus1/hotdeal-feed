@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-19T21:04:56.408+09:00",
- "count": 9,
+ "updated": "2026-10-20T00:09:36.849+09:00",
+ "count": 10,
  "items": [
+  {
+   "uid": "4179528553",
+   "mall": "지마켓",
+   "title": "1++ 등급 투뿔한우 국거리 200g+200g",
+   "price": 18280,
+   "image": "https://gdimg.gmarket.co.kr/2843163641/goodsimage",
+   "sentAt": "2026-10-20T00:09:36.849+09:00",
+   "saving": 77,
+   "baseline": 77850,
+   "baselineNote": "판매글 10곳 최저가",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2843163641",
+   "web": true
+  },
   {
    "uid": "8553989230",
    "mall": "지마켓",
