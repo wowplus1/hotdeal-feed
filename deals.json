@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-19T21:30:47.051+09:00",
+ "updated": "2026-10-20T07:04:50.777+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6430656813",
+   "mall": "쿠팡",
+   "title": "글라스락 퍼플에디션 직사각 밀폐용기, 1.1L*3개",
+   "price": 12900,
+   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/68cc2296-afd8-41f4-ad22-367f7ba398563829371094755338010.png",
+   "sentAt": "2026-10-20T07:04:49.986+09:00",
+   "saving": 57,
+   "baseline": 30300,
+   "baselineNote": "4곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hZizChkazs"
+  },
   {
    "uid": "9423100664",
    "mall": "쿠팡",
@@ -722,19 +735,6 @@
    "sentAt": "2026-10-16T12:00:38.522+09:00",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4843947001"
-  },
-  {
-   "uid": "8044214533",
-   "mall": "쿠팡",
-   "title": "토레타 이온음료, 240ml, 30개",
-   "price": 11750,
-   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1066292452839793-97c72331-7150-44b7-8df8-71694d61b22a.jpg",
-   "sentAt": "2026-10-16T11:27:04.557+09:00",
-   "saving": 32,
-   "baseline": 17360,
-   "baselineNote": "판매글 18곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/f9AMZdOvcH"
   }
  ]
 }
