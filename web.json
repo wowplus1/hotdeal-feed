@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-20T07:16:17.440+09:00",
- "count": 11,
+ "updated": "2026-10-20T07:30:16.530+09:00",
+ "count": 12,
  "items": [
+  {
+   "uid": "6046304025",
+   "mall": "11번가",
+   "title": "오리온 초코파이, 468g, 2개 + 카스타드, 276g, 2개",
+   "price": 12610,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/5488466328/B.webp?776480241",
+   "sentAt": "2026-10-20T07:30:16.530+09:00",
+   "saving": 15,
+   "baseline": 14900,
+   "baselineNote": "27곳 중 최저 · 무료배송",
+   "link": "http://app.ac/ybpMsyl53",
+   "web": true
+  },
   {
    "uid": "3414586183",
    "mall": "쿠팡",
