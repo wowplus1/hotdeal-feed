@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-19T19:24:24.696+09:00",
- "count": 7,
+ "updated": "2026-10-19T19:41:49.435+09:00",
+ "count": 8,
  "items": [
+  {
+   "uid": "4519350102",
+   "mall": "지마켓",
+   "title": "애플펜슬 2세대 Apple Pencil 2 MU8F2AM/A",
+   "price": 79030,
+   "image": "https://gdimg.gmarket.co.kr/2931394538/goodsimage",
+   "sentAt": "2026-10-19T19:41:49.435+09:00",
+   "saving": 13,
+   "baseline": 91070,
+   "baselineNote": "판매글 11곳 최저가",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2931394538",
+   "web": true
+  },
   {
    "uid": "2281035111",
    "mall": "롯데온",
