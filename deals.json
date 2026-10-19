@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-19T11:36:28.510+09:00",
+ "updated": "2026-10-19T13:38:19.371+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7839243520",
+   "mall": "쿠팡",
+   "title": "루나 롱래스팅 파운데이션 30ml, 21호 바닐라, 1개",
+   "price": 7040,
+   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/456c6c25-5d64-4d99-a560-bacb43dc71163264431758637120523.png",
+   "sentAt": "2026-10-19T13:38:18.642+09:00",
+   "saving": 57,
+   "baseline": 16300,
+   "baselineNote": "판매글 17곳 최저가",
+   "link": "https://link.coupang.com/a/gpF6cskHGS"
+  },
   {
    "uid": "3215221414",
    "mall": "롯데온",
@@ -725,18 +737,6 @@
    "baselineNote": "판매글 23곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hRqCbhYJxI"
-  },
-  {
-   "uid": "6999619038",
-   "mall": "롯데온",
-   "title": "프리미엄 오픈형 이어링 최신 6.0V 블루투스 이어폰 Radius7",
-   "price": 29900,
-   "image": "https://contents.lotteon.com/itemimage/20260312160219/LO/26/35/47/75/48/_2/63/54/77/54/9/LO2635477548_2635477549_1.JPG",
-   "sentAt": "2026-10-15T13:04:57.504+09:00",
-   "saving": 68,
-   "baseline": 92990,
-   "baselineNote": "판매글 32곳 최저가",
-   "link": "http://app.ac/ctVd6XM83"
   }
  ]
 }
