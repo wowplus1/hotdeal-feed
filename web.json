@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-21T00:35:09.596+09:00",
- "count": 29,
+ "updated": "2026-10-21T07:44:52.705+09:00",
+ "count": 30,
  "items": [
+  {
+   "uid": "5982666973",
+   "mall": "쿠팡",
+   "title": "코코팜 망고코넛, 340ml, 24개",
+   "price": 11600,
+   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/d660/b555cbbb14151705f19b0f25a4b724147d9ba5f765bacaef46e0966267ad.jpg",
+   "sentAt": "2026-10-21T07:44:52.705+09:00",
+   "saving": 19,
+   "baseline": 14330,
+   "baselineNote": "546곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gHHMNmXmsC",
+   "web": true
+  },
   {
    "uid": "3069378465",
    "mall": "쿠팡",
