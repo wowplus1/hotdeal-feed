@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-20T19:45:33.458+09:00",
+ "updated": "2026-10-20T20:03:05.081+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7742015808",
+   "mall": "지마켓",
+   "title": "크리넥스 마이비데 키즈 40매 18팩 18,370원",
+   "price": 18370,
+   "image": "https://gdimg.gmarket.co.kr/4453899459/goodsimage",
+   "sentAt": "2026-10-20T20:03:04.257+09:00",
+   "saving": 24,
+   "baseline": 24300,
+   "baselineNote": "298곳 중 최저",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4453899459"
+  },
   {
    "uid": "8910244617",
    "mall": "토스쇼핑",
@@ -728,19 +740,6 @@
    "sentAt": "2026-10-18T09:14:51.389+09:00",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hV72MIwEyi"
-  },
-  {
-   "uid": "1223397952",
-   "mall": "토스쇼핑",
-   "title": "교동 육개장, 500g, 10개",
-   "price": 19100,
-   "image": "https://shopping.toss.im/live/taca/ai/OTI5MmUz/QU5MY1g2WFNMTld0djl5bHBaU2szLzBIbUVpc081U2lkVzBRelZRMEw2V2k.png",
-   "sentAt": "2026-10-18T07:56:07.522+09:00",
-   "saving": 37,
-   "baseline": 30320,
-   "baselineNote": "64곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/DHH75vZp"
   }
  ]
 }
