@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-20T10:22:14.214+09:00",
- "count": 14,
+ "updated": "2026-10-20T11:15:56.824+09:00",
+ "count": 15,
  "items": [
+  {
+   "uid": "1395322275",
+   "mall": "쿠팡",
+   "title": "LG QHD 울트라기어 32GS75Q 모니터",
+   "price": 381040,
+   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/09/16/15/9/358c9070-e325-48fc-ae19-9f54ae3bf43d.jpg",
+   "sentAt": "2026-10-20T11:15:56.824+09:00",
+   "saving": 20,
+   "baseline": 473540,
+   "baselineNote": "219곳 중 최저 · 무료배송",
+   "link": "https://link.coupang.com/a/hZAu8ttDwG",
+   "web": true
+  },
   {
    "uid": "6734542651",
    "mall": "롯데온",
