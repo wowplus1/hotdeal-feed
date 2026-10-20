@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-20T14:06:25.694+09:00",
+ "updated": "2026-10-20T15:01:51.047+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1566434875",
+   "mall": "쿠팡",
+   "title": "르샤트라1802 건조기 시트 섬유유연제 클린코튼향 본품 140매 1개",
+   "price": 8890,
+   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/dca6/e8339989dd84f3e80594fcadc26b64c97d4c9b2564666960357ef943d30c.jpg",
+   "sentAt": "2026-10-20T15:01:50.216+09:00",
+   "saving": 57,
+   "baseline": 20700,
+   "baselineNote": "판매글 16곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hZQDAWUv2i"
+  },
   {
    "uid": "3245760240",
    "mall": "지마켓",
@@ -728,18 +741,6 @@
    "baselineNote": "판매글 6곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hUwy6asp4e"
-  },
-  {
-   "uid": "2473631622",
-   "mall": "쿠팡",
-   "title": "네파키즈 아동용 조르노2 스니커즈 KLG7609",
-   "price": 23700,
-   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1348337547828940-3804c69f-285c-41ce-a9f4-c172352ecf16.jpg",
-   "sentAt": "2026-10-17T09:54:05.785+09:00",
-   "saving": 58,
-   "baseline": 55920,
-   "baselineNote": "판매글 12곳 최저가",
-   "link": "https://link.coupang.com/a/hUvX5CB8RE"
   }
  ]
 }
