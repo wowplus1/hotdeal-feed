@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-20T20:09:35.280+09:00",
- "count": 21,
+ "updated": "2026-10-20T20:30:35.229+09:00",
+ "count": 22,
  "items": [
+  {
+   "uid": "8164690758",
+   "mall": "롯데온",
+   "title": "안동소주 22도 360ml x8병 박재서 명인",
+   "price": 29800,
+   "image": "https://contents.lotteon.com/itemimage/20260915171534/LO/24/52/68/21/93/_2/45/26/82/19/4/LO2452682193_2452682194_1.jpg",
+   "sentAt": "2026-10-20T20:30:35.229+09:00",
+   "saving": 16,
+   "baseline": 35600,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/rqnFMu233",
+   "web": true
+  },
   {
    "uid": "9839140963",
    "mall": "롯데온",
