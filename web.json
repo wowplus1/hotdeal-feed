@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-20T15:11:32.234+09:00",
- "count": 19,
+ "updated": "2026-10-20T18:02:50.297+09:00",
+ "count": 20,
  "items": [
+  {
+   "uid": "4255964202",
+   "mall": "지마켓",
+   "title": "나비잠 울트라씬듀얼핏 팬티6팩 47,810원",
+   "price": 44900,
+   "image": "https://gdimg.gmarket.co.kr/2339573805/goodsimage",
+   "sentAt": "2026-10-20T18:02:50.297+09:00",
+   "saving": 16,
+   "baseline": 53240,
+   "baselineNote": "판매글 8곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2339573805",
+   "web": true
+  },
   {
    "uid": "2751212063",
    "mall": "지마켓",
