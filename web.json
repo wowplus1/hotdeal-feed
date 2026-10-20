@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-20T13:41:59.518+09:00",
- "count": 17,
+ "updated": "2026-10-20T14:08:03.848+09:00",
+ "count": 18,
  "items": [
+  {
+   "uid": "9167224071",
+   "mall": "쿠팡",
+   "title": "롯데웰푸드 찰떡 일품 팥빙수 12개입",
+   "price": 16620,
+   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/3126252416673-b707270c-1837-4757-a26a-0fea9028ae84.jpg",
+   "sentAt": "2026-10-20T14:08:03.848+09:00",
+   "saving": 19,
+   "baseline": 20570,
+   "baselineNote": "판매글 12곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hZMMyx7q8G",
+   "web": true
+  },
   {
    "uid": "4803026019",
    "mall": "지마켓",
