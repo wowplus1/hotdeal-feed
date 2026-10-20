@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-20T22:30:43.096+09:00",
- "count": 26,
+ "updated": "2026-10-21T00:05:51.049+09:00",
+ "count": 27,
  "items": [
+  {
+   "uid": "6849743367",
+   "mall": "지마켓",
+   "title": "제주 황금향 노지 4.5kg 혼합과",
+   "price": 17530,
+   "image": "https://gdimg.gmarket.co.kr/4158329203/goodsimage",
+   "sentAt": "2026-10-21T00:05:51.049+09:00",
+   "saving": 18,
+   "baseline": 21280,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4158329203",
+   "web": true
+  },
   {
    "uid": "1916367190",
    "mall": "쿠팡",
