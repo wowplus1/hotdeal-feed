@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-20T11:03:25.012+09:00",
+ "updated": "2026-10-20T11:14:55.287+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4239242520",
+   "mall": "11번가",
+   "title": "귤로장생 하우스감귤 2.5kg 소과",
+   "price": 10930,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/2/7/4/5/0/3/mjSFh/2423274503_241430369.jpg",
+   "sentAt": "2026-10-20T11:14:54.520+09:00",
+   "saving": 38,
+   "baseline": 17670,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/cbp4d7l33"
+  },
   {
    "uid": "9483178301",
    "mall": "지마켓",
@@ -728,19 +741,6 @@
    "baselineNote": "46곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hUjGS0Yyia"
-  },
-  {
-   "uid": "2787462562",
-   "mall": "지마켓",
-   "title": "다나 프랑스 직수입 대용량 멸균우유 1L X 12팩 세트",
-   "price": 19980,
-   "image": "https://gdimg.gmarket.co.kr/3938955398/goodsimage",
-   "sentAt": "2026-10-16T21:19:57.379+09:00",
-   "saving": 26,
-   "baseline": 27060,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=3938955398"
   }
  ]
 }
