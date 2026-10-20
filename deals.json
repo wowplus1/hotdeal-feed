@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-20T15:07:41.307+09:00",
+ "updated": "2026-10-20T16:00:23.406+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2380405586",
+   "mall": "11번가",
+   "title": "오리온 초코파이, 468g, 2개 + 후레쉬베리, 336g, 2개",
+   "price": 14300,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/6097236109/B.webp?601395647",
+   "sentAt": "2026-10-20T16:00:22.709+09:00",
+   "saving": 46,
+   "baseline": 26620,
+   "baselineNote": "판매글 5곳 최저가",
+   "link": "http://app.ac/YAGBWY523"
+  },
   {
    "uid": "5061576770",
    "mall": "토스쇼핑",
@@ -728,19 +740,6 @@
    "baselineNote": "판매글 12곳 최저가",
    "unit": "[object Object]",
    "link": "https://toss.im/_m/lRotI2km"
-  },
-  {
-   "uid": "3107940047",
-   "mall": "쿠팡",
-   "title": "티젠 애사비소다 오리지널, 500ml*24개",
-   "price": 10450,
-   "image": "https://thumbnail1.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1778024901894816-225ef483-2723-4797-9e77-c2cdd18e2674.jpg",
-   "sentAt": "2026-10-17T10:04:03.314+09:00",
-   "saving": 35,
-   "baseline": 15960,
-   "baselineNote": "판매글 9곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gMCFJh2EM0"
   }
  ]
 }
