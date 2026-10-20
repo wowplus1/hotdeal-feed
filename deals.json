@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-20T16:15:29.278+09:00",
+ "updated": "2026-10-20T17:25:03.133+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8260556750",
+   "mall": "토스쇼핑",
+   "title": "크라운 빙수하임, 284g, 2개",
+   "price": 7860,
+   "image": "https://shopping.toss.im/live/temp/2026-07-30/6f6b2803-5537-4120-aa1e-0ed6ea92cadb.jpeg",
+   "sentAt": "2026-10-20T17:25:02.303+09:00",
+   "saving": 39,
+   "baseline": 12950,
+   "baselineNote": "110곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://toss.im/_m/ZXykeuN5"
+  },
   {
    "uid": "4825403459",
    "mall": "지마켓",
@@ -730,16 +743,6 @@
    "baseline": 35910,
    "baselineNote": "판매글 8곳 최저가",
    "link": "http://app.ac/Ubp85sl03"
-  },
-  {
-   "uid": "6772347138",
-   "mall": "롯데온",
-   "title": "광동 비타500 제로 스파클링 유자 250ml 24캔",
-   "price": 9840,
-   "image": "https://contents.lotteon.com/itemimage/20260616122454/LO/27/02/08/11/22/_2/70/20/81/12/3/LO2702081122_2702081123_1.jpg",
-   "sentAt": "2026-10-17T11:32:12.379+09:00",
-   "unit": "[object Object]",
-   "link": "http://app.ac/OqnzXd243"
   }
  ]
 }
