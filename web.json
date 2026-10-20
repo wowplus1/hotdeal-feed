@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-20T22:04:32.146+09:00",
- "count": 25,
+ "updated": "2026-10-20T22:30:43.096+09:00",
+ "count": 26,
  "items": [
+  {
+   "uid": "1916367190",
+   "mall": "쿠팡",
+   "title": "솔가 B-컴플렉스 50 베지터블 캡슐 100정",
+   "price": 11810,
+   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/11ff/de3b9adad3bcf328bb8b399449a264732906a90655b0926a7618f889d311.jpg",
+   "sentAt": "2026-10-20T22:30:43.096+09:00",
+   "saving": 17,
+   "baseline": 14270,
+   "baselineNote": "62곳 중 최저",
+   "link": "https://link.coupang.com/a/h0mIQJnWns",
+   "web": true
+  },
   {
    "uid": "9851335750",
    "mall": "11번가",
