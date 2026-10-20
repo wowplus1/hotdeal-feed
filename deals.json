@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-20T11:14:55.287+09:00",
+ "updated": "2026-10-20T13:40:20.296+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7389399560",
+   "mall": "GS SHOP",
+   "title": "베베숲 아기물티슈 시그니처 위드블루 70매 캡 10팩",
+   "price": 10912,
+   "image": "https://asset.m-gs.kr/prod/1101571254/1/280",
+   "sentAt": "2026-10-20T13:40:19.575+09:00",
+   "saving": 49,
+   "baseline": 21500,
+   "baselineNote": "판매글 11곳 최저가",
+   "link": "http://app.ac/XbpMFCl93"
+  },
   {
    "uid": "4239242520",
    "mall": "11번가",
@@ -728,19 +740,6 @@
    "baselineNote": "판매글 3곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hvyztxAvng"
-  },
-  {
-   "uid": "4191553061",
-   "mall": "쿠팡",
-   "title": "켈로그 현미 푸레이크, 550g, 1개",
-   "price": 3850,
-   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/b334dfd7-c834-4007-95ff-a0692afcf741656408621413067266.png",
-   "sentAt": "2026-10-17T07:02:31.283+09:00",
-   "saving": 49,
-   "baseline": 7580,
-   "baselineNote": "46곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hUjGS0Yyia"
   }
  ]
 }
