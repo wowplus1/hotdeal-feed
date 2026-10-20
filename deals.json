@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-20T09:00:36.293+09:00",
+ "updated": "2026-10-20T09:06:59.391+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7808976051",
+   "mall": "지마켓",
+   "title": "국내산 활새우 1kg 28 33미내외",
+   "price": 19180,
+   "image": "https://gdimg.gmarket.co.kr/4158718227/goodsimage",
+   "sentAt": "2026-10-20T09:06:58.834+09:00",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4158718227"
+  },
   {
    "uid": "6945705350",
    "mall": "지마켓",
@@ -726,18 +736,6 @@
    "baselineNote": "110곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4770164146"
-  },
-  {
-   "uid": "4401389080",
-   "mall": "롯데온",
-   "title": "초록매실 제로+자연은 알로에 제로 혼합패키지 500ml x 12페트",
-   "price": 10990,
-   "image": "https://contents.lotteon.com/itemimage/20261008125802/LO/26/98/58/27/73/_2/69/85/82/77/4/LO2698582773_2698582774_1.jpg",
-   "sentAt": "2026-10-16T12:45:54.644+09:00",
-   "saving": 34,
-   "baseline": 16720,
-   "baselineNote": "판매글 6곳 최저가",
-   "link": "http://app.ac/HqnZqM273"
   }
  ]
 }
