@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-20T21:34:37.024+09:00",
- "count": 24,
+ "updated": "2026-10-20T22:04:32.146+09:00",
+ "count": 25,
  "items": [
+  {
+   "uid": "9851335750",
+   "mall": "11번가",
+   "title": "바나나 우유 240ml 8개",
+   "price": 10800,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/pd/v2/2/6/4/7/6/9/EXxTC/9694264769_B.webp",
+   "sentAt": "2026-10-20T22:04:32.146+09:00",
+   "saving": 11,
+   "baseline": 12090,
+   "baselineNote": "12곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "http://app.ac/0qnFVM243",
+   "web": true
+  },
   {
    "uid": "8270431840",
    "mall": "지마켓",
