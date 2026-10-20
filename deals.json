@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-20T20:16:32.342+09:00",
+ "updated": "2026-10-20T21:20:33.355+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4847095970",
+   "mall": "토스쇼핑",
+   "title": "연세우유 세브란스 A2 프로틴, 초콜릿, 190ml, 48개",
+   "price": 39340,
+   "image": "https://shopping.toss.im/live/temp/2026-10-20/50fe2749-6ba3-492b-8511-5f4e26e9b134.jpeg",
+   "sentAt": "2026-10-20T21:20:32.498+09:00",
+   "saving": 22,
+   "baseline": 50490,
+   "baselineNote": "판매글 11곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/BcT8tRre"
+  },
   {
    "uid": "8838650988",
    "mall": "지마켓",
@@ -730,19 +743,6 @@
    "baselineNote": "판매글 6곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hV8yeRxRlY"
-  },
-  {
-   "uid": "2790871906",
-   "mall": "쿠팡",
-   "title": "고래밥 볶음양념맛, 46g, 4개",
-   "price": 2500,
-   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/20d8/e8eb76cee82eafe2081ef6b89f80c18dff21f8dee1ad28997e0954e1fb41.jpg",
-   "sentAt": "2026-10-18T09:22:21.057+09:00",
-   "saving": 26,
-   "baseline": 3390,
-   "baselineNote": "16곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gukWJicvFA"
   }
  ]
 }
