@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-20T10:20:07.268+09:00",
+ "updated": "2026-10-20T10:42:03.469+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6173073676",
+   "mall": "쿠팡",
+   "title": "곰곰 광천 도시락김 5g 32개",
+   "price": 9480,
+   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/32303585220039-9ccb3b85-de17-4b52-8c69-b0f0ef893b91.jpg",
+   "sentAt": "2026-10-20T10:42:02.896+09:00",
+   "saving": 37,
+   "baseline": 15070,
+   "baselineNote": "3곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hZx3EOFgXc"
+  },
   {
    "uid": "1650293010",
    "mall": "지마켓",
@@ -724,18 +737,6 @@
    "baselineNote": "파는 곳이 여기 하나",
    "unit": "[object Object]",
    "link": "http://app.ac/JbpWLSl93"
-  },
-  {
-   "uid": "1835276374",
-   "mall": "롯데온",
-   "title": "닥터크리닉 치석치약 140g*10개 + 50g*3개 추가증정",
-   "price": 14500,
-   "image": "https://contents.lotteon.com/itemimage/20261012174755/LO/25/22/92/54/42/_2/52/29/25/44/3/LO2522925442_2522925443_1.png",
-   "sentAt": "2026-10-16T17:56:58.584+09:00",
-   "saving": 23,
-   "baseline": 18715,
-   "baselineNote": "판매글 5곳 최저가",
-   "link": "http://app.ac/Cjwmg5a63"
   }
  ]
 }
