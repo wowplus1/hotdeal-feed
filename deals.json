@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-20T20:03:05.081+09:00",
+ "updated": "2026-10-20T20:16:32.342+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8838650988",
+   "mall": "지마켓",
+   "title": "더미식 밥알이 살아있는 백미밥 200g 24개",
+   "price": 19510,
+   "image": "https://gdimg.gmarket.co.kr/2245630240/goodsimage",
+   "sentAt": "2026-10-20T20:16:31.413+09:00",
+   "saving": 26,
+   "baseline": 26310,
+   "baselineNote": "105곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2245630240"
+  },
   {
    "uid": "7742015808",
    "mall": "지마켓",
@@ -730,16 +743,6 @@
    "baselineNote": "16곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gukWJicvFA"
-  },
-  {
-   "uid": "7452056257",
-   "mall": "쿠팡",
-   "title": "코코라 올레즈 초코 파티 크래커 10g, 120개",
-   "price": 9900,
-   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/29147623042514-8492f848-cc8b-499f-8fb3-857cb28754e5.jpg",
-   "sentAt": "2026-10-18T09:14:51.389+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hV72MIwEyi"
   }
  ]
 }
