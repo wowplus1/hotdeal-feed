@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-20T19:21:24.218+09:00",
+ "updated": "2026-10-20T19:45:33.458+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8910244617",
+   "mall": "토스쇼핑",
+   "title": "썬키스트 코코피치, 300ml, 20개",
+   "price": 8980,
+   "image": "https://shopping.toss.im/live/temp/2026-04-28/6cadc1c2-55e8-429d-8816-ca5477eccb31.jpeg",
+   "sentAt": "2026-10-20T19:45:32.561+09:00",
+   "saving": 64,
+   "baseline": 24920,
+   "baselineNote": "판매글 9곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://toss.im/_m/tlAigUFD"
+  },
   {
    "uid": "9792441901",
    "mall": "쿠팡",
@@ -728,19 +741,6 @@
    "baselineNote": "64곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://toss.shopping/_m/DHH75vZp"
-  },
-  {
-   "uid": "4027254536",
-   "mall": "쿠팡",
-   "title": "왕뚜껑 미니 컵라면 80g, 16개",
-   "price": 9370,
-   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/fc87/4884e2ea16c439d9cf3bd2efaa1867c20a73e0eac1fefce44b22a487fc48.jpg",
-   "sentAt": "2026-10-18T07:21:39.520+09:00",
-   "saving": 27,
-   "baseline": 12880,
-   "baselineNote": "110곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hVZW0P2bLM"
   }
  ]
 }
