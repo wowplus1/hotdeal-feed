@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-20T19:04:51.679+09:00",
+ "updated": "2026-10-20T19:17:50.186+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2012455786",
+   "mall": "토스쇼핑",
+   "title": "외갓집 시골밥상 청국장찌개, 600g, 5개",
+   "price": 20980,
+   "image": "https://shopping.toss.im/live/taca/ai/NjNjZjEw/ZGliU2RveHBMUTJ3bFBIMlMxc2tZOFdFR2h3TmEwVERsajdVL0NoWnEycz0.png",
+   "sentAt": "2026-10-20T19:17:48.921+09:00",
+   "saving": 22,
+   "baseline": 27070,
+   "baselineNote": "24곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/JbanARYA"
+  },
   {
    "uid": "1710834167",
    "mall": "롯데온",
@@ -731,19 +744,6 @@
    "baselineNote": "판매글 27곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hVjmO5zF6W"
-  },
-  {
-   "uid": "5160033506",
-   "mall": "지마켓",
-   "title": "국내산 신안 새우젓 1kg x 2병",
-   "price": 10370,
-   "image": "https://gdimg.gmarket.co.kr/2583702784/goodsimage",
-   "sentAt": "2026-10-17T19:00:09.342+09:00",
-   "saving": 44,
-   "baseline": 18550,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2583702784"
   }
  ]
 }
