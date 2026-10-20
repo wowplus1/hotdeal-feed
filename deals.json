@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-20T09:06:59.391+09:00",
+ "updated": "2026-10-20T09:14:41.174+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2695549735",
+   "mall": "쿠팡",
+   "title": "오로나민씨 탄산 드링크, 120ml, 50개",
+   "price": 22530,
+   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/c60a/83c3d1431c226f75d4c2f0167f76b86955f54157dcbbe0dc691b4a8e8218.jpg",
+   "sentAt": "2026-10-20T09:14:40.377+09:00",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gut6oVcRzM"
+  },
   {
    "uid": "7808976051",
    "mall": "지마켓",
@@ -723,19 +733,6 @@
    "baseline": 37080,
    "baselineNote": "판매글 19곳 최저가",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=3336362692"
-  },
-  {
-   "uid": "9173582075",
-   "mall": "지마켓",
-   "title": "빙수하임 284g 2개",
-   "price": 8330,
-   "image": "https://gdimg.gmarket.co.kr/4770164146/goodsimage",
-   "sentAt": "2026-10-16T13:20:17.227+09:00",
-   "saving": 37,
-   "baseline": 13320,
-   "baselineNote": "110곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4770164146"
   }
  ]
 }
