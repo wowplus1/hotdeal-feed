@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-21T07:33:58.265+09:00",
+ "updated": "2026-10-21T08:39:29.338+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8620276367",
+   "mall": "토스쇼핑",
+   "title": "웅진 애사비 파인애플, 500ml, 24개",
+   "price": 13070,
+   "image": "https://shopping.toss.im/live/temp/2026-01-09/f2132a4a-7e23-4783-9473-eff580279865.jpeg",
+   "sentAt": "2026-10-21T08:39:28.623+09:00",
+   "saving": 29,
+   "baseline": 18290,
+   "baselineNote": "55곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://toss.im/_m/tWOyxYpc"
+  },
   {
    "uid": "8907752290",
    "mall": "쿠팡",
@@ -732,16 +745,6 @@
    "baselineNote": "판매글 17곳 최저가",
    "unit": "[object Object]",
    "link": "https://toss.shopping/_m/Xe5jv76A"
-  },
-  {
-   "uid": "7057426668",
-   "mall": "쿠팡",
-   "title": "헬시오리진스 퍼포먼스 크레아틴 600g 2개",
-   "price": 57470,
-   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/c555/bfae3ca1b51ede71aaa1b586da086280e97aa64979cd3bb32f5e9150e4cb.jpg",
-   "sentAt": "2026-10-18T11:06:32.372+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hWf2pzmCD6"
   }
  ]
 }
