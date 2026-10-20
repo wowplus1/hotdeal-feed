@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-20T19:17:50.186+09:00",
+ "updated": "2026-10-20T19:19:34.142+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3474245564",
+   "mall": "롯데온",
+   "title": "쿤달 허니 앤 마카다미아 퓨어 바디워시 화이트머스크 500ml x2개",
+   "price": 14200,
+   "image": "https://contents.lotteon.com/itemimage/20261014153151/LO/27/93/29/42/97/_2/79/32/94/29/8/LO2793294297_2793294298_1.jpg",
+   "sentAt": "2026-10-20T19:19:33.609+09:00",
+   "unit": "[object Object]",
+   "link": "http://app.ac/q3MScbJ93"
+  },
   {
    "uid": "2012455786",
    "mall": "토스쇼핑",
@@ -731,19 +741,6 @@
    "baselineNote": "판매글 11곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hVYIGDanAW"
-  },
-  {
-   "uid": "2945209003",
-   "mall": "쿠팡",
-   "title": "공차 레몬 자스민티, 500ml, 6개",
-   "price": 4880,
-   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/05/20/16/8/9d35ba6a-60db-4760-847c-115a3465eaee.png",
-   "sentAt": "2026-10-17T21:25:58.389+09:00",
-   "saving": 46,
-   "baseline": 9120,
-   "baselineNote": "판매글 27곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hVjmO5zF6W"
   }
  ]
 }
