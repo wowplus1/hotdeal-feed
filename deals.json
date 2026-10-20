@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-21T07:06:26.306+09:00",
+ "updated": "2026-10-21T07:22:29.586+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4567291674",
+   "mall": "토스쇼핑",
+   "title": "햇배, 대과, 개별망포장, 5kg, 1박스",
+   "price": 13610,
+   "image": "https://shopping.toss.im/live/temp/2026-08-31/77792b63-b589-4cc2-8ccb-08e8b6763c62.jpeg",
+   "sentAt": "2026-10-21T07:22:29.017+09:00",
+   "saving": 38,
+   "baseline": 21950,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://toss.im/_m/nRtDqh4c"
+  },
   {
    "uid": "5398122562",
    "mall": "쿠팡",
@@ -730,19 +743,6 @@
    "baselineNote": "33곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gPWHAeoars"
-  },
-  {
-   "uid": "6683469433",
-   "mall": "토스쇼핑",
-   "title": "농협안심 새청무 탄탄대로 쌀, 상등급, 10kg, 1개",
-   "price": 27000,
-   "image": "https://shopping.toss.im/live/taca/ai/Zjg1MDlh/SncvU1dsaTJKYXl4NGR1aEx4bTIxbGh2UzBxYnN2V2xwTmthU1ZsazViWT0.png",
-   "sentAt": "2026-10-18T10:36:36.207+09:00",
-   "saving": 44,
-   "baseline": 48180,
-   "baselineNote": "판매글 9곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://toss.im/_m/hvDqmCgh"
   }
  ]
 }
