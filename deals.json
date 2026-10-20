@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-20T10:42:03.469+09:00",
+ "updated": "2026-10-20T10:55:19.091+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7952805916",
+   "mall": "쿠팡",
+   "title": "테일러 리치 푸룬 건자두, 250g, 1개",
+   "price": 4480,
+   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/4745469248237-3118def1-a459-4daa-944a-4aac247f8d2c.jpg",
+   "sentAt": "2026-10-20T10:55:18.417+09:00",
+   "saving": 27,
+   "baseline": 6100,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hZy0qZnQoS"
+  },
   {
    "uid": "6173073676",
    "mall": "쿠팡",
@@ -724,19 +737,6 @@
    "sentAt": "2026-10-16T19:00:56.168+09:00",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hTt6rXVfI4"
-  },
-  {
-   "uid": "5552387236",
-   "mall": "11번가",
-   "title": "아워홈 뉴골든 치킨 가라아게 1kg x 2개",
-   "price": 14310,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9060940339/B.webp",
-   "sentAt": "2026-10-16T18:05:21.625+09:00",
-   "saving": 25,
-   "baseline": 18980,
-   "baselineNote": "파는 곳이 여기 하나",
-   "unit": "[object Object]",
-   "link": "http://app.ac/JbpWLSl93"
   }
  ]
 }
