@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-20T07:30:16.530+09:00",
- "count": 12,
+ "updated": "2026-10-20T09:11:53.767+09:00",
+ "count": 13,
  "items": [
+  {
+   "uid": "4604945615",
+   "mall": "롯데온",
+   "title": "펩시콜라 제로슈거 라임/제로카페인355ml 48캔",
+   "price": 25760,
+   "image": "https://contents.lotteon.com/itemimage/20261016163014/LO/27/95/05/27/15/_2/79/50/52/71/6/LO2795052715_2795052716_1.jpg",
+   "sentAt": "2026-10-20T09:11:53.767+09:00",
+   "saving": 14,
+   "baseline": 30000,
+   "baselineNote": "판매글 17곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/2jwd7La13",
+   "web": true
+  },
   {
    "uid": "6046304025",
    "mall": "11번가",
