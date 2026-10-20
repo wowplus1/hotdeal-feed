@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-20T09:21:41.820+09:00",
+ "updated": "2026-10-20T09:44:38.421+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3609459920",
+   "mall": "11번가",
+   "title": "히말라야 핑크솔트 소금 250G 5팩 + 그라인더 1개 선물세트",
+   "price": 5940,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/7882170346/B.webp?180870314",
+   "sentAt": "2026-10-20T09:44:37.783+09:00",
+   "saving": 40,
+   "baseline": 9900,
+   "baselineNote": "판매글 4곳 최저가",
+   "link": "http://app.ac/I3MmoNJ43"
+  },
   {
    "uid": "8738053482",
    "mall": "11번가",
@@ -724,15 +736,6 @@
    "baselineNote": "174곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hThJQJaKjs"
-  },
-  {
-   "uid": "2180481410",
-   "mall": "토스쇼핑",
-   "title": "크리오 덴티메이트 시즌2 초극세모 칫솔, 10개입, 2개",
-   "price": 7710,
-   "image": "https://shopping.toss.im/live/taca/ai/NGM3OWU0/QXZqeHVQY3pPWmJQYzJOMm01T2ZqWFJzN3NrbnpINEp1Ung2UDdzUmdmUT0.png",
-   "sentAt": "2026-10-16T14:25:07.106+09:00",
-   "link": "https://toss.shopping/_m/tgXaVcYj"
   }
  ]
 }
