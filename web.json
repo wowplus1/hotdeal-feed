@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-20T18:02:50.297+09:00",
- "count": 20,
+ "updated": "2026-10-20T20:09:35.280+09:00",
+ "count": 21,
  "items": [
+  {
+   "uid": "9839140963",
+   "mall": "롯데온",
+   "title": "비타빗 프리미엄 압력솥 S4 18cm 1.8L",
+   "price": 272000,
+   "image": "https://contents.lotteon.com/itemimage/20261019174959/LE/21/16/90/76/58/bndl_img/LE2116907658_1.jpg",
+   "sentAt": "2026-10-20T20:09:35.280+09:00",
+   "saving": 18,
+   "baseline": 333700,
+   "baselineNote": "판매글 3곳 최저가",
+   "link": "http://app.ac/qAGBP6583",
+   "web": true
+  },
   {
    "uid": "4255964202",
    "mall": "지마켓",
