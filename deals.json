@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-20T16:00:23.406+09:00",
+ "updated": "2026-10-20T16:15:29.278+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4825403459",
+   "mall": "지마켓",
+   "title": "신세계푸드 치아바타 3개입 3팩 골라담기 삼성카드",
+   "price": 22290,
+   "image": "https://gdimg.gmarket.co.kr/2388764121/goodsimage",
+   "sentAt": "2026-10-20T16:15:28.297+09:00",
+   "saving": 29,
+   "baseline": 31540,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2388764121"
+  },
   {
    "uid": "2380405586",
    "mall": "11번가",
@@ -727,19 +740,6 @@
    "sentAt": "2026-10-17T11:32:12.379+09:00",
    "unit": "[object Object]",
    "link": "http://app.ac/OqnzXd243"
-  },
-  {
-   "uid": "3673033000",
-   "mall": "토스쇼핑",
-   "title": "밀크앤허니 스위트 크림 치즈케이크, 520g, 1개",
-   "price": 11190,
-   "image": "https://shopping.toss.im/live/product/17903/c1d07bf5-e84c-44e8-be42-a066f43d2bc5.jpeg",
-   "sentAt": "2026-10-17T11:20:53.746+09:00",
-   "saving": 24,
-   "baseline": 14700,
-   "baselineNote": "판매글 12곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://toss.im/_m/lRotI2km"
   }
  ]
 }
