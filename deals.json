@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-20T15:01:51.047+09:00",
+ "updated": "2026-10-20T15:07:41.307+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5061576770",
+   "mall": "토스쇼핑",
+   "title": "목우촌 주부9단 살코기햄, 1kg, 3개",
+   "price": 24070,
+   "image": "https://shopping.toss.im/live/taca/ai/ODNiNmE1/SnBucHZ0aCtsNkZueFd6YW1EdVRKdURPVHNrZmdiRSs4SDVPd1ErQnVUND0.png",
+   "sentAt": "2026-10-20T15:07:40.783+09:00",
+   "saving": 20,
+   "baseline": 30010,
+   "baselineNote": "44곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/fwcEgaHf"
+  },
   {
    "uid": "1566434875",
    "mall": "쿠팡",
@@ -728,19 +741,6 @@
    "baselineNote": "판매글 9곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gMCFJh2EM0"
-  },
-  {
-   "uid": "8591408128",
-   "mall": "쿠팡",
-   "title": "해피홈 멸균밴드 S 혼합형, 100개입, 1개 2,960원",
-   "price": 2960,
-   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/61598505491327-9ec81f7a-e8fd-42e0-9b27-a122be6df00a.png",
-   "sentAt": "2026-10-17T10:02:40.736+09:00",
-   "saving": 44,
-   "baseline": 5240,
-   "baselineNote": "판매글 6곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hUwy6asp4e"
   }
  ]
 }
