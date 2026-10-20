@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-20T19:19:34.142+09:00",
+ "updated": "2026-10-20T19:21:24.218+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9792441901",
+   "mall": "쿠팡",
+   "title": "삼양 짜르르 140g 4개",
+   "price": 4270,
+   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/223264871090510-86a8255a-fe06-40fa-8abe-13ce21aefce3.png",
+   "sentAt": "2026-10-20T19:21:23.716+09:00",
+   "saving": 69,
+   "baseline": 13980,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hZ9dv6HcpE"
+  },
   {
    "uid": "3474245564",
    "mall": "롯데온",
@@ -728,19 +741,6 @@
    "baselineNote": "110곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hVZW0P2bLM"
-  },
-  {
-   "uid": "7941705426",
-   "mall": "쿠팡",
-   "title": "프로그 고리형 고무장갑 5개",
-   "price": 5600,
-   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/cf7db46e-cbe4-459c-a9ce-ee46da1ba01f2288763497349359946.png",
-   "sentAt": "2026-10-18T07:04:24.053+09:00",
-   "saving": 56,
-   "baseline": 12650,
-   "baselineNote": "판매글 11곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hVYIGDanAW"
   }
  ]
 }
