@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-21T00:05:51.049+09:00",
- "count": 27,
+ "updated": "2026-10-21T00:31:40.957+09:00",
+ "count": 28,
  "items": [
+  {
+   "uid": "1217069215",
+   "mall": "쿠팡",
+   "title": "청정원 저당 오리엔탈 드레싱 310g 1개",
+   "price": 2780,
+   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/05/26/18/4/bb129a0d-9e0f-4d1c-b9cf-b8d31056e0df.jpg",
+   "sentAt": "2026-10-21T00:31:40.957+09:00",
+   "saving": 21,
+   "baseline": 3500,
+   "baselineNote": "36곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/h0vmT3OiKy",
+   "web": true
+  },
   {
    "uid": "6849743367",
    "mall": "지마켓",
