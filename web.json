@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-20T20:30:35.229+09:00",
- "count": 22,
+ "updated": "2026-10-20T21:14:19.513+09:00",
+ "count": 23,
  "items": [
+  {
+   "uid": "8715542569",
+   "mall": "지마켓",
+   "title": "시스테마 치석케어 칫솔 콤팩트 12개",
+   "price": 14640,
+   "image": "https://gdimg.gmarket.co.kr/4197236054/goodsimage",
+   "sentAt": "2026-10-20T21:14:19.513+09:00",
+   "saving": 14,
+   "baseline": 16940,
+   "baselineNote": "71곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4197236054",
+   "web": true
+  },
   {
    "uid": "8164690758",
    "mall": "롯데온",
