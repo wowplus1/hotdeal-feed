@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-20T17:25:03.133+09:00",
+ "updated": "2026-10-20T19:04:51.679+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1710834167",
+   "mall": "롯데온",
+   "title": "바르온 삼계탕 1kg x 5팩",
+   "price": 17900,
+   "image": "https://contents.lotteon.com/itemimage/20260921092106/LO/26/97/16/93/57/_2/69/71/69/35/8/LO2697169357_2697169358_1.jpg",
+   "sentAt": "2026-10-20T19:04:50.382+09:00",
+   "saving": 28,
+   "baseline": 24900,
+   "baselineNote": "6곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "http://app.ac/WbpZiXl03"
+  },
   {
    "uid": "8260556750",
    "mall": "토스쇼핑",
@@ -731,18 +744,6 @@
    "baselineNote": "판매글 4곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2583702784"
-  },
-  {
-   "uid": "6616138584",
-   "mall": "롯데온",
-   "title": "테이퍼드 하프 밴딩 반바지 4colors",
-   "price": 21280,
-   "image": "https://contents.lotteon.com/itemimage/20260813132628/LO/14/55/26/56/76/bndl_img/LO1455265676_1.jpg",
-   "sentAt": "2026-10-17T15:05:03.227+09:00",
-   "saving": 41,
-   "baseline": 35910,
-   "baselineNote": "판매글 8곳 최저가",
-   "link": "http://app.ac/Ubp85sl03"
   }
  ]
 }
