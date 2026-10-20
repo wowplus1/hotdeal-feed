@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-20T11:15:56.824+09:00",
- "count": 15,
+ "updated": "2026-10-20T13:25:59.336+09:00",
+ "count": 16,
  "items": [
+  {
+   "uid": "9174210668",
+   "mall": "지마켓",
+   "title": "목우촌 허브갈릭 훈제오리 슬라이스 210gx10팩",
+   "price": 26670,
+   "image": "https://gdimg.gmarket.co.kr/4205482503/goodsimage",
+   "sentAt": "2026-10-20T13:25:59.336+09:00",
+   "saving": 15,
+   "baseline": 31400,
+   "baselineNote": "209곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4205482503",
+   "web": true
+  },
   {
    "uid": "1395322275",
    "mall": "쿠팡",
