@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-20T09:44:38.421+09:00",
+ "updated": "2026-10-20T10:20:07.268+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1650293010",
+   "mall": "지마켓",
+   "title": "메디플라워 곡물 클렌징폼 4개",
+   "price": 9200,
+   "image": "https://gdimg.gmarket.co.kr/462942360/goodsimage",
+   "sentAt": "2026-10-20T10:20:06.508+09:00",
+   "saving": 21,
+   "baseline": 11680,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=462942360"
+  },
   {
    "uid": "3609459920",
    "mall": "11번가",
@@ -723,19 +736,6 @@
    "baseline": 18715,
    "baselineNote": "판매글 5곳 최저가",
    "link": "http://app.ac/Cjwmg5a63"
-  },
-  {
-   "uid": "5934764905",
-   "mall": "쿠팡",
-   "title": "켈로그 프로틴 그래놀라 제로슈거 다크초코 350g 4,820원",
-   "price": 4820,
-   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/271825331572050-d3cd2351-054b-446f-a074-da93c809f8fc.jpg",
-   "sentAt": "2026-10-16T16:07:28.329+09:00",
-   "saving": 38,
-   "baseline": 7810,
-   "baselineNote": "174곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hThJQJaKjs"
   }
  ]
 }
