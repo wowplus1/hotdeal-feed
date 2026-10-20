@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-20T13:40:20.296+09:00",
+ "updated": "2026-10-20T14:06:25.694+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3245760240",
+   "mall": "지마켓",
+   "title": "크리넥스 3겹 데코앤소프트 와이드 33M 24롤 2팩",
+   "price": 28900,
+   "image": "https://gdimg.gmarket.co.kr/3975054886/goodsimage",
+   "sentAt": "2026-10-20T14:06:25.134+09:00",
+   "saving": 21,
+   "baseline": 36540,
+   "baselineNote": "232곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=3975054886"
+  },
   {
    "uid": "7389399560",
    "mall": "GS SHOP",
@@ -727,19 +740,6 @@
    "baseline": 55920,
    "baselineNote": "판매글 12곳 최저가",
    "link": "https://link.coupang.com/a/hUvX5CB8RE"
-  },
-  {
-   "uid": "9403967327",
-   "mall": "쿠팡",
-   "title": "스포츠리서치 1040mg 오메가-3 피쉬 오일 트리플 스트렝스 소프트젤, 180정, 2개",
-   "price": 89080,
-   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/f7ab/f16001b258d50a64147f2a921c0d45bd6b4766ad6990cc6fe8d14ca09e05.jpg",
-   "sentAt": "2026-10-17T07:10:44.958+09:00",
-   "saving": 34,
-   "baseline": 135060,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hvyztxAvng"
   }
  ]
 }
