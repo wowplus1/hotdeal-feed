@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-21T00:31:40.957+09:00",
- "count": 28,
+ "updated": "2026-10-21T00:35:09.596+09:00",
+ "count": 29,
  "items": [
+  {
+   "uid": "3069378465",
+   "mall": "쿠팡",
+   "title": "오뚜기 진라면 약간매운맛 120g, 10개",
+   "price": 6600,
+   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1201001782431308-6a716b92-c2ff-4485-8271-a9b334e706d1.jpg",
+   "sentAt": "2026-10-21T00:35:09.596+09:00",
+   "saving": 16,
+   "baseline": 7860,
+   "baselineNote": "104곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/h0vATBZa8a",
+   "web": true
+  },
   {
    "uid": "1217069215",
    "mall": "쿠팡",
