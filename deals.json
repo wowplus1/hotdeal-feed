@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-20T10:56:23.625+09:00",
+ "updated": "2026-10-20T11:03:25.012+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9483178301",
+   "mall": "지마켓",
+   "title": "명장 김치찌개 250g 10개입",
+   "price": 19490,
+   "image": "https://gdimg.gmarket.co.kr/3912444095/goodsimage",
+   "sentAt": "2026-10-20T11:03:23.732+09:00",
+   "saving": 21,
+   "baseline": 24690,
+   "baselineNote": "199곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=3912444095"
+  },
   {
    "uid": "8933735977",
    "mall": "지마켓",
@@ -728,18 +741,6 @@
    "baselineNote": "판매글 4곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=3938955398"
-  },
-  {
-   "uid": "6656255747",
-   "mall": "11번가",
-   "title": "구첩반찬 오도독 무말랭이무침 1kg+1kg 외 반찬모음",
-   "price": 8930,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9665245542/B.webp?181161715",
-   "sentAt": "2026-10-16T21:04:56.243+09:00",
-   "saving": 31,
-   "baseline": 12920,
-   "baselineNote": "판매글 5곳 최저가",
-   "link": "http://app.ac/WAGdpL593"
   }
  ]
 }
