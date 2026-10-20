@@ -1,7 +1,18 @@
 {
- "updated": "2026-10-20T09:11:53.767+09:00",
- "count": 13,
+ "updated": "2026-10-20T10:22:14.214+09:00",
+ "count": 14,
  "items": [
+  {
+   "uid": "6734542651",
+   "mall": "롯데온",
+   "title": "칠성사이다 제로 355ml 24캔",
+   "price": 13940,
+   "image": "https://contents.lotteon.com/itemimage/20261015172948/LO/27/94/15/53/37/_2/79/41/55/33/8/LO2794155337_2794155338_1.jpg",
+   "sentAt": "2026-10-20T10:22:14.214+09:00",
+   "unit": "[object Object]",
+   "link": "http://app.ac/KjwdUva53",
+   "web": true
+  },
   {
    "uid": "4604945615",
    "mall": "롯데온",
