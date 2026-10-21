@@ -1,7 +1,35 @@
 {
- "updated": "2026-10-21T14:31:03.468+09:00",
- "count": 35,
+ "updated": "2026-10-21T15:40:12.811+09:00",
+ "count": 37,
  "items": [
+  {
+   "uid": "7385472624",
+   "mall": "쿠팡",
+   "title": "테일러 키즈푸룬, 80ml, 6개",
+   "price": 10350,
+   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/203023514366351-bd287946-70b9-43cf-bad3-d161da6ccba3.jpg",
+   "sentAt": "2026-10-21T15:40:12.811+09:00",
+   "saving": 19,
+   "baseline": 12740,
+   "baselineNote": "20곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/h1yh5RdalE",
+   "web": true
+  },
+  {
+   "uid": "2522819598",
+   "mall": "11번가",
+   "title": "내셔널지오그래픽 프래그런스비즈 375g",
+   "price": 13860,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/pd/v2/1/9/2/9/5/8/fDxtk/9277192958_B.webp",
+   "sentAt": "2026-10-21T15:40:12.811+09:00",
+   "saving": 19,
+   "baseline": 17120,
+   "baselineNote": "판매글 22곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/Hjw4FLa13",
+   "web": true
+  },
   {
    "uid": "7636648704",
    "mall": "쿠팡",
