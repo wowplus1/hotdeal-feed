@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-21T11:50:19.691+09:00",
- "count": 31,
+ "updated": "2026-10-21T12:01:45.555+09:00",
+ "count": 32,
  "items": [
+  {
+   "uid": "2077885152",
+   "mall": "지마켓",
+   "title": "국내가공 백진미채 1kg",
+   "price": 19560,
+   "image": "https://gdimg.gmarket.co.kr/1558350154/goodsimage",
+   "sentAt": "2026-10-21T12:01:45.555+09:00",
+   "saving": 17,
+   "baseline": 23655,
+   "baselineNote": "판매글 13곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=1558350154",
+   "web": true
+  },
   {
    "uid": "6811431558",
    "mall": "지마켓",
