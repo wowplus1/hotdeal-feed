@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-21T15:59:38.458+09:00",
+ "updated": "2026-10-21T17:20:18.402+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6137099354",
+   "mall": "쿠팡",
+   "title": "WD BLACK SN8100 2TB 로켓짓구",
+   "price": 573990,
+   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/c1ea/35ad334abea6d306f8bbd5a6ebc3b9cd6b05fb102d40fe565a83266de60e.png",
+   "sentAt": "2026-10-21T17:20:17.667+09:00",
+   "saving": 28,
+   "baseline": 801660,
+   "baselineNote": "70곳 중 최저",
+   "link": "https://link.coupang.com/a/hIm9DIQxQi"
+  },
   {
    "uid": "1001952540",
    "mall": "쿠팡",
@@ -729,18 +741,6 @@
    "baselineNote": "199곳 중 최저",
    "unit": "[object Object]",
    "link": "http://app.ac/vECmZLS23"
-  },
-  {
-   "uid": "4254306678",
-   "mall": "쿠팡",
-   "title": "세타필 모이스춰라이징 로션 1.25L",
-   "price": 18810,
-   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/34596278653464-caa22e7d-dff4-4c9a-a8da-143cd32d85aa.jpg",
-   "sentAt": "2026-10-19T09:30:51.309+09:00",
-   "saving": 40,
-   "baseline": 31230,
-   "baselineNote": "판매글 8곳 최저가",
-   "link": "https://link.coupang.com/a/gYlZ4rRaeq"
   }
  ]
 }
