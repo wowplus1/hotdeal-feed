@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-21T10:20:53.730+09:00",
+ "updated": "2026-10-21T10:25:55.358+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8632121977",
+   "mall": "쿠팡",
+   "title": "삼양 1963 우지 라면 4봉",
+   "price": 3550,
+   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/267979567233672-69b8e121-0e04-4eeb-801a-e481972fa6aa.jpg",
+   "sentAt": "2026-10-21T10:25:54.815+09:00",
+   "saving": 30,
+   "baseline": 5080,
+   "baselineNote": "191곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/h1bO3qRoE8"
+  },
   {
    "uid": "7676375492",
    "mall": "토스쇼핑",
@@ -730,19 +743,6 @@
    "baselineNote": "판매글 10곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hWxLqOKqtg"
-  },
-  {
-   "uid": "4834345640",
-   "mall": "롯데온",
-   "title": "밀가루없는 연육함량 85% 대구 명물 서문시장식 양념오뎅 X 5팩",
-   "price": 13340,
-   "image": "https://contents.lotteon.com/itemimage/20261016090806/LO/27/88/19/22/26/_2/78/81/92/22/7/LO2788192226_2788192227_1.jpg",
-   "sentAt": "2026-10-18T14:50:08.088+09:00",
-   "saving": 23,
-   "baseline": 17320,
-   "baselineNote": "판매글 6곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/oqnBpZ203"
   }
  ]
 }
