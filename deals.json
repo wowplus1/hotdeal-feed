@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-21T17:20:18.402+09:00",
+ "updated": "2026-10-21T17:43:53.902+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6772347138",
+   "mall": "롯데온",
+   "title": "광동 비타500 제로 스파클링 유자 250ml 24캔",
+   "price": 9870,
+   "image": "https://contents.lotteon.com/itemimage/20260616122454/LO/27/02/08/11/22/_2/70/20/81/12/3/LO2702081122_2702081123_1.jpg",
+   "sentAt": "2026-10-21T17:43:53.136+09:00",
+   "saving": 38,
+   "baseline": 15840,
+   "baselineNote": "188곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "http://app.ac/OqnzXd243"
+  },
   {
    "uid": "6137099354",
    "mall": "쿠팡",
@@ -728,19 +741,6 @@
    "baseline": 17380,
    "baselineNote": "판매글 3곳 최저가",
    "link": "http://app.ac/4qnBbA253"
-  },
-  {
-   "uid": "5455774864",
-   "mall": "11번가",
-   "title": "코카콜라 제로제로, 190ml, 30개",
-   "price": 11770,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/6740168974/B.webp?12122908",
-   "sentAt": "2026-10-19T09:41:34.290+09:00",
-   "saving": 31,
-   "baseline": 17020,
-   "baselineNote": "199곳 중 최저",
-   "unit": "[object Object]",
-   "link": "http://app.ac/vECmZLS23"
   }
  ]
 }
