@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-21T08:39:29.338+09:00",
+ "updated": "2026-10-21T09:06:50.195+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7759682106",
+   "mall": "쿠팡",
+   "title": "농심 멸치 칼국수 98g 10개",
+   "price": 7680,
+   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/85212167406365-3d015999-3242-4570-92af-7be8b1d6947b.jpg",
+   "sentAt": "2026-10-21T09:06:49.652+09:00",
+   "saving": 20,
+   "baseline": 9590,
+   "baselineNote": "214곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hQ7GeVQLCe"
+  },
   {
    "uid": "8620276367",
    "mall": "토스쇼핑",
@@ -732,19 +745,6 @@
    "baseline": 19670,
    "baselineNote": "판매글 27곳 최저가",
    "link": "http://app.ac/5jwSc7a43"
-  },
-  {
-   "uid": "6344944334",
-   "mall": "토스쇼핑",
-   "title": "쏘울너츠 100% 땅콩버터 크런치, 500g, 2개",
-   "price": 6970,
-   "image": "https://shopping.toss.im/live/temp/2026-01-14/a0a74bde-8214-479d-bc11-399abd45a539.jpeg",
-   "sentAt": "2026-10-18T11:20:52.643+09:00",
-   "saving": 33,
-   "baseline": 10330,
-   "baselineNote": "판매글 17곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/Xe5jv76A"
   }
  ]
 }
