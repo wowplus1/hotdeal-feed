@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-21T10:25:55.358+09:00",
+ "updated": "2026-10-21T10:32:26.651+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1686449060",
+   "mall": "토스쇼핑",
+   "title": "쥬비스가 만든 카테킨 450mg, 550mg, 60정, 3박스",
+   "price": 32160,
+   "image": "https://shopping.toss.im/live/temp/2026-09-28/0deec37d-a248-4f3c-a3ef-f101ece3333d.jpeg",
+   "sentAt": "2026-10-21T10:32:25.357+09:00",
+   "saving": 30,
+   "baseline": 46090,
+   "baselineNote": "판매글 16곳 최저가",
+   "link": "https://toss.shopping/_m/lNuoOP5r"
+  },
   {
    "uid": "8632121977",
    "mall": "쿠팡",
@@ -730,19 +742,6 @@
    "baselineNote": "판매글 16곳 최저가",
    "unit": "[object Object]",
    "link": "https://toss.shopping/_m/F1ijpgGu"
-  },
-  {
-   "uid": "5883852319",
-   "mall": "쿠팡",
-   "title": "마카로니, 2.4kg, 1개",
-   "price": 19900,
-   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/image_audit/stage/manual/58cbaba4-7b13-47c4-bfa4-aa8b61533213_1777449492445.jpeg",
-   "sentAt": "2026-10-18T15:14:47.709+09:00",
-   "saving": 23,
-   "baseline": 25780,
-   "baselineNote": "판매글 10곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hWxLqOKqtg"
   }
  ]
 }
