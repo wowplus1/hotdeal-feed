@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-21T12:06:00.545+09:00",
+ "updated": "2026-10-21T12:30:14.968+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8091693730",
+   "mall": "토스쇼핑",
+   "title": "백옥콘 강냉이, 1.4kg, 1개",
+   "price": 8400,
+   "image": "https://shopping.toss.im/live/taca/ai/YTAxMDhk/QUoyRVBNVWFwMHFqd3FMUm1OV2N3SzJDTElNdGswTWt4MVJpNC8valBYSU4.png",
+   "sentAt": "2026-10-21T12:30:14.208+09:00",
+   "saving": 23,
+   "baseline": 10930,
+   "baselineNote": "판매글 7곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://toss.im/_m/psptNQbg"
+  },
   {
    "uid": "6975866601",
    "mall": "지마켓",
@@ -728,19 +741,6 @@
    "baselineNote": "판매글 12곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gxKmREyFlA"
-  },
-  {
-   "uid": "3318335931",
-   "mall": "쿠팡",
-   "title": "TRIXIE 고 팝 플랫 롤리팝, 2kg, 1개",
-   "price": 6840,
-   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/ab8574d2-cbc5-428c-870a-5c920c2303947635009698244620519.png",
-   "sentAt": "2026-10-19T07:09:26.114+09:00",
-   "saving": 43,
-   "baseline": 12020,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hXDZ1PdBJc"
   }
  ]
 }
