@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-21T19:16:47.114+09:00",
+ "updated": "2026-10-21T19:59:38.378+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8631013699",
+   "mall": "쿠팡",
+   "title": "더담은 배도라지 쌍화 100ml 30포",
+   "price": 24900,
+   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/fdec/6253ba0d17cb3cb6d9c921b9d2203c95b2967eb9c3c740caf97a96732fae.png",
+   "sentAt": "2026-10-21T19:59:37.790+09:00",
+   "saving": 20,
+   "baseline": 31070,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/h1QQny5aAC"
+  },
   {
    "uid": "8051190066",
    "mall": "롯데온",
@@ -727,18 +740,6 @@
    "baselineNote": "56곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hX9wdvHPEW"
-  },
-  {
-   "uid": "5839956679",
-   "mall": "지마켓",
-   "title": "닥터지 레드 블레미쉬 클리어 수딩크림 50mL 듀오 기프트 세트 +브라이트닝 업선 플러스20ml",
-   "price": 25000,
-   "image": "https://gdimg.gmarket.co.kr/4498501917/goodsimage",
-   "sentAt": "2026-10-19T14:15:58.956+09:00",
-   "saving": 20,
-   "baseline": 31160,
-   "baselineNote": "판매글 6곳 최저가",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4498501917"
   }
  ]
 }
