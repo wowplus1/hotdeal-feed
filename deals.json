@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-21T13:00:00.204+09:00",
+ "updated": "2026-10-21T13:01:11.391+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1372671171",
+   "mall": "지마켓",
+   "title": "크리넥스 3겹 데코앤소프트 화이트 25MX30롤 2팩",
+   "price": 23830,
+   "image": "https://gdimg.gmarket.co.kr/4157511492/goodsimage",
+   "sentAt": "2026-10-21T13:01:10.916+09:00",
+   "saving": 22,
+   "baseline": 30600,
+   "baselineNote": "153곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4157511492"
+  },
   {
    "uid": "6750533810",
    "mall": "롯데온",
@@ -727,19 +740,6 @@
    "baseline": 24600,
    "baselineNote": "판매글 4곳 최저가",
    "link": "https://link.coupang.com/a/hXLEg9wUdU"
-  },
-  {
-   "uid": "8474491236",
-   "mall": "쿠팡",
-   "title": "오뚜기 가뿐한끼 현미밥, 150g, 30개",
-   "price": 22980,
-   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/214668785683448-5eaa11d4-2bf1-4420-839e-7d3b1e2c892d.png",
-   "sentAt": "2026-10-19T08:30:47.734+09:00",
-   "saving": 22,
-   "baseline": 29560,
-   "baselineNote": "판매글 22곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hXJKc20dmm"
   }
  ]
 }
