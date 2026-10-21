@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-22T00:11:40.017+09:00",
- "count": 42,
+ "updated": "2026-10-22T00:14:47.292+09:00",
+ "count": 43,
  "items": [
+  {
+   "uid": "5555376183",
+   "mall": "롯데온",
+   "title": "무주 반딧불 26년 햇 사과로 만든 사과즙 착즙 통사과즙 120ml 30봉 NFC착즙",
+   "price": 10580,
+   "image": "https://contents.lotteon.com/itemimage/20260914161749/LO/23/78/32/77/13/_2/37/83/27/71/4/LO2378327713_2378327714_1.jpg",
+   "sentAt": "2026-10-22T00:14:47.292+09:00",
+   "saving": 32,
+   "baseline": 15590,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/ibp01Zl63",
+   "web": true
+  },
   {
    "uid": "6850922183",
    "mall": "롯데온",
