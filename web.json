@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-21T12:50:05.833+09:00",
- "count": 33,
+ "updated": "2026-10-21T13:34:40.213+09:00",
+ "count": 34,
  "items": [
+  {
+   "uid": "6478931270",
+   "mall": "롯데온",
+   "title": "키크론 K10 PRO SE2 ZMK 레트로 파스텔 유무선 라이트 저소음바나나축 풀배열 사무실 기계식 키보드",
+   "price": 99510,
+   "image": "https://contents.lotteon.com/itemimage/20261021102326/LO/26/09/98/13/67/_2/60/99/81/36/8/LO2609981367_2609981368_1.jpg",
+   "sentAt": "2026-10-21T13:34:40.213+09:00",
+   "saving": 16,
+   "baseline": 119000,
+   "baselineNote": "다른 곳 최저",
+   "link": "http://app.ac/MAGB4V503",
+   "web": true
+  },
   {
    "uid": "4645316325",
    "mall": "롯데온",
