@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-21T13:34:40.213+09:00",
- "count": 34,
+ "updated": "2026-10-21T14:31:03.468+09:00",
+ "count": 35,
  "items": [
+  {
+   "uid": "7636648704",
+   "mall": "쿠팡",
+   "title": "LG전자 4K 울트라HD TV 75인치 방문설치",
+   "price": 899000,
+   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/12/09/17/9/a1a6e2fb-5d6f-4e8f-ac49-813d0a47e156.jpg",
+   "sentAt": "2026-10-21T14:31:03.468+09:00",
+   "saving": 36,
+   "baseline": 1400180,
+   "baselineNote": "판매글 3곳 최저가",
+   "link": "https://link.coupang.com/a/h1tlhg47Hw",
+   "web": true
+  },
   {
    "uid": "6478931270",
    "mall": "롯데온",
