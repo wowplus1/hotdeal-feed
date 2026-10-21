@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-21T18:27:02.537+09:00",
+ "updated": "2026-10-21T19:10:38.056+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5995189412",
+   "mall": "지마켓",
+   "title": "에너자이저 알카라인 파워 건전지 AA 10입+AAA 10입",
+   "price": 9900,
+   "image": "https://gdimg.gmarket.co.kr/4724291618/goodsimage",
+   "sentAt": "2026-10-21T19:10:37.291+09:00",
+   "saving": 37,
+   "baseline": 15750,
+   "baselineNote": "판매글 11곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4724291618"
+  },
   {
    "uid": "9727201060",
    "mall": "쿠팡",
@@ -728,19 +741,6 @@
    "baseline": 16300,
    "baselineNote": "판매글 17곳 최저가",
    "link": "https://link.coupang.com/a/gpF6cskHGS"
-  },
-  {
-   "uid": "3215221414",
-   "mall": "롯데온",
-   "title": "랩신 섬유항균제 파우치 2L*2개",
-   "price": 14500,
-   "image": "https://contents.lotteon.com/itemimage/20261012185518/LO/26/47/03/22/09/_2/64/70/32/21/0/LO2647032209_2647032210_4.png",
-   "sentAt": "2026-10-19T11:36:27.969+09:00",
-   "saving": 40,
-   "baseline": 24290,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/zECmQkS33"
   }
  ]
 }
