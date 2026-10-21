@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-21T15:01:25.599+09:00",
+ "updated": "2026-10-21T15:59:38.458+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1001952540",
+   "mall": "쿠팡",
+   "title": "농심 감자면 117g, 5개",
+   "price": 4780,
+   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/6788/b9f6a9850d76d55a8a0ed44d8ff2c6362a648e1bf15b074e68e514b83393.jpg",
+   "sentAt": "2026-10-21T15:59:37.825+09:00",
+   "saving": 29,
+   "baseline": 6700,
+   "baselineNote": "판매글 12곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hCwQg57urA"
+  },
   {
    "uid": "1106297610",
    "mall": "지마켓",
@@ -728,19 +741,6 @@
    "baseline": 31230,
    "baselineNote": "판매글 8곳 최저가",
    "link": "https://link.coupang.com/a/gYlZ4rRaeq"
-  },
-  {
-   "uid": "7086711800",
-   "mall": "쿠팡",
-   "title": "크리넥스 울트라클린 천연펄프 3겹 고급롤화장지, 27m, 30개입, 1개",
-   "price": 13160,
-   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/7587974490006-951c0769-a359-496b-968d-8f57b1658ef2.png",
-   "sentAt": "2026-10-19T09:25:44.312+09:00",
-   "saving": 41,
-   "baseline": 22440,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hXNJF18sqi"
   }
  ]
 }
