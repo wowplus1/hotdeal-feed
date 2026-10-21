@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-21T19:59:38.378+09:00",
+ "updated": "2026-10-21T20:20:34.764+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6884077697",
+   "mall": "쿠팡",
+   "title": "동아제약 얼박 오리지널 230ml 10개",
+   "price": 9270,
+   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/e14b/2a201eb54f9b62abd4f6c2f0216766c1a10356c5a2aeaf1e747771a5153e.jpg",
+   "sentAt": "2026-10-21T20:20:34.028+09:00",
+   "saving": 26,
+   "baseline": 12460,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/h1Sl1lRsIe"
+  },
   {
    "uid": "8631013699",
    "mall": "쿠팡",
@@ -727,19 +740,6 @@
    "baseline": 24560,
    "baselineNote": "70곳 중 최저 · 무료배송",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=1695859677"
-  },
-  {
-   "uid": "3933124757",
-   "mall": "쿠팡",
-   "title": "이니스프리 포레스트 쉐이빙 & 클렌징 폼, 150g, 2개",
-   "price": 9300,
-   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/256082018278201-8b1912bd-78cb-4ae5-b9be-0af59d51cd09.jpg",
-   "sentAt": "2026-10-19T14:30:48.452+09:00",
-   "saving": 27,
-   "baseline": 12800,
-   "baselineNote": "56곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hX9wdvHPEW"
   }
  ]
 }
