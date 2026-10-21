@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-21T11:03:05.694+09:00",
+ "updated": "2026-10-21T11:14:42.573+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3780902856",
+   "mall": "지마켓",
+   "title": "하동관 한우암소곰탕 500g 5팩",
+   "price": 24990,
+   "image": "https://gdimg.gmarket.co.kr/4618681212/goodsimage",
+   "sentAt": "2026-10-21T11:14:42.052+09:00",
+   "saving": 42,
+   "baseline": 43190,
+   "baselineNote": "29곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4618681212"
+  },
   {
    "uid": "5577900475",
    "mall": "지마켓",
@@ -727,19 +740,6 @@
    "baseline": 98990,
    "baselineNote": "다른 곳 최저",
    "link": "https://link.coupang.com/a/hXDCG1t1K8"
-  },
-  {
-   "uid": "9619858317",
-   "mall": "쿠팡",
-   "title": "엠앤엠즈 밀크 픽앤믹스 초콜릿, 337.5g, 1개",
-   "price": 7960,
-   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/1025_amir_coupang_oct_80k/0ebd/baa69dcd5dc1731003c7f1ecdfabc812f3d5e8525f76ae52d382d3783158.jpg",
-   "sentAt": "2026-10-18T18:07:05.246+09:00",
-   "saving": 43,
-   "baseline": 13980,
-   "baselineNote": "21곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/f9zn55DdSe"
   }
  ]
 }
