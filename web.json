@@ -1,7 +1,35 @@
 {
- "updated": "2026-10-21T15:40:12.811+09:00",
- "count": 37,
+ "updated": "2026-10-21T17:04:53.940+09:00",
+ "count": 39,
  "items": [
+  {
+   "uid": "6085719466",
+   "mall": "쿠팡",
+   "title": "비비고 든든 한섬만두 , 384g, 6개입",
+   "price": 17290,
+   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/84e6e153-9dfa-4c75-a758-7fc25a5703051019396634656822737.png",
+   "sentAt": "2026-10-21T17:04:53.940+09:00",
+   "saving": 35,
+   "baseline": 26790,
+   "baselineNote": "63곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/h1EmIIv2yG",
+   "web": true
+  },
+  {
+   "uid": "2575183090",
+   "mall": "쿠팡",
+   "title": "농심 얼큰 장칼국수 103g, 4개",
+   "price": 5240,
+   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2354205963631167-95568600-69f2-44ce-9dda-1bcd0abcf5cf.jpg",
+   "sentAt": "2026-10-21T17:04:53.940+09:00",
+   "saving": 15,
+   "baseline": 6130,
+   "baselineNote": "31곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/h1ElVmP64W",
+   "web": true
+  },
   {
    "uid": "7385472624",
    "mall": "쿠팡",
