@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-21T19:10:38.056+09:00",
+ "updated": "2026-10-21T19:16:47.114+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8051190066",
+   "mall": "롯데온",
+   "title": "유자쌍화 150ml x 40병",
+   "price": 23710,
+   "image": "https://contents.lotteon.com/itemimage/20260908121147/LO/17/20/10/85/91/_1/72/01/08/59/2/LO1720108591_1720108592_1.jpg",
+   "sentAt": "2026-10-21T19:16:46.550+09:00",
+   "unit": "[object Object]",
+   "link": "http://app.ac/h3MdbUJ13"
+  },
   {
    "uid": "5995189412",
    "mall": "지마켓",
@@ -729,18 +739,6 @@
    "baseline": 31160,
    "baselineNote": "판매글 6곳 최저가",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4498501917"
-  },
-  {
-   "uid": "7839243520",
-   "mall": "쿠팡",
-   "title": "루나 롱래스팅 파운데이션 30ml, 21호 바닐라, 1개",
-   "price": 7040,
-   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/456c6c25-5d64-4d99-a560-bacb43dc71163264431758637120523.png",
-   "sentAt": "2026-10-19T13:38:18.642+09:00",
-   "saving": 57,
-   "baseline": 16300,
-   "baselineNote": "판매글 17곳 최저가",
-   "link": "https://link.coupang.com/a/gpF6cskHGS"
   }
  ]
 }
