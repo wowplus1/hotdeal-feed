@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-21T10:57:46.583+09:00",
+ "updated": "2026-10-21T11:03:05.694+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5577900475",
+   "mall": "지마켓",
+   "title": "팸퍼스 터치오브네이처 팬티 2박스 104,800원",
+   "price": 104800,
+   "image": "https://gdimg.gmarket.co.kr/4358718451/goodsimage",
+   "sentAt": "2026-10-21T11:03:04.243+09:00",
+   "saving": 21,
+   "baseline": 132110,
+   "baselineNote": "판매글 20곳 최저가",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4358718451"
+  },
   {
    "uid": "9141260346",
    "mall": "토스쇼핑",
@@ -728,19 +740,6 @@
    "baselineNote": "21곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/f9zn55DdSe"
-  },
-  {
-   "uid": "8753566840",
-   "mall": "토스쇼핑",
-   "title": "가쯔 오래쓰는 자동 변기세정제, 260g, 4개",
-   "price": 5990,
-   "image": "https://shopping.toss.im/live/taca/ai/Nzc2MTU4/QUtsOGJFZHBLZWp3N0h4ZEQxU0dvMUNHMGg0UEtwR1EwQlVyVnFNbEM2clc.png",
-   "sentAt": "2026-10-18T17:26:24.812+09:00",
-   "saving": 38,
-   "baseline": 9660,
-   "baselineNote": "판매글 16곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/HW7Wrsg2"
   }
  ]
 }
