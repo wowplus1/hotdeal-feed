@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-21T09:06:50.195+09:00",
+ "updated": "2026-10-21T10:02:53.194+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3031311535",
+   "mall": "토스쇼핑",
+   "title": "태양생활건강 뽀로로 아연담은 면역 쏙, 딸기, 100ml, 10개",
+   "price": 3730,
+   "image": "https://shopping.toss.im/live/taca/ai/v2/MzY5YmY0/ZTVlMXBzOGphTVp0cDlZeU9rMWs2Yll3TWxsTXpZNDV0bkRieWRsc0pMWT0.png",
+   "sentAt": "2026-10-21T10:02:52.358+09:00",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/7KZoOwmn"
+  },
   {
    "uid": "7759682106",
    "mall": "쿠팡",
@@ -733,18 +743,6 @@
    "baseline": 25480,
    "baselineNote": "판매글 24곳 최저가",
    "link": "https://link.coupang.com/a/hWlYVqteVg"
-  },
-  {
-   "uid": "8531907738",
-   "mall": "11번가",
-   "title": "매직캔 리필봉투 MH250 MJ250 M250",
-   "price": 14970,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/3/6/4/2/0/7/fiwBx/9094364207_241202569.webp",
-   "sentAt": "2026-10-18T11:59:26.711+09:00",
-   "saving": 24,
-   "baseline": 19670,
-   "baselineNote": "판매글 27곳 최저가",
-   "link": "http://app.ac/5jwSc7a43"
   }
  ]
 }
