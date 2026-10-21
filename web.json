@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-22T00:14:47.292+09:00",
- "count": 43,
+ "updated": "2026-10-22T00:59:54.561+09:00",
+ "count": 44,
  "items": [
+  {
+   "uid": "1778339604",
+   "mall": "쿠팡",
+   "title": "라라스윗 블랙트러플 하몽칩, 45g, 2개",
+   "price": 2920,
+   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/21332733316365-b75c3690-5412-4fc2-b995-c014c6f60ad7.png",
+   "sentAt": "2026-10-22T00:59:54.561+09:00",
+   "saving": 64,
+   "baseline": 8140,
+   "baselineNote": "판매글 9곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/h2chsgqsnY",
+   "web": true
+  },
   {
    "uid": "5555376183",
    "mall": "롯데온",
