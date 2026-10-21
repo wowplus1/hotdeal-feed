@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-21T11:14:42.573+09:00",
+ "updated": "2026-10-21T12:06:00.545+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6975866601",
+   "mall": "지마켓",
+   "title": "오리온 포카칩 오리지널 66g x 20봉",
+   "price": 18400,
+   "image": "https://gdimg.gmarket.co.kr/1562377399/goodsimage",
+   "sentAt": "2026-10-21T12:05:59.820+09:00",
+   "saving": 31,
+   "baseline": 26700,
+   "baselineNote": "판매글 18곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=1562377399"
+  },
   {
    "uid": "3780902856",
    "mall": "지마켓",
@@ -728,18 +741,6 @@
    "baselineNote": "판매글 4곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hXDZ1PdBJc"
-  },
-  {
-   "uid": "1192800326",
-   "mall": "쿠팡",
-   "title": "에디파이어 ES850NB 무선 노이즈캔슬링 오버이어 헤드폰",
-   "price": 69490,
-   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/03/10/18/2/923502e1-d36d-492c-a268-ccc8c626c0fe.jpg",
-   "sentAt": "2026-10-19T07:04:39.027+09:00",
-   "saving": 30,
-   "baseline": 98990,
-   "baselineNote": "다른 곳 최저",
-   "link": "https://link.coupang.com/a/hXDCG1t1K8"
   }
  ]
 }
