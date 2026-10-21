@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-21T17:43:53.902+09:00",
+ "updated": "2026-10-21T18:27:02.537+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9727201060",
+   "mall": "쿠팡",
+   "title": "C to C 60W 초고속 충전케이블 1+1",
+   "price": 3480,
+   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/fe5c/abbe5f4ebb0c7117a839bf049e6ee940655a711b881dbd0f11b2f4672ef8.png",
+   "sentAt": "2026-10-21T18:27:01.630+09:00",
+   "saving": 38,
+   "baseline": 5650,
+   "baselineNote": "판매글 6곳 최저가",
+   "link": "https://link.coupang.com/a/gSPqdX6wnI"
+  },
   {
    "uid": "6772347138",
    "mall": "롯데온",
@@ -729,18 +741,6 @@
    "baselineNote": "판매글 5곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/zECmQkS33"
-  },
-  {
-   "uid": "8461262075",
-   "mall": "GS SHOP",
-   "title": "독도에디션 4g 16봉 X 3개 총 48봉",
-   "price": 11416,
-   "image": "https://asset.m-gs.kr/prod/1137478310/1/280",
-   "sentAt": "2026-10-19T11:19:40.115+09:00",
-   "saving": 34,
-   "baseline": 17380,
-   "baselineNote": "판매글 3곳 최저가",
-   "link": "http://app.ac/4qnBbA253"
   }
  ]
 }
