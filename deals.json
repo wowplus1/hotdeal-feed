@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-21T10:32:26.651+09:00",
+ "updated": "2026-10-21T10:57:46.583+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9141260346",
+   "mall": "토스쇼핑",
+   "title": "착한팩토리 비타 리얼 글루타치온 토너, 400ml, 1개",
+   "price": 11590,
+   "image": "https://shopping.toss.im/live/temp/2025-12-29/f6dd3a57-2190-49de-a963-e3434c6fbaf7.jpeg",
+   "sentAt": "2026-10-21T10:57:45.997+09:00",
+   "saving": 26,
+   "baseline": 15680,
+   "baselineNote": "판매글 8곳 최저가",
+   "link": "https://toss.shopping/_m/J9J1NzT4"
+  },
   {
    "uid": "1686449060",
    "mall": "토스쇼핑",
@@ -729,19 +741,6 @@
    "baselineNote": "판매글 16곳 최저가",
    "unit": "[object Object]",
    "link": "https://toss.shopping/_m/HW7Wrsg2"
-  },
-  {
-   "uid": "9587414680",
-   "mall": "토스쇼핑",
-   "title": "블랙트러플 하몽 소다 크래커, 294g, 3개",
-   "price": 8890,
-   "image": "https://shopping.toss.im/live/taca/ai/ZDEzMDE4/VDZVOE1mQyt0WTJFdmt1M2ZXbGFTd3REYXRUZ1hwYXpGMVpWVHYvUnJXaz0.png",
-   "sentAt": "2026-10-18T15:20:52.675+09:00",
-   "saving": 33,
-   "baseline": 13270,
-   "baselineNote": "판매글 16곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/F1ijpgGu"
   }
  ]
 }
