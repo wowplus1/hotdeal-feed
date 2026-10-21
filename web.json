@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-21T19:44:58.248+09:00",
- "count": 41,
+ "updated": "2026-10-22T00:11:40.017+09:00",
+ "count": 42,
  "items": [
+  {
+   "uid": "6850922183",
+   "mall": "롯데온",
+   "title": "칠갑농산 감자수제비 380g x 3개",
+   "price": 7990,
+   "image": "https://contents.lotteon.com/itemimage/20261021111747/LO/27/76/97/08/35/_2/77/69/70/83/6/LO2776970835_2776970836_1.jpg",
+   "sentAt": "2026-10-22T00:11:40.017+09:00",
+   "saving": 40,
+   "baseline": 13230,
+   "baselineNote": "판매글 8곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/rEC4ghS93",
+   "web": true
+  },
   {
    "uid": "9558116049",
    "mall": "롯데온",
