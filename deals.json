@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-21T12:30:14.968+09:00",
+ "updated": "2026-10-21T13:00:00.204+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6750533810",
+   "mall": "롯데온",
+   "title": "바른생활 아트컬렉션 초극세모 12입+12입",
+   "price": 9010,
+   "image": "https://contents.lotteon.com/itemimage/20261019190614/LO/24/07/11/91/83/_2/40/71/19/18/4/LO2407119183_2407119184_1.jpg",
+   "sentAt": "2026-10-21T12:59:59.664+09:00",
+   "saving": 27,
+   "baseline": 12420,
+   "baselineNote": "판매글 4곳 최저가",
+   "link": "http://app.ac/nAGBSd553"
+  },
   {
    "uid": "8091693730",
    "mall": "토스쇼핑",
@@ -728,19 +740,6 @@
    "baselineNote": "판매글 22곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hXJKc20dmm"
-  },
-  {
-   "uid": "7050927857",
-   "mall": "쿠팡",
-   "title": "클룹 애사비소다 오리지널 제로, 250ml, 24개",
-   "price": 13240,
-   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/24599234155900-6a7bf1be-daaf-432d-aa63-4f375a18225f.png",
-   "sentAt": "2026-10-19T08:30:47.733+09:00",
-   "saving": 44,
-   "baseline": 23650,
-   "baselineNote": "판매글 12곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gxKmREyFlA"
   }
  ]
 }
