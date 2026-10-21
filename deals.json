@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-21T13:01:11.391+09:00",
+ "updated": "2026-10-21T15:01:25.599+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1106297610",
+   "mall": "지마켓",
+   "title": "로투스 록키마운틴 마시멜로우 레귤러 화이트 150g x 5개",
+   "price": 9810,
+   "image": "https://gdimg.gmarket.co.kr/4778133963/goodsimage",
+   "sentAt": "2026-10-21T15:01:24.827+09:00",
+   "saving": 27,
+   "baseline": 13520,
+   "baselineNote": "판매글 39곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4778133963"
+  },
   {
    "uid": "1372671171",
    "mall": "지마켓",
@@ -728,18 +741,6 @@
    "baselineNote": "판매글 3곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hXNJF18sqi"
-  },
-  {
-   "uid": "9196802958",
-   "mall": "쿠팡",
-   "title": "아이오페 레티놀 슈퍼 바운스 세럼 30ml 세트",
-   "price": 17300,
-   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/08/13/11/1/1a003e03-49ec-4a6a-8d49-070e7daf8f1d.jpg",
-   "sentAt": "2026-10-19T08:56:45.607+09:00",
-   "saving": 30,
-   "baseline": 24600,
-   "baselineNote": "판매글 4곳 최저가",
-   "link": "https://link.coupang.com/a/hXLEg9wUdU"
   }
  ]
 }
