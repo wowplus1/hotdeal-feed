@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-22T23:26:34.436+09:00",
- "count": 58,
+ "updated": "2026-10-23T00:04:26.086+09:00",
+ "count": 59,
  "items": [
+  {
+   "uid": "5585812156",
+   "mall": "지마켓",
+   "title": "국내산 햇 생강 1kg",
+   "price": 4990,
+   "image": "https://gdimg.gmarket.co.kr/2245185636/goodsimage",
+   "sentAt": "2026-10-23T00:04:26.086+09:00",
+   "saving": 49,
+   "baseline": 9810,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2245185636",
+   "web": true
+  },
   {
    "uid": "1438239297",
    "mall": "쿠팡",
