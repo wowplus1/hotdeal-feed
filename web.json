@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-22T17:04:39.031+09:00",
- "count": 54,
+ "updated": "2026-10-22T17:32:11.971+09:00",
+ "count": 55,
  "items": [
+  {
+   "uid": "4426361107",
+   "mall": "롯데온",
+   "title": "햇반 윤기가득 쌀밥 210g x48개",
+   "price": 38510,
+   "image": "https://contents.lotteon.com/itemimage/20261022162929/LO/25/32/59/70/90/_2/53/25/97/09/1/LO2532597090_2532597091_1.jpg",
+   "sentAt": "2026-10-22T17:32:11.971+09:00",
+   "saving": 14,
+   "baseline": 44910,
+   "baselineNote": "302곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "http://app.ac/VbpBUal33",
+   "web": true
+  },
   {
    "uid": "4276801725",
    "mall": "지마켓",
