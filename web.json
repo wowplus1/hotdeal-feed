@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-23T00:21:26.255+09:00",
- "count": 61,
+ "updated": "2026-10-23T01:26:26.861+09:00",
+ "count": 62,
  "items": [
+  {
+   "uid": "8682714465",
+   "mall": "쿠팡",
+   "title": "해태 포도 봉봉 제로 340ml 24개",
+   "price": 12240,
+   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2024/11/14/18/8/4f383d10-2130-40c3-a719-24f69dde986a.jpg",
+   "sentAt": "2026-10-23T01:26:26.861+09:00",
+   "saving": 18,
+   "baseline": 14850,
+   "baselineNote": "349곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hRvf55mfvg",
+   "web": true
+  },
   {
    "uid": "8933735977",
    "mall": "지마켓",
