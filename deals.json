@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-22T13:35:46.033+09:00",
+ "updated": "2026-10-22T16:01:26.499+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2943529204",
+   "mall": "지마켓",
+   "title": "삼양 불닭볶음면 소컵 24개",
+   "price": 18110,
+   "image": "https://gdimg.gmarket.co.kr/3520135884/goodsimage",
+   "sentAt": "2026-10-22T16:01:25.555+09:00",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=3520135884"
+  },
   {
    "uid": "4838868959",
    "mall": "토스쇼핑",
@@ -736,16 +746,6 @@
    "baseline": 16900,
    "baselineNote": "판매글 4곳 최저가",
    "link": "http://app.ac/zECSoRS03"
-  },
-  {
-   "uid": "2695549735",
-   "mall": "쿠팡",
-   "title": "오로나민씨 탄산 드링크, 120ml, 50개",
-   "price": 22530,
-   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/c60a/83c3d1431c226f75d4c2f0167f76b86955f54157dcbbe0dc691b4a8e8218.jpg",
-   "sentAt": "2026-10-20T09:14:40.377+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gut6oVcRzM"
   }
  ]
 }
