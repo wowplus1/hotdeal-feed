@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-22T15:03:17.088+09:00",
- "count": 53,
+ "updated": "2026-10-22T17:04:39.031+09:00",
+ "count": 54,
  "items": [
+  {
+   "uid": "4276801725",
+   "mall": "지마켓",
+   "title": "풀무원샘물 생수 2L X 12병",
+   "price": 5720,
+   "image": "https://gdimg.gmarket.co.kr/3759611316/goodsimage",
+   "sentAt": "2026-10-22T17:04:39.031+09:00",
+   "saving": 27,
+   "baseline": 7840,
+   "baselineNote": "45곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=3759611316",
+   "web": true
+  },
   {
    "uid": "6928610467",
    "mall": "지마켓",
