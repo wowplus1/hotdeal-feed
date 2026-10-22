@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-22T14:15:30.377+09:00",
- "count": 51,
+ "updated": "2026-10-22T14:30:45.982+09:00",
+ "count": 52,
  "items": [
+  {
+   "uid": "9317936956",
+   "mall": "쿠팡",
+   "title": "마이디어 파워워시 통돌이 세탁기 19kg",
+   "price": 399000,
+   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/rs_quotation_api/8zexosex/3b8aedcc0d1343c689e89474eec2e2b8.jpg",
+   "sentAt": "2026-10-22T14:30:45.982+09:00",
+   "saving": 54,
+   "baseline": 859440,
+   "baselineNote": "판매글 4곳 최저가",
+   "link": "https://link.coupang.com/a/h28eoARX4K",
+   "web": true
+  },
   {
    "uid": "4834733362",
    "mall": "지마켓",
