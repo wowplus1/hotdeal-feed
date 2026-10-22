@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-22T17:55:03.122+09:00",
+ "updated": "2026-10-22T18:11:00.287+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2583799036",
+   "mall": "지마켓",
+   "title": "크리넥스 도톰한 3겹 데코소프트 28M 24롤 2팩",
+   "price": 23680,
+   "image": "https://gdimg.gmarket.co.kr/2470977918/goodsimage",
+   "sentAt": "2026-10-22T18:10:59.726+09:00",
+   "saving": 29,
+   "baseline": 33500,
+   "baselineNote": "판매글 26곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2470977918"
+  },
   {
    "uid": "1009770997",
    "mall": "롯데온",
@@ -734,18 +747,6 @@
    "baselineNote": "판매글 4곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=462942360"
-  },
-  {
-   "uid": "3609459920",
-   "mall": "11번가",
-   "title": "히말라야 핑크솔트 소금 250G 5팩 + 그라인더 1개 선물세트",
-   "price": 5940,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/7882170346/B.webp?180870314",
-   "sentAt": "2026-10-20T09:44:37.783+09:00",
-   "saving": 40,
-   "baseline": 9900,
-   "baselineNote": "판매글 4곳 최저가",
-   "link": "http://app.ac/I3MmoNJ43"
   }
  ]
 }
