@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-22T00:59:54.561+09:00",
- "count": 44,
+ "updated": "2026-10-22T11:54:39.884+09:00",
+ "count": 45,
  "items": [
+  {
+   "uid": "9812614229",
+   "mall": "롯데온",
+   "title": "즉시발열 강력방수 욕실 온풍기 PTC 무타공 벽걸이 히터 PHH-SW2000",
+   "price": 55900,
+   "image": "https://contents.lotteon.com/itemimage/20261021173213/LO/27/88/87/39/29/_2/78/88/73/93/0/LO2788873929_2788873930_2.png",
+   "sentAt": "2026-10-22T11:54:39.884+09:00",
+   "saving": 20,
+   "baseline": 69630,
+   "baselineNote": "판매글 10곳 최저가",
+   "link": "http://app.ac/PbpBTml13",
+   "web": true
+  },
   {
    "uid": "1778339604",
    "mall": "쿠팡",
