@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-22T09:12:46.029+09:00",
+ "updated": "2026-10-22T10:30:07.139+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5745605275",
+   "mall": "쿠팡",
+   "title": "해태제과 오예스 미니 크림소다맛, 192g, 5개",
+   "price": 6920,
+   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/7aa898fa-0716-4d9c-87ad-1837d98e0f447982471331101464409.png",
+   "sentAt": "2026-10-22T10:30:06.231+09:00",
+   "saving": 31,
+   "baseline": 10010,
+   "baselineNote": "195곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/h2Q2iWeJq0"
+  },
   {
    "uid": "7869235581",
    "mall": "지마켓",
@@ -733,19 +746,6 @@
    "sentAt": "2026-10-20T07:16:20.732+09:00",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hZjlNbxWJo"
-  },
-  {
-   "uid": "6430656813",
-   "mall": "쿠팡",
-   "title": "글라스락 퍼플에디션 직사각 밀폐용기, 1.1L*3개",
-   "price": 12900,
-   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/68cc2296-afd8-41f4-ad22-367f7ba398563829371094755338010.png",
-   "sentAt": "2026-10-20T07:04:49.986+09:00",
-   "saving": 57,
-   "baseline": 30300,
-   "baselineNote": "4곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hZizChkazs"
   }
  ]
 }
