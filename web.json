@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-23T00:04:26.086+09:00",
- "count": 59,
+ "updated": "2026-10-23T00:06:47.900+09:00",
+ "count": 60,
  "items": [
+  {
+   "uid": "6616138584",
+   "mall": "롯데온",
+   "title": "테이퍼드 하프 밴딩 반바지 4colors",
+   "price": 16760,
+   "image": "https://contents.lotteon.com/itemimage/20260813132628/LO/14/55/26/56/76/bndl_img/LO1455265676_1.jpg",
+   "sentAt": "2026-10-23T00:06:47.900+09:00",
+   "saving": 56,
+   "baseline": 37905,
+   "baselineNote": "판매글 6곳 최저가",
+   "link": "http://app.ac/Ubp85sl03",
+   "web": true
+  },
   {
    "uid": "5585812156",
    "mall": "지마켓",
