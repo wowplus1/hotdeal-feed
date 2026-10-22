@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-23T01:26:26.861+09:00",
- "count": 62,
+ "updated": "2026-10-23T07:45:19.267+09:00",
+ "count": 63,
  "items": [
+  {
+   "uid": "7354375525",
+   "mall": "쿠팡",
+   "title": "퍼실 뉴 디스크 파워 캡슐세제 파우치 26개입 1개",
+   "price": 9940,
+   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/04/17/12/5/4d308eb5-422a-4d45-93ea-8cf75a5c366b.jpg",
+   "sentAt": "2026-10-23T07:45:19.267+09:00",
+   "saving": 18,
+   "baseline": 12140,
+   "baselineNote": "213곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/h4kbUhC1eK",
+   "web": true
+  },
   {
    "uid": "8682714465",
    "mall": "쿠팡",
