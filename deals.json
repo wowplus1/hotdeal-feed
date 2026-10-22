@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-23T07:12:26.528+09:00",
+ "updated": "2026-10-23T08:10:35.175+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1623661499",
+   "mall": "쿠팡",
+   "title": "광동옥수수수염차 무라벨, 330ml, 20개",
+   "price": 12210,
+   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/132238213099567-1652bef5-615e-4ab6-a637-5b484ca7daac.jpg",
+   "sentAt": "2026-10-23T08:10:34.603+09:00",
+   "saving": 28,
+   "baseline": 17010,
+   "baselineNote": "판매글 8곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gxKmDRzuj6"
+  },
   {
    "uid": "5934764905",
    "mall": "쿠팡",
@@ -733,18 +746,6 @@
    "baselineNote": "232곳 중 최저",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=3975054886"
-  },
-  {
-   "uid": "7389399560",
-   "mall": "GS SHOP",
-   "title": "베베숲 아기물티슈 시그니처 위드블루 70매 캡 10팩",
-   "price": 10912,
-   "image": "https://asset.m-gs.kr/prod/1101571254/1/280",
-   "sentAt": "2026-10-20T13:40:19.575+09:00",
-   "saving": 49,
-   "baseline": 21500,
-   "baselineNote": "판매글 11곳 최저가",
-   "link": "http://app.ac/XbpMFCl93"
   }
  ]
 }
