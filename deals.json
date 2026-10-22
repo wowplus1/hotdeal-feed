@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-22T20:10:18.313+09:00",
+ "updated": "2026-10-22T21:03:10.388+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7287716706",
+   "mall": "지마켓",
+   "title": "듀오락 생유산균 초코볼 55개입 2개+증정 30,380원",
+   "price": 31420,
+   "image": "https://gdimg.gmarket.co.kr/2618481105/goodsimage",
+   "sentAt": "2026-10-22T21:03:09.540+09:00",
+   "saving": 35,
+   "baseline": 48630,
+   "baselineNote": "판매글 6곳 최저가",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2618481105"
+  },
   {
    "uid": "7541575368",
    "mall": "토스쇼핑",
@@ -733,19 +745,6 @@
    "baselineNote": "199곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=3912444095"
-  },
-  {
-   "uid": "8933735977",
-   "mall": "지마켓",
-   "title": "삼육김 광천 파래김 도시락김 4g 32봉",
-   "price": 8810,
-   "image": "https://gdimg.gmarket.co.kr/4813787544/goodsimage",
-   "sentAt": "2026-10-20T10:56:23.120+09:00",
-   "saving": 40,
-   "baseline": 14690,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4813787544"
   }
  ]
 }
