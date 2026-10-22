@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-22T22:16:27.306+09:00",
- "count": 57,
+ "updated": "2026-10-22T23:26:34.436+09:00",
+ "count": 58,
  "items": [
+  {
+   "uid": "1438239297",
+   "mall": "쿠팡",
+   "title": "솔가 네이처바이트 종합비타민 위드 미네랄 90정",
+   "price": 28000,
+   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/359332521158578-449f0ee5-2ee8-4514-8417-6d9a9cd1452b.png",
+   "sentAt": "2026-10-22T23:26:34.436+09:00",
+   "saving": 71,
+   "baseline": 97900,
+   "baselineNote": "35곳 중 최저 · 무료배송",
+   "link": "https://link.coupang.com/a/h3Kw57S37Q",
+   "web": true
+  },
   {
    "uid": "4213433066",
    "mall": "11번가",
