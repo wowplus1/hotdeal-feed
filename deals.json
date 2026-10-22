@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-22T11:39:47.306+09:00",
+ "updated": "2026-10-22T12:03:09.690+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8894649641",
+   "mall": "쿠팡",
+   "title": "센카 퍼펙트 휩 화이트 클레이 클렌징 품 시나모롤 에디션 120g 2개 8,380원",
+   "price": 8380,
+   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/08/14/14/8/dd65ec27-1778-4e68-aa5b-09dbb3481741.jpg",
+   "sentAt": "2026-10-22T12:03:08.953+09:00",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/h2XEU7GNki"
+  },
   {
    "uid": "3421888787",
    "mall": "롯데온",
@@ -736,18 +746,6 @@
    "sentAt": "2026-10-20T09:06:58.834+09:00",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4158718227"
-  },
-  {
-   "uid": "6945705350",
-   "mall": "지마켓",
-   "title": "해피콜 플렉스팬 IH 와이드 인덕션 후라이팬 20cm",
-   "price": 14790,
-   "image": "https://gdimg.gmarket.co.kr/2647573160/goodsimage",
-   "sentAt": "2026-10-20T09:00:35.545+09:00",
-   "saving": 30,
-   "baseline": 21040,
-   "baselineNote": "판매글 9곳 최저가",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2647573160"
   }
  ]
 }
