@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-22T21:46:36.743+09:00",
+ "updated": "2026-10-23T07:12:26.528+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5934764905",
+   "mall": "쿠팡",
+   "title": "켈로그 프로틴 그래놀라 제로슈거 다크초코, 350g, 1개",
+   "price": 3980,
+   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/271825331572050-d3cd2351-054b-446f-a074-da93c809f8fc.jpg",
+   "sentAt": "2026-10-23T07:12:25.610+09:00",
+   "saving": 51,
+   "baseline": 8090,
+   "baselineNote": "171곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hThJQJaKjs"
+  },
   {
    "uid": "6303647283",
    "mall": "쿠팡",
@@ -732,19 +745,6 @@
    "baseline": 21500,
    "baselineNote": "판매글 11곳 최저가",
    "link": "http://app.ac/XbpMFCl93"
-  },
-  {
-   "uid": "4239242520",
-   "mall": "11번가",
-   "title": "귤로장생 하우스감귤 2.5kg 소과",
-   "price": 10930,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/2/7/4/5/0/3/mjSFh/2423274503_241430369.jpg",
-   "sentAt": "2026-10-20T11:14:54.520+09:00",
-   "saving": 38,
-   "baseline": 17670,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/cbp4d7l33"
   }
  ]
 }
