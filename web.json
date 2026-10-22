@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-22T14:30:45.982+09:00",
- "count": 52,
+ "updated": "2026-10-22T15:03:17.088+09:00",
+ "count": 53,
  "items": [
+  {
+   "uid": "6928610467",
+   "mall": "지마켓",
+   "title": "ph365 베이비유산균 27,420원/키즈유산균 33,140원",
+   "price": 27420,
+   "image": "https://gdimg.gmarket.co.kr/1838184501/goodsimage",
+   "sentAt": "2026-10-22T15:03:17.088+09:00",
+   "saving": 13,
+   "baseline": 31680,
+   "baselineNote": "판매글 4곳 최저가",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=1838184501",
+   "web": true
+  },
   {
    "uid": "9317936956",
    "mall": "쿠팡",
