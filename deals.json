@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-22T19:56:34.062+09:00",
+ "updated": "2026-10-22T20:10:18.313+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7541575368",
+   "mall": "토스쇼핑",
+   "title": "교동 콩비지찌개, 500g, 5개",
+   "price": 12290,
+   "image": "https://shopping.toss.im/live/temp/2026-08-05/f56b598b-f128-4818-adb4-ea0cf5e981ee.jpeg",
+   "sentAt": "2026-10-22T20:10:17.561+09:00",
+   "saving": 38,
+   "baseline": 19780,
+   "baselineNote": "판매글 30곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://toss.im/_m/plKyasp9"
+  },
   {
    "uid": "1545567437",
    "mall": "롯데온",
@@ -733,19 +746,6 @@
    "baselineNote": "판매글 4곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4813787544"
-  },
-  {
-   "uid": "7952805916",
-   "mall": "쿠팡",
-   "title": "테일러 리치 푸룬 건자두, 250g, 1개",
-   "price": 4480,
-   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/4745469248237-3118def1-a459-4daa-944a-4aac247f8d2c.jpg",
-   "sentAt": "2026-10-20T10:55:18.417+09:00",
-   "saving": 27,
-   "baseline": 6100,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hZy0qZnQoS"
   }
  ]
 }
