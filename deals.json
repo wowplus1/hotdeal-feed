@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-22T09:11:21.814+09:00",
+ "updated": "2026-10-22T09:12:08.149+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4938312662",
+   "mall": "롯데온",
+   "title": "광동 옥수수수염차 1.85L 6입",
+   "price": 5940,
+   "image": "https://contents.lotteon.com/itemimage/20261014150923/LO/27/93/28/30/58/_2/79/32/83/05/9/LO2793283058_2793283059_1.jpg",
+   "sentAt": "2026-10-22T09:12:07.668+09:00",
+   "saving": 38,
+   "baseline": 9650,
+   "baselineNote": "판매글 38곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/2bpSS7l63"
+  },
   {
    "uid": "2302574446",
    "mall": "쿠팡",
@@ -730,15 +743,6 @@
    "sentAt": "2026-10-19T21:30:45.934+09:00",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hYDxuhFEbs"
-  },
-  {
-   "uid": "7772066136",
-   "mall": "지마켓",
-   "title": "이클립스 베스트 믹스 8입 + 증정",
-   "price": 11040,
-   "image": "https://gdimg.gmarket.co.kr/4021208064/goodsimage",
-   "sentAt": "2026-10-19T19:36:06.825+09:00",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4021208064"
   }
  ]
 }
