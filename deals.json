@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-22T11:01:40.808+09:00",
+ "updated": "2026-10-22T11:39:47.306+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3421888787",
+   "mall": "롯데온",
+   "title": "고품질 특품 정량 로메인청상추 1kg/2kg",
+   "price": 4990,
+   "image": "https://contents.lotteon.com/itemimage/20260929111612/LO/25/79/65/87/49/_2/57/96/58/75/0/LO2579658749_2579658750_1.jpg",
+   "sentAt": "2026-10-22T11:39:46.488+09:00",
+   "saving": 41,
+   "baseline": 8500,
+   "baselineNote": "판매글 4곳 최저가",
+   "link": "http://app.ac/eAGzYZ563"
+  },
   {
    "uid": "8570793257",
    "mall": "쿠팡",
@@ -736,19 +748,6 @@
    "baseline": 21040,
    "baselineNote": "판매글 9곳 최저가",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2647573160"
-  },
-  {
-   "uid": "5501648467",
-   "mall": "쿠팡",
-   "title": "토레타 이온음료, 500ml, 24개",
-   "price": 14480,
-   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/100102027674102-8cc77207-4f19-4e83-9119-7301407b36e3.jpg",
-   "sentAt": "2026-10-20T08:15:22.916+09:00",
-   "saving": 29,
-   "baseline": 20470,
-   "baselineNote": "판매글 11곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/garbm8eGxo"
   }
  ]
 }
