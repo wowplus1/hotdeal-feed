@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-22T10:30:07.139+09:00",
+ "updated": "2026-10-22T11:01:40.808+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8570793257",
+   "mall": "쿠팡",
+   "title": "조지아 블랙 무라벨 커피, 370ml, 20개",
+   "price": 16700,
+   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/129299413373747-329dd76d-4db8-417c-b8ac-4b62ff55c1d1.jpg",
+   "sentAt": "2026-10-22T11:01:40.229+09:00",
+   "saving": 32,
+   "baseline": 24480,
+   "baselineNote": "판매글 26곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gwhWYW2f3k"
+  },
   {
    "uid": "5745605275",
    "mall": "쿠팡",
@@ -736,16 +749,6 @@
    "baselineNote": "판매글 11곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/garbm8eGxo"
-  },
-  {
-   "uid": "3487709486",
-   "mall": "쿠팡",
-   "title": "청정원순창 재래식 생된장, 2.8kg, 1개",
-   "price": 8780,
-   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/28401590849864-dc5e7736-f554-4f78-84d5-744f48ebd7a7.jpg",
-   "sentAt": "2026-10-20T07:16:20.732+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hZjlNbxWJo"
   }
  ]
 }
