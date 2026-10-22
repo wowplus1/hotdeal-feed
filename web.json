@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-22T13:39:30.746+09:00",
- "count": 48,
+ "updated": "2026-10-22T13:50:37.324+09:00",
+ "count": 49,
  "items": [
+  {
+   "uid": "2139066540",
+   "mall": "쿠팡",
+   "title": "존바바토스 아티산 오 드 뚜왈렛 125ml",
+   "price": 34970,
+   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/98f7/109a7a4bffc936f1a509bd59d7699903e86cef26dbb30c54e669aaf943fc.jpg",
+   "sentAt": "2026-10-22T13:50:37.324+09:00",
+   "saving": 41,
+   "baseline": 59310,
+   "baselineNote": "판매글 19곳 최저가",
+   "link": "https://link.coupang.com/a/h25m7wYfXE",
+   "web": true
+  },
   {
    "uid": "2413989798",
    "mall": "쿠팡",
