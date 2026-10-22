@@ -1,7 +1,56 @@
 {
- "updated": "2026-10-21T20:20:34.764+09:00",
+ "updated": "2026-10-22T09:11:21.814+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2302574446",
+   "mall": "쿠팡",
+   "title": "크라운 국희 고소한 땅콩샌드 소, 93g, 3개",
+   "price": 2760,
+   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/186041454585835-f10cd2a3-20bb-4537-9356-0e38cefc38e3.jpg",
+   "sentAt": "2026-10-22T09:11:20.875+09:00",
+   "saving": 61,
+   "baseline": 7040,
+   "baselineNote": "판매글 31곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/h2KAc8Le6m"
+  },
+  {
+   "uid": "9437370144",
+   "mall": "쿠팡",
+   "title": "크라운 고소한 땅콩샌드, 279g, 2개",
+   "price": 3910,
+   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/f3d3/f7d525ec8f68695731430edb77704a88bb144f7329646922af4fb36c1382.jpg",
+   "sentAt": "2026-10-22T09:11:20.875+09:00",
+   "saving": 51,
+   "baseline": 7960,
+   "baselineNote": "판매글 20곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/h2C5ez4mrI"
+  },
+  {
+   "uid": "4642355354",
+   "mall": "쿠팡",
+   "title": "맑은내일 양파껍질차, 500ml, 24개",
+   "price": 22300,
+   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/image_audit/prod/99200944-08c7-4db5-844f-978cf336e1b3_fixing_v2.png",
+   "sentAt": "2026-10-22T09:11:20.875+09:00",
+   "saving": 40,
+   "baseline": 36940,
+   "baselineNote": "판매글 10곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gzwwOzrU84"
+  },
+  {
+   "uid": "2699539564",
+   "mall": "쿠팡",
+   "title": "파워에이드 마운틴블라스트 무라벨, 355ml, 20개",
+   "price": 12900,
+   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/3791012530342-62232d3f-aa6f-4929-98e6-09442c8e391d.jpg",
+   "sentAt": "2026-10-22T09:11:20.875+09:00",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gnRAgAQf3k"
+  },
   {
    "uid": "6884077697",
    "mall": "쿠팡",
@@ -690,56 +739,6 @@
    "image": "https://gdimg.gmarket.co.kr/4021208064/goodsimage",
    "sentAt": "2026-10-19T19:36:06.825+09:00",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4021208064"
-  },
-  {
-   "uid": "7188227965",
-   "mall": "쿠팡",
-   "title": "허쉬 코코아 파우더 226g*1개입*1개",
-   "price": 6000,
-   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/a1b88860-dfe6-4f91-a621-acd01313ca2f2442214052472405850.png",
-   "sentAt": "2026-10-19T19:16:35.574+09:00",
-   "saving": 55,
-   "baseline": 13210,
-   "baselineNote": "판매글 18곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hYtXY7pUZ2"
-  },
-  {
-   "uid": "9245909165",
-   "mall": "롯데온",
-   "title": "에디파이어 ES60 포터블 휴대용 블루투스 스피커 34W 아이보리",
-   "price": 97390,
-   "image": "https://contents.lotteon.com/itemimage/20261016162833/LO/27/95/05/16/31/_2/79/50/51/63/3/LO2795051631_2795051633_1.jpg",
-   "sentAt": "2026-10-19T18:07:15.797+09:00",
-   "saving": 37,
-   "baseline": 155820,
-   "baselineNote": "판매글 21곳 최저가",
-   "link": "http://app.ac/5tVB6hM13"
-  },
-  {
-   "uid": "7810493704",
-   "mall": "토스쇼핑",
-   "title": "동원 보성녹차, 350ml, 24개",
-   "price": 11750,
-   "image": "https://shopping.toss.im/live/temp/2025-08-10/a2f8f364-9a30-4a23-86f2-02ddf05779b4.jpeg",
-   "sentAt": "2026-10-19T17:25:08.879+09:00",
-   "saving": 20,
-   "baseline": 14690,
-   "baselineNote": "판매글 21곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/tyrVgHDk"
-  },
-  {
-   "uid": "6597383007",
-   "mall": "지마켓",
-   "title": "마니커 버팔로 치킨윙봉 1kg+1kg",
-   "price": 19760,
-   "image": "https://gdimg.gmarket.co.kr/1695859677/goodsimage",
-   "sentAt": "2026-10-19T15:46:44.495+09:00",
-   "saving": 20,
-   "baseline": 24560,
-   "baselineNote": "70곳 중 최저 · 무료배송",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=1695859677"
   }
  ]
 }
