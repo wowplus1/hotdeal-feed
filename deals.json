@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-22T18:21:33.888+09:00",
+ "updated": "2026-10-22T19:56:34.062+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1545567437",
+   "mall": "롯데온",
+   "title": "남성 파인스 투 카날 폴로 기모 카라 티셔츠 YMP662",
+   "price": 30000,
+   "image": "https://contents.lotteon.com/itemimage/20261022170750/LE/12/22/58/29/28/_1/33/73/10/02/5/LE1222582928_1337310025_1.jpg",
+   "sentAt": "2026-10-22T19:56:33.173+09:00",
+   "saving": 43,
+   "baseline": 52270,
+   "baselineNote": "판매글 40곳 최저가",
+   "link": "http://app.ac/itVFFeM43"
+  },
   {
    "uid": "2549293317",
    "mall": "쿠팡",
@@ -734,19 +746,6 @@
    "baselineNote": "판매글 4곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hZy0qZnQoS"
-  },
-  {
-   "uid": "6173073676",
-   "mall": "쿠팡",
-   "title": "곰곰 광천 도시락김 5g 32개",
-   "price": 9480,
-   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/32303585220039-9ccb3b85-de17-4b52-8c69-b0f0ef893b91.jpg",
-   "sentAt": "2026-10-20T10:42:02.896+09:00",
-   "saving": 37,
-   "baseline": 15070,
-   "baselineNote": "3곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hZx3EOFgXc"
   }
  ]
 }
