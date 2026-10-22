@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-22T14:05:31.955+09:00",
- "count": 50,
+ "updated": "2026-10-22T14:15:30.377+09:00",
+ "count": 51,
  "items": [
+  {
+   "uid": "4834733362",
+   "mall": "지마켓",
+   "title": "옵티멈 뉴트리션 플래티넘 하이드로 웨이 초콜릿 3.61파운드 1.64kg",
+   "price": 105980,
+   "image": "https://gdimg.gmarket.co.kr/4715996843/goodsimage",
+   "sentAt": "2026-10-22T14:15:30.377+09:00",
+   "saving": 27,
+   "baseline": 145070,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4715996843",
+   "web": true
+  },
   {
    "uid": "3314806782",
    "mall": "쿠팡",
