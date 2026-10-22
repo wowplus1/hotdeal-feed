@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-22T22:14:54.864+09:00",
- "count": 56,
+ "updated": "2026-10-22T22:16:27.306+09:00",
+ "count": 57,
  "items": [
+  {
+   "uid": "4213433066",
+   "mall": "11번가",
+   "title": "오리온 예감 치즈 64g, 10개",
+   "price": 8800,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9167340841/B.webp",
+   "sentAt": "2026-10-22T22:16:27.306+09:00",
+   "saving": 10,
+   "baseline": 9830,
+   "baselineNote": "285곳 중 최저",
+   "unit": "[object Object]",
+   "link": "http://app.ac/aEClacS33",
+   "web": true
+  },
   {
    "uid": "3586389897",
    "mall": "롯데온",
