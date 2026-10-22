@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-22T17:32:11.971+09:00",
- "count": 55,
+ "updated": "2026-10-22T22:14:54.864+09:00",
+ "count": 56,
  "items": [
+  {
+   "uid": "3586389897",
+   "mall": "롯데온",
+   "title": "바로한끼 밥용기 Lite 320ml 3P 세트",
+   "price": 10130,
+   "image": "https://contents.lotteon.com/itemimage/20261014113027/LO/14/42/07/63/59/bndl_img/LO1442076359_1.jpg",
+   "sentAt": "2026-10-22T22:14:54.864+09:00",
+   "saving": 42,
+   "baseline": 17490,
+   "baselineNote": "판매글 6곳 최저가",
+   "link": "http://app.ac/f3M4Q5J53",
+   "web": true
+  },
   {
    "uid": "4426361107",
    "mall": "롯데온",
