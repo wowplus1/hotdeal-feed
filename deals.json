@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-22T09:12:08.149+09:00",
+ "updated": "2026-10-22T09:12:46.029+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7869235581",
+   "mall": "지마켓",
+   "title": "제로슈가 비타 캔디 12가지맛 100g 4팩",
+   "price": 10500,
+   "image": "https://gdimg.gmarket.co.kr/4740494532/goodsimage",
+   "sentAt": "2026-10-22T09:12:45.228+09:00",
+   "saving": 31,
+   "baseline": 15250,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4740494532"
+  },
   {
    "uid": "4938312662",
    "mall": "롯데온",
@@ -733,16 +746,6 @@
    "baselineNote": "4곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hZizChkazs"
-  },
-  {
-   "uid": "9423100664",
-   "mall": "쿠팡",
-   "title": "미끄럼방지 EVA 욕실화 2개",
-   "price": 6900,
-   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/fa6d/050cabd4e2865e21dc032d69cd292ccf96677efe60f0bd9b60f401ed4255.jpg",
-   "sentAt": "2026-10-19T21:30:45.934+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hYDxuhFEbs"
   }
  ]
 }
