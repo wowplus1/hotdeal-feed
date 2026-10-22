@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-23T00:06:47.900+09:00",
- "count": 60,
+ "updated": "2026-10-23T00:21:26.255+09:00",
+ "count": 61,
  "items": [
+  {
+   "uid": "8933735977",
+   "mall": "지마켓",
+   "title": "삼육김 광천 파래김 도시락김 4g 32봉",
+   "price": 8710,
+   "image": "https://gdimg.gmarket.co.kr/4813787544/goodsimage",
+   "sentAt": "2026-10-23T00:21:26.255+09:00",
+   "saving": 41,
+   "baseline": 14690,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4813787544",
+   "web": true
+  },
   {
    "uid": "6616138584",
    "mall": "롯데온",
