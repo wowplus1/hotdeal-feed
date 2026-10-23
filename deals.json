@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-23T12:32:42.374+09:00",
+ "updated": "2026-10-23T13:19:36.221+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8399447834",
+   "mall": "쿠팡",
+   "title": "밀크바오밥 베이비, 파우더 헤어 트리트먼트, 1L, 1개",
+   "price": 7320,
+   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/945b3798-8920-45f3-acc6-1d5060fc7ec36067902173525645599.png",
+   "sentAt": "2026-10-23T13:19:35.377+09:00",
+   "saving": 51,
+   "baseline": 14860,
+   "baselineNote": "33곳 중 최저",
+   "link": "https://link.coupang.com/a/h4H4eLZGCa"
+  },
   {
    "uid": "5585222628",
    "mall": "토스쇼핑",
@@ -726,19 +738,6 @@
    "sentAt": "2026-10-20T19:19:33.609+09:00",
    "unit": "[object Object]",
    "link": "http://app.ac/q3MScbJ93"
-  },
-  {
-   "uid": "2012455786",
-   "mall": "토스쇼핑",
-   "title": "외갓집 시골밥상 청국장찌개, 600g, 5개",
-   "price": 20980,
-   "image": "https://shopping.toss.im/live/taca/ai/NjNjZjEw/ZGliU2RveHBMUTJ3bFBIMlMxc2tZOFdFR2h3TmEwVERsajdVL0NoWnEycz0.png",
-   "sentAt": "2026-10-20T19:17:48.921+09:00",
-   "saving": 22,
-   "baseline": 27070,
-   "baselineNote": "24곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/JbanARYA"
   }
  ]
 }
