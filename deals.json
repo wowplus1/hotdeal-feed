@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-23T18:11:07.628+09:00",
+ "updated": "2026-10-23T19:22:48.874+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5231825738",
+   "mall": "토스쇼핑",
+   "title": "리퀴드 핑크로즈 섬유유연제, 2.5L, 4개",
+   "price": 6900,
+   "image": "https://shopping.toss.im/live/taca/ai/v2/YjczOGIx/QU5wWW9ITzFjUGdEUUhmWTEvMGlGL0FGK08yZEIvTHdBL3dESy9ZQW4wVXI.png",
+   "sentAt": "2026-10-23T19:22:47.933+09:00",
+   "saving": 22,
+   "baseline": 8900,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/Bdb4wT8C"
+  },
   {
    "uid": "8986328144",
    "mall": "쿠팡",
@@ -728,19 +741,6 @@
    "baselineNote": "판매글 11곳 최저가",
    "unit": "[object Object]",
    "link": "https://toss.shopping/_m/BcT8tRre"
-  },
-  {
-   "uid": "8838650988",
-   "mall": "지마켓",
-   "title": "더미식 밥알이 살아있는 백미밥 200g 24개",
-   "price": 19510,
-   "image": "https://gdimg.gmarket.co.kr/2245630240/goodsimage",
-   "sentAt": "2026-10-20T20:16:31.413+09:00",
-   "saving": 26,
-   "baseline": 26310,
-   "baselineNote": "105곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2245630240"
   }
  ]
 }
