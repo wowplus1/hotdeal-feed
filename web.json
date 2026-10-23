@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-23T17:14:20.412+09:00",
- "count": 68,
+ "updated": "2026-10-23T17:20:34.484+09:00",
+ "count": 69,
  "items": [
+  {
+   "uid": "8380382549",
+   "mall": "하이마트",
+   "title": "플럭스 2in1 배터리분리 무선고데기 PLX-HI40BTPT",
+   "price": 39900,
+   "image": "https://static1.e-himart.co.kr/contents/goods/00/70/07/79/13/0070077913__PLX-HI40BTPT__M_640_640.jpg",
+   "sentAt": "2026-10-23T17:20:34.484+09:00",
+   "saving": 15,
+   "baseline": 46900,
+   "baselineNote": "판매글 8곳 최저가",
+   "link": "http://app.ac/0tVQRVM73",
+   "web": true
+  },
   {
    "uid": "7510087519",
    "mall": "롯데온",
