@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-24T00:04:58.319+09:00",
- "count": 70,
+ "updated": "2026-10-24T00:10:47.577+09:00",
+ "count": 71,
  "items": [
+  {
+   "uid": "1143799161",
+   "mall": "롯데온",
+   "title": "백미밥 200g 24개",
+   "price": 19530,
+   "image": "https://contents.lotteon.com/itemimage/20261023093710/LO/26/88/38/95/49/_2/68/83/89/55/0/LO2688389549_2688389550_1.jpg",
+   "sentAt": "2026-10-24T00:10:47.577+09:00",
+   "saving": 49,
+   "baseline": 38480,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/0qnadL283",
+   "web": true
+  },
   {
    "uid": "3009580425",
    "mall": "롯데온",
