@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-23T11:59:53.005+09:00",
+ "updated": "2026-10-23T12:03:03.268+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2024781109",
+   "mall": "쿠팡",
+   "title": "그린핑거 힘센보습 에센셜 유아로션 300ml 8,900원",
+   "price": 8900,
+   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2024/06/13/15/4/d1ded41e-ebb1-4e98-9d48-a9cd68b71314.png",
+   "sentAt": "2026-10-23T12:03:02.731+09:00",
+   "saving": 34,
+   "baseline": 13430,
+   "baselineNote": "다른 곳 최저",
+   "link": "https://link.coupang.com/a/h4CzjrLbuC"
+  },
   {
    "uid": "7195818617",
    "mall": "지마켓",
@@ -730,18 +742,6 @@
    "baselineNote": "판매글 5곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2388764121"
-  },
-  {
-   "uid": "2380405586",
-   "mall": "11번가",
-   "title": "오리온 초코파이, 468g, 2개 + 후레쉬베리, 336g, 2개",
-   "price": 14300,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/6097236109/B.webp?601395647",
-   "sentAt": "2026-10-20T16:00:22.709+09:00",
-   "saving": 46,
-   "baseline": 26620,
-   "baselineNote": "판매글 5곳 최저가",
-   "link": "http://app.ac/YAGBWY523"
   }
  ]
 }
