@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-23T13:19:36.221+09:00",
+ "updated": "2026-10-23T15:07:44.349+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2796546774",
+   "mall": "토스쇼핑",
+   "title": "해피콜 브릭스 통3중 에칭 IH 궁중팬, 28cm, 블루, 1개",
+   "price": 20490,
+   "image": "https://shopping.toss.im/live/taca/ai/NzlmMzUy/QU0yYjJYYk15ZU16ak16TXhvZUp6TXpCeHpEY09Na3pERFRNd3pQVFBBM3o.png",
+   "sentAt": "2026-10-23T15:07:43.575+09:00",
+   "saving": 21,
+   "baseline": 26060,
+   "baselineNote": "판매글 10곳 최저가",
+   "link": "https://toss.shopping/_m/PeOT1yi2"
+  },
   {
    "uid": "8399447834",
    "mall": "쿠팡",
@@ -728,16 +740,6 @@
    "baselineNote": "판매글 5곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hZ9dv6HcpE"
-  },
-  {
-   "uid": "3474245564",
-   "mall": "롯데온",
-   "title": "쿤달 허니 앤 마카다미아 퓨어 바디워시 화이트머스크 500ml x2개",
-   "price": 14200,
-   "image": "https://contents.lotteon.com/itemimage/20261014153151/LO/27/93/29/42/97/_2/79/32/94/29/8/LO2793294297_2793294298_1.jpg",
-   "sentAt": "2026-10-20T19:19:33.609+09:00",
-   "unit": "[object Object]",
-   "link": "http://app.ac/q3MScbJ93"
   }
  ]
 }
