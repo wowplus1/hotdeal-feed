@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-23T12:29:35.377+09:00",
+ "updated": "2026-10-23T12:32:42.374+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5585222628",
+   "mall": "토스쇼핑",
+   "title": "제주 극조생 감귤 산지직송, 중대과, 10kg, 1박스",
+   "price": 9900,
+   "image": "https://shopping.toss.im/live/temp/2026-10-22/b717d6d7-8c17-44ec-848b-6f08bd038d6e.jpeg",
+   "sentAt": "2026-10-23T12:32:41.768+09:00",
+   "saving": 27,
+   "baseline": 13560,
+   "baselineNote": "판매글 12곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/d7RysYND"
+  },
   {
    "uid": "8582178895",
    "mall": "토스쇼핑",
@@ -726,19 +739,6 @@
    "baselineNote": "24곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://toss.shopping/_m/JbanARYA"
-  },
-  {
-   "uid": "1710834167",
-   "mall": "롯데온",
-   "title": "바르온 삼계탕 1kg x 5팩",
-   "price": 17900,
-   "image": "https://contents.lotteon.com/itemimage/20260921092106/LO/26/97/16/93/57/_2/69/71/69/35/8/LO2697169357_2697169358_1.jpg",
-   "sentAt": "2026-10-20T19:04:50.382+09:00",
-   "saving": 28,
-   "baseline": 24900,
-   "baselineNote": "6곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "http://app.ac/WbpZiXl03"
   }
  ]
 }
