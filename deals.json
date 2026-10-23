@@ -1,7 +1,16 @@
 {
- "updated": "2026-10-23T10:23:19.801+09:00",
+ "updated": "2026-10-23T11:03:07.427+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9947254221",
+   "mall": "지마켓",
+   "title": "베베숲 프라임 70매 캡 20팩70gsm",
+   "price": 17960,
+   "image": "https://gdimg.gmarket.co.kr/3039555146/goodsimage",
+   "sentAt": "2026-10-23T11:03:06.846+09:00",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=3039555146"
+  },
   {
    "uid": "4723551998",
    "mall": "쿠팡",
@@ -733,19 +742,6 @@
    "baselineNote": "44곳 중 최저",
    "unit": "[object Object]",
    "link": "https://toss.shopping/_m/fwcEgaHf"
-  },
-  {
-   "uid": "1566434875",
-   "mall": "쿠팡",
-   "title": "르샤트라1802 건조기 시트 섬유유연제 클린코튼향 본품 140매 1개",
-   "price": 8890,
-   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/dca6/e8339989dd84f3e80594fcadc26b64c97d4c9b2564666960357ef943d30c.jpg",
-   "sentAt": "2026-10-20T15:01:50.216+09:00",
-   "saving": 57,
-   "baseline": 20700,
-   "baselineNote": "판매글 16곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hZQDAWUv2i"
   }
  ]
 }
