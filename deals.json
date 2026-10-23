@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-23T21:01:30.066+09:00",
+ "updated": "2026-10-24T07:05:30.212+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1819119247",
+   "mall": "쿠팡",
+   "title": "오레오 웨하스 스틱 초코, 510g, 1개",
+   "price": 10390,
+   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/983889761555206-bc10601f-3b3e-4879-9ae0-d8c5214104a6.jpg",
+   "sentAt": "2026-10-24T07:05:29.383+09:00",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gzliOo8RlQ"
+  },
   {
    "uid": "1728650137",
    "mall": "11번가",
@@ -726,18 +736,6 @@
    "baselineNote": "55곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://toss.im/_m/tWOyxYpc"
-  },
-  {
-   "uid": "8907752290",
-   "mall": "쿠팡",
-   "title": "바겐슈타이거 인덕션 네오 IH 멀티팟 2.3L 16.5cm*1개",
-   "price": 18260,
-   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/f328/f3cf193b9d8e0b4f35983699c02b9f67cfc4ec4ef60f1c8289c7118abc35.jpg",
-   "sentAt": "2026-10-21T07:33:57.676+09:00",
-   "saving": 50,
-   "baseline": 36590,
-   "baselineNote": "31곳 중 최저 · 무료배송",
-   "link": "https://link.coupang.com/a/h0ZwRaLCvc"
   }
  ]
 }
