@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-24T07:05:30.212+09:00",
+ "updated": "2026-10-24T07:06:50.779+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1805144768",
+   "mall": "쿠팡",
+   "title": "럽센트 플라워마켓 핸드워시 화이트튤립향 300ml*1개",
+   "price": 2450,
+   "image": "https://thumbnail1.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/897f/8abc5db752999bd8279382cde91b9bddba45980ab2dfc2749f6eb6e7f09d.jpg",
+   "sentAt": "2026-10-24T07:06:50.187+09:00",
+   "saving": 79,
+   "baseline": 11710,
+   "baselineNote": "판매글 5곳 최저가",
+   "link": "https://link.coupang.com/a/h5Wlv7lEPI"
+  },
   {
    "uid": "1819119247",
    "mall": "쿠팡",
@@ -723,19 +735,6 @@
    "baselineNote": "214곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hQ7GeVQLCe"
-  },
-  {
-   "uid": "8620276367",
-   "mall": "토스쇼핑",
-   "title": "웅진 애사비 파인애플, 500ml, 24개",
-   "price": 13070,
-   "image": "https://shopping.toss.im/live/temp/2026-01-09/f2132a4a-7e23-4783-9473-eff580279865.jpeg",
-   "sentAt": "2026-10-21T08:39:28.623+09:00",
-   "saving": 29,
-   "baseline": 18290,
-   "baselineNote": "55곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://toss.im/_m/tWOyxYpc"
   }
  ]
 }
