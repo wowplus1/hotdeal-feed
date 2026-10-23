@@ -1,7 +1,30 @@
 {
- "updated": "2026-10-24T07:47:43.909+09:00",
+ "updated": "2026-10-24T08:55:11.996+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5986421451",
+   "mall": "쿠팡",
+   "title": "미에로화이바, 210ml, 10개",
+   "price": 8820,
+   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/69895864857595-b02bcd55-2074-4f23-a1e3-5d64d6cb24a7.jpg",
+   "sentAt": "2026-10-24T08:55:11.229+09:00",
+   "saving": 23,
+   "baseline": 11510,
+   "baselineNote": "26곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/h5325ujd2i"
+  },
+  {
+   "uid": "3373392913",
+   "mall": "쿠팡",
+   "title": "폰타나 나폴리 뽀모도로 토마토 파스타소스, 600g, 3개",
+   "price": 10620,
+   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/334017300259802-e5f9899e-8259-4adf-927c-428625b7e813.jpg",
+   "sentAt": "2026-10-24T08:55:11.229+09:00",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gaxBcsgqya"
+  },
   {
    "uid": "8379824822",
    "mall": "쿠팡",
@@ -712,30 +735,6 @@
    "baseline": 132110,
    "baselineNote": "판매글 20곳 최저가",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4358718451"
-  },
-  {
-   "uid": "9141260346",
-   "mall": "토스쇼핑",
-   "title": "착한팩토리 비타 리얼 글루타치온 토너, 400ml, 1개",
-   "price": 11590,
-   "image": "https://shopping.toss.im/live/temp/2025-12-29/f6dd3a57-2190-49de-a963-e3434c6fbaf7.jpeg",
-   "sentAt": "2026-10-21T10:57:45.997+09:00",
-   "saving": 26,
-   "baseline": 15680,
-   "baselineNote": "판매글 8곳 최저가",
-   "link": "https://toss.shopping/_m/J9J1NzT4"
-  },
-  {
-   "uid": "1686449060",
-   "mall": "토스쇼핑",
-   "title": "쥬비스가 만든 카테킨 450mg, 550mg, 60정, 3박스",
-   "price": 32160,
-   "image": "https://shopping.toss.im/live/temp/2026-09-28/0deec37d-a248-4f3c-a3ef-f101ece3333d.jpeg",
-   "sentAt": "2026-10-21T10:32:25.357+09:00",
-   "saving": 30,
-   "baseline": 46090,
-   "baselineNote": "판매글 16곳 최저가",
-   "link": "https://toss.shopping/_m/lNuoOP5r"
   }
  ]
 }
