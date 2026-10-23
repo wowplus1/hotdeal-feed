@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-23T15:07:44.349+09:00",
+ "updated": "2026-10-23T15:56:46.474+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1196266749",
+   "mall": "11번가",
+   "title": "국내산 냉장 다진마늘 1kg x 2팩",
+   "price": 10890,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/1/1/0/7/7/0/uByOc/9382110770_239136346.jpg",
+   "sentAt": "2026-10-23T15:56:45.774+09:00",
+   "saving": 34,
+   "baseline": 16540,
+   "baselineNote": "다른 곳 최저",
+   "unit": "[object Object]",
+   "link": "http://app.ac/HtVvXQM73"
+  },
   {
    "uid": "2796546774",
    "mall": "토스쇼핑",
@@ -727,19 +740,6 @@
    "baselineNote": "판매글 9곳 최저가",
    "unit": "[object Object]",
    "link": "https://toss.im/_m/tlAigUFD"
-  },
-  {
-   "uid": "9792441901",
-   "mall": "쿠팡",
-   "title": "삼양 짜르르 140g 4개",
-   "price": 4270,
-   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/223264871090510-86a8255a-fe06-40fa-8abe-13ce21aefce3.png",
-   "sentAt": "2026-10-20T19:21:23.716+09:00",
-   "saving": 69,
-   "baseline": 13980,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hZ9dv6HcpE"
   }
  ]
 }
