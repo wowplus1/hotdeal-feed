@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-23T11:03:07.427+09:00",
+ "updated": "2026-10-23T11:59:53.005+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7195818617",
+   "mall": "지마켓",
+   "title": "바베큐폭립 400g x2팩",
+   "price": 19680,
+   "image": "https://gdimg.gmarket.co.kr/2912488721/goodsimage",
+   "sentAt": "2026-10-23T11:59:52.203+09:00",
+   "saving": 22,
+   "baseline": 25110,
+   "baselineNote": "판매글 6곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2912488721"
+  },
   {
    "uid": "9947254221",
    "mall": "지마켓",
@@ -729,19 +742,6 @@
    "baseline": 26620,
    "baselineNote": "판매글 5곳 최저가",
    "link": "http://app.ac/YAGBWY523"
-  },
-  {
-   "uid": "5061576770",
-   "mall": "토스쇼핑",
-   "title": "목우촌 주부9단 살코기햄, 1kg, 3개",
-   "price": 24070,
-   "image": "https://shopping.toss.im/live/taca/ai/ODNiNmE1/SnBucHZ0aCtsNkZueFd6YW1EdVRKdURPVHNrZmdiRSs4SDVPd1ErQnVUND0.png",
-   "sentAt": "2026-10-20T15:07:40.783+09:00",
-   "saving": 20,
-   "baseline": 30010,
-   "baselineNote": "44곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/fwcEgaHf"
   }
  ]
 }
