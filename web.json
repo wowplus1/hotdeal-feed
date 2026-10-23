@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-23T09:54:40.391+09:00",
- "count": 64,
+ "updated": "2026-10-23T10:14:58.709+09:00",
+ "count": 65,
  "items": [
+  {
+   "uid": "6082549264",
+   "mall": "지마켓",
+   "title": "오리온 썬 갈릭바게트 80g 12개",
+   "price": 11380,
+   "image": "https://gdimg.gmarket.co.kr/1629118871/goodsimage",
+   "sentAt": "2026-10-23T10:14:58.709+09:00",
+   "saving": 37,
+   "baseline": 17960,
+   "baselineNote": "판매글 13곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=1629118871",
+   "web": true
+  },
   {
    "uid": "1824448710",
    "mall": "지마켓",
