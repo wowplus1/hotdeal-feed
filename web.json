@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-23T10:14:58.709+09:00",
- "count": 65,
+ "updated": "2026-10-23T11:21:45.091+09:00",
+ "count": 66,
  "items": [
+  {
+   "uid": "9902262655",
+   "mall": "지마켓",
+   "title": "브리타 정수기 필터 막스트라 프로 퓨어 퍼포먼스 3입",
+   "price": 17600,
+   "image": "https://gdimg.gmarket.co.kr/3605787557/goodsimage",
+   "sentAt": "2026-10-23T11:21:45.091+09:00",
+   "saving": 18,
+   "baseline": 21500,
+   "baselineNote": "45곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=3605787557",
+   "web": true
+  },
   {
    "uid": "6082549264",
    "mall": "지마켓",
