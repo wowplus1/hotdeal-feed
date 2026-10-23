@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-24T03:01:24.432+09:00",
- "count": 72,
+ "updated": "2026-10-24T08:55:07.673+09:00",
+ "count": 73,
  "items": [
+  {
+   "uid": "7623136669",
+   "mall": "쿠팡",
+   "title": "코카콜라 제로 레몬라임, 30개, 190ml",
+   "price": 13670,
+   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/beba/5686b94b877b38e9bc6234313c121a29a75bf511ad7877c795837e202099.jpg",
+   "sentAt": "2026-10-24T08:55:07.673+09:00",
+   "saving": 10,
+   "baseline": 15270,
+   "baselineNote": "161곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gcbVKfTQ8O",
+   "web": true
+  },
   {
    "uid": "2246523481",
    "mall": "쿠팡",
