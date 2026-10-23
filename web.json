@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-24T00:10:47.577+09:00",
- "count": 71,
+ "updated": "2026-10-24T03:01:24.432+09:00",
+ "count": 72,
  "items": [
+  {
+   "uid": "2246523481",
+   "mall": "쿠팡",
+   "title": "오리온 예감 치즈그라탕 12p, 204g, 2개",
+   "price": 5940,
+   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/d47f576b-2e4f-48c0-a07e-ee420229a0881237804055178447129.png",
+   "sentAt": "2026-10-24T03:01:24.432+09:00",
+   "saving": 29,
+   "baseline": 8410,
+   "baselineNote": "89곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/h3deMatd9g",
+   "web": true
+  },
   {
    "uid": "1143799161",
    "mall": "롯데온",
