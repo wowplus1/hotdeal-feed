@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-23T12:21:31.137+09:00",
+ "updated": "2026-10-23T12:29:35.377+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8582178895",
+   "mall": "토스쇼핑",
+   "title": "고당도 극조생 제주감귤, 로얄과, 10kg, 1개",
+   "price": 11900,
+   "image": "https://shopping.toss.im/live/temp/2026-10-14/9c901376-19d6-44de-b298-9091f3733bef.png",
+   "sentAt": "2026-10-23T12:29:34.791+09:00",
+   "saving": 40,
+   "baseline": 19910,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/x8cqn4x8"
+  },
   {
    "uid": "1704942031",
    "mall": "지마켓",
@@ -726,19 +739,6 @@
    "baselineNote": "6곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "http://app.ac/WbpZiXl03"
-  },
-  {
-   "uid": "8260556750",
-   "mall": "토스쇼핑",
-   "title": "크라운 빙수하임, 284g, 2개",
-   "price": 7860,
-   "image": "https://shopping.toss.im/live/temp/2026-07-30/6f6b2803-5537-4120-aa1e-0ed6ea92cadb.jpeg",
-   "sentAt": "2026-10-20T17:25:02.303+09:00",
-   "saving": 39,
-   "baseline": 12950,
-   "baselineNote": "110곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://toss.im/_m/ZXykeuN5"
   }
  ]
 }
