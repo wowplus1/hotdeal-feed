@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-24T07:28:05.351+09:00",
+ "updated": "2026-10-24T07:45:52.954+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3883876548",
+   "mall": "쿠팡",
+   "title": "르샤트라1802 인퓨전 초고농축 실내건조 섬유유연제 피오니부케향 리필, 2L, 2개",
+   "price": 10650,
+   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/1e32/57b5e5d737b1684803948d92ff774b48a6b24bc71855d2dc28f22267b8f0.png",
+   "sentAt": "2026-10-24T07:45:52.346+09:00",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/h5Y6qMMmPY"
+  },
   {
    "uid": "5945338875",
    "mall": "토스쇼핑",
@@ -726,18 +736,6 @@
    "baselineNote": "191곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/h1bO3qRoE8"
-  },
-  {
-   "uid": "7676375492",
-   "mall": "토스쇼핑",
-   "title": "피죤 드릴펑, 1L, 3개 + 2L, 1개",
-   "price": 8660,
-   "image": "https://shopping.toss.im/live/temp/2026-02-20/8967c0a1-3e5f-4929-a496-26d84cacbef8.jpeg",
-   "sentAt": "2026-10-21T10:20:53.125+09:00",
-   "saving": 33,
-   "baseline": 12920,
-   "baselineNote": "판매글 3곳 최저가",
-   "link": "https://toss.im/_m/bSHvFie7"
   }
  ]
 }
