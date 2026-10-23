@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-24T07:06:50.779+09:00",
+ "updated": "2026-10-24T07:27:10.219+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1661849864",
+   "mall": "쿠팡",
+   "title": "오리온 예감 치즈그라탕 12p, 204g, 2개",
+   "price": 5940,
+   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/7868/a333d38d551f80cecc093e7662f80b23b92f1332b76ffb12a22f40fe12b6.jpg",
+   "sentAt": "2026-10-24T07:27:09.669+09:00",
+   "saving": 31,
+   "baseline": 8600,
+   "baselineNote": "89곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/h3kuhfY6H6"
+  },
   {
    "uid": "1805144768",
    "mall": "쿠팡",
@@ -722,19 +735,6 @@
    "sentAt": "2026-10-21T10:02:52.358+09:00",
    "unit": "[object Object]",
    "link": "https://toss.shopping/_m/7KZoOwmn"
-  },
-  {
-   "uid": "7759682106",
-   "mall": "쿠팡",
-   "title": "농심 멸치 칼국수 98g 10개",
-   "price": 7680,
-   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/85212167406365-3d015999-3242-4570-92af-7be8b1d6947b.jpg",
-   "sentAt": "2026-10-21T09:06:49.652+09:00",
-   "saving": 20,
-   "baseline": 9590,
-   "baselineNote": "214곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hQ7GeVQLCe"
   }
  ]
 }
