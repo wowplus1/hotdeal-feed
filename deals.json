@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-24T07:27:10.219+09:00",
+ "updated": "2026-10-24T07:28:05.351+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5945338875",
+   "mall": "토스쇼핑",
+   "title": "스파클 생수, 무라벨, 500ml, 80개",
+   "price": 11900,
+   "image": "https://shopping.toss.im/live/temp/2026-03-09/1ca62748-4d8c-4131-a992-6f968acf7829.jpeg",
+   "sentAt": "2026-10-24T07:28:04.700+09:00",
+   "saving": 22,
+   "baseline": 15310,
+   "baselineNote": "135곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://toss.im/_m/7VW0FqpB"
+  },
   {
    "uid": "1661849864",
    "mall": "쿠팡",
@@ -725,16 +738,6 @@
    "baseline": 12920,
    "baselineNote": "판매글 3곳 최저가",
    "link": "https://toss.im/_m/bSHvFie7"
-  },
-  {
-   "uid": "3031311535",
-   "mall": "토스쇼핑",
-   "title": "태양생활건강 뽀로로 아연담은 면역 쏙, 딸기, 100ml, 10개",
-   "price": 3730,
-   "image": "https://shopping.toss.im/live/taca/ai/v2/MzY5YmY0/ZTVlMXBzOGphTVp0cDlZeU9rMWs2Yll3TWxsTXpZNDV0bkRieWRsc0pMWT0.png",
-   "sentAt": "2026-10-21T10:02:52.358+09:00",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/7KZoOwmn"
   }
  ]
 }
