@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-23T17:20:34.484+09:00",
- "count": 69,
+ "updated": "2026-10-24T00:04:58.319+09:00",
+ "count": 70,
  "items": [
+  {
+   "uid": "3009580425",
+   "mall": "롯데온",
+   "title": "나랑드사이다 1.25L PET 1박스",
+   "price": 12320,
+   "image": "https://contents.lotteon.com/itemimage/20260723150216/LO/26/39/34/03/31/_2/63/93/40/33/2/LO2639340331_2639340332_1.jpg",
+   "sentAt": "2026-10-24T00:04:58.319+09:00",
+   "saving": 30,
+   "baseline": 17480,
+   "baselineNote": "판매글 5곳 최저가",
+   "link": "http://app.ac/2bppi4l33",
+   "web": true
+  },
   {
    "uid": "8380382549",
    "mall": "하이마트",
