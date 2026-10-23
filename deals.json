@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-24T07:45:52.954+09:00",
+ "updated": "2026-10-24T07:47:43.909+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8379824822",
+   "mall": "쿠팡",
+   "title": "샤워메이트 바디워시 유자 1.2kg* 2개",
+   "price": 6900,
+   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/9054375210891-843bb793-04fa-47b3-a1e3-b1b8fe26f74f.jpg",
+   "sentAt": "2026-10-24T07:47:43.399+09:00",
+   "saving": 23,
+   "baseline": 9000,
+   "baselineNote": "36곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gMFKlnp4pg"
+  },
   {
    "uid": "3883876548",
    "mall": "쿠팡",
@@ -723,19 +736,6 @@
    "baseline": 46090,
    "baselineNote": "판매글 16곳 최저가",
    "link": "https://toss.shopping/_m/lNuoOP5r"
-  },
-  {
-   "uid": "8632121977",
-   "mall": "쿠팡",
-   "title": "삼양 1963 우지 라면 4봉",
-   "price": 3550,
-   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/267979567233672-69b8e121-0e04-4eeb-801a-e481972fa6aa.jpg",
-   "sentAt": "2026-10-21T10:25:54.815+09:00",
-   "saving": 30,
-   "baseline": 5080,
-   "baselineNote": "191곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/h1bO3qRoE8"
   }
  ]
 }
