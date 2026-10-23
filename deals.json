@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-23T08:10:35.175+09:00",
+ "updated": "2026-10-23T10:23:19.801+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4723551998",
+   "mall": "쿠팡",
+   "title": "꿀이구마 고소한 보리건빵, 50g, 30개",
+   "price": 7900,
+   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/af6e7e82-794e-4883-b719-15bea9a10e4413227441691104608527.png",
+   "sentAt": "2026-10-23T10:23:18.986+09:00",
+   "saving": 37,
+   "baseline": 12520,
+   "baselineNote": "74곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/h4vr4nbDqK"
+  },
   {
    "uid": "1623661499",
    "mall": "쿠팡",
@@ -733,19 +746,6 @@
    "baselineNote": "판매글 16곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hZQDAWUv2i"
-  },
-  {
-   "uid": "3245760240",
-   "mall": "지마켓",
-   "title": "크리넥스 3겹 데코앤소프트 와이드 33M 24롤 2팩",
-   "price": 28900,
-   "image": "https://gdimg.gmarket.co.kr/3975054886/goodsimage",
-   "sentAt": "2026-10-20T14:06:25.134+09:00",
-   "saving": 21,
-   "baseline": 36540,
-   "baselineNote": "232곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=3975054886"
   }
  ]
 }
