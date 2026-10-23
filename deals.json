@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-23T19:22:48.874+09:00",
+ "updated": "2026-10-23T19:47:57.842+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2698761895",
+   "mall": "쿠팡",
+   "title": "오랄비 왁스 치실 50m*2개입*3개",
+   "price": 7400,
+   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/615732587547147-e44705f3-e1bb-4c40-9c86-be80c62ff4d7.jpg",
+   "sentAt": "2026-10-23T19:47:57.288+09:00",
+   "saving": 40,
+   "baseline": 12380,
+   "baselineNote": "판매글 6곳 최저가",
+   "link": "https://link.coupang.com/a/h49OZsFkgC"
+  },
   {
    "uid": "5231825738",
    "mall": "토스쇼핑",
@@ -728,19 +740,6 @@
    "baselineNote": "220곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/f9BDMfPkGq"
-  },
-  {
-   "uid": "4847095970",
-   "mall": "토스쇼핑",
-   "title": "연세우유 세브란스 A2 프로틴, 초콜릿, 190ml, 48개",
-   "price": 39340,
-   "image": "https://shopping.toss.im/live/temp/2026-10-20/50fe2749-6ba3-492b-8511-5f4e26e9b134.jpeg",
-   "sentAt": "2026-10-20T21:20:32.498+09:00",
-   "saving": 22,
-   "baseline": 50490,
-   "baselineNote": "판매글 11곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/BcT8tRre"
   }
  ]
 }
