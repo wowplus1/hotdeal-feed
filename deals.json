@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-23T19:59:50.482+09:00",
+ "updated": "2026-10-23T21:01:30.066+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1728650137",
+   "mall": "11번가",
+   "title": "베르블랑 아기 섬유유연제 본품/리필 1L 6개+이염방지시트 100매 증정",
+   "price": 36080,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/7794089168/B.webp",
+   "sentAt": "2026-10-23T21:01:29.099+09:00",
+   "saving": 39,
+   "baseline": 58710,
+   "baselineNote": "4곳 중 최저 · 무료배송",
+   "link": "http://app.ac/hqneuC273"
+  },
   {
    "uid": "8768669581",
    "mall": "쿠팡",
@@ -726,19 +738,6 @@
    "baseline": 36590,
    "baselineNote": "31곳 중 최저 · 무료배송",
    "link": "https://link.coupang.com/a/h0ZwRaLCvc"
-  },
-  {
-   "uid": "4567291674",
-   "mall": "토스쇼핑",
-   "title": "햇배, 대과, 개별망포장, 5kg, 1박스",
-   "price": 13610,
-   "image": "https://shopping.toss.im/live/temp/2026-08-31/77792b63-b589-4cc2-8ccb-08e8b6763c62.jpeg",
-   "sentAt": "2026-10-21T07:22:29.017+09:00",
-   "saving": 38,
-   "baseline": 21950,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://toss.im/_m/nRtDqh4c"
   }
  ]
 }
