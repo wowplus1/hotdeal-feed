@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-23T19:47:57.842+09:00",
+ "updated": "2026-10-23T19:59:50.482+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8768669581",
+   "mall": "쿠팡",
+   "title": "연두 요리에센스 순, 830ml, 1개",
+   "price": 6700,
+   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/1025_amir_coupang_oct_80k/6b12/5d29cd15303a09c34425fe8c7282d60b771c058cf0f84909ea2cd00d4f2b.jpg",
+   "sentAt": "2026-10-23T19:59:49.948+09:00",
+   "saving": 63,
+   "baseline": 18230,
+   "baselineNote": "판매글 5곳 최저가",
+   "link": "https://link.coupang.com/a/h5aELnWos8"
+  },
   {
    "uid": "2698761895",
    "mall": "쿠팡",
@@ -727,19 +739,6 @@
    "baselineNote": "판매글 3곳 최저가",
    "unit": "[object Object]",
    "link": "https://toss.im/_m/nRtDqh4c"
-  },
-  {
-   "uid": "5398122562",
-   "mall": "쿠팡",
-   "title": "스프라이트 캔, 350ml, 24개",
-   "price": 12980,
-   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/57530485560223-8c46bde4-cb99-424c-a0f8-e178fb99cceb.jpg",
-   "sentAt": "2026-10-21T07:06:25.365+09:00",
-   "saving": 21,
-   "baseline": 16410,
-   "baselineNote": "220곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/f9BDMfPkGq"
   }
  ]
 }
