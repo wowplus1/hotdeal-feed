@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-23T11:21:45.091+09:00",
- "count": 66,
+ "updated": "2026-10-23T11:30:41.823+09:00",
+ "count": 67,
  "items": [
+  {
+   "uid": "2553743048",
+   "mall": "롯데온",
+   "title": "올반키친 아삭김치볶음밥 220g*10개",
+   "price": 13890,
+   "image": "https://contents.lotteon.com/itemimage/20261022131532/LO/27/99/16/23/19/bndl_img/LO2799162319_1.jpg",
+   "sentAt": "2026-10-23T11:30:41.823+09:00",
+   "saving": 31,
+   "baseline": 20250,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/KjwBXga83",
+   "web": true
+  },
   {
    "uid": "9902262655",
    "mall": "지마켓",
