@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-23T12:03:03.268+09:00",
+ "updated": "2026-10-23T12:21:31.137+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1704942031",
+   "mall": "지마켓",
+   "title": "한입 카스테라 50개입",
+   "price": 10320,
+   "image": "https://gdimg.gmarket.co.kr/4801865876/goodsimage",
+   "sentAt": "2026-10-23T12:21:30.266+09:00",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4801865876"
+  },
   {
    "uid": "2024781109",
    "mall": "쿠팡",
@@ -729,19 +739,6 @@
    "baselineNote": "110곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://toss.im/_m/ZXykeuN5"
-  },
-  {
-   "uid": "4825403459",
-   "mall": "지마켓",
-   "title": "신세계푸드 치아바타 3개입 3팩 골라담기 삼성카드",
-   "price": 22290,
-   "image": "https://gdimg.gmarket.co.kr/2388764121/goodsimage",
-   "sentAt": "2026-10-20T16:15:28.297+09:00",
-   "saving": 29,
-   "baseline": 31540,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2388764121"
   }
  ]
 }
