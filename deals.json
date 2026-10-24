@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-24T10:20:44.045+09:00",
+ "updated": "2026-10-24T14:00:18.947+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2388190337",
+   "mall": "쿠팡",
+   "title": "QCY T31 멜로버즈 네오 LED디스플레이 블루투스 이어폰",
+   "price": 9900,
+   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/65477895780594-f2b7a399-a62e-4a1b-b38c-52be9e08b716.jpg",
+   "sentAt": "2026-10-24T14:00:18.110+09:00",
+   "saving": 39,
+   "baseline": 16110,
+   "baselineNote": "판매글 5곳 최저가",
+   "link": "https://link.coupang.com/a/h6pSrJikA8"
+  },
   {
    "uid": "4332956724",
    "mall": "토스쇼핑",
@@ -723,19 +735,6 @@
    "baselineNote": "판매글 7곳 최저가",
    "unit": "[object Object]",
    "link": "https://toss.im/_m/psptNQbg"
-  },
-  {
-   "uid": "6975866601",
-   "mall": "지마켓",
-   "title": "오리온 포카칩 오리지널 66g x 20봉",
-   "price": 18400,
-   "image": "https://gdimg.gmarket.co.kr/1562377399/goodsimage",
-   "sentAt": "2026-10-21T12:05:59.820+09:00",
-   "saving": 31,
-   "baseline": 26700,
-   "baselineNote": "판매글 18곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=1562377399"
   }
  ]
 }
