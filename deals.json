@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-25T07:16:02.755+09:00",
+ "updated": "2026-10-25T08:34:48.529+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5810523546",
+   "mall": "쿠팡",
+   "title": "코카콜라 오리지널, 350ml, 24개",
+   "price": 18690,
+   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/68357096027416-cc28db91-a4e9-4842-813a-3687cbff7e07.jpg",
+   "sentAt": "2026-10-25T08:34:47.811+09:00",
+   "saving": 41,
+   "baseline": 31490,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gureSB4i1A"
+  },
   {
    "uid": "2328995087",
    "mall": "쿠팡",
@@ -727,16 +740,6 @@
    "baselineNote": "판매글 10곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gzwwOzrU84"
-  },
-  {
-   "uid": "2699539564",
-   "mall": "쿠팡",
-   "title": "파워에이드 마운틴블라스트 무라벨, 355ml, 20개",
-   "price": 12900,
-   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/3791012530342-62232d3f-aa6f-4929-98e6-09442c8e391d.jpg",
-   "sentAt": "2026-10-22T09:11:20.875+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gnRAgAQf3k"
   }
  ]
 }
