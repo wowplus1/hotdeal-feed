@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-24T22:02:57.736+09:00",
- "count": 77,
+ "updated": "2026-10-24T23:11:30.937+09:00",
+ "count": 78,
  "items": [
+  {
+   "uid": "4026749936",
+   "mall": "쿠팡",
+   "title": "프링글스 켈로그 버터카라멜 110g 12개",
+   "price": 16490,
+   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/92043986939088-81429c4e-a6d4-4291-8607-f60d495acb65.jpg",
+   "sentAt": "2026-10-24T23:11:30.937+09:00",
+   "saving": 16,
+   "baseline": 19589,
+   "baselineNote": "198곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/h63gI9h29k",
+   "web": true
+  },
   {
    "uid": "1726632219",
    "mall": "쿠팡",
