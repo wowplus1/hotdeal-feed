@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-24T20:02:58.499+09:00",
+ "updated": "2026-10-24T20:03:37.686+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3793232062",
+   "mall": "토스쇼핑",
+   "title": "아이워너 맨즈 육각 아령, 10kg, 2개입, 1세트",
+   "price": 17382,
+   "image": "https://shopping.toss.im/live/taca/ai/MTU2ZjQ4/QU4wMlhuaEp6VzJGYTFiYWRMOG5FV08wT09ZR21PMDJ0R1prdkY3SHhGdlo.png",
+   "sentAt": "2026-10-24T20:03:37.180+09:00",
+   "saving": 33,
+   "baseline": 25900,
+   "baselineNote": "27곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/zjxaQu6x"
+  },
   {
    "uid": "4566494215",
    "mall": "쿠팡",
@@ -726,16 +739,6 @@
    "baselineNote": "판매글 3곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/h1QQny5aAC"
-  },
-  {
-   "uid": "8051190066",
-   "mall": "롯데온",
-   "title": "유자쌍화 150ml x 40병",
-   "price": 23710,
-   "image": "https://contents.lotteon.com/itemimage/20260908121147/LO/17/20/10/85/91/_1/72/01/08/59/2/LO1720108591_1720108592_1.jpg",
-   "sentAt": "2026-10-21T19:16:46.550+09:00",
-   "unit": "[object Object]",
-   "link": "http://app.ac/h3MdbUJ13"
   }
  ]
 }
