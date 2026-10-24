@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-24T14:02:36.716+09:00",
+ "updated": "2026-10-24T16:07:37.871+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9417646692",
+   "mall": "토스쇼핑",
+   "title": "네이처바이 알로에 에센스 마스크팩, 100개입, 1세트",
+   "price": 13200,
+   "image": "https://shopping.toss.im/live/temp/2026-01-02/387be3ab-6425-4464-8b70-d7431389b44c.jpeg",
+   "sentAt": "2026-10-24T16:07:36.820+09:00",
+   "saving": 49,
+   "baseline": 25800,
+   "baselineNote": "다른 곳 최저",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/jXQftPE3"
+  },
   {
    "uid": "7460649003",
    "mall": "쿠팡",
@@ -723,18 +736,6 @@
    "baselineNote": "153곳 중 최저",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4157511492"
-  },
-  {
-   "uid": "6750533810",
-   "mall": "롯데온",
-   "title": "바른생활 아트컬렉션 초극세모 12입+12입",
-   "price": 9010,
-   "image": "https://contents.lotteon.com/itemimage/20261019190614/LO/24/07/11/91/83/_2/40/71/19/18/4/LO2407119183_2407119184_1.jpg",
-   "sentAt": "2026-10-21T12:59:59.664+09:00",
-   "saving": 27,
-   "baseline": 12420,
-   "baselineNote": "판매글 4곳 최저가",
-   "link": "http://app.ac/nAGBSd553"
   }
  ]
 }
