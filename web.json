@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-24T14:09:33.246+09:00",
- "count": 75,
+ "updated": "2026-10-24T18:30:11.009+09:00",
+ "count": 76,
  "items": [
+  {
+   "uid": "7209477519",
+   "mall": "지마켓",
+   "title": "아이깨끗해 핸드워시 490ml 본품 1개+450ml 리필 3개",
+   "price": 11130,
+   "image": "https://gdimg.gmarket.co.kr/4646524115/goodsimage",
+   "sentAt": "2026-10-24T18:30:11.009+09:00",
+   "saving": 22,
+   "baseline": 14310,
+   "baselineNote": "다른 곳 최저",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4646524115",
+   "web": true
+  },
   {
    "uid": "5264012418",
    "mall": "쿠팡",
