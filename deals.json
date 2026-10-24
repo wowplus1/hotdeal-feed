@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-24T20:03:37.686+09:00",
+ "updated": "2026-10-24T20:40:15.112+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9816627351",
+   "mall": "롯데온",
+   "title": "남성 호네그 덕다운 후디 점퍼 OMDMO4110-816",
+   "price": 55300,
+   "image": "https://contents.lotteon.com/itemimage/20261014201741/LE/12/20/56/06/00/_1/32/37/65/42/9/LE1220560600_1323765429_1.jpg",
+   "sentAt": "2026-10-24T20:40:14.300+09:00",
+   "saving": 41,
+   "baseline": 93980,
+   "baselineNote": "판매글 40곳 최저가",
+   "link": "http://app.ac/ojwYBfa63"
+  },
   {
    "uid": "3793232062",
    "mall": "토스쇼핑",
@@ -726,19 +738,6 @@
    "baselineNote": "판매글 3곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/h1Sl1lRsIe"
-  },
-  {
-   "uid": "8631013699",
-   "mall": "쿠팡",
-   "title": "더담은 배도라지 쌍화 100ml 30포",
-   "price": 24900,
-   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/fdec/6253ba0d17cb3cb6d9c921b9d2203c95b2967eb9c3c740caf97a96732fae.png",
-   "sentAt": "2026-10-21T19:59:37.790+09:00",
-   "saving": 20,
-   "baseline": 31070,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/h1QQny5aAC"
   }
  ]
 }
