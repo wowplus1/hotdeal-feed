@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-24T11:00:18.509+09:00",
- "count": 73,
+ "updated": "2026-10-24T13:01:40.592+09:00",
+ "count": 74,
  "items": [
+  {
+   "uid": "3337270328",
+   "mall": "롯데온",
+   "title": "충전식 3중날 전기면도기 SMS-W900",
+   "price": 29900,
+   "image": "https://contents.lotteon.com/itemimage/20261021150508/LO/27/98/49/26/50/_2/79/84/92/65/1/LO2798492650_2798492651_2.png",
+   "sentAt": "2026-10-24T13:01:40.592+09:00",
+   "saving": 83,
+   "baseline": 180180,
+   "baselineNote": "판매글 7곳 최저가",
+   "link": "http://app.ac/yAGQqk553",
+   "web": true
+  },
   {
    "uid": "4521845977",
    "mall": "쿠팡",
