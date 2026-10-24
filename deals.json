@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-24T17:48:36.318+09:00",
+ "updated": "2026-10-24T18:35:27.941+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8628940439",
+   "mall": "롯데온",
+   "title": "울라이크 프리미엄 덕 다운 베스트 2종 FLDJX6361",
+   "price": 40960,
+   "image": "https://contents.lotteon.com/itemimage/20261024170807/LE/12/22/64/90/63/_1/33/80/66/45/6/LE1222649063_1338066456_1.jpg",
+   "sentAt": "2026-10-24T18:35:27.177+09:00",
+   "saving": 49,
+   "baseline": 79540,
+   "baselineNote": "21곳 중 최저 · 무료배송",
+   "link": "http://app.ac/eAGQIy553"
+  },
   {
    "uid": "4547431718",
    "mall": "토스쇼핑",
@@ -724,18 +736,6 @@
    "baselineNote": "188곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "http://app.ac/OqnzXd243"
-  },
-  {
-   "uid": "6137099354",
-   "mall": "쿠팡",
-   "title": "WD BLACK SN8100 2TB 로켓짓구",
-   "price": 573990,
-   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/c1ea/35ad334abea6d306f8bbd5a6ebc3b9cd6b05fb102d40fe565a83266de60e.png",
-   "sentAt": "2026-10-21T17:20:17.667+09:00",
-   "saving": 28,
-   "baseline": 801660,
-   "baselineNote": "70곳 중 최저",
-   "link": "https://link.coupang.com/a/hIm9DIQxQi"
   }
  ]
 }
