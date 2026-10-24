@@ -1,7 +1,32 @@
 {
- "updated": "2026-10-24T18:35:27.941+09:00",
+ "updated": "2026-10-24T19:23:29.526+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9626072550",
+   "mall": "토스쇼핑",
+   "title": "베라 4ZERO 팝업 뽑아쓰는 키친타올, 3겹, 100매, 9팩",
+   "price": 6543,
+   "image": "https://shopping.toss.im/live/taca/ai/v2/ODQyMGY2/SXl3OGIza2VYQk9jdzhNRWdPR2g3RXVValp0NmNKeHhad2RlRUdjT1BsND0.png",
+   "sentAt": "2026-10-24T19:23:28.949+09:00",
+   "saving": 37,
+   "baseline": 10350,
+   "baselineNote": "판매글 31곳 최저가",
+   "link": "https://toss.shopping/_m/NWkR52d6"
+  },
+  {
+   "uid": "7974624019",
+   "mall": "토스쇼핑",
+   "title": "논앤밭위드 삼시쉐귀리 귀리쉐이크, 검은콩, 20g, 30개",
+   "price": 8900,
+   "image": "https://shopping.toss.im/live/taca/ai/v2/OGIxNjYx/QUpydDdWTlVzcXRzVXoyMVlockZ0VHRLVXJTcmFVMjBzazJ1clVWVG9SdFU.png",
+   "sentAt": "2026-10-24T19:23:28.949+09:00",
+   "saving": 22,
+   "baseline": 11400,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://toss.im/_m/N6P1TtVy"
+  },
   {
    "uid": "8628940439",
    "mall": "롯데온",
@@ -711,31 +736,6 @@
    "baselineNote": "판매글 11곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4724291618"
-  },
-  {
-   "uid": "9727201060",
-   "mall": "쿠팡",
-   "title": "C to C 60W 초고속 충전케이블 1+1",
-   "price": 3480,
-   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/fe5c/abbe5f4ebb0c7117a839bf049e6ee940655a711b881dbd0f11b2f4672ef8.png",
-   "sentAt": "2026-10-21T18:27:01.630+09:00",
-   "saving": 38,
-   "baseline": 5650,
-   "baselineNote": "판매글 6곳 최저가",
-   "link": "https://link.coupang.com/a/gSPqdX6wnI"
-  },
-  {
-   "uid": "6772347138",
-   "mall": "롯데온",
-   "title": "광동 비타500 제로 스파클링 유자 250ml 24캔",
-   "price": 9870,
-   "image": "https://contents.lotteon.com/itemimage/20260616122454/LO/27/02/08/11/22/_2/70/20/81/12/3/LO2702081122_2702081123_1.jpg",
-   "sentAt": "2026-10-21T17:43:53.136+09:00",
-   "saving": 38,
-   "baseline": 15840,
-   "baselineNote": "188곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "http://app.ac/OqnzXd243"
   }
  ]
 }
