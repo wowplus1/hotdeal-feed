@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-24T09:56:45.256+09:00",
+ "updated": "2026-10-24T10:20:44.045+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4332956724",
+   "mall": "토스쇼핑",
+   "title": "일동후디스 하이뮨 프로틴 밸런스 액티브, 바닐라봉봉 제로, 250ml, 18개",
+   "price": 19800,
+   "image": "https://shopping.toss.im/live/temp/2026-03-11/b73bee44-7266-4a77-a56e-8e7bcd10a143.jpeg",
+   "sentAt": "2026-10-24T10:20:43.397+09:00",
+   "saving": 26,
+   "baseline": 26900,
+   "baselineNote": "52곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/3toNyWDD"
+  },
   {
    "uid": "6846280040",
    "mall": "지마켓",
@@ -723,19 +736,6 @@
    "baselineNote": "판매글 18곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=1562377399"
-  },
-  {
-   "uid": "3780902856",
-   "mall": "지마켓",
-   "title": "하동관 한우암소곰탕 500g 5팩",
-   "price": 24990,
-   "image": "https://gdimg.gmarket.co.kr/4618681212/goodsimage",
-   "sentAt": "2026-10-21T11:14:42.052+09:00",
-   "saving": 42,
-   "baseline": 43190,
-   "baselineNote": "29곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4618681212"
   }
  ]
 }
