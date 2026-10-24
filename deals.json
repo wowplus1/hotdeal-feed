@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-24T19:23:29.526+09:00",
+ "updated": "2026-10-24T20:02:58.499+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4566494215",
+   "mall": "쿠팡",
+   "title": "가그린 어린이용 구강세정제 사과향, 380ml, 3개",
+   "price": 7110,
+   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2779441148604899-89312534-afe5-44da-9607-7c85bfe582f6.png",
+   "sentAt": "2026-10-24T20:02:57.485+09:00",
+   "saving": 52,
+   "baseline": 14710,
+   "baselineNote": "판매글 6곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gK6zhuAdHM"
+  },
   {
    "uid": "9626072550",
    "mall": "토스쇼핑",
@@ -723,19 +736,6 @@
    "sentAt": "2026-10-21T19:16:46.550+09:00",
    "unit": "[object Object]",
    "link": "http://app.ac/h3MdbUJ13"
-  },
-  {
-   "uid": "5995189412",
-   "mall": "지마켓",
-   "title": "에너자이저 알카라인 파워 건전지 AA 10입+AAA 10입",
-   "price": 9900,
-   "image": "https://gdimg.gmarket.co.kr/4724291618/goodsimage",
-   "sentAt": "2026-10-21T19:10:37.291+09:00",
-   "saving": 37,
-   "baseline": 15750,
-   "baselineNote": "판매글 11곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4724291618"
   }
  ]
 }
