@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-24T14:00:18.947+09:00",
+ "updated": "2026-10-24T14:02:36.716+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7460649003",
+   "mall": "쿠팡",
+   "title": "락피도 철분 액상 30포, 240ml, 1개",
+   "price": 11440,
+   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/4249/4a4fae6fd72372b29cfb285e0042dda8f7c9969b4a08e4e5e704ca657988.jpg",
+   "sentAt": "2026-10-24T14:02:36.227+09:00",
+   "saving": 34,
+   "baseline": 17320,
+   "baselineNote": "판매글 15곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gfrduP4BTE"
+  },
   {
    "uid": "2388190337",
    "mall": "쿠팡",
@@ -722,19 +735,6 @@
    "baseline": 12420,
    "baselineNote": "판매글 4곳 최저가",
    "link": "http://app.ac/nAGBSd553"
-  },
-  {
-   "uid": "8091693730",
-   "mall": "토스쇼핑",
-   "title": "백옥콘 강냉이, 1.4kg, 1개",
-   "price": 8400,
-   "image": "https://shopping.toss.im/live/taca/ai/YTAxMDhk/QUoyRVBNVWFwMHFqd3FMUm1OV2N3SzJDTElNdGswTWt4MVJpNC8valBYSU4.png",
-   "sentAt": "2026-10-21T12:30:14.208+09:00",
-   "saving": 23,
-   "baseline": 10930,
-   "baselineNote": "판매글 7곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://toss.im/_m/psptNQbg"
   }
  ]
 }
