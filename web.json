@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-24T13:01:40.592+09:00",
- "count": 74,
+ "updated": "2026-10-24T14:09:33.246+09:00",
+ "count": 75,
  "items": [
+  {
+   "uid": "5264012418",
+   "mall": "쿠팡",
+   "title": "오뚜기 뿌셔뿌셔 불고기맛, 90g, 5개",
+   "price": 3580,
+   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/69490790863792-7cc903bd-cdef-4a70-bccf-52fa61e75e1f.jpg",
+   "sentAt": "2026-10-24T14:09:33.246+09:00",
+   "saving": 17,
+   "baseline": 4310,
+   "baselineNote": "170곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/h6qyCr9Nhk",
+   "web": true
+  },
   {
    "uid": "3337270328",
    "mall": "롯데온",
