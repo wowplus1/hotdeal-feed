@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-24T23:11:30.937+09:00",
- "count": 78,
+ "updated": "2026-10-25T00:19:41.345+09:00",
+ "count": 79,
  "items": [
+  {
+   "uid": "7771496124",
+   "mall": "쿠팡",
+   "title": "포테토칩 교촌간장치킨맛, 55g, 4개",
+   "price": 3670,
+   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/92665640842440-c3511055-7515-4344-b65c-b0c1852251b5.jpg",
+   "sentAt": "2026-10-25T00:19:41.345+09:00",
+   "saving": 52,
+   "baseline": 7720,
+   "baselineNote": "51곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/h678NTPbGu",
+   "web": true
+  },
   {
    "uid": "4026749936",
    "mall": "쿠팡",
