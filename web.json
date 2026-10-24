@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-24T18:30:11.009+09:00",
- "count": 76,
+ "updated": "2026-10-24T22:02:57.736+09:00",
+ "count": 77,
  "items": [
+  {
+   "uid": "1726632219",
+   "mall": "쿠팡",
+   "title": "아이배냇 칼슘 순 소금 130g 2,380원",
+   "price": 2380,
+   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/67875228633382-fa6d0437-e19e-4cb4-89d4-3d93e6de0736.jpg",
+   "sentAt": "2026-10-24T22:02:57.736+09:00",
+   "saving": 51,
+   "baseline": 4830,
+   "baselineNote": "36곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/h6Yk5W0ree",
+   "web": true
+  },
   {
    "uid": "7209477519",
    "mall": "지마켓",
