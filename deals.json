@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-24T17:24:25.358+09:00",
+ "updated": "2026-10-24T17:48:36.318+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4547431718",
+   "mall": "토스쇼핑",
+   "title": "네이처드림 리얼 유기농 올리브오일 레몬즙 올레샷, 20ml, 14포, 4박스",
+   "price": 31100,
+   "image": "https://shopping.toss.im/live/taca/ai/v2/MDNlODE5/YXhZOGJNeVFjc3c0M005MnB5RmpFcE5rOFhrdVZNaldiSlNkNDZ5U0Z5MD0.png",
+   "sentAt": "2026-10-24T17:48:35.544+09:00",
+   "saving": 42,
+   "baseline": 53910,
+   "baselineNote": "판매글 27곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/PP3urDom"
+  },
   {
    "uid": "7850334072",
    "mall": "지마켓",
@@ -723,19 +736,6 @@
    "baseline": 801660,
    "baselineNote": "70곳 중 최저",
    "link": "https://link.coupang.com/a/hIm9DIQxQi"
-  },
-  {
-   "uid": "1001952540",
-   "mall": "쿠팡",
-   "title": "농심 감자면 117g, 5개",
-   "price": 4780,
-   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/6788/b9f6a9850d76d55a8a0ed44d8ff2c6362a648e1bf15b074e68e514b83393.jpg",
-   "sentAt": "2026-10-21T15:59:37.825+09:00",
-   "saving": 29,
-   "baseline": 6700,
-   "baselineNote": "판매글 12곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hCwQg57urA"
   }
  ]
 }
