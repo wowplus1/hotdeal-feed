@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-25T16:11:06.165+09:00",
+ "updated": "2026-10-25T16:32:34.323+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9086422361",
+   "mall": "토스쇼핑",
+   "title": "오즈랜드 말차쿠키 화이트초코칩 콕콕, 말차맛, 12g, 30개입, 1박스",
+   "price": 9320,
+   "image": "https://shopping.toss.im/live/temp/2026-08-19/c4efd958-8e50-42f7-8092-acb9df39a0d0.jpeg",
+   "sentAt": "2026-10-25T16:32:33.577+09:00",
+   "saving": 25,
+   "baseline": 12350,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://toss.im/_m/FDmHMzA4"
+  },
   {
    "uid": "2034175802",
    "mall": "쿠팡",
@@ -731,16 +744,6 @@
    "sentAt": "2026-10-22T16:01:25.555+09:00",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=3520135884"
-  },
-  {
-   "uid": "4838868959",
-   "mall": "토스쇼핑",
-   "title": "스페시핏 뿌리는 곰팡이 제거제, 500ml, 2개",
-   "price": 7800,
-   "image": "https://shopping.toss.im/live/temp/2025-12-06/bc7b10ed-6617-4bbb-aa8e-c8f4b9bd9bd9.jpeg",
-   "sentAt": "2026-10-22T13:35:44.470+09:00",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/Ta7zKNJp"
   }
  ]
 }
