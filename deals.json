@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-26T08:05:30.101+09:00",
+ "updated": "2026-10-26T08:14:48.713+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9675078114",
+   "mall": "쿠팡",
+   "title": "오뚜기 컵누들 참깨라면 37.5g, 12개",
+   "price": 10980,
+   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1059316711399193-eb67a2fc-08d7-4b2e-9c01-02951d5b5077.png",
+   "sentAt": "2026-10-26T08:14:47.753+09:00",
+   "saving": 22,
+   "baseline": 14040,
+   "baselineNote": "97곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/h9kZ7FRe9Y"
+  },
   {
    "uid": "9598327995",
    "mall": "쿠팡",
@@ -734,19 +747,6 @@
    "baselineNote": "74곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/h4vr4nbDqK"
-  },
-  {
-   "uid": "1623661499",
-   "mall": "쿠팡",
-   "title": "광동옥수수수염차 무라벨, 330ml, 20개",
-   "price": 12210,
-   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/132238213099567-1652bef5-615e-4ab6-a637-5b484ca7daac.jpg",
-   "sentAt": "2026-10-23T08:10:34.603+09:00",
-   "saving": 28,
-   "baseline": 17010,
-   "baselineNote": "판매글 8곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gxKmDRzuj6"
   }
  ]
 }
