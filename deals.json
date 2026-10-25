@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-25T19:49:54.840+09:00",
+ "updated": "2026-10-25T21:04:48.820+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4266450189",
+   "mall": "11번가",
+   "title": "켈로그 프로틴바K 헤이즐넛 & 다크초코, 40g, 12개",
+   "price": 9270,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/6415290469/B.webp?659280339",
+   "sentAt": "2026-10-25T21:04:48.039+09:00",
+   "saving": 35,
+   "baseline": 14190,
+   "baselineNote": "24곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "http://app.ac/03MBQdJ23"
+  },
   {
    "uid": "6547130488",
    "mall": "쿠팡",
@@ -732,19 +745,6 @@
    "baseline": 52270,
    "baselineNote": "판매글 40곳 최저가",
    "link": "http://app.ac/itVFFeM43"
-  },
-  {
-   "uid": "2549293317",
-   "mall": "쿠팡",
-   "title": "꼬북칩 미니 콘스프맛 30g 12개",
-   "price": 5450,
-   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/233881778928035-b0244fbd-f5a0-4de6-873f-7711bdd376f2.jpg",
-   "sentAt": "2026-10-22T18:21:33.159+09:00",
-   "saving": 21,
-   "baseline": 6930,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/h3oFsmc29Y"
   }
  ]
 }
