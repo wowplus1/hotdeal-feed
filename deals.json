@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-26T07:03:10.476+09:00",
+ "updated": "2026-10-26T07:05:31.990+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1753560403",
+   "mall": "쿠팡",
+   "title": "갈아만든배 저칼로리, 340ml, 24개",
+   "price": 10610,
+   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/ce61/c11830fa6c09174f2361a1296ab4c6540ad01e6a88674f10ead7c902d6dc.jpg",
+   "sentAt": "2026-10-26T07:05:31.370+09:00",
+   "saving": 20,
+   "baseline": 13270,
+   "baselineNote": "312곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gkKv1IM2o0"
+  },
   {
    "uid": "8695479585",
    "mall": "쿠팡",
@@ -734,18 +747,6 @@
    "baselineNote": "657곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/h3Dn1XZsrc"
-  },
-  {
-   "uid": "7287716706",
-   "mall": "지마켓",
-   "title": "듀오락 생유산균 초코볼 55개입 2개+증정 30,380원",
-   "price": 31420,
-   "image": "https://gdimg.gmarket.co.kr/2618481105/goodsimage",
-   "sentAt": "2026-10-22T21:03:09.540+09:00",
-   "saving": 35,
-   "baseline": 48630,
-   "baselineNote": "판매글 6곳 최저가",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2618481105"
   }
  ]
 }
