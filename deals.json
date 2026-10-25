@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-25T19:41:19.294+09:00",
+ "updated": "2026-10-25T19:49:54.840+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6547130488",
+   "mall": "쿠팡",
+   "title": "농심 멸치칼국수, 98g, 15개",
+   "price": 11150,
+   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/104608482080189-d3b08823-9908-48aa-b5d1-fe397d770ba7.jpg",
+   "sentAt": "2026-10-25T19:49:54.293+09:00",
+   "saving": 42,
+   "baseline": 19290,
+   "baselineNote": "28곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/h7HSrRGX2y"
+  },
   {
    "uid": "8260727979",
    "mall": "쿠팡",
@@ -732,19 +745,6 @@
    "baselineNote": "판매글 5곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/h3oFsmc29Y"
-  },
-  {
-   "uid": "2583799036",
-   "mall": "지마켓",
-   "title": "크리넥스 도톰한 3겹 데코소프트 28M 24롤 2팩",
-   "price": 23680,
-   "image": "https://gdimg.gmarket.co.kr/2470977918/goodsimage",
-   "sentAt": "2026-10-22T18:10:59.726+09:00",
-   "saving": 29,
-   "baseline": 33500,
-   "baselineNote": "판매글 26곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2470977918"
   }
  ]
 }
