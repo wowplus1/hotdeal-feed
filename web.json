@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-25T19:21:41.983+09:00",
- "count": 83,
+ "updated": "2026-10-26T00:15:22.868+09:00",
+ "count": 84,
  "items": [
+  {
+   "uid": "4873140032",
+   "mall": "지마켓",
+   "title": "육개장 630g x 5팩",
+   "price": 19750,
+   "image": "https://gdimg.gmarket.co.kr/4777166390/goodsimage",
+   "sentAt": "2026-10-26T00:15:22.868+09:00",
+   "saving": 42,
+   "baseline": 34250,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4777166390",
+   "web": true
+  },
   {
    "uid": "1403031946",
    "mall": "쿠팡",
