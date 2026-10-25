@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-25T13:02:29.459+09:00",
+ "updated": "2026-10-25T13:54:49.664+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2056386605",
+   "mall": "지마켓",
+   "title": "오뚜기 진비빔면 멀티팩 4개입 4팩",
+   "price": 9450,
+   "image": "https://gdimg.gmarket.co.kr/4078671072/goodsimage",
+   "sentAt": "2026-10-25T13:54:49.087+09:00",
+   "saving": 47,
+   "baseline": 17770,
+   "baselineNote": "판매글 11곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4078671072"
+  },
   {
    "uid": "5240940937",
    "mall": "쿠팡",
@@ -725,18 +738,6 @@
    "sentAt": "2026-10-22T12:03:08.953+09:00",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/h2XEU7GNki"
-  },
-  {
-   "uid": "3421888787",
-   "mall": "롯데온",
-   "title": "고품질 특품 정량 로메인청상추 1kg/2kg",
-   "price": 4990,
-   "image": "https://contents.lotteon.com/itemimage/20260929111612/LO/25/79/65/87/49/_2/57/96/58/75/0/LO2579658749_2579658750_1.jpg",
-   "sentAt": "2026-10-22T11:39:46.488+09:00",
-   "saving": 41,
-   "baseline": 8500,
-   "baselineNote": "판매글 4곳 최저가",
-   "link": "http://app.ac/eAGzYZ563"
   }
  ]
 }
