@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-26T07:32:33.277+09:00",
+ "updated": "2026-10-26T08:05:30.101+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9598327995",
+   "mall": "쿠팡",
+   "title": "랑그리 초코 크림 샌드 132g 2개",
+   "price": 5150,
+   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/d3c6/fa3f3b258c4b2973f27a6f076cf01d72d98b9ad27586ce582ab83fd5b1ed.jpg",
+   "sentAt": "2026-10-26T08:05:29.041+09:00",
+   "saving": 37,
+   "baseline": 8170,
+   "baselineNote": "16곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/h9kk0vQk5k"
+  },
   {
    "uid": "3237165479",
    "mall": "쿠팡",
@@ -734,19 +747,6 @@
    "baselineNote": "판매글 8곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gxKmDRzuj6"
-  },
-  {
-   "uid": "5934764905",
-   "mall": "쿠팡",
-   "title": "켈로그 프로틴 그래놀라 제로슈거 다크초코, 350g, 1개",
-   "price": 3980,
-   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/271825331572050-d3cd2351-054b-446f-a074-da93c809f8fc.jpg",
-   "sentAt": "2026-10-23T07:12:25.610+09:00",
-   "saving": 51,
-   "baseline": 8090,
-   "baselineNote": "171곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hThJQJaKjs"
   }
  ]
 }
