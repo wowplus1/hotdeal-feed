@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-25T08:34:48.529+09:00",
+ "updated": "2026-10-25T09:57:34.339+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9866462155",
+   "mall": "토스쇼핑",
+   "title": "별하수 콤부차 원액, 420g, 1개",
+   "price": 10000,
+   "image": "https://shopping.toss.im/live/taca/ai/MmUwOGZh/QUk3MnJQYU04cVlXdFlhTmh3WkROYnM0dlBRNGJJcFJpVk9KRTR0VjdjeG0.png",
+   "sentAt": "2026-10-25T09:57:33.454+09:00",
+   "saving": 70,
+   "baseline": 33210,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/TPhwILYk"
+  },
   {
    "uid": "5810523546",
    "mall": "쿠팡",
@@ -727,19 +740,6 @@
    "baselineNote": "판매글 20곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/h2C5ez4mrI"
-  },
-  {
-   "uid": "4642355354",
-   "mall": "쿠팡",
-   "title": "맑은내일 양파껍질차, 500ml, 24개",
-   "price": 22300,
-   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/image_audit/prod/99200944-08c7-4db5-844f-978cf336e1b3_fixing_v2.png",
-   "sentAt": "2026-10-22T09:11:20.875+09:00",
-   "saving": 40,
-   "baseline": 36940,
-   "baselineNote": "판매글 10곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gzwwOzrU84"
   }
  ]
 }
