@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-25T18:58:02.819+09:00",
+ "updated": "2026-10-25T19:41:19.294+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8260727979",
+   "mall": "쿠팡",
+   "title": "오뚜기 오동통면 120g 10개",
+   "price": 6350,
+   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/d738/a5e8caebe6f799a2fdae74c1984c5593a9d3b032d474c0e65f06a442d66f.jpg",
+   "sentAt": "2026-10-25T19:41:18.704+09:00",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/h8tayg9ZUz"
+  },
   {
    "uid": "8530732259",
    "mall": "쿠팡",
@@ -735,18 +745,6 @@
    "baselineNote": "판매글 26곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2470977918"
-  },
-  {
-   "uid": "1009770997",
-   "mall": "롯데온",
-   "title": "츄파춥스 팝아트틴 150입 + 한정판 블루투스 스피커",
-   "price": 17900,
-   "image": "https://contents.lotteon.com/itemimage/20261012141037/LO/27/91/38/24/27/_2/79/13/82/44/4/LO2791382427_2791382444_1.jpg",
-   "sentAt": "2026-10-22T17:55:02.221+09:00",
-   "saving": 34,
-   "baseline": 27240,
-   "baselineNote": "판매글 23곳 최저가",
-   "link": "http://app.ac/63MoVmJ23"
   }
  ]
 }
