@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-25T11:10:31.474+09:00",
+ "updated": "2026-10-25T11:15:06.393+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2981220987",
+   "mall": "쿠팡",
+   "title": "농심 자갈치 문어맛, 90g, 1개",
+   "price": 940,
+   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/23812256987873-2447802c-2fe7-402f-a1cc-3de2f86ca870.jpg",
+   "sentAt": "2026-10-25T11:15:05.884+09:00",
+   "saving": 25,
+   "baseline": 1250,
+   "baselineNote": "판매글 5곳 최저가",
+   "link": "https://link.coupang.com/a/h7SXkFtiVM"
+  },
   {
    "uid": "6368011752",
    "mall": "롯데온",
@@ -726,19 +738,6 @@
    "baselineNote": "판매글 5곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4740494532"
-  },
-  {
-   "uid": "4938312662",
-   "mall": "롯데온",
-   "title": "광동 옥수수수염차 1.85L 6입",
-   "price": 5940,
-   "image": "https://contents.lotteon.com/itemimage/20261014150923/LO/27/93/28/30/58/_2/79/32/83/05/9/LO2793283058_2793283059_1.jpg",
-   "sentAt": "2026-10-22T09:12:07.668+09:00",
-   "saving": 38,
-   "baseline": 9650,
-   "baselineNote": "판매글 38곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/2bpSS7l63"
   }
  ]
 }
