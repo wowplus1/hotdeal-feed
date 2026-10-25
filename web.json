@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-26T00:15:22.868+09:00",
- "count": 84,
+ "updated": "2026-10-26T00:41:09.555+09:00",
+ "count": 85,
  "items": [
+  {
+   "uid": "8658406671",
+   "mall": "쿠팡",
+   "title": "스탠리 퀜처 프로투어 플립스트로 텀블러 하이드렌지아 887ml",
+   "price": 21870,
+   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/975050457425344-62af8b2b-ba08-46f7-8a91-a7c86f8ac5f9.jpg",
+   "sentAt": "2026-10-26T00:41:09.555+09:00",
+   "saving": 55,
+   "baseline": 48600,
+   "baselineNote": "310곳 중 최저 · 무료배송",
+   "link": "https://link.coupang.com/a/hD96bGudlk",
+   "web": true
+  },
   {
    "uid": "4873140032",
    "mall": "지마켓",
