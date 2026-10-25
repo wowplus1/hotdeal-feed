@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-25T11:15:58.042+09:00",
+ "updated": "2026-10-25T11:29:24.717+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5904831654",
+   "mall": "지마켓",
+   "title": "대추방울토마토 2KG 1~3번과",
+   "price": 10060,
+   "image": "https://gdimg.gmarket.co.kr/2615803488/goodsimage",
+   "sentAt": "2026-10-25T11:29:24.158+09:00",
+   "saving": 45,
+   "baseline": 18360,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2615803488"
+  },
   {
    "uid": "2549719783",
    "mall": "롯데온",
@@ -725,19 +738,6 @@
    "baselineNote": "판매글 26곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gwhWYW2f3k"
-  },
-  {
-   "uid": "5745605275",
-   "mall": "쿠팡",
-   "title": "해태제과 오예스 미니 크림소다맛, 192g, 5개",
-   "price": 6920,
-   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/7aa898fa-0716-4d9c-87ad-1837d98e0f447982471331101464409.png",
-   "sentAt": "2026-10-22T10:30:06.231+09:00",
-   "saving": 31,
-   "baseline": 10010,
-   "baselineNote": "195곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/h2Q2iWeJq0"
   }
  ]
 }
