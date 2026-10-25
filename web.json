@@ -1,7 +1,18 @@
 {
- "updated": "2026-10-26T00:44:44.656+09:00",
- "count": 86,
+ "updated": "2026-10-26T01:21:46.436+09:00",
+ "count": 87,
  "items": [
+  {
+   "uid": "3913721367",
+   "mall": "쿠팡",
+   "title": "롯데웰푸드 칸쵸 초코 54g 4개",
+   "price": 2570,
+   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/66883706241987-ecae22d1-7628-4b27-92d0-17129ac41519.png",
+   "sentAt": "2026-10-26T01:21:46.436+09:00",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/h8RsImTjhs",
+   "web": true
+  },
   {
    "uid": "4944879534",
    "mall": "쿠팡",
