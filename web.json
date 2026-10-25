@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-25T00:19:41.345+09:00",
- "count": 79,
+ "updated": "2026-10-25T10:10:39.757+09:00",
+ "count": 80,
  "items": [
+  {
+   "uid": "6237600091",
+   "mall": "롯데온",
+   "title": "매일두유 초콜릿 저당 190ml 24팩",
+   "price": 16440,
+   "image": "https://contents.lotteon.com/itemimage/20261023093249/LO/27/87/33/10/97/_2/78/73/31/09/8/LO2787331097_2787331098_1.jpg",
+   "sentAt": "2026-10-25T10:10:39.757+09:00",
+   "saving": 17,
+   "baseline": 19800,
+   "baselineNote": "판매글 26곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/3ECBxaS33",
+   "web": true
+  },
   {
    "uid": "7771496124",
    "mall": "쿠팡",
