@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-25T16:32:34.323+09:00",
+ "updated": "2026-10-25T18:58:02.819+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8530732259",
+   "mall": "쿠팡",
+   "title": "미미네 오리지널 국물떡볶이 , 570g, 4개",
+   "price": 11610,
+   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/234522704417738-b5eac821-8fa2-4676-b863-09fe8b00d3c8.jpg",
+   "sentAt": "2026-10-25T18:58:01.956+09:00",
+   "saving": 43,
+   "baseline": 20520,
+   "baselineNote": "37곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/h8p2Iq8qui"
+  },
   {
    "uid": "9086422361",
    "mall": "토스쇼핑",
@@ -734,16 +747,6 @@
    "baseline": 27240,
    "baselineNote": "판매글 23곳 최저가",
    "link": "http://app.ac/63MoVmJ23"
-  },
-  {
-   "uid": "2943529204",
-   "mall": "지마켓",
-   "title": "삼양 불닭볶음면 소컵 24개",
-   "price": 18110,
-   "image": "https://gdimg.gmarket.co.kr/3520135884/goodsimage",
-   "sentAt": "2026-10-22T16:01:25.555+09:00",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=3520135884"
   }
  ]
 }
