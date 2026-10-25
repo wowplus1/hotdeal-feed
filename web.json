@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-25T18:34:33.573+09:00",
- "count": 82,
+ "updated": "2026-10-25T19:21:41.983+09:00",
+ "count": 83,
  "items": [
+  {
+   "uid": "1403031946",
+   "mall": "쿠팡",
+   "title": "제이엠 솔루션 콜라겐 피디알엔 퍼밍 토너 패드 100매, 170ml, 1개",
+   "price": 6740,
+   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/05edf869-2ec0-4652-bb98-5bc42dc0d7ac11496251599728304575.png",
+   "sentAt": "2026-10-25T19:21:41.983+09:00",
+   "saving": 54,
+   "baseline": 14700,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/h8rJ5IkNVs",
+   "web": true
+  },
   {
    "uid": "8325285975",
    "mall": "쿠팡",
