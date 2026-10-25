@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-26T00:41:09.555+09:00",
- "count": 85,
+ "updated": "2026-10-26T00:44:44.656+09:00",
+ "count": 86,
  "items": [
+  {
+   "uid": "4944879534",
+   "mall": "쿠팡",
+   "title": "이클립스 피치, 34g, 8개",
+   "price": 10190,
+   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/155740836159107-f9985969-50e9-4a40-bac7-6e3fd3d62958.jpg",
+   "sentAt": "2026-10-26T00:44:44.656+09:00",
+   "saving": 19,
+   "baseline": 12640,
+   "baselineNote": "702곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/h8OPKsW2x2",
+   "web": true
+  },
   {
    "uid": "8658406671",
    "mall": "쿠팡",
