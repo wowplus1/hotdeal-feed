@@ -1,7 +1,18 @@
 {
- "updated": "2026-10-25T10:10:39.757+09:00",
- "count": 80,
+ "updated": "2026-10-25T17:16:54.192+09:00",
+ "count": 81,
  "items": [
+  {
+   "uid": "5924229368",
+   "mall": "쿠팡",
+   "title": "비비고 왕교자 , 1.05kg, 3개",
+   "price": 22410,
+   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/702c00ec-d596-4dd2-92e2-e93b9b02bfdc13845759148683424492.png",
+   "sentAt": "2026-10-25T17:16:54.192+09:00",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/h8iNMPtNZs",
+   "web": true
+  },
   {
    "uid": "6237600091",
    "mall": "롯데온",
