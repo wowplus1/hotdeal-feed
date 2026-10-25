@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-26T01:21:46.436+09:00",
- "count": 87,
+ "updated": "2026-10-26T01:55:22.027+09:00",
+ "count": 88,
  "items": [
+  {
+   "uid": "4405836660",
+   "mall": "쿠팡",
+   "title": "파나소닉 멀티플랙스 5중날 LV-97",
+   "price": 167990,
+   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/fa51/7a28978c4c998a0719c99f42ef337601c730802aba7f4ce81c1280c32158.jpg",
+   "sentAt": "2026-10-26T01:55:22.027+09:00",
+   "saving": 33,
+   "baseline": 248990,
+   "baselineNote": "58곳 중 최저 · 무료배송",
+   "link": "https://link.coupang.com/a/g1zoB5IrFA",
+   "web": true
+  },
   {
    "uid": "3913721367",
    "mall": "쿠팡",
