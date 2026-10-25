@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-25T21:13:16.217+09:00",
+ "updated": "2026-10-26T07:03:10.476+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8695479585",
+   "mall": "쿠팡",
+   "title": "크라운 빅파이 살구, 324g, 3개",
+   "price": 5700,
+   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/52e3cebf-7cf6-4663-b8e3-2280f3267be217625193810823725558.png",
+   "sentAt": "2026-10-26T07:03:09.736+09:00",
+   "saving": 54,
+   "baseline": 12400,
+   "baselineNote": "142곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/h9fSItZVka"
+  },
   {
    "uid": "7326282370",
    "mall": "쿠팡",
@@ -733,19 +746,6 @@
    "baseline": 48630,
    "baselineNote": "판매글 6곳 최저가",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2618481105"
-  },
-  {
-   "uid": "7541575368",
-   "mall": "토스쇼핑",
-   "title": "교동 콩비지찌개, 500g, 5개",
-   "price": 12290,
-   "image": "https://shopping.toss.im/live/temp/2026-08-05/f56b598b-f128-4818-adb4-ea0cf5e981ee.jpeg",
-   "sentAt": "2026-10-22T20:10:17.561+09:00",
-   "saving": 38,
-   "baseline": 19780,
-   "baselineNote": "판매글 30곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://toss.im/_m/plKyasp9"
   }
  ]
 }
