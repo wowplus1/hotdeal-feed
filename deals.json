@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-25T11:29:24.717+09:00",
+ "updated": "2026-10-25T13:02:29.459+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5240940937",
+   "mall": "쿠팡",
+   "title": "바겐슈타이거 무연마제 스텐304 IH 퓨어폴리싱 케틀팟 2L*1개",
+   "price": 17670,
+   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/10/22/13/6/fe20dfe1-9bb7-4677-b35e-407e87dfd894.jpg",
+   "sentAt": "2026-10-25T13:02:28.436+09:00",
+   "saving": 44,
+   "baseline": 31630,
+   "baselineNote": "판매글 8곳 최저가",
+   "link": "https://link.coupang.com/a/gCQsws6gp2"
+  },
   {
    "uid": "5904831654",
    "mall": "지마켓",
@@ -725,19 +737,6 @@
    "baseline": 8500,
    "baselineNote": "판매글 4곳 최저가",
    "link": "http://app.ac/eAGzYZ563"
-  },
-  {
-   "uid": "8570793257",
-   "mall": "쿠팡",
-   "title": "조지아 블랙 무라벨 커피, 370ml, 20개",
-   "price": 16700,
-   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/129299413373747-329dd76d-4db8-417c-b8ac-4b62ff55c1d1.jpg",
-   "sentAt": "2026-10-22T11:01:40.229+09:00",
-   "saving": 32,
-   "baseline": 24480,
-   "baselineNote": "판매글 26곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gwhWYW2f3k"
   }
  ]
 }
