@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-25T17:16:54.192+09:00",
- "count": 81,
+ "updated": "2026-10-25T18:34:33.573+09:00",
+ "count": 82,
  "items": [
+  {
+   "uid": "8325285975",
+   "mall": "쿠팡",
+   "title": "에이수스 2026 비보북 S 14 코어Ultra5 인텔 14세대 512GB*16GB*WIN11 Home",
+   "price": 951020,
+   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/rs_quotation_api/8zg8ba05/1efa1241ea424ff6ba8f642e057d6461.jpg",
+   "sentAt": "2026-10-25T18:34:33.573+09:00",
+   "saving": 56,
+   "baseline": 2168000,
+   "baselineNote": "판매글 17곳 최저가",
+   "link": "https://link.coupang.com/a/gGDGaSPXz2",
+   "web": true
+  },
   {
    "uid": "5924229368",
    "mall": "쿠팡",
