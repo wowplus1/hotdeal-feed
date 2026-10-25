@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-25T11:15:06.393+09:00",
+ "updated": "2026-10-25T11:15:58.042+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2549719783",
+   "mall": "롯데온",
+   "title": "Dining K 코스트코 김치 토마토 페스토 430g x 2병",
+   "price": 13860,
+   "image": "https://contents.lotteon.com/itemimage/20261023095904/LO/27/98/51/49/04/_2/79/85/14/90/5/LO2798514904_2798514905_3.png",
+   "sentAt": "2026-10-25T11:15:57.203+09:00",
+   "saving": 25,
+   "baseline": 18440,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/T3MZxyJ83"
+  },
   {
    "uid": "2981220987",
    "mall": "쿠팡",
@@ -725,19 +738,6 @@
    "baselineNote": "195곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/h2Q2iWeJq0"
-  },
-  {
-   "uid": "7869235581",
-   "mall": "지마켓",
-   "title": "제로슈가 비타 캔디 12가지맛 100g 4팩",
-   "price": 10500,
-   "image": "https://gdimg.gmarket.co.kr/4740494532/goodsimage",
-   "sentAt": "2026-10-22T09:12:45.228+09:00",
-   "saving": 31,
-   "baseline": 15250,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4740494532"
   }
  ]
 }
