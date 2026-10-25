@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-25T09:57:34.339+09:00",
+ "updated": "2026-10-25T11:02:57.408+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6588448441",
+   "mall": "쿠팡",
+   "title": "우리차 콘푸레이크 천마차 18g*110개입*1개",
+   "price": 11500,
+   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/94fa/a6e50e89be72ff463e891112367bf049a95c1fb563f837727df8e7efd9b3.jpg",
+   "sentAt": "2026-10-25T11:02:56.695+09:00",
+   "saving": 31,
+   "baseline": 16560,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gfsDIiIU1c"
+  },
   {
    "uid": "9866462155",
    "mall": "토스쇼핑",
@@ -727,19 +740,6 @@
    "baselineNote": "판매글 31곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/h2KAc8Le6m"
-  },
-  {
-   "uid": "9437370144",
-   "mall": "쿠팡",
-   "title": "크라운 고소한 땅콩샌드, 279g, 2개",
-   "price": 3910,
-   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/f3d3/f7d525ec8f68695731430edb77704a88bb144f7329646922af4fb36c1382.jpg",
-   "sentAt": "2026-10-22T09:11:20.875+09:00",
-   "saving": 51,
-   "baseline": 7960,
-   "baselineNote": "판매글 20곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/h2C5ez4mrI"
   }
  ]
 }
