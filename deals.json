@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-25T21:04:48.820+09:00",
+ "updated": "2026-10-25T21:13:16.217+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7326282370",
+   "mall": "쿠팡",
+   "title": "해피바스 오리지널컬렉션 등드름 약산성 대용량 자몽 바디워시, 1.2kg, 2개",
+   "price": 13640,
+   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/379c/c2c12228b95bb60d26ef76a88ad8203b42c727ec38d3e495bbdd2117c189.jpg",
+   "sentAt": "2026-10-25T21:13:15.541+09:00",
+   "saving": 55,
+   "baseline": 30360,
+   "baselineNote": "파는 곳이 여기 하나",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/h8zIyTkXdd"
+  },
   {
    "uid": "4266450189",
    "mall": "11번가",
@@ -733,18 +746,6 @@
    "baselineNote": "판매글 30곳 최저가",
    "unit": "[object Object]",
    "link": "https://toss.im/_m/plKyasp9"
-  },
-  {
-   "uid": "1545567437",
-   "mall": "롯데온",
-   "title": "남성 파인스 투 카날 폴로 기모 카라 티셔츠 YMP662",
-   "price": 30000,
-   "image": "https://contents.lotteon.com/itemimage/20261022170750/LE/12/22/58/29/28/_1/33/73/10/02/5/LE1222582928_1337310025_1.jpg",
-   "sentAt": "2026-10-22T19:56:33.173+09:00",
-   "saving": 43,
-   "baseline": 52270,
-   "baselineNote": "판매글 40곳 최저가",
-   "link": "http://app.ac/itVFFeM43"
   }
  ]
 }
