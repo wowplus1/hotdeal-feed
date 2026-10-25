@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-25T11:02:57.408+09:00",
+ "updated": "2026-10-25T11:10:31.474+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6368011752",
+   "mall": "롯데온",
+   "title": "야들야들 구수한 양구 펀치볼 삶은 시래기 1kg/2kg",
+   "price": 9900,
+   "image": "https://contents.lotteon.com/itemimage/20261022173107/LO/27/44/82/20/30/_2/74/48/22/03/1/LO2744822030_2744822031_3.jpg",
+   "sentAt": "2026-10-25T11:10:30.855+09:00",
+   "saving": 21,
+   "baseline": 12510,
+   "baselineNote": "판매글 4곳 최저가",
+   "link": "http://app.ac/6AGQy9513"
+  },
   {
    "uid": "6588448441",
    "mall": "쿠팡",
@@ -727,19 +739,6 @@
    "baselineNote": "판매글 38곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/2bpSS7l63"
-  },
-  {
-   "uid": "2302574446",
-   "mall": "쿠팡",
-   "title": "크라운 국희 고소한 땅콩샌드 소, 93g, 3개",
-   "price": 2760,
-   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/186041454585835-f10cd2a3-20bb-4537-9356-0e38cefc38e3.jpg",
-   "sentAt": "2026-10-22T09:11:20.875+09:00",
-   "saving": 61,
-   "baseline": 7040,
-   "baselineNote": "판매글 31곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/h2KAc8Le6m"
   }
  ]
 }
