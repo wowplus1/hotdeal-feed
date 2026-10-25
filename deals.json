@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-25T13:54:49.664+09:00",
+ "updated": "2026-10-25T16:11:06.165+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2034175802",
+   "mall": "쿠팡",
+   "title": "아임리얼 100 사과 주스, 140ml, 24개",
+   "price": 11830,
+   "image": "https://t3a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/baa0fe97-acac-4782-9d93-2871296515842809773706766954410.png",
+   "sentAt": "2026-10-25T16:11:05.221+09:00",
+   "saving": 45,
+   "baseline": 21350,
+   "baselineNote": "판매글 7곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/h8d56XsLIW"
+  },
   {
    "uid": "2056386605",
    "mall": "지마켓",
@@ -728,16 +741,6 @@
    "sentAt": "2026-10-22T13:35:44.470+09:00",
    "unit": "[object Object]",
    "link": "https://toss.shopping/_m/Ta7zKNJp"
-  },
-  {
-   "uid": "8894649641",
-   "mall": "쿠팡",
-   "title": "센카 퍼펙트 휩 화이트 클레이 클렌징 품 시나모롤 에디션 120g 2개 8,380원",
-   "price": 8380,
-   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/08/14/14/8/dd65ec27-1778-4e68-aa5b-09dbb3481741.jpg",
-   "sentAt": "2026-10-22T12:03:08.953+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/h2XEU7GNki"
   }
  ]
 }
