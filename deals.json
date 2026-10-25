@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-26T07:05:31.990+09:00",
+ "updated": "2026-10-26T07:32:33.277+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3237165479",
+   "mall": "쿠팡",
+   "title": "크라운 빅파이 영동포도, 324g, 3개",
+   "price": 5590,
+   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/dd7ea199-32c4-4dc0-befc-e8ddeafd235418124726882821278959.png",
+   "sentAt": "2026-10-26T07:32:32.713+09:00",
+   "saving": 66,
+   "baseline": 16570,
+   "baselineNote": "판매글 11곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/h9hYnnYJSS"
+  },
   {
    "uid": "1753560403",
    "mall": "쿠팡",
@@ -734,19 +747,6 @@
    "baselineNote": "171곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hThJQJaKjs"
-  },
-  {
-   "uid": "6303647283",
-   "mall": "쿠팡",
-   "title": "오리온 포카칩 오리지널 66g 10개",
-   "price": 9100,
-   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/6294607904711-086e1c8a-4aa8-493a-aa95-31cada3ca9cb.jpg",
-   "sentAt": "2026-10-22T21:46:36.147+09:00",
-   "saving": 23,
-   "baseline": 11870,
-   "baselineNote": "657곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/h3Dn1XZsrc"
   }
  ]
 }
