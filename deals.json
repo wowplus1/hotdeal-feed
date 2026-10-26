@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-26T09:06:48.489+09:00",
+ "updated": "2026-10-26T09:17:38.618+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2686721436",
+   "mall": "쿠팡",
+   "title": "오뚜기 흰밥, 210g, 12개",
+   "price": 8400,
+   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/42b9/927f66e794d86f61940c6faf1c90576f9647101e3b4d950218880f6b2a82.jpg",
+   "sentAt": "2026-10-26T09:17:38.006+09:00",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/h9pvJh3uo0"
+  },
   {
    "uid": "8018249687",
    "mall": "롯데온",
@@ -738,15 +748,6 @@
    "baselineNote": "판매글 6곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2912488721"
-  },
-  {
-   "uid": "9947254221",
-   "mall": "지마켓",
-   "title": "베베숲 프라임 70매 캡 20팩70gsm",
-   "price": 17960,
-   "image": "https://gdimg.gmarket.co.kr/3039555146/goodsimage",
-   "sentAt": "2026-10-23T11:03:06.846+09:00",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=3039555146"
   }
  ]
 }
