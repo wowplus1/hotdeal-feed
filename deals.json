@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-26T08:14:48.713+09:00",
+ "updated": "2026-10-26T09:06:48.489+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8018249687",
+   "mall": "롯데온",
+   "title": "건국 하이요 프로바이오틱 요거트 400g 플레인/저지방 4개 골라담기",
+   "price": 11910,
+   "image": "https://contents.lotteon.com/itemimage/20261026084241/LO/27/97/73/58/23/_2/79/77/35/82/4/LO2797735823_2797735824_1.jpg",
+   "sentAt": "2026-10-26T09:06:47.338+09:00",
+   "saving": 22,
+   "baseline": 15320,
+   "baselineNote": "판매글 23곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/VECsXDS53"
+  },
   {
    "uid": "9675078114",
    "mall": "쿠팡",
@@ -734,19 +747,6 @@
    "image": "https://gdimg.gmarket.co.kr/3039555146/goodsimage",
    "sentAt": "2026-10-23T11:03:06.846+09:00",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=3039555146"
-  },
-  {
-   "uid": "4723551998",
-   "mall": "쿠팡",
-   "title": "꿀이구마 고소한 보리건빵, 50g, 30개",
-   "price": 7900,
-   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/af6e7e82-794e-4883-b719-15bea9a10e4413227441691104608527.png",
-   "sentAt": "2026-10-23T10:23:18.986+09:00",
-   "saving": 37,
-   "baseline": 12520,
-   "baselineNote": "74곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/h4vr4nbDqK"
   }
  ]
 }
