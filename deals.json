@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-26T09:17:38.618+09:00",
+ "updated": "2026-10-26T09:35:46.673+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8465893578",
+   "mall": "지마켓",
+   "title": "롯샌 파스퇴르 순우유맛 315g 4개",
+   "price": 10990,
+   "image": "https://gdimg.gmarket.co.kr/4695695417/goodsimage",
+   "sentAt": "2026-10-26T09:35:46.127+09:00",
+   "saving": 26,
+   "baseline": 14780,
+   "baselineNote": "판매글 27곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4695695417"
+  },
   {
    "uid": "2686721436",
    "mall": "쿠팡",
@@ -735,19 +748,6 @@
    "baseline": 13430,
    "baselineNote": "다른 곳 최저",
    "link": "https://link.coupang.com/a/h4CzjrLbuC"
-  },
-  {
-   "uid": "7195818617",
-   "mall": "지마켓",
-   "title": "바베큐폭립 400g x2팩",
-   "price": 19680,
-   "image": "https://gdimg.gmarket.co.kr/2912488721/goodsimage",
-   "sentAt": "2026-10-23T11:59:52.203+09:00",
-   "saving": 22,
-   "baseline": 25110,
-   "baselineNote": "판매글 6곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2912488721"
   }
  ]
 }
