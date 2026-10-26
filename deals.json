@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-26T09:35:46.673+09:00",
+ "updated": "2026-10-26T09:56:28.032+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1349355470",
+   "mall": "쿠팡",
+   "title": "일리윤 세라마이드 아토로션 무향, 350ml, 1개",
+   "price": 7620,
+   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/e07d212a-1e06-4c72-90ca-daeea13e74b812609888627726851017.png",
+   "sentAt": "2026-10-26T09:56:27.447+09:00",
+   "saving": 31,
+   "baseline": 11120,
+   "baselineNote": "532곳 중 최저",
+   "link": "https://link.coupang.com/a/h9shn1TEku"
+  },
   {
    "uid": "8465893578",
    "mall": "지마켓",
@@ -736,18 +748,6 @@
    "sentAt": "2026-10-23T12:21:30.266+09:00",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4801865876"
-  },
-  {
-   "uid": "2024781109",
-   "mall": "쿠팡",
-   "title": "그린핑거 힘센보습 에센셜 유아로션 300ml 8,900원",
-   "price": 8900,
-   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2024/06/13/15/4/d1ded41e-ebb1-4e98-9d48-a9cd68b71314.png",
-   "sentAt": "2026-10-23T12:03:02.731+09:00",
-   "saving": 34,
-   "baseline": 13430,
-   "baselineNote": "다른 곳 최저",
-   "link": "https://link.coupang.com/a/h4CzjrLbuC"
   }
  ]
 }
