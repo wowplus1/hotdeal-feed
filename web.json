@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-27T21:31:09.934+09:00",
- "count": 90,
+ "updated": "2026-10-27T22:16:30.673+09:00",
+ "count": 91,
  "items": [
+  {
+   "uid": "6318416439",
+   "mall": "쿠팡",
+   "title": "qcy 멜로 버즈 n65 블루투스 이어폰 ht21",
+   "price": 31190,
+   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/def6/21e572379e9e2b669134f12a71f36793406c5a2a9b9942c9a7b2d8fcaa0d.png",
+   "sentAt": "2026-10-27T22:16:30.673+09:00",
+   "saving": 27,
+   "baseline": 42960,
+   "baselineNote": "판매글 13곳 최저가",
+   "link": "https://link.coupang.com/a/ibX3a1oVm8",
+   "web": true
+  },
   {
    "uid": "8838650988",
    "mall": "지마켓",
