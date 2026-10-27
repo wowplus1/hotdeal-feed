@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-28T08:09:57.242+09:00",
+ "updated": "2026-10-28T08:37:33.505+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5057666584",
+   "mall": "토스쇼핑",
+   "title": "맛생각 시골 전통 된장찌개, 600g, 5개",
+   "price": 15010,
+   "image": "https://shopping.toss.im/live/temp/2026-06-15/a8bbce69-1c12-4b6f-915a-53a9bbc47f2f.jpeg",
+   "sentAt": "2026-10-28T08:37:32.935+09:00",
+   "unit": "[object Object]",
+   "link": "https://toss.im/_m/b98kpLe2"
+  },
   {
    "uid": "1857829461",
    "mall": "쿠팡",
@@ -739,19 +749,6 @@
    "baselineNote": "판매글 4곳 최저가",
    "unit": "[object Object]",
    "link": "https://toss.shopping/_m/Bdb4wT8C"
-  },
-  {
-   "uid": "8986328144",
-   "mall": "쿠팡",
-   "title": "오레오 초콜릿 샌드위치 쿠키 화이트크림, 100g, 4개",
-   "price": 3520,
-   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/f4250ee0-56cf-4cd6-919b-c53576d151031725052359311958564.png",
-   "sentAt": "2026-10-23T18:11:07.050+09:00",
-   "saving": 50,
-   "baseline": 7070,
-   "baselineNote": "9곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/h42UQeIKei"
   }
  ]
 }
