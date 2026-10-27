@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-28T00:54:39.607+09:00",
- "count": 92,
+ "updated": "2026-10-28T01:10:25.480+09:00",
+ "count": 93,
  "items": [
+  {
+   "uid": "1612849942",
+   "mall": "쿠팡",
+   "title": "뉴트로지나 딥 클린 브라이트닝 포밍 클렌저, 150g",
+   "price": 3350,
+   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/74629869702496-13e9c78b-d41c-4270-a287-9c0c427c2c19.jpg",
+   "sentAt": "2026-10-28T01:10:25.480+09:00",
+   "saving": 74,
+   "baseline": 12825,
+   "baselineNote": "판매글 8곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/icauaxPj8S",
+   "web": true
+  },
   {
    "uid": "7441100937",
    "mall": "쿠팡",
