@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-27T22:16:30.673+09:00",
- "count": 91,
+ "updated": "2026-10-28T00:54:39.607+09:00",
+ "count": 92,
  "items": [
+  {
+   "uid": "7441100937",
+   "mall": "쿠팡",
+   "title": "뿌셔뿌셔 바베큐맛, 90g, 15개",
+   "price": 9770,
+   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/160023752884109-ca5bca31-5fe0-4111-875f-8825bd282917.jpg",
+   "sentAt": "2026-10-28T00:54:39.607+09:00",
+   "saving": 29,
+   "baseline": 13800,
+   "baselineNote": "판매글 6곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/ib9lMwEX24",
+   "web": true
+  },
   {
    "uid": "6318416439",
    "mall": "쿠팡",
