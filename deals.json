@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-28T07:10:34.846+09:00",
+ "updated": "2026-10-28T07:11:35.830+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3565823736",
+   "mall": "쿠팡",
+   "title": "쿠크다스 쵸코케이크 202g 1개",
+   "price": 2390,
+   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/08/21/15/9/a7181400-52a5-4f24-88b6-faa505f3ab92.jpg",
+   "sentAt": "2026-10-28T07:11:35.312+09:00",
+   "saving": 35,
+   "baseline": 3670,
+   "baselineNote": "9곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/icAhntBzzw"
+  },
   {
    "uid": "5555330198",
    "mall": "쿠팡",
@@ -738,18 +751,6 @@
    "baseline": 26060,
    "baselineNote": "판매글 10곳 최저가",
    "link": "https://toss.shopping/_m/PeOT1yi2"
-  },
-  {
-   "uid": "8399447834",
-   "mall": "쿠팡",
-   "title": "밀크바오밥 베이비, 파우더 헤어 트리트먼트, 1L, 1개",
-   "price": 7320,
-   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/945b3798-8920-45f3-acc6-1d5060fc7ec36067902173525645599.png",
-   "sentAt": "2026-10-23T13:19:35.377+09:00",
-   "saving": 51,
-   "baseline": 14860,
-   "baselineNote": "33곳 중 최저",
-   "link": "https://link.coupang.com/a/h4H4eLZGCa"
   }
  ]
 }
