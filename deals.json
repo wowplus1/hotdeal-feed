@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-27T21:20:01.737+09:00",
+ "updated": "2026-10-28T07:05:24.459+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4768369418",
+   "mall": "쿠팡",
+   "title": "케라시스 데빌스 퍼퓸 샴푸 고저스 머스크 1L*1개",
+   "price": 6490,
+   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/df7b/ecd50c1863f0e1a0a29c8d329a41b251afbe9bf991294e1ea822a681202b.jpg",
+   "sentAt": "2026-10-28T07:05:23.654+09:00",
+   "saving": 31,
+   "baseline": 9440,
+   "baselineNote": "37곳 중 최저",
+   "link": "https://link.coupang.com/a/gxG3HweFJQ"
+  },
   {
    "uid": "2410851705",
    "mall": "쿠팡",
@@ -738,19 +750,6 @@
    "baselineNote": "판매글 12곳 최저가",
    "unit": "[object Object]",
    "link": "https://toss.shopping/_m/d7RysYND"
-  },
-  {
-   "uid": "8582178895",
-   "mall": "토스쇼핑",
-   "title": "고당도 극조생 제주감귤, 로얄과, 10kg, 1개",
-   "price": 11900,
-   "image": "https://shopping.toss.im/live/temp/2026-10-14/9c901376-19d6-44de-b298-9091f3733bef.png",
-   "sentAt": "2026-10-23T12:29:34.791+09:00",
-   "saving": 40,
-   "baseline": 19910,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/x8cqn4x8"
   }
  ]
 }
