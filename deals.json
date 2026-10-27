@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-28T07:14:10.762+09:00",
+ "updated": "2026-10-28T07:19:40.599+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1114950706",
+   "mall": "토스쇼핑",
+   "title": "빙그레 아카페라 심플리 디카페인 아메리카노, 무라벨, 400ml, 20개",
+   "price": 18190,
+   "image": "https://shopping.toss.im/live/temp/2026-08-27/74d0b228-8ec8-4281-8877-6d88b6c82d51.jpeg",
+   "sentAt": "2026-10-28T07:19:40.001+09:00",
+   "saving": 20,
+   "baseline": 22780,
+   "baselineNote": "520곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://toss.im/_m/BRJG1JTA"
+  },
   {
    "uid": "4557422668",
    "mall": "쿠팡",
@@ -739,19 +752,6 @@
    "baselineNote": "판매글 9곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4795404089"
-  },
-  {
-   "uid": "1196266749",
-   "mall": "11번가",
-   "title": "국내산 냉장 다진마늘 1kg x 2팩",
-   "price": 10890,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/1/1/0/7/7/0/uByOc/9382110770_239136346.jpg",
-   "sentAt": "2026-10-23T15:56:45.774+09:00",
-   "saving": 34,
-   "baseline": 16540,
-   "baselineNote": "다른 곳 최저",
-   "unit": "[object Object]",
-   "link": "http://app.ac/HtVvXQM73"
   }
  ]
 }
