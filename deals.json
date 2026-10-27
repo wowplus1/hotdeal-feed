@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-26T09:56:28.032+09:00",
+ "updated": "2026-10-27T21:20:01.737+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2410851705",
+   "mall": "쿠팡",
+   "title": "오뚜기 3분카레 약간 매운맛 10개",
+   "price": 10960,
+   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/78772363175556-4b810a30-debe-4462-8e31-bd56b62705ad.jpg",
+   "sentAt": "2026-10-27T21:20:00.441+09:00",
+   "saving": 23,
+   "baseline": 14320,
+   "baselineNote": "101곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/ibT0aoChVc"
+  },
   {
    "uid": "1349355470",
    "mall": "쿠팡",
@@ -738,16 +751,6 @@
    "baselineNote": "판매글 4곳 최저가",
    "unit": "[object Object]",
    "link": "https://toss.shopping/_m/x8cqn4x8"
-  },
-  {
-   "uid": "1704942031",
-   "mall": "지마켓",
-   "title": "한입 카스테라 50개입",
-   "price": 10320,
-   "image": "https://gdimg.gmarket.co.kr/4801865876/goodsimage",
-   "sentAt": "2026-10-23T12:21:30.266+09:00",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4801865876"
   }
  ]
 }
