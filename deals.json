@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-28T07:05:24.459+09:00",
+ "updated": "2026-10-28T07:10:34.846+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5555330198",
+   "mall": "쿠팡",
+   "title": "락피도 프로바이오틱스 키즈 플러스 60p, 120g, 1개",
+   "price": 14010,
+   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1572077319772154-e8c7b116-539f-49c3-9c10-9f9a78d32272.jpg",
+   "sentAt": "2026-10-28T07:10:34.084+09:00",
+   "saving": 39,
+   "baseline": 23100,
+   "baselineNote": "판매글 17곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hyLevpurkG"
+  },
   {
    "uid": "4768369418",
    "mall": "쿠팡",
@@ -737,19 +750,6 @@
    "baseline": 14860,
    "baselineNote": "33곳 중 최저",
    "link": "https://link.coupang.com/a/h4H4eLZGCa"
-  },
-  {
-   "uid": "5585222628",
-   "mall": "토스쇼핑",
-   "title": "제주 극조생 감귤 산지직송, 중대과, 10kg, 1박스",
-   "price": 9900,
-   "image": "https://shopping.toss.im/live/temp/2026-10-22/b717d6d7-8c17-44ec-848b-6f08bd038d6e.jpeg",
-   "sentAt": "2026-10-23T12:32:41.768+09:00",
-   "saving": 27,
-   "baseline": 13560,
-   "baselineNote": "판매글 12곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/d7RysYND"
   }
  ]
 }
