@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-28T01:10:25.480+09:00",
- "count": 93,
+ "updated": "2026-10-28T07:30:05.157+09:00",
+ "count": 94,
  "items": [
+  {
+   "uid": "9403342186",
+   "mall": "쿠팡",
+   "title": "비타500 이온킥, 340ml, 20개",
+   "price": 12960,
+   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/06/01/16/8/fc6ed450-b55b-4464-99d0-1bdd58e93392.jpg",
+   "sentAt": "2026-10-28T07:30:05.157+09:00",
+   "saving": 21,
+   "baseline": 16370,
+   "baselineNote": "100곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gv95rIeIKG",
+   "web": true
+  },
   {
    "uid": "1612849942",
    "mall": "쿠팡",
