@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-28T22:49:49.552+09:00",
- "count": 104,
+ "updated": "2026-10-28T23:35:44.591+09:00",
+ "count": 105,
  "items": [
+  {
+   "uid": "1330252503",
+   "mall": "쿠팡",
+   "title": "나랑드사이다 제로 파인애플 캔, 345ml, 24개",
+   "price": 9750,
+   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/06/04/18/8/bb9e71ca-a25a-4603-af19-b0953b8c9994.jpg",
+   "sentAt": "2026-10-28T23:35:44.591+09:00",
+   "saving": 26,
+   "baseline": 13190,
+   "baselineNote": "판매글 30곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gxPkqldpzE",
+   "web": true
+  },
   {
    "uid": "3073474820",
    "mall": "롯데온",
