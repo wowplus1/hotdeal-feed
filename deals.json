@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-28T14:09:43.627+09:00",
+ "updated": "2026-10-28T14:27:10.918+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3468683668",
+   "mall": "토스쇼핑",
+   "title": "전라도 알타리 총각김치, 3kg, 1개",
+   "price": 12970,
+   "image": "https://shopping.toss.im/live/temp/2026-09-15/6584c797-e740-4ea7-9872-65183f7f5327.png",
+   "sentAt": "2026-10-28T14:27:10.212+09:00",
+   "saving": 23,
+   "baseline": 16740,
+   "baselineNote": "판매글 9곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/FrA9ebRf"
+  },
   {
    "uid": "2209190082",
    "mall": "롯데온",
@@ -737,19 +750,6 @@
    "baselineNote": "판매글 9곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4795204829"
-  },
-  {
-   "uid": "5986421451",
-   "mall": "쿠팡",
-   "title": "미에로화이바, 210ml, 10개",
-   "price": 8820,
-   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/69895864857595-b02bcd55-2074-4f23-a1e3-5d64d6cb24a7.jpg",
-   "sentAt": "2026-10-24T08:55:11.229+09:00",
-   "saving": 23,
-   "baseline": 11510,
-   "baselineNote": "26곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/h5325ujd2i"
   }
  ]
 }
