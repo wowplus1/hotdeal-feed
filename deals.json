@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-28T13:19:33.991+09:00",
+ "updated": "2026-10-28T13:26:30.705+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8768669581",
+   "mall": "쿠팡",
+   "title": "연두 요리에센스 순, 830ml, 1개",
+   "price": 6870,
+   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/1025_amir_coupang_oct_80k/6b12/5d29cd15303a09c34425fe8c7282d60b771c058cf0f84909ea2cd00d4f2b.jpg",
+   "sentAt": "2026-10-28T13:26:30.036+09:00",
+   "saving": 62,
+   "baseline": 18230,
+   "baselineNote": "판매글 5곳 최저가",
+   "link": "https://link.coupang.com/a/h5aELnWos8"
+  },
   {
    "uid": "7952908263",
    "mall": "쿠팡",
@@ -736,16 +748,6 @@
    "baselineNote": "36곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gMFKlnp4pg"
-  },
-  {
-   "uid": "3883876548",
-   "mall": "쿠팡",
-   "title": "르샤트라1802 인퓨전 초고농축 실내건조 섬유유연제 피오니부케향 리필, 2L, 2개",
-   "price": 10650,
-   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/1e32/57b5e5d737b1684803948d92ff774b48a6b24bc71855d2dc28f22267b8f0.png",
-   "sentAt": "2026-10-24T07:45:52.346+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/h5Y6qMMmPY"
   }
  ]
 }
