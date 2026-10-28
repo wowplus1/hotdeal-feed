@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-28T21:39:48.999+09:00",
+ "updated": "2026-10-29T07:17:44.738+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8859090518",
+   "mall": "쿠팡",
+   "title": "세노비스 트리플러스 3in1 프리미엄 멀티비타민, 100정, 1개",
+   "price": 25920,
+   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/958093856363818-1b1466e4-330f-45a7-8934-226e0ad08e3c.jpg",
+   "sentAt": "2026-10-29T07:17:43.966+09:00",
+   "saving": 44,
+   "baseline": 46500,
+   "baselineNote": "판매글 9곳 최저가",
+   "link": "https://link.coupang.com/a/iefCEW416G"
+  },
   {
    "uid": "1329383069",
    "mall": "롯데온",
@@ -732,19 +744,6 @@
    "baselineNote": "판매글 5곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gfsDIiIU1c"
-  },
-  {
-   "uid": "9866462155",
-   "mall": "토스쇼핑",
-   "title": "별하수 콤부차 원액, 420g, 1개",
-   "price": 10000,
-   "image": "https://shopping.toss.im/live/taca/ai/MmUwOGZh/QUk3MnJQYU04cVlXdFlhTmh3WkROYnM0dlBRNGJJcFJpVk9KRTR0VjdjeG0.png",
-   "sentAt": "2026-10-25T09:57:33.454+09:00",
-   "saving": 70,
-   "baseline": 33210,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/TPhwILYk"
   }
  ]
 }
