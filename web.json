@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-28T23:35:44.591+09:00",
- "count": 105,
+ "updated": "2026-10-29T00:12:55.661+09:00",
+ "count": 106,
  "items": [
+  {
+   "uid": "1017359484",
+   "mall": "쿠팡",
+   "title": "코카콜라 제로, 215ml, 12개",
+   "price": 4320,
+   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/3f48/cf056143d718dd417c1360c9edbb76e65dcbba5cd626feeb8bad6beac99c.jpg",
+   "sentAt": "2026-10-29T00:12:55.661+09:00",
+   "saving": 55,
+   "baseline": 9540,
+   "baselineNote": "26곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/idLiyE6Kyq",
+   "web": true
+  },
   {
    "uid": "1330252503",
    "mall": "쿠팡",
