@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-28T14:25:19.834+09:00",
- "count": 99,
+ "updated": "2026-10-28T15:00:53.025+09:00",
+ "count": 100,
  "items": [
+  {
+   "uid": "1977677262",
+   "mall": "쿠팡",
+   "title": "코카콜라 제로 제로 무라벨, 370ml, 18개",
+   "price": 14210,
+   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/763923949485522-786b0053-fb3b-4733-a8ae-e446ac716c29.jpg",
+   "sentAt": "2026-10-28T15:00:53.025+09:00",
+   "saving": 14,
+   "baseline": 16520,
+   "baselineNote": "27곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gkKwVf9qSq",
+   "web": true
+  },
   {
    "uid": "2413989798",
    "mall": "쿠팡",
