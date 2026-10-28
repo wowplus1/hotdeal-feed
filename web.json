@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-28T15:00:53.025+09:00",
- "count": 100,
+ "updated": "2026-10-28T18:50:13.458+09:00",
+ "count": 101,
  "items": [
+  {
+   "uid": "4332614643",
+   "mall": "쿠팡",
+   "title": "오리코 10Gbps 알루미늄 M.2 NVMe SATA SSD 외장하드 케이스",
+   "price": 17800,
+   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/4e9a/60d8195c8eafbf27907b1d7e3bd27c93db760ef8e1c25e7d0a89c36b4e2c.jpg",
+   "sentAt": "2026-10-28T18:50:13.458+09:00",
+   "saving": 27,
+   "baseline": 24460,
+   "baselineNote": "판매글 24곳 최저가",
+   "link": "https://link.coupang.com/a/gmINSIgbOC",
+   "web": true
+  },
   {
    "uid": "1977677262",
    "mall": "쿠팡",
