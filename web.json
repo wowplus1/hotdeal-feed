@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-28T18:50:13.458+09:00",
- "count": 101,
+ "updated": "2026-10-28T18:54:50.070+09:00",
+ "count": 102,
  "items": [
+  {
+   "uid": "2312714387",
+   "mall": "쿠팡",
+   "title": "동원 꽁치통조림 4개",
+   "price": 11240,
+   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/258978293170271-42943460-e87a-49e5-97aa-e8c1ef228076.jpg",
+   "sentAt": "2026-10-28T18:54:50.070+09:00",
+   "saving": 55,
+   "baseline": 24750,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/idowJkY7Xg",
+   "web": true
+  },
   {
    "uid": "4332614643",
    "mall": "쿠팡",
