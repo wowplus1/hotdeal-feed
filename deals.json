@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-28T21:34:31.015+09:00",
+ "updated": "2026-10-28T21:39:48.999+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1329383069",
+   "mall": "롯데온",
+   "title": "제철 고당도 황금사과 꿀사과 시나노골드 2kg/5kg내외",
+   "price": 10170,
+   "image": "https://contents.lotteon.com/itemimage/20261027112103/LO/28/01/82/79/91/_2/80/18/27/99/2/LO2801827991_2801827992_1.jpg",
+   "sentAt": "2026-10-28T21:39:48.305+09:00",
+   "saving": 37,
+   "baseline": 16020,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/AtVjC8M53"
+  },
   {
    "uid": "5946082707",
    "mall": "쿠팡",
@@ -732,19 +745,6 @@
    "baselineNote": "판매글 5곳 최저가",
    "unit": "[object Object]",
    "link": "https://toss.shopping/_m/TPhwILYk"
-  },
-  {
-   "uid": "5810523546",
-   "mall": "쿠팡",
-   "title": "코카콜라 오리지널, 350ml, 24개",
-   "price": 18690,
-   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/68357096027416-cc28db91-a4e9-4842-813a-3687cbff7e07.jpg",
-   "sentAt": "2026-10-25T08:34:47.811+09:00",
-   "saving": 41,
-   "baseline": 31490,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gureSB4i1A"
   }
  ]
 }
