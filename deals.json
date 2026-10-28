@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-28T16:58:00.994+09:00",
+ "updated": "2026-10-28T17:30:15.031+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3426742587",
+   "mall": "롯데온",
+   "title": "올라 츄이 프로틴바 피넛카카오 35g x 8개",
+   "price": 6900,
+   "image": "https://contents.lotteon.com/itemimage/20261028165615/LO/27/50/07/73/70/_2/75/00/77/37/1/LO2750077370_2750077371_1.jpg",
+   "sentAt": "2026-10-28T17:30:14.458+09:00",
+   "saving": 45,
+   "baseline": 12464,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/qAGELQ563"
+  },
   {
    "uid": "1540690074",
    "mall": "토스쇼핑",
@@ -738,19 +751,6 @@
    "baselineNote": "다른 곳 최저",
    "unit": "[object Object]",
    "link": "https://toss.shopping/_m/jXQftPE3"
-  },
-  {
-   "uid": "7460649003",
-   "mall": "쿠팡",
-   "title": "락피도 철분 액상 30포, 240ml, 1개",
-   "price": 11440,
-   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/4249/4a4fae6fd72372b29cfb285e0042dda8f7c9969b4a08e4e5e704ca657988.jpg",
-   "sentAt": "2026-10-24T14:02:36.227+09:00",
-   "saving": 34,
-   "baseline": 17320,
-   "baselineNote": "판매글 15곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gfrduP4BTE"
   }
  ]
 }
