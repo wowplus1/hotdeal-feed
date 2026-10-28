@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-28T15:25:01.629+09:00",
+ "updated": "2026-10-28T16:14:50.630+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2366073466",
+   "mall": "지마켓",
+   "title": "국내산 활새우 1kg 왕새우",
+   "price": 15880,
+   "image": "https://gdimg.gmarket.co.kr/4878975678/goodsimage",
+   "sentAt": "2026-10-28T16:14:50.067+09:00",
+   "saving": 24,
+   "baseline": 20900,
+   "baselineNote": "판매글 9곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4878975678"
+  },
   {
    "uid": "5918736389",
    "mall": "쿠팡",
@@ -737,19 +750,6 @@
    "baseline": 16110,
    "baselineNote": "판매글 5곳 최저가",
    "link": "https://link.coupang.com/a/h6pSrJikA8"
-  },
-  {
-   "uid": "4332956724",
-   "mall": "토스쇼핑",
-   "title": "일동후디스 하이뮨 프로틴 밸런스 액티브, 바닐라봉봉 제로, 250ml, 18개",
-   "price": 19800,
-   "image": "https://shopping.toss.im/live/temp/2026-03-11/b73bee44-7266-4a77-a56e-8e7bcd10a143.jpeg",
-   "sentAt": "2026-10-24T10:20:43.397+09:00",
-   "saving": 26,
-   "baseline": 26900,
-   "baselineNote": "52곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/3toNyWDD"
   }
  ]
 }
