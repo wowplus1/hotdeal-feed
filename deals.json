@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-28T12:47:37.479+09:00",
+ "updated": "2026-10-28T13:19:33.991+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7952908263",
+   "mall": "쿠팡",
+   "title": "평창수 무라벨 생수, 2L, 24개",
+   "price": 11680,
+   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/459497738488671-4b23932d-51a4-449e-a8d8-548412b51aae.jpg",
+   "sentAt": "2026-10-28T13:19:33.445+09:00",
+   "saving": 41,
+   "baseline": 19940,
+   "baselineNote": "판매글 12곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/ic0APRB6dM"
+  },
   {
    "uid": "9452737411",
    "mall": "토스쇼핑",
@@ -733,19 +746,6 @@
    "sentAt": "2026-10-24T07:45:52.346+09:00",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/h5Y6qMMmPY"
-  },
-  {
-   "uid": "5945338875",
-   "mall": "토스쇼핑",
-   "title": "스파클 생수, 무라벨, 500ml, 80개",
-   "price": 11900,
-   "image": "https://shopping.toss.im/live/temp/2026-03-09/1ca62748-4d8c-4131-a992-6f968acf7829.jpeg",
-   "sentAt": "2026-10-24T07:28:04.700+09:00",
-   "saving": 22,
-   "baseline": 15310,
-   "baselineNote": "135곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://toss.im/_m/7VW0FqpB"
   }
  ]
 }
