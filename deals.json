@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-29T07:17:44.738+09:00",
+ "updated": "2026-10-29T07:22:01.921+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4029279629",
+   "mall": "쿠팡",
+   "title": "어메이징오트 언스위트, 190ml, 24개",
+   "price": 10870,
+   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/0bd6/e5de94f65093969e229a4d11aee238e462abda727234f2a3d112bdfac96f.png",
+   "sentAt": "2026-10-29T07:22:01.347+09:00",
+   "saving": 22,
+   "baseline": 13950,
+   "baselineNote": "184곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gl3CLij06n"
+  },
   {
    "uid": "8859090518",
    "mall": "쿠팡",
@@ -731,19 +744,6 @@
    "baseline": 12510,
    "baselineNote": "판매글 4곳 최저가",
    "link": "http://app.ac/6AGQy9513"
-  },
-  {
-   "uid": "6588448441",
-   "mall": "쿠팡",
-   "title": "우리차 콘푸레이크 천마차 18g*110개입*1개",
-   "price": 11500,
-   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/94fa/a6e50e89be72ff463e891112367bf049a95c1fb563f837727df8e7efd9b3.jpg",
-   "sentAt": "2026-10-25T11:02:56.695+09:00",
-   "saving": 31,
-   "baseline": 16560,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gfsDIiIU1c"
   }
  ]
 }
