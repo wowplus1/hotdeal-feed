@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-29T08:15:14.791+09:00",
+ "updated": "2026-10-29T08:18:05.690+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2534301171",
+   "mall": "토스쇼핑",
+   "title": "이롬 황성주박사의 무가당 국내산 약콩 두유, 190ml, 16팩, 4박스",
+   "price": 25730,
+   "image": "https://shopping.toss.im/live/temp/2026-08-11/c7461f42-fe9e-4705-842c-3fbccba21f80.png",
+   "sentAt": "2026-10-29T08:18:04.894+09:00",
+   "saving": 40,
+   "baseline": 43110,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/jqRRy6jC"
+  },
   {
    "uid": "9671578496",
    "mall": "쿠팡",
@@ -729,19 +742,6 @@
    "baselineNote": "판매글 4곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2615803488"
-  },
-  {
-   "uid": "2549719783",
-   "mall": "롯데온",
-   "title": "Dining K 코스트코 김치 토마토 페스토 430g x 2병",
-   "price": 13860,
-   "image": "https://contents.lotteon.com/itemimage/20261023095904/LO/27/98/51/49/04/_2/79/85/14/90/5/LO2798514904_2798514905_3.png",
-   "sentAt": "2026-10-25T11:15:57.203+09:00",
-   "saving": 25,
-   "baseline": 18440,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/T3MZxyJ83"
   }
  ]
 }
