@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-28T09:49:40.559+09:00",
+ "updated": "2026-10-28T10:06:58.704+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1687273287",
+   "mall": "GS SHOP",
+   "title": "리얼프라이스 3겹 화장지 27m x 30롤 x 1팩",
+   "price": 11900,
+   "image": "https://asset.m-gs.kr/prod/1134512880/1/280",
+   "sentAt": "2026-10-28T10:06:57.973+09:00",
+   "saving": 21,
+   "baseline": 15030,
+   "baselineNote": "판매글 14곳 최저가",
+   "link": "http://app.ac/ljwvLSa53"
+  },
   {
    "uid": "4443056013",
    "mall": "롯데온",
@@ -737,18 +749,6 @@
    "baseline": 58710,
    "baselineNote": "4곳 중 최저 · 무료배송",
    "link": "http://app.ac/hqneuC273"
-  },
-  {
-   "uid": "8768669581",
-   "mall": "쿠팡",
-   "title": "연두 요리에센스 순, 830ml, 1개",
-   "price": 6700,
-   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/1025_amir_coupang_oct_80k/6b12/5d29cd15303a09c34425fe8c7282d60b771c058cf0f84909ea2cd00d4f2b.jpg",
-   "sentAt": "2026-10-23T19:59:49.948+09:00",
-   "saving": 63,
-   "baseline": 18230,
-   "baselineNote": "판매글 5곳 최저가",
-   "link": "https://link.coupang.com/a/h5aELnWos8"
   }
  ]
 }
