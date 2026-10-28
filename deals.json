@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-28T18:18:06.957+09:00",
+ "updated": "2026-10-28T18:20:43.364+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3610509789",
+   "mall": "롯데온",
+   "title": "그린티 아미노 수분 클렌징 폼 150g 2개 1+1",
+   "price": 9470,
+   "image": "https://contents.lotteon.com/itemimage/20260915172747/LO/24/28/38/65/37/_2/42/83/86/53/8/LO2428386537_2428386538_1.jpg",
+   "sentAt": "2026-10-28T18:20:42.706+09:00",
+   "saving": 43,
+   "baseline": 16720,
+   "baselineNote": "판매글 5곳 최저가",
+   "link": "http://app.ac/k3MnrZJ33"
+  },
   {
    "uid": "3274983858",
    "mall": "쿠팡",
@@ -735,19 +747,6 @@
    "baseline": 10350,
    "baselineNote": "판매글 31곳 최저가",
    "link": "https://toss.shopping/_m/NWkR52d6"
-  },
-  {
-   "uid": "7974624019",
-   "mall": "토스쇼핑",
-   "title": "논앤밭위드 삼시쉐귀리 귀리쉐이크, 검은콩, 20g, 30개",
-   "price": 8900,
-   "image": "https://shopping.toss.im/live/taca/ai/v2/OGIxNjYx/QUpydDdWTlVzcXRzVXoyMVlockZ0VHRLVXJTcmFVMjBzazJ1clVWVG9SdFU.png",
-   "sentAt": "2026-10-24T19:23:28.949+09:00",
-   "saving": 22,
-   "baseline": 11400,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://toss.im/_m/N6P1TtVy"
   }
  ]
 }
