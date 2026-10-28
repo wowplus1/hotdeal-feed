@@ -1,7 +1,16 @@
 {
- "updated": "2026-10-29T07:22:01.921+09:00",
+ "updated": "2026-10-29T07:53:17.229+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9472214678",
+   "mall": "쿠팡",
+   "title": "스탠리 퀜처 H2.0 플로우 스테이트 텀블러 1.18L*1개",
+   "price": 25920,
+   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1309377750142456-f7174679-2e3a-47f6-acef-5dfcba30e6d9.jpg",
+   "sentAt": "2026-10-29T07:53:16.622+09:00",
+   "link": "https://link.coupang.com/a/ieiahtx2Z2"
+  },
   {
    "uid": "4029279629",
    "mall": "쿠팡",
@@ -732,18 +741,6 @@
    "baseline": 1250,
    "baselineNote": "판매글 5곳 최저가",
    "link": "https://link.coupang.com/a/h7SXkFtiVM"
-  },
-  {
-   "uid": "6368011752",
-   "mall": "롯데온",
-   "title": "야들야들 구수한 양구 펀치볼 삶은 시래기 1kg/2kg",
-   "price": 9900,
-   "image": "https://contents.lotteon.com/itemimage/20261022173107/LO/27/44/82/20/30/_2/74/48/22/03/1/LO2744822030_2744822031_3.jpg",
-   "sentAt": "2026-10-25T11:10:30.855+09:00",
-   "saving": 21,
-   "baseline": 12510,
-   "baselineNote": "판매글 4곳 최저가",
-   "link": "http://app.ac/6AGQy9513"
   }
  ]
 }
