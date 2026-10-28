@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-28T16:14:50.630+09:00",
+ "updated": "2026-10-28T16:58:00.994+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1540690074",
+   "mall": "토스쇼핑",
+   "title": "청우 초코파이 찰떡, 860g, 1박스",
+   "price": 9270,
+   "image": "https://shopping.toss.im/live/taca/ai/v2/NmMxYzc5/VjhFcUg5WTVxWFM2dEJITlZwNnBhVmN3Q3EwTldpUzErbUFjUEFMRGQ0WT0.png",
+   "sentAt": "2026-10-28T16:58:00.104+09:00",
+   "saving": 43,
+   "baseline": 16340,
+   "baselineNote": "판매글 10곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://toss.im/_m/NEaRnrWk"
+  },
   {
    "uid": "2366073466",
    "mall": "지마켓",
@@ -738,18 +751,6 @@
    "baselineNote": "판매글 15곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gfrduP4BTE"
-  },
-  {
-   "uid": "2388190337",
-   "mall": "쿠팡",
-   "title": "QCY T31 멜로버즈 네오 LED디스플레이 블루투스 이어폰",
-   "price": 9900,
-   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/65477895780594-f2b7a399-a62e-4a1b-b38c-52be9e08b716.jpg",
-   "sentAt": "2026-10-24T14:00:18.110+09:00",
-   "saving": 39,
-   "baseline": 16110,
-   "baselineNote": "판매글 5곳 최저가",
-   "link": "https://link.coupang.com/a/h6pSrJikA8"
   }
  ]
 }
