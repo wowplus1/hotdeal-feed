@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-29T00:15:00.292+09:00",
- "count": 107,
+ "updated": "2026-10-29T00:56:27.622+09:00",
+ "count": 108,
  "items": [
+  {
+   "uid": "9153323175",
+   "mall": "11번가",
+   "title": "해남절임배추 20kg 김장 절임 배추 김치",
+   "price": 30960,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/pd/v2/0/9/2/7/9/7/GgMsj/7663092797_B.webp",
+   "sentAt": "2026-10-29T00:56:27.622+09:00",
+   "saving": 20,
+   "baseline": 38690,
+   "baselineNote": "판매글 6곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/I3MFp5J63",
+   "web": true
+  },
   {
    "uid": "2119273961",
    "mall": "지마켓",
