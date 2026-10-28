@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-28T11:10:20.544+09:00",
+ "updated": "2026-10-28T11:25:31.029+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1694532451",
+   "mall": "지마켓",
+   "title": "아델라 섬유유연제 2.5L 4개",
+   "price": 8500,
+   "image": "https://gdimg.gmarket.co.kr/4861232211/goodsimage",
+   "sentAt": "2026-10-28T11:25:30.330+09:00",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4861232211"
+  },
   {
    "uid": "6942910852",
    "mall": "지마켓",
@@ -739,18 +749,6 @@
    "baselineNote": "89곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/h3kuhfY6H6"
-  },
-  {
-   "uid": "1805144768",
-   "mall": "쿠팡",
-   "title": "럽센트 플라워마켓 핸드워시 화이트튤립향 300ml*1개",
-   "price": 2450,
-   "image": "https://thumbnail1.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/897f/8abc5db752999bd8279382cde91b9bddba45980ab2dfc2749f6eb6e7f09d.jpg",
-   "sentAt": "2026-10-24T07:06:50.187+09:00",
-   "saving": 79,
-   "baseline": 11710,
-   "baselineNote": "판매글 5곳 최저가",
-   "link": "https://link.coupang.com/a/h5Wlv7lEPI"
   }
  ]
 }
