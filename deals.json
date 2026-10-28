@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-29T08:18:05.690+09:00",
+ "updated": "2026-10-29T08:18:46.272+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9315219907",
+   "mall": "쿠팡",
+   "title": "하인즈 굿 갈릭 아이올리 마요네즈, 500ml, 2개",
+   "price": 8980,
+   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1d790ab9-f063-42dd-8209-1c59f99bd95410218616184087641524.png",
+   "sentAt": "2026-10-29T08:18:45.668+09:00",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/iejT7amWYK"
+  },
   {
    "uid": "2534301171",
    "mall": "토스쇼핑",
@@ -729,19 +739,6 @@
    "baseline": 31630,
    "baselineNote": "판매글 8곳 최저가",
    "link": "https://link.coupang.com/a/gCQsws6gp2"
-  },
-  {
-   "uid": "5904831654",
-   "mall": "지마켓",
-   "title": "대추방울토마토 2KG 1~3번과",
-   "price": 10060,
-   "image": "https://gdimg.gmarket.co.kr/2615803488/goodsimage",
-   "sentAt": "2026-10-25T11:29:24.158+09:00",
-   "saving": 45,
-   "baseline": 18360,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2615803488"
   }
  ]
 }
