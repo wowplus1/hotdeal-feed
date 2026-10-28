@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-28T18:54:50.070+09:00",
- "count": 102,
+ "updated": "2026-10-28T21:49:33.033+09:00",
+ "count": 103,
  "items": [
+  {
+   "uid": "8618428830",
+   "mall": "롯데온",
+   "title": "듀오 디 드롭스7.5ml 2개 / 아기 액상 유산균 + 비타민D",
+   "price": 50400,
+   "image": "https://contents.lotteon.com/itemimage/20251025022354/LO/15/38/80/03/72/_1/53/88/00/37/3/LO1538800372_1538800373_4.jpg",
+   "sentAt": "2026-10-28T21:49:33.033+09:00",
+   "saving": 19,
+   "baseline": 62460,
+   "baselineNote": "판매글 3곳 최저가",
+   "link": "http://app.ac/NECQPDS23",
+   "web": true
+  },
   {
    "uid": "2312714387",
    "mall": "쿠팡",
