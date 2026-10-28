@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-28T11:26:29.347+09:00",
- "count": 97,
+ "updated": "2026-10-28T12:45:34.828+09:00",
+ "count": 98,
  "items": [
+  {
+   "uid": "6359371973",
+   "mall": "지마켓",
+   "title": "불스원샷 플래티넘 첨가제 5IN1 2개",
+   "price": 21960,
+   "image": "https://gdimg.gmarket.co.kr/2217959476/goodsimage",
+   "sentAt": "2026-10-28T12:45:34.828+09:00",
+   "saving": 27,
+   "baseline": 29880,
+   "baselineNote": "판매글 33곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2217959476",
+   "web": true
+  },
   {
    "uid": "6372600296",
    "mall": "쿠팡",
