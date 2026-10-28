@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-28T17:30:15.031+09:00",
+ "updated": "2026-10-28T17:31:14.309+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6900554390",
+   "mall": "지마켓",
+   "title": "드림푸드 빵굽네 수제 단팥빵 10개",
+   "price": 9790,
+   "image": "https://gdimg.gmarket.co.kr/1638313192/goodsimage",
+   "sentAt": "2026-10-28T17:31:13.616+09:00",
+   "saving": 30,
+   "baseline": 13930,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=1638313192"
+  },
   {
    "uid": "3426742587",
    "mall": "롯데온",
@@ -738,19 +751,6 @@
    "baselineNote": "32곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/h6Ab0mAM8W"
-  },
-  {
-   "uid": "9417646692",
-   "mall": "토스쇼핑",
-   "title": "네이처바이 알로에 에센스 마스크팩, 100개입, 1세트",
-   "price": 13200,
-   "image": "https://shopping.toss.im/live/temp/2026-01-02/387be3ab-6425-4464-8b70-d7431389b44c.jpeg",
-   "sentAt": "2026-10-24T16:07:36.820+09:00",
-   "saving": 49,
-   "baseline": 25800,
-   "baselineNote": "다른 곳 최저",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/jXQftPE3"
   }
  ]
 }
