@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-28T11:25:31.029+09:00",
+ "updated": "2026-10-28T12:47:37.479+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9452737411",
+   "mall": "토스쇼핑",
+   "title": "백운산 광양 햇밤 왕대, 5kg, 1박스",
+   "price": 16680,
+   "image": "https://shopping.toss.im/live/temp/2026-10-06/170e52c5-b183-4ac4-8caa-877b33a4ecfd.jpeg",
+   "sentAt": "2026-10-28T12:47:36.516+09:00",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/DvUV8uV5"
+  },
   {
    "uid": "1694532451",
    "mall": "지마켓",
@@ -736,19 +746,6 @@
    "baselineNote": "135곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://toss.im/_m/7VW0FqpB"
-  },
-  {
-   "uid": "1661849864",
-   "mall": "쿠팡",
-   "title": "오리온 예감 치즈그라탕 12p, 204g, 2개",
-   "price": 5940,
-   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/7868/a333d38d551f80cecc093e7662f80b23b92f1332b76ffb12a22f40fe12b6.jpg",
-   "sentAt": "2026-10-24T07:27:09.669+09:00",
-   "saving": 31,
-   "baseline": 8600,
-   "baselineNote": "89곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/h3kuhfY6H6"
   }
  ]
 }
