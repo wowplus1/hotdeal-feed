@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-28T18:20:43.364+09:00",
+ "updated": "2026-10-28T18:50:17.933+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1607061565",
+   "mall": "쿠팡",
+   "title": "오뚜기 사골곰탕 500g, 10개",
+   "price": 10450,
+   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/140024057638255-18289a74-2857-48bd-a290-8a5d3725f40c.png",
+   "sentAt": "2026-10-28T18:50:17.372+09:00",
+   "saving": 51,
+   "baseline": 21200,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/idoaTM32vk"
+  },
   {
    "uid": "3610509789",
    "mall": "롯데온",
@@ -735,18 +748,6 @@
    "baselineNote": "판매글 6곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gK6zhuAdHM"
-  },
-  {
-   "uid": "9626072550",
-   "mall": "토스쇼핑",
-   "title": "베라 4ZERO 팝업 뽑아쓰는 키친타올, 3겹, 100매, 9팩",
-   "price": 6543,
-   "image": "https://shopping.toss.im/live/taca/ai/v2/ODQyMGY2/SXl3OGIza2VYQk9jdzhNRWdPR2g3RXVValp0NmNKeHhad2RlRUdjT1BsND0.png",
-   "sentAt": "2026-10-24T19:23:28.949+09:00",
-   "saving": 37,
-   "baseline": 10350,
-   "baselineNote": "판매글 31곳 최저가",
-   "link": "https://toss.shopping/_m/NWkR52d6"
   }
  ]
 }
