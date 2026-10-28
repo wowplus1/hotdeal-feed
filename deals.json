@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-28T08:37:33.505+09:00",
+ "updated": "2026-10-28T09:20:16.380+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4009094420",
+   "mall": "롯데온",
+   "title": "꽃보다오징어 오리지날 230g+230g",
+   "price": 30570,
+   "image": "https://contents.lotteon.com/itemimage/20260806105528/LO/27/24/23/01/60/_2/72/42/30/16/1/LO2724230160_2724230161_1.jpg",
+   "sentAt": "2026-10-28T09:20:15.600+09:00",
+   "saving": 27,
+   "baseline": 42100,
+   "baselineNote": "판매글 8곳 최저가",
+   "link": "http://app.ac/R3MtilJ63"
+  },
   {
    "uid": "5057666584",
    "mall": "토스쇼핑",
@@ -736,19 +748,6 @@
    "baseline": 12380,
    "baselineNote": "판매글 6곳 최저가",
    "link": "https://link.coupang.com/a/h49OZsFkgC"
-  },
-  {
-   "uid": "5231825738",
-   "mall": "토스쇼핑",
-   "title": "리퀴드 핑크로즈 섬유유연제, 2.5L, 4개",
-   "price": 6900,
-   "image": "https://shopping.toss.im/live/taca/ai/v2/YjczOGIx/QU5wWW9ITzFjUGdEUUhmWTEvMGlGL0FGK08yZEIvTHdBL3dESy9ZQW4wVXI.png",
-   "sentAt": "2026-10-23T19:22:47.933+09:00",
-   "saving": 22,
-   "baseline": 8900,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/Bdb4wT8C"
   }
  ]
 }
