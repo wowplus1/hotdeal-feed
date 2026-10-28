@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-29T00:12:55.661+09:00",
- "count": 106,
+ "updated": "2026-10-29T00:15:00.292+09:00",
+ "count": 107,
  "items": [
+  {
+   "uid": "2119273961",
+   "mall": "지마켓",
+   "title": "스테비아 방울 토마토 2kg",
+   "price": 12900,
+   "image": "https://gdimg.gmarket.co.kr/4883460176/goodsimage",
+   "sentAt": "2026-10-29T00:15:00.292+09:00",
+   "saving": 33,
+   "baseline": 19350,
+   "baselineNote": "다른 곳 최저",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4883460176",
+   "web": true
+  },
   {
    "uid": "1017359484",
    "mall": "쿠팡",
