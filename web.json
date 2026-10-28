@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-28T13:51:26.658+09:00",
+ "updated": "2026-10-28T14:25:19.834+09:00",
  "count": 99,
  "items": [
+  {
+   "uid": "2413989798",
+   "mall": "쿠팡",
+   "title": "존바바토스 아티산 오 드 뚜왈렛 125ml",
+   "price": 35280,
+   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/1025_amir_coupang_oct_80k/8b8c/47705e094dd7da024c3bd4f75d161d8fc48f67ef2497d534fd10247f7f67.jpg",
+   "sentAt": "2026-10-28T14:25:19.834+09:00",
+   "saving": 42,
+   "baseline": 60630,
+   "baselineNote": "판매글 18곳 최저가",
+   "link": "https://link.coupang.com/a/hqsKqVE2eW",
+   "web": true
+  },
   {
    "uid": "1009770997",
    "mall": "롯데온",
@@ -696,19 +709,6 @@
    "baseline": 59310,
    "baselineNote": "판매글 19곳 최저가",
    "link": "https://link.coupang.com/a/h25m7wYfXE",
-   "web": true
-  },
-  {
-   "uid": "2413989798",
-   "mall": "쿠팡",
-   "title": "존바바토스 아티산 오 드 뚜왈렛 125ml",
-   "price": 34970,
-   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/1025_amir_coupang_oct_80k/8b8c/47705e094dd7da024c3bd4f75d161d8fc48f67ef2497d534fd10247f7f67.jpg",
-   "sentAt": "2026-10-22T13:39:30.746+09:00",
-   "saving": 41,
-   "baseline": 59310,
-   "baselineNote": "판매글 19곳 최저가",
-   "link": "https://link.coupang.com/a/hqsKqVE2eW",
    "web": true
   },
   {
