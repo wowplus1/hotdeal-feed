@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-28T18:04:49.950+09:00",
+ "updated": "2026-10-28T18:18:06.957+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3274983858",
+   "mall": "쿠팡",
+   "title": "스탠리 퀜처 프로투어 플립스트로 텀블러 887ml*1개",
+   "price": 21870,
+   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/514811257064771-af2db239-af31-43a2-9747-cd89656cc4fc.jpg",
+   "sentAt": "2026-10-28T18:18:06.326+09:00",
+   "saving": 55,
+   "baseline": 48600,
+   "baselineNote": "305곳 중 최저 · 무료배송",
+   "link": "https://link.coupang.com/a/idlWr4ox6O"
+  },
   {
    "uid": "6031886613",
    "mall": "11번가",
@@ -736,18 +748,6 @@
    "baselineNote": "판매글 4곳 최저가",
    "unit": "[object Object]",
    "link": "https://toss.im/_m/N6P1TtVy"
-  },
-  {
-   "uid": "8628940439",
-   "mall": "롯데온",
-   "title": "울라이크 프리미엄 덕 다운 베스트 2종 FLDJX6361",
-   "price": 40960,
-   "image": "https://contents.lotteon.com/itemimage/20261024170807/LE/12/22/64/90/63/_1/33/80/66/45/6/LE1222649063_1338066456_1.jpg",
-   "sentAt": "2026-10-24T18:35:27.177+09:00",
-   "saving": 49,
-   "baseline": 79540,
-   "baselineNote": "21곳 중 최저 · 무료배송",
-   "link": "http://app.ac/eAGQIy553"
   }
  ]
 }
