@@ -1,7 +1,16 @@
 {
- "updated": "2026-10-28T18:50:17.933+09:00",
+ "updated": "2026-10-28T19:31:15.806+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7165517661",
+   "mall": "쿠팡",
+   "title": "히든 퍼퓸 스프레이 바디로션 250ml 1개",
+   "price": 23900,
+   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/27912888520733-03fde580-f46f-488a-9553-fef59c1ca1db.png",
+   "sentAt": "2026-10-28T19:31:15.022+09:00",
+   "link": "https://link.coupang.com/a/idrahRP9iu"
+  },
   {
    "uid": "1607061565",
    "mall": "쿠팡",
@@ -735,19 +744,6 @@
    "baselineNote": "27곳 중 최저",
    "unit": "[object Object]",
    "link": "https://toss.shopping/_m/zjxaQu6x"
-  },
-  {
-   "uid": "4566494215",
-   "mall": "쿠팡",
-   "title": "가그린 어린이용 구강세정제 사과향, 380ml, 3개",
-   "price": 7110,
-   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2779441148604899-89312534-afe5-44da-9607-7c85bfe582f6.png",
-   "sentAt": "2026-10-24T20:02:57.485+09:00",
-   "saving": 52,
-   "baseline": 14710,
-   "baselineNote": "판매글 6곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gK6zhuAdHM"
   }
  ]
 }
