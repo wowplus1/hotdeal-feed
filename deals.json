@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-28T13:29:21.929+09:00",
+ "updated": "2026-10-28T14:09:43.627+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2209190082",
+   "mall": "롯데온",
+   "title": "너리싱울트라 핸드앤네일 크림 50ml",
+   "price": 7900,
+   "image": "https://contents.lotteon.com/itemimage/20261027162106/LO/28/02/92/15/31/_2/80/29/21/53/2/LO2802921531_2802921532_1.jpg",
+   "sentAt": "2026-10-28T14:09:42.744+09:00",
+   "saving": 54,
+   "baseline": 17210,
+   "baselineNote": "7곳 중 최저 · 무료배송",
+   "link": "http://app.ac/I3MF3cJ13"
+  },
   {
    "uid": "6536272739",
    "mall": "지마켓",
@@ -738,16 +750,6 @@
    "baselineNote": "26곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/h5325ujd2i"
-  },
-  {
-   "uid": "3373392913",
-   "mall": "쿠팡",
-   "title": "폰타나 나폴리 뽀모도로 토마토 파스타소스, 600g, 3개",
-   "price": 10620,
-   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/334017300259802-e5f9899e-8259-4adf-927c-428625b7e813.jpg",
-   "sentAt": "2026-10-24T08:55:11.229+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gaxBcsgqya"
   }
  ]
 }
