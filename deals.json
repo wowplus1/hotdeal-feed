@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-28T11:03:07.202+09:00",
+ "updated": "2026-10-28T11:10:20.544+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6942910852",
+   "mall": "지마켓",
+   "title": "풍년 마레 통주물 프라이팬 26cm 1+1",
+   "price": 23260,
+   "image": "https://gdimg.gmarket.co.kr/2095642659/goodsimage",
+   "sentAt": "2026-10-28T11:10:19.669+09:00",
+   "saving": 32,
+   "baseline": 33960,
+   "baselineNote": "판매글 4곳 최저가",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2095642659"
+  },
   {
    "uid": "1795451976",
    "mall": "쿠팡",
@@ -739,16 +751,6 @@
    "baseline": 11710,
    "baselineNote": "판매글 5곳 최저가",
    "link": "https://link.coupang.com/a/h5Wlv7lEPI"
-  },
-  {
-   "uid": "1819119247",
-   "mall": "쿠팡",
-   "title": "오레오 웨하스 스틱 초코, 510g, 1개",
-   "price": 10390,
-   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/983889761555206-bc10601f-3b3e-4879-9ae0-d8c5214104a6.jpg",
-   "sentAt": "2026-10-24T07:05:29.383+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gzliOo8RlQ"
   }
  ]
 }
