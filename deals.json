@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-28T19:31:15.806+09:00",
+ "updated": "2026-10-28T19:45:54.116+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9248180294",
+   "mall": "롯데온",
+   "title": "DKDJ61056 패밀리 레스터G 구스다운 롱패딩",
+   "price": 131680,
+   "image": "https://contents.lotteon.com/itemimage/20261028193745/LE/12/22/71/41/25/_1/33/81/44/30/7/LE1222714125_1338144307_1.jpg",
+   "sentAt": "2026-10-28T19:45:53.403+09:00",
+   "saving": 25,
+   "baseline": 175200,
+   "baselineNote": "68곳 중 최저 · 무료배송",
+   "link": "http://app.ac/lbp3Xcl53"
+  },
   {
    "uid": "7165517661",
    "mall": "쿠팡",
@@ -731,19 +743,6 @@
    "baseline": 93980,
    "baselineNote": "판매글 40곳 최저가",
    "link": "http://app.ac/ojwYBfa63"
-  },
-  {
-   "uid": "3793232062",
-   "mall": "토스쇼핑",
-   "title": "아이워너 맨즈 육각 아령, 10kg, 2개입, 1세트",
-   "price": 17382,
-   "image": "https://shopping.toss.im/live/taca/ai/MTU2ZjQ4/QU4wMlhuaEp6VzJGYTFiYWRMOG5FV08wT09ZR21PMDJ0R1prdkY3SHhGdlo.png",
-   "sentAt": "2026-10-24T20:03:37.180+09:00",
-   "saving": 33,
-   "baseline": 25900,
-   "baselineNote": "27곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/zjxaQu6x"
   }
  ]
 }
