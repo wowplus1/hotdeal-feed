@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-28T10:20:06.403+09:00",
- "count": 96,
+ "updated": "2026-10-28T11:26:29.347+09:00",
+ "count": 97,
  "items": [
+  {
+   "uid": "6372600296",
+   "mall": "쿠팡",
+   "title": "아쿠아시스 먹는샘물 무라벨 2L 24개",
+   "price": 9990,
+   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/74476236692591-cfffa33f-2700-49a5-98cb-5a34464a718f.jpg",
+   "sentAt": "2026-10-28T11:26:29.347+09:00",
+   "saving": 30,
+   "baseline": 14340,
+   "baselineNote": "판매글 14곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gaxSvE2QjA",
+   "web": true
+  },
   {
    "uid": "7869742441",
    "mall": "11번가",
