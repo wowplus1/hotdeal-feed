@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-29T07:49:30.590+09:00",
- "count": 109,
+ "updated": "2026-10-29T08:05:08.133+09:00",
+ "count": 110,
  "items": [
+  {
+   "uid": "2850950160",
+   "mall": "쿠팡",
+   "title": "둥지냉면 비빔냉면 162g, 4개",
+   "price": 4560,
+   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/480870394163409-600d44cc-5a1a-4ee5-8a33-14c52bdacbc1.jpg",
+   "sentAt": "2026-10-29T08:05:08.133+09:00",
+   "saving": 10,
+   "baseline": 5070,
+   "baselineNote": "144곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/iei3aTdxvw",
+   "web": true
+  },
   {
    "uid": "3526338242",
    "mall": "쿠팡",
