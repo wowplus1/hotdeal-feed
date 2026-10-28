@@ -1,7 +1,30 @@
 {
- "updated": "2026-10-28T17:50:18.284+09:00",
+ "updated": "2026-10-28T18:04:49.950+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6031886613",
+   "mall": "11번가",
+   "title": "콩앤콩 저당두유 고단백검은콩 48팩 / 식물성 프로틴 단백질영양보충제 음료수 간식 쉐이크 식단",
+   "price": 18880,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/pd/v2/0/9/9/0/9/0/HAdgk/9453099090_B.webp",
+   "sentAt": "2026-10-28T18:04:49.001+09:00",
+   "saving": 40,
+   "baseline": 31240,
+   "baselineNote": "판매글 10곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/W3MF8QJ83"
+  },
+  {
+   "uid": "8254807105",
+   "mall": "11번가",
+   "title": "삼육김 광천 재래 도시락김 4g, 32봉",
+   "price": 8900,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/8772623686/B.webp?837480050",
+   "sentAt": "2026-10-28T18:04:49.001+09:00",
+   "unit": "[object Object]",
+   "link": "http://app.ac/j3MF8aJ53"
+  },
   {
    "uid": "2186577184",
    "mall": "쿠팡",
@@ -725,32 +748,6 @@
    "baseline": 79540,
    "baselineNote": "21곳 중 최저 · 무료배송",
    "link": "http://app.ac/eAGQIy553"
-  },
-  {
-   "uid": "4547431718",
-   "mall": "토스쇼핑",
-   "title": "네이처드림 리얼 유기농 올리브오일 레몬즙 올레샷, 20ml, 14포, 4박스",
-   "price": 31100,
-   "image": "https://shopping.toss.im/live/taca/ai/v2/MDNlODE5/YXhZOGJNeVFjc3c0M005MnB5RmpFcE5rOFhrdVZNaldiSlNkNDZ5U0Z5MD0.png",
-   "sentAt": "2026-10-24T17:48:35.544+09:00",
-   "saving": 42,
-   "baseline": 53910,
-   "baselineNote": "판매글 27곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/PP3urDom"
-  },
-  {
-   "uid": "7850334072",
-   "mall": "지마켓",
-   "title": "햇반 국산쌀 누룽지닭백숙죽267G 8개 즉석죽",
-   "price": 12900,
-   "image": "https://gdimg.gmarket.co.kr/4396281818/goodsimage",
-   "sentAt": "2026-10-24T17:24:24.547+09:00",
-   "saving": 26,
-   "baseline": 17400,
-   "baselineNote": "49곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4396281818"
   }
  ]
 }
