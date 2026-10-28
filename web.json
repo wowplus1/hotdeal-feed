@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-28T09:29:20.650+09:00",
- "count": 95,
+ "updated": "2026-10-28T10:20:06.403+09:00",
+ "count": 96,
  "items": [
+  {
+   "uid": "7869742441",
+   "mall": "11번가",
+   "title": "부광약품 시린메드 에프 시린이치약 잇몸치약 무불소 125g 6개",
+   "price": 18900,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/1/7/2/8/2/8/MwAug/9448172828_239966174.webp",
+   "sentAt": "2026-10-28T10:20:06.403+09:00",
+   "saving": 14,
+   "baseline": 21910,
+   "baselineNote": "판매글 17곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/lqnUju243",
+   "web": true
+  },
   {
    "uid": "1645014006",
    "mall": "쿠팡",
