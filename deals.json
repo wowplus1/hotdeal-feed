@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-28T19:45:54.116+09:00",
+ "updated": "2026-10-28T20:27:36.273+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5027294927",
+   "mall": "토스쇼핑",
+   "title": "국내산 햇 흙생강, 특품, 3kg, 1박스",
+   "price": 16900,
+   "image": "https://shopping.toss.im/live/temp/2026-08-28/1a6ff4c3-fbd3-47ae-9058-f628554b675c.png",
+   "sentAt": "2026-10-28T20:27:35.474+09:00",
+   "saving": 30,
+   "baseline": 24110,
+   "baselineNote": "판매글 14곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/vHOvUu4c"
+  },
   {
    "uid": "9248180294",
    "mall": "롯데온",
@@ -731,18 +744,6 @@
    "baseline": 22300,
    "baselineNote": "판매글 15곳 최저가",
    "link": "https://link.coupang.com/a/hoPxPapYs0"
-  },
-  {
-   "uid": "9816627351",
-   "mall": "롯데온",
-   "title": "남성 호네그 덕다운 후디 점퍼 OMDMO4110-816",
-   "price": 55300,
-   "image": "https://contents.lotteon.com/itemimage/20261014201741/LE/12/20/56/06/00/_1/32/37/65/42/9/LE1220560600_1323765429_1.jpg",
-   "sentAt": "2026-10-24T20:40:14.300+09:00",
-   "saving": 41,
-   "baseline": 93980,
-   "baselineNote": "판매글 40곳 최저가",
-   "link": "http://app.ac/ojwYBfa63"
   }
  ]
 }
