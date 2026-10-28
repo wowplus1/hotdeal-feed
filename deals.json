@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-28T13:26:30.705+09:00",
+ "updated": "2026-10-28T13:29:21.929+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6536272739",
+   "mall": "지마켓",
+   "title": "데일리코튼 입는오버나이트 6Px6팩",
+   "price": 15800,
+   "image": "https://gdimg.gmarket.co.kr/4573967009/goodsimage",
+   "sentAt": "2026-10-28T13:29:21.413+09:00",
+   "saving": 39,
+   "baseline": 25900,
+   "baselineNote": "판매글 6곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4573967009"
+  },
   {
    "uid": "8768669581",
    "mall": "쿠팡",
@@ -735,19 +748,6 @@
    "sentAt": "2026-10-24T08:55:11.229+09:00",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gaxBcsgqya"
-  },
-  {
-   "uid": "8379824822",
-   "mall": "쿠팡",
-   "title": "샤워메이트 바디워시 유자 1.2kg* 2개",
-   "price": 6900,
-   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/9054375210891-843bb793-04fa-47b3-a1e3-b1b8fe26f74f.jpg",
-   "sentAt": "2026-10-24T07:47:43.399+09:00",
-   "saving": 23,
-   "baseline": 9000,
-   "baselineNote": "36곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gMFKlnp4pg"
   }
  ]
 }
