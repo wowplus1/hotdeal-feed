@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-29T00:56:27.622+09:00",
- "count": 108,
+ "updated": "2026-10-29T07:49:30.590+09:00",
+ "count": 109,
  "items": [
+  {
+   "uid": "3526338242",
+   "mall": "쿠팡",
+   "title": "코코팜 화이트 요구르트, 340ml, 24개",
+   "price": 11600,
+   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/785828819303658-305bdd74-00fb-4bf3-8727-b35b9f1ef975.jpg",
+   "sentAt": "2026-10-29T07:49:30.590+09:00",
+   "saving": 12,
+   "baseline": 13140,
+   "baselineNote": "909곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gfBSqFZPky",
+   "web": true
+  },
   {
    "uid": "9153323175",
    "mall": "11번가",
