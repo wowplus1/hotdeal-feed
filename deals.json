@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-29T19:19:14.673+09:00",
+ "updated": "2026-10-29T19:27:33.000+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8943811788",
+   "mall": "토스쇼핑",
+   "title": "닥터방기원 비어이스트 맥주효모 탈모샴푸, 1000ml, 2개 + 랩 탈모샴푸 8ml 샤쉐 3매 증정",
+   "price": 16130,
+   "image": "https://shopping.toss.im/live/temp/2026-10-02/820366cc-7f05-4fc9-8029-f4b739153007.png",
+   "sentAt": "2026-10-29T19:27:32.314+09:00",
+   "saving": 30,
+   "baseline": 23100,
+   "baselineNote": "판매글 8곳 최저가",
+   "link": "https://toss.shopping/_m/bvUCBZp4"
+  },
   {
    "uid": "6283951925",
    "mall": "롯데온",
@@ -721,16 +733,6 @@
    "baseline": 42100,
    "baselineNote": "판매글 8곳 최저가",
    "link": "http://app.ac/R3MtilJ63"
-  },
-  {
-   "uid": "5057666584",
-   "mall": "토스쇼핑",
-   "title": "맛생각 시골 전통 된장찌개, 600g, 5개",
-   "price": 15010,
-   "image": "https://shopping.toss.im/live/temp/2026-06-15/a8bbce69-1c12-4b6f-915a-53a9bbc47f2f.jpeg",
-   "sentAt": "2026-10-28T08:37:32.935+09:00",
-   "unit": "[object Object]",
-   "link": "https://toss.im/_m/b98kpLe2"
   }
  ]
 }
