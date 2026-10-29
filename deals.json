@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-29T18:57:06.664+09:00",
+ "updated": "2026-10-29T19:19:14.673+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6283951925",
+   "mall": "롯데온",
+   "title": "프리미엄 해남 햇곱창김 특상 100매 370g",
+   "price": 17930,
+   "image": "https://contents.lotteon.com/itemimage/20261026153941/LO/20/80/29/33/16/_2/08/02/93/31/8/LO2080293316_2080293318_1.jpg",
+   "sentAt": "2026-10-29T19:19:14.065+09:00",
+   "saving": 37,
+   "baseline": 28660,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/jEwaEnS23"
+  },
   {
    "uid": "5220071990",
    "mall": "쿠팡",
@@ -718,19 +731,6 @@
    "sentAt": "2026-10-28T08:37:32.935+09:00",
    "unit": "[object Object]",
    "link": "https://toss.im/_m/b98kpLe2"
-  },
-  {
-   "uid": "1857829461",
-   "mall": "쿠팡",
-   "title": "폰타나 그릴드 머쉬룸 크림 수프, 180g, 6개",
-   "price": 8610,
-   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/b8cc65ef-ebce-4a21-ab51-baa777a0f1101974353551975030163.png",
-   "sentAt": "2026-10-28T08:09:56.461+09:00",
-   "saving": 47,
-   "baseline": 16290,
-   "baselineNote": "2곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/icEra2J1gW"
   }
  ]
 }
