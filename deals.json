@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-29T18:34:44.641+09:00",
+ "updated": "2026-10-29T18:57:06.664+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5220071990",
+   "mall": "쿠팡",
+   "title": "파스퇴르 저온살균 우유, 900ml, 2개",
+   "price": 4180,
+   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/59203925150572-4af8897d-cb23-4e3d-97dc-8075016921ea.jpg",
+   "sentAt": "2026-10-29T18:57:06.072+09:00",
+   "saving": 60,
+   "baseline": 10410,
+   "baselineNote": "109곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/ie3Cbc1thQ"
+  },
   {
    "uid": "3009580425",
    "mall": "롯데온",
@@ -718,19 +731,6 @@
    "baselineNote": "2곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/icEra2J1gW"
-  },
-  {
-   "uid": "1114950706",
-   "mall": "토스쇼핑",
-   "title": "빙그레 아카페라 심플리 디카페인 아메리카노, 무라벨, 400ml, 20개",
-   "price": 18190,
-   "image": "https://shopping.toss.im/live/temp/2026-08-27/74d0b228-8ec8-4281-8877-6d88b6c82d51.jpeg",
-   "sentAt": "2026-10-28T07:19:40.001+09:00",
-   "saving": 20,
-   "baseline": 22780,
-   "baselineNote": "520곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://toss.im/_m/BRJG1JTA"
   }
  ]
 }
