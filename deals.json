@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-29T09:30:18.094+09:00",
+ "updated": "2026-10-29T09:32:51.878+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8756955762",
+   "mall": "쿠팡",
+   "title": "칙필에이 소스, 473ml*1개",
+   "price": 8450,
+   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/2166/4c05022c3a38020ca0cb049ab2cb8ba062a14cf398508fcdc9c0677a056c.png",
+   "sentAt": "2026-10-29T09:32:51.353+09:00",
+   "saving": 48,
+   "baseline": 16170,
+   "baselineNote": "판매글 5곳 최저가",
+   "link": "https://link.coupang.com/a/iepgm7RPci"
+  },
   {
    "uid": "9554744160",
    "mall": "지마켓",
@@ -724,19 +736,6 @@
    "baselineNote": "37곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/h8p2Iq8qui"
-  },
-  {
-   "uid": "9086422361",
-   "mall": "토스쇼핑",
-   "title": "오즈랜드 말차쿠키 화이트초코칩 콕콕, 말차맛, 12g, 30개입, 1박스",
-   "price": 9320,
-   "image": "https://shopping.toss.im/live/temp/2026-08-19/c4efd958-8e50-42f7-8092-acb9df39a0d0.jpeg",
-   "sentAt": "2026-10-25T16:32:33.577+09:00",
-   "saving": 25,
-   "baseline": 12350,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://toss.im/_m/FDmHMzA4"
   }
  ]
 }
