@@ -1,7 +1,18 @@
 {
- "updated": "2026-10-29T08:05:08.133+09:00",
- "count": 110,
+ "updated": "2026-10-29T09:29:09.281+09:00",
+ "count": 111,
  "items": [
+  {
+   "uid": "6349916394",
+   "mall": "지마켓",
+   "title": "바세린 미니 립밤 7g 3개",
+   "price": 6800,
+   "image": "https://gdimg.gmarket.co.kr/4562580482/goodsimage",
+   "sentAt": "2026-10-29T09:29:09.281+09:00",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4562580482",
+   "web": true
+  },
   {
    "uid": "2850950160",
    "mall": "쿠팡",
