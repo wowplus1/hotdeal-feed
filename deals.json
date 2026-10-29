@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-29T09:32:51.878+09:00",
+ "updated": "2026-10-29T09:59:43.608+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4240057112",
+   "mall": "토스쇼핑",
+   "title": "PN풍년 마레 피에노 프라이팬, 24cm, 1개",
+   "price": 10560,
+   "image": "https://shopping.toss.im/live/temp/2025-07-14/8143ea7f-936b-4810-b8ee-6c3f2a3045dc.jpeg",
+   "sentAt": "2026-10-29T09:59:43.029+09:00",
+   "saving": 33,
+   "baseline": 15770,
+   "baselineNote": "다른 곳 최저",
+   "link": "https://toss.shopping/_m/dTXy3v78"
+  },
   {
    "uid": "8756955762",
    "mall": "쿠팡",
@@ -723,19 +735,6 @@
    "sentAt": "2026-10-25T19:41:18.704+09:00",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/h8tayg9ZUz"
-  },
-  {
-   "uid": "8530732259",
-   "mall": "쿠팡",
-   "title": "미미네 오리지널 국물떡볶이 , 570g, 4개",
-   "price": 11610,
-   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/234522704417738-b5eac821-8fa2-4676-b863-09fe8b00d3c8.jpg",
-   "sentAt": "2026-10-25T18:58:01.956+09:00",
-   "saving": 43,
-   "baseline": 20520,
-   "baselineNote": "37곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/h8p2Iq8qui"
   }
  ]
 }
