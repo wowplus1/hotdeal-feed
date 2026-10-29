@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-29T14:02:27.359+09:00",
- "count": 115,
+ "updated": "2026-10-29T14:19:26.053+09:00",
+ "count": 116,
  "items": [
+  {
+   "uid": "1442243351",
+   "mall": "쿠팡",
+   "title": "해표 양조식초, 1.8L, 4개",
+   "price": 5760,
+   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1158870169409512-4f752a46-53f1-4d3c-ab5a-5508cc1803d6.jpg",
+   "sentAt": "2026-10-29T14:19:26.053+09:00",
+   "saving": 18,
+   "baseline": 7010,
+   "baselineNote": "99곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/ieJMGq2vU4",
+   "web": true
+  },
   {
    "uid": "3826787506",
    "mall": "쿠팡",
