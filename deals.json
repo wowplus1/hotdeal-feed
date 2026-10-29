@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-29T09:59:43.608+09:00",
+ "updated": "2026-10-29T11:05:14.842+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7359821186",
+   "mall": "롯데온",
+   "title": "무항생제 HACCP인증 자연방사 난각번호 1번 유정란 20구 계란농장",
+   "price": 8620,
+   "image": "https://contents.lotteon.com/itemimage/20260911153009/LO/27/68/12/33/38/_2/76/81/23/33/9/LO2768123338_2768123339_1.jpg",
+   "sentAt": "2026-10-29T11:05:14.086+09:00",
+   "saving": 34,
+   "baseline": 13050,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/P3Mp9yJ53"
+  },
   {
    "uid": "4240057112",
    "mall": "토스쇼핑",
@@ -725,16 +738,6 @@
    "baselineNote": "28곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/h7HSrRGX2y"
-  },
-  {
-   "uid": "8260727979",
-   "mall": "쿠팡",
-   "title": "오뚜기 오동통면 120g 10개",
-   "price": 6350,
-   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/d738/a5e8caebe6f799a2fdae74c1984c5593a9d3b032d474c0e65f06a442d66f.jpg",
-   "sentAt": "2026-10-25T19:41:18.704+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/h8tayg9ZUz"
   }
  ]
 }
