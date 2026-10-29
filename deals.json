@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-29T15:40:42.873+09:00",
+ "updated": "2026-10-29T15:54:45.637+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6387204421",
+   "mall": "지마켓",
+   "title": "B7 약산성 샴푸 1000ml 2개 + 200ml",
+   "price": 22900,
+   "image": "https://gdimg.gmarket.co.kr/1661739739/goodsimage",
+   "sentAt": "2026-10-29T15:54:44.901+09:00",
+   "saving": 23,
+   "baseline": 29680,
+   "baselineNote": "판매글 20곳 최저가",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=1661739739"
+  },
   {
    "uid": "4202589634",
    "mall": "11번가",
@@ -721,19 +733,6 @@
    "sentAt": "2026-10-26T09:17:38.006+09:00",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/h9pvJh3uo0"
-  },
-  {
-   "uid": "8018249687",
-   "mall": "롯데온",
-   "title": "건국 하이요 프로바이오틱 요거트 400g 플레인/저지방 4개 골라담기",
-   "price": 11910,
-   "image": "https://contents.lotteon.com/itemimage/20261026084241/LO/27/97/73/58/23/_2/79/77/35/82/4/LO2797735823_2797735824_1.jpg",
-   "sentAt": "2026-10-26T09:06:47.338+09:00",
-   "saving": 22,
-   "baseline": 15320,
-   "baselineNote": "판매글 23곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/VECsXDS53"
   }
  ]
 }
