@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-29T15:54:45.637+09:00",
+ "updated": "2026-10-29T16:06:41.584+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4901626682",
+   "mall": "쿠팡",
+   "title": "청정원 건강한 올리고당, 1.2kg, 2개",
+   "price": 4820,
+   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/35314669512472-c54a004e-c75c-4a9f-b756-75c490332601.jpg",
+   "sentAt": "2026-10-29T16:06:40.856+09:00",
+   "saving": 57,
+   "baseline": 11260,
+   "baselineNote": "22곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/ieLC7gmCRg"
+  },
   {
    "uid": "6387204421",
    "mall": "지마켓",
@@ -723,16 +736,6 @@
    "baselineNote": "판매글 27곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4695695417"
-  },
-  {
-   "uid": "2686721436",
-   "mall": "쿠팡",
-   "title": "오뚜기 흰밥, 210g, 12개",
-   "price": 8400,
-   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/42b9/927f66e794d86f61940c6faf1c90576f9647101e3b4d950218880f6b2a82.jpg",
-   "sentAt": "2026-10-26T09:17:38.006+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/h9pvJh3uo0"
   }
  ]
 }
