@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-29T11:05:14.842+09:00",
+ "updated": "2026-10-29T11:45:01.431+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8174484648",
+   "mall": "GS SHOP",
+   "title": "100만 역가수치 프리미엄 카무트 곡물 효소 골드 30포 3박스",
+   "price": 16900,
+   "image": "https://asset.m-gs.kr/prod/1123675501/1/280",
+   "sentAt": "2026-10-29T11:45:00.876+09:00",
+   "saving": 29,
+   "baseline": 23740,
+   "baselineNote": "11곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "http://app.ac/Tqnb7q223"
+  },
   {
    "uid": "7359821186",
    "mall": "롯데온",
@@ -725,19 +738,6 @@
    "baselineNote": "24곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "http://app.ac/03MBQdJ23"
-  },
-  {
-   "uid": "6547130488",
-   "mall": "쿠팡",
-   "title": "농심 멸치칼국수, 98g, 15개",
-   "price": 11150,
-   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/104608482080189-d3b08823-9908-48aa-b5d1-fe397d770ba7.jpg",
-   "sentAt": "2026-10-25T19:49:54.293+09:00",
-   "saving": 42,
-   "baseline": 19290,
-   "baselineNote": "28곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/h7HSrRGX2y"
   }
  ]
 }
