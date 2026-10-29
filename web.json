@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-29T13:14:28.517+09:00",
- "count": 114,
+ "updated": "2026-10-29T14:02:27.359+09:00",
+ "count": 115,
  "items": [
+  {
+   "uid": "3826787506",
+   "mall": "쿠팡",
+   "title": "오뚜기 가벼운참치 살코기, 135g, 8개",
+   "price": 12680,
+   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/725061607635400-86baecd2-3836-4377-98f4-d2f15b388336.jpg",
+   "sentAt": "2026-10-29T14:02:27.359+09:00",
+   "saving": 17,
+   "baseline": 15360,
+   "baselineNote": "46곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gaQc8YmMBE",
+   "web": true
+  },
   {
    "uid": "3599526426",
    "mall": "지마켓",
