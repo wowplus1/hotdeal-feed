@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-29T08:18:46.272+09:00",
+ "updated": "2026-10-29T09:00:47.677+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7449876205",
+   "mall": "11번가",
+   "title": "크리오 덴티메이트시즌2 콤팩트 헤드 칫솔 초극세모 칫솔 10입, 3개+증정",
+   "price": 11900,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/6421323878/B.webp?339456470",
+   "sentAt": "2026-10-29T09:00:47.111+09:00",
+   "saving": 20,
+   "baseline": 14940,
+   "baselineNote": "판매글 5곳 최저가",
+   "link": "http://app.ac/CAGilf503"
+  },
   {
    "uid": "9315219907",
    "mall": "쿠팡",
@@ -727,18 +739,6 @@
    "baselineNote": "판매글 11곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4078671072"
-  },
-  {
-   "uid": "5240940937",
-   "mall": "쿠팡",
-   "title": "바겐슈타이거 무연마제 스텐304 IH 퓨어폴리싱 케틀팟 2L*1개",
-   "price": 17670,
-   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/10/22/13/6/fe20dfe1-9bb7-4677-b35e-407e87dfd894.jpg",
-   "sentAt": "2026-10-25T13:02:28.436+09:00",
-   "saving": 44,
-   "baseline": 31630,
-   "baselineNote": "판매글 8곳 최저가",
-   "link": "https://link.coupang.com/a/gCQsws6gp2"
   }
  ]
 }
