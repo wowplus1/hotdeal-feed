@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-29T15:02:45.263+09:00",
+ "updated": "2026-10-29T15:04:28.085+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4674896416",
+   "mall": "롯데온",
+   "title": "울혼방 니트 집업 가디건 블랙 OKW2SWZU201K1",
+   "price": 19580,
+   "image": "https://contents.lotteon.com/itemimage/20261002191854/LO/26/32/08/25/80/bndl_img/LO2632082580_1.jpg",
+   "sentAt": "2026-10-29T15:04:27.198+09:00",
+   "saving": 28,
+   "baseline": 27250,
+   "baselineNote": "48곳 중 최저",
+   "link": "http://app.ac/gjw1Rwa03"
+  },
   {
    "uid": "3012232153",
    "mall": "쿠팡",
@@ -723,19 +735,6 @@
    "baselineNote": "97곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/h9kZ7FRe9Y"
-  },
-  {
-   "uid": "9598327995",
-   "mall": "쿠팡",
-   "title": "랑그리 초코 크림 샌드 132g 2개",
-   "price": 5150,
-   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/d3c6/fa3f3b258c4b2973f27a6f076cf01d72d98b9ad27586ce582ab83fd5b1ed.jpg",
-   "sentAt": "2026-10-26T08:05:29.041+09:00",
-   "saving": 37,
-   "baseline": 8170,
-   "baselineNote": "16곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/h9kk0vQk5k"
   }
  ]
 }
