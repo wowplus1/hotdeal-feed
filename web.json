@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-29T10:19:38.756+09:00",
- "count": 112,
+ "updated": "2026-10-29T11:06:32.887+09:00",
+ "count": 113,
  "items": [
+  {
+   "uid": "1196266749",
+   "mall": "11번가",
+   "title": "국내산 냉장 다진마늘 1kg x 2팩",
+   "price": 11740,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/1/1/0/7/7/0/uByOc/9382110770_239136346.jpg",
+   "sentAt": "2026-10-29T11:06:32.887+09:00",
+   "saving": 22,
+   "baseline": 15110,
+   "baselineNote": "판매글 26곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/HtVvXQM73",
+   "web": true
+  },
   {
    "uid": "3549585206",
    "mall": "11번가",
