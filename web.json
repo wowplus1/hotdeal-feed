@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-29T17:21:49.912+09:00",
- "count": 120,
+ "updated": "2026-10-29T22:07:06.511+09:00",
+ "count": 121,
  "items": [
+  {
+   "uid": "2061571964",
+   "mall": "쿠팡",
+   "title": "본아미 감자칩 김맛, 68g, 12개 7,870원",
+   "price": 7870,
+   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/32886795915200-16c8d230-aa36-4e21-8408-4fb1ef5c9de3.jpg",
+   "sentAt": "2026-10-29T22:07:06.511+09:00",
+   "saving": 34,
+   "baseline": 11880,
+   "baselineNote": "112곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/ifhdxTHPa0",
+   "web": true
+  },
   {
    "uid": "6515986083",
    "mall": "쿠팡",
