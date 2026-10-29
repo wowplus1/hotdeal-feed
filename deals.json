@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-29T16:45:21.613+09:00",
+ "updated": "2026-10-29T17:15:03.002+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3651768523",
+   "mall": "지마켓",
+   "title": "빠다코코낫 오리지날 300g 4곽",
+   "price": 10510,
+   "image": "https://gdimg.gmarket.co.kr/1579312733/goodsimage",
+   "sentAt": "2026-10-29T17:15:02.239+09:00",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=1579312733"
+  },
   {
    "uid": "8038630480",
    "mall": "쿠팡",
@@ -724,18 +734,6 @@
    "baselineNote": "101곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/ibT0aoChVc"
-  },
-  {
-   "uid": "1349355470",
-   "mall": "쿠팡",
-   "title": "일리윤 세라마이드 아토로션 무향, 350ml, 1개",
-   "price": 7620,
-   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/e07d212a-1e06-4c72-90ca-daeea13e74b812609888627726851017.png",
-   "sentAt": "2026-10-26T09:56:27.447+09:00",
-   "saving": 31,
-   "baseline": 11120,
-   "baselineNote": "532곳 중 최저",
-   "link": "https://link.coupang.com/a/h9shn1TEku"
   }
  ]
 }
