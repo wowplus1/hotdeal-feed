@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-29T09:00:47.677+09:00",
+ "updated": "2026-10-29T09:15:12.003+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9087663136",
+   "mall": "쿠팡",
+   "title": "세이코 SBTM167 솔라 라디오컨트롤 시계",
+   "price": 194840,
+   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/1034/e49d1dba36f529d7ce01cd707eb5db1b709b19bce6a5bdac28b2ef7bd9ec.jpg",
+   "sentAt": "2026-10-29T09:15:11.432+09:00",
+   "saving": 27,
+   "baseline": 268000,
+   "baselineNote": "판매글 39곳 최저가",
+   "link": "https://link.coupang.com/a/ien2Qia2CG"
+  },
   {
    "uid": "7449876205",
    "mall": "11번가",
@@ -726,19 +738,6 @@
    "baselineNote": "판매글 7곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/h8d56XsLIW"
-  },
-  {
-   "uid": "2056386605",
-   "mall": "지마켓",
-   "title": "오뚜기 진비빔면 멀티팩 4개입 4팩",
-   "price": 9450,
-   "image": "https://gdimg.gmarket.co.kr/4078671072/goodsimage",
-   "sentAt": "2026-10-25T13:54:49.087+09:00",
-   "saving": 47,
-   "baseline": 17770,
-   "baselineNote": "판매글 11곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4078671072"
   }
  ]
 }
