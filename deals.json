@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-29T17:15:03.002+09:00",
+ "updated": "2026-10-29T17:23:29.944+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8937064764",
+   "mall": "쿠팡",
+   "title": "폰타나 이탈리아 캄파니아 페투치네, 500g, 2개",
+   "price": 3480,
+   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/3807596454668-4c2241e8-2543-49f2-a231-95c265f2072f.jpg",
+   "sentAt": "2026-10-29T17:23:29.367+09:00",
+   "saving": 45,
+   "baseline": 6370,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/ieWTNAHW20"
+  },
   {
    "uid": "3651768523",
    "mall": "지마켓",
@@ -721,19 +734,6 @@
    "baseline": 9440,
    "baselineNote": "37곳 중 최저",
    "link": "https://link.coupang.com/a/gxG3HweFJQ"
-  },
-  {
-   "uid": "2410851705",
-   "mall": "쿠팡",
-   "title": "오뚜기 3분카레 약간 매운맛 10개",
-   "price": 10960,
-   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/78772363175556-4b810a30-debe-4462-8e31-bd56b62705ad.jpg",
-   "sentAt": "2026-10-27T21:20:00.441+09:00",
-   "saving": 23,
-   "baseline": 14320,
-   "baselineNote": "101곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/ibT0aoChVc"
   }
  ]
 }
