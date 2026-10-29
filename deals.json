@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-29T17:25:25.691+09:00",
+ "updated": "2026-10-29T18:00:08.575+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5115038829",
+   "mall": "토스쇼핑",
+   "title": "휴비딕 무릎보호대, HS-2, 모던 그레이, 2개",
+   "price": 12660,
+   "image": "https://shopping.toss.im/live/taca/ai/MzAwY2Mx/QUtIbjc0NDBQSHV3aEV3cU1kWHFyOEJRRHdCK1diaWhmaDRKU1JMeWdlUmQ.png",
+   "sentAt": "2026-10-29T18:00:07.875+09:00",
+   "saving": 45,
+   "baseline": 22880,
+   "baselineNote": "판매글 7곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://toss.im/_m/x7vcFcLf"
+  },
   {
    "uid": "1096631230",
    "mall": "지마켓",
@@ -719,19 +732,6 @@
    "baselineNote": "9곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/icAhntBzzw"
-  },
-  {
-   "uid": "5555330198",
-   "mall": "쿠팡",
-   "title": "락피도 프로바이오틱스 키즈 플러스 60p, 120g, 1개",
-   "price": 14010,
-   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1572077319772154-e8c7b116-539f-49c3-9c10-9f9a78d32272.jpg",
-   "sentAt": "2026-10-28T07:10:34.084+09:00",
-   "saving": 39,
-   "baseline": 23100,
-   "baselineNote": "판매글 17곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hyLevpurkG"
   }
  ]
 }
