@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-29T14:19:26.053+09:00",
- "count": 116,
+ "updated": "2026-10-29T15:39:51.241+09:00",
+ "count": 117,
  "items": [
+  {
+   "uid": "2175354619",
+   "mall": "쿠팡",
+   "title": "LG전자 4K UHD TV • 189cm • 벽걸이형 • 방문설치",
+   "price": 1200000,
+   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/09/03/15/1/c097610a-a1dd-4278-a25b-26f53c299e8a.jpg",
+   "sentAt": "2026-10-29T15:39:51.241+09:00",
+   "saving": 28,
+   "baseline": 1676600,
+   "baselineNote": "판매글 4곳 최저가",
+   "link": "https://link.coupang.com/a/iePwoAST00",
+   "web": true
+  },
   {
    "uid": "1442243351",
    "mall": "쿠팡",
