@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-29T19:27:33.000+09:00",
+ "updated": "2026-10-29T20:17:26.730+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2100838459",
+   "mall": "토스쇼핑",
+   "title": "브리오신 과일·채소용 주방세제 리필, 500ml, 2개",
+   "price": 12000,
+   "image": "https://shopping.toss.im/live/temp/2026-08-21/3822f187-2b8b-4610-b5d7-001d6815d164.png",
+   "sentAt": "2026-10-29T20:17:25.923+09:00",
+   "unit": "[object Object]",
+   "link": "https://toss.shopping/_m/53V7zP7A"
+  },
   {
    "uid": "8943811788",
    "mall": "토스쇼핑",
@@ -721,18 +731,6 @@
    "baselineNote": "47곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "http://app.ac/C3MtckJ23"
-  },
-  {
-   "uid": "4009094420",
-   "mall": "롯데온",
-   "title": "꽃보다오징어 오리지날 230g+230g",
-   "price": 30570,
-   "image": "https://contents.lotteon.com/itemimage/20260806105528/LO/27/24/23/01/60/_2/72/42/30/16/1/LO2724230160_2724230161_1.jpg",
-   "sentAt": "2026-10-28T09:20:15.600+09:00",
-   "saving": 27,
-   "baseline": 42100,
-   "baselineNote": "판매글 8곳 최저가",
-   "link": "http://app.ac/R3MtilJ63"
   }
  ]
 }
