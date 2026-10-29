@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-29T18:00:08.575+09:00",
+ "updated": "2026-10-29T18:00:48.615+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5552387236",
+   "mall": "11번가",
+   "title": "아워홈 뉴골든 치킨 가라아게 1kg x 2개",
+   "price": 14310,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9060940339/B.webp",
+   "sentAt": "2026-10-29T18:00:47.976+09:00",
+   "saving": 23,
+   "baseline": 18570,
+   "baselineNote": "파는 곳이 여기 하나",
+   "unit": "[object Object]",
+   "link": "http://app.ac/JbpWLSl93"
+  },
   {
    "uid": "5115038829",
    "mall": "토스쇼핑",
@@ -719,19 +732,6 @@
    "baselineNote": "판매글 8곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/guTnaK4uAK"
-  },
-  {
-   "uid": "3565823736",
-   "mall": "쿠팡",
-   "title": "쿠크다스 쵸코케이크 202g 1개",
-   "price": 2390,
-   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/08/21/15/9/a7181400-52a5-4f24-88b6-faa505f3ab92.jpg",
-   "sentAt": "2026-10-28T07:11:35.312+09:00",
-   "saving": 35,
-   "baseline": 3670,
-   "baselineNote": "9곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/icAhntBzzw"
   }
  ]
 }
