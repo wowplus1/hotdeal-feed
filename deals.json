@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-29T16:06:41.584+09:00",
+ "updated": "2026-10-29T16:45:21.613+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8038630480",
+   "mall": "쿠팡",
+   "title": "쁘띠첼 요거젤리 복숭아, 210g, 5개",
+   "price": 6600,
+   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/b336751b-abcd-4888-b51a-31b050224a459943279089568115374.png",
+   "sentAt": "2026-10-29T16:45:21.059+09:00",
+   "saving": 47,
+   "baseline": 12520,
+   "baselineNote": "판매글 9곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/ieQz8kLJzU"
+  },
   {
    "uid": "4901626682",
    "mall": "쿠팡",
@@ -723,19 +736,6 @@
    "baseline": 11120,
    "baselineNote": "532곳 중 최저",
    "link": "https://link.coupang.com/a/h9shn1TEku"
-  },
-  {
-   "uid": "8465893578",
-   "mall": "지마켓",
-   "title": "롯샌 파스퇴르 순우유맛 315g 4개",
-   "price": 10990,
-   "image": "https://gdimg.gmarket.co.kr/4695695417/goodsimage",
-   "sentAt": "2026-10-26T09:35:46.127+09:00",
-   "saving": 26,
-   "baseline": 14780,
-   "baselineNote": "판매글 27곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4695695417"
   }
  ]
 }
