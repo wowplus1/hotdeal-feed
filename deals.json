@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-29T09:15:12.003+09:00",
+ "updated": "2026-10-29T09:30:18.094+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9554744160",
+   "mall": "지마켓",
+   "title": "도브 뷰티바 135g 10개+증정",
+   "price": 13810,
+   "image": "https://gdimg.gmarket.co.kr/2505036149/goodsimage",
+   "sentAt": "2026-10-29T09:30:17.291+09:00",
+   "saving": 39,
+   "baseline": 22810,
+   "baselineNote": "판매글 3곳 최저가",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2505036149"
+  },
   {
    "uid": "9087663136",
    "mall": "쿠팡",
@@ -725,19 +737,6 @@
    "baselineNote": "판매글 3곳 최저가",
    "unit": "[object Object]",
    "link": "https://toss.im/_m/FDmHMzA4"
-  },
-  {
-   "uid": "2034175802",
-   "mall": "쿠팡",
-   "title": "아임리얼 100 사과 주스, 140ml, 24개",
-   "price": 11830,
-   "image": "https://t3a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/baa0fe97-acac-4782-9d93-2871296515842809773706766954410.png",
-   "sentAt": "2026-10-25T16:11:05.221+09:00",
-   "saving": 45,
-   "baseline": 21350,
-   "baselineNote": "판매글 7곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/h8d56XsLIW"
   }
  ]
 }
