@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-29T13:45:55.805+09:00",
+ "updated": "2026-10-29T14:54:19.064+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5839956679",
+   "mall": "지마켓",
+   "title": "닥터지 레드 블레미쉬 클리어 수딩크림 50mL 듀오 기프트 세트 +브라이트닝 업선 플러스20ml",
+   "price": 19980,
+   "image": "https://gdimg.gmarket.co.kr/4498501917/goodsimage",
+   "sentAt": "2026-10-29T14:54:18.300+09:00",
+   "saving": 36,
+   "baseline": 31160,
+   "baselineNote": "판매글 9곳 최저가",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4498501917"
+  },
   {
    "uid": "6371109031",
    "mall": "쿠팡",
@@ -724,19 +736,6 @@
    "baselineNote": "판매글 11곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/h9hYnnYJSS"
-  },
-  {
-   "uid": "1753560403",
-   "mall": "쿠팡",
-   "title": "갈아만든배 저칼로리, 340ml, 24개",
-   "price": 10610,
-   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/ce61/c11830fa6c09174f2361a1296ab4c6540ad01e6a88674f10ead7c902d6dc.jpg",
-   "sentAt": "2026-10-26T07:05:31.370+09:00",
-   "saving": 20,
-   "baseline": 13270,
-   "baselineNote": "312곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gkKv1IM2o0"
   }
  ]
 }
