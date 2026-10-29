@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-29T17:03:41.038+09:00",
- "count": 118,
+ "updated": "2026-10-29T17:07:51.394+09:00",
+ "count": 119,
  "items": [
+  {
+   "uid": "3591646339",
+   "mall": "하이마트",
+   "title": "갤럭시 폴드8 힌지 보호 마그넷 케이스 GP-FFF971YCATK",
+   "price": 49460,
+   "image": "https://static2.e-himart.co.kr/contents/goods/00/67/88/02/23/0067880223__GP-FFF971YCATK__M_640_640.jpg",
+   "sentAt": "2026-10-29T17:07:51.394+09:00",
+   "saving": 12,
+   "baseline": 56430,
+   "baselineNote": "판매글 3곳 최저가",
+   "link": "http://app.ac/ztVj3GM93",
+   "web": true
+  },
   {
    "uid": "7574260354",
    "mall": "쿠팡",
