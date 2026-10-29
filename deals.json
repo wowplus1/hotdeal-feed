@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-29T21:06:59.948+09:00",
+ "updated": "2026-10-30T07:17:23.824+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6305990565",
+   "mall": "쿠팡",
+   "title": "코카콜라 제로 무라벨, 370ml, 24개",
+   "price": 16700,
+   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/885a/5275afb0998711fbbbcf6aaf2e50daf49885f10e5c34208ec34c8e09e053.jpg",
+   "sentAt": "2026-10-30T07:17:22.980+09:00",
+   "saving": 24,
+   "baseline": 21870,
+   "baselineNote": "224곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gcfie4gWuy"
+  },
   {
    "uid": "2901954245",
    "mall": "쿠팡",
@@ -718,18 +731,6 @@
    "baseline": 40230,
    "baselineNote": "판매글 3곳 최저가",
    "link": "https://link.coupang.com/a/hHjCh8yvLw"
-  },
-  {
-   "uid": "1687273287",
-   "mall": "GS SHOP",
-   "title": "리얼프라이스 3겹 화장지 27m x 30롤 x 1팩",
-   "price": 11900,
-   "image": "https://asset.m-gs.kr/prod/1134512880/1/280",
-   "sentAt": "2026-10-28T10:06:57.973+09:00",
-   "saving": 21,
-   "baseline": 15030,
-   "baselineNote": "판매글 14곳 최저가",
-   "link": "http://app.ac/ljwvLSa53"
   }
  ]
 }
