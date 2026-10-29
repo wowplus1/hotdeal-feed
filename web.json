@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-29T22:14:28.227+09:00",
- "count": 121,
+ "updated": "2026-10-30T07:05:25.632+09:00",
+ "count": 122,
  "items": [
+  {
+   "uid": "2911123102",
+   "mall": "쿠팡",
+   "title": "코카콜라 제로, 490ml, 24개",
+   "price": 22160,
+   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/e59b/d9ba6390ccc9ffb059c4c22328bc5591c0fea92ab67dd81f6ac13f098650.png",
+   "sentAt": "2026-10-30T07:05:25.632+09:00",
+   "saving": 18,
+   "baseline": 27080,
+   "baselineNote": "177곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/f9zmAX1HOK",
+   "web": true
+  },
   {
    "uid": "9558116049",
    "mall": "롯데온",
