@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-29T09:29:09.281+09:00",
- "count": 111,
+ "updated": "2026-10-29T10:19:38.756+09:00",
+ "count": 112,
  "items": [
+  {
+   "uid": "3549585206",
+   "mall": "11번가",
+   "title": "국내산 햇 고춧가루 1kg 김장/요리 양념용 함평 고추가루",
+   "price": 17970,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/3/4/3/3/6/0/BXqXz/9694343360_241860559.webp",
+   "sentAt": "2026-10-29T10:19:38.756+09:00",
+   "saving": 18,
+   "baseline": 22010,
+   "baselineNote": "판매글 6곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/yECQxSS33",
+   "web": true
+  },
   {
    "uid": "6349916394",
    "mall": "지마켓",
