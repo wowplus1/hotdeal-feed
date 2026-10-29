@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-29T15:39:51.241+09:00",
- "count": 117,
+ "updated": "2026-10-29T17:03:41.038+09:00",
+ "count": 118,
  "items": [
+  {
+   "uid": "7574260354",
+   "mall": "쿠팡",
+   "title": "마이디어 미니 냉장고 44L",
+   "price": 64000,
+   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/776b/e1f9017f91773d785cf12bf0e99d8de602816438d846b9802f4911fb2ee5.png",
+   "sentAt": "2026-10-29T17:03:41.038+09:00",
+   "saving": 57,
+   "baseline": 149060,
+   "baselineNote": "판매글 7곳 최저가",
+   "link": "https://link.coupang.com/a/hUlA0hAQMe",
+   "web": true
+  },
   {
    "uid": "2175354619",
    "mall": "쿠팡",
