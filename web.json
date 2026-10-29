@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-29T17:07:51.394+09:00",
- "count": 119,
+ "updated": "2026-10-29T17:21:49.912+09:00",
+ "count": 120,
  "items": [
+  {
+   "uid": "6515986083",
+   "mall": "쿠팡",
+   "title": "에이수스 QHD ProArt Display IPS 120Hz 350cd sRGB 100 DCI P3 95 멀티스탠드 전문가용 모니터",
+   "price": 249000,
+   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/09/17/13/9/4d5f8db7-1f46-41c5-a427-0a82549a73c4.jpg",
+   "sentAt": "2026-10-29T17:21:49.912+09:00",
+   "saving": 11,
+   "baseline": 280630,
+   "baselineNote": "판매글 7곳 최저가",
+   "link": "https://link.coupang.com/a/ieWOgjWb0u",
+   "web": true
+  },
   {
    "uid": "3591646339",
    "mall": "하이마트",
