@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-29T11:06:32.887+09:00",
- "count": 113,
+ "updated": "2026-10-29T13:14:28.517+09:00",
+ "count": 114,
  "items": [
+  {
+   "uid": "3599526426",
+   "mall": "지마켓",
+   "title": "마데카 옴므 올인원 125ml 2개+쇼핑백",
+   "price": 16900,
+   "image": "https://gdimg.gmarket.co.kr/2722168983/goodsimage",
+   "sentAt": "2026-10-29T13:14:28.517+09:00",
+   "saving": 10,
+   "baseline": 18810,
+   "baselineNote": "92곳 중 최저 · 무료배송",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2722168983",
+   "web": true
+  },
   {
    "uid": "1196266749",
    "mall": "11번가",
