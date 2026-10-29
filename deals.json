@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-29T15:04:28.085+09:00",
+ "updated": "2026-10-29T15:40:42.873+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4202589634",
+   "mall": "11번가",
+   "title": "파워에이드 퍼플스톰 600ml, 20개 + 증정",
+   "price": 14810,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9539364411/B.jpg?92516770",
+   "sentAt": "2026-10-29T15:40:42.167+09:00",
+   "saving": 22,
+   "baseline": 19040,
+   "baselineNote": "463곳 중 최저 · 무료배송",
+   "link": "http://app.ac/Gbp3ZAl93"
+  },
   {
    "uid": "4674896416",
    "mall": "롯데온",
@@ -722,19 +734,6 @@
    "baselineNote": "판매글 23곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/VECsXDS53"
-  },
-  {
-   "uid": "9675078114",
-   "mall": "쿠팡",
-   "title": "오뚜기 컵누들 참깨라면 37.5g, 12개",
-   "price": 10980,
-   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1059316711399193-eb67a2fc-08d7-4b2e-9c01-02951d5b5077.png",
-   "sentAt": "2026-10-26T08:14:47.753+09:00",
-   "saving": 22,
-   "baseline": 14040,
-   "baselineNote": "97곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/h9kZ7FRe9Y"
   }
  ]
 }
