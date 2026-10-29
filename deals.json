@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-29T20:17:26.730+09:00",
+ "updated": "2026-10-29T21:06:59.948+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2901954245",
+   "mall": "쿠팡",
+   "title": "파파레서피 블레미쉬 세럼, 150ml, 1개",
+   "price": 11120,
+   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/13692609815361080-0f19251c-b022-47ab-99e3-89d2aa1cca5a.jpg",
+   "sentAt": "2026-10-29T21:06:59.356+09:00",
+   "saving": 43,
+   "baseline": 19400,
+   "baselineNote": "25곳 중 최저 · 무료배송",
+   "link": "https://link.coupang.com/a/ifcRhyx4E1"
+  },
   {
    "uid": "2100838459",
    "mall": "토스쇼핑",
@@ -718,19 +730,6 @@
    "baseline": 15030,
    "baselineNote": "판매글 14곳 최저가",
    "link": "http://app.ac/ljwvLSa53"
-  },
-  {
-   "uid": "4443056013",
-   "mall": "롯데온",
-   "title": "국내산 무항생제 자포니카 손질 민물장어 1kg 햇장어 2-3미",
-   "price": 17610,
-   "image": "https://contents.lotteon.com/itemimage/20260727165620/LO/27/33/57/63/35/_2/73/35/76/33/6/LO2733576335_2733576336_1.jpg",
-   "sentAt": "2026-10-28T09:49:39.734+09:00",
-   "saving": 37,
-   "baseline": 27740,
-   "baselineNote": "47곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "http://app.ac/C3MtckJ23"
   }
  ]
 }
