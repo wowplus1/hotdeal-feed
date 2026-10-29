@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-29T17:23:29.944+09:00",
+ "updated": "2026-10-29T17:25:25.691+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1096631230",
+   "mall": "지마켓",
+   "title": "로투스 비스코프 비스킷 50Px6개 1875g",
+   "price": 20240,
+   "image": "https://gdimg.gmarket.co.kr/4778137012/goodsimage",
+   "sentAt": "2026-10-29T17:25:25.047+09:00",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4778137012"
+  },
   {
    "uid": "8937064764",
    "mall": "쿠팡",
@@ -722,18 +732,6 @@
    "baselineNote": "판매글 17곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hyLevpurkG"
-  },
-  {
-   "uid": "4768369418",
-   "mall": "쿠팡",
-   "title": "케라시스 데빌스 퍼퓸 샴푸 고저스 머스크 1L*1개",
-   "price": 6490,
-   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/df7b/ecd50c1863f0e1a0a29c8d329a41b251afbe9bf991294e1ea822a681202b.jpg",
-   "sentAt": "2026-10-28T07:05:23.654+09:00",
-   "saving": 31,
-   "baseline": 9440,
-   "baselineNote": "37곳 중 최저",
-   "link": "https://link.coupang.com/a/gxG3HweFJQ"
   }
  ]
 }
