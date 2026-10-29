@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-29T11:55:22.992+09:00",
+ "updated": "2026-10-29T12:02:57.324+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9787146065",
+   "mall": "지마켓",
+   "title": "코디 라벤다스페셜 3겹 화장지 30롤 3팩",
+   "price": 23900,
+   "image": "https://gdimg.gmarket.co.kr/1779187785/goodsimage",
+   "sentAt": "2026-10-29T12:02:56.612+09:00",
+   "saving": 43,
+   "baseline": 42200,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=1779187785"
+  },
   {
    "uid": "6788234034",
    "mall": "쿠팡",
@@ -724,19 +737,6 @@
    "baselineNote": "142곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/h9fSItZVka"
-  },
-  {
-   "uid": "7326282370",
-   "mall": "쿠팡",
-   "title": "해피바스 오리지널컬렉션 등드름 약산성 대용량 자몽 바디워시, 1.2kg, 2개",
-   "price": 13640,
-   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/379c/c2c12228b95bb60d26ef76a88ad8203b42c727ec38d3e495bbdd2117c189.jpg",
-   "sentAt": "2026-10-25T21:13:15.541+09:00",
-   "saving": 55,
-   "baseline": 30360,
-   "baselineNote": "파는 곳이 여기 하나",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/h8zIyTkXdd"
   }
  ]
 }
