@@ -1,7 +1,33 @@
 {
- "updated": "2026-10-30T15:00:42.242+09:00",
+ "updated": "2026-10-30T15:01:26.870+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2305431584",
+   "mall": "쿠팡",
+   "title": "퍼실 딥클린 초미세세탁 라벤더젤 겸용 액체세제 리필 2l 2개",
+   "price": 12920,
+   "image": "https://t3a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/9166b985-e2eb-482e-b9ed-cb35f31a338f12419303625419161701.png",
+   "sentAt": "2026-10-30T15:01:26.159+09:00",
+   "saving": 50,
+   "baseline": 25830,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/igrF22X50T"
+  },
+  {
+   "uid": "6361568239",
+   "mall": "쿠팡",
+   "title": "덴마크 소화가 잘되는 우유 락토프리, 190ml, 24개",
+   "price": 12980,
+   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/183b/433a19d3862a79ca52a5469215f7136e5ff92ba37cccfbb4c36ca9286308.jpg",
+   "sentAt": "2026-10-30T15:01:26.159+09:00",
+   "saving": 30,
+   "baseline": 18480,
+   "baselineNote": "116곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/igrEhBolEW"
+  },
   {
    "uid": "4591058349",
    "mall": "쿠팡",
@@ -702,32 +728,6 @@
    "baselineNote": "25곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/idjXdE9obY"
-  },
-  {
-   "uid": "6900554390",
-   "mall": "지마켓",
-   "title": "드림푸드 빵굽네 수제 단팥빵 10개",
-   "price": 9790,
-   "image": "https://gdimg.gmarket.co.kr/1638313192/goodsimage",
-   "sentAt": "2026-10-28T17:31:13.616+09:00",
-   "saving": 30,
-   "baseline": 13930,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=1638313192"
-  },
-  {
-   "uid": "3426742587",
-   "mall": "롯데온",
-   "title": "올라 츄이 프로틴바 피넛카카오 35g x 8개",
-   "price": 6900,
-   "image": "https://contents.lotteon.com/itemimage/20261028165615/LO/27/50/07/73/70/_2/75/00/77/37/1/LO2750077370_2750077371_1.jpg",
-   "sentAt": "2026-10-28T17:30:14.458+09:00",
-   "saving": 45,
-   "baseline": 12464,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/qAGELQ563"
   }
  ]
 }
