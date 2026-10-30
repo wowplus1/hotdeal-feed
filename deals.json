@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-30T17:46:45.734+09:00",
+ "updated": "2026-10-30T17:54:22.262+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6216115369",
+   "mall": "쿠팡",
+   "title": "오리코 5대1 4K60Hz HDMI 어댑터 HDMI 스위치 선택기 HD-5H",
+   "price": 17000,
+   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/24ea/a006d306af91bb8eacd7280d0a195b8e6cf79465be5f35a75ceaa612df1e.jpg",
+   "sentAt": "2026-10-30T17:54:21.634+09:00",
+   "saving": 23,
+   "baseline": 21990,
+   "baselineNote": "판매글 37곳 최저가",
+   "link": "https://link.coupang.com/a/f9Akgn8KKj"
+  },
   {
    "uid": "3329051051",
    "mall": "쿠팡",
@@ -715,18 +727,6 @@
    "baseline": 16720,
    "baselineNote": "판매글 5곳 최저가",
    "link": "http://app.ac/k3MnrZJ33"
-  },
-  {
-   "uid": "3274983858",
-   "mall": "쿠팡",
-   "title": "스탠리 퀜처 프로투어 플립스트로 텀블러 887ml*1개",
-   "price": 21870,
-   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/514811257064771-af2db239-af31-43a2-9747-cd89656cc4fc.jpg",
-   "sentAt": "2026-10-28T18:18:06.326+09:00",
-   "saving": 55,
-   "baseline": 48600,
-   "baselineNote": "305곳 중 최저 · 무료배송",
-   "link": "https://link.coupang.com/a/idlWr4ox6O"
   }
  ]
 }
