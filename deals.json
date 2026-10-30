@@ -1,7 +1,16 @@
 {
- "updated": "2026-10-30T17:54:22.262+09:00",
+ "updated": "2026-10-30T18:04:19.965+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8854415149",
+   "mall": "지마켓",
+   "title": "쟌슨빌 클래식 200g 6개+마일드 200g 3개",
+   "price": 17900,
+   "image": "https://gdimg.gmarket.co.kr/4441050327/goodsimage",
+   "sentAt": "2026-10-30T18:04:19.245+09:00",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4441050327"
+  },
   {
    "uid": "6216115369",
    "mall": "쿠팡",
@@ -715,18 +724,6 @@
    "baselineNote": "판매글 3곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/idoaTM32vk"
-  },
-  {
-   "uid": "3610509789",
-   "mall": "롯데온",
-   "title": "그린티 아미노 수분 클렌징 폼 150g 2개 1+1",
-   "price": 9470,
-   "image": "https://contents.lotteon.com/itemimage/20260915172747/LO/24/28/38/65/37/_2/42/83/86/53/8/LO2428386537_2428386538_1.jpg",
-   "sentAt": "2026-10-28T18:20:42.706+09:00",
-   "saving": 43,
-   "baseline": 16720,
-   "baselineNote": "판매글 5곳 최저가",
-   "link": "http://app.ac/k3MnrZJ33"
   }
  ]
 }
