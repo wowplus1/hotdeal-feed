@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-30T09:45:34.324+09:00",
+ "updated": "2026-10-30T10:09:31.021+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2770707241",
+   "mall": "지마켓",
+   "title": "진주햄 천하장사 오리지널 15g 100개",
+   "price": 13900,
+   "image": "https://gdimg.gmarket.co.kr/2261084835/goodsimage",
+   "sentAt": "2026-10-30T10:09:30.154+09:00",
+   "saving": 21,
+   "baseline": 17670,
+   "baselineNote": "판매글 6곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2261084835"
+  },
   {
    "uid": "4151365471",
    "mall": "쿠팡",
@@ -723,16 +736,6 @@
    "sentAt": "2026-10-28T12:47:36.516+09:00",
    "unit": "[object Object]",
    "link": "https://toss.shopping/_m/DvUV8uV5"
-  },
-  {
-   "uid": "1694532451",
-   "mall": "지마켓",
-   "title": "아델라 섬유유연제 2.5L 4개",
-   "price": 8500,
-   "image": "https://gdimg.gmarket.co.kr/4861232211/goodsimage",
-   "sentAt": "2026-10-28T11:25:30.330+09:00",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4861232211"
   }
  ]
 }
