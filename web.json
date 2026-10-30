@@ -1,7 +1,18 @@
 {
- "updated": "2026-10-30T23:01:16.248+09:00",
- "count": 128,
+ "updated": "2026-10-31T00:01:09.800+09:00",
+ "count": 129,
  "items": [
+  {
+   "uid": "4067531668",
+   "mall": "11번가",
+   "title": "빙그레 아카페라 사이즈업 350ml 20입 아메리카노",
+   "price": 17960,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/3/3/8/7/1/5/ZEQmd/4302338715_241243968.webp",
+   "sentAt": "2026-10-31T00:01:09.800+09:00",
+   "unit": "[object Object]",
+   "link": "http://app.ac/Vqncyi273",
+   "web": true
+  },
   {
    "uid": "8117271406",
    "mall": "쿠팡",
