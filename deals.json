@@ -1,7 +1,16 @@
 {
- "updated": "2026-10-30T12:54:34.441+09:00",
+ "updated": "2026-10-30T13:20:16.713+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4033846475",
+   "mall": "쿠팡",
+   "title": "스탠리 퀜처 H2.0 플로우스테이트 텀블러 887ml*1개",
+   "price": 22050,
+   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1309377750142456-f7174679-2e3a-47f6-acef-5dfcba30e6d9.jpg",
+   "sentAt": "2026-10-30T13:20:16.066+09:00",
+   "link": "https://link.coupang.com/a/igkqIQ1w1A"
+  },
   {
    "uid": "6327450898",
    "mall": "쿠팡",
@@ -725,19 +734,6 @@
    "baselineNote": "판매글 22곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/ic9xqnmQxw"
-  },
-  {
-   "uid": "3468683668",
-   "mall": "토스쇼핑",
-   "title": "전라도 알타리 총각김치, 3kg, 1개",
-   "price": 12970,
-   "image": "https://shopping.toss.im/live/temp/2026-09-15/6584c797-e740-4ea7-9872-65183f7f5327.png",
-   "sentAt": "2026-10-28T14:27:10.212+09:00",
-   "saving": 23,
-   "baseline": 16740,
-   "baselineNote": "판매글 9곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/FrA9ebRf"
   }
  ]
 }
