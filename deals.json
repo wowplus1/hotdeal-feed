@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-30T08:56:27.271+09:00",
+ "updated": "2026-10-30T09:45:34.324+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4151365471",
+   "mall": "쿠팡",
+   "title": "유한락스 곰팡이제거제 510ml 3개",
+   "price": 7570,
+   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/1025_amir_coupang_oct_80k/f42b/01be20961602c5fb0d86ba7d942badebaac4a76519af0723ec4fddf70bb7.jpg",
+   "sentAt": "2026-10-30T09:45:33.771+09:00",
+   "saving": 47,
+   "baseline": 14150,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gaE939LvgW"
+  },
   {
    "uid": "9491404799",
    "mall": "쿠팡",
@@ -720,18 +733,6 @@
    "sentAt": "2026-10-28T11:25:30.330+09:00",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4861232211"
-  },
-  {
-   "uid": "6942910852",
-   "mall": "지마켓",
-   "title": "풍년 마레 통주물 프라이팬 26cm 1+1",
-   "price": 23260,
-   "image": "https://gdimg.gmarket.co.kr/2095642659/goodsimage",
-   "sentAt": "2026-10-28T11:10:19.669+09:00",
-   "saving": 32,
-   "baseline": 33960,
-   "baselineNote": "판매글 4곳 최저가",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2095642659"
   }
  ]
 }
