@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-30T16:56:07.663+09:00",
- "count": 125,
+ "updated": "2026-10-30T17:46:41.535+09:00",
+ "count": 126,
  "items": [
+  {
+   "uid": "7880755606",
+   "mall": "지마켓",
+   "title": "오디세이 OLED G8 G80SH 80cm LS32HG800",
+   "price": 1213931,
+   "image": "https://gdimg.gmarket.co.kr/4742327611/goodsimage",
+   "sentAt": "2026-10-30T17:46:41.535+09:00",
+   "saving": 24,
+   "baseline": 1590000,
+   "baselineNote": "판매글 9곳 최저가",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4742327611",
+   "web": true
+  },
   {
    "uid": "3878877253",
    "mall": "11번가",
