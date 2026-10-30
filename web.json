@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-30T15:31:12.756+09:00",
- "count": 124,
+ "updated": "2026-10-30T16:56:07.663+09:00",
+ "count": 125,
  "items": [
+  {
+   "uid": "3878877253",
+   "mall": "11번가",
+   "title": "LG 27G411BW G4 27인치 화이트 게이밍모니터 울트라기어 IPS 144Hz 지싱크 호환 3면슬림베젤 사무용 겸용",
+   "price": 144960,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/pd/v2/8/3/9/5/5/8/ErbTU/9490839558_B.webp",
+   "sentAt": "2026-10-30T16:56:07.663+09:00",
+   "saving": 31,
+   "baseline": 209000,
+   "baselineNote": "판매글 6곳 최저가",
+   "link": "http://app.ac/NEwazyS13",
+   "web": true
+  },
   {
    "uid": "9118733835",
    "mall": "지마켓",
