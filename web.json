@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-30T22:02:26.331+09:00",
- "count": 127,
+ "updated": "2026-10-30T23:01:16.248+09:00",
+ "count": 128,
  "items": [
+  {
+   "uid": "8117271406",
+   "mall": "쿠팡",
+   "title": "페브리즈 섬유탈취제 상쾌한향 본품 360ml 3개",
+   "price": 10330,
+   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/133009316430068-29761032-d321-4fb9-a5c9-22575efeb4f0.jpg",
+   "sentAt": "2026-10-30T23:01:16.248+09:00",
+   "saving": 50,
+   "baseline": 20650,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/igZYApoAMK",
+   "web": true
+  },
   {
    "uid": "8215379478",
    "mall": "쿠팡",
