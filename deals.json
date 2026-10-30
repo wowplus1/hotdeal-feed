@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-30T10:09:31.021+09:00",
+ "updated": "2026-10-30T10:10:33.370+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4831326947",
+   "mall": "쿠팡",
+   "title": "에스앤비골든 카레 아주 매운맛, 220g, 3개",
+   "price": 7470,
+   "image": "https://t3a.coupangcdn.com/thumbnails/remote/512x512ex/image/1025_amir_coupang_oct_80k/2f86/41737dbd6b950c09a46dedfc14e5e675b171fe156336f7f850deb4f0b68d.jpg",
+   "sentAt": "2026-10-30T10:10:32.854+09:00",
+   "saving": 33,
+   "baseline": 11070,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/if6SKChe9I"
+  },
   {
    "uid": "2770707241",
    "mall": "지마켓",
@@ -726,16 +739,6 @@
    "baselineNote": "판매글 12곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/ic0APRB6dM"
-  },
-  {
-   "uid": "9452737411",
-   "mall": "토스쇼핑",
-   "title": "백운산 광양 햇밤 왕대, 5kg, 1박스",
-   "price": 16680,
-   "image": "https://shopping.toss.im/live/temp/2026-10-06/170e52c5-b183-4ac4-8caa-877b33a4ecfd.jpeg",
-   "sentAt": "2026-10-28T12:47:36.516+09:00",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/DvUV8uV5"
   }
  ]
 }
