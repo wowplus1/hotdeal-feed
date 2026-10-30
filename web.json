@@ -1,7 +1,18 @@
 {
- "updated": "2026-10-30T17:46:41.535+09:00",
- "count": 126,
+ "updated": "2026-10-30T22:02:26.331+09:00",
+ "count": 127,
  "items": [
+  {
+   "uid": "8215379478",
+   "mall": "쿠팡",
+   "title": "백설 초코칩 쿠키믹스, 290g, 2개 2,980원",
+   "price": 2980,
+   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/eaaa/282b674e12d0cd165c2686bb7890f6653fa796fd605e21d9ab9fd4b34e8f.jpg",
+   "sentAt": "2026-10-30T22:02:26.331+09:00",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/igVLzT8HTg",
+   "web": true
+  },
   {
    "uid": "7880755606",
    "mall": "지마켓",
