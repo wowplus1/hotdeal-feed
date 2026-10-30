@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-31T00:44:10.914+09:00",
- "count": 130,
+ "updated": "2026-10-31T01:30:08.036+09:00",
+ "count": 131,
  "items": [
+  {
+   "uid": "5107452596",
+   "mall": "쿠팡",
+   "title": "스탠리 올데이 캐리올 퀜처 H2.0 텀블러 스트랩백 1.18L",
+   "price": 23900,
+   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/78484251199591-6d5cb2a8-6d44-4fcb-a2f8-27806f21cfb2.jpg",
+   "sentAt": "2026-10-31T01:30:08.036+09:00",
+   "saving": 55,
+   "baseline": 53100,
+   "baselineNote": "21곳 중 최저 · 무료배송",
+   "link": "https://link.coupang.com/a/ihaCMrQw8G",
+   "web": true
+  },
   {
    "uid": "8685073681",
    "mall": "지마켓",
