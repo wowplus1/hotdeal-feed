@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-30T09:50:14.009+09:00",
- "count": 122,
+ "updated": "2026-10-30T12:26:15.269+09:00",
+ "count": 123,
  "items": [
+  {
+   "uid": "6404071647",
+   "mall": "11번가",
+   "title": "코오롱 오토드 AI퓨어 3.5L 음식물처리기",
+   "price": 179000,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/8037729550/B.webp",
+   "sentAt": "2026-10-30T12:26:15.269+09:00",
+   "saving": 10,
+   "baseline": 199000,
+   "baselineNote": "판매글 8곳 최저가",
+   "link": "http://app.ac/bECqcFS83",
+   "web": true
+  },
   {
    "uid": "4213433066",
    "mall": "11번가",
