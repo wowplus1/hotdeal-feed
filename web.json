@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-31T00:01:09.800+09:00",
- "count": 129,
+ "updated": "2026-10-31T00:44:10.914+09:00",
+ "count": 130,
  "items": [
+  {
+   "uid": "8685073681",
+   "mall": "지마켓",
+   "title": "시리얼 콘푸로스트 230g x 3개",
+   "price": 9270,
+   "image": "https://gdimg.gmarket.co.kr/4257579867/goodsimage",
+   "sentAt": "2026-10-31T00:44:10.914+09:00",
+   "saving": 29,
+   "baseline": 13016,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4257579867",
+   "web": true
+  },
   {
    "uid": "4067531668",
    "mall": "11번가",
