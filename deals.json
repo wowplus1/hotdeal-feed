@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-30T10:24:30.624+09:00",
+ "updated": "2026-10-30T10:29:22.417+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1603012516",
+   "mall": "지마켓",
+   "title": "기가 마시멜로우 마일드 90g 3봉",
+   "price": 6880,
+   "image": "https://gdimg.gmarket.co.kr/4888228846/goodsimage",
+   "sentAt": "2026-10-30T10:29:21.775+09:00",
+   "saving": 24,
+   "baseline": 9000,
+   "baselineNote": "판매글 8곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4888228846"
+  },
   {
    "uid": "7987996365",
    "mall": "11번가",
@@ -727,18 +740,6 @@
    "baselineNote": "판매글 6곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4573967009"
-  },
-  {
-   "uid": "8768669581",
-   "mall": "쿠팡",
-   "title": "연두 요리에센스 순, 830ml, 1개",
-   "price": 6870,
-   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/1025_amir_coupang_oct_80k/6b12/5d29cd15303a09c34425fe8c7282d60b771c058cf0f84909ea2cd00d4f2b.jpg",
-   "sentAt": "2026-10-28T13:26:30.036+09:00",
-   "saving": 62,
-   "baseline": 18230,
-   "baselineNote": "판매글 5곳 최저가",
-   "link": "https://link.coupang.com/a/h5aELnWos8"
   }
  ]
 }
