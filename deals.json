@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-30T15:01:26.870+09:00",
+ "updated": "2026-10-30T17:09:37.532+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8182818133",
+   "mall": "지마켓",
+   "title": "신제품 몽쉘 군위사과 애플 408g 3개",
+   "price": 12260,
+   "image": "https://gdimg.gmarket.co.kr/4846647819/goodsimage",
+   "sentAt": "2026-10-30T17:09:36.517+09:00",
+   "saving": 36,
+   "baseline": 19090,
+   "baselineNote": "판매글 26곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4846647819"
+  },
   {
    "uid": "2305431584",
    "mall": "쿠팡",
@@ -715,19 +728,6 @@
    "sentAt": "2026-10-28T18:04:49.001+09:00",
    "unit": "[object Object]",
    "link": "http://app.ac/j3MF8aJ53"
-  },
-  {
-   "uid": "2186577184",
-   "mall": "쿠팡",
-   "title": "삼립 미니 꿀호떡 400g",
-   "price": 2720,
-   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/4439003126625506-2024f9f5-a09e-49ff-8114-81c9f793ee96.jpg",
-   "sentAt": "2026-10-28T17:50:17.517+09:00",
-   "saving": 52,
-   "baseline": 5690,
-   "baselineNote": "25곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/idjXdE9obY"
   }
  ]
 }
