@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-30T17:21:16.431+09:00",
+ "updated": "2026-10-30T17:46:45.734+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3329051051",
+   "mall": "쿠팡",
+   "title": "스탠리 퀜처 H2.0 플로우 스테이트 텀블러 887ml*1개",
+   "price": 19850,
+   "image": "https://thumbnail1.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1309377750142456-f7174679-2e3a-47f6-acef-5dfcba30e6d9.jpg",
+   "sentAt": "2026-10-30T17:46:45.176+09:00",
+   "saving": 55,
+   "baseline": 44100,
+   "baselineNote": "432곳 중 최저 · 무료배송",
+   "link": "https://link.coupang.com/a/igDu6C3oVF"
+  },
   {
    "uid": "5479804863",
    "mall": "11번가",
@@ -715,19 +727,6 @@
    "baseline": 48600,
    "baselineNote": "305곳 중 최저 · 무료배송",
    "link": "https://link.coupang.com/a/idlWr4ox6O"
-  },
-  {
-   "uid": "6031886613",
-   "mall": "11번가",
-   "title": "콩앤콩 저당두유 고단백검은콩 48팩 / 식물성 프로틴 단백질영양보충제 음료수 간식 쉐이크 식단",
-   "price": 18880,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/pd/v2/0/9/9/0/9/0/HAdgk/9453099090_B.webp",
-   "sentAt": "2026-10-28T18:04:49.001+09:00",
-   "saving": 40,
-   "baseline": 31240,
-   "baselineNote": "판매글 10곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/W3MF8QJ83"
   }
  ]
 }
