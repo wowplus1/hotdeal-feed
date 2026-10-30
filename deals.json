@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-30T13:20:16.713+09:00",
+ "updated": "2026-10-30T13:46:43.808+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1360277266",
+   "mall": "지마켓",
+   "title": "제주삼다수 무라벨 2L 24병",
+   "price": 17880,
+   "image": "https://gdimg.gmarket.co.kr/4789745013/goodsimage",
+   "sentAt": "2026-10-30T13:46:43.270+09:00",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4789745013"
+  },
   {
    "uid": "4033846475",
    "mall": "쿠팡",
@@ -721,19 +731,6 @@
    "baselineNote": "판매글 9곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4878975678"
-  },
-  {
-   "uid": "5918736389",
-   "mall": "쿠팡",
-   "title": "하이트진로 블랙보리 무라벨, 500ml, 20개",
-   "price": 13880,
-   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/09/17/13/0/f1e113a9-bc60-4d4f-992f-b3fd0b0411bb.png",
-   "sentAt": "2026-10-28T15:25:00.881+09:00",
-   "saving": 20,
-   "baseline": 17330,
-   "baselineNote": "판매글 22곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/ic9xqnmQxw"
   }
  ]
 }
