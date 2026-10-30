@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-30T18:09:32.287+09:00",
+ "updated": "2026-10-31T07:13:20.217+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6108997740",
+   "mall": "쿠팡",
+   "title": "스너글 스파클링 시트러스 더블 소프트 섬유탈취제 본품, 470ml, 3개",
+   "price": 10940,
+   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/32558729319534-681f8f38-93cd-4a38-bd2c-f6fb19fac80c.jpg",
+   "sentAt": "2026-10-31T07:13:19.423+09:00",
+   "saving": 61,
+   "baseline": 28100,
+   "baselineNote": "판매글 7곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/ihy8EpJGbQ"
+  },
   {
    "uid": "3689664897",
    "mall": "쿠팡",
@@ -715,15 +728,6 @@
    "baseline": 175200,
    "baselineNote": "68곳 중 최저 · 무료배송",
    "link": "http://app.ac/lbp3Xcl53"
-  },
-  {
-   "uid": "7165517661",
-   "mall": "쿠팡",
-   "title": "히든 퍼퓸 스프레이 바디로션 250ml 1개",
-   "price": 23900,
-   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/27912888520733-03fde580-f46f-488a-9553-fef59c1ca1db.png",
-   "sentAt": "2026-10-28T19:31:15.022+09:00",
-   "link": "https://link.coupang.com/a/idrahRP9iu"
   }
  ]
 }
