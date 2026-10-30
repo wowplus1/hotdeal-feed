@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-30T18:04:19.965+09:00",
+ "updated": "2026-10-30T18:09:32.287+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3689664897",
+   "mall": "쿠팡",
+   "title": "다향 1등급 훈제 오리 슬라이스, 600g, 2개",
+   "price": 17440,
+   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/5458851699897-3ce4e405-5f06-408a-952b-e424a0a534a1.jpg",
+   "sentAt": "2026-10-30T18:09:31.513+09:00",
+   "saving": 58,
+   "baseline": 41390,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/igE8FHwHC0"
+  },
   {
    "uid": "8854415149",
    "mall": "지마켓",
@@ -711,19 +724,6 @@
    "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/27912888520733-03fde580-f46f-488a-9553-fef59c1ca1db.png",
    "sentAt": "2026-10-28T19:31:15.022+09:00",
    "link": "https://link.coupang.com/a/idrahRP9iu"
-  },
-  {
-   "uid": "1607061565",
-   "mall": "쿠팡",
-   "title": "오뚜기 사골곰탕 500g, 10개",
-   "price": 10450,
-   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/140024057638255-18289a74-2857-48bd-a290-8a5d3725f40c.png",
-   "sentAt": "2026-10-28T18:50:17.372+09:00",
-   "saving": 51,
-   "baseline": 21200,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/idoaTM32vk"
   }
  ]
 }
