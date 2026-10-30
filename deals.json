@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-31T07:13:20.217+09:00",
+ "updated": "2026-10-31T07:17:57.518+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7240605582",
+   "mall": "쿠팡",
+   "title": "하이뮨 마시는 프로틴 밸런스 음료, 125ml, 24개",
+   "price": 16400,
+   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1053195983181770-6fb3ca31-c531-4dca-aa7b-8bb4f4a76dc5.jpg",
+   "sentAt": "2026-10-31T07:17:57.008+09:00",
+   "saving": 48,
+   "baseline": 31820,
+   "baselineNote": "판매글 9곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gw16nkMa6K"
+  },
   {
    "uid": "6108997740",
    "mall": "쿠팡",
@@ -716,18 +729,6 @@
    "baselineNote": "판매글 14곳 최저가",
    "unit": "[object Object]",
    "link": "https://toss.shopping/_m/vHOvUu4c"
-  },
-  {
-   "uid": "9248180294",
-   "mall": "롯데온",
-   "title": "DKDJ61056 패밀리 레스터G 구스다운 롱패딩",
-   "price": 131680,
-   "image": "https://contents.lotteon.com/itemimage/20261028193745/LE/12/22/71/41/25/_1/33/81/44/30/7/LE1222714125_1338144307_1.jpg",
-   "sentAt": "2026-10-28T19:45:53.403+09:00",
-   "saving": 25,
-   "baseline": 175200,
-   "baselineNote": "68곳 중 최저 · 무료배송",
-   "link": "http://app.ac/lbp3Xcl53"
   }
  ]
 }
