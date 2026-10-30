@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-30T17:09:37.532+09:00",
+ "updated": "2026-10-30T17:21:16.431+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5479804863",
+   "mall": "11번가",
+   "title": "오리온 크림치즈 샌드 나 77g, 10개",
+   "price": 8720,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9167438816/B.webp?27694510",
+   "sentAt": "2026-10-30T17:21:15.847+09:00",
+   "unit": "[object Object]",
+   "link": "http://app.ac/UAGrCF523"
+  },
   {
    "uid": "8182818133",
    "mall": "지마켓",
@@ -718,16 +728,6 @@
    "baselineNote": "판매글 10곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/W3MF8QJ83"
-  },
-  {
-   "uid": "8254807105",
-   "mall": "11번가",
-   "title": "삼육김 광천 재래 도시락김 4g, 32봉",
-   "price": 8900,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/8772623686/B.webp?837480050",
-   "sentAt": "2026-10-28T18:04:49.001+09:00",
-   "unit": "[object Object]",
-   "link": "http://app.ac/j3MF8aJ53"
   }
  ]
 }
