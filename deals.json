@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-30T10:10:33.370+09:00",
+ "updated": "2026-10-30T10:24:30.624+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7987996365",
+   "mall": "11번가",
+   "title": "배상면주가 무아스파탐 느린마을막걸리 750ml x 5입",
+   "price": 12430,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/2235587610/B.webp",
+   "sentAt": "2026-10-30T10:24:30.076+09:00",
+   "saving": 26,
+   "baseline": 16900,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/CqneMp273"
+  },
   {
    "uid": "4831326947",
    "mall": "쿠팡",
@@ -726,19 +739,6 @@
    "baseline": 18230,
    "baselineNote": "판매글 5곳 최저가",
    "link": "https://link.coupang.com/a/h5aELnWos8"
-  },
-  {
-   "uid": "7952908263",
-   "mall": "쿠팡",
-   "title": "평창수 무라벨 생수, 2L, 24개",
-   "price": 11680,
-   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/459497738488671-4b23932d-51a4-449e-a8d8-548412b51aae.jpg",
-   "sentAt": "2026-10-28T13:19:33.445+09:00",
-   "saving": 41,
-   "baseline": 19940,
-   "baselineNote": "판매글 12곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/ic0APRB6dM"
   }
  ]
 }
