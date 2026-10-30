@@ -1,7 +1,30 @@
 {
- "updated": "2026-10-30T10:29:22.417+09:00",
+ "updated": "2026-10-30T12:54:34.441+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6327450898",
+   "mall": "쿠팡",
+   "title": "오뚜기 허니머스타드, 265g, 2개",
+   "price": 3470,
+   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/97cf485c-303d-4463-84a3-802175b349695814131943573605853.png",
+   "sentAt": "2026-10-30T12:54:33.683+09:00",
+   "saving": 50,
+   "baseline": 7000,
+   "baselineNote": "62곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/igiCbqJ4fI"
+  },
+  {
+   "uid": "9292339108",
+   "mall": "쿠팡",
+   "title": "오뚜기 골드 마요네스, 300g, 2개",
+   "price": 4880,
+   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/844012244165820-b7d289d4-fa59-4c1b-855f-e12061cca174.jpg",
+   "sentAt": "2026-10-30T12:54:33.683+09:00",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/igiCRyth3k"
+  },
   {
    "uid": "1603012516",
    "mall": "지마켓",
@@ -715,31 +738,6 @@
    "baselineNote": "판매글 9곳 최저가",
    "unit": "[object Object]",
    "link": "https://toss.shopping/_m/FrA9ebRf"
-  },
-  {
-   "uid": "2209190082",
-   "mall": "롯데온",
-   "title": "너리싱울트라 핸드앤네일 크림 50ml",
-   "price": 7900,
-   "image": "https://contents.lotteon.com/itemimage/20261027162106/LO/28/02/92/15/31/_2/80/29/21/53/2/LO2802921531_2802921532_1.jpg",
-   "sentAt": "2026-10-28T14:09:42.744+09:00",
-   "saving": 54,
-   "baseline": 17210,
-   "baselineNote": "7곳 중 최저 · 무료배송",
-   "link": "http://app.ac/I3MF3cJ13"
-  },
-  {
-   "uid": "6536272739",
-   "mall": "지마켓",
-   "title": "데일리코튼 입는오버나이트 6Px6팩",
-   "price": 15800,
-   "image": "https://gdimg.gmarket.co.kr/4573967009/goodsimage",
-   "sentAt": "2026-10-28T13:29:21.413+09:00",
-   "saving": 39,
-   "baseline": 25900,
-   "baselineNote": "판매글 6곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4573967009"
   }
  ]
 }
