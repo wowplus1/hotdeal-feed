@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-31T19:01:05.108+09:00",
- "count": 135,
+ "updated": "2026-10-31T22:59:33.924+09:00",
+ "count": 136,
  "items": [
+  {
+   "uid": "4684292098",
+   "mall": "롯데온",
+   "title": "남성 노던 유틸라이저 자켓 WE3189",
+   "price": 68680,
+   "image": "https://contents.lotteon.com/itemimage/20261030141835/LE/12/22/42/38/43/_1/33/62/76/50/7/LE1222423843_1336276507_1.jpg",
+   "sentAt": "2026-10-31T22:59:33.924+09:00",
+   "saving": 18,
+   "baseline": 83590,
+   "baselineNote": "195곳 중 최저 · 무료배송",
+   "link": "http://app.ac/bjpEvAa13",
+   "web": true
+  },
   {
    "uid": "4496803058",
    "mall": "11번가",
