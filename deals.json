@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-31T19:24:36.156+09:00",
+ "updated": "2026-10-31T19:54:17.540+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5937474227",
+   "mall": "쿠팡",
+   "title": "데체코 스파게티, 500g, 2개",
+   "price": 5480,
+   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/43523227340037-a5f858e4-3800-466a-a823-3d8a989a2efa.jpg",
+   "sentAt": "2026-10-31T19:54:17.006+09:00",
+   "saving": 58,
+   "baseline": 13140,
+   "baselineNote": "판매글 11곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/iirw8opNVA"
+  },
   {
    "uid": "2188324125",
    "mall": "쿠팡",
@@ -725,19 +738,6 @@
    "baselineNote": "11곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "http://app.ac/Tqnb7q223"
-  },
-  {
-   "uid": "7359821186",
-   "mall": "롯데온",
-   "title": "무항생제 HACCP인증 자연방사 난각번호 1번 유정란 20구 계란농장",
-   "price": 8620,
-   "image": "https://contents.lotteon.com/itemimage/20260911153009/LO/27/68/12/33/38/_2/76/81/23/33/9/LO2768123338_2768123339_1.jpg",
-   "sentAt": "2026-10-29T11:05:14.086+09:00",
-   "saving": 34,
-   "baseline": 13050,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/P3Mp9yJ53"
   }
  ]
 }
