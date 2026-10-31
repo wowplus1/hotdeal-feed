@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-01T08:30:43.834+09:00",
- "count": 140,
+ "updated": "2026-11-01T08:39:48.272+09:00",
+ "count": 141,
  "items": [
+  {
+   "uid": "1365925506",
+   "mall": "쿠팡",
+   "title": "미닛메이드 레몬에이드 탄산음료, 355ml, 24개",
+   "price": 10800,
+   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/03/20/10/8/ff0ae358-aeaa-47bd-9ecf-d984bc25fac7.jpg",
+   "sentAt": "2026-11-01T08:39:48.272+09:00",
+   "saving": 19,
+   "baseline": 13380,
+   "baselineNote": "205곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gnMUBIQLoy",
+   "web": true
+  },
   {
    "uid": "9812614229",
    "mall": "롯데온",
