@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-31T21:19:30.202+09:00",
+ "updated": "2026-11-01T07:12:29.941+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9403967327",
+   "mall": "쿠팡",
+   "title": "스포츠리서치 1040mg 오메가-3 피쉬 오일 트리플 스트렝스 소프트젤, 180정, 2개",
+   "price": 88820,
+   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/f7ab/f16001b258d50a64147f2a921c0d45bd6b4766ad6990cc6fe8d14ca09e05.jpg",
+   "sentAt": "2026-11-01T07:12:29.032+09:00",
+   "saving": 34,
+   "baseline": 135060,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hvyztxAvng"
+  },
   {
    "uid": "5719705339",
    "mall": "지마켓",
@@ -722,18 +735,6 @@
    "baselineNote": "판매글 7곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/ieMQRdV5jw"
-  },
-  {
-   "uid": "5839956679",
-   "mall": "지마켓",
-   "title": "닥터지 레드 블레미쉬 클리어 수딩크림 50mL 듀오 기프트 세트 +브라이트닝 업선 플러스20ml",
-   "price": 19980,
-   "image": "https://gdimg.gmarket.co.kr/4498501917/goodsimage",
-   "sentAt": "2026-10-29T14:54:18.300+09:00",
-   "saving": 36,
-   "baseline": 31160,
-   "baselineNote": "판매글 9곳 최저가",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4498501917"
   }
  ]
 }
