@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-31T21:16:55.706+09:00",
+ "updated": "2026-10-31T21:19:30.202+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5719705339",
+   "mall": "지마켓",
+   "title": "노지감귤 10kg 로얄과",
+   "price": 10880,
+   "image": "https://gdimg.gmarket.co.kr/1901738266/goodsimage",
+   "sentAt": "2026-10-31T21:19:29.546+09:00",
+   "saving": 53,
+   "baseline": 23250,
+   "baselineNote": "판매글 6곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=1901738266"
+  },
   {
    "uid": "4573689896",
    "mall": "쿠팡",
@@ -721,19 +734,6 @@
    "baseline": 31160,
    "baselineNote": "판매글 9곳 최저가",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4498501917"
-  },
-  {
-   "uid": "6371109031",
-   "mall": "쿠팡",
-   "title": "해표 양조식초, 1.8L, 2개",
-   "price": 2880,
-   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1158870169409512-4f752a46-53f1-4d3c-ab5a-5508cc1803d6.jpg",
-   "sentAt": "2026-10-29T13:45:54.954+09:00",
-   "saving": 42,
-   "baseline": 4970,
-   "baselineNote": "115곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/ieHoNEwmRw"
   }
  ]
 }
