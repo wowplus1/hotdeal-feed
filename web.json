@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-31T09:04:50.142+09:00",
- "count": 132,
+ "updated": "2026-10-31T09:56:06.067+09:00",
+ "count": 133,
  "items": [
+  {
+   "uid": "2671159419",
+   "mall": "쿠팡",
+   "title": "에뛰드 진저슈가 오버나이트 립 마스크 23g",
+   "price": 5750,
+   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/63177c9b-ce7f-4f75-b334-6866c9c6fd1f10866229871240206984.png",
+   "sentAt": "2026-10-31T09:56:06.067+09:00",
+   "saving": 14,
+   "baseline": 6690,
+   "baselineNote": "31곳 중 최저",
+   "link": "https://link.coupang.com/a/ihKMlGTwuy",
+   "web": true
+  },
   {
    "uid": "5176624099",
    "mall": "쿠팡",
