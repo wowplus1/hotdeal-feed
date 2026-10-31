@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-31T08:59:20.481+09:00",
+ "updated": "2026-10-31T09:02:10.444+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6832297572",
+   "mall": "쿠팡",
+   "title": "더미식 백미밥, 210g, 24개",
+   "price": 21990,
+   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/8c42/841a417502b7c9344a88c79124d23341b68398cb4d712d0e06d502368c17.jpg",
+   "sentAt": "2026-10-31T09:02:09.880+09:00",
+   "saving": 48,
+   "baseline": 41970,
+   "baselineNote": "18곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gYZqsWrR8u"
+  },
   {
    "uid": "9027886012",
    "mall": "쿠팡",
@@ -716,19 +729,6 @@
    "baselineNote": "판매글 5곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/AtVjC8M53"
-  },
-  {
-   "uid": "5946082707",
-   "mall": "쿠팡",
-   "title": "도브 뷰티바 비누 릴랙싱, 90g, 12개입",
-   "price": 9930,
-   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/b866f76f-1fd3-40b9-99b5-3d434d630a545921000638803403971.png",
-   "sentAt": "2026-10-28T21:34:30.218+09:00",
-   "saving": 38,
-   "baseline": 15940,
-   "baselineNote": "26곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/idzWSwrKkS"
   }
  ]
 }
