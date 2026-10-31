@@ -1,7 +1,16 @@
 {
- "updated": "2026-10-31T20:46:40.735+09:00",
+ "updated": "2026-10-31T21:16:55.706+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4573689896",
+   "mall": "쿠팡",
+   "title": "스탠리 퀜처 H2.0 플로우 스테이트 텀블러 887ml*1개",
+   "price": 18740,
+   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1309377750142456-f7174679-2e3a-47f6-acef-5dfcba30e6d9.jpg",
+   "sentAt": "2026-10-31T21:16:55.030+09:00",
+   "link": "https://link.coupang.com/a/h8OXK605IG"
+  },
   {
    "uid": "2828610039",
    "mall": "롯데온",
@@ -725,19 +734,6 @@
    "baselineNote": "115곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/ieHoNEwmRw"
-  },
-  {
-   "uid": "9787146065",
-   "mall": "지마켓",
-   "title": "코디 라벤다스페셜 3겹 화장지 30롤 3팩",
-   "price": 23900,
-   "image": "https://gdimg.gmarket.co.kr/1779187785/goodsimage",
-   "sentAt": "2026-10-29T12:02:56.612+09:00",
-   "saving": 43,
-   "baseline": 42200,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=1779187785"
   }
  ]
 }
