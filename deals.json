@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-31T12:40:18.228+09:00",
+ "updated": "2026-10-31T14:12:18.518+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2872247932",
+   "mall": "쿠팡",
+   "title": "스탠리 올데이 캐리올 퀜처 H2.0 텀블러 스트랩백 1.18L, 라일락, 1개",
+   "price": 17840,
+   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/76237751015424-1c71404e-dd98-40f4-80e8-6d72ca6dd5de.jpg",
+   "sentAt": "2026-10-31T14:12:17.799+09:00",
+   "saving": 66,
+   "baseline": 53100,
+   "baselineNote": "21곳 중 최저 · 무료배송",
+   "link": "https://link.coupang.com/a/ih25UsgT1g"
+  },
   {
    "uid": "9469393239",
    "mall": "쿠팡",
@@ -724,18 +736,6 @@
    "baseline": 268000,
    "baselineNote": "판매글 39곳 최저가",
    "link": "https://link.coupang.com/a/ien2Qia2CG"
-  },
-  {
-   "uid": "7449876205",
-   "mall": "11번가",
-   "title": "크리오 덴티메이트시즌2 콤팩트 헤드 칫솔 초극세모 칫솔 10입, 3개+증정",
-   "price": 11900,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/6421323878/B.webp?339456470",
-   "sentAt": "2026-10-29T09:00:47.111+09:00",
-   "saving": 20,
-   "baseline": 14940,
-   "baselineNote": "판매글 5곳 최저가",
-   "link": "http://app.ac/CAGilf503"
   }
  ]
 }
