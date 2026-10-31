@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-31T17:39:29.657+09:00",
+ "updated": "2026-10-31T17:45:49.123+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2698761895",
+   "mall": "쿠팡",
+   "title": "오랄비 왁스 치실 50m*2개입*3개",
+   "price": 5900,
+   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/615732587547147-e44705f3-e1bb-4c40-9c86-be80c62ff4d7.jpg",
+   "sentAt": "2026-10-31T17:45:48.589+09:00",
+   "saving": 53,
+   "baseline": 12530,
+   "baselineNote": "판매글 6곳 최저가",
+   "link": "https://link.coupang.com/a/h49OZsFkgC"
+  },
   {
    "uid": "2092528684",
    "mall": "쿠팡",
@@ -725,18 +737,6 @@
    "baseline": 15770,
    "baselineNote": "다른 곳 최저",
    "link": "https://toss.shopping/_m/dTXy3v78"
-  },
-  {
-   "uid": "8756955762",
-   "mall": "쿠팡",
-   "title": "칙필에이 소스, 473ml*1개",
-   "price": 8450,
-   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/2166/4c05022c3a38020ca0cb049ab2cb8ba062a14cf398508fcdc9c0677a056c.png",
-   "sentAt": "2026-10-29T09:32:51.353+09:00",
-   "saving": 48,
-   "baseline": 16170,
-   "baselineNote": "판매글 5곳 최저가",
-   "link": "https://link.coupang.com/a/iepgm7RPci"
   }
  ]
 }
