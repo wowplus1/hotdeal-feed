@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-31T16:41:05.265+09:00",
- "count": 134,
+ "updated": "2026-10-31T19:01:05.108+09:00",
+ "count": 135,
  "items": [
+  {
+   "uid": "4496803058",
+   "mall": "11번가",
+   "title": "오리온 통크 초코, 45g, 20개",
+   "price": 13460,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/6785934242/B.webp",
+   "sentAt": "2026-10-31T19:01:05.108+09:00",
+   "saving": 15,
+   "baseline": 15900,
+   "baselineNote": "490곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "http://app.ac/lECq6XS63",
+   "web": true
+  },
   {
    "uid": "8361640221",
    "mall": "쿠팡",
