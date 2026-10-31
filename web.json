@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-01T00:25:13.597+09:00",
- "count": 138,
+ "updated": "2026-11-01T00:54:19.536+09:00",
+ "count": 139,
  "items": [
+  {
+   "uid": "3361386470",
+   "mall": "쿠팡",
+   "title": "오뚜기 스낵면 108g, 10개",
+   "price": 5760,
+   "image": "https://t3a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/196163713696016-37dd9d4f-664a-4746-a8ec-49d9f8a34dd4.jpg",
+   "sentAt": "2026-11-01T00:54:19.536+09:00",
+   "saving": 19,
+   "baseline": 7100,
+   "baselineNote": "150곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/iiMYd9eHWm",
+   "web": true
+  },
   {
    "uid": "4193043778",
    "mall": "11번가",
