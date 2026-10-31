@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-31T19:54:17.540+09:00",
+ "updated": "2026-10-31T20:39:40.183+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6409579233",
+   "mall": "쿠팡",
+   "title": "오뚜기 핫케이크 믹스, 1kg, 1개",
+   "price": 3180,
+   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/87060605900171-f042e02a-7905-47b9-8c3f-24f261864cf5.jpg",
+   "sentAt": "2026-10-31T20:39:39.271+09:00",
+   "saving": 35,
+   "baseline": 4860,
+   "baselineNote": "300곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/iiuJ7oZEOW"
+  },
   {
    "uid": "5937474227",
    "mall": "쿠팡",
@@ -725,19 +738,6 @@
    "baseline": 14760,
    "baselineNote": "판매글 5곳 최저가",
    "link": "https://link.coupang.com/a/iezrNiYM4i"
-  },
-  {
-   "uid": "8174484648",
-   "mall": "GS SHOP",
-   "title": "100만 역가수치 프리미엄 카무트 곡물 효소 골드 30포 3박스",
-   "price": 16900,
-   "image": "https://asset.m-gs.kr/prod/1123675501/1/280",
-   "sentAt": "2026-10-29T11:45:00.876+09:00",
-   "saving": 29,
-   "baseline": 23740,
-   "baselineNote": "11곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "http://app.ac/Tqnb7q223"
   }
  ]
 }
