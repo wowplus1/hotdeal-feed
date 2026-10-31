@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-31T09:56:06.067+09:00",
- "count": 133,
+ "updated": "2026-10-31T16:41:05.265+09:00",
+ "count": 134,
  "items": [
+  {
+   "uid": "8361640221",
+   "mall": "쿠팡",
+   "title": "농심 포테토칩 오리지널 40g 4개",
+   "price": 2950,
+   "image": "https://thumbnail1.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/97763835413851-77612c38-740f-4a27-a3a8-d3ba0242eaa7.jpg",
+   "sentAt": "2026-10-31T16:41:05.265+09:00",
+   "saving": 16,
+   "baseline": 3500,
+   "baselineNote": "29곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/iidI2zXwQ0",
+   "web": true
+  },
   {
    "uid": "2671159419",
    "mall": "쿠팡",
