@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-31T10:56:44.891+09:00",
+ "updated": "2026-10-31T11:21:20.327+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9795879176",
+   "mall": "쿠팡",
+   "title": "세타필 모이스춰라이징 크림, 550g, 1개",
+   "price": 13260,
+   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/107773577349111-724cc438-f29e-4636-9a1c-0a4b7bcb57b6.jpg",
+   "sentAt": "2026-10-31T11:21:19.451+09:00",
+   "saving": 20,
+   "baseline": 16490,
+   "baselineNote": "625곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/ihQRFViHK0"
+  },
   {
    "uid": "1408090994",
    "mall": "지마켓",
@@ -720,19 +733,6 @@
    "baselineNote": "판매글 4곳 최저가",
    "unit": "[object Object]",
    "link": "https://toss.shopping/_m/jqRRy6jC"
-  },
-  {
-   "uid": "9671578496",
-   "mall": "쿠팡",
-   "title": "테일러 푸룬 딥워터 180ml 4개",
-   "price": 12010,
-   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1047924397647343-3172b7eb-c021-4a65-aa6a-f103031b141e.jpg",
-   "sentAt": "2026-10-29T08:15:14.209+09:00",
-   "saving": 44,
-   "baseline": 21260,
-   "baselineNote": "34곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hqvja1pSOi"
   }
  ]
 }
