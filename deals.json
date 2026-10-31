@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-31T09:51:12.427+09:00",
+ "updated": "2026-10-31T09:59:14.852+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7434824866",
+   "mall": "지마켓",
+   "title": "시크릿데이 입는오버나이트 에디션 생리대 6p 10팩",
+   "price": 29840,
+   "image": "https://gdimg.gmarket.co.kr/1917673345/goodsimage",
+   "sentAt": "2026-10-31T09:59:14.131+09:00",
+   "saving": 50,
+   "baseline": 59890,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=1917673345"
+  },
   {
    "uid": "8585026087",
    "mall": "쿠팡",
@@ -717,18 +730,6 @@
    "baselineNote": "184곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gl3CLij06n"
-  },
-  {
-   "uid": "8859090518",
-   "mall": "쿠팡",
-   "title": "세노비스 트리플러스 3in1 프리미엄 멀티비타민, 100정, 1개",
-   "price": 25920,
-   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/958093856363818-1b1466e4-330f-45a7-8934-226e0ad08e3c.jpg",
-   "sentAt": "2026-10-29T07:17:43.966+09:00",
-   "saving": 44,
-   "baseline": 46500,
-   "baselineNote": "판매글 9곳 최저가",
-   "link": "https://link.coupang.com/a/iefCEW416G"
   }
  ]
 }
