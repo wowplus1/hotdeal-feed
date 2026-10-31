@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-31T01:30:08.036+09:00",
- "count": 131,
+ "updated": "2026-10-31T09:04:50.142+09:00",
+ "count": 132,
  "items": [
+  {
+   "uid": "5176624099",
+   "mall": "쿠팡",
+   "title": "비타500 C PLUS, 100ml, 50개",
+   "price": 21630,
+   "image": "https://t3a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/551827844203589-dcc43579-539f-41f7-8aca-34e687c28c0c.jpg",
+   "sentAt": "2026-10-31T09:04:50.142+09:00",
+   "saving": 18,
+   "baseline": 26251,
+   "baselineNote": "판매글 20곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hSK1c1ZZ7Y",
+   "web": true
+  },
   {
    "uid": "5107452596",
    "mall": "쿠팡",
