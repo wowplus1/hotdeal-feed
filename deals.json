@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-31T15:06:46.967+09:00",
+ "updated": "2026-10-31T17:39:29.657+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2092528684",
+   "mall": "쿠팡",
+   "title": "포카칩 오리온 어니언, 110g, 2개",
+   "price": 3690,
+   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/52617145748820-80828f46-0b11-4fc6-88b4-226cd86c1f2b.png",
+   "sentAt": "2026-10-31T17:39:28.916+09:00",
+   "saving": 52,
+   "baseline": 7610,
+   "baselineNote": "2곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/ie1D8s3sqW"
+  },
   {
    "uid": "4240289118",
    "mall": "쿠팡",
@@ -724,18 +737,6 @@
    "baseline": 16170,
    "baselineNote": "판매글 5곳 최저가",
    "link": "https://link.coupang.com/a/iepgm7RPci"
-  },
-  {
-   "uid": "9554744160",
-   "mall": "지마켓",
-   "title": "도브 뷰티바 135g 10개+증정",
-   "price": 13810,
-   "image": "https://gdimg.gmarket.co.kr/2505036149/goodsimage",
-   "sentAt": "2026-10-29T09:30:17.291+09:00",
-   "saving": 39,
-   "baseline": 22810,
-   "baselineNote": "판매글 3곳 최저가",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2505036149"
   }
  ]
 }
