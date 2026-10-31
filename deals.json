@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-31T12:11:07.582+09:00",
+ "updated": "2026-10-31T12:40:18.228+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9469393239",
+   "mall": "쿠팡",
+   "title": "동원 미네마인 스파클링 동원 고밀도 강탄산, 500ml, 40개",
+   "price": 12720,
+   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1038157907993496-2384c22c-d894-4d5f-9fd1-a54551cb3e83.jpg",
+   "sentAt": "2026-10-31T12:40:17.335+09:00",
+   "saving": 27,
+   "baseline": 17390,
+   "baselineNote": "판매글 38곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/ihWvwU027E"
+  },
   {
    "uid": "3215221414",
    "mall": "롯데온",
@@ -723,16 +736,6 @@
    "baseline": 14940,
    "baselineNote": "판매글 5곳 최저가",
    "link": "http://app.ac/CAGilf503"
-  },
-  {
-   "uid": "9315219907",
-   "mall": "쿠팡",
-   "title": "하인즈 굿 갈릭 아이올리 마요네즈, 500ml, 2개",
-   "price": 8980,
-   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1d790ab9-f063-42dd-8209-1c59f99bd95410218616184087641524.png",
-   "sentAt": "2026-10-29T08:18:45.668+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/iejT7amWYK"
   }
  ]
 }
