@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-31T07:17:57.518+09:00",
+ "updated": "2026-10-31T08:59:20.481+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9027886012",
+   "mall": "쿠팡",
+   "title": "미에로화이바 제로슈가, 180ml, 30개",
+   "price": 12370,
+   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/04/18/14/9/4aa6ca82-3e3f-405f-b07f-08dd0fa18bdd.png",
+   "sentAt": "2026-10-31T08:59:19.713+09:00",
+   "saving": 31,
+   "baseline": 17850,
+   "baselineNote": "판매글 13곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gxXb938fIa"
+  },
   {
    "uid": "7240605582",
    "mall": "쿠팡",
@@ -716,19 +729,6 @@
    "baselineNote": "26곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/idzWSwrKkS"
-  },
-  {
-   "uid": "5027294927",
-   "mall": "토스쇼핑",
-   "title": "국내산 햇 흙생강, 특품, 3kg, 1박스",
-   "price": 16900,
-   "image": "https://shopping.toss.im/live/temp/2026-08-28/1a6ff4c3-fbd3-47ae-9058-f628554b675c.png",
-   "sentAt": "2026-10-28T20:27:35.474+09:00",
-   "saving": 30,
-   "baseline": 24110,
-   "baselineNote": "판매글 14곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/vHOvUu4c"
   }
  ]
 }
