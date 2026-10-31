@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-31T09:02:10.444+09:00",
+ "updated": "2026-10-31T09:51:12.427+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8585026087",
+   "mall": "쿠팡",
+   "title": "세타필 모이스춰라이징 크림, 550g, 2개 23,860원",
+   "price": 13260,
+   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/107773577349111-724cc438-f29e-4636-9a1c-0a4b7bcb57b6.jpg",
+   "sentAt": "2026-10-31T09:51:11.836+09:00",
+   "saving": 60,
+   "baseline": 32840,
+   "baselineNote": "203곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hsjcet77jo"
+  },
   {
    "uid": "6832297572",
    "mall": "쿠팡",
@@ -716,19 +729,6 @@
    "baseline": 46500,
    "baselineNote": "판매글 9곳 최저가",
    "link": "https://link.coupang.com/a/iefCEW416G"
-  },
-  {
-   "uid": "1329383069",
-   "mall": "롯데온",
-   "title": "제철 고당도 황금사과 꿀사과 시나노골드 2kg/5kg내외",
-   "price": 10170,
-   "image": "https://contents.lotteon.com/itemimage/20261027112103/LO/28/01/82/79/91/_2/80/18/27/99/2/LO2801827991_2801827992_1.jpg",
-   "sentAt": "2026-10-28T21:39:48.305+09:00",
-   "saving": 37,
-   "baseline": 16020,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/AtVjC8M53"
   }
  ]
 }
