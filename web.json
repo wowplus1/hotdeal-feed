@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-01T00:54:19.536+09:00",
- "count": 139,
+ "updated": "2026-11-01T07:30:38.502+09:00",
+ "count": 140,
  "items": [
+  {
+   "uid": "4373419414",
+   "mall": "쿠팡",
+   "title": "온더바디 코튼풋 발을 씻자 풋샴푸 자몽 민트향 *385ml*3개",
+   "price": 12370,
+   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/5d5a03c0-5648-4e90-80fa-87ea40451f2910981358665052633967.png",
+   "sentAt": "2026-11-01T07:30:38.502+09:00",
+   "saving": 13,
+   "baseline": 14170,
+   "baselineNote": "154곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/ijfh2YNeoK",
+   "web": true
+  },
   {
    "uid": "3361386470",
    "mall": "쿠팡",
