@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-31T17:45:49.123+09:00",
+ "updated": "2026-10-31T19:24:36.156+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2188324125",
+   "mall": "쿠팡",
+   "title": "수미칩 오리지널, 85g, 5개",
+   "price": 9940,
+   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/63724605987893-dc3c1b27-94c4-4dca-beec-18de98c7989c.jpg",
+   "sentAt": "2026-10-31T19:24:35.435+09:00",
+   "saving": 31,
+   "baseline": 14350,
+   "baselineNote": "27곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/iipn0cFYGq"
+  },
   {
    "uid": "2698761895",
    "mall": "쿠팡",
@@ -725,18 +738,6 @@
    "baselineNote": "판매글 3곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/P3Mp9yJ53"
-  },
-  {
-   "uid": "4240057112",
-   "mall": "토스쇼핑",
-   "title": "PN풍년 마레 피에노 프라이팬, 24cm, 1개",
-   "price": 10560,
-   "image": "https://shopping.toss.im/live/temp/2025-07-14/8143ea7f-936b-4810-b8ee-6c3f2a3045dc.jpeg",
-   "sentAt": "2026-10-29T09:59:43.029+09:00",
-   "saving": 33,
-   "baseline": 15770,
-   "baselineNote": "다른 곳 최저",
-   "link": "https://toss.shopping/_m/dTXy3v78"
   }
  ]
 }
