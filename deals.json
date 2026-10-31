@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-31T10:35:37.227+09:00",
+ "updated": "2026-10-31T10:56:44.891+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1408090994",
+   "mall": "지마켓",
+   "title": "국내산 청양멸치다짐 150g 2개",
+   "price": 11900,
+   "image": "https://gdimg.gmarket.co.kr/4640018621/goodsimage",
+   "sentAt": "2026-10-31T10:56:44.282+09:00",
+   "saving": 40,
+   "baseline": 19860,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4640018621"
+  },
   {
    "uid": "2133617676",
    "mall": "롯데온",
@@ -720,15 +733,6 @@
    "baselineNote": "34곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hqvja1pSOi"
-  },
-  {
-   "uid": "9472214678",
-   "mall": "쿠팡",
-   "title": "스탠리 퀜처 H2.0 플로우 스테이트 텀블러 1.18L*1개",
-   "price": 25920,
-   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1309377750142456-f7174679-2e3a-47f6-acef-5dfcba30e6d9.jpg",
-   "sentAt": "2026-10-29T07:53:16.622+09:00",
-   "link": "https://link.coupang.com/a/ieiahtx2Z2"
   }
  ]
 }
