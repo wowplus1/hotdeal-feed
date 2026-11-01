@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-02T07:47:29.471+09:00",
+ "updated": "2026-11-02T08:05:12.064+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2674383854",
+   "mall": "쿠팡",
+   "title": "비비드키친 저칼로리 치킨양념소스, 320g, 2개",
+   "price": 3580,
+   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/73045598934988-1c572e97-2eab-4432-99bf-72f22ef2946f.jpg",
+   "sentAt": "2026-11-02T08:05:11.333+09:00",
+   "saving": 51,
+   "baseline": 7370,
+   "baselineNote": "판매글 8곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gIVSnIBpcG"
+  },
   {
    "uid": "2605768939",
    "mall": "쿠팡",
@@ -718,19 +731,6 @@
    "baselineNote": "판매글 4곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/if6SKChe9I"
-  },
-  {
-   "uid": "2770707241",
-   "mall": "지마켓",
-   "title": "진주햄 천하장사 오리지널 15g 100개",
-   "price": 13900,
-   "image": "https://gdimg.gmarket.co.kr/2261084835/goodsimage",
-   "sentAt": "2026-10-30T10:09:30.154+09:00",
-   "saving": 21,
-   "baseline": 17670,
-   "baselineNote": "판매글 6곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2261084835"
   }
  ]
 }
