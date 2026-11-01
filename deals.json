@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-02T07:30:11.720+09:00",
+ "updated": "2026-11-02T07:47:29.471+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2605768939",
+   "mall": "쿠팡",
+   "title": "코카콜라 제로제로, 350ml, 24개",
+   "price": 14050,
+   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/76227677833552-feae0a48-4e94-4932-9f8a-612194c626e8.jpg",
+   "sentAt": "2026-11-02T07:47:28.926+09:00",
+   "saving": 31,
+   "baseline": 20450,
+   "baselineNote": "76곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://hotdeal.best/2605768939?utm_source=kakao"
+  },
   {
    "uid": "3781276983",
    "mall": "쿠팡",
@@ -718,19 +731,6 @@
    "baselineNote": "판매글 6곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2261084835"
-  },
-  {
-   "uid": "4151365471",
-   "mall": "쿠팡",
-   "title": "유한락스 곰팡이제거제 510ml 3개",
-   "price": 7570,
-   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/1025_amir_coupang_oct_80k/f42b/01be20961602c5fb0d86ba7d942badebaac4a76519af0723ec4fddf70bb7.jpg",
-   "sentAt": "2026-10-30T09:45:33.771+09:00",
-   "saving": 47,
-   "baseline": 14150,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gaE939LvgW"
   }
  ]
 }
