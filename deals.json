@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-02T08:05:12.064+09:00",
+ "updated": "2026-11-02T08:49:22.030+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5295831335",
+   "mall": "쿠팡",
+   "title": "삼양 볶음간짬뽕, 20개",
+   "price": 13590,
+   "image": "https://t3a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/4694669285900-5825f6af-9ae5-403b-a5ab-299cf47b6592.png",
+   "sentAt": "2026-11-02T08:49:21.281+09:00",
+   "saving": 21,
+   "baseline": 17250,
+   "baselineNote": "304곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/ikZSnYhnC8"
+  },
   {
    "uid": "2674383854",
    "mall": "쿠팡",
@@ -718,19 +731,6 @@
    "baselineNote": "판매글 3곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/CqneMp273"
-  },
-  {
-   "uid": "4831326947",
-   "mall": "쿠팡",
-   "title": "에스앤비골든 카레 아주 매운맛, 220g, 3개",
-   "price": 7470,
-   "image": "https://t3a.coupangcdn.com/thumbnails/remote/512x512ex/image/1025_amir_coupang_oct_80k/2f86/41737dbd6b950c09a46dedfc14e5e675b171fe156336f7f850deb4f0b68d.jpg",
-   "sentAt": "2026-10-30T10:10:32.854+09:00",
-   "saving": 33,
-   "baseline": 11070,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/if6SKChe9I"
   }
  ]
 }
