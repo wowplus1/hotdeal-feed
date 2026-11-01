@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-01T22:36:30.839+09:00",
- "count": 147,
+ "updated": "2026-11-02T00:16:38.949+09:00",
+ "count": 148,
  "items": [
+  {
+   "uid": "9557174980",
+   "mall": "11번가",
+   "title": "듀엣 맥스 II 클로그 필드그린 208776-3CM",
+   "price": 26940,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/8/7/7/0/6/8/WwpAS/9715877068_242111876.webp",
+   "sentAt": "2026-11-02T00:16:38.949+09:00",
+   "saving": 33,
+   "baseline": 40161,
+   "baselineNote": "105곳 중 최저",
+   "link": "http://app.ac/83C3nxJ73",
+   "web": true
+  },
   {
    "uid": "3763536376",
    "mall": "쿠팡",
