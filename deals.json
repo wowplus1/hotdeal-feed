@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-01T18:56:29.605+09:00",
+ "updated": "2026-11-01T19:54:30.042+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5935947117",
+   "mall": "11번가",
+   "title": "HACCP 구운계란 60구 대란",
+   "price": 13780,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9152329359/B.webp?540545867",
+   "sentAt": "2026-11-01T19:54:29.517+09:00",
+   "saving": 21,
+   "baseline": 17540,
+   "baselineNote": "판매글 11곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/CECrkzS13"
+  },
   {
    "uid": "4930572184",
    "mall": "롯데온",
@@ -725,18 +738,6 @@
    "baselineNote": "109곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/ie3Cbc1thQ"
-  },
-  {
-   "uid": "3009580425",
-   "mall": "롯데온",
-   "title": "나랑드사이다 1.25L PET 1박스",
-   "price": 12960,
-   "image": "https://contents.lotteon.com/itemimage/20260723150216/LO/26/39/34/03/31/_2/63/93/40/33/2/LO2639340331_2639340332_1.jpg",
-   "sentAt": "2026-10-29T18:34:43.786+09:00",
-   "saving": 26,
-   "baseline": 17480,
-   "baselineNote": "판매글 4곳 최저가",
-   "link": "http://app.ac/2bppi4l33"
   }
  ]
 }
