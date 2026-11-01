@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-01T13:36:17.198+09:00",
+ "updated": "2026-11-01T15:00:23.041+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7585935332",
+   "mall": "11번가",
+   "title": "NEW 페브리즈 섬유탈취제 370ml 3개 모음",
+   "price": 10720,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/0/3/9/1/2/8/bQSXP/7267039128_242120679.webp",
+   "sentAt": "2026-11-01T15:00:12.753+09:00",
+   "saving": 37,
+   "baseline": 16930,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/8jpj35a83"
+  },
   {
    "uid": "9596783763",
    "mall": "롯데온",
@@ -725,19 +738,6 @@
    "sentAt": "2026-10-29T17:25:25.047+09:00",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4778137012"
-  },
-  {
-   "uid": "8937064764",
-   "mall": "쿠팡",
-   "title": "폰타나 이탈리아 캄파니아 페투치네, 500g, 2개",
-   "price": 3480,
-   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/3807596454668-4c2241e8-2543-49f2-a231-95c265f2072f.jpg",
-   "sentAt": "2026-10-29T17:23:29.367+09:00",
-   "saving": 45,
-   "baseline": 6370,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/ieWTNAHW20"
   }
  ]
 }
