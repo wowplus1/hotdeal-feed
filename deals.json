@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-01T15:26:02.632+09:00",
+ "updated": "2026-11-01T17:49:58.041+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5827032539",
+   "mall": "롯데온",
+   "title": "대상웰라이프 마이밀 마시는 뉴프로틴 190mlx16팩 2박스",
+   "price": 35120,
+   "image": "https://contents.lotteon.com/itemimage/20261002102016/LO/27/85/04/64/88/_2/78/50/46/48/9/LO2785046488_2785046489_1.jpg",
+   "sentAt": "2026-11-01T17:49:56.763+09:00",
+   "saving": 20,
+   "baseline": 43960,
+   "baselineNote": "판매글 7곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/KECJLPS23"
+  },
   {
    "uid": "2609622034",
    "mall": "11번가",
@@ -725,19 +738,6 @@
    "baselineNote": "파는 곳이 여기 하나",
    "unit": "[object Object]",
    "link": "http://app.ac/JbpWLSl93"
-  },
-  {
-   "uid": "5115038829",
-   "mall": "토스쇼핑",
-   "title": "휴비딕 무릎보호대, HS-2, 모던 그레이, 2개",
-   "price": 12660,
-   "image": "https://shopping.toss.im/live/taca/ai/MzAwY2Mx/QUtIbjc0NDBQSHV3aEV3cU1kWHFyOEJRRHdCK1diaWhmaDRKU1JMeWdlUmQ.png",
-   "sentAt": "2026-10-29T18:00:07.875+09:00",
-   "saving": 45,
-   "baseline": 22880,
-   "baselineNote": "판매글 7곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://toss.im/_m/x7vcFcLf"
   }
  ]
 }
