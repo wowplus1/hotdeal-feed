@@ -1,7 +1,19 @@
 {
- "updated": "2026-11-01T19:54:30.042+09:00",
+ "updated": "2026-11-01T20:20:49.404+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8936232242",
+   "mall": "쿠팡",
+   "title": "시티즌 큐앤큐 QB78-201 남자시계",
+   "price": 22640,
+   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/ae8f/1bad3986374b32b1b5bb7de5e0c7277691eae2f2566fd77bb3d109127c35.jpg",
+   "sentAt": "2026-11-01T20:20:48.655+09:00",
+   "saving": 37,
+   "baseline": 35720,
+   "baselineNote": "판매글 3곳 최저가",
+   "link": "https://link.coupang.com/a/ij8h55F0ii"
+  },
   {
    "uid": "5935947117",
    "mall": "11번가",
@@ -725,19 +737,6 @@
    "baselineNote": "판매글 4곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/jEwaEnS23"
-  },
-  {
-   "uid": "5220071990",
-   "mall": "쿠팡",
-   "title": "파스퇴르 저온살균 우유, 900ml, 2개",
-   "price": 4180,
-   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/59203925150572-4af8897d-cb23-4e3d-97dc-8075016921ea.jpg",
-   "sentAt": "2026-10-29T18:57:06.072+09:00",
-   "saving": 60,
-   "baseline": 10410,
-   "baselineNote": "109곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/ie3Cbc1thQ"
   }
  ]
 }
