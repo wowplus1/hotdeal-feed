@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-02T07:17:41.980+09:00",
+ "updated": "2026-11-02T07:30:11.720+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3781276983",
+   "mall": "쿠팡",
+   "title": "스탠리 올데이 줄리엔 미디 쿨러 토트백 11.3L*1개",
+   "price": 78600,
+   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/888611976902-fc825c50-d052-49f9-bd58-51d708bf43ba.jpg",
+   "sentAt": "2026-11-02T07:30:11.173+09:00",
+   "saving": 71,
+   "baseline": 266830,
+   "baselineNote": "판매글 6곳 최저가",
+   "link": "https://link.coupang.com/a/ikT7IVV74m"
+  },
+  {
+   "uid": "3003511862",
+   "mall": "쿠팡",
+   "title": "파워에이드 제로, 600ml, 20개",
+   "price": 14980,
+   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/d77e/88d466dc26c13c045b856ce57de86fc3f5d4cd73918872e45715916b167b.jpg",
+   "sentAt": "2026-11-02T07:30:11.173+09:00",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/f9zlPT8PnM"
+  },
   {
    "uid": "2139835101",
    "mall": "쿠팡",
@@ -709,32 +731,6 @@
    "baselineNote": "판매글 4곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gaE939LvgW"
-  },
-  {
-   "uid": "9491404799",
-   "mall": "쿠팡",
-   "title": "웅진빅토리아 더 빅토리아 레몬 500ml 20개",
-   "price": 8930,
-   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/1025_amir_coupang_oct_80k/9d52/f8f92890331749f80e3aa5d63ab041336ec1a954f94ba27476e32a3c42e4.jpg",
-   "sentAt": "2026-10-30T08:56:26.346+09:00",
-   "saving": 22,
-   "baseline": 11410,
-   "baselineNote": "358곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/if1AYeJtGm"
-  },
-  {
-   "uid": "6305990565",
-   "mall": "쿠팡",
-   "title": "코카콜라 제로 무라벨, 370ml, 24개",
-   "price": 16700,
-   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/885a/5275afb0998711fbbbcf6aaf2e50daf49885f10e5c34208ec34c8e09e053.jpg",
-   "sentAt": "2026-10-30T07:17:22.980+09:00",
-   "saving": 24,
-   "baseline": 21870,
-   "baselineNote": "224곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gcfie4gWuy"
   }
  ]
 }
