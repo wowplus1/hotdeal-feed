@@ -1,7 +1,18 @@
 {
- "updated": "2026-11-02T03:25:01.151+09:00",
- "count": 151,
+ "updated": "2026-11-02T04:34:18.920+09:00",
+ "count": 152,
  "items": [
+  {
+   "uid": "8421752878",
+   "mall": "지마켓",
+   "title": "샤오커오라 2.5kg 2개",
+   "price": 47850,
+   "image": "https://gdimg.gmarket.co.kr/4616965399/goodsimage",
+   "sentAt": "2026-11-02T04:34:18.920+09:00",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4616965399",
+   "web": true
+  },
   {
    "uid": "2906158328",
    "mall": "지마켓",
