@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-01T18:24:38.667+09:00",
- "count": 144,
+ "updated": "2026-11-01T19:50:25.166+09:00",
+ "count": 145,
  "items": [
+  {
+   "uid": "3427520462",
+   "mall": "쿠팡",
+   "title": "에뛰드 베이킹 파우더 모공 클렌징 폼, 300ml, 2개",
+   "price": 7320,
+   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1750902174059560-4cf1679e-d1c5-447c-86a6-480ec7da93cd.jpg",
+   "sentAt": "2026-11-01T19:50:25.166+09:00",
+   "saving": 12,
+   "baseline": 8340,
+   "baselineNote": "56곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gK0QgkSERE",
+   "web": true
+  },
   {
    "uid": "7895312873",
    "mall": "11번가",
