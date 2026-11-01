@@ -1,7 +1,19 @@
 {
- "updated": "2026-11-01T20:20:49.404+09:00",
+ "updated": "2026-11-01T21:09:48.562+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6020493111",
+   "mall": "지마켓",
+   "title": "에이서 스위프트 GO 14 AI U5 338H 16GB 512GB Win11",
+   "price": 1389000,
+   "image": "https://gdimg.gmarket.co.kr/4780680664/goodsimage",
+   "sentAt": "2026-11-01T21:09:47.672+09:00",
+   "saving": 43,
+   "baseline": 2458100,
+   "baselineNote": "판매글 4곳 최저가",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4780680664"
+  },
   {
    "uid": "8936232242",
    "mall": "쿠팡",
@@ -724,19 +736,6 @@
    "baseline": 23100,
    "baselineNote": "판매글 8곳 최저가",
    "link": "https://toss.shopping/_m/bvUCBZp4"
-  },
-  {
-   "uid": "6283951925",
-   "mall": "롯데온",
-   "title": "프리미엄 해남 햇곱창김 특상 100매 370g",
-   "price": 17930,
-   "image": "https://contents.lotteon.com/itemimage/20261026153941/LO/20/80/29/33/16/_2/08/02/93/31/8/LO2080293316_2080293318_1.jpg",
-   "sentAt": "2026-10-29T19:19:14.065+09:00",
-   "saving": 37,
-   "baseline": 28660,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/jEwaEnS23"
   }
  ]
 }
