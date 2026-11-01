@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-01T12:04:24.097+09:00",
+ "updated": "2026-11-01T12:44:36.890+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9265507885",
+   "mall": "쿠팡",
+   "title": "백설 100% 통참깨 참기름, 320ml, 2개",
+   "price": 11280,
+   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/9a6f9736-b69e-479a-9f20-95939e4582e511764761289546531406.png",
+   "sentAt": "2026-11-01T12:44:36.159+09:00",
+   "saving": 33,
+   "baseline": 16720,
+   "baselineNote": "52곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/ijBJAE3hKg"
+  },
   {
    "uid": "5273794270",
    "mall": "11번가",
@@ -724,19 +737,6 @@
    "baselineNote": "판매글 9곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/ieQz8kLJzU"
-  },
-  {
-   "uid": "4901626682",
-   "mall": "쿠팡",
-   "title": "청정원 건강한 올리고당, 1.2kg, 2개",
-   "price": 4820,
-   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/35314669512472-c54a004e-c75c-4a9f-b756-75c490332601.jpg",
-   "sentAt": "2026-10-29T16:06:40.856+09:00",
-   "saving": 57,
-   "baseline": 11260,
-   "baselineNote": "22곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/ieLC7gmCRg"
   }
  ]
 }
