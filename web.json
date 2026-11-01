@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-01T19:50:25.166+09:00",
- "count": 145,
+ "updated": "2026-11-01T21:25:08.783+09:00",
+ "count": 146,
  "items": [
+  {
+   "uid": "3260787279",
+   "mall": "쿠팡",
+   "title": "시티즌 녹판 BM8180-71W 남자시계",
+   "price": 137430,
+   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/f4e1/9ad4b43dcd2e28bbf7e90e160252c750b9de8b6c2abd7001373218203077.jpg",
+   "sentAt": "2026-11-01T21:25:08.783+09:00",
+   "saving": 12,
+   "baseline": 156230,
+   "baselineNote": "판매글 38곳 최저가",
+   "link": "https://link.coupang.com/a/hslctFoiWG",
+   "web": true
+  },
   {
    "uid": "3427520462",
    "mall": "쿠팡",
