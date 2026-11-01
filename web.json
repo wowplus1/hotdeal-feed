@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-01T11:31:39.940+09:00",
- "count": 142,
+ "updated": "2026-11-01T12:31:40.551+09:00",
+ "count": 143,
  "items": [
+  {
+   "uid": "7621357506",
+   "mall": "11번가",
+   "title": "홈스타 욕실용 세정제 500ml, 4개",
+   "price": 10070,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/5637148079/B.webp?710318737",
+   "sentAt": "2026-11-01T12:31:40.551+09:00",
+   "saving": 37,
+   "baseline": 16062,
+   "baselineNote": "판매글 9곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/VtV2TIM93",
+   "web": true
+  },
   {
    "uid": "2686393292",
    "mall": "11번가",
