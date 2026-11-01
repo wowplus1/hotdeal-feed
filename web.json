@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-02T00:16:38.949+09:00",
- "count": 148,
+ "updated": "2026-11-02T00:26:01.778+09:00",
+ "count": 149,
  "items": [
+  {
+   "uid": "1348082102",
+   "mall": "지마켓",
+   "title": "광천김 백제 돌김 김자반 40g 10봉",
+   "price": 8900,
+   "image": "https://gdimg.gmarket.co.kr/1760962443/goodsimage",
+   "sentAt": "2026-11-02T00:26:01.778+09:00",
+   "saving": 26,
+   "baseline": 12070,
+   "baselineNote": "판매글 18곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=1760962443",
+   "web": true
+  },
   {
    "uid": "9557174980",
    "mall": "11번가",
