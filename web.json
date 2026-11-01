@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-02T00:26:01.778+09:00",
- "count": 149,
+ "updated": "2026-11-02T01:15:43.553+09:00",
+ "count": 150,
  "items": [
+  {
+   "uid": "4006837990",
+   "mall": "쿠팡",
+   "title": "이니스프리 블랙 화산송이 파하 모공 클렌징오일 200ml",
+   "price": 6110,
+   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/06/23/17/8/8e537824-1e6e-4655-8fb1-b2d6cc0c9ffa.jpg",
+   "sentAt": "2026-11-02T01:15:43.553+09:00",
+   "saving": 42,
+   "baseline": 10620,
+   "baselineNote": "판매글 25곳 최저가",
+   "link": "https://link.coupang.com/a/iktmvBwxB6",
+   "web": true
+  },
   {
    "uid": "1348082102",
    "mall": "지마켓",
