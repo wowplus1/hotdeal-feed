@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-01T08:39:48.272+09:00",
- "count": 141,
+ "updated": "2026-11-01T11:31:39.940+09:00",
+ "count": 142,
  "items": [
+  {
+   "uid": "2686393292",
+   "mall": "11번가",
+   "title": "비트 스트롱세븐 액체세제 일반드럼겸용 리필 2.22L, 4개",
+   "price": 15150,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9395900027/B.jpg?585989698",
+   "sentAt": "2026-11-01T11:31:39.940+09:00",
+   "saving": 15,
+   "baseline": 17900,
+   "baselineNote": "36곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "http://app.ac/iEC7InS73",
+   "web": true
+  },
   {
    "uid": "1365925506",
    "mall": "쿠팡",
