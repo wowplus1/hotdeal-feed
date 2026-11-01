@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-02T01:15:43.553+09:00",
- "count": 150,
+ "updated": "2026-11-02T03:25:01.151+09:00",
+ "count": 151,
  "items": [
+  {
+   "uid": "2906158328",
+   "mall": "지마켓",
+   "title": "YMTC ZHITAI TiPro9000 M.2 NVMe SSD 4TB",
+   "price": 990200,
+   "image": "https://gdimg.gmarket.co.kr/4775806046/goodsimage",
+   "sentAt": "2026-11-02T03:25:01.151+09:00",
+   "saving": 16,
+   "baseline": 1183000,
+   "baselineNote": "113곳 중 최저",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4775806046",
+   "web": true
+  },
   {
    "uid": "4006837990",
    "mall": "쿠팡",
