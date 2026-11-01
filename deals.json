@@ -1,7 +1,17 @@
 {
- "updated": "2026-11-01T21:09:48.562+09:00",
+ "updated": "2026-11-01T21:40:17.943+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4465650911",
+   "mall": "쿠팡",
+   "title": "햇반 210g 72개",
+   "price": 55800,
+   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/c1111c28-e73f-41d1-a225-e55099487cc59099079402123884527.png",
+   "sentAt": "2026-11-01T21:40:17.068+09:00",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/ikdZWKEuLQ"
+  },
   {
    "uid": "6020493111",
    "mall": "지마켓",
@@ -724,18 +734,6 @@
    "sentAt": "2026-10-29T20:17:25.923+09:00",
    "unit": "[object Object]",
    "link": "https://toss.shopping/_m/53V7zP7A"
-  },
-  {
-   "uid": "8943811788",
-   "mall": "토스쇼핑",
-   "title": "닥터방기원 비어이스트 맥주효모 탈모샴푸, 1000ml, 2개 + 랩 탈모샴푸 8ml 샤쉐 3매 증정",
-   "price": 16130,
-   "image": "https://shopping.toss.im/live/temp/2026-10-02/820366cc-7f05-4fc9-8029-f4b739153007.png",
-   "sentAt": "2026-10-29T19:27:32.314+09:00",
-   "saving": 30,
-   "baseline": 23100,
-   "baselineNote": "판매글 8곳 최저가",
-   "link": "https://toss.shopping/_m/bvUCBZp4"
   }
  ]
 }
