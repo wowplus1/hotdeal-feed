@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-01T07:12:29.941+09:00",
+ "updated": "2026-11-01T09:11:29.905+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6326489384",
+   "mall": "11번가",
+   "title": "하루견과 순수다움 100봉 / 실속 견과 견과류 간식",
+   "price": 38780,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/pd/v2/4/7/2/1/9/3/KutgV/986472193_B.webp",
+   "sentAt": "2026-11-01T09:11:29.168+09:00",
+   "saving": 26,
+   "baseline": 52430,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/btVCirM83"
+  },
   {
    "uid": "9403967327",
    "mall": "쿠팡",
@@ -722,19 +735,6 @@
    "baseline": 27250,
    "baselineNote": "48곳 중 최저",
    "link": "http://app.ac/gjw1Rwa03"
-  },
-  {
-   "uid": "3012232153",
-   "mall": "쿠팡",
-   "title": "청정원 직화짬뽕 분말, 96g, 2개 3,800원",
-   "price": 3800,
-   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/527280203398142-8f2715a8-906f-468a-a075-565a9ef76c9c.png",
-   "sentAt": "2026-10-29T15:02:44.580+09:00",
-   "saving": 62,
-   "baseline": 9990,
-   "baselineNote": "판매글 7곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/ieMQRdV5jw"
   }
  ]
 }
