@@ -1,7 +1,19 @@
 {
- "updated": "2026-11-01T12:44:36.890+09:00",
+ "updated": "2026-11-01T13:14:47.382+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7190878083",
+   "mall": "롯데온",
+   "title": "두메산골 냉장 닭다리살1kg+1kg",
+   "price": 19900,
+   "image": "https://contents.lotteon.com/itemimage/20261101104017/LO/23/59/67/41/93/_2/35/96/74/19/4/LO2359674193_2359674194_1.jpg",
+   "sentAt": "2026-11-01T13:14:46.849+09:00",
+   "saving": 21,
+   "baseline": 25100,
+   "baselineNote": "판매글 13곳 최저가",
+   "link": "http://app.ac/WqDt3O273"
+  },
   {
    "uid": "9265507885",
    "mall": "쿠팡",
@@ -724,19 +736,6 @@
    "sentAt": "2026-10-29T17:15:02.239+09:00",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=1579312733"
-  },
-  {
-   "uid": "8038630480",
-   "mall": "쿠팡",
-   "title": "쁘띠첼 요거젤리 복숭아, 210g, 5개",
-   "price": 6600,
-   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/b336751b-abcd-4888-b51a-31b050224a459943279089568115374.png",
-   "sentAt": "2026-10-29T16:45:21.059+09:00",
-   "saving": 47,
-   "baseline": 12520,
-   "baselineNote": "판매글 9곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/ieQz8kLJzU"
   }
  ]
 }
