@@ -1,7 +1,17 @@
 {
- "updated": "2026-11-01T15:00:23.041+09:00",
+ "updated": "2026-11-01T15:26:02.632+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2609622034",
+   "mall": "11번가",
+   "title": "성균관 뼈를위한 검은콩 고칼슘 두유 190ml x 48팩",
+   "price": 14710,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/6/3/4/2/4/9/cHMis/4232634249_242015913.webp",
+   "sentAt": "2026-11-01T15:26:01.729+09:00",
+   "unit": "[object Object]",
+   "link": "http://app.ac/pAVAb6503"
+  },
   {
    "uid": "7585935332",
    "mall": "11번가",
@@ -728,16 +738,6 @@
    "baselineNote": "판매글 7곳 최저가",
    "unit": "[object Object]",
    "link": "https://toss.im/_m/x7vcFcLf"
-  },
-  {
-   "uid": "1096631230",
-   "mall": "지마켓",
-   "title": "로투스 비스코프 비스킷 50Px6개 1875g",
-   "price": 20240,
-   "image": "https://gdimg.gmarket.co.kr/4778137012/goodsimage",
-   "sentAt": "2026-10-29T17:25:25.047+09:00",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4778137012"
   }
  ]
 }
