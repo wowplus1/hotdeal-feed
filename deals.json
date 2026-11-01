@@ -1,7 +1,19 @@
 {
- "updated": "2026-11-01T13:14:47.382+09:00",
+ "updated": "2026-11-01T13:36:17.198+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9596783763",
+   "mall": "롯데온",
+   "title": "오리온 핫고래밥 매콤양념 56g 6개 + 왕고래밥 56g 6개",
+   "price": 9790,
+   "image": "https://contents.lotteon.com/itemimage/20261028163054/LO/22/50/64/97/85/_2/25/06/49/78/6/LO2250649785_2250649786_1.jpg",
+   "sentAt": "2026-11-01T13:36:16.660+09:00",
+   "saving": 25,
+   "baseline": 13070,
+   "baselineNote": "33곳 중 최저 · 무료배송",
+   "link": "http://app.ac/ujpEFpa63"
+  },
   {
    "uid": "7190878083",
    "mall": "롯데온",
@@ -726,16 +738,6 @@
    "baselineNote": "판매글 3곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/ieWTNAHW20"
-  },
-  {
-   "uid": "3651768523",
-   "mall": "지마켓",
-   "title": "빠다코코낫 오리지날 300g 4곽",
-   "price": 10510,
-   "image": "https://gdimg.gmarket.co.kr/1579312733/goodsimage",
-   "sentAt": "2026-10-29T17:15:02.239+09:00",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=1579312733"
   }
  ]
 }
