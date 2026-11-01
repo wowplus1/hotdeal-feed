@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-01T09:21:59.973+09:00",
+ "updated": "2026-11-01T11:24:17.018+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6660711692",
+   "mall": "11번가",
+   "title": "브리타 정수기 필터 막스트라 프로 퓨어 퍼포먼스 3입",
+   "price": 18150,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/3728922923/B.webp",
+   "sentAt": "2026-11-01T11:24:16.283+09:00",
+   "saving": 25,
+   "baseline": 24330,
+   "baselineNote": "48곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "http://app.ac/oqne2v293"
+  },
   {
    "uid": "4428965171",
    "mall": "11번가",
@@ -723,18 +736,6 @@
    "baseline": 29680,
    "baselineNote": "판매글 20곳 최저가",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=1661739739"
-  },
-  {
-   "uid": "4202589634",
-   "mall": "11번가",
-   "title": "파워에이드 퍼플스톰 600ml, 20개 + 증정",
-   "price": 14810,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9539364411/B.jpg?92516770",
-   "sentAt": "2026-10-29T15:40:42.167+09:00",
-   "saving": 22,
-   "baseline": 19040,
-   "baselineNote": "463곳 중 최저 · 무료배송",
-   "link": "http://app.ac/Gbp3ZAl93"
   }
  ]
 }
