@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-01T21:40:17.943+09:00",
+ "updated": "2026-11-02T07:04:20.455+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2550811146",
+   "mall": "쿠팡",
+   "title": "스프라이트 제로 사이다, 350ml, 24개",
+   "price": 11990,
+   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/3057/8476349e6225fc49f978d71fc1ac8c504952e508d2c628f5463340b194b2.png",
+   "sentAt": "2026-11-02T07:04:19.650+09:00",
+   "saving": 24,
+   "baseline": 15760,
+   "baselineNote": "247곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/giJHiA7zzg"
+  },
   {
    "uid": "4465650911",
    "mall": "쿠팡",
@@ -724,16 +737,6 @@
    "baseline": 19400,
    "baselineNote": "25곳 중 최저 · 무료배송",
    "link": "https://link.coupang.com/a/ifcRhyx4E1"
-  },
-  {
-   "uid": "2100838459",
-   "mall": "토스쇼핑",
-   "title": "브리오신 과일·채소용 주방세제 리필, 500ml, 2개",
-   "price": 12000,
-   "image": "https://shopping.toss.im/live/temp/2026-08-21/3822f187-2b8b-4610-b5d7-001d6815d164.png",
-   "sentAt": "2026-10-29T20:17:25.923+09:00",
-   "unit": "[object Object]",
-   "link": "https://toss.shopping/_m/53V7zP7A"
   }
  ]
 }
