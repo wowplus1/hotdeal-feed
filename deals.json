@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-01T11:24:17.018+09:00",
+ "updated": "2026-11-01T12:04:24.097+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5273794270",
+   "mall": "11번가",
+   "title": "난각번호 1번 유정란 60구 / 파손보상",
+   "price": 15990,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/0/2/5/3/8/0/iOtHa/8585025380_242125876.webp",
+   "sentAt": "2026-11-01T12:04:23.194+09:00",
+   "saving": 56,
+   "baseline": 36310,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/otnAsGM03"
+  },
   {
    "uid": "6660711692",
    "mall": "11번가",
@@ -724,18 +737,6 @@
    "baselineNote": "22곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/ieLC7gmCRg"
-  },
-  {
-   "uid": "6387204421",
-   "mall": "지마켓",
-   "title": "B7 약산성 샴푸 1000ml 2개 + 200ml",
-   "price": 22900,
-   "image": "https://gdimg.gmarket.co.kr/1661739739/goodsimage",
-   "sentAt": "2026-10-29T15:54:44.901+09:00",
-   "saving": 23,
-   "baseline": 29680,
-   "baselineNote": "판매글 20곳 최저가",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=1661739739"
   }
  ]
 }
