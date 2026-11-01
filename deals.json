@@ -1,7 +1,17 @@
 {
- "updated": "2026-11-02T07:04:20.455+09:00",
+ "updated": "2026-11-02T07:17:41.980+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2139835101",
+   "mall": "쿠팡",
+   "title": "2080 시크릿쥬쥬 키즈 칫솔 2종 세트 6개입*2세트",
+   "price": 4600,
+   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/48f6/0bac8457ddc5fe82e8aa4c23bcefca85a5d3de0b7e1064cd938b1311ac50.jpg",
+   "sentAt": "2026-11-02T07:17:41.405+09:00",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/ikTdlKVJx6"
+  },
   {
    "uid": "2550811146",
    "mall": "쿠팡",
@@ -725,18 +735,6 @@
    "baselineNote": "224곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gcfie4gWuy"
-  },
-  {
-   "uid": "2901954245",
-   "mall": "쿠팡",
-   "title": "파파레서피 블레미쉬 세럼, 150ml, 1개",
-   "price": 11120,
-   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/13692609815361080-0f19251c-b022-47ab-99e3-89d2aa1cca5a.jpg",
-   "sentAt": "2026-10-29T21:06:59.356+09:00",
-   "saving": 43,
-   "baseline": 19400,
-   "baselineNote": "25곳 중 최저 · 무료배송",
-   "link": "https://link.coupang.com/a/ifcRhyx4E1"
   }
  ]
 }
