@@ -1,7 +1,19 @@
 {
- "updated": "2026-11-01T17:49:58.041+09:00",
+ "updated": "2026-11-01T18:56:29.605+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4930572184",
+   "mall": "롯데온",
+   "title": "남성 NEW 원단 간절기 75D 니트본딩 아웃도어 팬츠 MVP6332",
+   "price": 9450,
+   "image": "https://contents.lotteon.com/itemimage/20261009210607/LO/20/56/66/95/38/bndl_img/LO2056669538_1.jpg",
+   "sentAt": "2026-11-01T18:56:28.717+09:00",
+   "saving": 21,
+   "baseline": 11950,
+   "baselineNote": "판매글 22곳 최저가",
+   "link": "http://app.ac/cECo3yS83"
+  },
   {
    "uid": "5827032539",
    "mall": "롯데온",
@@ -725,19 +737,6 @@
    "baseline": 17480,
    "baselineNote": "판매글 4곳 최저가",
    "link": "http://app.ac/2bppi4l33"
-  },
-  {
-   "uid": "5552387236",
-   "mall": "11번가",
-   "title": "아워홈 뉴골든 치킨 가라아게 1kg x 2개",
-   "price": 14310,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9060940339/B.webp",
-   "sentAt": "2026-10-29T18:00:47.976+09:00",
-   "saving": 23,
-   "baseline": 18570,
-   "baselineNote": "파는 곳이 여기 하나",
-   "unit": "[object Object]",
-   "link": "http://app.ac/JbpWLSl93"
   }
  ]
 }
