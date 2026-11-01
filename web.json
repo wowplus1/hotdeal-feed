@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-02T04:34:18.920+09:00",
- "count": 152,
+ "updated": "2026-11-02T07:49:56.897+09:00",
+ "count": 153,
  "items": [
+  {
+   "uid": "5319616071",
+   "mall": "쿠팡",
+   "title": "카시오 웨이브셉터 WV-59RD-1AJFㅜ전자시계",
+   "price": 34750,
+   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/65a8/a045383a52b875f22cee4e683f92414a1d4c45c5d160b96fe89d0ca2db73.jpg",
+   "sentAt": "2026-11-02T07:49:56.897+09:00",
+   "saving": 15,
+   "baseline": 41000,
+   "baselineNote": "판매글 39곳 최저가",
+   "link": "https://link.coupang.com/a/ikVBjjhqz6",
+   "web": true
+  },
   {
    "uid": "8421752878",
    "mall": "지마켓",
