@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-01T12:31:40.551+09:00",
- "count": 143,
+ "updated": "2026-11-01T18:24:38.667+09:00",
+ "count": 144,
  "items": [
+  {
+   "uid": "7895312873",
+   "mall": "11번가",
+   "title": "오리온 비쵸비 2mix 6입, 1개",
+   "price": 12160,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9636954180/B.webp?336988533",
+   "sentAt": "2026-11-01T18:24:38.667+09:00",
+   "saving": 10,
+   "baseline": 13490,
+   "baselineNote": "581곳 중 최저",
+   "unit": "[object Object]",
+   "link": "http://app.ac/hAG7Rq523",
+   "web": true
+  },
   {
    "uid": "7621357506",
    "mall": "11번가",
