@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-01T21:25:08.783+09:00",
- "count": 146,
+ "updated": "2026-11-01T22:36:30.839+09:00",
+ "count": 147,
  "items": [
+  {
+   "uid": "3763536376",
+   "mall": "쿠팡",
+   "title": "비타500 이온킥 제로 음료, 1.5L, 12개",
+   "price": 13520,
+   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/03/11/14/6/d6bfcaec-2415-4153-af85-283ea8f5905f.jpg",
+   "sentAt": "2026-11-01T22:36:30.839+09:00",
+   "saving": 29,
+   "baseline": 18910,
+   "baselineNote": "371곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gF2RxIfph6",
+   "web": true
+  },
   {
    "uid": "3260787279",
    "mall": "쿠팡",
