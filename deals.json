@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-03T07:05:40.254+09:00",
+ "updated": "2026-11-03T07:10:48.739+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6763400626",
+   "mall": "쿠팡",
+   "title": "해태htb 갈배사이다 제로, 355ml, 24개",
+   "price": 10320,
+   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/image_audit/prod/ddb78509-3d3c-4de5-9cbd-a2d3c9aec24a_composition_base_0.png",
+   "sentAt": "2026-11-03T07:10:48.176+09:00",
+   "saving": 22,
+   "baseline": 13150,
+   "baselineNote": "298곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gdKXMXeYx2"
+  },
   {
    "uid": "6951602981",
    "mall": "쿠팡",
@@ -723,19 +736,6 @@
    "baseline": 28860,
    "baselineNote": "판매글 4곳 최저가",
    "link": "http://app.ac/6jpEYia03"
-  },
-  {
-   "uid": "6326489384",
-   "mall": "11번가",
-   "title": "하루견과 순수다움 100봉 / 실속 견과 견과류 간식",
-   "price": 38780,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/pd/v2/4/7/2/1/9/3/KutgV/986472193_B.webp",
-   "sentAt": "2026-11-01T09:11:29.168+09:00",
-   "saving": 26,
-   "baseline": 52430,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/btVCirM83"
   }
  ]
 }
