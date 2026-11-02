@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-02T10:19:18.433+09:00",
+ "updated": "2026-11-02T10:20:29.532+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2814517454",
+   "mall": "지마켓",
+   "title": "대운가 본가명인 국내산 배추김치 포기김치 10kg",
+   "price": 25070,
+   "image": "https://gdimg.gmarket.co.kr/4432543461/goodsimage",
+   "sentAt": "2026-11-02T10:20:29.018+09:00",
+   "saving": 24,
+   "baseline": 33030,
+   "baselineNote": "판매글 10곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4432543461"
+  },
   {
    "uid": "7749656150",
    "mall": "11번가",
@@ -728,19 +741,6 @@
    "baselineNote": "판매글 3곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/igrF22X50T"
-  },
-  {
-   "uid": "6361568239",
-   "mall": "쿠팡",
-   "title": "덴마크 소화가 잘되는 우유 락토프리, 190ml, 24개",
-   "price": 12980,
-   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/183b/433a19d3862a79ca52a5469215f7136e5ff92ba37cccfbb4c36ca9286308.jpg",
-   "sentAt": "2026-10-30T15:01:26.159+09:00",
-   "saving": 30,
-   "baseline": 18480,
-   "baselineNote": "116곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/igrEhBolEW"
   }
  ]
 }
