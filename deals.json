@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-02T10:24:52.331+09:00",
+ "updated": "2026-11-02T10:25:52.554+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1921721568",
+   "mall": "쿠팡",
+   "title": "오트몬드 오리지널 190ml 24개",
+   "price": 10940,
+   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/21315516149066-2def4f9a-8ddb-407c-a177-fbbdc1508c8f.jpg",
+   "sentAt": "2026-11-02T10:25:51.787+09:00",
+   "saving": 26,
+   "baseline": 14700,
+   "baselineNote": "438곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/hPtQM74wsC"
+  },
   {
    "uid": "8059398109",
    "mall": "지마켓",
@@ -730,16 +743,6 @@
    "baseline": 44100,
    "baselineNote": "432곳 중 최저 · 무료배송",
    "link": "https://link.coupang.com/a/igDu6C3oVF"
-  },
-  {
-   "uid": "5479804863",
-   "mall": "11번가",
-   "title": "오리온 크림치즈 샌드 나 77g, 10개",
-   "price": 8720,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9167438816/B.webp?27694510",
-   "sentAt": "2026-10-30T17:21:15.847+09:00",
-   "unit": "[object Object]",
-   "link": "http://app.ac/UAGrCF523"
   }
  ]
 }
