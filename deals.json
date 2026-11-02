@@ -1,7 +1,19 @@
 {
- "updated": "2026-11-02T09:19:30.684+09:00",
+ "updated": "2026-11-02T09:23:36.382+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7945346835",
+   "mall": "11번가",
+   "title": "지도표성경김 재래 식탁김 4g 12봉 3개",
+   "price": 9640,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/3/8/4/8/1/3/mlEQk/4349384813_237963272.webp",
+   "sentAt": "2026-11-02T09:23:35.573+09:00",
+   "saving": 30,
+   "baseline": 13830,
+   "baselineNote": "판매글 35곳 최저가",
+   "link": "http://app.ac/Sqn6eW273"
+  },
   {
    "uid": "8933735977",
    "mall": "지마켓",
@@ -721,19 +733,6 @@
    "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1309377750142456-f7174679-2e3a-47f6-acef-5dfcba30e6d9.jpg",
    "sentAt": "2026-10-30T13:20:16.066+09:00",
    "link": "https://link.coupang.com/a/igkqIQ1w1A"
-  },
-  {
-   "uid": "6327450898",
-   "mall": "쿠팡",
-   "title": "오뚜기 허니머스타드, 265g, 2개",
-   "price": 3470,
-   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/97cf485c-303d-4463-84a3-802175b349695814131943573605853.png",
-   "sentAt": "2026-10-30T12:54:33.683+09:00",
-   "saving": 50,
-   "baseline": 7000,
-   "baselineNote": "62곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/igiCbqJ4fI"
   }
  ]
 }
