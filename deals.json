@@ -1,7 +1,16 @@
 {
- "updated": "2026-11-02T10:35:50.694+09:00",
+ "updated": "2026-11-02T11:04:34.647+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6623712475",
+   "mall": "지마켓",
+   "title": "피죤 섬유유연제 피죤 3100ml x3개+2300mlx1개",
+   "price": 15020,
+   "image": "https://gdimg.gmarket.co.kr/1928172559/goodsimage",
+   "sentAt": "2026-11-02T11:04:33.787+09:00",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=1928172559"
+  },
   {
    "uid": "9595955141",
    "mall": "지마켓",
@@ -736,15 +745,6 @@
    "baselineNote": "판매글 3곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/igE8FHwHC0"
-  },
-  {
-   "uid": "8854415149",
-   "mall": "지마켓",
-   "title": "쟌슨빌 클래식 200g 6개+마일드 200g 3개",
-   "price": 17900,
-   "image": "https://gdimg.gmarket.co.kr/4441050327/goodsimage",
-   "sentAt": "2026-10-30T18:04:19.245+09:00",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4441050327"
   }
  ]
 }
