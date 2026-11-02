@@ -1,7 +1,19 @@
 {
- "updated": "2026-11-02T14:45:08.392+09:00",
+ "updated": "2026-11-02T14:59:40.858+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8603989408",
+   "mall": "하이마트",
+   "title": "필립스 무선 헤드폰 TAH2209",
+   "price": 19900,
+   "image": "https://static1.e-himart.co.kr/contents/goods/00/73/42/76/78/0073427678__TAH2209__M_640_640.jpg",
+   "sentAt": "2026-11-02T14:59:40.321+09:00",
+   "saving": 59,
+   "baseline": 48220,
+   "baselineNote": "93곳 중 최저",
+   "link": "http://app.ac/mtntQ7M23"
+  },
   {
    "uid": "3323273256",
    "mall": "지마켓",
@@ -728,18 +740,6 @@
    "baselineNote": "판매글 3곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4640018621"
-  },
-  {
-   "uid": "2133617676",
-   "mall": "롯데온",
-   "title": "농심 생생우동 16봉지 / 국물이 끝내줘요~",
-   "price": 23330,
-   "image": "https://contents.lotteon.com/itemimage/20260914105431/LO/25/75/21/01/18/_2/57/52/10/24/9/LO2575210118_2575210249_1.jpg",
-   "sentAt": "2026-10-31T10:35:36.563+09:00",
-   "saving": 23,
-   "baseline": 30370,
-   "baselineNote": "171곳 중 최저 · 무료배송",
-   "link": "http://app.ac/StVujCM93"
   }
  ]
 }
