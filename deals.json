@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-02T17:50:15.320+09:00",
+ "updated": "2026-11-02T17:53:35.936+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8612574249",
+   "mall": "롯데온",
+   "title": "트리오 대용량 주방세제 14kg",
+   "price": 13160,
+   "image": "https://contents.lotteon.com/itemimage/20261012174953/LO/25/45/30/68/42/_2/54/53/06/84/3/LO2545306842_2545306843_1.jpg",
+   "sentAt": "2026-11-02T17:53:35.392+09:00",
+   "saving": 30,
+   "baseline": 18910,
+   "baselineNote": "판매글 13곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/lAGSFA543"
+  },
   {
    "uid": "9892826940",
    "mall": "지마켓",
@@ -722,19 +735,6 @@
    "baseline": 53100,
    "baselineNote": "21곳 중 최저 · 무료배송",
    "link": "https://link.coupang.com/a/ih25UsgT1g"
-  },
-  {
-   "uid": "9469393239",
-   "mall": "쿠팡",
-   "title": "동원 미네마인 스파클링 동원 고밀도 강탄산, 500ml, 40개",
-   "price": 12720,
-   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1038157907993496-2384c22c-d894-4d5f-9fd1-a54551cb3e83.jpg",
-   "sentAt": "2026-10-31T12:40:17.335+09:00",
-   "saving": 27,
-   "baseline": 17390,
-   "baselineNote": "판매글 38곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/ihWvwU027E"
   }
  ]
 }
