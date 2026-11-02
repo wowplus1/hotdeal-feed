@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-03T05:30:33.415+09:00",
- "count": 187,
+ "updated": "2026-11-03T07:51:40.823+09:00",
+ "count": 188,
  "items": [
+  {
+   "uid": "2276606152",
+   "mall": "쿠팡",
+   "title": "연세두유 고단백 Pro 플레인, 240ml*16개",
+   "price": 15240,
+   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/05/11/13/8/61ab6e7d-d47b-4e14-a1a5-7d19ef89d46a.jpg",
+   "sentAt": "2026-11-03T07:51:40.823+09:00",
+   "saving": 52,
+   "baseline": 31540,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/imADj9tOPA",
+   "web": true
+  },
   {
    "uid": "3516617377",
    "mall": "지마켓",
