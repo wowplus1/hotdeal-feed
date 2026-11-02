@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-02T11:36:10.961+09:00",
+ "updated": "2026-11-02T13:10:30.071+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7368042702",
+   "mall": "쿠팡",
+   "title": "비비드키친 저칼로리 머스터드소스, 320g, 1개",
+   "price": 2290,
+   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/63392091134059-5ca0aa78-5ef9-439e-8199-eb111986daf7.jpg",
+   "sentAt": "2026-11-02T13:10:29.230+09:00",
+   "saving": 30,
+   "baseline": 3280,
+   "baselineNote": "234곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/geShoBvvk4"
+  },
   {
    "uid": "7075951781",
    "mall": "쿠팡",
@@ -732,19 +745,6 @@
    "baselineNote": "판매글 13곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gxXb938fIa"
-  },
-  {
-   "uid": "7240605582",
-   "mall": "쿠팡",
-   "title": "하이뮨 마시는 프로틴 밸런스 음료, 125ml, 24개",
-   "price": 16400,
-   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1053195983181770-6fb3ca31-c531-4dca-aa7b-8bb4f4a76dc5.jpg",
-   "sentAt": "2026-10-31T07:17:57.008+09:00",
-   "saving": 48,
-   "baseline": 31820,
-   "baselineNote": "판매글 9곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gw16nkMa6K"
   }
  ]
 }
