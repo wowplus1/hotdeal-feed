@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-02T15:24:51.046+09:00",
- "count": 168,
+ "updated": "2026-11-02T16:54:11.066+09:00",
+ "count": 169,
  "items": [
+  {
+   "uid": "2675518231",
+   "mall": "하이마트",
+   "title": "세라믹 선풍기형 좌석용 히터 KEH-S25C",
+   "price": 29900,
+   "image": "https://static2.e-himart.co.kr/contents/goods/00/73/01/71/07/0073017107__KEH-S25C__M_640_640.jpg",
+   "sentAt": "2026-11-02T16:54:11.066+09:00",
+   "saving": 25,
+   "baseline": 40020,
+   "baselineNote": "30곳 중 최저 · 무료배송",
+   "link": "http://app.ac/GEwjEXS83",
+   "web": true
+  },
   {
    "uid": "2891601260",
    "mall": "쿠팡",
