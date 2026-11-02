@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-02T20:43:42.836+09:00",
+ "updated": "2026-11-02T20:53:43.874+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8277432070",
+   "mall": "지마켓",
+   "title": "스테비아 대추방울토마토2kg",
+   "price": 10970,
+   "image": "https://gdimg.gmarket.co.kr/4647070635/goodsimage",
+   "sentAt": "2026-11-02T20:53:43.255+09:00",
+   "saving": 56,
+   "baseline": 24800,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4647070635"
+  },
   {
    "uid": "1384839594",
    "mall": "쿠팡",
@@ -723,18 +736,6 @@
    "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1309377750142456-f7174679-2e3a-47f6-acef-5dfcba30e6d9.jpg",
    "sentAt": "2026-10-31T21:16:55.030+09:00",
    "link": "https://link.coupang.com/a/h8OXK605IG"
-  },
-  {
-   "uid": "2828610039",
-   "mall": "롯데온",
-   "title": "안동소주 일품 골드 40도 500ml 증류주",
-   "price": 18880,
-   "image": "https://contents.lotteon.com/itemimage/20261028143138/LO/13/13/27/76/78/_1/31/32/77/67/9/LO1313277678_1313277679_1.jpg",
-   "sentAt": "2026-10-31T20:46:40.205+09:00",
-   "saving": 24,
-   "baseline": 24920,
-   "baselineNote": "판매글 8곳 최저가",
-   "link": "http://app.ac/vjpEuga13"
   }
  ]
 }
