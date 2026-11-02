@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-02T08:58:40.094+09:00",
- "count": 154,
+ "updated": "2026-11-02T09:23:31.928+09:00",
+ "count": 155,
  "items": [
+  {
+   "uid": "5336522415",
+   "mall": "지마켓",
+   "title": "펩시 제로라임 210mlx30캔+355ml 24캔",
+   "price": 23900,
+   "image": "https://gdimg.gmarket.co.kr/4627079578/goodsimage",
+   "sentAt": "2026-11-02T09:23:31.928+09:00",
+   "saving": 12,
+   "baseline": 27060,
+   "baselineNote": "판매글 20곳 최저가",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4627079578",
+   "web": true
+  },
   {
    "uid": "8073484968",
    "mall": "지마켓",
