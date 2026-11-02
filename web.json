@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-02T12:24:24.676+09:00",
- "count": 165,
+ "updated": "2026-11-02T13:48:35.282+09:00",
+ "count": 166,
  "items": [
+  {
+   "uid": "1187787558",
+   "mall": "롯데온",
+   "title": "LG전자 그램15 AI 15ZD80T-GX56K AMD 라이젠 크라켄 R5 340 DDR5 16GB / 256GB / OS미포함 15인치 화이트 ND",
+   "price": 1470000,
+   "image": "https://contents.lotteon.com/itemimage/20261101003458/LO/27/40/40/76/61/_2/74/04/07/66/2/LO2740407661_2740407662_4.jpg",
+   "sentAt": "2026-11-02T13:48:35.282+09:00",
+   "saving": 15,
+   "baseline": 1735900,
+   "baselineNote": "판매글 16곳 최저가",
+   "link": "http://app.ac/ftntZHM93",
+   "web": true
+  },
   {
    "uid": "7426980737",
    "mall": "지마켓",
