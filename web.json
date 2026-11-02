@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-03T00:04:32.559+09:00",
- "count": 182,
+ "updated": "2026-11-03T00:09:40.574+09:00",
+ "count": 184,
  "items": [
+  {
+   "uid": "9847187797",
+   "mall": "지마켓",
+   "title": "제주 감귤 실중량 9kg 대과",
+   "price": 9340,
+   "image": "https://gdimg.gmarket.co.kr/4882408202/goodsimage",
+   "sentAt": "2026-11-03T00:09:40.574+09:00",
+   "saving": 33,
+   "baseline": 13900,
+   "baselineNote": "판매글 22곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4882408202",
+   "web": true
+  },
+  {
+   "uid": "6254450335",
+   "mall": "11번가",
+   "title": "간장 순살게장 300g + 간장 순살게장 300g",
+   "price": 18550,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/0/6/4/4/4/7/nbjyp/7921064447_242341126.webp",
+   "sentAt": "2026-11-03T00:09:40.575+09:00",
+   "link": "http://app.ac/2tnqGFM03",
+   "web": true
+  },
   {
    "uid": "1857034877",
    "mall": "롯데온",
