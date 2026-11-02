@@ -1,7 +1,17 @@
 {
- "updated": "2026-11-03T08:19:48.982+09:00",
+ "updated": "2026-11-03T08:53:45.990+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4683662802",
+   "mall": "지마켓",
+   "title": "미니 핫팩 25g 80매",
+   "price": 11420,
+   "image": "https://gdimg.gmarket.co.kr/4197161176/goodsimage",
+   "sentAt": "2026-11-03T08:53:45.418+09:00",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4197161176"
+  },
   {
    "uid": "5834251095",
    "mall": "쿠팡",
@@ -725,18 +735,6 @@
    "baseline": 13070,
    "baselineNote": "33곳 중 최저 · 무료배송",
    "link": "http://app.ac/ujpEFpa63"
-  },
-  {
-   "uid": "7190878083",
-   "mall": "롯데온",
-   "title": "두메산골 냉장 닭다리살1kg+1kg",
-   "price": 19900,
-   "image": "https://contents.lotteon.com/itemimage/20261101104017/LO/23/59/67/41/93/_2/35/96/74/19/4/LO2359674193_2359674194_1.jpg",
-   "sentAt": "2026-11-01T13:14:46.849+09:00",
-   "saving": 21,
-   "baseline": 25100,
-   "baselineNote": "판매글 13곳 최저가",
-   "link": "http://app.ac/WqDt3O273"
   }
  ]
 }
