@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-02T09:33:32.694+09:00",
+ "updated": "2026-11-02T10:08:29.999+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4388527926",
+   "mall": "롯데온",
+   "title": "국내산 태안 살아있는 생새우 활새우 1kg 회 소금구이 당일조업",
+   "price": 14830,
+   "image": "https://contents.lotteon.com/itemimage/20261030202255/LO/28/03/42/24/66/_2/80/34/22/46/7/LO2803422466_2803422467_1.jpg",
+   "sentAt": "2026-11-02T10:08:29.375+09:00",
+   "saving": 30,
+   "baseline": 21280,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/cEwE1cS43"
+  },
   {
    "uid": "7279431455",
    "mall": "지마켓",
@@ -727,16 +740,6 @@
    "baselineNote": "204곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/igmW2NsjWC"
-  },
-  {
-   "uid": "1360277266",
-   "mall": "지마켓",
-   "title": "제주삼다수 무라벨 2L 24병",
-   "price": 17880,
-   "image": "https://gdimg.gmarket.co.kr/4789745013/goodsimage",
-   "sentAt": "2026-10-30T13:46:43.270+09:00",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4789745013"
   }
  ]
 }
