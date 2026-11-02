@@ -1,7 +1,28 @@
 {
- "updated": "2026-11-02T14:59:40.858+09:00",
+ "updated": "2026-11-02T17:02:07.988+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6928610467",
+   "mall": "지마켓",
+   "title": "ph365 베이비유산균 27,420원/키즈유산균 33,140원",
+   "price": 26480,
+   "image": "https://gdimg.gmarket.co.kr/1838184501/goodsimage",
+   "sentAt": "2026-11-02T17:02:07.030+09:00",
+   "saving": 23,
+   "baseline": 34180,
+   "baselineNote": "판매글 3곳 최저가",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=1838184501"
+  },
+  {
+   "uid": "9947254221",
+   "mall": "지마켓",
+   "title": "베베숲 프라임 70매 캡 20팩70gsm",
+   "price": 19990,
+   "image": "https://gdimg.gmarket.co.kr/3039555146/goodsimage",
+   "sentAt": "2026-11-02T17:02:07.030+09:00",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=3039555146"
+  },
   {
    "uid": "8603989408",
    "mall": "하이마트",
@@ -714,32 +735,6 @@
    "baselineNote": "판매글 5곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/zECmQkS33"
-  },
-  {
-   "uid": "9795879176",
-   "mall": "쿠팡",
-   "title": "세타필 모이스춰라이징 크림, 550g, 1개",
-   "price": 13260,
-   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/107773577349111-724cc438-f29e-4636-9a1c-0a4b7bcb57b6.jpg",
-   "sentAt": "2026-10-31T11:21:19.451+09:00",
-   "saving": 20,
-   "baseline": 16490,
-   "baselineNote": "625곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/ihQRFViHK0"
-  },
-  {
-   "uid": "1408090994",
-   "mall": "지마켓",
-   "title": "국내산 청양멸치다짐 150g 2개",
-   "price": 11900,
-   "image": "https://gdimg.gmarket.co.kr/4640018621/goodsimage",
-   "sentAt": "2026-10-31T10:56:44.282+09:00",
-   "saving": 40,
-   "baseline": 19860,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4640018621"
   }
  ]
 }
