@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-02T20:53:43.874+09:00",
+ "updated": "2026-11-02T21:00:13.065+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2583799036",
+   "mall": "지마켓",
+   "title": "크리넥스 도톰한 3겹 데코소프트 28M 24롤 2팩",
+   "price": 26900,
+   "image": "https://gdimg.gmarket.co.kr/2470977918/goodsimage",
+   "sentAt": "2026-11-02T21:00:12.508+09:00",
+   "saving": 24,
+   "baseline": 35310,
+   "baselineNote": "판매글 19곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2470977918"
+  },
   {
    "uid": "8277432070",
    "mall": "지마켓",
@@ -727,15 +740,6 @@
    "baselineNote": "판매글 6곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=1901738266"
-  },
-  {
-   "uid": "4573689896",
-   "mall": "쿠팡",
-   "title": "스탠리 퀜처 H2.0 플로우 스테이트 텀블러 887ml*1개",
-   "price": 18740,
-   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1309377750142456-f7174679-2e3a-47f6-acef-5dfcba30e6d9.jpg",
-   "sentAt": "2026-10-31T21:16:55.030+09:00",
-   "link": "https://link.coupang.com/a/h8OXK605IG"
   }
  ]
 }
