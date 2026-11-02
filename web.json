@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-02T19:05:42.410+09:00",
- "count": 172,
+ "updated": "2026-11-02T20:09:05.557+09:00",
+ "count": 173,
  "items": [
+  {
+   "uid": "6496037776",
+   "mall": "11번가",
+   "title": "앙블랑 아기물티슈 그랜드 네이비 캡형 70매X20팩",
+   "price": 27120,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/7407909161/B.webp",
+   "sentAt": "2026-11-02T20:09:05.557+09:00",
+   "saving": 13,
+   "baseline": 31220,
+   "baselineNote": "판매글 28곳 최저가",
+   "link": "http://app.ac/5AGKnn583",
+   "web": true
+  },
   {
    "uid": "2174227450",
    "mall": "지마켓",
