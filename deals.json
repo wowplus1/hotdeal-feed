@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-02T14:30:04.167+09:00",
+ "updated": "2026-11-02T14:45:08.392+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3323273256",
+   "mall": "지마켓",
+   "title": "오예스 알뜰형 x 3개",
+   "price": 17170,
+   "image": "https://gdimg.gmarket.co.kr/4460650141/goodsimage",
+   "sentAt": "2026-11-02T14:45:07.737+09:00",
+   "saving": 49,
+   "baseline": 33387,
+   "baselineNote": "판매글 16곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4460650141"
+  },
   {
    "uid": "8798790014",
    "mall": "지마켓",
@@ -727,19 +740,6 @@
    "baseline": 30370,
    "baselineNote": "171곳 중 최저 · 무료배송",
    "link": "http://app.ac/StVujCM93"
-  },
-  {
-   "uid": "7434824866",
-   "mall": "지마켓",
-   "title": "시크릿데이 입는오버나이트 에디션 생리대 6p 10팩",
-   "price": 29840,
-   "image": "https://gdimg.gmarket.co.kr/1917673345/goodsimage",
-   "sentAt": "2026-10-31T09:59:14.131+09:00",
-   "saving": 50,
-   "baseline": 59890,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=1917673345"
   }
  ]
 }
