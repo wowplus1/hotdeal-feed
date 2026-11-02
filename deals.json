@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-02T10:20:29.532+09:00",
+ "updated": "2026-11-02T10:23:50.141+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2430407497",
+   "mall": "쿠팡",
+   "title": "포스트 오레오오즈 요거트큐브 시리얼, 400g 5,610원",
+   "price": 4700,
+   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/04/01/11/3/1eb4b3ab-72b8-49ef-9f44-6f449821df0f.jpg",
+   "sentAt": "2026-11-02T10:23:49.469+09:00",
+   "saving": 67,
+   "baseline": 14220,
+   "baselineNote": "판매글 6곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/ht2oyvheU0"
+  },
   {
    "uid": "2814517454",
    "mall": "지마켓",
@@ -728,19 +741,6 @@
    "baselineNote": "판매글 26곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4846647819"
-  },
-  {
-   "uid": "2305431584",
-   "mall": "쿠팡",
-   "title": "퍼실 딥클린 초미세세탁 라벤더젤 겸용 액체세제 리필 2l 2개",
-   "price": 12920,
-   "image": "https://t3a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/9166b985-e2eb-482e-b9ed-cb35f31a338f12419303625419161701.png",
-   "sentAt": "2026-10-30T15:01:26.159+09:00",
-   "saving": 50,
-   "baseline": 25830,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/igrF22X50T"
   }
  ]
 }
