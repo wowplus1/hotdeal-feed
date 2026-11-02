@@ -1,7 +1,19 @@
 {
- "updated": "2026-11-02T17:53:35.936+09:00",
+ "updated": "2026-11-02T18:00:50.267+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1823019229",
+   "mall": "11번가",
+   "title": "오리온 초코파이 망고라씨맛 12입, 4개",
+   "price": 14160,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9709889495/B.webp?247913391",
+   "sentAt": "2026-11-02T18:00:49.736+09:00",
+   "saving": 24,
+   "baseline": 18610,
+   "baselineNote": "판매글 3곳 최저가",
+   "link": "http://app.ac/fqDlKd213"
+  },
   {
    "uid": "8612574249",
    "mall": "롯데온",
@@ -723,18 +735,6 @@
    "baseline": 11970,
    "baselineNote": "113곳 중 최저",
    "link": "https://link.coupang.com/a/ih6XBIIYUK"
-  },
-  {
-   "uid": "2872247932",
-   "mall": "쿠팡",
-   "title": "스탠리 올데이 캐리올 퀜처 H2.0 텀블러 스트랩백 1.18L, 라일락, 1개",
-   "price": 17840,
-   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/76237751015424-1c71404e-dd98-40f4-80e8-6d72ca6dd5de.jpg",
-   "sentAt": "2026-10-31T14:12:17.799+09:00",
-   "saving": 66,
-   "baseline": 53100,
-   "baselineNote": "21곳 중 최저 · 무료배송",
-   "link": "https://link.coupang.com/a/ih25UsgT1g"
   }
  ]
 }
