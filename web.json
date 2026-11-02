@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-02T09:38:35.069+09:00",
- "count": 158,
+ "updated": "2026-11-02T09:55:15.232+09:00",
+ "count": 159,
  "items": [
+  {
+   "uid": "2033154318",
+   "mall": "11번가",
+   "title": "삼성 LH75BEHHLGFXKR 189.3cm 비즈니스TV 4K UHD 스탠드형",
+   "price": 913880,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9693403005/B.webp?314253760",
+   "sentAt": "2026-11-02T09:55:15.232+09:00",
+   "saving": 15,
+   "baseline": 1076210,
+   "baselineNote": "판매글 21곳 최저가",
+   "link": "http://app.ac/SqDqJS203",
+   "web": true
+  },
   {
    "uid": "8239889761",
    "mall": "지마켓",
