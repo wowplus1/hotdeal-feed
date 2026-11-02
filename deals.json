@@ -1,7 +1,17 @@
 {
- "updated": "2026-11-02T13:14:34.701+09:00",
+ "updated": "2026-11-02T13:30:20.459+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1149175171",
+   "mall": "쿠팡",
+   "title": "센소다인 멀티케어 치약, 100g, 3개",
+   "price": 9200,
+   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/image_audit/prod/abd2de5f-ea0c-4c97-953c-47efda0bd4ae_fixing_v2.png",
+   "sentAt": "2026-11-02T13:30:19.922+09:00",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gwghyKPSNM"
+  },
   {
    "uid": "1701357547",
    "mall": "지마켓",
@@ -731,19 +741,6 @@
    "baselineNote": "203곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hsjcet77jo"
-  },
-  {
-   "uid": "6832297572",
-   "mall": "쿠팡",
-   "title": "더미식 백미밥, 210g, 24개",
-   "price": 21990,
-   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/8c42/841a417502b7c9344a88c79124d23341b68398cb4d712d0e06d502368c17.jpg",
-   "sentAt": "2026-10-31T09:02:09.880+09:00",
-   "saving": 48,
-   "baseline": 41970,
-   "baselineNote": "18곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gYZqsWrR8u"
   }
  ]
 }
