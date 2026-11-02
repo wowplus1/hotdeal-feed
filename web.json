@@ -1,7 +1,33 @@
 {
- "updated": "2026-11-02T09:34:33.923+09:00",
- "count": 156,
+ "updated": "2026-11-02T09:38:35.069+09:00",
+ "count": 158,
  "items": [
+  {
+   "uid": "8239889761",
+   "mall": "지마켓",
+   "title": "살부루아 유기농 엑스트라버진 올리브유 500ml 2병 + 250ml 증정",
+   "price": 24390,
+   "image": "https://gdimg.gmarket.co.kr/4460724686/goodsimage",
+   "sentAt": "2026-11-02T09:38:35.069+09:00",
+   "saving": 23,
+   "baseline": 31520,
+   "baselineNote": "84곳 중 최저",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4460724686",
+   "web": true
+  },
+  {
+   "uid": "1839841654",
+   "mall": "지마켓",
+   "title": "삼성 비스포크 RWP54421BF7M 직수형 냉온정수기 빌트인 화이트",
+   "price": 699540,
+   "image": "https://gdimg.gmarket.co.kr/3489248573/goodsimage",
+   "sentAt": "2026-11-02T09:38:35.069+09:00",
+   "saving": 20,
+   "baseline": 869557,
+   "baselineNote": "192곳 중 최저 · 무료배송",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=3489248573",
+   "web": true
+  },
   {
    "uid": "2521827444",
    "mall": "쿠팡",
