@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-02T07:49:56.897+09:00",
- "count": 153,
+ "updated": "2026-11-02T08:58:40.094+09:00",
+ "count": 154,
  "items": [
+  {
+   "uid": "8073484968",
+   "mall": "지마켓",
+   "title": "모나리자 소프트리 순수 3겹 화장지 30m 30롤 2팩",
+   "price": 22230,
+   "image": "https://gdimg.gmarket.co.kr/4147348242/goodsimage",
+   "sentAt": "2026-11-02T08:58:40.094+09:00",
+   "saving": 20,
+   "baseline": 27890,
+   "baselineNote": "판매글 15곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4147348242",
+   "web": true
+  },
   {
    "uid": "5319616071",
    "mall": "쿠팡",
