@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-02T08:50:04.853+09:00",
+ "updated": "2026-11-02T09:03:40.366+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6732001461",
+   "mall": "지마켓",
+   "title": "빈타이포타베트남쌀국수 30팩/소고기맛",
+   "price": 22680,
+   "image": "https://gdimg.gmarket.co.kr/2453428889/goodsimage",
+   "sentAt": "2026-11-02T09:03:39.607+09:00",
+   "saving": 32,
+   "baseline": 33210,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2453428889"
+  },
   {
    "uid": "8433271003",
    "mall": "쿠팡",
@@ -718,19 +731,6 @@
    "sentAt": "2026-10-30T12:54:33.683+09:00",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/igiCRyth3k"
-  },
-  {
-   "uid": "1603012516",
-   "mall": "지마켓",
-   "title": "기가 마시멜로우 마일드 90g 3봉",
-   "price": 6880,
-   "image": "https://gdimg.gmarket.co.kr/4888228846/goodsimage",
-   "sentAt": "2026-10-30T10:29:21.775+09:00",
-   "saving": 24,
-   "baseline": 9000,
-   "baselineNote": "판매글 8곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4888228846"
   }
  ]
 }
