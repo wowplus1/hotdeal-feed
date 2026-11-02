@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-02T09:55:15.232+09:00",
- "count": 159,
+ "updated": "2026-11-02T10:09:48.525+09:00",
+ "count": 160,
  "items": [
+  {
+   "uid": "4885996166",
+   "mall": "지마켓",
+   "title": "삼성전자 비스포크 ai 로봇청소기 VR70F00AGG 새틴",
+   "price": 999000,
+   "image": "https://gdimg.gmarket.co.kr/4764497623/goodsimage",
+   "sentAt": "2026-11-02T10:09:48.525+09:00",
+   "saving": 11,
+   "baseline": 1127150,
+   "baselineNote": "332곳 중 최저 · 무료배송",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4764497623",
+   "web": true
+  },
   {
    "uid": "2033154318",
    "mall": "11번가",
