@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-02T13:48:35.282+09:00",
- "count": 166,
+ "updated": "2026-11-02T13:58:56.949+09:00",
+ "count": 167,
  "items": [
+  {
+   "uid": "5202667637",
+   "mall": "GS SHOP",
+   "title": "대용량 메추리알 장조림 1kg 2팩",
+   "price": 15900,
+   "image": "https://asset.m-gs.kr/prod/1037730341/1/280",
+   "sentAt": "2026-11-02T13:58:56.949+09:00",
+   "saving": 17,
+   "baseline": 19100,
+   "baselineNote": "판매글 7곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/PAVAZ6563",
+   "web": true
+  },
   {
    "uid": "1187787558",
    "mall": "롯데온",
