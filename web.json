@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-02T13:58:56.949+09:00",
- "count": 167,
+ "updated": "2026-11-02T15:24:51.046+09:00",
+ "count": 168,
  "items": [
+  {
+   "uid": "2891601260",
+   "mall": "쿠팡",
+   "title": "시티즌 에코드라이브 BM7620-83A 흰판 남자시계",
+   "price": 170240,
+   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/3f79/ffd44f1253ee181c17e04b832f2196c2a9c09e314eb26e24f7c998f328e1.jpg",
+   "sentAt": "2026-11-02T15:24:51.046+09:00",
+   "saving": 15,
+   "baseline": 199690,
+   "baselineNote": "200곳 중 최저",
+   "link": "https://link.coupang.com/a/hNTSdvPzZA",
+   "web": true
+  },
   {
    "uid": "5202667637",
    "mall": "GS SHOP",
