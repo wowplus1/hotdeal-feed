@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-02T10:25:52.554+09:00",
+ "updated": "2026-11-02T10:30:33.488+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8789623748",
+   "mall": "롯데온",
+   "title": "바르온 삼계탕 1kg x 5팩",
+   "price": 17900,
+   "image": "https://contents.lotteon.com/itemimage/20261030134314/LO/27/25/06/93/07/_2/72/50/69/30/8/LO2725069307_2725069308_1.jpg",
+   "sentAt": "2026-11-02T10:30:32.609+09:00",
+   "saving": 28,
+   "baseline": 24900,
+   "baselineNote": "6곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "http://app.ac/2qDqoI223"
+  },
   {
    "uid": "1921721568",
    "mall": "쿠팡",
@@ -731,18 +744,6 @@
    "baseline": 21990,
    "baselineNote": "판매글 37곳 최저가",
    "link": "https://link.coupang.com/a/f9Akgn8KKj"
-  },
-  {
-   "uid": "3329051051",
-   "mall": "쿠팡",
-   "title": "스탠리 퀜처 H2.0 플로우 스테이트 텀블러 887ml*1개",
-   "price": 19850,
-   "image": "https://thumbnail1.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1309377750142456-f7174679-2e3a-47f6-acef-5dfcba30e6d9.jpg",
-   "sentAt": "2026-10-30T17:46:45.176+09:00",
-   "saving": 55,
-   "baseline": 44100,
-   "baselineNote": "432곳 중 최저 · 무료배송",
-   "link": "https://link.coupang.com/a/igDu6C3oVF"
   }
  ]
 }
