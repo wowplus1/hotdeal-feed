@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-03T07:22:32.980+09:00",
+ "updated": "2026-11-03T07:37:47.830+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7843630637",
+   "mall": "쿠팡",
+   "title": "하림 크런치킹 치킨너겟 , 1kg, 2개",
+   "price": 11880,
+   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/e0aca010-c308-4a29-a98f-2b7df9002f207729522876394260941.png",
+   "sentAt": "2026-11-03T07:37:47.283+09:00",
+   "saving": 28,
+   "baseline": 16600,
+   "baselineNote": "다른 곳 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/imzGbipx6X"
+  },
   {
    "uid": "8875107261",
    "mall": "쿠팡",
@@ -724,19 +737,6 @@
    "baselineNote": "판매글 4곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/otnAsGM03"
-  },
-  {
-   "uid": "6660711692",
-   "mall": "11번가",
-   "title": "브리타 정수기 필터 막스트라 프로 퓨어 퍼포먼스 3입",
-   "price": 18150,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/3728922923/B.webp",
-   "sentAt": "2026-11-01T11:24:16.283+09:00",
-   "saving": 25,
-   "baseline": 24330,
-   "baselineNote": "48곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "http://app.ac/oqne2v293"
   }
  ]
 }
