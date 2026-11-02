@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-02T20:24:59.228+09:00",
- "count": 176,
+ "updated": "2026-11-02T21:30:31.713+09:00",
+ "count": 177,
  "items": [
+  {
+   "uid": "8131829208",
+   "mall": "지마켓",
+   "title": "JBL BAR 1300 MK2 11.4 채널 사운드바",
+   "price": 1180860,
+   "image": "https://gdimg.gmarket.co.kr/4622794834/goodsimage",
+   "sentAt": "2026-11-02T21:30:31.713+09:00",
+   "saving": 17,
+   "baseline": 1422960,
+   "baselineNote": "42곳 중 최저 · 무료배송",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4622794834",
+   "web": true
+  },
   {
    "uid": "3643793545",
    "mall": "쿠팡",
