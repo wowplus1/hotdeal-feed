@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-03T07:43:34.708+09:00",
+ "updated": "2026-11-03T08:19:48.982+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5834251095",
+   "mall": "쿠팡",
+   "title": "코카콜라 오리지널, 300ml, 24개",
+   "price": 15910,
+   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/product/image/vendoritem/2019/02/27/3000333188/e9f052e6-5ae6-45e6-a2b0-e60fe3dbe7ac.jpg",
+   "sentAt": "2026-11-03T08:19:48.250+09:00",
+   "saving": 29,
+   "baseline": 22300,
+   "baselineNote": "판매글 31곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/giK9GtXE4q"
+  },
   {
    "uid": "3545911130",
    "mall": "쿠팡",
@@ -724,19 +737,6 @@
    "baseline": 25100,
    "baselineNote": "판매글 13곳 최저가",
    "link": "http://app.ac/WqDt3O273"
-  },
-  {
-   "uid": "9265507885",
-   "mall": "쿠팡",
-   "title": "백설 100% 통참깨 참기름, 320ml, 2개",
-   "price": 11280,
-   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/9a6f9736-b69e-479a-9f20-95939e4582e511764761289546531406.png",
-   "sentAt": "2026-11-01T12:44:36.159+09:00",
-   "saving": 33,
-   "baseline": 16720,
-   "baselineNote": "52곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/ijBJAE3hKg"
   }
  ]
 }
