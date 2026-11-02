@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-02T18:00:50.267+09:00",
+ "updated": "2026-11-02T18:13:18.110+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7227443953",
+   "mall": "롯데온",
+   "title": "해남절임배추 20kg 김장 절임 배추 김치",
+   "price": 29010,
+   "image": "https://contents.lotteon.com/itemimage/20261102172124/LO/26/78/47/90/97/_2/67/84/79/12/7/LO2678479097_2678479127_1.jpg",
+   "sentAt": "2026-11-02T18:13:17.371+09:00",
+   "saving": 36,
+   "baseline": 45410,
+   "baselineNote": "다른 곳 최저",
+   "unit": "[object Object]",
+   "link": "http://app.ac/ljpbqna13"
+  },
   {
    "uid": "1823019229",
    "mall": "11번가",
@@ -723,18 +736,6 @@
    "baselineNote": "2곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/ie1D8s3sqW"
-  },
-  {
-   "uid": "4240289118",
-   "mall": "쿠팡",
-   "title": "세타필 젠틀 스킨 클렌저 473ml*1개",
-   "price": 7850,
-   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/322416961259287-bb522629-38c6-423d-a169-80c4c9669047.jpg",
-   "sentAt": "2026-10-31T15:06:46.393+09:00",
-   "saving": 34,
-   "baseline": 11970,
-   "baselineNote": "113곳 중 최저",
-   "link": "https://link.coupang.com/a/ih6XBIIYUK"
   }
  ]
 }
