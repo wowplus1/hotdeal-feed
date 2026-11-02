@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-02T16:54:11.066+09:00",
- "count": 169,
+ "updated": "2026-11-02T17:35:29.038+09:00",
+ "count": 170,
  "items": [
+  {
+   "uid": "1782236114",
+   "mall": "지마켓",
+   "title": "삼성 스마트모니터 M7 LS32FM701 32형 UHD 4K AI 리모컨",
+   "price": 465368,
+   "image": "https://gdimg.gmarket.co.kr/4441064335/goodsimage",
+   "sentAt": "2026-11-02T17:35:29.038+09:00",
+   "saving": 22,
+   "baseline": 599000,
+   "baselineNote": "판매글 3곳 최저가",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4441064335",
+   "web": true
+  },
   {
    "uid": "2675518231",
    "mall": "하이마트",
