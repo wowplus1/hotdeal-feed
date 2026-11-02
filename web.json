@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-03T07:51:40.823+09:00",
- "count": 188,
+ "updated": "2026-11-03T08:10:16.952+09:00",
+ "count": 189,
  "items": [
+  {
+   "uid": "4042865012",
+   "mall": "쿠팡",
+   "title": "펩시 제로 슈거 라임향 제로 카페인, 355ml, 24개",
+   "price": 12240,
+   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/10/01/11/9/33d77ad6-f56b-41e5-a658-85e2767fa0bc.jpg",
+   "sentAt": "2026-11-03T08:10:16.952+09:00",
+   "saving": 10,
+   "baseline": 13650,
+   "baselineNote": "845곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gF2SJNgKZ2",
+   "web": true
+  },
   {
    "uid": "2276606152",
    "mall": "쿠팡",
