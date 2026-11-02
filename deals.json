@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-03T07:10:48.739+09:00",
+ "updated": "2026-11-03T07:22:32.980+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8875107261",
+   "mall": "쿠팡",
+   "title": "케라시스 두피 비듬케어 딥클린 쿨링 단백질 샴푸, 600ml, 2개",
+   "price": 5560,
+   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/5b75ff12-fd8d-48b3-9161-7fd0af37f79c4051578485349656535.png",
+   "sentAt": "2026-11-03T07:22:32.434+09:00",
+   "saving": 42,
+   "baseline": 9600,
+   "baselineNote": "9곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/imyA6CJ2rI"
+  },
   {
    "uid": "6763400626",
    "mall": "쿠팡",
@@ -724,18 +737,6 @@
    "baselineNote": "48곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "http://app.ac/oqne2v293"
-  },
-  {
-   "uid": "4428965171",
-   "mall": "11번가",
-   "title": "센소다인 시린이케어 오리지날 플러스 치약 100g, 6개+딥클린 칫솔 1입,1개 + 증정",
-   "price": 16680,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/8255226587/B.jpg?596076734",
-   "sentAt": "2026-11-01T09:21:59.406+09:00",
-   "saving": 42,
-   "baseline": 28860,
-   "baselineNote": "판매글 4곳 최저가",
-   "link": "http://app.ac/6jpEYia03"
   }
  ]
 }
