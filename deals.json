@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-02T19:15:43.175+09:00",
+ "updated": "2026-11-02T19:30:15.486+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6941874512",
+   "mall": "쿠팡",
+   "title": "맥널티커피 베트남 g1 싱글오리진 커피 원두 1kg",
+   "price": 7280,
+   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/09/18/18/5/428e9dec-e7b9-43ff-82fd-388aefe679e0.png",
+   "sentAt": "2026-11-02T19:30:14.616+09:00",
+   "saving": 74,
+   "baseline": 27900,
+   "baselineNote": "판매글 6곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/h0h9iXnET6"
+  },
   {
    "uid": "3118544900",
    "mall": "롯데온",
@@ -722,19 +735,6 @@
    "baselineNote": "300곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/iiuJ7oZEOW"
-  },
-  {
-   "uid": "5937474227",
-   "mall": "쿠팡",
-   "title": "데체코 스파게티, 500g, 2개",
-   "price": 5480,
-   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/43523227340037-a5f858e4-3800-466a-a823-3d8a989a2efa.jpg",
-   "sentAt": "2026-10-31T19:54:17.006+09:00",
-   "saving": 58,
-   "baseline": 13140,
-   "baselineNote": "판매글 11곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/iirw8opNVA"
   }
  ]
 }
