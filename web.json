@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-02T09:25:14.903+09:00",
- "count": 155,
+ "updated": "2026-11-02T09:34:33.923+09:00",
+ "count": 156,
  "items": [
+  {
+   "uid": "2521827444",
+   "mall": "쿠팡",
+   "title": "파워에이드 퍼플스톰, 600ml, 20개",
+   "price": 16130,
+   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/5392629616744-370c312d-9587-4e93-8cc4-572119bb16fc.jpg",
+   "sentAt": "2026-11-02T09:34:33.923+09:00",
+   "saving": 15,
+   "baseline": 19040,
+   "baselineNote": "458곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/ghbuynx9ki",
+   "web": true
+  },
   {
    "uid": "2751212063",
    "mall": "지마켓",
