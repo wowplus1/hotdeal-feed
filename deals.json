@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-02T11:04:34.647+09:00",
+ "updated": "2026-11-02T11:18:40.912+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9606595390",
+   "mall": "지마켓",
+   "title": "도브 바디워시 1000ml 3개",
+   "price": 11600,
+   "image": "https://gdimg.gmarket.co.kr/1677460336/goodsimage",
+   "sentAt": "2026-11-02T11:18:40.174+09:00",
+   "saving": 55,
+   "baseline": 25560,
+   "baselineNote": "판매글 8곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=1677460336"
+  },
   {
    "uid": "6623712475",
    "mall": "지마켓",
@@ -732,19 +745,6 @@
    "baselineNote": "판매글 7곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/ihy8EpJGbQ"
-  },
-  {
-   "uid": "3689664897",
-   "mall": "쿠팡",
-   "title": "다향 1등급 훈제 오리 슬라이스, 600g, 2개",
-   "price": 17440,
-   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/5458851699897-3ce4e405-5f06-408a-952b-e424a0a534a1.jpg",
-   "sentAt": "2026-10-30T18:09:31.513+09:00",
-   "saving": 58,
-   "baseline": 41390,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/igE8FHwHC0"
   }
  ]
 }
