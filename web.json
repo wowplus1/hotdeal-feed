@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-03T00:09:40.574+09:00",
- "count": 184,
+ "updated": "2026-11-03T00:11:18.344+09:00",
+ "count": 185,
  "items": [
+  {
+   "uid": "4445811806",
+   "mall": "11번가",
+   "title": "피죤 배수구 세정제 드릴펑 1L, 3개 + 드릴펑 2L, 1개",
+   "price": 8900,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/7228945907/B.jpg?924186573",
+   "sentAt": "2026-11-03T00:11:18.344+09:00",
+   "saving": 50,
+   "baseline": 17900,
+   "baselineNote": "판매글 3곳 최저가",
+   "link": "http://app.ac/VtV86yM83",
+   "web": true
+  },
   {
    "uid": "9847187797",
    "mall": "지마켓",
