@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-03T00:13:53.645+09:00",
- "count": 186,
+ "updated": "2026-11-03T05:30:33.415+09:00",
+ "count": 187,
  "items": [
+  {
+   "uid": "3516617377",
+   "mall": "지마켓",
+   "title": "들기름 광천김 도시락김 4g32봉",
+   "price": 7330,
+   "image": "https://gdimg.gmarket.co.kr/4427513967/goodsimage",
+   "sentAt": "2026-11-03T05:30:33.415+09:00",
+   "saving": 45,
+   "baseline": 13240,
+   "baselineNote": "다른 곳 최저",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4427513967",
+   "web": true
+  },
   {
    "uid": "5484044860",
    "mall": "지마켓",
