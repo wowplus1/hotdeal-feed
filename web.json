@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-02T09:23:31.928+09:00",
+ "updated": "2026-11-02T09:25:14.903+09:00",
  "count": 155,
  "items": [
+  {
+   "uid": "2751212063",
+   "mall": "지마켓",
+   "title": "gigabyte g27q26 260hz 체감가 21만",
+   "price": 280730,
+   "image": "https://gdimg.gmarket.co.kr/4866954411/goodsimage",
+   "sentAt": "2026-11-02T09:25:14.903+09:00",
+   "saving": 15,
+   "baseline": 329000,
+   "baselineNote": "30곳 중 최저 · 무료배송",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4866954411",
+   "web": true
+  },
   {
    "uid": "5336522415",
    "mall": "지마켓",
@@ -1831,19 +1844,6 @@
    "baselineNote": "판매글 8곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2339573805",
-   "web": true
-  },
-  {
-   "uid": "2751212063",
-   "mall": "지마켓",
-   "title": "gigabyte g27q26 260hz 체감가 21만",
-   "price": 286260,
-   "image": "https://gdimg.gmarket.co.kr/4866954411/goodsimage",
-   "sentAt": "2026-10-20T15:11:32.234+09:00",
-   "saving": 13,
-   "baseline": 329000,
-   "baselineNote": "29곳 중 최저 · 무료배송",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4866954411",
    "web": true
   },
   {
