@@ -1,7 +1,19 @@
 {
- "updated": "2026-11-02T19:13:46.482+09:00",
+ "updated": "2026-11-02T19:15:43.175+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3118544900",
+   "mall": "롯데온",
+   "title": "선 미네랄 크림 50ml SPF50+ PA++++",
+   "price": 21820,
+   "image": "https://contents.lotteon.com/itemimage/20260907144510/LO/26/27/06/76/88/bndl_img/LO2627067688_1.png",
+   "sentAt": "2026-11-02T19:15:42.524+09:00",
+   "saving": 32,
+   "baseline": 32110,
+   "baselineNote": "판매글 3곳 최저가",
+   "link": "http://app.ac/5qnOAQ263"
+  },
   {
    "uid": "3780902856",
    "mall": "지마켓",
@@ -723,19 +735,6 @@
    "baselineNote": "판매글 11곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/iirw8opNVA"
-  },
-  {
-   "uid": "2188324125",
-   "mall": "쿠팡",
-   "title": "수미칩 오리지널, 85g, 5개",
-   "price": 9940,
-   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/63724605987893-dc3c1b27-94c4-4dca-beec-18de98c7989c.jpg",
-   "sentAt": "2026-10-31T19:24:35.435+09:00",
-   "saving": 31,
-   "baseline": 14350,
-   "baselineNote": "27곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/iipn0cFYGq"
   }
  ]
 }
