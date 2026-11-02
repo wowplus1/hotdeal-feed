@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-02T09:03:40.366+09:00",
+ "updated": "2026-11-02T09:19:30.684+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8933735977",
+   "mall": "지마켓",
+   "title": "삼육김 광천 파래김 도시락김 4g 32봉",
+   "price": 7260,
+   "image": "https://gdimg.gmarket.co.kr/4813787544/goodsimage",
+   "sentAt": "2026-11-02T09:19:29.846+09:00",
+   "saving": 52,
+   "baseline": 15020,
+   "baselineNote": "판매글 6곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4813787544"
+  },
   {
    "uid": "6732001461",
    "mall": "지마켓",
@@ -721,16 +734,6 @@
    "baselineNote": "62곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/igiCbqJ4fI"
-  },
-  {
-   "uid": "9292339108",
-   "mall": "쿠팡",
-   "title": "오뚜기 골드 마요네스, 300g, 2개",
-   "price": 4880,
-   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/844012244165820-b7d289d4-fa59-4c1b-855f-e12061cca174.jpg",
-   "sentAt": "2026-10-30T12:54:33.683+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/igiCRyth3k"
   }
  ]
 }
