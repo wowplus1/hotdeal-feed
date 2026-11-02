@@ -1,7 +1,19 @@
 {
- "updated": "2026-11-02T13:10:30.071+09:00",
+ "updated": "2026-11-02T13:14:34.701+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1701357547",
+   "mall": "지마켓",
+   "title": "레노버 2026 아이디어패드 슬림 3 15IPH111 512GB 16GB",
+   "price": 875648,
+   "image": "https://gdimg.gmarket.co.kr/4789733723/goodsimage",
+   "sentAt": "2026-11-02T13:14:34.061+09:00",
+   "saving": 48,
+   "baseline": 1669000,
+   "baselineNote": "판매글 7곳 최저가",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4789733723"
+  },
   {
    "uid": "7368042702",
    "mall": "쿠팡",
@@ -732,19 +744,6 @@
    "baselineNote": "18곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gYZqsWrR8u"
-  },
-  {
-   "uid": "9027886012",
-   "mall": "쿠팡",
-   "title": "미에로화이바 제로슈가, 180ml, 30개",
-   "price": 12370,
-   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/04/18/14/9/4aa6ca82-3e3f-405f-b07f-08dd0fa18bdd.png",
-   "sentAt": "2026-10-31T08:59:19.713+09:00",
-   "saving": 31,
-   "baseline": 17850,
-   "baselineNote": "판매글 13곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gxXb938fIa"
   }
  ]
 }
