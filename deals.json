@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-02T21:00:13.065+09:00",
+ "updated": "2026-11-03T07:03:52.074+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9569707249",
+   "mall": "쿠팡",
+   "title": "KitKat 녹차 비스켓, 119g, 2개",
+   "price": 6860,
+   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/b273/dd120f2f23049b1aa2472b92b588f5d695f17a882f6ae8361eba83641785.jpg",
+   "sentAt": "2026-11-03T07:03:51.320+09:00",
+   "saving": 44,
+   "baseline": 12150,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/imxfbPODxk"
+  },
   {
    "uid": "2583799036",
    "mall": "지마켓",
@@ -727,19 +740,6 @@
    "baselineNote": "판매글 3곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hvyztxAvng"
-  },
-  {
-   "uid": "5719705339",
-   "mall": "지마켓",
-   "title": "노지감귤 10kg 로얄과",
-   "price": 10880,
-   "image": "https://gdimg.gmarket.co.kr/1901738266/goodsimage",
-   "sentAt": "2026-10-31T21:19:29.546+09:00",
-   "saving": 53,
-   "baseline": 23250,
-   "baselineNote": "판매글 6곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=1901738266"
   }
  ]
 }
