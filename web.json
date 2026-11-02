@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-02T20:24:03.119+09:00",
- "count": 175,
+ "updated": "2026-11-02T20:24:59.228+09:00",
+ "count": 176,
  "items": [
+  {
+   "uid": "3643793545",
+   "mall": "쿠팡",
+   "title": "비비드키친 저당 돈카츠 소스 310g 1개",
+   "price": 2800,
+   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/04/30/18/9/02a250f9-21c2-4a9a-8b02-e473e0616f83.jpg",
+   "sentAt": "2026-11-02T20:24:59.228+09:00",
+   "saving": 15,
+   "baseline": 3310,
+   "baselineNote": "27곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/ilNB2tmapo",
+   "web": true
+  },
   {
    "uid": "9208963816",
    "mall": "롯데온",
