@@ -1,7 +1,19 @@
 {
- "updated": "2026-11-02T10:23:50.141+09:00",
+ "updated": "2026-11-02T10:24:52.331+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8059398109",
+   "mall": "지마켓",
+   "title": "게스 NQ4WE801 다운 패딩 푸퍼",
+   "price": 76700,
+   "image": "https://gdimg.gmarket.co.kr/1267464808/goodsimage",
+   "sentAt": "2026-11-02T10:24:51.770+09:00",
+   "saving": 41,
+   "baseline": 130500,
+   "baselineNote": "36곳 중 최저 · 무료배송",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=1267464808"
+  },
   {
    "uid": "2430407497",
    "mall": "쿠팡",
@@ -728,19 +740,6 @@
    "sentAt": "2026-10-30T17:21:15.847+09:00",
    "unit": "[object Object]",
    "link": "http://app.ac/UAGrCF523"
-  },
-  {
-   "uid": "8182818133",
-   "mall": "지마켓",
-   "title": "신제품 몽쉘 군위사과 애플 408g 3개",
-   "price": 12260,
-   "image": "https://gdimg.gmarket.co.kr/4846647819/goodsimage",
-   "sentAt": "2026-10-30T17:09:36.517+09:00",
-   "saving": 36,
-   "baseline": 19090,
-   "baselineNote": "판매글 26곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4846647819"
   }
  ]
 }
