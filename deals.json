@@ -1,7 +1,16 @@
 {
- "updated": "2026-11-03T07:03:52.074+09:00",
+ "updated": "2026-11-03T07:05:40.254+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6951602981",
+   "mall": "쿠팡",
+   "title": "애경바세린 프레시 모이스처라이징 바디워시 라벤더 카밍, 900ml, 1개",
+   "price": 4400,
+   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/72ae4e3b-a510-4bf5-91c3-145147ca26b64508331432571380958.png",
+   "sentAt": "2026-11-03T07:05:39.738+09:00",
+   "link": "https://link.coupang.com/a/imxm13CLuK"
+  },
   {
    "uid": "9569707249",
    "mall": "쿠팡",
@@ -727,19 +736,6 @@
    "baselineNote": "판매글 4곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/btVCirM83"
-  },
-  {
-   "uid": "9403967327",
-   "mall": "쿠팡",
-   "title": "스포츠리서치 1040mg 오메가-3 피쉬 오일 트리플 스트렝스 소프트젤, 180정, 2개",
-   "price": 88820,
-   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/f7ab/f16001b258d50a64147f2a921c0d45bd6b4766ad6990cc6fe8d14ca09e05.jpg",
-   "sentAt": "2026-11-01T07:12:29.032+09:00",
-   "saving": 34,
-   "baseline": 135060,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hvyztxAvng"
   }
  ]
 }
