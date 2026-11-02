@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-02T21:40:31.445+09:00",
- "count": 178,
+ "updated": "2026-11-02T22:23:29.552+09:00",
+ "count": 179,
  "items": [
+  {
+   "uid": "7306969897",
+   "mall": "11번가",
+   "title": "국내산 한돈 냉장 삼겹살, 목살 1kg",
+   "price": 14370,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9507767181/B.webp?963190533",
+   "sentAt": "2026-11-02T22:23:29.552+09:00",
+   "saving": 23,
+   "baseline": 18720,
+   "baselineNote": "판매글 17곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/GECwzXS93",
+   "web": true
+  },
   {
    "uid": "1372671171",
    "mall": "지마켓",
