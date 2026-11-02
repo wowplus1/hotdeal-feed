@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-02T17:02:07.988+09:00",
+ "updated": "2026-11-02T17:50:15.320+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9892826940",
+   "mall": "지마켓",
+   "title": "바른생활 아트컬렉션 초극세모 칫솔 24입",
+   "price": 7580,
+   "image": "https://gdimg.gmarket.co.kr/2562073413/goodsimage",
+   "sentAt": "2026-11-02T17:50:14.754+09:00",
+   "saving": 24,
+   "baseline": 9920,
+   "baselineNote": "29곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2562073413"
+  },
   {
    "uid": "6928610467",
    "mall": "지마켓",
@@ -722,19 +735,6 @@
    "baselineNote": "판매글 38곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/ihWvwU027E"
-  },
-  {
-   "uid": "3215221414",
-   "mall": "롯데온",
-   "title": "랩신 섬유항균제 파우치 2L*2개",
-   "price": 14990,
-   "image": "https://contents.lotteon.com/itemimage/20261012185518/LO/26/47/03/22/09/_2/64/70/32/21/0/LO2647032209_2647032210_4.png",
-   "sentAt": "2026-10-31T12:11:07.049+09:00",
-   "saving": 38,
-   "baseline": 24000,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/zECmQkS33"
   }
  ]
 }
