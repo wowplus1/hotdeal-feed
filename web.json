@@ -1,7 +1,18 @@
 {
- "updated": "2026-11-02T22:23:29.552+09:00",
- "count": 179,
+ "updated": "2026-11-02T22:43:36.555+09:00",
+ "count": 180,
  "items": [
+  {
+   "uid": "3073381707",
+   "mall": "지마켓",
+   "title": "연양갱 32개",
+   "price": 11380,
+   "image": "https://gdimg.gmarket.co.kr/2512693532/goodsimage",
+   "sentAt": "2026-11-02T22:43:36.555+09:00",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2512693532",
+   "web": true
+  },
   {
    "uid": "7306969897",
    "mall": "11번가",
