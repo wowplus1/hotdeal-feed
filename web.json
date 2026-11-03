@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-04T00:09:34.671+09:00",
+ "updated": "2026-11-04T00:13:09.247+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "2006071858",
+   "mall": "지마켓",
+   "title": "한돈 갈비찜용 2kg",
+   "price": 23590,
+   "image": "https://gdimg.gmarket.co.kr/4744094934/goodsimage",
+   "sentAt": "2026-11-04T00:13:09.247+09:00",
+   "saving": 33,
+   "baseline": 35250,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4744094934",
+   "web": true
+  },
   {
    "uid": "7209477519",
    "mall": "지마켓",
@@ -2645,20 +2659,6 @@
    "baseline": 14900,
    "baselineNote": "27곳 중 최저 · 무료배송",
    "link": "http://app.ac/ybpMsyl53",
-   "web": true
-  },
-  {
-   "uid": "3414586183",
-   "mall": "쿠팡",
-   "title": "암바사 제로 by 환타, 345ml, 24개",
-   "price": 12820,
-   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/4b05/d9668a8b1de2086150ff6ae00c44b82a99062a00ef6edca525d82d1adf21.jpg",
-   "sentAt": "2026-10-20T07:16:17.440+09:00",
-   "saving": 12,
-   "baseline": 14580,
-   "baselineNote": "431곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gJDOYu0shM",
    "web": true
   }
  ]
