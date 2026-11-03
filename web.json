@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-03T22:09:01.415+09:00",
+ "updated": "2026-11-03T22:35:00.510+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "1537659784",
+   "mall": "지마켓",
+   "title": "레노버 리전 27Q-11 QHD 300Hz IPS",
+   "price": 223914,
+   "image": "https://gdimg.gmarket.co.kr/4512193348/goodsimage",
+   "sentAt": "2026-11-03T22:35:00.510+09:00",
+   "saving": 22,
+   "baseline": 287100,
+   "baselineNote": "49곳 중 최저 · 무료배송",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4512193348",
+   "web": true
+  },
   {
    "uid": "9903383002",
    "mall": "쿠팡",
@@ -2648,19 +2661,6 @@
    "baseline": 77850,
    "baselineNote": "판매글 10곳 최저가",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2843163641",
-   "web": true
-  },
-  {
-   "uid": "8553989230",
-   "mall": "지마켓",
-   "title": "아이깨끗해X포차코 핸드워시 대용량 리필 4.5L +시나모롤 공용기 증정",
-   "price": 25570,
-   "image": "https://gdimg.gmarket.co.kr/4532626746/goodsimage",
-   "sentAt": "2026-10-19T21:04:56.408+09:00",
-   "saving": 17,
-   "baseline": 30710,
-   "baselineNote": "판매글 4곳 최저가",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4532626746",
    "web": true
   }
  ]
