@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-04T06:59:22.444+09:00",
+ "updated": "2026-11-04T07:49:29.936+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "5871758054",
+   "mall": "11번가",
+   "title": "오리온 초코송이 50g, 12개",
+   "price": 8380,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/4018326702/B.webp?341030643",
+   "sentAt": "2026-11-04T07:49:29.936+09:00",
+   "saving": 15,
+   "baseline": 9900,
+   "baselineNote": "179곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "http://app.ac/2jpArNa83",
+   "web": true
+  },
   {
    "uid": "6793074581",
    "mall": "쿠팡",
@@ -2648,19 +2662,6 @@
    "baselineNote": "209곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4205482503",
-   "web": true
-  },
-  {
-   "uid": "1395322275",
-   "mall": "쿠팡",
-   "title": "LG QHD 울트라기어 32GS75Q 모니터",
-   "price": 381040,
-   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/09/16/15/9/358c9070-e325-48fc-ae19-9f54ae3bf43d.jpg",
-   "sentAt": "2026-10-20T11:15:56.824+09:00",
-   "saving": 20,
-   "baseline": 473540,
-   "baselineNote": "219곳 중 최저 · 무료배송",
-   "link": "https://link.coupang.com/a/hZAu8ttDwG",
    "web": true
   }
  ]
