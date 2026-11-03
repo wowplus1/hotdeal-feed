@@ -1,7 +1,18 @@
 {
- "updated": "2026-11-03T22:35:00.510+09:00",
+ "updated": "2026-11-03T23:14:18.767+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "4564496593",
+   "mall": "11번가",
+   "title": "오리온 비쵸비 125g, 6개",
+   "price": 11770,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/6307815341/B.webp",
+   "sentAt": "2026-11-03T23:14:18.767+09:00",
+   "unit": "[object Object]",
+   "link": "http://app.ac/CECKtbS93",
+   "web": true
+  },
   {
    "uid": "1537659784",
    "mall": "지마켓",
@@ -2648,19 +2659,6 @@
    "baselineNote": "431곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gJDOYu0shM",
-   "web": true
-  },
-  {
-   "uid": "4179528553",
-   "mall": "지마켓",
-   "title": "1++ 등급 투뿔한우 국거리 200g+200g",
-   "price": 18280,
-   "image": "https://gdimg.gmarket.co.kr/2843163641/goodsimage",
-   "sentAt": "2026-10-20T00:09:36.849+09:00",
-   "saving": 77,
-   "baseline": 77850,
-   "baselineNote": "판매글 10곳 최저가",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2843163641",
    "web": true
   }
  ]
