@@ -1,7 +1,19 @@
 {
- "updated": "2026-11-03T14:19:04.779+09:00",
+ "updated": "2026-11-03T14:45:55.673+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8584802617",
+   "mall": "쿠팡",
+   "title": "스탠리 올데이 캐리올 퀜처 H2.0 텀블러 스트랩백 1.18L, 크림, 1개",
+   "price": 12630,
+   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/78484251199591-6d5cb2a8-6d44-4fcb-a2f8-27806f21cfb2.jpg",
+   "sentAt": "2026-11-03T14:45:55.136+09:00",
+   "saving": 78,
+   "baseline": 57790,
+   "baselineNote": "21곳 중 최저",
+   "link": "https://link.coupang.com/a/im4hCCAEbA"
+  },
   {
    "uid": "4193842388",
    "mall": "쿠팡",
@@ -729,16 +741,6 @@
    "baselineNote": "247곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/giJHiA7zzg"
-  },
-  {
-   "uid": "4465650911",
-   "mall": "쿠팡",
-   "title": "햇반 210g 72개",
-   "price": 55800,
-   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/c1111c28-e73f-41d1-a225-e55099487cc59099079402123884527.png",
-   "sentAt": "2026-11-01T21:40:17.068+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/ikdZWKEuLQ"
   }
  ]
 }
