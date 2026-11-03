@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-03T17:09:47.351+09:00",
+ "updated": "2026-11-03T17:13:33.260+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3054102194",
+   "mall": "지마켓",
+   "title": "폴햄 튜블러 반팔티 5팩",
+   "price": 15920,
+   "image": "https://gdimg.gmarket.co.kr/4672831699/goodsimage",
+   "sentAt": "2026-11-03T17:13:32.759+09:00",
+   "saving": 47,
+   "baseline": 29850,
+   "baselineNote": "판매글 11곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4672831699"
+  },
   {
    "uid": "5079216827",
    "mall": "11번가",
@@ -731,19 +744,6 @@
    "baselineNote": "43곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gpsa4StInQ"
-  },
-  {
-   "uid": "5295831335",
-   "mall": "쿠팡",
-   "title": "삼양 볶음간짬뽕, 20개",
-   "price": 13590,
-   "image": "https://t3a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/4694669285900-5825f6af-9ae5-403b-a5ab-299cf47b6592.png",
-   "sentAt": "2026-11-02T08:49:21.281+09:00",
-   "saving": 21,
-   "baseline": 17250,
-   "baselineNote": "304곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/ikZSnYhnC8"
   }
  ]
 }
