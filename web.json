@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-03T23:14:18.767+09:00",
+ "updated": "2026-11-04T00:09:34.671+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "7209477519",
+   "mall": "지마켓",
+   "title": "아이깨끗해 핸드워시 490ml 본품 1개+450ml 리필 3개",
+   "price": 10900,
+   "image": "https://gdimg.gmarket.co.kr/4646524115/goodsimage",
+   "sentAt": "2026-11-04T00:09:34.671+09:00",
+   "saving": 22,
+   "baseline": 13980,
+   "baselineNote": "다른 곳 최저",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4646524115",
+   "web": true
+  },
   {
    "uid": "4564496593",
    "mall": "11번가",
@@ -1842,19 +1855,6 @@
    "baselineNote": "36곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/h6Yk5W0ree",
-   "web": true
-  },
-  {
-   "uid": "7209477519",
-   "mall": "지마켓",
-   "title": "아이깨끗해 핸드워시 490ml 본품 1개+450ml 리필 3개",
-   "price": 11130,
-   "image": "https://gdimg.gmarket.co.kr/4646524115/goodsimage",
-   "sentAt": "2026-10-24T18:30:11.009+09:00",
-   "saving": 22,
-   "baseline": 14310,
-   "baselineNote": "다른 곳 최저",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4646524115",
    "web": true
   },
   {
