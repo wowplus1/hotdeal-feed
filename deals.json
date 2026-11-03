@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-03T17:08:54.728+09:00",
+ "updated": "2026-11-03T17:09:47.351+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5079216827",
+   "mall": "11번가",
+   "title": "롯데웰푸드 월드콘 바닐라 160ml, 24개",
+   "price": 19900,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/8428472949/B.webp?168350625",
+   "sentAt": "2026-11-03T17:09:46.725+09:00",
+   "saving": 26,
+   "baseline": 26890,
+   "baselineNote": "판매글 16곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/E3MPpCJ23"
+  },
   {
    "uid": "1064861408",
    "mall": "지마켓",
@@ -731,19 +744,6 @@
    "baselineNote": "304곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/ikZSnYhnC8"
-  },
-  {
-   "uid": "2674383854",
-   "mall": "쿠팡",
-   "title": "비비드키친 저칼로리 치킨양념소스, 320g, 2개",
-   "price": 3580,
-   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/73045598934988-1c572e97-2eab-4432-99bf-72f22ef2946f.jpg",
-   "sentAt": "2026-11-02T08:05:11.333+09:00",
-   "saving": 51,
-   "baseline": 7370,
-   "baselineNote": "판매글 8곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gIVSnIBpcG"
   }
  ]
 }
