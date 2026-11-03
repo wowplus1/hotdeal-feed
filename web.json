@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-03T11:39:33.475+09:00",
- "count": 192,
+ "updated": "2026-11-03T11:54:03.363+09:00",
+ "count": 193,
  "items": [
+  {
+   "uid": "4294240493",
+   "mall": "11번가",
+   "title": "매일두유 99.9 190ml, 24개 + 검은콩 고단백 190ml, 24개",
+   "price": 23660,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/8523717889/B.jpg?319221857",
+   "sentAt": "2026-11-03T11:54:03.363+09:00",
+   "saving": 18,
+   "baseline": 28900,
+   "baselineNote": "판매글 15곳 최저가",
+   "link": "http://app.ac/7AVtHl593",
+   "web": true
+  },
   {
    "uid": "6223412488",
    "mall": "지마켓",
