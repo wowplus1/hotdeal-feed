@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-03T16:43:20.191+09:00",
+ "updated": "2026-11-03T17:20:03.351+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "5114765940",
+   "mall": "11번가",
+   "title": "비트 스트롱세븐 드럼 3L 용기, 1개 + 일반드럼겸용 2.22L 리필, 3개",
+   "price": 16840,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/7277989325/B.webp?939160539",
+   "sentAt": "2026-11-03T17:20:03.351+09:00",
+   "saving": 15,
+   "baseline": 19900,
+   "baselineNote": "판매글 8곳 최저가",
+   "link": "http://app.ac/UbGABCl73",
+   "web": true
+  },
   {
    "uid": "2902537668",
    "mall": "지마켓",
@@ -2642,20 +2655,6 @@
    "baseline": 19520,
    "baselineNote": "판매글 10곳 최저가",
    "link": "http://app.ac/UECKwXS03",
-   "web": true
-  },
-  {
-   "uid": "9892826940",
-   "mall": "지마켓",
-   "title": "바른생활 아트컬렉션 초극세모 칫솔 24입",
-   "price": 8420,
-   "image": "https://gdimg.gmarket.co.kr/2562073413/goodsimage",
-   "sentAt": "2026-10-19T18:10:58.422+09:00",
-   "saving": 15,
-   "baseline": 9900,
-   "baselineNote": "29곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2562073413",
    "web": true
   }
  ]
