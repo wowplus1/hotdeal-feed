@@ -1,7 +1,19 @@
 {
- "updated": "2026-11-04T07:05:34.264+09:00",
+ "updated": "2026-11-04T07:10:55.936+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1602237473",
+   "mall": "쿠팡",
+   "title": "닥터스베스트 글루코사민 콘드로이친 MSM 캡슐, 360정, 1개",
+   "price": 20460,
+   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/ef67/5a991c31cd55e5ab901aea1039af4aa9195166fe860d96a8ff214cfd3734.JPG",
+   "sentAt": "2026-11-04T07:10:55.391+09:00",
+   "saving": 67,
+   "baseline": 62930,
+   "baselineNote": "판매글 8곳 최저가",
+   "link": "https://link.coupang.com/a/iocDWmOyhU"
+  },
   {
    "uid": "1680867102",
    "mall": "쿠팡",
@@ -726,18 +738,6 @@
    "baselineNote": "438곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hPtQM74wsC"
-  },
-  {
-   "uid": "8059398109",
-   "mall": "지마켓",
-   "title": "게스 NQ4WE801 다운 패딩 푸퍼",
-   "price": 76700,
-   "image": "https://gdimg.gmarket.co.kr/1267464808/goodsimage",
-   "sentAt": "2026-11-02T10:24:51.770+09:00",
-   "saving": 41,
-   "baseline": 130500,
-   "baselineNote": "36곳 중 최저 · 무료배송",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=1267464808"
   }
  ]
 }
