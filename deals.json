@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-03T20:45:09.879+09:00",
+ "updated": "2026-11-03T20:50:35.070+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8806008326",
+   "mall": "11번가",
+   "title": "국내산 활 대하 흰다리새우 1kg 35미 내외",
+   "price": 13520,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/pd/v2/0/8/7/5/2/6/NdPeQ/9528087526_B.webp",
+   "sentAt": "2026-11-03T20:50:34.310+09:00",
+   "saving": 24,
+   "baseline": 17900,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/obpHtgl53"
+  },
   {
    "uid": "7407251830",
    "mall": "GS SHOP",
@@ -728,18 +741,6 @@
    "baseline": 22140,
    "baselineNote": "판매글 5곳 최저가",
    "link": "http://app.ac/PEwE1TS53"
-  },
-  {
-   "uid": "1847422081",
-   "mall": "쿠팡",
-   "title": "크리넥스 데코 앤 소프트 화장지 3겹 37m*24개입*2개",
-   "price": 23820,
-   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/13789712057405-770e1401-e586-4850-94d8-6f710733f232.png",
-   "sentAt": "2026-11-02T10:16:28.970+09:00",
-   "saving": 46,
-   "baseline": 43900,
-   "baselineNote": "143곳 중 최저 · 무료배송",
-   "link": "https://link.coupang.com/a/ik572LwN2W"
   }
  ]
 }
