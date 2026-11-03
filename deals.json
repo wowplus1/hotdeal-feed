@@ -1,7 +1,19 @@
 {
- "updated": "2026-11-03T15:15:38.585+09:00",
+ "updated": "2026-11-03T15:30:22.416+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4581987714",
+   "mall": "11번가",
+   "title": "가그린 구강청결제 검가드 오리지널 750ml, 4개+증정",
+   "price": 19380,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/6422610956/B.jpg?171870814",
+   "sentAt": "2026-11-03T15:30:21.896+09:00",
+   "saving": 22,
+   "baseline": 24922,
+   "baselineNote": "71곳 중 최저 · 무료배송",
+   "link": "http://app.ac/b3CE7mJ23"
+  },
   {
    "uid": "4012524921",
    "mall": "롯데온",
@@ -732,16 +744,6 @@
    "baseline": 266830,
    "baselineNote": "판매글 6곳 최저가",
    "link": "https://link.coupang.com/a/ikT7IVV74m"
-  },
-  {
-   "uid": "3003511862",
-   "mall": "쿠팡",
-   "title": "파워에이드 제로, 600ml, 20개",
-   "price": 14980,
-   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/d77e/88d466dc26c13c045b856ce57de86fc3f5d4cd73918872e45715916b167b.jpg",
-   "sentAt": "2026-11-02T07:30:11.173+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/f9zlPT8PnM"
   }
  ]
 }
