@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-03T10:43:20.572+09:00",
- "count": 191,
+ "updated": "2026-11-03T11:39:33.475+09:00",
+ "count": 192,
  "items": [
+  {
+   "uid": "6223412488",
+   "mall": "지마켓",
+   "title": "대봉감 5kg 20과내",
+   "price": 9920,
+   "image": "https://gdimg.gmarket.co.kr/2596585689/goodsimage",
+   "sentAt": "2026-11-03T11:39:33.475+09:00",
+   "saving": 26,
+   "baseline": 13385,
+   "baselineNote": "판매글 6곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2596585689",
+   "web": true
+  },
   {
    "uid": "4066412295",
    "mall": "롯데온",
