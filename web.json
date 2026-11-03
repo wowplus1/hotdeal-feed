@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-03T11:54:03.363+09:00",
- "count": 193,
+ "updated": "2026-11-03T14:01:16.928+09:00",
+ "count": 194,
  "items": [
+  {
+   "uid": "5731328922",
+   "mall": "지마켓",
+   "title": "드시모네 베이비스텝1 3박스+20일분 55,803원",
+   "price": 55803,
+   "image": "https://gdimg.gmarket.co.kr/2332219546/goodsimage",
+   "sentAt": "2026-11-03T14:01:16.928+09:00",
+   "saving": 13,
+   "baseline": 63960,
+   "baselineNote": "판매글 3곳 최저가",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2332219546",
+   "web": true
+  },
   {
    "uid": "4294240493",
    "mall": "11번가",
