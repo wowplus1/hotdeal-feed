@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-03T17:29:13.671+09:00",
+ "updated": "2026-11-03T18:01:00.028+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "9158720111",
+   "mall": "지마켓",
+   "title": "동원 DHA 참치 150g 원터치 12캔",
+   "price": 20870,
+   "image": "https://gdimg.gmarket.co.kr/1579106890/goodsimage",
+   "sentAt": "2026-11-03T18:01:00.028+09:00",
+   "saving": 18,
+   "baseline": 25470,
+   "baselineNote": "728곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=1579106890",
+   "web": true
+  },
   {
    "uid": "1393491022",
    "mall": "롯데온",
@@ -2642,19 +2656,6 @@
    "baseline": 98710,
    "baselineNote": "판매글 5곳 최저가",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=3229365173",
-   "web": true
-  },
-  {
-   "uid": "3755135528",
-   "mall": "쿠팡",
-   "title": "LG전자 2026 그램 AI 16 코어 Ultra5 스노우 화이트 · 16ZB90S-GA5PK · 512GB · 16GB · WIN11 Home",
-   "price": 1900000,
-   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/382934972989142-ab9bb35c-e3dd-4a54-827b-07320e95e0a1.jpg",
-   "sentAt": "2026-10-19T18:57:04.238+09:00",
-   "saving": 19,
-   "baseline": 2359000,
-   "baselineNote": "다른 곳 최저",
-   "link": "https://link.coupang.com/a/hYsy86oAma",
    "web": true
   }
  ]
