@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-03T20:50:35.070+09:00",
+ "updated": "2026-11-03T21:23:19.975+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5155498750",
+   "mall": "지마켓",
+   "title": "도라지배즙 80ml 100포",
+   "price": 14340,
+   "image": "https://gdimg.gmarket.co.kr/4515805941/goodsimage",
+   "sentAt": "2026-11-03T21:23:19.268+09:00",
+   "saving": 56,
+   "baseline": 32900,
+   "baselineNote": "73곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4515805941"
+  },
   {
    "uid": "8806008326",
    "mall": "11번가",
@@ -729,18 +742,6 @@
    "baselineNote": "판매글 10곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4432543461"
-  },
-  {
-   "uid": "7749656150",
-   "mall": "11번가",
-   "title": "카프리썬 제로 오렌지 200ml, 10입, 4개 + 증정",
-   "price": 14720,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9712633382/B.webp?153376576",
-   "sentAt": "2026-11-02T10:19:17.704+09:00",
-   "saving": 34,
-   "baseline": 22140,
-   "baselineNote": "판매글 5곳 최저가",
-   "link": "http://app.ac/PEwE1TS53"
   }
  ]
 }
