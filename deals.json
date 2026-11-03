@@ -1,7 +1,19 @@
 {
- "updated": "2026-11-03T17:55:41.822+09:00",
+ "updated": "2026-11-03T19:28:51.227+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9715265567",
+   "mall": "롯데온",
+   "title": "코스알엑스 더 레티놀 0.1 크림 20ml",
+   "price": 8900,
+   "image": "https://contents.lotteon.com/itemimage/20261102095018/LO/27/40/95/46/88/_2/74/09/54/68/9/LO2740954688_2740954689_2.png",
+   "sentAt": "2026-11-03T19:28:50.462+09:00",
+   "saving": 22,
+   "baseline": 11360,
+   "baselineNote": "47곳 중 최저 · 무료배송",
+   "link": "http://app.ac/x3CEFOJ03"
+  },
   {
    "uid": "8634930849",
    "mall": "지마켓",
@@ -727,19 +739,6 @@
    "baseline": 13830,
    "baselineNote": "판매글 35곳 최저가",
    "link": "http://app.ac/Sqn6eW273"
-  },
-  {
-   "uid": "8933735977",
-   "mall": "지마켓",
-   "title": "삼육김 광천 파래김 도시락김 4g 32봉",
-   "price": 7260,
-   "image": "https://gdimg.gmarket.co.kr/4813787544/goodsimage",
-   "sentAt": "2026-11-02T09:19:29.846+09:00",
-   "saving": 52,
-   "baseline": 15020,
-   "baselineNote": "판매글 6곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4813787544"
   }
  ]
 }
