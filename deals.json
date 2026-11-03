@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-03T14:09:25.194+09:00",
+ "updated": "2026-11-03T14:19:04.779+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4193842388",
+   "mall": "쿠팡",
+   "title": "제주삼다수 그린 무라벨, 2L, 30개",
+   "price": 23620,
+   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2d22be81-7e05-43a1-b695-2cea28167b7911629139577118800379.png",
+   "sentAt": "2026-11-03T14:19:03.894+09:00",
+   "saving": 24,
+   "baseline": 31190,
+   "baselineNote": "639곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/im2lQbRKvI"
+  },
   {
    "uid": "6192118230",
    "mall": "지마켓",
@@ -726,18 +739,6 @@
    "sentAt": "2026-11-01T21:40:17.068+09:00",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/ikdZWKEuLQ"
-  },
-  {
-   "uid": "6020493111",
-   "mall": "지마켓",
-   "title": "에이서 스위프트 GO 14 AI U5 338H 16GB 512GB Win11",
-   "price": 1389000,
-   "image": "https://gdimg.gmarket.co.kr/4780680664/goodsimage",
-   "sentAt": "2026-11-01T21:09:47.672+09:00",
-   "saving": 43,
-   "baseline": 2458100,
-   "baselineNote": "판매글 4곳 최저가",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4780680664"
   }
  ]
 }
