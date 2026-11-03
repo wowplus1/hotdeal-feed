@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-03T19:28:51.227+09:00",
+ "updated": "2026-11-03T19:44:26.244+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1876953766",
+   "mall": "11번가",
+   "title": "리큐 클린파워 액체세제 일반용 2L, 4개",
+   "price": 10920,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/8319390542/B.webp",
+   "sentAt": "2026-11-03T19:44:25.465+09:00",
+   "saving": 48,
+   "baseline": 20830,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/7tV8gUM13"
+  },
   {
    "uid": "9715265567",
    "mall": "롯데온",
@@ -727,18 +740,6 @@
    "baselineNote": "판매글 3곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4885212399"
-  },
-  {
-   "uid": "7945346835",
-   "mall": "11번가",
-   "title": "지도표성경김 재래 식탁김 4g 12봉 3개",
-   "price": 9640,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/3/8/4/8/1/3/mlEQk/4349384813_237963272.webp",
-   "sentAt": "2026-11-02T09:23:35.573+09:00",
-   "saving": 30,
-   "baseline": 13830,
-   "baselineNote": "판매글 35곳 최저가",
-   "link": "http://app.ac/Sqn6eW273"
   }
  ]
 }
