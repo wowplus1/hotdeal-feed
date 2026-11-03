@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-03T11:11:55.525+09:00",
+ "updated": "2026-11-03T12:13:49.083+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4819790246",
+   "mall": "쿠팡",
+   "title": "오스카마이어 베이컨 오리지널, 453g, 1개",
+   "price": 7590,
+   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/119432220628905-0edda131-835a-46ab-a606-8da82e6326dc.jpg",
+   "sentAt": "2026-11-03T12:13:48.352+09:00",
+   "saving": 57,
+   "baseline": 17630,
+   "baselineNote": "7곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/imTnR1mjRI"
+  },
   {
    "uid": "8904420702",
    "mall": "쿠팡",
@@ -725,18 +738,6 @@
    "baselineNote": "판매글 11곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/CECrkzS13"
-  },
-  {
-   "uid": "4930572184",
-   "mall": "롯데온",
-   "title": "남성 NEW 원단 간절기 75D 니트본딩 아웃도어 팬츠 MVP6332",
-   "price": 9450,
-   "image": "https://contents.lotteon.com/itemimage/20261009210607/LO/20/56/66/95/38/bndl_img/LO2056669538_1.jpg",
-   "sentAt": "2026-11-01T18:56:28.717+09:00",
-   "saving": 21,
-   "baseline": 11950,
-   "baselineNote": "판매글 22곳 최저가",
-   "link": "http://app.ac/cECo3yS83"
   }
  ]
 }
