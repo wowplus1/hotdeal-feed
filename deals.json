@@ -1,7 +1,19 @@
 {
- "updated": "2026-11-03T14:45:55.673+09:00",
+ "updated": "2026-11-03T15:03:47.808+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2941767783",
+   "mall": "쿠팡",
+   "title": "까사니 쿠치나 IH 하이곰솥, 30cm, 1개",
+   "price": 26900,
+   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/354a/dee129cf2553e3943953dff19c7af76115bb9f8ef351910ea8330ec810b1.png",
+   "sentAt": "2026-11-03T15:03:47.066+09:00",
+   "saving": 32,
+   "baseline": 39710,
+   "baselineNote": "57곳 중 최저",
+   "link": "https://link.coupang.com/a/im5wZaCdvE"
+  },
   {
    "uid": "8584802617",
    "mall": "쿠팡",
@@ -728,19 +740,6 @@
    "sentAt": "2026-11-02T07:17:41.405+09:00",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/ikTdlKVJx6"
-  },
-  {
-   "uid": "2550811146",
-   "mall": "쿠팡",
-   "title": "스프라이트 제로 사이다, 350ml, 24개",
-   "price": 11990,
-   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/3057/8476349e6225fc49f978d71fc1ac8c504952e508d2c628f5463340b194b2.png",
-   "sentAt": "2026-11-02T07:04:19.650+09:00",
-   "saving": 24,
-   "baseline": 15760,
-   "baselineNote": "247곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/giJHiA7zzg"
   }
  ]
 }
