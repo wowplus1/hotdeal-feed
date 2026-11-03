@@ -1,7 +1,19 @@
 {
- "updated": "2026-11-03T17:43:37.246+09:00",
+ "updated": "2026-11-03T17:55:41.822+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8634930849",
+   "mall": "지마켓",
+   "title": "새우깡 8봉 + 매운새우깡 8봉",
+   "price": 14990,
+   "image": "https://gdimg.gmarket.co.kr/4076233103/goodsimage",
+   "sentAt": "2026-11-03T17:55:41.286+09:00",
+   "saving": 26,
+   "baseline": 20390,
+   "baselineNote": "판매글 9곳 최저가",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4076233103"
+  },
   {
    "uid": "3544503457",
    "mall": "쿠팡",
@@ -728,19 +740,6 @@
    "baselineNote": "판매글 6곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4813787544"
-  },
-  {
-   "uid": "6732001461",
-   "mall": "지마켓",
-   "title": "빈타이포타베트남쌀국수 30팩/소고기맛",
-   "price": 22680,
-   "image": "https://gdimg.gmarket.co.kr/2453428889/goodsimage",
-   "sentAt": "2026-11-02T09:03:39.607+09:00",
-   "saving": 32,
-   "baseline": 33210,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2453428889"
   }
  ]
 }
