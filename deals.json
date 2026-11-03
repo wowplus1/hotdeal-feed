@@ -1,7 +1,19 @@
 {
- "updated": "2026-11-03T08:53:45.990+09:00",
+ "updated": "2026-11-03T09:43:52.938+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7756550276",
+   "mall": "11번가",
+   "title": "짱구 액션가면 히어로 장패드 78x30cm ZML002L",
+   "price": 6210,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/8277227086/B.webp",
+   "sentAt": "2026-11-03T09:43:52.001+09:00",
+   "saving": 48,
+   "baseline": 11900,
+   "baselineNote": "판매글 6곳 최저가",
+   "link": "http://app.ac/oqneBf203"
+  },
   {
    "uid": "4683662802",
    "mall": "지마켓",
@@ -723,18 +735,6 @@
    "baselineNote": "판매글 5곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/8jpj35a83"
-  },
-  {
-   "uid": "9596783763",
-   "mall": "롯데온",
-   "title": "오리온 핫고래밥 매콤양념 56g 6개 + 왕고래밥 56g 6개",
-   "price": 9790,
-   "image": "https://contents.lotteon.com/itemimage/20261028163054/LO/22/50/64/97/85/_2/25/06/49/78/6/LO2250649785_2250649786_1.jpg",
-   "sentAt": "2026-11-01T13:36:16.660+09:00",
-   "saving": 25,
-   "baseline": 13070,
-   "baselineNote": "33곳 중 최저 · 무료배송",
-   "link": "http://app.ac/ujpEFpa63"
   }
  ]
 }
