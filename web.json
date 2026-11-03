@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-04T01:13:09.314+09:00",
+ "updated": "2026-11-04T01:30:16.583+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "6085719466",
+   "mall": "쿠팡",
+   "title": "비비고 든든 한섬만두 , 384g, 6개입",
+   "price": 15560,
+   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/84e6e153-9dfa-4c75-a758-7fc25a5703051019396634656822737.png",
+   "sentAt": "2026-11-04T01:30:16.583+09:00",
+   "saving": 42,
+   "baseline": 26800,
+   "baselineNote": "63곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/h1EmIIv2yG",
+   "web": true
+  },
   {
    "uid": "9065571118",
    "mall": "쿠팡",
@@ -2326,20 +2340,6 @@
    "baseline": 324010,
    "baselineNote": "41곳 중 최저",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=3137852300",
-   "web": true
-  },
-  {
-   "uid": "6085719466",
-   "mall": "쿠팡",
-   "title": "비비고 든든 한섬만두 , 384g, 6개입",
-   "price": 17290,
-   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/84e6e153-9dfa-4c75-a758-7fc25a5703051019396634656822737.png",
-   "sentAt": "2026-10-21T17:04:53.940+09:00",
-   "saving": 35,
-   "baseline": 26790,
-   "baselineNote": "63곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/h1EmIIv2yG",
    "web": true
   },
   {
