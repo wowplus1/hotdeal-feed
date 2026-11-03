@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-03T15:18:21.301+09:00",
- "count": 196,
+ "updated": "2026-11-03T15:28:45.495+09:00",
+ "count": 197,
  "items": [
+  {
+   "uid": "3602317249",
+   "mall": "롯데온",
+   "title": "국내산 햇 고춧가루 1kg 김장/요리 양념용 함평 고추가루",
+   "price": 18620,
+   "image": "https://contents.lotteon.com/itemimage/20261028140731/LO/27/97/72/48/88/_2/79/77/24/88/9/LO2797724888_2797724889_1.jpg",
+   "sentAt": "2026-11-03T15:28:45.495+09:00",
+   "saving": 18,
+   "baseline": 22790,
+   "baselineNote": "판매글 6곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/a3CE7YJ43",
+   "web": true
+  },
   {
    "uid": "3644566565",
    "mall": "지마켓",
