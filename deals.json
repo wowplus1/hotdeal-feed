@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-03T10:05:11.388+09:00",
+ "updated": "2026-11-03T10:13:13.413+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3569466774",
+   "mall": "지마켓",
+   "title": "충성 핫팩 포켓용 군용 보온대 160g 50개",
+   "price": 21930,
+   "image": "https://gdimg.gmarket.co.kr/2250669882/goodsimage",
+   "sentAt": "2026-11-03T10:13:12.880+09:00",
+   "saving": 43,
+   "baseline": 38210,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2250669882"
+  },
   {
    "uid": "4432442836",
    "mall": "11번가",
@@ -724,16 +737,6 @@
    "baselineNote": "판매글 7곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/KECJLPS23"
-  },
-  {
-   "uid": "2609622034",
-   "mall": "11번가",
-   "title": "성균관 뼈를위한 검은콩 고칼슘 두유 190ml x 48팩",
-   "price": 14710,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/6/3/4/2/4/9/cHMis/4232634249_242015913.webp",
-   "sentAt": "2026-11-01T15:26:01.729+09:00",
-   "unit": "[object Object]",
-   "link": "http://app.ac/pAVAb6503"
   }
  ]
 }
