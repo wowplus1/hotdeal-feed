@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-03T16:29:40.748+09:00",
+ "updated": "2026-11-03T16:43:20.191+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "2902537668",
+   "mall": "지마켓",
+   "title": "닥터아토 손소독티슈 휴대용 20매 20팩 15,850원",
+   "price": 19250,
+   "image": "https://gdimg.gmarket.co.kr/3979306238/goodsimage",
+   "sentAt": "2026-11-03T16:43:20.191+09:00",
+   "saving": 18,
+   "baseline": 23580,
+   "baselineNote": "판매글 13곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=3979306238",
+   "web": true
+  },
   {
    "uid": "3207296050",
    "mall": "지마켓",
@@ -2642,19 +2656,6 @@
    "baselineNote": "29곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2562073413",
-   "web": true
-  },
-  {
-   "uid": "3435514950",
-   "mall": "지마켓",
-   "title": "비비고 왕교자1.05kg x3개 + 315g x1개",
-   "price": 24930,
-   "image": "https://gdimg.gmarket.co.kr/4467917687/goodsimage",
-   "sentAt": "2026-10-19T17:51:18.618+09:00",
-   "saving": 12,
-   "baseline": 28430,
-   "baselineNote": "판매글 9곳 최저가",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4467917687",
    "web": true
   }
  ]
