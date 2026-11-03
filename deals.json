@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-03T19:44:26.244+09:00",
+ "updated": "2026-11-03T20:01:06.735+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4969569635",
+   "mall": "지마켓",
+   "title": "맛밤 60g x20개",
+   "price": 19200,
+   "image": "https://gdimg.gmarket.co.kr/2135015418/goodsimage",
+   "sentAt": "2026-11-03T20:01:06.190+09:00",
+   "saving": 22,
+   "baseline": 24620,
+   "baselineNote": "639곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2135015418"
+  },
   {
    "uid": "1876953766",
    "mall": "11번가",
@@ -727,19 +740,6 @@
    "baselineNote": "판매글 5곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/cEwE1cS43"
-  },
-  {
-   "uid": "7279431455",
-   "mall": "지마켓",
-   "title": "당진 해나루쌀 10kg 26년 햅쌀 삼광미 특등급 당일도정",
-   "price": 33340,
-   "image": "https://gdimg.gmarket.co.kr/4885212399/goodsimage",
-   "sentAt": "2026-11-02T09:33:32.044+09:00",
-   "saving": 23,
-   "baseline": 43440,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4885212399"
   }
  ]
 }
