@@ -1,7 +1,19 @@
 {
- "updated": "2026-11-03T09:43:52.938+09:00",
+ "updated": "2026-11-03T10:05:11.388+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4432442836",
+   "mall": "11번가",
+   "title": "삼성전자 삼성 마이크로SD PRO Ultimate 512GB MB-MY512SB/WW 리더기구성",
+   "price": 108730,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/pd/v2/2/5/0/6/7/5/NRXfU/6226250675_B.webp",
+   "sentAt": "2026-11-03T10:05:10.513+09:00",
+   "saving": 49,
+   "baseline": 214720,
+   "baselineNote": "판매글 14곳 최저가",
+   "link": "http://app.ac/iAVtNr563"
+  },
   {
    "uid": "7756550276",
    "mall": "11번가",
@@ -722,19 +734,6 @@
    "sentAt": "2026-11-01T15:26:01.729+09:00",
    "unit": "[object Object]",
    "link": "http://app.ac/pAVAb6503"
-  },
-  {
-   "uid": "7585935332",
-   "mall": "11번가",
-   "title": "NEW 페브리즈 섬유탈취제 370ml 3개 모음",
-   "price": 10720,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/0/3/9/1/2/8/bQSXP/7267039128_242120679.webp",
-   "sentAt": "2026-11-01T15:00:12.753+09:00",
-   "saving": 37,
-   "baseline": 16930,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/8jpj35a83"
   }
  ]
 }
