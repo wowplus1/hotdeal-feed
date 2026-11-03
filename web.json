@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-03T19:40:32.515+09:00",
+ "updated": "2026-11-03T19:45:10.307+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "1968324253",
+   "mall": "지마켓",
+   "title": "서린공식 팀그룹 노트북 ddr5 5600 cl46 elite 서린 나사카있으면 29 7",
+   "price": 304090,
+   "image": "https://gdimg.gmarket.co.kr/4823240598/goodsimage",
+   "sentAt": "2026-11-03T19:45:10.307+09:00",
+   "saving": 16,
+   "baseline": 362880,
+   "baselineNote": "판매글 40곳 최저가",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4823240598",
+   "web": true
+  },
   {
    "uid": "1824448710",
    "mall": "지마켓",
@@ -2643,19 +2656,6 @@
    "image": "https://contents.lotteon.com/itemimage/20261019075829/LO/25/66/15/06/58/_2/56/61/50/65/9/LO2566150658_2566150659_1.jpg",
    "sentAt": "2026-10-19T19:24:24.696+09:00",
    "link": "http://app.ac/mqnsGo293",
-   "web": true
-  },
-  {
-   "uid": "7219744532",
-   "mall": "지마켓",
-   "title": "팸퍼스 통잠팬티 2박스 81,800원",
-   "price": 81800,
-   "image": "https://gdimg.gmarket.co.kr/3229365173/goodsimage",
-   "sentAt": "2026-10-19T19:02:55.355+09:00",
-   "saving": 17,
-   "baseline": 98710,
-   "baselineNote": "판매글 5곳 최저가",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=3229365173",
    "web": true
   }
  ]
