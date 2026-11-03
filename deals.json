@@ -1,7 +1,19 @@
 {
- "updated": "2026-11-03T16:33:55.910+09:00",
+ "updated": "2026-11-03T17:08:54.728+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1064861408",
+   "mall": "지마켓",
+   "title": "샘표 진간장 금F3 1.7L 2개+500ml 2개 카할가",
+   "price": 15350,
+   "image": "https://gdimg.gmarket.co.kr/3491083462/goodsimage",
+   "sentAt": "2026-11-03T17:08:53.898+09:00",
+   "saving": 22,
+   "baseline": 19760,
+   "baselineNote": "판매글 8곳 최저가",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=3491083462"
+  },
   {
    "uid": "9041556063",
    "mall": "쿠팡",
@@ -732,19 +744,6 @@
    "baselineNote": "판매글 8곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gIVSnIBpcG"
-  },
-  {
-   "uid": "2605768939",
-   "mall": "쿠팡",
-   "title": "코카콜라 제로제로, 350ml, 24개",
-   "price": 14050,
-   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/76227677833552-feae0a48-4e94-4932-9f8a-612194c626e8.jpg",
-   "sentAt": "2026-11-02T07:47:28.926+09:00",
-   "saving": 31,
-   "baseline": 20450,
-   "baselineNote": "76곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://hotdeal.best/2605768939?utm_source=kakao"
   }
  ]
 }
