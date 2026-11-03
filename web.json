@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-03T14:01:16.928+09:00",
- "count": 194,
+ "updated": "2026-11-03T14:38:38.982+09:00",
+ "count": 195,
  "items": [
+  {
+   "uid": "2908447315",
+   "mall": "지마켓",
+   "title": "코디 블루 3겹 데코 화장지 30롤3팩",
+   "price": 23860,
+   "image": "https://gdimg.gmarket.co.kr/2263344906/goodsimage",
+   "sentAt": "2026-11-03T14:38:38.982+09:00",
+   "saving": 15,
+   "baseline": 28110,
+   "baselineNote": "판매글 17곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2263344906",
+   "web": true
+  },
   {
    "uid": "5731328922",
    "mall": "지마켓",
