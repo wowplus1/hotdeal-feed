@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-03T10:29:05.866+09:00",
- "count": 190,
+ "updated": "2026-11-03T10:43:20.572+09:00",
+ "count": 191,
  "items": [
+  {
+   "uid": "4066412295",
+   "mall": "롯데온",
+   "title": "오뚜기 가뿐한끼 현미밥 150G x 30개",
+   "price": 24990,
+   "image": "https://contents.lotteon.com/itemimage/20260811152326/LO/26/04/96/76/03/_2/60/49/67/60/4/LO2604967603_2604967604_1.jpg",
+   "sentAt": "2026-11-03T10:43:20.572+09:00",
+   "saving": 13,
+   "baseline": 28780,
+   "baselineNote": "판매글 26곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/0AGKnd573",
+   "web": true
+  },
   {
    "uid": "9877883046",
    "mall": "11번가",
