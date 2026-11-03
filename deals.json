@@ -1,7 +1,17 @@
 {
- "updated": "2026-11-04T07:01:24.979+09:00",
+ "updated": "2026-11-04T07:05:34.264+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1680867102",
+   "mall": "쿠팡",
+   "title": "가그린 제로 구강청결제, 1.2L, 2개",
+   "price": 8890,
+   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2412923165467698-e1935ae5-ac40-4af8-8861-7f5e30dd41a4.jpg",
+   "sentAt": "2026-11-04T07:05:33.569+09:00",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gkKvlsxQHs"
+  },
   {
    "uid": "1402282516",
    "mall": "쿠팡",
@@ -728,19 +738,6 @@
    "baseline": 130500,
    "baselineNote": "36곳 중 최저 · 무료배송",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=1267464808"
-  },
-  {
-   "uid": "2430407497",
-   "mall": "쿠팡",
-   "title": "포스트 오레오오즈 요거트큐브 시리얼, 400g 5,610원",
-   "price": 4700,
-   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/04/01/11/3/1eb4b3ab-72b8-49ef-9f44-6f449821df0f.jpg",
-   "sentAt": "2026-11-02T10:23:49.469+09:00",
-   "saving": 67,
-   "baseline": 14220,
-   "baselineNote": "판매글 6곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/ht2oyvheU0"
   }
  ]
 }
