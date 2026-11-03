@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-03T14:38:38.982+09:00",
- "count": 195,
+ "updated": "2026-11-03T15:18:21.301+09:00",
+ "count": 196,
  "items": [
+  {
+   "uid": "3644566565",
+   "mall": "지마켓",
+   "title": "ASUS 비보북 X1404MA-EB302W 가성비노트북",
+   "price": 899000,
+   "image": "https://gdimg.gmarket.co.kr/4833998522/goodsimage",
+   "sentAt": "2026-11-03T15:18:21.301+09:00",
+   "saving": 33,
+   "baseline": 1349000,
+   "baselineNote": "다른 곳 최저",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4833998522",
+   "web": true
+  },
   {
    "uid": "2908447315",
    "mall": "지마켓",
