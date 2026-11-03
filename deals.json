@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-03T10:13:13.413+09:00",
+ "updated": "2026-11-03T11:11:55.525+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8904420702",
+   "mall": "쿠팡",
+   "title": "7D 건조망고, 80g, 5개입",
+   "price": 13750,
+   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/65417056-886a-4d26-bc14-72d3f64b569112983228976896947667.png",
+   "sentAt": "2026-11-03T11:11:54.636+09:00",
+   "saving": 37,
+   "baseline": 21890,
+   "baselineNote": "12곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/imOWG9XFfg"
+  },
   {
    "uid": "3569466774",
    "mall": "지마켓",
@@ -724,19 +737,6 @@
    "baseline": 11950,
    "baselineNote": "판매글 22곳 최저가",
    "link": "http://app.ac/cECo3yS83"
-  },
-  {
-   "uid": "5827032539",
-   "mall": "롯데온",
-   "title": "대상웰라이프 마이밀 마시는 뉴프로틴 190mlx16팩 2박스",
-   "price": 35120,
-   "image": "https://contents.lotteon.com/itemimage/20261002102016/LO/27/85/04/64/88/_2/78/50/46/48/9/LO2785046488_2785046489_1.jpg",
-   "sentAt": "2026-11-01T17:49:56.763+09:00",
-   "saving": 20,
-   "baseline": 43960,
-   "baselineNote": "판매글 7곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/KECJLPS23"
   }
  ]
 }
