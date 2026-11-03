@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-03T15:30:22.416+09:00",
+ "updated": "2026-11-03T16:33:55.910+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9041556063",
+   "mall": "쿠팡",
+   "title": "비락 유아용 올바른 크림초코 라떼 110ml*초코맛*18개",
+   "price": 7090,
+   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2023/08/31/12/8/a80df6ad-a302-434f-a054-756897f46f29.jpg",
+   "sentAt": "2026-11-03T16:33:55.071+09:00",
+   "saving": 55,
+   "baseline": 15800,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/inbZnqRXqu"
+  },
   {
    "uid": "4581987714",
    "mall": "11번가",
@@ -732,18 +745,6 @@
    "baselineNote": "76곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://hotdeal.best/2605768939?utm_source=kakao"
-  },
-  {
-   "uid": "3781276983",
-   "mall": "쿠팡",
-   "title": "스탠리 올데이 줄리엔 미디 쿨러 토트백 11.3L*1개",
-   "price": 78600,
-   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/888611976902-fc825c50-d052-49f9-bd58-51d708bf43ba.jpg",
-   "sentAt": "2026-11-02T07:30:11.173+09:00",
-   "saving": 71,
-   "baseline": 266830,
-   "baselineNote": "판매글 6곳 최저가",
-   "link": "https://link.coupang.com/a/ikT7IVV74m"
   }
  ]
 }
