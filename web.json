@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-03T08:10:16.952+09:00",
- "count": 189,
+ "updated": "2026-11-03T10:29:05.866+09:00",
+ "count": 190,
  "items": [
+  {
+   "uid": "9877883046",
+   "mall": "11번가",
+   "title": "비트 스트롱세븐 일반 3L 용기, 1개 + 일반드럼겸용 2.22L 리필, 3개",
+   "price": 16840,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/7278016319/B.webp?26424105",
+   "sentAt": "2026-11-03T10:29:05.866+09:00",
+   "saving": 15,
+   "baseline": 19900,
+   "baselineNote": "판매글 8곳 최저가",
+   "link": "http://app.ac/z3CEkcJ33",
+   "web": true
+  },
   {
    "uid": "4042865012",
    "mall": "쿠팡",
