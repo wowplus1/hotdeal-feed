@@ -1,7 +1,17 @@
 {
- "updated": "2026-11-03T17:13:33.260+09:00",
+ "updated": "2026-11-03T17:43:37.246+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3544503457",
+   "mall": "쿠팡",
+   "title": "오설록 제주 순수녹차 2g*20개입*1개",
+   "price": 5600,
+   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/4752405a-923f-4975-a77e-278d2cfec8ba6685532761659597612.png",
+   "sentAt": "2026-11-03T17:43:36.499+09:00",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/ingYDSmm8i"
+  },
   {
    "uid": "3054102194",
    "mall": "지마켓",
@@ -731,19 +741,6 @@
    "baselineNote": "판매글 5곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2453428889"
-  },
-  {
-   "uid": "8433271003",
-   "mall": "쿠팡",
-   "title": "해태htb 갈배사이다 제로, 185ml, 30개",
-   "price": 8930,
-   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/5279/dd27fdb9bbb4c55d7d5507f97c5e04650bcfbe098f10baba1841520eefd9.jpg",
-   "sentAt": "2026-11-02T08:50:04.167+09:00",
-   "saving": 20,
-   "baseline": 11140,
-   "baselineNote": "43곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gpsa4StInQ"
   }
  ]
 }
