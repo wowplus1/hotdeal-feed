@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-03T17:20:03.351+09:00",
+ "updated": "2026-11-03T17:29:13.671+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "1393491022",
+   "mall": "롯데온",
+   "title": "K2여성 구스다운 씬에어 코코 W KWW24542-JS",
+   "price": 93210,
+   "image": "https://contents.lotteon.com/itemimage/20260810192814/LE/12/22/14/24/38/_1/33/42/41/34/3/LE1222142438_1334241343_1.jpg",
+   "sentAt": "2026-11-03T17:29:13.671+09:00",
+   "saving": 11,
+   "baseline": 104720,
+   "baselineNote": "판매글 9곳 최저가",
+   "link": "http://app.ac/KtVe0LM13",
+   "web": true
+  },
   {
    "uid": "5114765940",
    "mall": "11번가",
@@ -2642,19 +2655,6 @@
    "baseline": 2359000,
    "baselineNote": "다른 곳 최저",
    "link": "https://link.coupang.com/a/hYsy86oAma",
-   "web": true
-  },
-  {
-   "uid": "4953857980",
-   "mall": "롯데온",
-   "title": "국내산 닭으로 만든 순살 춘천닭갈비 500g x 4팩 총 2kg",
-   "price": 16340,
-   "image": "https://contents.lotteon.com/itemimage/20260814134139/LO/27/46/18/10/02/_2/74/61/81/00/3/LO2746181002_2746181003_1.jpg",
-   "sentAt": "2026-10-19T18:55:23.581+09:00",
-   "saving": 16,
-   "baseline": 19520,
-   "baselineNote": "판매글 10곳 최저가",
-   "link": "http://app.ac/UECKwXS03",
    "web": true
   }
  ]
