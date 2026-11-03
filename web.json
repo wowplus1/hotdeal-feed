@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-03T22:04:42.246+09:00",
+ "updated": "2026-11-03T22:09:01.415+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "9903383002",
+   "mall": "쿠팡",
+   "title": "샘표 국산콩 백일된장, 900g, 1개",
+   "price": 9160,
+   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/1025_amir_coupang_oct_80k/2493/fc90a751dbc7f3b4c6e7658e321f3d740a840700d66a459ed9780288d41d.jpg",
+   "sentAt": "2026-11-03T22:09:01.415+09:00",
+   "saving": 27,
+   "baseline": 12480,
+   "baselineNote": "7곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/inzW1EjoEm",
+   "web": true
+  },
   {
    "uid": "5032227940",
    "mall": "쿠팡",
@@ -2647,19 +2661,6 @@
    "baseline": 30710,
    "baselineNote": "판매글 4곳 최저가",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4532626746",
-   "web": true
-  },
-  {
-   "uid": "4519350102",
-   "mall": "지마켓",
-   "title": "애플펜슬 2세대 Apple Pencil 2 MU8F2AM/A",
-   "price": 79030,
-   "image": "https://gdimg.gmarket.co.kr/2931394538/goodsimage",
-   "sentAt": "2026-10-19T19:41:49.435+09:00",
-   "saving": 13,
-   "baseline": 91070,
-   "baselineNote": "판매글 11곳 최저가",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2931394538",
    "web": true
   }
  ]
