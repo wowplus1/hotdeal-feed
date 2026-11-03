@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-04T07:10:55.936+09:00",
+ "updated": "2026-11-04T07:19:42.776+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5501648467",
+   "mall": "쿠팡",
+   "title": "토레타 이온음료, 500ml, 24개",
+   "price": 14490,
+   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/100102027674102-8cc77207-4f19-4e83-9119-7301407b36e3.jpg",
+   "sentAt": "2026-11-04T07:19:41.571+09:00",
+   "saving": 57,
+   "baseline": 34080,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/garbm8eGxo"
+  },
   {
    "uid": "1602237473",
    "mall": "쿠팡",
@@ -725,19 +738,6 @@
    "baselineNote": "6곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "http://app.ac/2qDqoI223"
-  },
-  {
-   "uid": "1921721568",
-   "mall": "쿠팡",
-   "title": "오트몬드 오리지널 190ml 24개",
-   "price": 10940,
-   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/21315516149066-2def4f9a-8ddb-407c-a177-fbbdc1508c8f.jpg",
-   "sentAt": "2026-11-02T10:25:51.787+09:00",
-   "saving": 26,
-   "baseline": 14700,
-   "baselineNote": "438곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hPtQM74wsC"
   }
  ]
 }
