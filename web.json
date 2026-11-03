@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-03T16:03:11.157+09:00",
- "count": 198,
+ "updated": "2026-11-03T16:20:43.111+09:00",
+ "count": 199,
  "items": [
+  {
+   "uid": "5457767011",
+   "mall": "지마켓",
+   "title": "홈스타 락스와세제 스프레이 후로랄 900ml x 4개",
+   "price": 12010,
+   "image": "https://gdimg.gmarket.co.kr/4734077791/goodsimage",
+   "sentAt": "2026-11-03T16:20:43.111+09:00",
+   "saving": 27,
+   "baseline": 16380,
+   "baselineNote": "판매글 13곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4734077791",
+   "web": true
+  },
   {
    "uid": "4886535688",
    "mall": "지마켓",
