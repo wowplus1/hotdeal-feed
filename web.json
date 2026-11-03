@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-03T19:45:10.307+09:00",
+ "updated": "2026-11-03T22:04:42.246+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "5032227940",
+   "mall": "쿠팡",
+   "title": "이니스프리 화산송이 모공 바하 클렌징 폼, 150g, 2개",
+   "price": 7940,
+   "image": "https://t3a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/806171289192691-3e4d64f0-c301-4943-bc72-f6d5c1eacbe3.jpg",
+   "sentAt": "2026-11-03T22:04:42.246+09:00",
+   "saving": 44,
+   "baseline": 14170,
+   "baselineNote": "판매글 8곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/g371HX36aG",
+   "web": true
+  },
   {
    "uid": "1968324253",
    "mall": "지마켓",
@@ -2646,16 +2660,6 @@
    "baseline": 91070,
    "baselineNote": "판매글 11곳 최저가",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2931394538",
-   "web": true
-  },
-  {
-   "uid": "2281035111",
-   "mall": "롯데온",
-   "title": "김동완 돈까스 10팩+애플돈까스소스200g*1통",
-   "price": 22810,
-   "image": "https://contents.lotteon.com/itemimage/20261019075829/LO/25/66/15/06/58/_2/56/61/50/65/9/LO2566150658_2566150659_1.jpg",
-   "sentAt": "2026-10-19T19:24:24.696+09:00",
-   "link": "http://app.ac/mqnsGo293",
    "web": true
   }
  ]
