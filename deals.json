@@ -1,7 +1,19 @@
 {
- "updated": "2026-11-03T15:03:47.808+09:00",
+ "updated": "2026-11-03T15:15:38.585+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4012524921",
+   "mall": "롯데온",
+   "title": "삼립호빵 4가지 맛 모두 맛보는 호빵네빵 12입 2박스+삼립 정통크림빵 2봉 증정 외",
+   "price": 21520,
+   "image": "https://contents.lotteon.com/itemimage/20261102183556/LO/25/61/96/87/03/_2/56/19/68/72/9/LO2561968703_2561968729_1.jpg",
+   "sentAt": "2026-11-03T15:15:38.024+09:00",
+   "saving": 20,
+   "baseline": 26980,
+   "baselineNote": "판매글 7곳 최저가",
+   "link": "http://app.ac/6EwjhLS93"
+  },
   {
    "uid": "2941767783",
    "mall": "쿠팡",
@@ -730,16 +742,6 @@
    "sentAt": "2026-11-02T07:30:11.173+09:00",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/f9zlPT8PnM"
-  },
-  {
-   "uid": "2139835101",
-   "mall": "쿠팡",
-   "title": "2080 시크릿쥬쥬 키즈 칫솔 2종 세트 6개입*2세트",
-   "price": 4600,
-   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/48f6/0bac8457ddc5fe82e8aa4c23bcefca85a5d3de0b7e1064cd938b1311ac50.jpg",
-   "sentAt": "2026-11-02T07:17:41.405+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/ikTdlKVJx6"
   }
  ]
 }
