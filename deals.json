@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-04T14:50:16.837+09:00",
+ "updated": "2026-11-04T14:55:16.892+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4009094420",
+   "mall": "롯데온",
+   "title": "꽃보다오징어 오리지날 230g+230g",
+   "price": 30740,
+   "image": "https://contents.lotteon.com/itemimage/20260806105528/LO/27/24/23/01/60/_2/72/42/30/16/1/LO2724230160_2724230161_1.jpg",
+   "sentAt": "2026-11-04T14:55:16.340+09:00",
+   "saving": 28,
+   "baseline": 42770,
+   "baselineNote": "판매글 15곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 15곳 최저가",
+     "price": 42770
+    }
+   ],
+   "link": "http://app.ac/R3MtilJ63"
+  },
   {
    "uid": "7588473178",
    "mall": "지마켓",
@@ -915,18 +933,6 @@
    "baselineNote": "29곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2562073413"
-  },
-  {
-   "uid": "6928610467",
-   "mall": "지마켓",
-   "title": "ph365 베이비유산균 27,420원/키즈유산균 33,140원",
-   "price": 26480,
-   "image": "https://gdimg.gmarket.co.kr/1838184501/goodsimage",
-   "sentAt": "2026-11-02T17:02:07.030+09:00",
-   "saving": 23,
-   "baseline": 34180,
-   "baselineNote": "판매글 3곳 최저가",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=1838184501"
   }
  ]
 }
