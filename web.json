@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-05T00:03:59.477+09:00",
+ "updated": "2026-11-05T00:05:11.121+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "8967328775",
+   "mall": "11번가",
+   "title": "San-Lucas 아보카도 오일 1L x 2병 엑스트라버진 멕시코산 냉압착 HASS 아보카드 아보카도유 식용유",
+   "price": 37800,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/9/7/3/1/7/0/IdlJX/8261973170_242187436.webp",
+   "sentAt": "2026-11-05T00:05:11.121+09:00",
+   "unit": {
+    "label": "개당",
+    "value": 18900
+   },
+   "link": "http://app.ac/5jpttKa63",
+   "web": true
+  },
   {
    "uid": "3983168068",
    "mall": "지마켓",
@@ -3041,19 +3055,6 @@
    "baseline": 1400180,
    "baselineNote": "판매글 3곳 최저가",
    "link": "https://link.coupang.com/a/h1tlhg47Hw",
-   "web": true
-  },
-  {
-   "uid": "6478931270",
-   "mall": "롯데온",
-   "title": "키크론 K10 PRO SE2 ZMK 레트로 파스텔 유무선 라이트 저소음바나나축 풀배열 사무실 기계식 키보드",
-   "price": 99510,
-   "image": "https://contents.lotteon.com/itemimage/20261021102326/LO/26/09/98/13/67/_2/60/99/81/36/8/LO2609981367_2609981368_1.jpg",
-   "sentAt": "2026-10-21T13:34:40.213+09:00",
-   "saving": 16,
-   "baseline": 119000,
-   "baselineNote": "다른 곳 최저",
-   "link": "http://app.ac/MAGB4V503",
    "web": true
   }
  ]
