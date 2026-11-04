@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-04T11:48:40.919+09:00",
+ "updated": "2026-11-04T11:50:48.457+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "8049472059",
+   "mall": "롯데온",
+   "title": "본죽 대용량 부추 꼬막무침 500g 2팩",
+   "price": 23590,
+   "image": "https://contents.lotteon.com/itemimage/20260709140851/LO/26/02/63/28/21/_2/60/26/32/82/7/LO2602632821_2602632827_1.jpg",
+   "sentAt": "2026-11-04T11:50:48.457+09:00",
+   "saving": 14,
+   "baseline": 27590,
+   "baselineNote": "판매글 24곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 11795
+   },
+   "comps": [
+    {
+     "name": "판매글 24곳 최저가",
+     "price": 27590
+    }
+   ],
+   "link": "http://app.ac/z3MeksJ53",
+   "web": true
+  },
   {
    "uid": "1718490745",
    "mall": "쿠팡",
@@ -2654,19 +2677,6 @@
    "baselineNote": "판매글 4곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/rqnFMu233",
-   "web": true
-  },
-  {
-   "uid": "9839140963",
-   "mall": "롯데온",
-   "title": "비타빗 프리미엄 압력솥 S4 18cm 1.8L",
-   "price": 272000,
-   "image": "https://contents.lotteon.com/itemimage/20261019174959/LE/21/16/90/76/58/bndl_img/LE2116907658_1.jpg",
-   "sentAt": "2026-10-20T20:09:35.280+09:00",
-   "saving": 18,
-   "baseline": 333700,
-   "baselineNote": "판매글 3곳 최저가",
-   "link": "http://app.ac/qAGBP6583",
    "web": true
   }
  ]
