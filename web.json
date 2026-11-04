@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-04T15:23:56.862+09:00",
+ "updated": "2026-11-04T17:53:31.160+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "2329200372",
+   "mall": "지마켓",
+   "title": "칭따오 0.0 논알콜 맥주 330ml 24캔",
+   "price": 17590,
+   "image": "https://gdimg.gmarket.co.kr/4573241314/goodsimage",
+   "sentAt": "2026-11-04T17:53:31.160+09:00",
+   "unit": {
+    "label": "개당",
+    "value": 733
+   },
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4573241314",
+   "web": true
+  },
   {
    "uid": "3658023096",
    "mall": "11번가",
@@ -2838,19 +2852,6 @@
    "baselineNote": "판매글 5곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4158329203",
-   "web": true
-  },
-  {
-   "uid": "1916367190",
-   "mall": "쿠팡",
-   "title": "솔가 B-컴플렉스 50 베지터블 캡슐 100정",
-   "price": 11810,
-   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/11ff/de3b9adad3bcf328bb8b399449a264732906a90655b0926a7618f889d311.jpg",
-   "sentAt": "2026-10-20T22:30:43.096+09:00",
-   "saving": 17,
-   "baseline": 14270,
-   "baselineNote": "62곳 중 최저",
-   "link": "https://link.coupang.com/a/h0mIQJnWns",
    "web": true
   }
  ]
