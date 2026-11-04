@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-04T11:01:23.598+09:00",
+ "updated": "2026-11-04T11:43:33.879+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "4587889635",
+   "mall": "쿠팡",
+   "title": "LG전자 2026 그램 프로 AI 16 코어Ultra5",
+   "price": 1759300,
+   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/114716160986719-2f422ffb-806d-4347-bb73-e233c5f54bac.jpg",
+   "sentAt": "2026-11-04T11:43:33.879+09:00",
+   "saving": 34,
+   "baseline": 2650500,
+   "baselineNote": "판매글 11곳 최저가",
+   "link": "https://link.coupang.com/a/f9BmhOjE0y",
+   "web": true
+  },
   {
    "uid": "1027598673",
    "mall": "지마켓",
@@ -2649,20 +2662,6 @@
    "baselineNote": "판매글 8곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2339573805",
-   "web": true
-  },
-  {
-   "uid": "9167224071",
-   "mall": "쿠팡",
-   "title": "롯데웰푸드 찰떡 일품 팥빙수 12개입",
-   "price": 16620,
-   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/3126252416673-b707270c-1837-4757-a26a-0fea9028ae84.jpg",
-   "sentAt": "2026-10-20T14:08:03.848+09:00",
-   "saving": 19,
-   "baseline": 20570,
-   "baselineNote": "판매글 12곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hZMMyx7q8G",
    "web": true
   }
  ]
