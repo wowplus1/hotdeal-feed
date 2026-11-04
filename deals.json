@@ -1,7 +1,19 @@
 {
- "updated": "2026-11-04T09:15:39.929+09:00",
+ "updated": "2026-11-04T09:18:11.856+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2807899387",
+   "mall": "지마켓",
+   "title": "칼마아디 180정",
+   "price": 11900,
+   "image": "https://gdimg.gmarket.co.kr/1942508909/goodsimage",
+   "sentAt": "2026-11-04T09:18:11.224+09:00",
+   "saving": 50,
+   "baseline": 24000,
+   "baselineNote": "판매글 5곳 최저가",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=1942508909"
+  },
   {
    "uid": "3797419551",
    "mall": "쿠팡",
@@ -729,19 +741,6 @@
    "baselineNote": "38곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/ilbKa4y6SW"
-  },
-  {
-   "uid": "9606595390",
-   "mall": "지마켓",
-   "title": "도브 바디워시 1000ml 3개",
-   "price": 11600,
-   "image": "https://gdimg.gmarket.co.kr/1677460336/goodsimage",
-   "sentAt": "2026-11-02T11:18:40.174+09:00",
-   "saving": 55,
-   "baseline": 25560,
-   "baselineNote": "판매글 8곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=1677460336"
   }
  ]
 }
