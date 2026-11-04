@@ -1,7 +1,95 @@
 {
- "updated": "2026-11-04T13:55:09.723+09:00",
+ "updated": "2026-11-04T15:23:56.862+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "3658023096",
+   "mall": "11번가",
+   "title": "칸타타 아이스커피 블랙, 190ml, 30개",
+   "price": 12610,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/5830509478/B.jpg?673137886",
+   "sentAt": "2026-11-04T15:23:56.862+09:00",
+   "saving": 15,
+   "baseline": 14900,
+   "baselineNote": "22곳 중 최저 · 무료배송",
+   "unit": {
+    "label": "개당",
+    "value": 420
+   },
+   "check": {
+    "market": 14900,
+    "malls": 22,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 14790
+   },
+   "review": {
+    "score": 4.7,
+    "count": 817,
+    "low": 10
+   },
+   "comps": [
+    {
+     "name": "22곳 중 최저 · 무료배송",
+     "price": 14900
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 14790
+    },
+    {
+     "m": "26-01",
+     "p": 14900
+    },
+    {
+     "m": "26-02",
+     "p": 14900
+    },
+    {
+     "m": "26-03",
+     "p": 14900
+    },
+    {
+     "m": "26-04",
+     "p": 14900
+    },
+    {
+     "m": "26-05",
+     "p": 14900
+    },
+    {
+     "m": "26-06",
+     "p": 14900
+    },
+    {
+     "m": "26-07",
+     "p": 17030
+    },
+    {
+     "m": "26-08",
+     "p": 17030
+    },
+    {
+     "m": "26-09",
+     "p": 17030
+    },
+    {
+     "m": "26-10",
+     "p": 17030
+    },
+    {
+     "m": "26-11",
+     "p": 17030
+    }
+   ],
+   "link": "http://app.ac/xAVqHc523",
+   "web": true
+  },
   {
    "uid": "6445019483",
    "mall": "11번가",
@@ -2763,20 +2851,6 @@
    "baseline": 14270,
    "baselineNote": "62곳 중 최저",
    "link": "https://link.coupang.com/a/h0mIQJnWns",
-   "web": true
-  },
-  {
-   "uid": "9851335750",
-   "mall": "11번가",
-   "title": "바나나 우유 240ml 8개",
-   "price": 10800,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/pd/v2/2/6/4/7/6/9/EXxTC/9694264769_B.webp",
-   "sentAt": "2026-10-20T22:04:32.146+09:00",
-   "saving": 11,
-   "baseline": 12090,
-   "baselineNote": "12곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "http://app.ac/0qnFVM243",
    "web": true
   }
  ]
