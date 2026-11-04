@@ -1,7 +1,103 @@
 {
- "updated": "2026-11-04T17:39:01.211+09:00",
+ "updated": "2026-11-04T18:04:31.155+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7418176966",
+   "mall": "쿠팡",
+   "title": "오뚜기 진라면 약간매운맛 120g 5개",
+   "price": 2600,
+   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/05/20/17/6/ce6b9a20-fda0-434c-bd57-d7dce9284033.jpg",
+   "sentAt": "2026-11-04T18:04:30.420+09:00",
+   "saving": 21,
+   "baseline": 3310,
+   "baselineNote": "82곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 520
+   },
+   "check": {
+    "market": 3310,
+    "malls": 82,
+    "delivered": 5580
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": false,
+    "low": 2230
+   },
+   "review": {
+    "score": 4.9,
+    "count": 6879,
+    "low": 1
+   },
+   "spec": [
+    "봉지라면",
+    "국물라면",
+    "기본면"
+   ],
+   "comps": [
+    {
+     "name": "82곳 중 최저",
+     "price": 3310
+    },
+    {
+     "name": "배송비까지 치면",
+     "price": 5580
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 3750
+    },
+    {
+     "m": "26-01",
+     "p": 2230
+    },
+    {
+     "m": "26-02",
+     "p": 2230
+    },
+    {
+     "m": "26-03",
+     "p": 2230
+    },
+    {
+     "m": "26-04",
+     "p": 2230
+    },
+    {
+     "m": "26-05",
+     "p": 2230
+    },
+    {
+     "m": "26-06",
+     "p": 2230
+    },
+    {
+     "m": "26-07",
+     "p": 3210
+    },
+    {
+     "m": "26-08",
+     "p": 3500
+    },
+    {
+     "m": "26-09",
+     "p": 3220
+    },
+    {
+     "m": "26-10",
+     "p": 2880
+    },
+    {
+     "m": "26-11",
+     "p": 3310
+    }
+   ],
+   "link": "https://link.coupang.com/a/ioXlMV6RFY"
+  },
   {
    "uid": "4018339279",
    "mall": "쿠팡",
@@ -1182,19 +1278,6 @@
    "baselineNote": "판매글 7곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/ilOUIO8eLA"
-  },
-  {
-   "uid": "6941874512",
-   "mall": "쿠팡",
-   "title": "맥널티커피 베트남 g1 싱글오리진 커피 원두 1kg",
-   "price": 7280,
-   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/09/18/18/5/428e9dec-e7b9-43ff-82fd-388aefe679e0.png",
-   "sentAt": "2026-11-02T19:30:14.616+09:00",
-   "saving": 74,
-   "baseline": 27900,
-   "baselineNote": "판매글 6곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/h0h9iXnET6"
   }
  ]
 }
