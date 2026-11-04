@@ -1,7 +1,97 @@
 {
- "updated": "2026-11-04T17:14:54.129+09:00",
+ "updated": "2026-11-04T17:39:01.211+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4018339279",
+   "mall": "쿠팡",
+   "title": "스탠리 아이스플로우 플립 스트로 2.0 텀블러 887ml*1개",
+   "price": 22050,
+   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/184069615265504-baa5139b-956d-4831-a30b-e80be1bfc31f.jpg",
+   "sentAt": "2026-11-04T17:39:00.449+09:00",
+   "saving": 40,
+   "baseline": 36990,
+   "baselineNote": "258곳 중 최저 · 무료배송",
+   "check": {
+    "market": 36990,
+    "malls": 258,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 27590
+   },
+   "review": {
+    "score": 4.7,
+    "count": 872,
+    "low": 4
+   },
+   "spec": [
+    "보온보냉병(텀블러)",
+    "손잡이 있음",
+    "스테인리스",
+    "9x24cm",
+    "BPA프리, 빨대, 보온보냉기능"
+   ],
+   "comps": [
+    {
+     "name": "258곳 중 최저 · 무료배송",
+     "price": 36990
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 39820
+    },
+    {
+     "m": "26-01",
+     "p": 38870
+    },
+    {
+     "m": "26-02",
+     "p": 39650
+    },
+    {
+     "m": "26-03",
+     "p": 40000
+    },
+    {
+     "m": "26-04",
+     "p": 38000
+    },
+    {
+     "m": "26-05",
+     "p": 41650
+    },
+    {
+     "m": "26-06",
+     "p": 34300
+    },
+    {
+     "m": "26-07",
+     "p": 34300
+    },
+    {
+     "m": "26-08",
+     "p": 27590
+    },
+    {
+     "m": "26-09",
+     "p": 36200
+    },
+    {
+     "m": "26-10",
+     "p": 43180
+    },
+    {
+     "m": "26-11",
+     "p": 44100
+    }
+   ],
+   "link": "https://link.coupang.com/a/ioVxMHuxhc"
+  },
   {
    "uid": "4282936928",
    "mall": "쿠팡",
@@ -1105,18 +1195,6 @@
    "baselineNote": "판매글 6곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/h0h9iXnET6"
-  },
-  {
-   "uid": "3118544900",
-   "mall": "롯데온",
-   "title": "선 미네랄 크림 50ml SPF50+ PA++++",
-   "price": 21820,
-   "image": "https://contents.lotteon.com/itemimage/20260907144510/LO/26/27/06/76/88/bndl_img/LO2627067688_1.png",
-   "sentAt": "2026-11-02T19:15:42.524+09:00",
-   "saving": 32,
-   "baseline": 32110,
-   "baselineNote": "판매글 3곳 최저가",
-   "link": "http://app.ac/5qnOAQ263"
   }
  ]
 }
