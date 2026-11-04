@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-04T11:55:41.367+09:00",
+ "updated": "2026-11-04T13:08:14.536+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "6797457249",
+   "mall": "지마켓",
+   "title": "그레인랩 고소한 99.9 무가당두유 40팩 1박스,",
+   "price": 13900,
+   "image": "https://gdimg.gmarket.co.kr/4503348010/goodsimage",
+   "sentAt": "2026-11-04T13:08:14.536+09:00",
+   "saving": 23,
+   "baseline": 17990,
+   "baselineNote": "판매글 15곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 348
+   },
+   "comps": [
+    {
+     "name": "판매글 15곳 최저가",
+     "price": 17990
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4503348010",
+   "web": true
+  },
   {
    "uid": "6349916394",
    "mall": "지마켓",
@@ -2748,20 +2771,6 @@
    "baseline": 31520,
    "baselineNote": "판매글 16곳 최저가",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4533563113",
-   "web": true
-  },
-  {
-   "uid": "8715542569",
-   "mall": "지마켓",
-   "title": "시스테마 치석케어 칫솔 콤팩트 12개",
-   "price": 14640,
-   "image": "https://gdimg.gmarket.co.kr/4197236054/goodsimage",
-   "sentAt": "2026-10-20T21:14:19.513+09:00",
-   "saving": 14,
-   "baseline": 16940,
-   "baselineNote": "71곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4197236054",
    "web": true
   }
  ]
