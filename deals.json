@@ -1,7 +1,99 @@
 {
- "updated": "2026-11-04T13:38:20.087+09:00",
+ "updated": "2026-11-04T13:52:26.063+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3464973792",
+   "mall": "쿠팡",
+   "title": "풀무원 얄피꽉찬 육즙진한 교자 , 400g, 4개",
+   "price": 9860,
+   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/714450c6-4259-4263-8c84-d9612a78f7604189471707875077918.png",
+   "sentAt": "2026-11-04T13:52:25.361+09:00",
+   "saving": 37,
+   "baseline": 15690,
+   "baselineNote": "2곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 2465
+   },
+   "check": {
+    "market": 15690,
+    "malls": 2,
+    "ship": 3500,
+    "delivered": 19190
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 13820
+   },
+   "spec": [
+    "만두",
+    "고기교자",
+    "냉동보관"
+   ],
+   "comps": [
+    {
+     "name": "2곳 중 최저",
+     "price": 15690
+    },
+    {
+     "name": "배송비 3,500원 포함",
+     "price": 19190
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 15180
+    },
+    {
+     "m": "26-01",
+     "p": 15180
+    },
+    {
+     "m": "26-02",
+     "p": 15080
+    },
+    {
+     "m": "26-03",
+     "p": 15180
+    },
+    {
+     "m": "26-04",
+     "p": 15180
+    },
+    {
+     "m": "26-05",
+     "p": 15180
+    },
+    {
+     "m": "26-06",
+     "p": 13820
+    },
+    {
+     "m": "26-07",
+     "p": 13820
+    },
+    {
+     "m": "26-08",
+     "p": 15170
+    },
+    {
+     "m": "26-09",
+     "p": 14040
+    },
+    {
+     "m": "26-10",
+     "p": 15690
+    },
+    {
+     "m": "26-11",
+     "p": 15690
+    }
+   ],
+   "link": "https://link.coupang.com/a/hScM2jg4uO"
+  },
   {
    "uid": "1011128341",
    "mall": "지마켓",
@@ -752,19 +844,6 @@
    "baseline": 48220,
    "baselineNote": "93곳 중 최저",
    "link": "http://app.ac/mtntQ7M23"
-  },
-  {
-   "uid": "3323273256",
-   "mall": "지마켓",
-   "title": "오예스 알뜰형 x 3개",
-   "price": 17170,
-   "image": "https://gdimg.gmarket.co.kr/4460650141/goodsimage",
-   "sentAt": "2026-11-02T14:45:07.737+09:00",
-   "saving": 49,
-   "baseline": 33387,
-   "baselineNote": "판매글 16곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4460650141"
   }
  ]
 }
