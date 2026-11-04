@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-04T20:28:36.073+09:00",
+ "updated": "2026-11-04T21:03:45.844+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4572278374",
+   "mall": "11번가",
+   "title": "하테 국산 남원 추어탕 500g x 5팩",
+   "price": 13900,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/7335366814/B.webp?407533082",
+   "sentAt": "2026-11-04T21:03:45.088+09:00",
+   "saving": 22,
+   "baseline": 17900,
+   "baselineNote": "다른 곳 최저",
+   "unit": {
+    "label": "개당",
+    "value": 2780
+   },
+   "comps": [
+    {
+     "name": "다른 곳 최저",
+     "price": 17900
+    }
+   ],
+   "link": "http://app.ac/uqDW3t213"
+  },
   {
    "uid": "2647268090",
    "mall": "쿠팡",
@@ -1440,19 +1462,6 @@
    "baselineNote": "9곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/imyA6CJ2rI"
-  },
-  {
-   "uid": "6763400626",
-   "mall": "쿠팡",
-   "title": "해태htb 갈배사이다 제로, 355ml, 24개",
-   "price": 10320,
-   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/image_audit/prod/ddb78509-3d3c-4de5-9cbd-a2d3c9aec24a_composition_base_0.png",
-   "sentAt": "2026-11-03T07:10:48.176+09:00",
-   "saving": 22,
-   "baseline": 13150,
-   "baselineNote": "298곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gdKXMXeYx2"
   }
  ]
 }
