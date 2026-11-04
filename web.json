@@ -1,7 +1,94 @@
 {
- "updated": "2026-11-04T18:13:29.493+09:00",
+ "updated": "2026-11-04T20:19:06.934+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "4634831193",
+   "mall": "롯데온",
+   "title": "스팸 클래식/라이트 340g x10개 골라담기",
+   "price": 32890,
+   "image": "https://contents.lotteon.com/itemimage/20261104201344/LO/28/08/73/59/68/_2/80/87/35/96/9/LO2808735968_2808735969_1.jpg",
+   "sentAt": "2026-11-04T20:19:06.934+09:00",
+   "saving": 13,
+   "baseline": 37900,
+   "baselineNote": "247곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 3289
+   },
+   "check": {
+    "market": 37900,
+    "malls": 247
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 34320
+   },
+   "review": {
+    "score": 4.7,
+    "count": 631,
+    "low": 3
+   },
+   "comps": [
+    {
+     "name": "247곳 중 최저",
+     "price": 37900
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 34320
+    },
+    {
+     "m": "26-01",
+     "p": 34320
+    },
+    {
+     "m": "26-02",
+     "p": 34320
+    },
+    {
+     "m": "26-03",
+     "p": 34320
+    },
+    {
+     "m": "26-04",
+     "p": 34900
+    },
+    {
+     "m": "26-05",
+     "p": 35030
+    },
+    {
+     "m": "26-06",
+     "p": 34900
+    },
+    {
+     "m": "26-07",
+     "p": 34900
+    },
+    {
+     "m": "26-08",
+     "p": 38900
+    },
+    {
+     "m": "26-09",
+     "p": 37900
+    },
+    {
+     "m": "26-10",
+     "p": 36900
+    },
+    {
+     "m": "26-11",
+     "p": 37900
+    }
+   ],
+   "link": "http://app.ac/5qDWFM213",
+   "web": true
+  },
   {
    "uid": "4315717114",
    "mall": "지마켓",
@@ -2847,20 +2934,6 @@
    "baselineNote": "104곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/h0vATBZa8a",
-   "web": true
-  },
-  {
-   "uid": "1217069215",
-   "mall": "쿠팡",
-   "title": "청정원 저당 오리엔탈 드레싱 310g 1개",
-   "price": 2780,
-   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/05/26/18/4/bb129a0d-9e0f-4d1c-b9cf-b8d31056e0df.jpg",
-   "sentAt": "2026-10-21T00:31:40.957+09:00",
-   "saving": 21,
-   "baseline": 3500,
-   "baselineNote": "36곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/h0vmT3OiKy",
    "web": true
   }
  ]
