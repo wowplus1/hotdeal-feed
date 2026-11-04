@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-04T11:08:27.602+09:00",
+ "updated": "2026-11-04T12:01:21.262+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8886922005",
+   "mall": "지마켓",
+   "title": "비앤비 섬유유연제 리필1500ml 4개 13,940원",
+   "price": 13940,
+   "image": "https://gdimg.gmarket.co.kr/4350287851/goodsimage",
+   "sentAt": "2026-11-04T12:01:20.483+09:00",
+   "saving": 53,
+   "baseline": 29850,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 3485
+   },
+   "comps": [
+    {
+     "name": "판매글 3곳 최저가",
+     "price": 29850
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4350287851"
+  },
   {
    "uid": "2620790448",
    "mall": "지마켓",
@@ -729,18 +751,6 @@
    "sentAt": "2026-11-02T13:30:19.922+09:00",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gwghyKPSNM"
-  },
-  {
-   "uid": "1701357547",
-   "mall": "지마켓",
-   "title": "레노버 2026 아이디어패드 슬림 3 15IPH111 512GB 16GB",
-   "price": 875648,
-   "image": "https://gdimg.gmarket.co.kr/4789733723/goodsimage",
-   "sentAt": "2026-11-02T13:14:34.061+09:00",
-   "saving": 48,
-   "baseline": 1669000,
-   "baselineNote": "판매글 7곳 최저가",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4789733723"
   }
  ]
 }
