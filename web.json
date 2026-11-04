@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-04T13:08:14.536+09:00",
+ "updated": "2026-11-04T13:55:09.723+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "6445019483",
+   "mall": "11번가",
+   "title": "삼성전자 138.7cm UHD 4K LED 비즈니스TV LH55BEHHLGFXKR",
+   "price": 544530,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/pd/v2/2/7/7/3/4/5/bSlaH/5953277345_B.webp",
+   "sentAt": "2026-11-04T13:55:09.723+09:00",
+   "saving": 19,
+   "baseline": 672790,
+   "baselineNote": "판매글 32곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 32곳 최저가",
+     "price": 672790
+    }
+   ],
+   "link": "http://app.ac/MtVyZHM93",
+   "web": true
+  },
   {
    "uid": "6797457249",
    "mall": "지마켓",
@@ -2758,19 +2777,6 @@
    "baselineNote": "12곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "http://app.ac/0qnFVM243",
-   "web": true
-  },
-  {
-   "uid": "8270431840",
-   "mall": "지마켓",
-   "title": "아이깨끗해 X포차코 핸드워시 대용량 리필 순향 4.5L 1개 + 포차코 공용기 증정",
-   "price": 24020,
-   "image": "https://gdimg.gmarket.co.kr/4533563113/goodsimage",
-   "sentAt": "2026-10-20T21:34:37.024+09:00",
-   "saving": 24,
-   "baseline": 31520,
-   "baselineNote": "판매글 16곳 최저가",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4533563113",
    "web": true
   }
  ]
