@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-04T22:04:18.012+09:00",
+ "updated": "2026-11-04T22:06:24.678+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "3608331447",
+   "mall": "쿠팡",
+   "title": "올가홀푸드 한입에 쏙 우리밀 꼬마약과 400g 5,900원",
+   "price": 5900,
+   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/515731406740466-ed10094e-ad7b-4dea-932e-70a009649178.jpg",
+   "sentAt": "2026-11-04T22:06:24.678+09:00",
+   "saving": 35,
+   "baseline": 9120,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": {
+    "label": "100g당",
+    "value": 1475
+   },
+   "comps": [
+    {
+     "name": "판매글 3곳 최저가",
+     "price": 9120
+    }
+   ],
+   "link": "https://link.coupang.com/a/ipeD16Vth6",
+   "web": true
+  },
   {
    "uid": "9328484341",
    "mall": "지마켓",
@@ -3009,17 +3032,6 @@
    "baselineNote": "판매글 13곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=1558350154",
-   "web": true
-  },
-  {
-   "uid": "6811431558",
-   "mall": "지마켓",
-   "title": "도톰한3겹순수 화장지 27Mx30롤 3팩",
-   "price": 23760,
-   "image": "https://gdimg.gmarket.co.kr/4474793366/goodsimage",
-   "sentAt": "2026-10-21T11:50:19.691+09:00",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4474793366",
    "web": true
   }
  ]
