@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-04T09:18:11.856+09:00",
+ "updated": "2026-11-04T10:44:42.276+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5220021575",
+   "mall": "롯데온",
+   "title": "치킨 가라아게 1kg 3팩",
+   "price": 22850,
+   "image": "https://contents.lotteon.com/itemimage/20260813112019/LO/26/00/67/98/19/_2/60/06/79/82/0/LO2600679819_2600679820_1.png",
+   "sentAt": "2026-11-04T10:44:41.388+09:00",
+   "saving": 20,
+   "baseline": 28620,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": "[object Object]",
+   "link": "http://app.ac/bjwKwqa43"
+  },
   {
    "uid": "2807899387",
    "mall": "지마켓",
@@ -728,19 +741,6 @@
    "baselineNote": "234곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/geShoBvvk4"
-  },
-  {
-   "uid": "7075951781",
-   "mall": "쿠팡",
-   "title": "티젠 콤부차 청귤라임 10개입 2박스",
-   "price": 4000,
-   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/37521492666584-9ea0716a-fb75-4636-8136-3c5f737bf47a.jpg",
-   "sentAt": "2026-11-02T11:36:10.334+09:00",
-   "saving": 76,
-   "baseline": 16490,
-   "baselineNote": "38곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/ilbKa4y6SW"
   }
  ]
 }
