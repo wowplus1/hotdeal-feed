@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-04T18:04:31.155+09:00",
+ "updated": "2026-11-04T18:09:45.411+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1413933246",
+   "mall": "지마켓",
+   "title": "바세린 엑스트라 모이스처라이징 바디로션 1000ml 2개",
+   "price": 11900,
+   "image": "https://gdimg.gmarket.co.kr/2152460755/goodsimage",
+   "sentAt": "2026-11-04T18:09:44.508+09:00",
+   "saving": 43,
+   "baseline": 20810,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 5950
+   },
+   "comps": [
+    {
+     "name": "판매글 4곳 최저가",
+     "price": 20810
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2152460755"
+  },
   {
    "uid": "7418176966",
    "mall": "쿠팡",
@@ -1265,19 +1287,6 @@
    "baselineNote": "판매글 4곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4647070635"
-  },
-  {
-   "uid": "1384839594",
-   "mall": "쿠팡",
-   "title": "청정원 쌀로만든 멸치 컵쌀국수, 92g, 6개",
-   "price": 8200,
-   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/10033988168618-475527c0-334a-49e5-8475-052f6c91a9f8.jpg",
-   "sentAt": "2026-11-02T20:43:41.952+09:00",
-   "saving": 35,
-   "baseline": 12580,
-   "baselineNote": "판매글 7곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/ilOUIO8eLA"
   }
  ]
 }
