@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-05T08:19:22.106+09:00",
+ "updated": "2026-11-05T08:32:08.120+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9933087716",
+   "mall": "토스쇼핑",
+   "title": "애슐리 볶음밥 3종, 통새우 230g 2개 + 스크램블&게살 230g 2개 + 버터와규 230g 2개, 1세트",
+   "price": 9900,
+   "image": "https://shopping.toss.im/live/taca/ai/Mjg1YzM3/QUs2TW9SLzFJQWpLdWx5ejRhMGxySnhVUGlrcjJsc3gxTTRxdUVHd21VOW0.png",
+   "sentAt": "2026-11-05T08:32:07.580+09:00",
+   "saving": 31,
+   "baseline": 14250,
+   "baselineNote": "판매글 3곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 3곳 최저가",
+     "price": 14250
+    }
+   ],
+   "link": "https://toss.shopping/_m/HHij1fSf"
+  },
   {
    "uid": "9878273167",
    "mall": "쿠팡",
@@ -1612,16 +1630,6 @@
    "baseline": 11900,
    "baselineNote": "판매글 6곳 최저가",
    "link": "http://app.ac/oqneBf203"
-  },
-  {
-   "uid": "4683662802",
-   "mall": "지마켓",
-   "title": "미니 핫팩 25g 80매",
-   "price": 11420,
-   "image": "https://gdimg.gmarket.co.kr/4197161176/goodsimage",
-   "sentAt": "2026-11-03T08:53:45.418+09:00",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4197161176"
   }
  ]
 }
