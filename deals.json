@@ -1,7 +1,94 @@
 {
- "updated": "2026-11-04T21:10:11.289+09:00",
+ "updated": "2026-11-05T07:14:00.931+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1498603198",
+   "mall": "쿠팡",
+   "title": "롯데제과 칙촉 오리지널, 168g, 4개",
+   "price": 7890,
+   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/597802743635892-fdbffafc-b581-404a-b522-0beb2b0b406a.jpg",
+   "sentAt": "2026-11-05T07:13:59.900+09:00",
+   "saving": 43,
+   "baseline": 13910,
+   "baselineNote": "26곳 중 최저 · 무료배송",
+   "unit": {
+    "label": "개당",
+    "value": 1973
+   },
+   "check": {
+    "market": 13910,
+    "malls": 26,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 8980
+   },
+   "spec": [
+    "쿠키",
+    "12개입",
+    "저염"
+   ],
+   "comps": [
+    {
+     "name": "26곳 중 최저 · 무료배송",
+     "price": 13910
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 10360
+    },
+    {
+     "m": "26-01",
+     "p": 10360
+    },
+    {
+     "m": "26-02",
+     "p": 9900
+    },
+    {
+     "m": "26-03",
+     "p": 10510
+    },
+    {
+     "m": "26-04",
+     "p": 9960
+    },
+    {
+     "m": "26-05",
+     "p": 8980
+    },
+    {
+     "m": "26-06",
+     "p": 9000
+    },
+    {
+     "m": "26-07",
+     "p": 9000
+    },
+    {
+     "m": "26-08",
+     "p": 10420
+    },
+    {
+     "m": "26-09",
+     "p": 9450
+    },
+    {
+     "m": "26-10",
+     "p": 13590
+    },
+    {
+     "m": "26-11",
+     "p": 13820
+    }
+   ],
+   "link": "https://link.coupang.com/a/gkKj7EvlF6"
+  },
   {
    "uid": "8264102906",
    "mall": "지마켓",
@@ -1517,19 +1604,6 @@
    "baselineNote": "판매글 5곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gK2hKKhp3Q"
-  },
-  {
-   "uid": "7843630637",
-   "mall": "쿠팡",
-   "title": "하림 크런치킹 치킨너겟 , 1kg, 2개",
-   "price": 11880,
-   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/e0aca010-c308-4a29-a98f-2b7df9002f207729522876394260941.png",
-   "sentAt": "2026-11-03T07:37:47.283+09:00",
-   "saving": 28,
-   "baseline": 16600,
-   "baselineNote": "다른 곳 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/imzGbipx6X"
   }
  ]
 }
