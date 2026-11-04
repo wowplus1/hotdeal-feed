@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-04T15:58:13.963+09:00",
+ "updated": "2026-11-04T16:39:33.978+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3412277553",
+   "mall": "롯데온",
+   "title": "생수 지리산 물하나 무라벨 2L X 24",
+   "price": 9900,
+   "image": "https://contents.lotteon.com/itemimage/20260611125420/LO/26/35/48/96/77/_2/63/54/89/67/8/LO2635489677_2635489678_1.jpg",
+   "sentAt": "2026-11-04T16:39:33.427+09:00",
+   "saving": 28,
+   "baseline": 13750,
+   "baselineNote": "판매글 24곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 24곳 최저가",
+     "price": 13750
+    }
+   ],
+   "link": "http://app.ac/AAGOU0583"
+  },
   {
    "uid": "3373608852",
    "mall": "지마켓",
@@ -1088,19 +1106,6 @@
    "baseline": 120000,
    "baselineNote": "판매글 17곳 최저가",
    "link": "https://link.coupang.com/a/ilHTcWsBtk"
-  },
-  {
-   "uid": "7227443953",
-   "mall": "롯데온",
-   "title": "해남절임배추 20kg 김장 절임 배추 김치",
-   "price": 29010,
-   "image": "https://contents.lotteon.com/itemimage/20261102172124/LO/26/78/47/90/97/_2/67/84/79/12/7/LO2678479097_2678479127_1.jpg",
-   "sentAt": "2026-11-02T18:13:17.371+09:00",
-   "saving": 36,
-   "baseline": 45410,
-   "baselineNote": "다른 곳 최저",
-   "unit": "[object Object]",
-   "link": "http://app.ac/ljpbqna13"
   }
  ]
 }
