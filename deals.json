@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-04T13:52:26.063+09:00",
+ "updated": "2026-11-04T14:39:07.257+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6192292003",
+   "mall": "지마켓",
+   "title": "펩시제로라임 제로카페인 210ml 30캔+ 355ml 24캔 펩시/콜라/제로카페인",
+   "price": 19260,
+   "image": "https://gdimg.gmarket.co.kr/4667917611/goodsimage",
+   "sentAt": "2026-11-04T14:39:06.503+09:00",
+   "saving": 35,
+   "baseline": 29700,
+   "baselineNote": "판매글 26곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 26곳 최저가",
+     "price": 29700
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4667917611"
+  },
   {
    "uid": "3464973792",
    "mall": "쿠팡",
@@ -832,18 +850,6 @@
    "image": "https://gdimg.gmarket.co.kr/3039555146/goodsimage",
    "sentAt": "2026-11-02T17:02:07.030+09:00",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=3039555146"
-  },
-  {
-   "uid": "8603989408",
-   "mall": "하이마트",
-   "title": "필립스 무선 헤드폰 TAH2209",
-   "price": 19900,
-   "image": "https://static1.e-himart.co.kr/contents/goods/00/73/42/76/78/0073427678__TAH2209__M_640_640.jpg",
-   "sentAt": "2026-11-02T14:59:40.321+09:00",
-   "saving": 59,
-   "baseline": 48220,
-   "baselineNote": "93곳 중 최저",
-   "link": "http://app.ac/mtntQ7M23"
   }
  ]
 }
