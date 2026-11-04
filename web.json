@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-04T17:53:31.160+09:00",
+ "updated": "2026-11-04T18:13:29.493+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "4315717114",
+   "mall": "지마켓",
+   "title": "리코셀 병풀약쑥 슈퍼 딥 클렌징폼 220ml 4개",
+   "price": 10900,
+   "image": "https://gdimg.gmarket.co.kr/2688522623/goodsimage",
+   "sentAt": "2026-11-04T18:13:29.493+09:00",
+   "saving": 24,
+   "baseline": 14300,
+   "baselineNote": "판매글 6곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 2725
+   },
+   "comps": [
+    {
+     "name": "판매글 6곳 최저가",
+     "price": 14300
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2688522623",
+   "web": true
+  },
   {
    "uid": "2329200372",
    "mall": "지마켓",
@@ -2838,20 +2861,6 @@
    "baselineNote": "36곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/h0vmT3OiKy",
-   "web": true
-  },
-  {
-   "uid": "6849743367",
-   "mall": "지마켓",
-   "title": "제주 황금향 노지 4.5kg 혼합과",
-   "price": 17530,
-   "image": "https://gdimg.gmarket.co.kr/4158329203/goodsimage",
-   "sentAt": "2026-10-21T00:05:51.049+09:00",
-   "saving": 18,
-   "baseline": 21280,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4158329203",
    "web": true
   }
  ]
