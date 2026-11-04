@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-04T18:09:45.411+09:00",
+ "updated": "2026-11-04T18:50:25.934+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7368008772",
+   "mall": "롯데온",
+   "title": "CJ 햇반 찰기가득 쌀밥 210g x 24개입",
+   "price": 22460,
+   "image": "https://contents.lotteon.com/itemimage/20261022164805/LO/27/99/27/94/19/_2/79/92/79/42/0/LO2799279419_2799279420_1.PNG",
+   "sentAt": "2026-11-04T18:50:25.346+09:00",
+   "unit": {
+    "label": "개당",
+    "value": 936
+   },
+   "link": "http://app.ac/y3Cj7VJ83"
+  },
   {
    "uid": "1413933246",
    "mall": "지마켓",
@@ -1274,19 +1287,6 @@
    "baselineNote": "판매글 19곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2470977918"
-  },
-  {
-   "uid": "8277432070",
-   "mall": "지마켓",
-   "title": "스테비아 대추방울토마토2kg",
-   "price": 10970,
-   "image": "https://gdimg.gmarket.co.kr/4647070635/goodsimage",
-   "sentAt": "2026-11-02T20:53:43.255+09:00",
-   "saving": 56,
-   "baseline": 24800,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4647070635"
   }
  ]
 }
