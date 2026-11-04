@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-04T13:14:27.274+09:00",
+ "updated": "2026-11-04T13:38:20.087+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1011128341",
+   "mall": "지마켓",
+   "title": "나이키 FQ5815-010 크로스백",
+   "price": 15410,
+   "image": "https://gdimg.gmarket.co.kr/3099706825/goodsimage",
+   "sentAt": "2026-11-04T13:38:19.432+09:00",
+   "saving": 27,
+   "baseline": 21120,
+   "baselineNote": "판매글 39곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 39곳 최저가",
+     "price": 21120
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=3099706825"
+  },
   {
    "uid": "6945705350",
    "mall": "지마켓",
@@ -747,18 +765,6 @@
    "baselineNote": "판매글 16곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4460650141"
-  },
-  {
-   "uid": "8798790014",
-   "mall": "지마켓",
-   "title": "알루무 aulumu g09 마그네틱 핸드폰 거치",
-   "price": 36270,
-   "image": "https://gdimg.gmarket.co.kr/4853597246/goodsimage",
-   "sentAt": "2026-11-02T14:30:03.431+09:00",
-   "saving": 45,
-   "baseline": 65780,
-   "baselineNote": "판매글 13곳 최저가",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4853597246"
   }
  ]
 }
