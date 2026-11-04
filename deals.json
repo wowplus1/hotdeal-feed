@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-05T08:08:44.825+09:00",
+ "updated": "2026-11-05T08:19:22.106+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9878273167",
+   "mall": "쿠팡",
+   "title": "하늘보리 에코 무라벨 500ml 20개",
+   "price": 11440,
+   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/381711721875626-f63d3efa-506b-42b8-9515-f19e338b5d79.jpg",
+   "sentAt": "2026-11-05T08:19:21.338+09:00",
+   "saving": 33,
+   "baseline": 17070,
+   "baselineNote": "판매글 18곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 572
+   },
+   "comps": [
+    {
+     "name": "판매글 18곳 최저가",
+     "price": 17070
+    }
+   ],
+   "link": "https://link.coupang.com/a/gF4DJc9Foi"
+  },
   {
    "uid": "1592566500",
    "mall": "11번가",
@@ -1600,19 +1622,6 @@
    "sentAt": "2026-11-03T08:53:45.418+09:00",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4197161176"
-  },
-  {
-   "uid": "5834251095",
-   "mall": "쿠팡",
-   "title": "코카콜라 오리지널, 300ml, 24개",
-   "price": 15910,
-   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/product/image/vendoritem/2019/02/27/3000333188/e9f052e6-5ae6-45e6-a2b0-e60fe3dbe7ac.jpg",
-   "sentAt": "2026-11-03T08:19:48.250+09:00",
-   "saving": 29,
-   "baseline": 22300,
-   "baselineNote": "판매글 31곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/giK9GtXE4q"
   }
  ]
 }
