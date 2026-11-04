@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-04T10:30:21.748+09:00",
+ "updated": "2026-11-04T11:01:23.598+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "1027598673",
+   "mall": "지마켓",
+   "title": "스팸 클래식 200g 9개",
+   "price": 20710,
+   "image": "https://gdimg.gmarket.co.kr/1552234801/goodsimage",
+   "sentAt": "2026-11-04T11:01:23.598+09:00",
+   "saving": 14,
+   "baseline": 23990,
+   "baselineNote": "995곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=1552234801",
+   "web": true
+  },
   {
    "uid": "2810548633",
    "mall": "지마켓",
@@ -2649,19 +2663,6 @@
    "baselineNote": "판매글 12곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hZMMyx7q8G",
-   "web": true
-  },
-  {
-   "uid": "4803026019",
-   "mall": "지마켓",
-   "title": "maxsun 챌린저 h810m f 디앤디컴",
-   "price": 82880,
-   "image": "https://gdimg.gmarket.co.kr/4644577991/goodsimage",
-   "sentAt": "2026-10-20T13:41:59.518+09:00",
-   "saving": 11,
-   "baseline": 93310,
-   "baselineNote": "86곳 중 최저",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4644577991",
    "web": true
   }
  ]
