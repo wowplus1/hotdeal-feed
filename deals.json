@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-04T12:01:21.262+09:00",
+ "updated": "2026-11-04T13:14:27.274+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6945705350",
+   "mall": "지마켓",
+   "title": "해피콜 플렉스팬 IH 와이드 인덕션 후라이팬 20cm",
+   "price": 12520,
+   "image": "https://gdimg.gmarket.co.kr/2647573160/goodsimage",
+   "sentAt": "2026-11-04T13:14:26.399+09:00",
+   "saving": 42,
+   "baseline": 21510,
+   "baselineNote": "판매글 10곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 10곳 최저가",
+     "price": 21510
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2647573160"
+  },
   {
    "uid": "8886922005",
    "mall": "지마켓",
@@ -741,16 +759,6 @@
    "baseline": 65780,
    "baselineNote": "판매글 13곳 최저가",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4853597246"
-  },
-  {
-   "uid": "1149175171",
-   "mall": "쿠팡",
-   "title": "센소다인 멀티케어 치약, 100g, 3개",
-   "price": 9200,
-   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/image_audit/prod/abd2de5f-ea0c-4c97-953c-47efda0bd4ae_fixing_v2.png",
-   "sentAt": "2026-11-02T13:30:19.922+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gwghyKPSNM"
   }
  ]
 }
