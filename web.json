@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-04T22:06:24.678+09:00",
+ "updated": "2026-11-04T23:09:33.134+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "1500927873",
+   "mall": "11번가",
+   "title": "하루견과 원데이발란스블랙 100봉/ 실속 견과 견과류 간식",
+   "price": 34300,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/8943274405/B.webp",
+   "sentAt": "2026-11-04T23:09:33.134+09:00",
+   "saving": 21,
+   "baseline": 43530,
+   "baselineNote": "판매글 10곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 343
+   },
+   "comps": [
+    {
+     "name": "판매글 10곳 최저가",
+     "price": 43530
+    }
+   ],
+   "link": "http://app.ac/E3Mt63J83",
+   "web": true
+  },
   {
    "uid": "3608331447",
    "mall": "쿠팡",
@@ -3018,20 +3041,6 @@
    "image": "https://contents.lotteon.com/itemimage/20260922112242/LO/27/77/00/49/17/_2/77/70/04/91/8/LO2777004917_2777004918_2.jpg",
    "sentAt": "2026-10-21T12:50:05.833+09:00",
    "link": "http://app.ac/SqnF4G203",
-   "web": true
-  },
-  {
-   "uid": "2077885152",
-   "mall": "지마켓",
-   "title": "국내가공 백진미채 1kg",
-   "price": 19560,
-   "image": "https://gdimg.gmarket.co.kr/1558350154/goodsimage",
-   "sentAt": "2026-10-21T12:01:45.555+09:00",
-   "saving": 17,
-   "baseline": 23655,
-   "baselineNote": "판매글 13곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=1558350154",
    "web": true
   }
  ]
