@@ -1,7 +1,85 @@
 {
- "updated": "2026-11-04T20:19:06.934+09:00",
+ "updated": "2026-11-04T20:59:24.495+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "5099640430",
+   "mall": "지마켓",
+   "title": "카스올제로 330ml 24캔 +전용잔 2개 증정",
+   "price": 16690,
+   "image": "https://gdimg.gmarket.co.kr/4391957377/goodsimage",
+   "sentAt": "2026-11-04T20:59:24.495+09:00",
+   "saving": 16,
+   "baseline": 19840,
+   "baselineNote": "25곳 중 최저 · 무료배송",
+   "check": {
+    "market": 19840,
+    "malls": 25,
+    "ship": 0
+   },
+   "spec": [
+    "무알콜음료",
+    "캔류"
+   ],
+   "comps": [
+    {
+     "name": "25곳 중 최저 · 무료배송",
+     "price": 19840
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 15160
+    },
+    {
+     "m": "26-01",
+     "p": 16400
+    },
+    {
+     "m": "26-02",
+     "p": 15900
+    },
+    {
+     "m": "26-03",
+     "p": 15170
+    },
+    {
+     "m": "26-04",
+     "p": 15880
+    },
+    {
+     "m": "26-05",
+     "p": 16800
+    },
+    {
+     "m": "26-06",
+     "p": 17320
+    },
+    {
+     "m": "26-07",
+     "p": 17750
+    },
+    {
+     "m": "26-08",
+     "p": 19090
+    },
+    {
+     "m": "26-09",
+     "p": 18300
+    },
+    {
+     "m": "26-10",
+     "p": 14900
+    },
+    {
+     "m": "26-11",
+     "p": 14900
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4391957377",
+   "web": true
+  },
   {
    "uid": "4634831193",
    "mall": "롯데온",
@@ -2920,20 +2998,6 @@
    "baselineNote": "546곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gHHMNmXmsC",
-   "web": true
-  },
-  {
-   "uid": "3069378465",
-   "mall": "쿠팡",
-   "title": "오뚜기 진라면 약간매운맛 120g, 10개",
-   "price": 6600,
-   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1201001782431308-6a716b92-c2ff-4485-8271-a9b334e706d1.jpg",
-   "sentAt": "2026-10-21T00:35:09.596+09:00",
-   "saving": 16,
-   "baseline": 7860,
-   "baselineNote": "104곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/h0vATBZa8a",
    "web": true
   }
  ]
