@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-05T08:32:08.120+09:00",
+ "updated": "2026-11-05T08:54:26.271+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2674383854",
+   "mall": "쿠팡",
+   "title": "비비드키친 저칼로리 치킨양념소스, 320g, 2개",
+   "price": 3680,
+   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/73045598934988-1c572e97-2eab-4432-99bf-72f22ef2946f.jpg",
+   "sentAt": "2026-11-05T08:54:25.720+09:00",
+   "saving": 50,
+   "baseline": 7370,
+   "baselineNote": "판매글 8곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 1840
+   },
+   "comps": [
+    {
+     "name": "판매글 8곳 최저가",
+     "price": 7370
+    }
+   ],
+   "link": "https://link.coupang.com/a/gIVSnIBpcG"
+  },
   {
    "uid": "9933087716",
    "mall": "토스쇼핑",
@@ -1618,18 +1640,6 @@
    "baseline": 214720,
    "baselineNote": "판매글 14곳 최저가",
    "link": "http://app.ac/iAVtNr563"
-  },
-  {
-   "uid": "7756550276",
-   "mall": "11번가",
-   "title": "짱구 액션가면 히어로 장패드 78x30cm ZML002L",
-   "price": 6210,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/8277227086/B.webp",
-   "sentAt": "2026-11-03T09:43:52.001+09:00",
-   "saving": 48,
-   "baseline": 11900,
-   "baselineNote": "판매글 6곳 최저가",
-   "link": "http://app.ac/oqneBf203"
   }
  ]
 }
