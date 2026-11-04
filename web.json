@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-04T23:09:33.134+09:00",
+ "updated": "2026-11-05T00:03:59.477+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "3983168068",
+   "mall": "지마켓",
+   "title": "양푼이 우거지 감자탕 5kg",
+   "price": 16980,
+   "image": "https://gdimg.gmarket.co.kr/4645995922/goodsimage",
+   "sentAt": "2026-11-05T00:03:59.477+09:00",
+   "saving": 27,
+   "baseline": 23360,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": {
+    "label": "100g당",
+    "value": 340
+   },
+   "comps": [
+    {
+     "name": "판매글 5곳 최저가",
+     "price": 23360
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4645995922",
+   "web": true
+  },
   {
    "uid": "1500927873",
    "mall": "11번가",
@@ -3031,16 +3054,6 @@
    "baseline": 119000,
    "baselineNote": "다른 곳 최저",
    "link": "http://app.ac/MAGB4V503",
-   "web": true
-  },
-  {
-   "uid": "4645316325",
-   "mall": "롯데온",
-   "title": "큐어 리알로에 수딩젤 150ml 4개+젤리토너 50ml 증정",
-   "price": 11860,
-   "image": "https://contents.lotteon.com/itemimage/20260922112242/LO/27/77/00/49/17/_2/77/70/04/91/8/LO2777004917_2777004918_2.jpg",
-   "sentAt": "2026-10-21T12:50:05.833+09:00",
-   "link": "http://app.ac/SqnF4G203",
    "web": true
   }
  ]
