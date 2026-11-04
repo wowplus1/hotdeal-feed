@@ -1,7 +1,117 @@
 {
- "updated": "2026-11-04T11:50:48.457+09:00",
+ "updated": "2026-11-04T11:55:41.367+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "6349916394",
+   "mall": "지마켓",
+   "title": "바세린 미니 립밤 7g 3개",
+   "price": 7000,
+   "image": "https://gdimg.gmarket.co.kr/4562580482/goodsimage",
+   "sentAt": "2026-11-04T11:55:41.367+09:00",
+   "unit": {
+    "label": "개당",
+    "value": 2333
+   },
+   "alt": {
+    "price": 8190,
+    "where": "48곳 중 최저",
+    "ship": 0
+   },
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4562580482",
+   "web": true
+  },
+  {
+   "uid": "7519567314",
+   "mall": "지마켓",
+   "title": "필립스 EP2220/13 라떼클래식 커피머신",
+   "price": 269310,
+   "image": "https://gdimg.gmarket.co.kr/2135968487/goodsimage",
+   "sentAt": "2026-11-04T11:55:41.367+09:00",
+   "saving": 20,
+   "baseline": 336390,
+   "baselineNote": "25곳 중 최저 · 무료배송",
+   "check": {
+    "market": 336390,
+    "malls": 25,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": false,
+    "low": 182400
+   },
+   "review": {
+    "score": 4.7,
+    "count": 151,
+    "low": 2
+   },
+   "spec": [
+    "가정용",
+    "전자동",
+    "15bar",
+    "1400W",
+    "1.8L"
+   ],
+   "comps": [
+    {
+     "name": "25곳 중 최저 · 무료배송",
+     "price": 336390
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 381670
+    },
+    {
+     "m": "26-01",
+     "p": 430990
+    },
+    {
+     "m": "26-02",
+     "p": 446480
+    },
+    {
+     "m": "26-03",
+     "p": 446480
+    },
+    {
+     "m": "26-04",
+     "p": 451860
+    },
+    {
+     "m": "26-05",
+     "p": 455800
+    },
+    {
+     "m": "26-06",
+     "p": 509980
+    },
+    {
+     "m": "26-07",
+     "p": 387590
+    },
+    {
+     "m": "26-08",
+     "p": 291890
+    },
+    {
+     "m": "26-09",
+     "p": 319970
+    },
+    {
+     "m": "26-10",
+     "p": 182400
+    },
+    {
+     "m": "26-11",
+     "p": 249980
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2135968487",
+   "web": true
+  },
   {
    "uid": "8049472059",
    "mall": "롯데온",
@@ -1541,17 +1651,6 @@
    "web": true
   },
   {
-   "uid": "6349916394",
-   "mall": "지마켓",
-   "title": "바세린 미니 립밤 7g 3개",
-   "price": 6800,
-   "image": "https://gdimg.gmarket.co.kr/4562580482/goodsimage",
-   "sentAt": "2026-10-29T09:29:09.281+09:00",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4562580482",
-   "web": true
-  },
-  {
    "uid": "2850950160",
    "mall": "쿠팡",
    "title": "둥지냉면 비빔냉면 162g, 4개",
@@ -2663,20 +2762,6 @@
    "baselineNote": "71곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4197236054",
-   "web": true
-  },
-  {
-   "uid": "8164690758",
-   "mall": "롯데온",
-   "title": "안동소주 22도 360ml x8병 박재서 명인",
-   "price": 29800,
-   "image": "https://contents.lotteon.com/itemimage/20260915171534/LO/24/52/68/21/93/_2/45/26/82/19/4/LO2452682193_2452682194_1.jpg",
-   "sentAt": "2026-10-20T20:30:35.229+09:00",
-   "saving": 16,
-   "baseline": 35600,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/rqnFMu233",
    "web": true
   }
  ]
