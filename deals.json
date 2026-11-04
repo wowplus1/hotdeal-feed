@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-04T15:57:05.511+09:00",
+ "updated": "2026-11-04T15:58:13.963+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3373608852",
+   "mall": "지마켓",
+   "title": "1회착유 100% 통참깨 참기름 350ml 2병",
+   "price": 11790,
+   "image": "https://gdimg.gmarket.co.kr/4362020049/goodsimage",
+   "sentAt": "2026-11-04T15:58:13.143+09:00",
+   "saving": 27,
+   "baseline": 16060,
+   "baselineNote": "판매글 8곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 5895
+   },
+   "comps": [
+    {
+     "name": "판매글 8곳 최저가",
+     "price": 16060
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4362020049"
+  },
   {
    "uid": "1357317751",
    "mall": "쿠팡",
@@ -1079,18 +1101,6 @@
    "baselineNote": "다른 곳 최저",
    "unit": "[object Object]",
    "link": "http://app.ac/ljpbqna13"
-  },
-  {
-   "uid": "1823019229",
-   "mall": "11번가",
-   "title": "오리온 초코파이 망고라씨맛 12입, 4개",
-   "price": 14160,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9709889495/B.webp?247913391",
-   "sentAt": "2026-11-02T18:00:49.736+09:00",
-   "saving": 24,
-   "baseline": 18610,
-   "baselineNote": "판매글 3곳 최저가",
-   "link": "http://app.ac/fqDlKd213"
   }
  ]
 }
