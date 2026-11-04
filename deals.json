@@ -1,7 +1,33 @@
 {
- "updated": "2026-11-04T07:19:42.776+09:00",
+ "updated": "2026-11-04T09:09:40.867+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7305569145",
+   "mall": "쿠팡",
+   "title": "생생우동, 253g, 8개",
+   "price": 12620,
+   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/122003587216870-3c6cebd0-493e-40ba-b200-1f51f2356839.jpg",
+   "sentAt": "2026-11-04T09:09:39.754+09:00",
+   "saving": 26,
+   "baseline": 17020,
+   "baselineNote": "68곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/g3E5Y6DXRA"
+  },
+  {
+   "uid": "6305990565",
+   "mall": "쿠팡",
+   "title": "코카콜라 제로 무라벨, 370ml, 24개",
+   "price": 16680,
+   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/885a/5275afb0998711fbbbcf6aaf2e50daf49885f10e5c34208ec34c8e09e053.jpg",
+   "sentAt": "2026-11-04T09:09:39.754+09:00",
+   "saving": 24,
+   "baseline": 21890,
+   "baselineNote": "216곳 중 최저",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/gcfie4gWuy"
+  },
   {
    "uid": "5501648467",
    "mall": "쿠팡",
@@ -712,32 +738,6 @@
    "image": "https://gdimg.gmarket.co.kr/1928172559/goodsimage",
    "sentAt": "2026-11-02T11:04:33.787+09:00",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=1928172559"
-  },
-  {
-   "uid": "9595955141",
-   "mall": "지마켓",
-   "title": "BSN 신타-6 초콜릿 밀크쉐이크 5파운드 2.27kg 2통",
-   "price": 153920,
-   "image": "https://gdimg.gmarket.co.kr/4715996756/goodsimage",
-   "sentAt": "2026-11-02T10:35:49.979+09:00",
-   "saving": 20,
-   "baseline": 191350,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4715996756"
-  },
-  {
-   "uid": "8789623748",
-   "mall": "롯데온",
-   "title": "바르온 삼계탕 1kg x 5팩",
-   "price": 17900,
-   "image": "https://contents.lotteon.com/itemimage/20261030134314/LO/27/25/06/93/07/_2/72/50/69/30/8/LO2725069307_2725069308_1.jpg",
-   "sentAt": "2026-11-02T10:30:32.609+09:00",
-   "saving": 28,
-   "baseline": 24900,
-   "baselineNote": "6곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "http://app.ac/2qDqoI223"
   }
  ]
 }
