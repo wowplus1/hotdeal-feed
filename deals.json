@@ -1,7 +1,98 @@
 {
- "updated": "2026-11-04T14:55:16.892+09:00",
+ "updated": "2026-11-04T14:59:42.347+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9630476005",
+   "mall": "쿠팡",
+   "title": "백설 알룰로스 700g 2개",
+   "price": 9980,
+   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/62175429191465-dbd7271f-851f-49fc-b7a3-5c73fa30ea5a.jpg",
+   "sentAt": "2026-11-04T14:59:41.800+09:00",
+   "saving": 22,
+   "baseline": 12860,
+   "baselineNote": "92곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 4990
+   },
+   "check": {
+    "market": 12860,
+    "malls": 92,
+    "delivered": 13650
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": false,
+    "low": 8260
+   },
+   "review": {
+    "score": 4.7,
+    "count": 286,
+    "low": 0
+   },
+   "comps": [
+    {
+     "name": "92곳 중 최저",
+     "price": 12860
+    },
+    {
+     "name": "배송비까지 치면",
+     "price": 13650
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 12830
+    },
+    {
+     "m": "26-01",
+     "p": 14600
+    },
+    {
+     "m": "26-02",
+     "p": 10080
+    },
+    {
+     "m": "26-03",
+     "p": 10080
+    },
+    {
+     "m": "26-04",
+     "p": 9980
+    },
+    {
+     "m": "26-05",
+     "p": 9980
+    },
+    {
+     "m": "26-06",
+     "p": 9980
+    },
+    {
+     "m": "26-07",
+     "p": 9980
+    },
+    {
+     "m": "26-08",
+     "p": 9980
+    },
+    {
+     "m": "26-09",
+     "p": 8260
+    },
+    {
+     "m": "26-10",
+     "p": 12680
+    },
+    {
+     "m": "26-11",
+     "p": 12680
+    }
+   ],
+   "link": "https://link.coupang.com/a/ioJ76JcKEm"
+  },
   {
    "uid": "4009094420",
    "mall": "롯데온",
@@ -920,19 +1011,6 @@
    "baselineNote": "판매글 13곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/lAGSFA543"
-  },
-  {
-   "uid": "9892826940",
-   "mall": "지마켓",
-   "title": "바른생활 아트컬렉션 초극세모 칫솔 24입",
-   "price": 7580,
-   "image": "https://gdimg.gmarket.co.kr/2562073413/goodsimage",
-   "sentAt": "2026-11-02T17:50:14.754+09:00",
-   "saving": 24,
-   "baseline": 9920,
-   "baselineNote": "29곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2562073413"
   }
  ]
 }
