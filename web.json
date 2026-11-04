@@ -1,7 +1,43 @@
 {
- "updated": "2026-11-04T20:59:24.495+09:00",
+ "updated": "2026-11-04T22:04:18.012+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "9328484341",
+   "mall": "지마켓",
+   "title": "삼성전자 갤럭시북6 NT740VJQ-A51A",
+   "price": 1189000,
+   "image": "https://gdimg.gmarket.co.kr/4868345475/goodsimage",
+   "sentAt": "2026-11-04T22:04:18.012+09:00",
+   "saving": 23,
+   "baseline": 1548970,
+   "baselineNote": "47곳 중 최저",
+   "check": {
+    "market": 1548970,
+    "malls": 47,
+    "ship": 5000,
+    "delivered": 1553970
+   },
+   "spec": [
+    "노트북",
+    "35.6cm(14인치)",
+    "1.35kg",
+    "최대 25시간",
+    "OS미포함(프리도스)"
+   ],
+   "comps": [
+    {
+     "name": "47곳 중 최저",
+     "price": 1548970
+    },
+    {
+     "name": "배송비 5,000원 포함",
+     "price": 1553970
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4868345475",
+   "web": true
+  },
   {
    "uid": "5099640430",
    "mall": "지마켓",
@@ -2984,20 +3020,6 @@
    "sentAt": "2026-10-21T11:50:19.691+09:00",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4474793366",
-   "web": true
-  },
-  {
-   "uid": "5982666973",
-   "mall": "쿠팡",
-   "title": "코코팜 망고코넛, 340ml, 24개",
-   "price": 11600,
-   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/d660/b555cbbb14151705f19b0f25a4b724147d9ba5f765bacaef46e0966267ad.jpg",
-   "sentAt": "2026-10-21T07:44:52.705+09:00",
-   "saving": 19,
-   "baseline": 14330,
-   "baselineNote": "546곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gHHMNmXmsC",
    "web": true
   }
  ]
