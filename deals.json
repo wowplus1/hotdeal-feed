@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-04T18:50:25.934+09:00",
+ "updated": "2026-11-04T19:20:21.482+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8067060265",
+   "mall": "11번가",
+   "title": "코디 뉴플라워 미용티슈, 250매, 6입, 2개",
+   "price": 13110,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/5658159399/B.webp?682784588",
+   "sentAt": "2026-11-04T19:20:20.701+09:00",
+   "saving": 51,
+   "baseline": 26700,
+   "baselineNote": "판매글 28곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 28곳 최저가",
+     "price": 26700
+    }
+   ],
+   "link": "http://app.ac/fqDWZL273"
+  },
   {
    "uid": "7368008772",
    "mall": "롯데온",
@@ -1274,19 +1292,6 @@
    "baselineNote": "판매글 3곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/imxfbPODxk"
-  },
-  {
-   "uid": "2583799036",
-   "mall": "지마켓",
-   "title": "크리넥스 도톰한 3겹 데코소프트 28M 24롤 2팩",
-   "price": 26900,
-   "image": "https://gdimg.gmarket.co.kr/2470977918/goodsimage",
-   "sentAt": "2026-11-02T21:00:12.508+09:00",
-   "saving": 24,
-   "baseline": 35310,
-   "baselineNote": "판매글 19곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2470977918"
   }
  ]
 }
