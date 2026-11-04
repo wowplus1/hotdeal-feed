@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-05T07:14:00.931+09:00",
+ "updated": "2026-11-05T08:08:44.825+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1592566500",
+   "mall": "11번가",
+   "title": "광천김 3대째 달인 재래전장김 20g 10봉",
+   "price": 9670,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/1962296213/B.webp",
+   "sentAt": "2026-11-05T08:08:44.031+09:00",
+   "saving": 26,
+   "baseline": 13110,
+   "baselineNote": "판매글 18곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 967
+   },
+   "comps": [
+    {
+     "name": "판매글 18곳 최저가",
+     "price": 13110
+    }
+   ],
+   "link": "http://app.ac/fqnfrL233"
+  },
   {
    "uid": "1498603198",
    "mall": "쿠팡",
@@ -1591,19 +1613,6 @@
    "baselineNote": "판매글 31곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/giK9GtXE4q"
-  },
-  {
-   "uid": "3545911130",
-   "mall": "쿠팡",
-   "title": "오레오오즈 시리얼, 450g, 2개",
-   "price": 10570,
-   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/239114803017380-dc4ab663-350c-4501-b274-3b2970c32128.jpg",
-   "sentAt": "2026-11-03T07:43:34.031+09:00",
-   "saving": 39,
-   "baseline": 17280,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gK2hKKhp3Q"
   }
  ]
 }
