@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-04T07:49:29.936+09:00",
+ "updated": "2026-11-04T10:30:21.748+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "2810548633",
+   "mall": "지마켓",
+   "title": "오늘도 신동진 10kg 26년 햅쌀 옥구농협 상등급 단일품종",
+   "price": 27300,
+   "image": "https://gdimg.gmarket.co.kr/2826955382/goodsimage",
+   "sentAt": "2026-11-04T10:30:21.748+09:00",
+   "saving": 18,
+   "baseline": 33130,
+   "baselineNote": "26곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2826955382",
+   "web": true
+  },
   {
    "uid": "5871758054",
    "mall": "11번가",
@@ -2648,20 +2662,6 @@
    "baseline": 93310,
    "baselineNote": "86곳 중 최저",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4644577991",
-   "web": true
-  },
-  {
-   "uid": "9174210668",
-   "mall": "지마켓",
-   "title": "목우촌 허브갈릭 훈제오리 슬라이스 210gx10팩",
-   "price": 26670,
-   "image": "https://gdimg.gmarket.co.kr/4205482503/goodsimage",
-   "sentAt": "2026-10-20T13:25:59.336+09:00",
-   "saving": 15,
-   "baseline": 31400,
-   "baselineNote": "209곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4205482503",
    "web": true
   }
  ]
