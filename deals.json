@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-04T16:39:33.978+09:00",
+ "updated": "2026-11-04T17:00:42.170+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3215221414",
+   "mall": "롯데온",
+   "title": "랩신 섬유항균제 파우치 2L*2개",
+   "price": 15320,
+   "image": "https://contents.lotteon.com/itemimage/20261012185518/LO/26/47/03/22/09/_2/64/70/32/21/0/LO2647032209_2647032210_4.png",
+   "sentAt": "2026-11-04T17:00:41.447+09:00",
+   "saving": 34,
+   "baseline": 23340,
+   "baselineNote": "판매글 7곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 7660
+   },
+   "comps": [
+    {
+     "name": "판매글 7곳 최저가",
+     "price": 23340
+    }
+   ],
+   "link": "http://app.ac/zECmQkS33"
+  },
   {
    "uid": "3412277553",
    "mall": "롯데온",
@@ -1094,18 +1116,6 @@
    "baselineNote": "27곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4618681212"
-  },
-  {
-   "uid": "9514597728",
-   "mall": "쿠팡",
-   "title": "스탠리 올데이 마들렌 쿨러 백팩 14L*1개",
-   "price": 56290,
-   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/24084009408909-2cd5ad9c-0de4-4569-bb7e-2a862019d3b3.png",
-   "sentAt": "2026-11-02T19:05:45.987+09:00",
-   "saving": 53,
-   "baseline": 120000,
-   "baselineNote": "판매글 17곳 최저가",
-   "link": "https://link.coupang.com/a/ilHTcWsBtk"
   }
  ]
 }
