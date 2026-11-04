@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-04T09:09:40.867+09:00",
+ "updated": "2026-11-04T09:15:39.929+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3797419551",
+   "mall": "쿠팡",
+   "title": "이클립스 쿨링 소프트 캔디 청포도향, 585g, 1개",
+   "price": 7090,
+   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/1025_amir_coupang_oct_80k/156e/fb65e8f1eafd206c5dc66dff0884949e69722df3f0d39bc6f61c75fd652e.jpg",
+   "sentAt": "2026-11-04T09:15:39.193+09:00",
+   "saving": 42,
+   "baseline": 12250,
+   "baselineNote": "35곳 중 최저 · 무료배송",
+   "unit": "[object Object]",
+   "link": "https://link.coupang.com/a/ioly5Xk9GS"
+  },
   {
    "uid": "7305569145",
    "mall": "쿠팡",
@@ -729,15 +742,6 @@
    "baselineNote": "판매글 8곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=1677460336"
-  },
-  {
-   "uid": "6623712475",
-   "mall": "지마켓",
-   "title": "피죤 섬유유연제 피죤 3100ml x3개+2300mlx1개",
-   "price": 15020,
-   "image": "https://gdimg.gmarket.co.kr/1928172559/goodsimage",
-   "sentAt": "2026-11-02T11:04:33.787+09:00",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=1928172559"
   }
  ]
 }
