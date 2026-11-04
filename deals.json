@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-04T10:44:42.276+09:00",
+ "updated": "2026-11-04T11:08:27.602+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2620790448",
+   "mall": "지마켓",
+   "title": "전남 새청무 특등급 백미 10kg",
+   "price": 29240,
+   "image": "https://gdimg.gmarket.co.kr/4765694616/goodsimage",
+   "sentAt": "2026-11-04T11:08:27.066+09:00",
+   "saving": 23,
+   "baseline": 38190,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": "[object Object]",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4765694616"
+  },
   {
    "uid": "5220021575",
    "mall": "롯데온",
@@ -728,19 +741,6 @@
    "baseline": 1669000,
    "baselineNote": "판매글 7곳 최저가",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4789733723"
-  },
-  {
-   "uid": "7368042702",
-   "mall": "쿠팡",
-   "title": "비비드키친 저칼로리 머스터드소스, 320g, 1개",
-   "price": 2290,
-   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/63392091134059-5ca0aa78-5ef9-439e-8199-eb111986daf7.jpg",
-   "sentAt": "2026-11-02T13:10:29.230+09:00",
-   "saving": 30,
-   "baseline": 3280,
-   "baselineNote": "234곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/geShoBvvk4"
   }
  ]
 }
