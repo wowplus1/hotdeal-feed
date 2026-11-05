@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-05T17:33:36.353+09:00",
+ "updated": "2026-11-05T17:53:32.809+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4524349086",
+   "mall": "지마켓",
+   "title": "2026년산 햅쌀 푸드앤픽 새청무 특등급 단일품종 20kg",
+   "price": 52740,
+   "image": "https://gdimg.gmarket.co.kr/4575997306/goodsimage",
+   "sentAt": "2026-11-05T17:53:31.908+09:00",
+   "saving": 22,
+   "baseline": 67960,
+   "baselineNote": "판매글 6곳 최저가",
+   "unit": {
+    "label": "100g당",
+    "value": 264
+   },
+   "comps": [
+    {
+     "name": "판매글 6곳 최저가",
+     "price": 67960
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4575997306"
+  },
   {
    "uid": "5869034391",
    "mall": "지마켓",
@@ -3312,18 +3334,6 @@
    "baselineNote": "판매글 3곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/garbm8eGxo"
-  },
-  {
-   "uid": "1602237473",
-   "mall": "쿠팡",
-   "title": "닥터스베스트 글루코사민 콘드로이친 MSM 캡슐, 360정, 1개",
-   "price": 20460,
-   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/ef67/5a991c31cd55e5ab901aea1039af4aa9195166fe860d96a8ff214cfd3734.JPG",
-   "sentAt": "2026-11-04T07:10:55.391+09:00",
-   "saving": 67,
-   "baseline": 62930,
-   "baselineNote": "판매글 8곳 최저가",
-   "link": "https://link.coupang.com/a/iocDWmOyhU"
   }
  ]
 }
