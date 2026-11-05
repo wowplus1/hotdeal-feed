@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-06T07:11:43.107+09:00",
+ "updated": "2026-11-06T07:14:48.954+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1819119247",
+   "mall": "쿠팡",
+   "title": "오레오 웨하스 스틱 초코, 510g, 1개",
+   "price": 10260,
+   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/983889761555206-bc10601f-3b3e-4879-9ae0-d8c5214104a6.jpg",
+   "sentAt": "2026-11-06T07:14:48.405+09:00",
+   "unit": {
+    "label": "100g당",
+    "value": 2012
+   },
+   "link": "https://link.coupang.com/a/gzliOo8RlQ"
+  },
   {
    "uid": "2823313123",
    "mall": "쿠팡",
@@ -3801,24 +3814,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4795341285"
-  },
-  {
-   "uid": "6192292003",
-   "mall": "지마켓",
-   "title": "펩시제로라임 제로카페인 210ml 30캔+ 355ml 24캔 펩시/콜라/제로카페인",
-   "price": 19260,
-   "image": "https://gdimg.gmarket.co.kr/4667917611/goodsimage",
-   "sentAt": "2026-11-04T14:39:06.503+09:00",
-   "saving": 35,
-   "baseline": 29700,
-   "baselineNote": "판매글 26곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 26곳 최저가",
-     "price": 29700
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4667917611"
   }
  ]
 }
