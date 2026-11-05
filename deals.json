@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-05T10:22:07.586+09:00",
+ "updated": "2026-11-05T10:35:29.348+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8523362735",
+   "mall": "지마켓",
+   "title": "두부 어묵바 150g x 6팩 총 30개",
+   "price": 9970,
+   "image": "https://gdimg.gmarket.co.kr/4821920176/goodsimage",
+   "sentAt": "2026-11-05T10:35:28.452+09:00",
+   "saving": 28,
+   "baseline": 13780,
+   "baselineNote": "판매글 8곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 8곳 최저가",
+     "price": 13780
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4821920176"
+  },
   {
    "uid": "3989755420",
    "mall": "쿠팡",
@@ -2472,18 +2490,6 @@
    "baseline": 24922,
    "baselineNote": "71곳 중 최저 · 무료배송",
    "link": "http://app.ac/b3CE7mJ23"
-  },
-  {
-   "uid": "4012524921",
-   "mall": "롯데온",
-   "title": "삼립호빵 4가지 맛 모두 맛보는 호빵네빵 12입 2박스+삼립 정통크림빵 2봉 증정 외",
-   "price": 21520,
-   "image": "https://contents.lotteon.com/itemimage/20261102183556/LO/25/61/96/87/03/_2/56/19/68/72/9/LO2561968703_2561968729_1.jpg",
-   "sentAt": "2026-11-03T15:15:38.024+09:00",
-   "saving": 20,
-   "baseline": 26980,
-   "baselineNote": "판매글 7곳 최저가",
-   "link": "http://app.ac/6EwjhLS93"
   }
  ]
 }
