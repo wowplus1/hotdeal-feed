@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-05T09:40:15.358+09:00",
+ "updated": "2026-11-05T09:49:16.794+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3573966653",
+   "mall": "지마켓",
+   "title": "제주 달콤 노지감귤 9kg 로얄or소과랜덤",
+   "price": 11400,
+   "image": "https://gdimg.gmarket.co.kr/2230897307/goodsimage",
+   "sentAt": "2026-11-05T09:49:16.139+09:00",
+   "saving": 20,
+   "baseline": 14270,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": {
+    "label": "100g당",
+    "value": 127
+   },
+   "comps": [
+    {
+     "name": "판매글 5곳 최저가",
+     "price": 14270
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2230897307"
+  },
   {
    "uid": "1848247903",
    "mall": "쿠팡",
@@ -1721,19 +1743,6 @@
    "baselineNote": "7곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/imTnR1mjRI"
-  },
-  {
-   "uid": "8904420702",
-   "mall": "쿠팡",
-   "title": "7D 건조망고, 80g, 5개입",
-   "price": 13750,
-   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/65417056-886a-4d26-bc14-72d3f64b569112983228976896947667.png",
-   "sentAt": "2026-11-03T11:11:54.636+09:00",
-   "saving": 37,
-   "baseline": 21890,
-   "baselineNote": "12곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/imOWG9XFfg"
   }
  ]
 }
