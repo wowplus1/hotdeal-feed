@@ -1,7 +1,150 @@
 {
- "updated": "2026-11-05T10:21:05.620+09:00",
+ "updated": "2026-11-05T10:22:07.586+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3989755420",
+   "mall": "쿠팡",
+   "title": "아트뮤 PD3.1 150W PPS GaN 접지 멀티 초고속 충전기 GX410 1개",
+   "price": 37950,
+   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/dd4d9594-1e11-4256-a4e1-842ce18060097231911853417492739.png",
+   "sentAt": "2026-11-05T10:22:07.025+09:00",
+   "saving": 54,
+   "baseline": 82700,
+   "baselineNote": "29곳 중 최저 · 무료배송",
+   "check": {
+    "market": 82700,
+    "malls": 29,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 53700
+   },
+   "spec": [
+    "케이블분리형",
+    "총:5포트",
+    "4개",
+    "140W",
+    "PPS, PD 3.1, SFC 2.0"
+   ],
+   "comps": [
+    {
+     "name": "29곳 중 최저 · 무료배송",
+     "price": 82700
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 82700
+    },
+    {
+     "m": "26-01",
+     "p": 82700
+    },
+    {
+     "m": "26-02",
+     "p": 81700
+    },
+    {
+     "m": "26-03",
+     "p": 82700
+    },
+    {
+     "m": "26-04",
+     "p": 53700
+    },
+    {
+     "m": "26-05",
+     "p": 82700
+    },
+    {
+     "m": "26-06",
+     "p": 78560
+    },
+    {
+     "m": "26-07",
+     "p": 78560
+    },
+    {
+     "m": "26-08",
+     "p": 74430
+    },
+    {
+     "m": "26-09",
+     "p": 73810
+    },
+    {
+     "m": "26-10",
+     "p": 82700
+    },
+    {
+     "m": "26-11",
+     "p": 82700
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "TS794",
+     "code": "TS794",
+     "id": "12101327682",
+     "price": 82700,
+     "ship": 0
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F278392454",
+     "price": 90370,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2741142398",
+     "price": 91240,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4475046765",
+     "price": 91360,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "8474936236",
+     "price": 95040,
+     "ship": 0
+    },
+    {
+     "mall": "아트박스",
+     "code": "TMA01",
+     "id": "G25071358588",
+     "price": 115410,
+     "ship": 0
+    },
+    {
+     "mall": "현대Hmall",
+     "code": "ED907",
+     "id": "2237383316",
+     "price": 117900,
+     "ship": 0
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000709132688",
+     "price": 120377,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/ip48ViyF8C"
+  },
   {
    "uid": "9925724277",
    "mall": "쿠팡",
@@ -2341,18 +2484,6 @@
    "baseline": 26980,
    "baselineNote": "판매글 7곳 최저가",
    "link": "http://app.ac/6EwjhLS93"
-  },
-  {
-   "uid": "2941767783",
-   "mall": "쿠팡",
-   "title": "까사니 쿠치나 IH 하이곰솥, 30cm, 1개",
-   "price": 26900,
-   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/354a/dee129cf2553e3943953dff19c7af76115bb9f8ef351910ea8330ec810b1.png",
-   "sentAt": "2026-11-03T15:03:47.066+09:00",
-   "saving": 32,
-   "baseline": 39710,
-   "baselineNote": "57곳 중 최저",
-   "link": "https://link.coupang.com/a/im5wZaCdvE"
   }
  ]
 }
