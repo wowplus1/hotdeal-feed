@@ -1,7 +1,131 @@
 {
- "updated": "2026-11-05T16:53:12.708+09:00",
+ "updated": "2026-11-05T18:05:24.737+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "1180360378",
+   "mall": "지마켓",
+   "title": "삼양 불닭볶음면 큰컵 105g 18개",
+   "price": 16750,
+   "image": "https://gdimg.gmarket.co.kr/3598494926/goodsimage",
+   "sentAt": "2026-11-05T18:05:24.737+09:00",
+   "saving": 14,
+   "baseline": 19520,
+   "baselineNote": "33곳 중 최저 · 무료배송",
+   "unit": {
+    "label": "개당",
+    "value": 931
+   },
+   "check": {
+    "market": 19520,
+    "malls": 33,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": false,
+    "low": 16290
+   },
+   "review": {
+    "score": 4.7,
+    "count": 730,
+    "low": 6
+   },
+   "spec": [
+    "컵라면",
+    "볶음라면",
+    "기본면",
+    "매운맛"
+   ],
+   "comps": [
+    {
+     "name": "33곳 중 최저 · 무료배송",
+     "price": 19520
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 20080
+    },
+    {
+     "m": "26-01",
+     "p": 20080
+    },
+    {
+     "m": "26-02",
+     "p": 19520
+    },
+    {
+     "m": "26-03",
+     "p": 19300
+    },
+    {
+     "m": "26-04",
+     "p": 19520
+    },
+    {
+     "m": "26-05",
+     "p": 18970
+    },
+    {
+     "m": "26-06",
+     "p": 18140
+    },
+    {
+     "m": "26-07",
+     "p": 18130
+    },
+    {
+     "m": "26-08",
+     "p": 20370
+    },
+    {
+     "m": "26-09",
+     "p": 16290
+    },
+    {
+     "m": "26-10",
+     "p": 19520
+    },
+    {
+     "m": "26-11",
+     "p": 19520
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "E220874755",
+     "price": 19520,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "3598494926",
+     "price": 19540,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9143173720",
+     "price": 26040,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2785434395",
+     "price": 26350,
+     "ship": 0
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=3598494926",
+   "web": true
+  },
   {
    "uid": "7239285398",
    "mall": "롯데온",
@@ -3805,19 +3929,6 @@
    "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/295318524043526-c83fcd8d-b6e6-47d4-a220-cfb7b21f689f.jpg",
    "sentAt": "2026-10-22T14:05:31.955+09:00",
    "link": "https://link.coupang.com/a/h26qVasBae",
-   "web": true
-  },
-  {
-   "uid": "2139066540",
-   "mall": "쿠팡",
-   "title": "존바바토스 아티산 오 드 뚜왈렛 125ml",
-   "price": 34970,
-   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/98f7/109a7a4bffc936f1a509bd59d7699903e86cef26dbb30c54e669aaf943fc.jpg",
-   "sentAt": "2026-10-22T13:50:37.324+09:00",
-   "saving": 41,
-   "baseline": 59310,
-   "baselineNote": "판매글 19곳 최저가",
-   "link": "https://link.coupang.com/a/h25m7wYfXE",
    "web": true
   }
  ]
