@@ -1,7 +1,148 @@
 {
- "updated": "2026-11-06T08:17:02.387+09:00",
+ "updated": "2026-11-06T08:43:09.019+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "7368864803",
+   "mall": "쿠팡",
+   "title": "농심 안성탕면 125g, 15개",
+   "price": 9310,
+   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/357176872328116-709ad4fd-6739-49a9-9929-0d5b0faeaae3.jpg",
+   "sentAt": "2026-11-06T08:43:09.019+09:00",
+   "saving": 17,
+   "baseline": 11240,
+   "baselineNote": "57곳 중 최저 · 무료배송",
+   "unit": {
+    "label": "개당",
+    "value": 621
+   },
+   "check": {
+    "market": 11240,
+    "malls": 57,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 9450
+   },
+   "comps": [
+    {
+     "name": "57곳 중 최저 · 무료배송",
+     "price": 11240
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 9930
+    },
+    {
+     "m": "26-01",
+     "p": 9890
+    },
+    {
+     "m": "26-02",
+     "p": 9930
+    },
+    {
+     "m": "26-03",
+     "p": 9930
+    },
+    {
+     "m": "26-04",
+     "p": 9450
+    },
+    {
+     "m": "26-05",
+     "p": 9450
+    },
+    {
+     "m": "26-06",
+     "p": 9450
+    },
+    {
+     "m": "26-07",
+     "p": 9450
+    },
+    {
+     "m": "26-08",
+     "p": 9450
+    },
+    {
+     "m": "26-09",
+     "p": 9450
+    },
+    {
+     "m": "26-10",
+     "p": 11150
+    },
+    {
+     "m": "26-11",
+     "p": 11160
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "SK스토아",
+     "code": "TSB275",
+     "id": "26943902",
+     "price": 11240,
+     "ship": 0
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F559046075",
+     "price": 11250,
+     "ship": 0
+    },
+    {
+     "mall": "현대Hmall",
+     "code": "ED907",
+     "id": "2141275543",
+     "price": 11410,
+     "ship": 0
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000605925823",
+     "price": 11430,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4421052879",
+     "price": 11470,
+     "ship": 0
+    },
+    {
+     "mall": "롯데홈쇼핑",
+     "code": "ED903",
+     "id": "2003003498",
+     "price": 11480,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "4487040092",
+     "price": 11600,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LI2003003498",
+     "price": 11730,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/gJmjI6suo8",
+   "web": true
+  },
   {
    "uid": "8419836582",
    "mall": "쿠팡",
@@ -4278,19 +4419,6 @@
    "baseline": 97900,
    "baselineNote": "35곳 중 최저 · 무료배송",
    "link": "https://link.coupang.com/a/h3Kw57S37Q",
-   "web": true
-  },
-  {
-   "uid": "3586389897",
-   "mall": "롯데온",
-   "title": "바로한끼 밥용기 Lite 320ml 3P 세트",
-   "price": 10130,
-   "image": "https://contents.lotteon.com/itemimage/20261014113027/LO/14/42/07/63/59/bndl_img/LO1442076359_1.jpg",
-   "sentAt": "2026-10-22T22:14:54.864+09:00",
-   "saving": 42,
-   "baseline": 17490,
-   "baselineNote": "판매글 6곳 최저가",
-   "link": "http://app.ac/f3M4Q5J53",
    "web": true
   }
  ]
