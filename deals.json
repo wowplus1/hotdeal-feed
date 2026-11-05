@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-06T08:38:14.807+09:00",
+ "updated": "2026-11-06T08:45:39.550+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7640267755",
+   "mall": "쿠팡",
+   "title": "기꼬만 진한 다시 혼쯔유, 500ml, 3개",
+   "price": 8980,
+   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/6d57/daa696f48cb7533878198b53d33dead83c7b40af361ebc5ad4a298ddd369.jpg",
+   "sentAt": "2026-11-06T08:45:38.999+09:00",
+   "unit": {
+    "label": "개당",
+    "value": 2993
+   },
+   "link": "https://link.coupang.com/a/hV8pzDwb6W"
+  },
   {
    "uid": "5736186932",
    "mall": "쿠팡",
@@ -4082,28 +4095,6 @@
     "ship": 0
    },
    "link": "https://link.coupang.com/a/ioTOsJ0iXY"
-  },
-  {
-   "uid": "3215221414",
-   "mall": "롯데온",
-   "title": "랩신 섬유항균제 파우치 2L*2개",
-   "price": 15320,
-   "image": "https://contents.lotteon.com/itemimage/20261012185518/LO/26/47/03/22/09/_2/64/70/32/21/0/LO2647032209_2647032210_4.png",
-   "sentAt": "2026-11-04T17:00:41.447+09:00",
-   "saving": 34,
-   "baseline": 23340,
-   "baselineNote": "판매글 7곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 7660
-   },
-   "comps": [
-    {
-     "name": "판매글 7곳 최저가",
-     "price": 23340
-    }
-   ],
-   "link": "http://app.ac/zECmQkS33"
   }
  ]
 }
