@@ -1,7 +1,84 @@
 {
- "updated": "2026-11-05T18:40:15.351+09:00",
+ "updated": "2026-11-05T21:10:37.257+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "1487934454",
+   "mall": "쿠팡",
+   "title": "옷걸이형 제습제 150g 6개",
+   "price": 5010,
+   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/09/01/12/5/dc9aa4eb-36dc-4b3a-a124-45d2e1fb97ab.jpg",
+   "sentAt": "2026-11-05T21:10:37.257+09:00",
+   "saving": 10,
+   "baseline": 5570,
+   "baselineNote": "3곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 835
+   },
+   "check": {
+    "market": 5570,
+    "malls": 3,
+    "ship": 3000,
+    "delivered": 8570
+   },
+   "spec": [
+    "습기제거제",
+    "본품",
+    "염화칼슘",
+    "구슬형",
+    "실내용"
+   ],
+   "comps": [
+    {
+     "name": "3곳 중 최저",
+     "price": 5570
+    },
+    {
+     "name": "배송비 3,000원 포함",
+     "price": 8570
+    }
+   ],
+   "trend": [
+    {
+     "m": "26-09",
+     "p": 5000
+    },
+    {
+     "m": "26-10",
+     "p": 5000
+    },
+    {
+     "m": "26-11",
+     "p": 5690
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F658349852",
+     "price": 5570,
+     "ship": 3000
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4850638447",
+     "price": 5580,
+     "ship": 3000
+    },
+    {
+     "mall": "오늘의집",
+     "code": "TU710C",
+     "id": "4219142-31756732",
+     "price": 8690,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/hYw23NJS3g",
+   "web": true
+  },
   {
    "uid": "4200519643",
    "mall": "쿠팡",
@@ -4053,20 +4130,6 @@
    "baseline": 859440,
    "baselineNote": "판매글 4곳 최저가",
    "link": "https://link.coupang.com/a/h28eoARX4K",
-   "web": true
-  },
-  {
-   "uid": "4834733362",
-   "mall": "지마켓",
-   "title": "옵티멈 뉴트리션 플래티넘 하이드로 웨이 초콜릿 3.61파운드 1.64kg",
-   "price": 105980,
-   "image": "https://gdimg.gmarket.co.kr/4715996843/goodsimage",
-   "sentAt": "2026-10-22T14:15:30.377+09:00",
-   "saving": 27,
-   "baseline": 145070,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4715996843",
    "web": true
   }
  ]
