@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-06T07:09:31.500+09:00",
+ "updated": "2026-11-06T07:11:43.107+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2823313123",
+   "mall": "쿠팡",
+   "title": "이롬 황성주 박사의 국산콩 두유 검은콩 고칼슘, 190ml, 24개",
+   "price": 9900,
+   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/076c/f6c50b12bdfb01568dd750f748af00a74424d2121288942ba46b9309adcb.jpg",
+   "sentAt": "2026-11-06T07:11:42.290+09:00",
+   "saving": 58,
+   "baseline": 23310,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 413
+   },
+   "comps": [
+    {
+     "name": "판매글 3곳 최저가",
+     "price": 23310
+    }
+   ],
+   "link": "https://link.coupang.com/a/gA6GnlKQQ8"
+  },
   {
    "uid": "3266866090",
    "mall": "쿠팡",
@@ -3797,98 +3819,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4667917611"
-  },
-  {
-   "uid": "3464973792",
-   "mall": "쿠팡",
-   "title": "풀무원 얄피꽉찬 육즙진한 교자 , 400g, 4개",
-   "price": 9860,
-   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/714450c6-4259-4263-8c84-d9612a78f7604189471707875077918.png",
-   "sentAt": "2026-11-04T13:52:25.361+09:00",
-   "saving": 37,
-   "baseline": 15690,
-   "baselineNote": "2곳 중 최저",
-   "unit": {
-    "label": "개당",
-    "value": 2465
-   },
-   "check": {
-    "market": 15690,
-    "malls": 2,
-    "ship": 3500,
-    "delivered": 19190
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": true,
-    "low": 13820
-   },
-   "spec": [
-    "만두",
-    "고기교자",
-    "냉동보관"
-   ],
-   "comps": [
-    {
-     "name": "2곳 중 최저",
-     "price": 15690
-    },
-    {
-     "name": "배송비 3,500원 포함",
-     "price": 19190
-    }
-   ],
-   "trend": [
-    {
-     "m": "25-12",
-     "p": 15180
-    },
-    {
-     "m": "26-01",
-     "p": 15180
-    },
-    {
-     "m": "26-02",
-     "p": 15080
-    },
-    {
-     "m": "26-03",
-     "p": 15180
-    },
-    {
-     "m": "26-04",
-     "p": 15180
-    },
-    {
-     "m": "26-05",
-     "p": 15180
-    },
-    {
-     "m": "26-06",
-     "p": 13820
-    },
-    {
-     "m": "26-07",
-     "p": 13820
-    },
-    {
-     "m": "26-08",
-     "p": 15170
-    },
-    {
-     "m": "26-09",
-     "p": 14040
-    },
-    {
-     "m": "26-10",
-     "p": 15690
-    },
-    {
-     "m": "26-11",
-     "p": 15690
-    }
-   ],
-   "link": "https://link.coupang.com/a/hScM2jg4uO"
   }
  ]
 }
