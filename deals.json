@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-05T17:04:23.966+09:00",
+ "updated": "2026-11-05T17:33:36.353+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5869034391",
+   "mall": "지마켓",
+   "title": "아삭한 부유단감 3kg 중과사이즈",
+   "price": 8630,
+   "image": "https://gdimg.gmarket.co.kr/4875555797/goodsimage",
+   "sentAt": "2026-11-05T17:33:35.765+09:00",
+   "saving": 29,
+   "baseline": 12232,
+   "baselineNote": "판매글 6곳 최저가",
+   "unit": {
+    "label": "100g당",
+    "value": 288
+   },
+   "comps": [
+    {
+     "name": "판매글 6곳 최저가",
+     "price": 12232
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4875555797"
+  },
   {
    "uid": "5581851052",
    "mall": "11번가",
@@ -3302,16 +3324,6 @@
    "baseline": 62930,
    "baselineNote": "판매글 8곳 최저가",
    "link": "https://link.coupang.com/a/iocDWmOyhU"
-  },
-  {
-   "uid": "1680867102",
-   "mall": "쿠팡",
-   "title": "가그린 제로 구강청결제, 1.2L, 2개",
-   "price": 8890,
-   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2412923165467698-e1935ae5-ac40-4af8-8861-7f5e30dd41a4.jpg",
-   "sentAt": "2026-11-04T07:05:33.569+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gkKvlsxQHs"
   }
  ]
 }
