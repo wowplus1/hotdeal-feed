@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-06T07:50:49.979+09:00",
+ "updated": "2026-11-06T08:17:02.387+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "8419836582",
+   "mall": "쿠팡",
+   "title": "닌자 푸디 맥스 스마트 에어그릴 에어프라이어 5.7L",
+   "price": 254910,
+   "image": "https://thumbnail1.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/292800773676383-a267a454-a6fa-470c-85af-a6b5ec05018d.jpg",
+   "sentAt": "2026-11-06T08:17:02.387+09:00",
+   "saving": 46,
+   "baseline": 473240,
+   "baselineNote": "판매글 3곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 3곳 최저가",
+     "price": 473240
+    }
+   ],
+   "link": "https://link.coupang.com/a/ghi3j9GNqu",
+   "web": true
+  },
   {
    "uid": "4708914927",
    "mall": "쿠팡",
@@ -4272,20 +4291,6 @@
    "baseline": 17490,
    "baselineNote": "판매글 6곳 최저가",
    "link": "http://app.ac/f3M4Q5J53",
-   "web": true
-  },
-  {
-   "uid": "4426361107",
-   "mall": "롯데온",
-   "title": "햇반 윤기가득 쌀밥 210g x48개",
-   "price": 38510,
-   "image": "https://contents.lotteon.com/itemimage/20261022162929/LO/25/32/59/70/90/_2/53/25/97/09/1/LO2532597090_2532597091_1.jpg",
-   "sentAt": "2026-10-22T17:32:11.971+09:00",
-   "saving": 14,
-   "baseline": 44910,
-   "baselineNote": "302곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "http://app.ac/VbpBUal33",
    "web": true
   }
  ]
