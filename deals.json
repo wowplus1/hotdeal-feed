@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-05T13:40:12.825+09:00",
+ "updated": "2026-11-05T14:09:24.929+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8812396054",
+   "mall": "쿠팡",
+   "title": "매일야채 고농축 토마토의 힘, 125ml, 24개",
+   "price": 14000,
+   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/df38/8065eb8653f94adbbf27e6f2e64dcc89ae131aef1db69f7d878efd57ce06.png",
+   "sentAt": "2026-11-05T14:09:24.348+09:00",
+   "unit": {
+    "label": "개당",
+    "value": 583
+   },
+   "alt": {
+    "price": 16910,
+    "where": "673곳 중 최저",
+    "ship": 0
+   },
+   "link": "https://link.coupang.com/a/f9zGHqcznM"
+  },
   {
    "uid": "6850922183",
    "mall": "롯데온",
@@ -2853,18 +2871,6 @@
    "baseline": 11360,
    "baselineNote": "47곳 중 최저 · 무료배송",
    "link": "http://app.ac/x3CEFOJ03"
-  },
-  {
-   "uid": "8634930849",
-   "mall": "지마켓",
-   "title": "새우깡 8봉 + 매운새우깡 8봉",
-   "price": 14990,
-   "image": "https://gdimg.gmarket.co.kr/4076233103/goodsimage",
-   "sentAt": "2026-11-03T17:55:41.286+09:00",
-   "saving": 26,
-   "baseline": 20390,
-   "baselineNote": "판매글 9곳 최저가",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4076233103"
   }
  ]
 }
