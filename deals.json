@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-05T19:18:12.101+09:00",
+ "updated": "2026-11-05T19:30:21.782+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3861316111",
+   "mall": "쿠팡",
+   "title": "스탠리 퀜처 H2.0 플로우 스테이트 텀블러 887ml*1개",
+   "price": 19580,
+   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2849633657372996-bcd9b1ee-ad66-43c3-9682-ce568d3cd3b4.jpg",
+   "sentAt": "2026-11-05T19:30:21.183+09:00",
+   "alt": {
+    "price": 35230,
+    "where": "5곳 중 최저",
+    "ship": 0
+   },
+   "link": "https://link.coupang.com/a/h9PX5j54hg"
+  },
   {
    "uid": "8303898034",
    "mall": "쿠팡",
@@ -3605,18 +3619,6 @@
    "baselineNote": "판매글 5곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/bjwKwqa43"
-  },
-  {
-   "uid": "2807899387",
-   "mall": "지마켓",
-   "title": "칼마아디 180정",
-   "price": 11900,
-   "image": "https://gdimg.gmarket.co.kr/1942508909/goodsimage",
-   "sentAt": "2026-11-04T09:18:11.224+09:00",
-   "saving": 50,
-   "baseline": 24000,
-   "baselineNote": "판매글 5곳 최저가",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=1942508909"
   }
  ]
 }
