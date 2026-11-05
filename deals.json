@@ -1,7 +1,147 @@
 {
- "updated": "2026-11-05T10:01:41.462+09:00",
+ "updated": "2026-11-05T10:13:51.635+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8810291618",
+   "mall": "토스쇼핑",
+   "title": "더 빅토리아, 라임, 500ml, 20개",
+   "price": 8600,
+   "image": "https://shopping.toss.im/live/taca/ai/YzM3OTc3/UzRmUzY3ZDhhNXhJNDdWd2o1NU1pN0owcS9STnI5VkRzck1xdTAxRTFVUT0.png",
+   "sentAt": "2026-11-05T10:13:51.055+09:00",
+   "saving": 26,
+   "baseline": 11610,
+   "baselineNote": "257곳 중 최저 · 무료배송",
+   "unit": {
+    "label": "개당",
+    "value": 430
+   },
+   "check": {
+    "market": 11610,
+    "malls": 257,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 8900
+   },
+   "comps": [
+    {
+     "name": "257곳 중 최저 · 무료배송",
+     "price": 11610
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 10900
+    },
+    {
+     "m": "26-01",
+     "p": 10800
+    },
+    {
+     "m": "26-02",
+     "p": 10090
+    },
+    {
+     "m": "26-03",
+     "p": 8900
+    },
+    {
+     "m": "26-04",
+     "p": 10700
+    },
+    {
+     "m": "26-05",
+     "p": 10700
+    },
+    {
+     "m": "26-06",
+     "p": 10970
+    },
+    {
+     "m": "26-07",
+     "p": 10190
+    },
+    {
+     "m": "26-08",
+     "p": 9310
+    },
+    {
+     "m": "26-09",
+     "p": 10190
+    },
+    {
+     "m": "26-10",
+     "p": 10470
+    },
+    {
+     "m": "26-11",
+     "p": 11130
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2652856337",
+     "price": 11610,
+     "ship": 0
+    },
+    {
+     "mall": "신세계몰",
+     "code": "ED901",
+     "id": "1000847612845",
+     "price": 11625,
+     "ship": 0
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000847612845",
+     "price": 11625,
+     "ship": 0
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000847612845",
+     "price": 11625,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "8233712294",
+     "price": 11800,
+     "ship": 3000
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "3736987896",
+     "price": 11920,
+     "ship": 3000
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F595168919",
+     "price": 12090,
+     "ship": 0
+    },
+    {
+     "mall": "롯데홈쇼핑",
+     "code": "ED903",
+     "id": "1432419221",
+     "price": 12280,
+     "ship": 0
+    }
+   ],
+   "link": "https://toss.shopping/_m/XrAtpWHt"
+  },
   {
    "uid": "7354375525",
    "mall": "쿠팡",
@@ -1966,18 +2106,6 @@
    "baselineNote": "639곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/im2lQbRKvI"
-  },
-  {
-   "uid": "6192118230",
-   "mall": "지마켓",
-   "title": "베키아에누보 치아바타 샌드위치 3팩 9개 골라담기",
-   "price": 20420,
-   "image": "https://gdimg.gmarket.co.kr/4049429410/goodsimage",
-   "sentAt": "2026-11-03T14:09:24.473+09:00",
-   "saving": 31,
-   "baseline": 29610,
-   "baselineNote": "판매글 4곳 최저가",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4049429410"
   }
  ]
 }
