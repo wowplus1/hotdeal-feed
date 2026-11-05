@@ -1,7 +1,104 @@
 {
- "updated": "2026-11-05T08:54:26.271+09:00",
+ "updated": "2026-11-05T08:58:26.924+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6860847970",
+   "mall": "쿠팡",
+   "title": "바세린 인텐시브 케어 드라이 스킨 리페어 바디로션 400ml 2개",
+   "price": 8670,
+   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/568144712991851-c8e2e9fd-65d2-4e02-85b8-cbdf0a37c3e9.png",
+   "sentAt": "2026-11-05T08:58:26.409+09:00",
+   "saving": 26,
+   "baseline": 11730,
+   "baselineNote": "54곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 4335
+   },
+   "check": {
+    "market": 11730,
+    "malls": 54,
+    "delivered": 11990
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 10750
+   },
+   "review": {
+    "score": 4.7,
+    "count": 186,
+    "low": 1
+   },
+   "spec": [
+    "건성",
+    "모든피부",
+    "수분증발차단, 피부보습, 피부보호",
+    "펌프형"
+   ],
+   "comps": [
+    {
+     "name": "54곳 중 최저",
+     "price": 11730
+    },
+    {
+     "name": "배송비까지 치면",
+     "price": 11990
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 12960
+    },
+    {
+     "m": "26-01",
+     "p": 10800
+    },
+    {
+     "m": "26-02",
+     "p": 12340
+    },
+    {
+     "m": "26-03",
+     "p": 11600
+    },
+    {
+     "m": "26-04",
+     "p": 11620
+    },
+    {
+     "m": "26-05",
+     "p": 11790
+    },
+    {
+     "m": "26-06",
+     "p": 11790
+    },
+    {
+     "m": "26-07",
+     "p": 10950
+    },
+    {
+     "m": "26-08",
+     "p": 12320
+    },
+    {
+     "m": "26-09",
+     "p": 10750
+    },
+    {
+     "m": "26-10",
+     "p": 11790
+    },
+    {
+     "m": "26-11",
+     "p": 11930
+    }
+   ],
+   "link": "https://link.coupang.com/a/ipZe9jEt6O"
+  },
   {
    "uid": "2674383854",
    "mall": "쿠팡",
@@ -1628,18 +1725,6 @@
    "baselineNote": "판매글 4곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2250669882"
-  },
-  {
-   "uid": "4432442836",
-   "mall": "11번가",
-   "title": "삼성전자 삼성 마이크로SD PRO Ultimate 512GB MB-MY512SB/WW 리더기구성",
-   "price": 108730,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/pd/v2/2/5/0/6/7/5/NRXfU/6226250675_B.webp",
-   "sentAt": "2026-11-03T10:05:10.513+09:00",
-   "saving": 49,
-   "baseline": 214720,
-   "baselineNote": "판매글 14곳 최저가",
-   "link": "http://app.ac/iAVtNr563"
   }
  ]
 }
