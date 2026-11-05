@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-05T11:47:42.138+09:00",
+ "updated": "2026-11-05T12:39:28.843+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6439923099",
+   "mall": "지마켓",
+   "title": "센소다인 멀티케어 치약 100g 3개",
+   "price": 9810,
+   "image": "https://gdimg.gmarket.co.kr/4811424907/goodsimage",
+   "sentAt": "2026-11-05T12:39:27.890+09:00",
+   "unit": {
+    "label": "개당",
+    "value": 3270
+   },
+   "alt": {
+    "price": 10930,
+    "where": "202곳 중 최저",
+    "ship": 3000
+   },
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4811424907"
+  },
   {
    "uid": "9398319463",
    "mall": "쿠팡",
@@ -2704,19 +2722,6 @@
    "baselineNote": "판매글 11곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4672831699"
-  },
-  {
-   "uid": "5079216827",
-   "mall": "11번가",
-   "title": "롯데웰푸드 월드콘 바닐라 160ml, 24개",
-   "price": 19900,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/8428472949/B.webp?168350625",
-   "sentAt": "2026-11-03T17:09:46.725+09:00",
-   "saving": 26,
-   "baseline": 26890,
-   "baselineNote": "판매글 16곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/E3MPpCJ23"
   }
  ]
 }
