@@ -1,7 +1,157 @@
 {
- "updated": "2026-11-06T00:09:37.442+09:00",
+ "updated": "2026-11-06T07:50:49.979+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "4708914927",
+   "mall": "쿠팡",
+   "title": "팔도 라볶이 봉지라면 145g, 8개",
+   "price": 6830,
+   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1058235725848817-3e8fd87c-7dcc-42ae-a0f6-dee4b5840a88.png",
+   "sentAt": "2026-11-06T07:50:49.979+09:00",
+   "saving": 32,
+   "baseline": 10110,
+   "baselineNote": "73곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 854
+   },
+   "check": {
+    "market": 10110,
+    "malls": 73,
+    "delivered": 11480
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 7100
+   },
+   "spec": [
+    "볶음라면",
+    "기본면",
+    "실온보관"
+   ],
+   "comps": [
+    {
+     "name": "73곳 중 최저",
+     "price": 10110
+    },
+    {
+     "name": "배송비까지 치면",
+     "price": 11480
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 7100
+    },
+    {
+     "m": "26-01",
+     "p": 9370
+    },
+    {
+     "m": "26-02",
+     "p": 7720
+    },
+    {
+     "m": "26-03",
+     "p": 9480
+    },
+    {
+     "m": "26-04",
+     "p": 9900
+    },
+    {
+     "m": "26-05",
+     "p": 9900
+    },
+    {
+     "m": "26-06",
+     "p": 8900
+    },
+    {
+     "m": "26-07",
+     "p": 8900
+    },
+    {
+     "m": "26-08",
+     "p": 8900
+    },
+    {
+     "m": "26-09",
+     "p": 8900
+    },
+    {
+     "m": "26-10",
+     "p": 9580
+    },
+    {
+     "m": "26-11",
+     "p": 9700
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "E858096203",
+     "price": 10110,
+     "ship": 2500
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4280816120",
+     "price": 10330,
+     "ship": 2500
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "2930852720",
+     "price": 11480,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2604586199",
+     "price": 11480,
+     "ship": 0
+    },
+    {
+     "mall": "롯데백화점",
+     "code": "TLC16",
+     "id": "LE1222800485",
+     "price": 11580,
+     "ship": 0
+    },
+    {
+     "mall": "신세계몰",
+     "code": "ED901",
+     "id": "1000882613252",
+     "price": 11880,
+     "ship": 0
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000882613252",
+     "price": 11880,
+     "ship": 0
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000882613252",
+     "price": 11880,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/f9Ba2ZvKnc",
+   "web": true
+  },
   {
    "uid": "4845853597",
    "mall": "롯데온",
@@ -4136,20 +4286,6 @@
    "baselineNote": "302곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "http://app.ac/VbpBUal33",
-   "web": true
-  },
-  {
-   "uid": "4276801725",
-   "mall": "지마켓",
-   "title": "풀무원샘물 생수 2L X 12병",
-   "price": 5720,
-   "image": "https://gdimg.gmarket.co.kr/3759611316/goodsimage",
-   "sentAt": "2026-10-22T17:04:39.031+09:00",
-   "saving": 27,
-   "baseline": 7840,
-   "baselineNote": "45곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=3759611316",
    "web": true
   }
  ]
