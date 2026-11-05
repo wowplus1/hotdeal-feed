@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-05T15:35:28.926+09:00",
+ "updated": "2026-11-05T15:40:34.459+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2474763231",
+   "mall": "쿠팡",
+   "title": "롯데웰푸드 크런키 초콜릿 34g 24개",
+   "price": 17220,
+   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/54831248923930-9db65223-8e34-42bf-a0b4-da9b57a9095d.jpg",
+   "sentAt": "2026-11-05T15:40:33.924+09:00",
+   "saving": 42,
+   "baseline": 29500,
+   "baselineNote": "판매글 8곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 718
+   },
+   "comps": [
+    {
+     "name": "판매글 8곳 최저가",
+     "price": 29500
+    }
+   ],
+   "link": "https://link.coupang.com/a/iqrXBbJHrg"
+  },
   {
    "uid": "3872776037",
    "mall": "쿠팡",
@@ -3135,19 +3157,6 @@
    "baselineNote": "판매글 3곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/rEwbjSS33"
-  },
-  {
-   "uid": "4969569635",
-   "mall": "지마켓",
-   "title": "맛밤 60g x20개",
-   "price": 19200,
-   "image": "https://gdimg.gmarket.co.kr/2135015418/goodsimage",
-   "sentAt": "2026-11-03T20:01:06.190+09:00",
-   "saving": 22,
-   "baseline": 24620,
-   "baselineNote": "639곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2135015418"
   }
  ]
 }
