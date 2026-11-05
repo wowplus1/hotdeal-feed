@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-05T18:26:43.025+09:00",
+ "updated": "2026-11-05T18:36:33.535+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4709941390",
+   "mall": "쿠팡",
+   "title": "맥스봉 치즈, 1.08kg, 1개",
+   "price": 11900,
+   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/3738/9ec174e475d3314fd99a009536da3324b0b4d9ddb45d89f7162dcda19612.jpg",
+   "sentAt": "2026-11-05T18:36:32.995+09:00",
+   "saving": 35,
+   "baseline": 18370,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": {
+    "label": "100g당",
+    "value": 1102
+   },
+   "comps": [
+    {
+     "name": "판매글 5곳 최저가",
+     "price": 18370
+    }
+   ],
+   "link": "https://link.coupang.com/a/iqExdzclK8"
+  },
   {
    "uid": "7428359170",
    "mall": "토스쇼핑",
@@ -3460,19 +3482,6 @@
    "baselineNote": "68곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/g3E5Y6DXRA"
-  },
-  {
-   "uid": "6305990565",
-   "mall": "쿠팡",
-   "title": "코카콜라 제로 무라벨, 370ml, 24개",
-   "price": 16680,
-   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/885a/5275afb0998711fbbbcf6aaf2e50daf49885f10e5c34208ec34c8e09e053.jpg",
-   "sentAt": "2026-11-04T09:09:39.754+09:00",
-   "saving": 24,
-   "baseline": 21890,
-   "baselineNote": "216곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gcfie4gWuy"
   }
  ]
 }
