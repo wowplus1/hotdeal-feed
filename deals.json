@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-05T16:35:24.529+09:00",
+ "updated": "2026-11-05T17:03:25.083+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8982307980",
+   "mall": "지마켓",
+   "title": "햇올리브 유기농 엑스트라버진 올리브오일 250ml 3병",
+   "price": 22030,
+   "image": "https://gdimg.gmarket.co.kr/4833861684/goodsimage",
+   "sentAt": "2026-11-05T17:03:24.225+09:00",
+   "saving": 23,
+   "baseline": 28700,
+   "baselineNote": "판매글 9곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 7343
+   },
+   "comps": [
+    {
+     "name": "판매글 9곳 최저가",
+     "price": 28700
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4833861684"
+  },
   {
    "uid": "7527393307",
    "mall": "롯데온",
@@ -3154,19 +3176,6 @@
    "baseline": 42990,
    "baselineNote": "판매글 12곳 최저가",
    "link": "https://link.coupang.com/a/iobXqF2Moe"
-  },
-  {
-   "uid": "5155498750",
-   "mall": "지마켓",
-   "title": "도라지배즙 80ml 100포",
-   "price": 14340,
-   "image": "https://gdimg.gmarket.co.kr/4515805941/goodsimage",
-   "sentAt": "2026-11-03T21:23:19.268+09:00",
-   "saving": 56,
-   "baseline": 32900,
-   "baselineNote": "73곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4515805941"
   }
  ]
 }
