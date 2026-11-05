@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-05T08:58:26.924+09:00",
+ "updated": "2026-11-05T09:40:15.358+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1848247903",
+   "mall": "쿠팡",
+   "title": "농심 빵부장 초코빵, 55g, 4개",
+   "price": 3600,
+   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/61906224743559-4dca4250-fe47-4650-b87d-7278be021182.png",
+   "sentAt": "2026-11-05T09:40:14.423+09:00",
+   "saving": 50,
+   "baseline": 7150,
+   "baselineNote": "판매글 25곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 900
+   },
+   "comps": [
+    {
+     "name": "판매글 25곳 최저가",
+     "price": 7150
+    }
+   ],
+   "link": "https://link.coupang.com/a/ip2afZxu1c"
+  },
   {
    "uid": "6860847970",
    "mall": "쿠팡",
@@ -1712,19 +1734,6 @@
    "baselineNote": "12곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/imOWG9XFfg"
-  },
-  {
-   "uid": "3569466774",
-   "mall": "지마켓",
-   "title": "충성 핫팩 포켓용 군용 보온대 160g 50개",
-   "price": 21930,
-   "image": "https://gdimg.gmarket.co.kr/2250669882/goodsimage",
-   "sentAt": "2026-11-03T10:13:12.880+09:00",
-   "saving": 43,
-   "baseline": 38210,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2250669882"
   }
  ]
 }
