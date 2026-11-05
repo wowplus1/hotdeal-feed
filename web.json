@@ -1,7 +1,96 @@
 {
- "updated": "2026-11-05T11:12:17.796+09:00",
+ "updated": "2026-11-05T11:13:43.944+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "1468938715",
+   "mall": "지마켓",
+   "title": "숨 순수 소프트 3겹 30m 30롤 2팩",
+   "price": 13900,
+   "image": "https://gdimg.gmarket.co.kr/2102614333/goodsimage",
+   "sentAt": "2026-11-05T11:13:43.944+09:00",
+   "saving": 11,
+   "baseline": 15600,
+   "baselineNote": "109곳 중 최저 · 무료배송",
+   "unit": {
+    "label": "개당",
+    "value": 6950
+   },
+   "check": {
+    "market": 15600,
+    "malls": 109,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 14550
+   },
+   "review": {
+    "score": 4.6,
+    "count": 23746,
+    "low": 176
+   },
+   "comps": [
+    {
+     "name": "109곳 중 최저 · 무료배송",
+     "price": 15600
+    }
+   ],
+   "trend": [
+    {
+     "m": "26-09",
+     "p": 14550
+    },
+    {
+     "m": "26-10",
+     "p": 15370
+    },
+    {
+     "m": "26-11",
+     "p": 16890
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "2102614333",
+     "price": 15600,
+     "ship": 0
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "C334922878",
+     "price": 16890,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9483153963",
+     "price": 17820,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2719630173",
+     "price": 18330,
+     "ship": 0
+    },
+    {
+     "mall": "TZ7133",
+     "code": "TZ7133",
+     "id": "13734662975",
+     "price": 20800,
+     "ship": 0
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2102614333",
+   "web": true
+  },
   {
    "uid": "4947647158",
    "mall": "쿠팡",
@@ -3321,19 +3410,6 @@
    "baselineNote": "판매글 8곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/rEC4ghS93",
-   "web": true
-  },
-  {
-   "uid": "5316164643",
-   "mall": "지마켓",
-   "title": "브라운 전기면도기 시리즈9 PRO PLUS 9566cc + 날망 울트라씬 블레이드 96M증정 + 리필 세정액 CCR2",
-   "price": 289000,
-   "image": "https://gdimg.gmarket.co.kr/3137852300/goodsimage",
-   "sentAt": "2026-10-21T17:30:36.497+09:00",
-   "saving": 11,
-   "baseline": 324010,
-   "baselineNote": "41곳 중 최저",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=3137852300",
    "web": true
   }
  ]
