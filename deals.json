@@ -1,7 +1,136 @@
 {
- "updated": "2026-11-05T10:13:51.635+09:00",
+ "updated": "2026-11-05T10:19:47.636+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3130651885",
+   "mall": "GS SHOP",
+   "title": "잇몸치약 100g x 4개",
+   "price": 10900,
+   "image": "https://asset.m-gs.kr/prod/1134512879/1/280",
+   "sentAt": "2026-11-05T10:19:47.125+09:00",
+   "saving": 41,
+   "baseline": 18630,
+   "baselineNote": "88곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 2725
+   },
+   "check": {
+    "market": 18630,
+    "malls": 88,
+    "ship": 3000,
+    "delivered": 21630
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 17220
+   },
+   "review": {
+    "score": 4.8,
+    "count": 416,
+    "low": 2
+   },
+   "spec": [
+    "튜브형",
+    "1000ppm",
+    "프라그제거",
+    "잇몸(치주)질환예방",
+    "충치예방"
+   ],
+   "comps": [
+    {
+     "name": "88곳 중 최저",
+     "price": 18630
+    },
+    {
+     "name": "배송비 3,000원 포함",
+     "price": 21630
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 17640
+    },
+    {
+     "m": "26-01",
+     "p": 18050
+    },
+    {
+     "m": "26-02",
+     "p": 17380
+    },
+    {
+     "m": "26-03",
+     "p": 17430
+    },
+    {
+     "m": "26-04",
+     "p": 17370
+    },
+    {
+     "m": "26-05",
+     "p": 17440
+    },
+    {
+     "m": "26-06",
+     "p": 17440
+    },
+    {
+     "m": "26-07",
+     "p": 17900
+    },
+    {
+     "m": "26-08",
+     "p": 17930
+    },
+    {
+     "m": "26-09",
+     "p": 17220
+    },
+    {
+     "m": "26-10",
+     "p": 18260
+    },
+    {
+     "m": "26-11",
+     "p": 18200
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "6833835930",
+     "price": 18630,
+     "ship": 3000
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2248179522",
+     "price": 18640,
+     "ship": 3000
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "3477654456",
+     "price": 18690,
+     "ship": 3000
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "D876752669",
+     "price": 18690,
+     "ship": 3000
+    }
+   ],
+   "link": "http://app.ac/RECrd3S43"
+  },
   {
    "uid": "8810291618",
    "mall": "토스쇼핑",
@@ -2093,19 +2222,6 @@
    "baseline": 57790,
    "baselineNote": "21곳 중 최저",
    "link": "https://link.coupang.com/a/im4hCCAEbA"
-  },
-  {
-   "uid": "4193842388",
-   "mall": "쿠팡",
-   "title": "제주삼다수 그린 무라벨, 2L, 30개",
-   "price": 23620,
-   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2d22be81-7e05-43a1-b695-2cea28167b7911629139577118800379.png",
-   "sentAt": "2026-11-03T14:19:03.894+09:00",
-   "saving": 24,
-   "baseline": 31190,
-   "baselineNote": "639곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/im2lQbRKvI"
   }
  ]
 }
