@@ -1,7 +1,150 @@
 {
- "updated": "2026-11-05T10:19:47.636+09:00",
+ "updated": "2026-11-05T10:21:05.620+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9925724277",
+   "mall": "쿠팡",
+   "title": "아트뮤 PD3.1 150W PPS GaN 접지 멀티 초고속 충전기 GX510 1개",
+   "price": 39330,
+   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/5bb7c3c4-0a41-4089-970b-84e930ee71f72820072358234897262.png",
+   "sentAt": "2026-11-05T10:21:05.044+09:00",
+   "saving": 54,
+   "baseline": 85700,
+   "baselineNote": "30곳 중 최저 · 무료배송",
+   "check": {
+    "market": 85700,
+    "malls": 30,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 55700
+   },
+   "spec": [
+    "케이블분리형",
+    "총:5포트",
+    "5개",
+    "PPS, PD 3.1, SFC 2.0",
+    "30mm"
+   ],
+   "comps": [
+    {
+     "name": "30곳 중 최저 · 무료배송",
+     "price": 85700
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 85700
+    },
+    {
+     "m": "26-01",
+     "p": 85700
+    },
+    {
+     "m": "26-02",
+     "p": 85700
+    },
+    {
+     "m": "26-03",
+     "p": 85700
+    },
+    {
+     "m": "26-04",
+     "p": 55700
+    },
+    {
+     "m": "26-05",
+     "p": 85700
+    },
+    {
+     "m": "26-06",
+     "p": 77130
+    },
+    {
+     "m": "26-07",
+     "p": 81410
+    },
+    {
+     "m": "26-08",
+     "p": 77130
+    },
+    {
+     "m": "26-09",
+     "p": 76660
+    },
+    {
+     "m": "26-10",
+     "p": 85700
+    },
+    {
+     "m": "26-11",
+     "p": 85700
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "TS794",
+     "code": "TS794",
+     "id": "12101343519",
+     "price": 85700,
+     "ship": 0
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F278395293",
+     "price": 93640,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2517741365",
+     "price": 94540,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4475048603",
+     "price": 94670,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "8474940995",
+     "price": 98480,
+     "ship": 0
+    },
+    {
+     "mall": "아트박스",
+     "code": "TMA01",
+     "id": "G25071358589",
+     "price": 119600,
+     "ship": 0
+    },
+    {
+     "mall": "현대Hmall",
+     "code": "ED907",
+     "id": "2237383317",
+     "price": 122170,
+     "ship": 0
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000709132693",
+     "price": 124742,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/ip48eaGsfc"
+  },
   {
    "uid": "3130651885",
    "mall": "GS SHOP",
@@ -2210,18 +2353,6 @@
    "baseline": 39710,
    "baselineNote": "57곳 중 최저",
    "link": "https://link.coupang.com/a/im5wZaCdvE"
-  },
-  {
-   "uid": "8584802617",
-   "mall": "쿠팡",
-   "title": "스탠리 올데이 캐리올 퀜처 H2.0 텀블러 스트랩백 1.18L, 크림, 1개",
-   "price": 12630,
-   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/78484251199591-6d5cb2a8-6d44-4fcb-a2f8-27806f21cfb2.jpg",
-   "sentAt": "2026-11-03T14:45:55.136+09:00",
-   "saving": 78,
-   "baseline": 57790,
-   "baselineNote": "21곳 중 최저",
-   "link": "https://link.coupang.com/a/im4hCCAEbA"
   }
  ]
 }
