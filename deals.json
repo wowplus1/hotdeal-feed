@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-05T15:40:34.459+09:00",
+ "updated": "2026-11-05T16:34:40.005+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8347635429",
+   "mall": "쿠팡",
+   "title": "스탠리 올데이 마들렌 쿨러 백팩 14L*1개",
+   "price": 47880,
+   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/24084009408909-2cd5ad9c-0de4-4569-bb7e-2a862019d3b3.png",
+   "sentAt": "2026-11-05T16:34:39.231+09:00",
+   "saving": 60,
+   "baseline": 120000,
+   "baselineNote": "판매글 16곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 16곳 최저가",
+     "price": 120000
+    }
+   ],
+   "link": "https://link.coupang.com/a/iqvNNB6hR6"
+  },
   {
    "uid": "2474763231",
    "mall": "쿠팡",
@@ -3144,19 +3162,6 @@
    "baselineNote": "판매글 5곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/obpHtgl53"
-  },
-  {
-   "uid": "7407251830",
-   "mall": "GS SHOP",
-   "title": "홍주부 갈아 만든 국내산 CCA 주스 100ml X 30포",
-   "price": 13900,
-   "image": "https://asset.m-gs.kr/prod/1101909490/1/280",
-   "sentAt": "2026-11-03T20:45:08.933+09:00",
-   "saving": 23,
-   "baseline": 18000,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/rEwbjSS33"
   }
  ]
 }
