@@ -1,7 +1,151 @@
 {
- "updated": "2026-11-05T12:39:28.843+09:00",
+ "updated": "2026-11-05T13:20:31.537+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5977019484",
+   "mall": "쿠팡",
+   "title": "농심 생생우동, 253g, 12개",
+   "price": 16980,
+   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/587187041262899-865747ce-94af-4f99-911a-5e93d0992407.jpg",
+   "sentAt": "2026-11-05T13:20:30.970+09:00",
+   "saving": 26,
+   "baseline": 22910,
+   "baselineNote": "193곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 1415
+   },
+   "check": {
+    "market": 22910,
+    "malls": 193
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 20550
+   },
+   "review": {
+    "score": 4.7,
+    "count": 297,
+    "low": 1
+   },
+   "comps": [
+    {
+     "name": "193곳 중 최저",
+     "price": 22910
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 20550
+    },
+    {
+     "m": "26-01",
+     "p": 21000
+    },
+    {
+     "m": "26-02",
+     "p": 21920
+    },
+    {
+     "m": "26-03",
+     "p": 22470
+    },
+    {
+     "m": "26-04",
+     "p": 21970
+    },
+    {
+     "m": "26-05",
+     "p": 20830
+    },
+    {
+     "m": "26-06",
+     "p": 21800
+    },
+    {
+     "m": "26-07",
+     "p": 22030
+    },
+    {
+     "m": "26-08",
+     "p": 21220
+    },
+    {
+     "m": "26-09",
+     "p": 22410
+    },
+    {
+     "m": "26-10",
+     "p": 22390
+    },
+    {
+     "m": "26-11",
+     "p": 22140
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9445122236",
+     "price": 22910,
+     "ship": 3000
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000070921322",
+     "price": 23130,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4787087989",
+     "price": 23150,
+     "ship": 3000
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F594978539",
+     "price": 23150,
+     "ship": 3000
+    },
+    {
+     "mall": "신세계몰",
+     "code": "ED901",
+     "id": "1000784605211",
+     "price": 23408,
+     "ship": 0
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000784605211",
+     "price": 23408,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2706056146",
+     "price": 23450,
+     "ship": 3000
+    },
+    {
+     "mall": "현대Hmall",
+     "code": "ED907",
+     "id": "2206211637",
+     "price": 23940,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/ip9BnENeto"
+  },
   {
    "uid": "6439923099",
    "mall": "지마켓",
@@ -2709,19 +2853,6 @@
    "sentAt": "2026-11-03T17:43:36.499+09:00",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/ingYDSmm8i"
-  },
-  {
-   "uid": "3054102194",
-   "mall": "지마켓",
-   "title": "폴햄 튜블러 반팔티 5팩",
-   "price": 15920,
-   "image": "https://gdimg.gmarket.co.kr/4672831699/goodsimage",
-   "sentAt": "2026-11-03T17:13:32.759+09:00",
-   "saving": 47,
-   "baseline": 29850,
-   "baselineNote": "판매글 11곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4672831699"
   }
  ]
 }
