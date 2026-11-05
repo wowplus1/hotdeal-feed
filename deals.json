@@ -1,7 +1,16 @@
 {
- "updated": "2026-11-05T20:51:16.376+09:00",
+ "updated": "2026-11-05T21:00:13.405+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4272891663",
+   "mall": "11번가",
+   "title": "오리온 쉘위 카카오 12입 + 클래식 12P 각2개",
+   "price": 13210,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9013849474/B.webp?837250473",
+   "sentAt": "2026-11-05T21:00:12.690+09:00",
+   "link": "http://app.ac/btnW7IM93"
+  },
   {
    "uid": "4947393379",
    "mall": "토스쇼핑",
@@ -3749,28 +3758,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2647573160"
-  },
-  {
-   "uid": "8886922005",
-   "mall": "지마켓",
-   "title": "비앤비 섬유유연제 리필1500ml 4개 13,940원",
-   "price": 13940,
-   "image": "https://gdimg.gmarket.co.kr/4350287851/goodsimage",
-   "sentAt": "2026-11-04T12:01:20.483+09:00",
-   "saving": 53,
-   "baseline": 29850,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 3485
-   },
-   "comps": [
-    {
-     "name": "판매글 3곳 최저가",
-     "price": 29850
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4350287851"
   }
  ]
 }
