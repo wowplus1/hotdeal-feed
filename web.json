@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-05T13:44:55.708+09:00",
+ "updated": "2026-11-05T14:23:23.488+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "7279431455",
+   "mall": "지마켓",
+   "title": "당진 해나루쌀 10kg 26년 햅쌀 삼광미 특등급 당일도정",
+   "price": 30980,
+   "image": "https://gdimg.gmarket.co.kr/4885212399/goodsimage",
+   "sentAt": "2026-11-05T14:23:23.488+09:00",
+   "unit": {
+    "label": "100g당",
+    "value": 310
+   },
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4885212399",
+   "web": true
+  },
   {
    "uid": "1403214160",
    "mall": "쿠팡",
@@ -3794,19 +3808,6 @@
    "baseline": 104358,
    "baselineNote": "36곳 중 최저 · 무료배송",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4630207890",
-   "web": true
-  },
-  {
-   "uid": "9927123542",
-   "mall": "지마켓",
-   "title": "써모스 원터치 텀블러 350ml 19,400원",
-   "price": 19400,
-   "image": "https://gdimg.gmarket.co.kr/2554461107/goodsimage",
-   "sentAt": "2026-10-22T12:03:05.105+09:00",
-   "saving": 13,
-   "baseline": 22410,
-   "baselineNote": "판매글 26곳 최저가",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2554461107",
    "web": true
   }
  ]
