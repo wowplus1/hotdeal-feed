@@ -1,7 +1,155 @@
 {
- "updated": "2026-11-05T17:03:25.083+09:00",
+ "updated": "2026-11-05T17:04:23.966+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5581851052",
+   "mall": "11번가",
+   "title": "일상미당 찹쌀떡 60g x 30알",
+   "price": 10410,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/8/6/9/6/2/9/oKsCC/7834869629_242419330.jpg",
+   "sentAt": "2026-11-05T17:04:23.412+09:00",
+   "saving": 33,
+   "baseline": 15630,
+   "baselineNote": "13곳 중 최저 · 무료배송",
+   "check": {
+    "market": 15630,
+    "malls": 13,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 15120
+   },
+   "review": {
+    "score": 4.6,
+    "count": 766,
+    "low": 9
+   },
+   "spec": [
+    "떡류",
+    "15개입",
+    "HACCP",
+    "계란, 밀, 우유",
+    "냉동보관"
+   ],
+   "comps": [
+    {
+     "name": "13곳 중 최저 · 무료배송",
+     "price": 15630
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 15630
+    },
+    {
+     "m": "26-01",
+     "p": 15610
+    },
+    {
+     "m": "26-02",
+     "p": 15610
+    },
+    {
+     "m": "26-03",
+     "p": 15630
+    },
+    {
+     "m": "26-04",
+     "p": 15120
+    },
+    {
+     "m": "26-05",
+     "p": 15120
+    },
+    {
+     "m": "26-06",
+     "p": 15120
+    },
+    {
+     "m": "26-07",
+     "p": 15120
+    },
+    {
+     "m": "26-08",
+     "p": 15630
+    },
+    {
+     "m": "26-09",
+     "p": 15630
+    },
+    {
+     "m": "26-10",
+     "p": 15630
+    },
+    {
+     "m": "26-11",
+     "p": 15630
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "GS SHOP",
+     "code": "ED908",
+     "id": "1055620868",
+     "price": 15630,
+     "ship": 0
+    },
+    {
+     "mall": "현대Hmall",
+     "code": "ED907",
+     "id": "2235880067",
+     "price": 17200,
+     "ship": 0
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F459490270",
+     "price": 18460,
+     "ship": 3000
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4652123901",
+     "price": 18480,
+     "ship": 3000
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9039315865",
+     "price": 18690,
+     "ship": 3000
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000779252232",
+     "price": 18792,
+     "ship": 3000
+    },
+    {
+     "mall": "주식회사 신세계라이브쇼핑",
+     "code": "TRB03",
+     "id": "91630158",
+     "price": 19630,
+     "ship": 3000
+    },
+    {
+     "mall": "신세계몰",
+     "code": "ED901",
+     "id": "1000779252232",
+     "price": 20880,
+     "ship": 3000
+    }
+   ],
+   "link": "http://app.ac/zbGq95l63"
+  },
   {
    "uid": "8982307980",
    "mall": "지마켓",
@@ -3164,18 +3312,6 @@
    "sentAt": "2026-11-04T07:05:33.569+09:00",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gkKvlsxQHs"
-  },
-  {
-   "uid": "1402282516",
-   "mall": "쿠팡",
-   "title": "닥터스베스트 글루코사민 콘드로이친 MSM 캡슐, 240정, 1개",
-   "price": 15070,
-   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/ef67/5a991c31cd55e5ab901aea1039af4aa9195166fe860d96a8ff214cfd3734.JPG",
-   "sentAt": "2026-11-04T07:01:24.241+09:00",
-   "saving": 65,
-   "baseline": 42990,
-   "baselineNote": "판매글 12곳 최저가",
-   "link": "https://link.coupang.com/a/iobXqF2Moe"
   }
  ]
 }
