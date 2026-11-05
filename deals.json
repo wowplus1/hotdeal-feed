@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-06T07:34:08.413+09:00",
+ "updated": "2026-11-06T07:38:53.535+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6004478890",
+   "mall": "쿠팡",
+   "title": "포스트 크랜베리 아몬드 그래놀라, 500g, 2개",
+   "price": 8160,
+   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/28959129272351-0433825a-837b-4524-82aa-e5d872aae133.png",
+   "sentAt": "2026-11-06T07:38:52.991+09:00",
+   "saving": 54,
+   "baseline": 17720,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 4080
+   },
+   "comps": [
+    {
+     "name": "판매글 5곳 최저가",
+     "price": 17720
+    }
+   ],
+   "link": "https://link.coupang.com/a/f9BGJLUuWq"
+  },
   {
    "uid": "6735911050",
    "mall": "쿠팡",
@@ -3955,28 +3977,6 @@
     }
    ],
    "link": "http://app.ac/AAGOU0583"
-  },
-  {
-   "uid": "3373608852",
-   "mall": "지마켓",
-   "title": "1회착유 100% 통참깨 참기름 350ml 2병",
-   "price": 11790,
-   "image": "https://gdimg.gmarket.co.kr/4362020049/goodsimage",
-   "sentAt": "2026-11-04T15:58:13.143+09:00",
-   "saving": 27,
-   "baseline": 16060,
-   "baselineNote": "판매글 8곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 5895
-   },
-   "comps": [
-    {
-     "name": "판매글 8곳 최저가",
-     "price": 16060
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4362020049"
   }
  ]
 }
