@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-05T22:13:35.124+09:00",
+ "updated": "2026-11-06T00:09:37.442+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "4845853597",
+   "mall": "롯데온",
+   "title": "다우니 초고농축 섬유유연제 탈취파워 목련과베리 1.6Lx3개",
+   "price": 11990,
+   "image": "https://contents.lotteon.com/itemimage/20261105165933/LO/24/26/00/61/64/_2/42/60/06/16/5/LO2426006164_2426006165_1.jpg",
+   "sentAt": "2026-11-06T00:09:37.442+09:00",
+   "saving": 54,
+   "baseline": 26350,
+   "baselineNote": "판매글 17곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 3997
+   },
+   "comps": [
+    {
+     "name": "판매글 17곳 최저가",
+     "price": 26350
+    }
+   ],
+   "link": "http://app.ac/k3CbmVJ03",
+   "web": true
+  },
   {
    "uid": "5701981821",
    "mall": "지마켓",
@@ -4127,19 +4150,6 @@
    "baselineNote": "45곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=3759611316",
-   "web": true
-  },
-  {
-   "uid": "6928610467",
-   "mall": "지마켓",
-   "title": "ph365 베이비유산균 27,420원/키즈유산균 33,140원",
-   "price": 27420,
-   "image": "https://gdimg.gmarket.co.kr/1838184501/goodsimage",
-   "sentAt": "2026-10-22T15:03:17.088+09:00",
-   "saving": 13,
-   "baseline": 31680,
-   "baselineNote": "판매글 4곳 최저가",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=1838184501",
    "web": true
   }
  ]
