@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-05T13:20:31.537+09:00",
+ "updated": "2026-11-05T13:40:12.825+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6850922183",
+   "mall": "롯데온",
+   "title": "칠갑농산 감자수제비 380g x 3개",
+   "price": 7960,
+   "image": "https://contents.lotteon.com/itemimage/20261021111747/LO/27/76/97/08/35/_2/77/69/70/83/6/LO2776970835_2776970836_1.jpg",
+   "sentAt": "2026-11-05T13:40:12.053+09:00",
+   "saving": 28,
+   "baseline": 11050,
+   "baselineNote": "판매글 9곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 2653
+   },
+   "comps": [
+    {
+     "name": "판매글 9곳 최저가",
+     "price": 11050
+    }
+   ],
+   "link": "http://app.ac/rEC4ghS93"
+  },
   {
    "uid": "5977019484",
    "mall": "쿠팡",
@@ -2843,16 +2865,6 @@
    "baseline": 20390,
    "baselineNote": "판매글 9곳 최저가",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4076233103"
-  },
-  {
-   "uid": "3544503457",
-   "mall": "쿠팡",
-   "title": "오설록 제주 순수녹차 2g*20개입*1개",
-   "price": 5600,
-   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/4752405a-923f-4975-a77e-278d2cfec8ba6685532761659597612.png",
-   "sentAt": "2026-11-03T17:43:36.499+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/ingYDSmm8i"
   }
  ]
 }
