@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-05T14:23:23.488+09:00",
+ "updated": "2026-11-05T16:53:12.708+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "7239285398",
+   "mall": "롯데온",
+   "title": "페레로로쉐 3T 16개",
+   "price": 29790,
+   "image": "https://contents.lotteon.com/itemimage/20261102111500/LO/10/01/55/67/08/_1/00/15/56/70/9/LO1001556708_1001556709_1.jpg",
+   "sentAt": "2026-11-05T16:53:12.708+09:00",
+   "saving": 17,
+   "baseline": 35910,
+   "baselineNote": "판매글 13곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 1862
+   },
+   "comps": [
+    {
+     "name": "판매글 13곳 최저가",
+     "price": 35910
+    }
+   ],
+   "link": "http://app.ac/7tnWTUM83",
+   "web": true
+  },
   {
    "uid": "7279431455",
    "mall": "지마켓",
@@ -3795,19 +3818,6 @@
    "baseline": 59310,
    "baselineNote": "판매글 19곳 최저가",
    "link": "https://link.coupang.com/a/h25m7wYfXE",
-   "web": true
-  },
-  {
-   "uid": "1259719004",
-   "mall": "지마켓",
-   "title": "현대에이치티 무타공 푸시풀 도어락 TDL-P1102 자가설치",
-   "price": 89600,
-   "image": "https://gdimg.gmarket.co.kr/4630207890/goodsimage",
-   "sentAt": "2026-10-22T12:35:31.168+09:00",
-   "saving": 14,
-   "baseline": 104358,
-   "baselineNote": "36곳 중 최저 · 무료배송",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4630207890",
    "web": true
   }
  ]
