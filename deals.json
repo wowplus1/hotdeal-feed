@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-06T07:24:18.421+09:00",
+ "updated": "2026-11-06T07:34:08.413+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6735911050",
+   "mall": "쿠팡",
+   "title": "코카콜라 오리지널, 190ml, 30개",
+   "price": 13180,
+   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/89720961368927-a2bc7a57-cb63-4376-b222-56cce7c5c2fd.jpg",
+   "sentAt": "2026-11-06T07:34:07.841+09:00",
+   "saving": 40,
+   "baseline": 21810,
+   "baselineNote": "판매글 13곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 439
+   },
+   "comps": [
+    {
+     "name": "판매글 13곳 최저가",
+     "price": 21810
+    }
+   ],
+   "link": "https://link.coupang.com/a/gfBAmA2fkq"
+  },
   {
    "uid": "7368042702",
    "mall": "쿠팡",
@@ -3955,99 +3977,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4362020049"
-  },
-  {
-   "uid": "1357317751",
-   "mall": "쿠팡",
-   "title": "오뚜기 뿌셔뿌셔 양념치킨맛 90g",
-   "price": 350,
-   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/140111518748304-4a6d9b59-2246-46b9-9ef2-363225a861e1.jpg",
-   "sentAt": "2026-11-04T15:57:04.761+09:00",
-   "saving": 49,
-   "baseline": 690,
-   "baselineNote": "127곳 중 최저",
-   "check": {
-    "market": 690,
-    "malls": 127,
-    "ship": 3000,
-    "delivered": 3690
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": true,
-    "low": 590
-   },
-   "review": {
-    "score": 4.7,
-    "count": 3437,
-    "low": 18
-   },
-   "spec": [
-    "스낵",
-    "HACCP",
-    "저당"
-   ],
-   "comps": [
-    {
-     "name": "127곳 중 최저",
-     "price": 690
-    },
-    {
-     "name": "배송비 3,000원 포함",
-     "price": 3690
-    }
-   ],
-   "trend": [
-    {
-     "m": "25-12",
-     "p": 680
-    },
-    {
-     "m": "26-01",
-     "p": 680
-    },
-    {
-     "m": "26-02",
-     "p": 630
-    },
-    {
-     "m": "26-03",
-     "p": 630
-    },
-    {
-     "m": "26-04",
-     "p": 630
-    },
-    {
-     "m": "26-05",
-     "p": 630
-    },
-    {
-     "m": "26-06",
-     "p": 640
-    },
-    {
-     "m": "26-07",
-     "p": 590
-    },
-    {
-     "m": "26-08",
-     "p": 590
-    },
-    {
-     "m": "26-09",
-     "p": 590
-    },
-    {
-     "m": "26-10",
-     "p": 600
-    },
-    {
-     "m": "26-11",
-     "p": 690
-    }
-   ],
-   "link": "https://link.coupang.com/a/ioOd9KhD7A"
   }
  ]
 }
