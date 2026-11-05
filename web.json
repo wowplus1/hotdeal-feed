@@ -1,7 +1,155 @@
 {
- "updated": "2026-11-05T18:05:24.737+09:00",
+ "updated": "2026-11-05T18:40:15.351+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "4200519643",
+   "mall": "쿠팡",
+   "title": "lg 24u421a fhd 모니터",
+   "price": 117100,
+   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/225874243880045-e419e006-4c34-4aa1-9fa8-640fedd0ae55.jpg",
+   "sentAt": "2026-11-05T18:40:15.351+09:00",
+   "saving": 22,
+   "baseline": 150990,
+   "baselineNote": "94곳 중 최저",
+   "check": {
+    "market": 150990,
+    "malls": 94,
+    "delivered": 154900
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": false,
+    "low": 81000
+   },
+   "spec": [
+    "60.4cm(24인치)",
+    "FHD(1920 x 1080)",
+    "100Hz",
+    "VA",
+    "와이드(16:9)"
+   ],
+   "comps": [
+    {
+     "name": "94곳 중 최저",
+     "price": 150990
+    },
+    {
+     "name": "배송비까지 치면",
+     "price": 154900
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 152440
+    },
+    {
+     "m": "26-01",
+     "p": 149000
+    },
+    {
+     "m": "26-02",
+     "p": 163160
+    },
+    {
+     "m": "26-03",
+     "p": 133450
+    },
+    {
+     "m": "26-04",
+     "p": 131890
+    },
+    {
+     "m": "26-05",
+     "p": 81000
+    },
+    {
+     "m": "26-06",
+     "p": 81000
+    },
+    {
+     "m": "26-07",
+     "p": 123000
+    },
+    {
+     "m": "26-08",
+     "p": 123000
+    },
+    {
+     "m": "26-09",
+     "p": 143220
+    },
+    {
+     "m": "26-10",
+     "p": 107990
+    },
+    {
+     "m": "26-11",
+     "p": 107990
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "TY21A7",
+     "code": "TY21A7",
+     "id": "13369261673",
+     "price": 154900,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4721442302",
+     "price": 155990,
+     "ship": 0
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F528493217",
+     "price": 155990,
+     "ship": 0
+    },
+    {
+     "mall": "엔코퍼레이션",
+     "code": "PR50B",
+     "id": "5743494399",
+     "price": 168710,
+     "ship": 5000
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000808820089",
+     "price": 176802,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9220620689",
+     "price": 180220,
+     "ship": 0
+    },
+    {
+     "mall": "신세계몰",
+     "code": "ED901",
+     "id": "1000806804552",
+     "price": 180280,
+     "ship": 0
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000806804552",
+     "price": 180280,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/iqEOV8Obwi",
+   "web": true
+  },
   {
    "uid": "1180360378",
    "mall": "지마켓",
@@ -3919,16 +4067,6 @@
    "baselineNote": "판매글 3곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4715996843",
-   "web": true
-  },
-  {
-   "uid": "3314806782",
-   "mall": "쿠팡",
-   "title": "미라스 12L 에어프라이어 오븐",
-   "price": 39900,
-   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/295318524043526-c83fcd8d-b6e6-47d4-a220-cfb7b21f689f.jpg",
-   "sentAt": "2026-10-22T14:05:31.955+09:00",
-   "link": "https://link.coupang.com/a/h26qVasBae",
    "web": true
   }
  ]
