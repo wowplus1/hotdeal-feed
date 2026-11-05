@@ -1,7 +1,163 @@
 {
- "updated": "2026-11-05T15:01:49.698+09:00",
+ "updated": "2026-11-05T15:35:28.926+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3872776037",
+   "mall": "쿠팡",
+   "title": "2080 클래식 치약 170g*1개입*10개",
+   "price": 9880,
+   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/4b2e/b5d146b42306b2fc19a071973f3f52833100466deb1e626639129de2d3f5.PNG",
+   "sentAt": "2026-11-05T15:35:28.331+09:00",
+   "saving": 25,
+   "baseline": 13250,
+   "baselineNote": "340곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 988
+   },
+   "check": {
+    "market": 13250,
+    "malls": 340,
+    "delivered": 14965
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 11070
+   },
+   "review": {
+    "score": 4.7,
+    "count": 4432,
+    "low": 11
+   },
+   "spec": [
+    "튜브형",
+    "1000ppm",
+    "프라그제거",
+    "잇몸(치주)질환예방",
+    "충치예방"
+   ],
+   "comps": [
+    {
+     "name": "340곳 중 최저",
+     "price": 13250
+    },
+    {
+     "name": "배송비까지 치면",
+     "price": 14965
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 12270
+    },
+    {
+     "m": "26-01",
+     "p": 12270
+    },
+    {
+     "m": "26-02",
+     "p": 11830
+    },
+    {
+     "m": "26-03",
+     "p": 11710
+    },
+    {
+     "m": "26-04",
+     "p": 11070
+    },
+    {
+     "m": "26-05",
+     "p": 11440
+    },
+    {
+     "m": "26-06",
+     "p": 12610
+    },
+    {
+     "m": "26-07",
+     "p": 13290
+    },
+    {
+     "m": "26-08",
+     "p": 11920
+    },
+    {
+     "m": "26-09",
+     "p": 12980
+    },
+    {
+     "m": "26-10",
+     "p": 13190
+    },
+    {
+     "m": "26-11",
+     "p": 13250
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F700713543",
+     "price": 13250,
+     "ship": 4000
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4892346449",
+     "price": 13260,
+     "ship": 4000
+    },
+    {
+     "mall": "신세계몰",
+     "code": "ED901",
+     "id": "1000434703804",
+     "price": 14965,
+     "ship": 0
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000434703804",
+     "price": 14965,
+     "ship": 0
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000434703804",
+     "price": 14965,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9730292937",
+     "price": 15400,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2662097298",
+     "price": 15630,
+     "ship": 0
+    },
+    {
+     "mall": "nsmall",
+     "code": "ED904",
+     "id": "35875850",
+     "price": 16500,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/hy1M9uqjls"
+  },
   {
    "uid": "7574279242",
    "mall": "쿠팡",
@@ -2992,19 +3148,6 @@
    "baselineNote": "639곳 중 최저",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2135015418"
-  },
-  {
-   "uid": "1876953766",
-   "mall": "11번가",
-   "title": "리큐 클린파워 액체세제 일반용 2L, 4개",
-   "price": 10920,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/8319390542/B.webp",
-   "sentAt": "2026-11-03T19:44:25.465+09:00",
-   "saving": 48,
-   "baseline": 20830,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/7tV8gUM13"
   }
  ]
 }
