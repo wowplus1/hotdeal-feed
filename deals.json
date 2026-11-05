@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-05T19:45:11.061+09:00",
+ "updated": "2026-11-05T20:51:16.376+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4947393379",
+   "mall": "토스쇼핑",
+   "title": "코오롱제약 올인원 하루한알 멀티비타민, 60정, 2개",
+   "price": 8790,
+   "image": "https://shopping.toss.im/live/temp/2026-08-10/b60d9a5c-9d9f-4124-bc14-d6244563f453.png",
+   "sentAt": "2026-11-05T20:51:15.607+09:00",
+   "saving": 29,
+   "baseline": 12420,
+   "baselineNote": "판매글 11곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 4395
+   },
+   "comps": [
+    {
+     "name": "판매글 11곳 최저가",
+     "price": 12420
+    }
+   ],
+   "link": "https://toss.im/_m/lngqnn1l"
+  },
   {
    "uid": "6768340182",
    "mall": "롯데온",
@@ -3749,19 +3771,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4350287851"
-  },
-  {
-   "uid": "2620790448",
-   "mall": "지마켓",
-   "title": "전남 새청무 특등급 백미 10kg",
-   "price": 29240,
-   "image": "https://gdimg.gmarket.co.kr/4765694616/goodsimage",
-   "sentAt": "2026-11-04T11:08:27.066+09:00",
-   "saving": 23,
-   "baseline": 38190,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4765694616"
   }
  ]
 }
