@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-05T11:13:43.944+09:00",
+ "updated": "2026-11-05T12:03:29.535+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "3664460233",
+   "mall": "지마켓",
+   "title": "MP243W E14 24인치 IPS 144Hz 화이트 모니터",
+   "price": 127600,
+   "image": "https://gdimg.gmarket.co.kr/4685773572/goodsimage",
+   "sentAt": "2026-11-05T12:03:29.535+09:00",
+   "saving": 46,
+   "baseline": 237210,
+   "baselineNote": "판매글 5곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 5곳 최저가",
+     "price": 237210
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4685773572",
+   "web": true
+  },
   {
    "uid": "1468938715",
    "mall": "지마켓",
@@ -3396,20 +3415,6 @@
    "baselineNote": "판매글 3곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/ibp01Zl63",
-   "web": true
-  },
-  {
-   "uid": "6850922183",
-   "mall": "롯데온",
-   "title": "칠갑농산 감자수제비 380g x 3개",
-   "price": 7990,
-   "image": "https://contents.lotteon.com/itemimage/20261021111747/LO/27/76/97/08/35/_2/77/69/70/83/6/LO2776970835_2776970836_1.jpg",
-   "sentAt": "2026-10-22T00:11:40.017+09:00",
-   "saving": 40,
-   "baseline": 13230,
-   "baselineNote": "판매글 8곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/rEC4ghS93",
    "web": true
   }
  ]
