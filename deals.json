@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-05T21:28:25.010+09:00",
+ "updated": "2026-11-06T07:09:31.500+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3266866090",
+   "mall": "쿠팡",
+   "title": "오뚜기 라면의 맵쏘디 120g, 10개",
+   "price": 4580,
+   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/15562985735773-e85ac83f-2a84-4e02-8453-40083a2aedce.jpg",
+   "sentAt": "2026-11-06T07:09:30.666+09:00",
+   "saving": 52,
+   "baseline": 9630,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 458
+   },
+   "comps": [
+    {
+     "name": "판매글 3곳 최저가",
+     "price": 9630
+    }
+   ],
+   "link": "https://link.coupang.com/a/hjLTmGKYiO"
+  },
   {
    "uid": "8034980164",
    "mall": "쿠팡",
@@ -3867,24 +3889,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/hScM2jg4uO"
-  },
-  {
-   "uid": "1011128341",
-   "mall": "지마켓",
-   "title": "나이키 FQ5815-010 크로스백",
-   "price": 15410,
-   "image": "https://gdimg.gmarket.co.kr/3099706825/goodsimage",
-   "sentAt": "2026-11-04T13:38:19.432+09:00",
-   "saving": 27,
-   "baseline": 21120,
-   "baselineNote": "판매글 39곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 39곳 최저가",
-     "price": 21120
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=3099706825"
   }
  ]
 }
