@@ -1,7 +1,16 @@
 {
- "updated": "2026-11-05T10:35:29.348+09:00",
+ "updated": "2026-11-05T11:04:01.857+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5106129313",
+   "mall": "지마켓",
+   "title": "원물 8kg 이상 자연산 대방어 500g",
+   "price": 25370,
+   "image": "https://gdimg.gmarket.co.kr/4879053233/goodsimage",
+   "sentAt": "2026-11-05T11:04:01.119+09:00",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4879053233"
+  },
   {
    "uid": "8523362735",
    "mall": "지마켓",
@@ -2478,18 +2487,6 @@
    "baselineNote": "판매글 4곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/inbZnqRXqu"
-  },
-  {
-   "uid": "4581987714",
-   "mall": "11번가",
-   "title": "가그린 구강청결제 검가드 오리지널 750ml, 4개+증정",
-   "price": 19380,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/6422610956/B.jpg?171870814",
-   "sentAt": "2026-11-03T15:30:21.896+09:00",
-   "saving": 22,
-   "baseline": 24922,
-   "baselineNote": "71곳 중 최저 · 무료배송",
-   "link": "http://app.ac/b3CE7mJ23"
   }
  ]
 }
