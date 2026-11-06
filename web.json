@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-06T08:43:09.019+09:00",
+ "updated": "2026-11-06T10:20:19.278+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "5433100401",
+   "mall": "지마켓",
+   "title": "밀크앤허니 모닝빵 생지 2520g + 크로아상 생지 2250g",
+   "price": 19930,
+   "image": "https://gdimg.gmarket.co.kr/3389690785/goodsimage",
+   "sentAt": "2026-11-06T10:20:19.278+09:00",
+   "saving": 17,
+   "baseline": 24030,
+   "baselineNote": "판매글 5곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 5곳 최저가",
+     "price": 24030
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=3389690785",
+   "web": true
+  },
   {
    "uid": "7368864803",
    "mall": "쿠팡",
@@ -4406,19 +4425,6 @@
    "baselineNote": "판매글 5곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2245185636",
-   "web": true
-  },
-  {
-   "uid": "1438239297",
-   "mall": "쿠팡",
-   "title": "솔가 네이처바이트 종합비타민 위드 미네랄 90정",
-   "price": 28000,
-   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/359332521158578-449f0ee5-2ee8-4514-8417-6d9a9cd1452b.png",
-   "sentAt": "2026-10-22T23:26:34.436+09:00",
-   "saving": 71,
-   "baseline": 97900,
-   "baselineNote": "35곳 중 최저 · 무료배송",
-   "link": "https://link.coupang.com/a/h3Kw57S37Q",
    "web": true
   }
  ]
