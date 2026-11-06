@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-06T15:14:14.765+09:00",
+ "updated": "2026-11-06T16:39:28.838+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4965422530",
+   "mall": "쿠팡",
+   "title": "틈새라면 고기짬뽕 120g, 4개",
+   "price": 4470,
+   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2297145409799393-b884088d-2586-4389-80d4-ae67efe2ab4d.jpg",
+   "sentAt": "2026-11-06T16:39:27.574+09:00",
+   "saving": 50,
+   "baseline": 8980,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 1118
+   },
+   "comps": [
+    {
+     "name": "판매글 3곳 최저가",
+     "price": 8980
+    }
+   ],
+   "link": "https://link.coupang.com/a/ibwtvFwg8a"
+  },
   {
    "uid": "1608389926",
    "mall": "지마켓",
@@ -4080,24 +4102,6 @@
    "image": "https://gdimg.gmarket.co.kr/4879053233/goodsimage",
    "sentAt": "2026-11-05T11:04:01.119+09:00",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4879053233"
-  },
-  {
-   "uid": "8523362735",
-   "mall": "지마켓",
-   "title": "두부 어묵바 150g x 6팩 총 30개",
-   "price": 9970,
-   "image": "https://gdimg.gmarket.co.kr/4821920176/goodsimage",
-   "sentAt": "2026-11-05T10:35:28.452+09:00",
-   "saving": 28,
-   "baseline": 13780,
-   "baselineNote": "판매글 8곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 8곳 최저가",
-     "price": 13780
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4821920176"
   }
  ]
 }
