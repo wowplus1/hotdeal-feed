@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-06T15:59:02.163+09:00",
+ "updated": "2026-11-06T16:03:40.715+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "1009770997",
+   "mall": "롯데온",
+   "title": "츄파춥스 팝아트틴 150입 + 한정판 블루투스 스피커",
+   "price": 16910,
+   "image": "https://contents.lotteon.com/itemimage/20261012141037/LO/27/91/38/24/27/_2/79/13/82/44/4/LO2791382427_2791382444_1.jpg",
+   "sentAt": "2026-11-06T16:03:40.715+09:00",
+   "saving": 42,
+   "baseline": 29350,
+   "baselineNote": "판매글 26곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 26곳 최저가",
+     "price": 29350
+    }
+   ],
+   "link": "http://app.ac/63MoVmJ23",
+   "web": true
+  },
   {
    "uid": "1227988800",
    "mall": "롯데온",
@@ -4163,19 +4182,6 @@
    "baseline": 60630,
    "baselineNote": "판매글 18곳 최저가",
    "link": "https://link.coupang.com/a/hqsKqVE2eW",
-   "web": true
-  },
-  {
-   "uid": "1009770997",
-   "mall": "롯데온",
-   "title": "츄파춥스 팝아트틴 150입 + 한정판 블루투스 스피커",
-   "price": 16900,
-   "image": "https://contents.lotteon.com/itemimage/20261012141037/LO/27/91/38/24/27/_2/79/13/82/44/4/LO2791382427_2791382444_1.jpg",
-   "sentAt": "2026-10-28T13:51:26.658+09:00",
-   "saving": 46,
-   "baseline": 31260,
-   "baselineNote": "판매글 24곳 최저가",
-   "link": "http://app.ac/63MoVmJ23",
    "web": true
   },
   {
