@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-06T09:24:18.580+09:00",
+ "updated": "2026-11-06T09:28:21.915+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4877825322",
+   "mall": "지마켓",
+   "title": "제스프리 점보 썬골드키위 20입 총 3.1kg내외",
+   "price": 18140,
+   "image": "https://gdimg.gmarket.co.kr/2958212252/goodsimage",
+   "sentAt": "2026-11-06T09:28:21.368+09:00",
+   "saving": 24,
+   "baseline": 23940,
+   "baselineNote": "판매글 7곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 907
+   },
+   "comps": [
+    {
+     "name": "판매글 7곳 최저가",
+     "price": 23940
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2958212252"
+  },
   {
    "uid": "9303798590",
    "mall": "쿠팡",
@@ -4152,102 +4174,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2152460755"
-  },
-  {
-   "uid": "7418176966",
-   "mall": "쿠팡",
-   "title": "오뚜기 진라면 약간매운맛 120g 5개",
-   "price": 2600,
-   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/05/20/17/6/ce6b9a20-fda0-434c-bd57-d7dce9284033.jpg",
-   "sentAt": "2026-11-04T18:04:30.420+09:00",
-   "saving": 21,
-   "baseline": 3310,
-   "baselineNote": "82곳 중 최저",
-   "unit": {
-    "label": "개당",
-    "value": 520
-   },
-   "check": {
-    "market": 3310,
-    "malls": 82,
-    "delivered": 5580
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": false,
-    "low": 2230
-   },
-   "review": {
-    "score": 4.9,
-    "count": 6879,
-    "low": 1
-   },
-   "spec": [
-    "봉지라면",
-    "국물라면",
-    "기본면"
-   ],
-   "comps": [
-    {
-     "name": "82곳 중 최저",
-     "price": 3310
-    },
-    {
-     "name": "배송비까지 치면",
-     "price": 5580
-    }
-   ],
-   "trend": [
-    {
-     "m": "25-12",
-     "p": 3750
-    },
-    {
-     "m": "26-01",
-     "p": 2230
-    },
-    {
-     "m": "26-02",
-     "p": 2230
-    },
-    {
-     "m": "26-03",
-     "p": 2230
-    },
-    {
-     "m": "26-04",
-     "p": 2230
-    },
-    {
-     "m": "26-05",
-     "p": 2230
-    },
-    {
-     "m": "26-06",
-     "p": 2230
-    },
-    {
-     "m": "26-07",
-     "p": 3210
-    },
-    {
-     "m": "26-08",
-     "p": 3500
-    },
-    {
-     "m": "26-09",
-     "p": 3220
-    },
-    {
-     "m": "26-10",
-     "p": 2880
-    },
-    {
-     "m": "26-11",
-     "p": 3310
-    }
-   ],
-   "link": "https://link.coupang.com/a/ioXlMV6RFY"
   }
  ]
 }
