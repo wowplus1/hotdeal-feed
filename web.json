@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-07T01:14:52.955+09:00",
+ "updated": "2026-11-07T03:38:39.742+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "6046853239",
+   "mall": "지마켓",
+   "title": "AULA kunlun X5 독슈스 햅틱 마우스 paw3955 8k",
+   "price": 62500,
+   "image": "https://gdimg.gmarket.co.kr/4888295934/goodsimage",
+   "sentAt": "2026-11-07T03:38:39.742+09:00",
+   "saving": 27,
+   "baseline": 86080,
+   "baselineNote": "판매글 12곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 12곳 최저가",
+     "price": 86080
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4888295934",
+   "web": true
+  },
   {
    "uid": "8232857719",
    "mall": "쿠팡",
@@ -4797,20 +4816,6 @@
    "baselineNote": "89곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/h3deMatd9g",
-   "web": true
-  },
-  {
-   "uid": "1143799161",
-   "mall": "롯데온",
-   "title": "백미밥 200g 24개",
-   "price": 19530,
-   "image": "https://contents.lotteon.com/itemimage/20261023093710/LO/26/88/38/95/49/_2/68/83/89/55/0/LO2688389549_2688389550_1.jpg",
-   "sentAt": "2026-10-24T00:10:47.577+09:00",
-   "saving": 49,
-   "baseline": 38480,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/0qnadL283",
    "web": true
   }
  ]
