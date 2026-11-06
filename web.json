@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-07T00:08:25.813+09:00",
+ "updated": "2026-11-07T00:20:13.372+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "8357495935",
+   "mall": "11번가",
+   "title": "스너글 초고농축 섬유유연제 허거블코튼 용기, 2L, 1개 + 리필, 2.6L , 1개",
+   "price": 15150,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/7565511404/B.webp?441091743",
+   "sentAt": "2026-11-07T00:20:13.372+09:00",
+   "saving": 35,
+   "baseline": 23160,
+   "baselineNote": "판매글 9곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 9곳 최저가",
+     "price": 23160
+    }
+   ],
+   "link": "http://app.ac/LtnK9WM93",
+   "web": true
+  },
   {
    "uid": "7434824866",
    "mall": "지마켓",
@@ -4762,20 +4781,6 @@
    "baseline": 158250,
    "baselineNote": "판매글 39곳 최저가",
    "link": "http://app.ac/C3M4VfJ43",
-   "web": true
-  },
-  {
-   "uid": "2553743048",
-   "mall": "롯데온",
-   "title": "올반키친 아삭김치볶음밥 220g*10개",
-   "price": 13890,
-   "image": "https://contents.lotteon.com/itemimage/20261022131532/LO/27/99/16/23/19/bndl_img/LO2799162319_1.jpg",
-   "sentAt": "2026-10-23T11:30:41.823+09:00",
-   "saving": 31,
-   "baseline": 20250,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/KjwBXga83",
    "web": true
   }
  ]
