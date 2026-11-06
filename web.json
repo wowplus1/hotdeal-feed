@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-06T16:03:40.715+09:00",
+ "updated": "2026-11-06T22:34:27.160+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "1526235100",
+   "mall": "쿠팡",
+   "title": "오리온 돌아온 태양의 맛 썬, 135g, 5개",
+   "price": 8060,
+   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/58727107952865-ef56b79b-f846-494a-b509-53c99995367c.jpg",
+   "sentAt": "2026-11-06T22:34:27.160+09:00",
+   "saving": 62,
+   "baseline": 21156,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 1612
+   },
+   "comps": [
+    {
+     "name": "판매글 5곳 최저가",
+     "price": 21156
+    }
+   ],
+   "link": "https://link.coupang.com/a/isAr1DOVDo",
+   "web": true
+  },
   {
    "uid": "1009770997",
    "mall": "롯데온",
@@ -4639,20 +4662,6 @@
    "baselineNote": "판매글 13곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=1629118871",
-   "web": true
-  },
-  {
-   "uid": "7354375525",
-   "mall": "쿠팡",
-   "title": "퍼실 뉴 디스크 파워 캡슐세제 파우치 26개입 1개",
-   "price": 9940,
-   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/04/17/12/5/4d308eb5-422a-4d45-93ea-8cf75a5c366b.jpg",
-   "sentAt": "2026-10-23T07:45:19.267+09:00",
-   "saving": 18,
-   "baseline": 12140,
-   "baselineNote": "213곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/h4kbUhC1eK",
    "web": true
   }
  ]
