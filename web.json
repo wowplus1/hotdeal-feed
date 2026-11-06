@@ -1,7 +1,120 @@
 {
- "updated": "2026-11-06T22:34:27.160+09:00",
+ "updated": "2026-11-06T22:46:46.895+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "7841413372",
+   "mall": "쿠팡",
+   "title": "추억의국민학교떡볶이 오리지널 , 600g, 2개",
+   "price": 6790,
+   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/6607017a-725d-44d4-98f1-658951625a108957023136289230174.png",
+   "sentAt": "2026-11-06T22:46:46.895+09:00",
+   "saving": 46,
+   "baseline": 12610,
+   "baselineNote": "6곳 중 최저 · 무료배송",
+   "unit": {
+    "label": "개당",
+    "value": 3395
+   },
+   "check": {
+    "market": 12610,
+    "malls": 6,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 6800
+   },
+   "comps": [
+    {
+     "name": "6곳 중 최저 · 무료배송",
+     "price": 12610
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 9520
+    },
+    {
+     "m": "26-01",
+     "p": 9520
+    },
+    {
+     "m": "26-02",
+     "p": 9490
+    },
+    {
+     "m": "26-03",
+     "p": 9490
+    },
+    {
+     "m": "26-04",
+     "p": 9490
+    },
+    {
+     "m": "26-05",
+     "p": 9990
+    },
+    {
+     "m": "26-06",
+     "p": 9990
+    },
+    {
+     "m": "26-07",
+     "p": 11700
+    },
+    {
+     "m": "26-08",
+     "p": 6800
+    },
+    {
+     "m": "26-09",
+     "p": 11440
+    },
+    {
+     "m": "26-10",
+     "p": 11050
+    },
+    {
+     "m": "26-11",
+     "p": 12610
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4100215809",
+     "price": 12610,
+     "ship": 0
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "E682831240",
+     "price": 13000,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2725098956",
+     "price": 15670,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9497494028",
+     "price": 15940,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/gchBLhlEWW",
+   "web": true
+  },
   {
    "uid": "1526235100",
    "mall": "쿠팡",
@@ -4648,20 +4761,6 @@
    "baselineNote": "45곳 중 최저",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=3605787557",
-   "web": true
-  },
-  {
-   "uid": "6082549264",
-   "mall": "지마켓",
-   "title": "오리온 썬 갈릭바게트 80g 12개",
-   "price": 11380,
-   "image": "https://gdimg.gmarket.co.kr/1629118871/goodsimage",
-   "sentAt": "2026-10-23T10:14:58.709+09:00",
-   "saving": 37,
-   "baseline": 17960,
-   "baselineNote": "판매글 13곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=1629118871",
    "web": true
   }
  ]
