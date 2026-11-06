@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-06T14:46:25.885+09:00",
+ "updated": "2026-11-06T14:56:41.211+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2586369238",
+   "mall": "토스쇼핑",
+   "title": "키친아트 멀티 마늘 다지기 KM-N14FM, 2L, 1개",
+   "price": 22860,
+   "image": "https://shopping.toss.im/live/taca/ai/NDZhNGRi/QU14OGJzUm14TmplTHhQcDI3QWZsMm1WbXpNbGttd3pJVzhCeU41dkJIK1I.png",
+   "sentAt": "2026-11-06T14:56:40.581+09:00",
+   "saving": 23,
+   "baseline": 29610,
+   "baselineNote": "판매글 17곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 17곳 최저가",
+     "price": 29610
+    }
+   ],
+   "link": "https://toss.im/_m/XrpIvprn"
+  },
   {
    "uid": "6010619724",
    "mall": "토스쇼핑",
@@ -4263,135 +4281,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/ip48eaGsfc"
-  },
-  {
-   "uid": "3130651885",
-   "mall": "GS SHOP",
-   "title": "잇몸치약 100g x 4개",
-   "price": 10900,
-   "image": "https://asset.m-gs.kr/prod/1134512879/1/280",
-   "sentAt": "2026-11-05T10:19:47.125+09:00",
-   "saving": 41,
-   "baseline": 18630,
-   "baselineNote": "88곳 중 최저",
-   "unit": {
-    "label": "개당",
-    "value": 2725
-   },
-   "check": {
-    "market": 18630,
-    "malls": 88,
-    "ship": 3000,
-    "delivered": 21630
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": true,
-    "low": 17220
-   },
-   "review": {
-    "score": 4.8,
-    "count": 416,
-    "low": 2
-   },
-   "spec": [
-    "튜브형",
-    "1000ppm",
-    "프라그제거",
-    "잇몸(치주)질환예방",
-    "충치예방"
-   ],
-   "comps": [
-    {
-     "name": "88곳 중 최저",
-     "price": 18630
-    },
-    {
-     "name": "배송비 3,000원 포함",
-     "price": 21630
-    }
-   ],
-   "trend": [
-    {
-     "m": "25-12",
-     "p": 17640
-    },
-    {
-     "m": "26-01",
-     "p": 18050
-    },
-    {
-     "m": "26-02",
-     "p": 17380
-    },
-    {
-     "m": "26-03",
-     "p": 17430
-    },
-    {
-     "m": "26-04",
-     "p": 17370
-    },
-    {
-     "m": "26-05",
-     "p": 17440
-    },
-    {
-     "m": "26-06",
-     "p": 17440
-    },
-    {
-     "m": "26-07",
-     "p": 17900
-    },
-    {
-     "m": "26-08",
-     "p": 17930
-    },
-    {
-     "m": "26-09",
-     "p": 17220
-    },
-    {
-     "m": "26-10",
-     "p": 18260
-    },
-    {
-     "m": "26-11",
-     "p": 18200
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "6833835930",
-     "price": 18630,
-     "ship": 3000
-    },
-    {
-     "mall": "롯데ON",
-     "code": "EE309",
-     "id": "LO2248179522",
-     "price": 18640,
-     "ship": 3000
-    },
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "3477654456",
-     "price": 18690,
-     "ship": 3000
-    },
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "D876752669",
-     "price": 18690,
-     "ship": 3000
-    }
-   ],
-   "link": "http://app.ac/RECrd3S43"
   }
  ]
 }
