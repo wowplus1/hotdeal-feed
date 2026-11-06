@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-06T17:38:12.434+09:00",
+ "updated": "2026-11-06T18:01:05.685+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1018841648",
+   "mall": "지마켓",
+   "title": "팸퍼스 터치오브네이처 2박스 95,790원/100,440원",
+   "price": 95790,
+   "image": "https://gdimg.gmarket.co.kr/4358723482/goodsimage",
+   "sentAt": "2026-11-06T18:01:04.697+09:00",
+   "saving": 36,
+   "baseline": 149800,
+   "baselineNote": "판매글 22곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 22곳 최저가",
+     "price": 149800
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4358723482"
+  },
   {
    "uid": "1735087722",
    "mall": "롯데온",
@@ -3995,126 +4013,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iqbi4vzpdc"
-  },
-  {
-   "uid": "2033544812",
-   "mall": "쿠팡",
-   "title": "이금기 팬더 굴소스 320g 2개",
-   "price": 4980,
-   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/dfaa77a1-e3be-4adb-9c62-fca730739a389495682882417082134.png",
-   "sentAt": "2026-11-05T11:24:57.961+09:00",
-   "saving": 52,
-   "baseline": 10350,
-   "baselineNote": "56곳 중 최저 · 무료배송",
-   "unit": {
-    "label": "개당",
-    "value": 2490
-   },
-   "check": {
-    "market": 10350,
-    "malls": 56,
-    "ship": 0
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": false,
-    "low": 4980
-   },
-   "spec": [
-    "튜브형",
-    "굴추출물농축액 80%"
-   ],
-   "comps": [
-    {
-     "name": "56곳 중 최저 · 무료배송",
-     "price": 10350
-    }
-   ],
-   "trend": [
-    {
-     "m": "26-06",
-     "p": 8900
-    },
-    {
-     "m": "26-07",
-     "p": 9070
-    },
-    {
-     "m": "26-08",
-     "p": 4980
-    },
-    {
-     "m": "26-09",
-     "p": 4980
-    },
-    {
-     "m": "26-10",
-     "p": 9430
-    },
-    {
-     "m": "26-11",
-     "p": 9430
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "9548888901",
-     "price": 10350,
-     "ship": 0
-    },
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "4826521340",
-     "price": 10360,
-     "ship": 0
-    },
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "F634430989",
-     "price": 10360,
-     "ship": 0
-    },
-    {
-     "mall": "롯데ON",
-     "code": "EE309",
-     "id": "LO2683436592",
-     "price": 11490,
-     "ship": 0
-    },
-    {
-     "mall": "SSG.COM",
-     "code": "TN118",
-     "id": "1000857509562",
-     "price": 11537,
-     "ship": 0
-    },
-    {
-     "mall": "이마트몰",
-     "code": "EE311",
-     "id": "1000857509562",
-     "price": 11537,
-     "ship": 0
-    },
-    {
-     "mall": "신세계몰",
-     "code": "ED901",
-     "id": "1000857509562",
-     "price": 11537,
-     "ship": 0
-    },
-    {
-     "mall": "롯데홈쇼핑",
-     "code": "ED903",
-     "id": "3324764918",
-     "price": 11660,
-     "ship": 0
-    }
-   ],
-   "link": "https://link.coupang.com/a/ip9JKXEaDA"
   }
  ]
 }
