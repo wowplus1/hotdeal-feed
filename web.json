@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-07T00:20:13.372+09:00",
+ "updated": "2026-11-07T00:32:59.370+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "1803769407",
+   "mall": "지마켓",
+   "title": "농부의아침 쌀10kg 상등급",
+   "price": 26950,
+   "image": "https://gdimg.gmarket.co.kr/484828506/goodsimage",
+   "sentAt": "2026-11-07T00:32:59.370+09:00",
+   "saving": 21,
+   "baseline": 33900,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": {
+    "label": "100g당",
+    "value": 270
+   },
+   "comps": [
+    {
+     "name": "판매글 4곳 최저가",
+     "price": 33900
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=484828506",
+   "web": true
+  },
   {
    "uid": "8357495935",
    "mall": "11번가",
@@ -4768,19 +4791,6 @@
    "baseline": 46900,
    "baselineNote": "판매글 8곳 최저가",
    "link": "http://app.ac/0tVQRVM73",
-   "web": true
-  },
-  {
-   "uid": "7510087519",
-   "mall": "롯데온",
-   "title": "베이직 남성 미들 기본형 중기장 다운 남자패딩 DMW25583",
-   "price": 132900,
-   "image": "https://contents.lotteon.com/itemimage/20261006175831/LE/12/22/10/65/10/_1/33/40/07/78/1/LE1222106510_1334007781_1.jpg",
-   "sentAt": "2026-10-23T17:14:20.412+09:00",
-   "saving": 16,
-   "baseline": 158250,
-   "baselineNote": "판매글 39곳 최저가",
-   "link": "http://app.ac/C3M4VfJ43",
    "web": true
   }
  ]
