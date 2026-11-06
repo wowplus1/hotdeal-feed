@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-06T12:42:18.919+09:00",
+ "updated": "2026-11-06T12:46:21.739+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6920923221",
+   "mall": "토스쇼핑",
+   "title": "퍼니트 올인원 이뮨 멀티비타민, 28개입, 1박스",
+   "price": 25950,
+   "image": "https://shopping.toss.im/live/taca/ai/NjE1MWMy/QUl6bDA1ckVZRmc1MVpiS3JYUlM3bTExMXFadk4zQmFZOVdzTVJJaU5RYXA.png",
+   "sentAt": "2026-11-06T12:46:21.064+09:00",
+   "unit": {
+    "label": "개당",
+    "value": 927
+   },
+   "link": "https://toss.im/_m/PNzhubus"
+  },
   {
    "uid": "3908534407",
    "mall": "쿠팡",
@@ -4360,103 +4373,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/ip2afZxu1c"
-  },
-  {
-   "uid": "6860847970",
-   "mall": "쿠팡",
-   "title": "바세린 인텐시브 케어 드라이 스킨 리페어 바디로션 400ml 2개",
-   "price": 8670,
-   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/568144712991851-c8e2e9fd-65d2-4e02-85b8-cbdf0a37c3e9.png",
-   "sentAt": "2026-11-05T08:58:26.409+09:00",
-   "saving": 26,
-   "baseline": 11730,
-   "baselineNote": "54곳 중 최저",
-   "unit": {
-    "label": "개당",
-    "value": 4335
-   },
-   "check": {
-    "market": 11730,
-    "malls": 54,
-    "delivered": 11990
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": true,
-    "low": 10750
-   },
-   "review": {
-    "score": 4.7,
-    "count": 186,
-    "low": 1
-   },
-   "spec": [
-    "건성",
-    "모든피부",
-    "수분증발차단, 피부보습, 피부보호",
-    "펌프형"
-   ],
-   "comps": [
-    {
-     "name": "54곳 중 최저",
-     "price": 11730
-    },
-    {
-     "name": "배송비까지 치면",
-     "price": 11990
-    }
-   ],
-   "trend": [
-    {
-     "m": "25-12",
-     "p": 12960
-    },
-    {
-     "m": "26-01",
-     "p": 10800
-    },
-    {
-     "m": "26-02",
-     "p": 12340
-    },
-    {
-     "m": "26-03",
-     "p": 11600
-    },
-    {
-     "m": "26-04",
-     "p": 11620
-    },
-    {
-     "m": "26-05",
-     "p": 11790
-    },
-    {
-     "m": "26-06",
-     "p": 11790
-    },
-    {
-     "m": "26-07",
-     "p": 10950
-    },
-    {
-     "m": "26-08",
-     "p": 12320
-    },
-    {
-     "m": "26-09",
-     "p": 10750
-    },
-    {
-     "m": "26-10",
-     "p": 11790
-    },
-    {
-     "m": "26-11",
-     "p": 11930
-    }
-   ],
-   "link": "https://link.coupang.com/a/ipZe9jEt6O"
   }
  ]
 }
