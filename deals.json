@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-06T10:08:29.128+09:00",
+ "updated": "2026-11-06T10:58:32.281+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6517890047",
+   "mall": "지마켓",
+   "title": "제주 노지감귤 9kg 중대과",
+   "price": 8600,
+   "image": "https://gdimg.gmarket.co.kr/4560279101/goodsimage",
+   "sentAt": "2026-11-06T10:58:31.202+09:00",
+   "saving": 30,
+   "baseline": 12320,
+   "baselineNote": "판매글 17곳 최저가",
+   "unit": {
+    "label": "100g당",
+    "value": 96
+   },
+   "comps": [
+    {
+     "name": "판매글 17곳 최저가",
+     "price": 12320
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4560279101"
+  },
   {
    "uid": "6639204438",
    "mall": "쿠팡",
@@ -4331,28 +4353,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4645690441"
-  },
-  {
-   "uid": "4572278374",
-   "mall": "11번가",
-   "title": "하테 국산 남원 추어탕 500g x 5팩",
-   "price": 13900,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/7335366814/B.webp?407533082",
-   "sentAt": "2026-11-04T21:03:45.088+09:00",
-   "saving": 22,
-   "baseline": 17900,
-   "baselineNote": "다른 곳 최저",
-   "unit": {
-    "label": "개당",
-    "value": 2780
-   },
-   "comps": [
-    {
-     "name": "다른 곳 최저",
-     "price": 17900
-    }
-   ],
-   "link": "http://app.ac/uqDW3t213"
   }
  ]
 }
