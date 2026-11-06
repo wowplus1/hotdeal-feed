@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-06T16:39:28.838+09:00",
+ "updated": "2026-11-06T17:38:12.434+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1735087722",
+   "mall": "롯데온",
+   "title": "청라상회 원적외선 구운계란 대란 60구/ 무항생제 맥반석계란 HACCP 햇썹 인증",
+   "price": 15690,
+   "image": "https://contents.lotteon.com/itemimage/20261105173019/LO/27/51/88/14/28/_2/75/18/81/43/7/LO2751881428_2751881437_1.jpg",
+   "sentAt": "2026-11-06T17:38:11.839+09:00",
+   "saving": 29,
+   "baseline": 22250,
+   "baselineNote": "판매글 8곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 262
+   },
+   "comps": [
+    {
+     "name": "판매글 8곳 최저가",
+     "price": 22250
+    }
+   ],
+   "link": "http://app.ac/x3CAiDJ33"
+  },
   {
    "uid": "4965422530",
    "mall": "쿠팡",
@@ -4093,15 +4115,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/ip9JKXEaDA"
-  },
-  {
-   "uid": "5106129313",
-   "mall": "지마켓",
-   "title": "원물 8kg 이상 자연산 대방어 500g",
-   "price": 25370,
-   "image": "https://gdimg.gmarket.co.kr/4879053233/goodsimage",
-   "sentAt": "2026-11-05T11:04:01.119+09:00",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4879053233"
   }
  ]
 }
