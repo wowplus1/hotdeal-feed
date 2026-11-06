@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-06T12:46:21.739+09:00",
+ "updated": "2026-11-06T12:58:44.987+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2290444888",
+   "mall": "11번가",
+   "title": "지아자 산양유 고보습 대용량 바디로션 400ml 2개",
+   "price": 9670,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/0/3/2/9/3/2/ULXwe/8877032932_241977994.webp",
+   "sentAt": "2026-11-06T12:58:44.057+09:00",
+   "saving": 21,
+   "baseline": 12250,
+   "baselineNote": "판매글 8곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 4835
+   },
+   "comps": [
+    {
+     "name": "판매글 8곳 최저가",
+     "price": 12250
+    }
+   ],
+   "link": "http://app.ac/kAVW8w503"
+  },
   {
    "uid": "6920923221",
    "mall": "토스쇼핑",
@@ -4351,28 +4373,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2230897307"
-  },
-  {
-   "uid": "1848247903",
-   "mall": "쿠팡",
-   "title": "농심 빵부장 초코빵, 55g, 4개",
-   "price": 3600,
-   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/61906224743559-4dca4250-fe47-4650-b87d-7278be021182.png",
-   "sentAt": "2026-11-05T09:40:14.423+09:00",
-   "saving": 50,
-   "baseline": 7150,
-   "baselineNote": "판매글 25곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 900
-   },
-   "comps": [
-    {
-     "name": "판매글 25곳 최저가",
-     "price": 7150
-    }
-   ],
-   "link": "https://link.coupang.com/a/ip2afZxu1c"
   }
  ]
 }
