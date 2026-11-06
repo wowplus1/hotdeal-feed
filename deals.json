@@ -1,7 +1,24 @@
 {
- "updated": "2026-11-06T21:23:48.322+09:00",
+ "updated": "2026-11-07T07:25:25.841+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7653713188",
+   "mall": "쿠팡",
+   "title": "롯데 칠성사이다, 210ml, 30개",
+   "price": 11060,
+   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/89292073074044-cf51f14e-388e-4764-bff6-9481c3f0e694.jpg",
+   "sentAt": "2026-11-07T07:25:24.873+09:00",
+   "unit": {
+    "label": "개당",
+    "value": 369
+   },
+   "alt": {
+    "price": 13120,
+    "where": "455곳 중 최저"
+   },
+   "link": "https://link.coupang.com/a/gRD6wiDMRM"
+  },
   {
    "uid": "9491887076",
    "mall": "롯데온",
@@ -3756,28 +3773,6 @@
     "ship": 0
    },
    "link": "https://link.coupang.com/a/f9zGHqcznM"
-  },
-  {
-   "uid": "6850922183",
-   "mall": "롯데온",
-   "title": "칠갑농산 감자수제비 380g x 3개",
-   "price": 7960,
-   "image": "https://contents.lotteon.com/itemimage/20261021111747/LO/27/76/97/08/35/_2/77/69/70/83/6/LO2776970835_2776970836_1.jpg",
-   "sentAt": "2026-11-05T13:40:12.053+09:00",
-   "saving": 28,
-   "baseline": 11050,
-   "baselineNote": "판매글 9곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 2653
-   },
-   "comps": [
-    {
-     "name": "판매글 9곳 최저가",
-     "price": 11050
-    }
-   ],
-   "link": "http://app.ac/rEC4ghS93"
   }
  ]
 }
