@@ -1,7 +1,93 @@
 {
- "updated": "2026-11-06T14:48:50.983+09:00",
+ "updated": "2026-11-06T15:59:02.163+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "1227988800",
+   "mall": "롯데온",
+   "title": "26년 햅쌀 옥구농협 오늘도 신동진 10kg 상등급 당일도정 단일품종",
+   "price": 27350,
+   "image": "https://contents.lotteon.com/itemimage/20261104111822/LO/28/07/98/02/62/_2/80/79/80/26/3/LO2807980262_2807980263_1.jpg",
+   "sentAt": "2026-11-06T15:59:02.163+09:00",
+   "saving": 17,
+   "baseline": 33130,
+   "baselineNote": "26곳 중 최저 · 무료배송",
+   "unit": {
+    "label": "100g당",
+    "value": 274
+   },
+   "check": {
+    "market": 33130,
+    "malls": 26,
+    "ship": 0
+   },
+   "comps": [
+    {
+     "name": "26곳 중 최저 · 무료배송",
+     "price": 33130
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4187587930",
+     "price": 33130,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9538619133",
+     "price": 33840,
+     "ship": 0
+    },
+    {
+     "mall": "배민상회",
+     "code": "TWB192",
+     "id": "422569",
+     "price": 33853,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2741410040",
+     "price": 33860,
+     "ship": 0
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F629291881",
+     "price": 34720,
+     "ship": 0
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000548093806",
+     "price": 37107,
+     "ship": 0
+    },
+    {
+     "mall": "nsmall",
+     "code": "ED904",
+     "id": "36095228",
+     "price": 37900,
+     "ship": 0
+    },
+    {
+     "mall": "GS SHOP",
+     "code": "ED908",
+     "id": "1032875251",
+     "price": 38860,
+     "ship": 0
+    }
+   ],
+   "link": "http://app.ac/iqD8Iq293",
+   "web": true
+  },
   {
    "uid": "8947823780",
    "mall": "롯데온",
@@ -4561,20 +4647,6 @@
    "baselineNote": "213곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/h4kbUhC1eK",
-   "web": true
-  },
-  {
-   "uid": "8682714465",
-   "mall": "쿠팡",
-   "title": "해태 포도 봉봉 제로 340ml 24개",
-   "price": 12240,
-   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2024/11/14/18/8/4f383d10-2130-40c3-a719-24f69dde986a.jpg",
-   "sentAt": "2026-10-23T01:26:26.861+09:00",
-   "saving": 18,
-   "baseline": 14850,
-   "baselineNote": "349곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hRvf55mfvg",
    "web": true
   }
  ]
