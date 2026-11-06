@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-06T22:46:46.895+09:00",
+ "updated": "2026-11-07T00:05:53.032+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "4744415720",
+   "mall": "지마켓",
+   "title": "엡손 POP Plus EF-62 미니빔 프로젝터 UHD 700ISO루멘",
+   "price": 684210,
+   "image": "https://gdimg.gmarket.co.kr/4571126722/goodsimage",
+   "sentAt": "2026-11-07T00:05:53.032+09:00",
+   "saving": 14,
+   "baseline": 799000,
+   "baselineNote": "판매글 13곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 13곳 최저가",
+     "price": 799000
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4571126722",
+   "web": true
+  },
   {
    "uid": "7841413372",
    "mall": "쿠팡",
@@ -3437,19 +3456,6 @@
    "baselineNote": "판매글 20곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4181779886",
-   "web": true
-  },
-  {
-   "uid": "4744415720",
-   "mall": "지마켓",
-   "title": "엡손 POP Plus EF-62 미니빔 프로젝터 UHD 700ISO루멘",
-   "price": 699510,
-   "image": "https://gdimg.gmarket.co.kr/4571126722/goodsimage",
-   "sentAt": "2026-11-02T11:59:31.590+09:00",
-   "saving": 38,
-   "baseline": 1129000,
-   "baselineNote": "판매글 3곳 최저가",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4571126722",
    "web": true
   },
   {
