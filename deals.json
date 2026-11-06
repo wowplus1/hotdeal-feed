@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-06T11:45:16.561+09:00",
+ "updated": "2026-11-06T11:46:19.818+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2842507565",
+   "mall": "토스쇼핑",
+   "title": "한미 완전두유 국산콩 검은콩 고칼슘 저당, 190ml, 32팩",
+   "price": 12700,
+   "image": "https://shopping.toss.im/live/taca/ai/NGY2NWNi/V25adE9oWnVoOHp6QnNIandmd1RaTzB6L0JubjBiMG0zc25zSHA5QkErRT0.png",
+   "sentAt": "2026-11-06T11:46:19.101+09:00",
+   "unit": {
+    "label": "개당",
+    "value": 397
+   },
+   "alt": {
+    "price": 14820,
+    "where": "12곳 중 최저",
+    "ship": 0
+   },
+   "link": "https://toss.shopping/_m/1W6KVpne"
+  },
   {
    "uid": "6160061405",
    "mall": "지마켓",
@@ -4207,28 +4225,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/gF4DJc9Foi"
-  },
-  {
-   "uid": "1592566500",
-   "mall": "11번가",
-   "title": "광천김 3대째 달인 재래전장김 20g 10봉",
-   "price": 9670,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/1962296213/B.webp",
-   "sentAt": "2026-11-05T08:08:44.031+09:00",
-   "saving": 26,
-   "baseline": 13110,
-   "baselineNote": "판매글 18곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 967
-   },
-   "comps": [
-    {
-     "name": "판매글 18곳 최저가",
-     "price": 13110
-    }
-   ],
-   "link": "http://app.ac/fqnfrL233"
   }
  ]
 }
