@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-07T00:05:53.032+09:00",
+ "updated": "2026-11-07T00:08:25.813+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "7434824866",
+   "mall": "지마켓",
+   "title": "시크릿데이 입는오버나이트 에디션 생리대 6p 10팩",
+   "price": 24600,
+   "image": "https://gdimg.gmarket.co.kr/1917673345/goodsimage",
+   "sentAt": "2026-11-07T00:08:25.813+09:00",
+   "saving": 59,
+   "baseline": 60340,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 2460
+   },
+   "comps": [
+    {
+     "name": "판매글 4곳 최저가",
+     "price": 60340
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=1917673345",
+   "web": true
+  },
   {
    "uid": "4744415720",
    "mall": "지마켓",
@@ -4753,20 +4776,6 @@
    "baselineNote": "판매글 3곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/KjwBXga83",
-   "web": true
-  },
-  {
-   "uid": "9902262655",
-   "mall": "지마켓",
-   "title": "브리타 정수기 필터 막스트라 프로 퓨어 퍼포먼스 3입",
-   "price": 17600,
-   "image": "https://gdimg.gmarket.co.kr/3605787557/goodsimage",
-   "sentAt": "2026-10-23T11:21:45.091+09:00",
-   "saving": 18,
-   "baseline": 21500,
-   "baselineNote": "45곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=3605787557",
    "web": true
   }
  ]
