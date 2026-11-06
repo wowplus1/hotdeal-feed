@@ -1,7 +1,158 @@
 {
- "updated": "2026-11-07T03:38:39.742+09:00",
+ "updated": "2026-11-07T07:28:26.306+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "7709482045",
+   "mall": "쿠팡",
+   "title": "첫맛 만능 멸치육수, 1kg, 1개",
+   "price": 4170,
+   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/2116/9adc83f7bda437ced800a9bf2550448d26d0170255d6423a9d9214a070a5.png",
+   "sentAt": "2026-11-07T07:28:26.306+09:00",
+   "saving": 14,
+   "baseline": 4840,
+   "baselineNote": "86곳 중 최저",
+   "unit": {
+    "label": "100g당",
+    "value": 417
+   },
+   "check": {
+    "market": 4840,
+    "malls": 86,
+    "ship": 2800,
+    "delivered": 7640
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": false,
+    "low": 4090
+   },
+   "review": {
+    "score": 4.8,
+    "count": 347,
+    "low": 2
+   },
+   "comps": [
+    {
+     "name": "86곳 중 최저",
+     "price": 4840
+    },
+    {
+     "name": "배송비 2,800원 포함",
+     "price": 7640
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 4830
+    },
+    {
+     "m": "26-01",
+     "p": 4710
+    },
+    {
+     "m": "26-02",
+     "p": 4800
+    },
+    {
+     "m": "26-03",
+     "p": 4810
+    },
+    {
+     "m": "26-04",
+     "p": 4810
+    },
+    {
+     "m": "26-05",
+     "p": 4610
+    },
+    {
+     "m": "26-06",
+     "p": 4790
+    },
+    {
+     "m": "26-07",
+     "p": 4280
+    },
+    {
+     "m": "26-08",
+     "p": 4250
+    },
+    {
+     "m": "26-09",
+     "p": 4090
+    },
+    {
+     "m": "26-10",
+     "p": 4630
+    },
+    {
+     "m": "26-11",
+     "p": 4360
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "2227620638",
+     "price": 4840,
+     "ship": 2800
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2467139372",
+     "price": 4850,
+     "ship": 3000
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "3552031860",
+     "price": 5300,
+     "ship": 3000
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F389957066",
+     "price": 5720,
+     "ship": 3000
+    },
+    {
+     "mall": "TY825D",
+     "code": "TY825D",
+     "id": "3608120097",
+     "price": 5790,
+     "ship": 3500
+    },
+    {
+     "mall": "배민상회",
+     "code": "TWB192",
+     "id": "418803",
+     "price": 6693,
+     "ship": 3000
+    },
+    {
+     "mall": "신세계몰",
+     "code": "ED901",
+     "id": "1000688480861",
+     "price": 7050,
+     "ship": 3000
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000688480861",
+     "price": 7050,
+     "ship": 3000
+    }
+   ],
+   "link": "https://link.coupang.com/a/itcC28gwyi",
+   "web": true
+  },
   {
    "uid": "6046853239",
    "mall": "지마켓",
@@ -4802,20 +4953,6 @@
    "baselineNote": "161곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gcbVKfTQ8O",
-   "web": true
-  },
-  {
-   "uid": "2246523481",
-   "mall": "쿠팡",
-   "title": "오리온 예감 치즈그라탕 12p, 204g, 2개",
-   "price": 5940,
-   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/d47f576b-2e4f-48c0-a07e-ee420229a0881237804055178447129.png",
-   "sentAt": "2026-10-24T03:01:24.432+09:00",
-   "saving": 29,
-   "baseline": 8410,
-   "baselineNote": "89곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/h3deMatd9g",
    "web": true
   }
  ]
