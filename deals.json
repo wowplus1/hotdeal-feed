@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-06T09:40:02.085+09:00",
+ "updated": "2026-11-06T09:44:12.348+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9070494162",
+   "mall": "토스쇼핑",
+   "title": "홍주부 옛날 미숫가루, 500g, 2개",
+   "price": 8590,
+   "image": "https://shopping.toss.im/live/temp/2025-06-25/647c8b97-69e7-415a-a410-c2d189d643ca.jpeg",
+   "sentAt": "2026-11-06T09:44:11.819+09:00",
+   "saving": 28,
+   "baseline": 11870,
+   "baselineNote": "판매글 6곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 4295
+   },
+   "comps": [
+    {
+     "name": "판매글 6곳 최저가",
+     "price": 11870
+    }
+   ],
+   "link": "https://toss.im/_m/9ewryIzd"
+  },
   {
    "uid": "9033267591",
    "mall": "쿠팡",
@@ -4394,24 +4416,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/hD96bGudlk"
-  },
-  {
-   "uid": "8067060265",
-   "mall": "11번가",
-   "title": "코디 뉴플라워 미용티슈, 250매, 6입, 2개",
-   "price": 13110,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/5658159399/B.webp?682784588",
-   "sentAt": "2026-11-04T19:20:20.701+09:00",
-   "saving": 51,
-   "baseline": 26700,
-   "baselineNote": "판매글 28곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 28곳 최저가",
-     "price": 26700
-    }
-   ],
-   "link": "http://app.ac/fqDWZL273"
   }
  ]
 }
