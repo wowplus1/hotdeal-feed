@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-06T10:34:54.153+09:00",
+ "updated": "2026-11-06T14:05:46.412+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "8562367602",
+   "mall": "쿠팡",
+   "title": "엠앤엠즈 크런치 쿠키, 120g, 3개",
+   "price": 7710,
+   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/0cf0b660-5a37-40b1-9ddb-0e045b088b3814599609558569098715.png",
+   "sentAt": "2026-11-06T14:05:46.412+09:00",
+   "saving": 46,
+   "baseline": 14200,
+   "baselineNote": "판매글 14곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 2570
+   },
+   "comps": [
+    {
+     "name": "판매글 14곳 최저가",
+     "price": 14200
+    }
+   ],
+   "link": "https://link.coupang.com/a/iegERTfcL6",
+   "web": true
+  },
   {
    "uid": "4287312347",
    "mall": "지마켓",
@@ -4556,19 +4579,6 @@
    "baselineNote": "판매글 4곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4813787544",
-   "web": true
-  },
-  {
-   "uid": "6616138584",
-   "mall": "롯데온",
-   "title": "테이퍼드 하프 밴딩 반바지 4colors",
-   "price": 16760,
-   "image": "https://contents.lotteon.com/itemimage/20260813132628/LO/14/55/26/56/76/bndl_img/LO1455265676_1.jpg",
-   "sentAt": "2026-10-23T00:06:47.900+09:00",
-   "saving": 56,
-   "baseline": 37905,
-   "baselineNote": "판매글 6곳 최저가",
-   "link": "http://app.ac/Ubp85sl03",
    "web": true
   }
  ]
