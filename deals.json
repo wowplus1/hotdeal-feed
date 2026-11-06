@@ -1,7 +1,114 @@
 {
- "updated": "2026-11-06T10:05:46.536+09:00",
+ "updated": "2026-11-06T10:08:29.128+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6639204438",
+   "mall": "쿠팡",
+   "title": "청정원 저당 토마토케찹, 490g, 1개",
+   "price": 2000,
+   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/11/14/17/2/9d7089aa-3bc0-4f54-bc58-54cbe57ed4f2.jpg",
+   "sentAt": "2026-11-06T10:08:28.397+09:00",
+   "saving": 49,
+   "baseline": 3950,
+   "baselineNote": "16곳 중 최저",
+   "unit": {
+    "label": "100g당",
+    "value": 408
+   },
+   "check": {
+    "market": 3950,
+    "malls": 16
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 3130
+   },
+   "review": {
+    "score": 4.9,
+    "count": 446,
+    "low": 0
+   },
+   "comps": [
+    {
+     "name": "16곳 중 최저",
+     "price": 3950
+    }
+   ],
+   "trend": [
+    {
+     "m": "26-04",
+     "p": 3630
+    },
+    {
+     "m": "26-05",
+     "p": 3580
+    },
+    {
+     "m": "26-06",
+     "p": 3130
+    },
+    {
+     "m": "26-07",
+     "p": 3130
+    },
+    {
+     "m": "26-08",
+     "p": 3560
+    },
+    {
+     "m": "26-09",
+     "p": 3136
+    },
+    {
+     "m": "26-10",
+     "p": 3710
+    },
+    {
+     "m": "26-11",
+     "p": 3710
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9020442155",
+     "price": 3950,
+     "ship": 3000
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4701705319",
+     "price": 4040,
+     "ship": 3000
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F508158584",
+     "price": 4250,
+     "ship": 3000
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000819236704",
+     "price": 4480,
+     "ship": 3000
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000819236704",
+     "price": 4480,
+     "ship": 3000
+    }
+   ],
+   "link": "https://link.coupang.com/a/irJarxdFSK"
+  },
   {
    "uid": "9514622669",
    "mall": "지마켓",
@@ -4246,99 +4353,6 @@
     }
    ],
    "link": "http://app.ac/uqDW3t213"
-  },
-  {
-   "uid": "2647268090",
-   "mall": "쿠팡",
-   "title": "오뚜기 뿌셔뿌셔 불고기맛 90g 1개",
-   "price": 350,
-   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/63465787243909-5ca9f443-b877-4c13-b011-1aedbccef8c2.jpg",
-   "sentAt": "2026-11-04T20:28:35.140+09:00",
-   "saving": 49,
-   "baseline": 680,
-   "baselineNote": "151곳 중 최저",
-   "check": {
-    "market": 680,
-    "malls": 151,
-    "ship": 3000,
-    "delivered": 3680
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": true,
-    "low": 480
-   },
-   "review": {
-    "score": 4.7,
-    "count": 356,
-    "low": 6
-   },
-   "spec": [
-    "스낵",
-    "HACCP",
-    "저당"
-   ],
-   "comps": [
-    {
-     "name": "151곳 중 최저",
-     "price": 680
-    },
-    {
-     "name": "배송비 3,000원 포함",
-     "price": 3680
-    }
-   ],
-   "trend": [
-    {
-     "m": "25-12",
-     "p": 610
-    },
-    {
-     "m": "26-01",
-     "p": 660
-    },
-    {
-     "m": "26-02",
-     "p": 480
-    },
-    {
-     "m": "26-03",
-     "p": 550
-    },
-    {
-     "m": "26-04",
-     "p": 560
-    },
-    {
-     "m": "26-05",
-     "p": 550
-    },
-    {
-     "m": "26-06",
-     "p": 560
-    },
-    {
-     "m": "26-07",
-     "p": 580
-    },
-    {
-     "m": "26-08",
-     "p": 580
-    },
-    {
-     "m": "26-09",
-     "p": 570
-    },
-    {
-     "m": "26-10",
-     "p": 570
-    },
-    {
-     "m": "26-11",
-     "p": 680
-    }
-   ],
-   "link": "https://link.coupang.com/a/io7EfThUjI"
   }
  ]
 }
