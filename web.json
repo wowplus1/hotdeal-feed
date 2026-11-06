@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-07T08:38:06.215+09:00",
+ "updated": "2026-11-07T08:40:27.347+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "7806469805",
+   "mall": "쿠팡",
+   "title": "고추나라 맛다시 양념, 90g, 10개",
+   "price": 9450,
+   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/f4b1/64267870230f8ce91ff7aa71ef46439a18c93886ec331c056686a451ed7e.jpg",
+   "sentAt": "2026-11-07T08:40:27.347+09:00",
+   "saving": 38,
+   "baseline": 15320,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 945
+   },
+   "comps": [
+    {
+     "name": "판매글 3곳 최저가",
+     "price": 15320
+    }
+   ],
+   "link": "https://link.coupang.com/a/gjLHHLSiIu",
+   "web": true
+  },
   {
    "uid": "4137727300",
    "mall": "쿠팡",
@@ -5059,19 +5082,6 @@
    "baseline": 180180,
    "baselineNote": "판매글 7곳 최저가",
    "link": "http://app.ac/yAGQqk553",
-   "web": true
-  },
-  {
-   "uid": "4521845977",
-   "mall": "쿠팡",
-   "title": "LG전자 2026 그램 AI 16 코어 Ultra5스노우 화이트 · 16ZB90S-GA5PK · 512GB · 16GB",
-   "price": 1799000,
-   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/382934972989142-ab9bb35c-e3dd-4a54-827b-07320e95e0a1.jpg",
-   "sentAt": "2026-10-24T11:00:18.509+09:00",
-   "saving": 24,
-   "baseline": 2359000,
-   "baselineNote": "다른 곳 최저",
-   "link": "https://link.coupang.com/a/gzU6PWoshw",
    "web": true
   }
  ]
