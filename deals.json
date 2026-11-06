@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-06T10:58:32.281+09:00",
+ "updated": "2026-11-06T11:01:04.744+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6340584735",
+   "mall": "쿠팡",
+   "title": "신라명과 세가지맛 사브레쿠키, 260g, 1개 6,990원",
+   "price": 6990,
+   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/07/21/11/9/4f5d4941-28b0-42b8-aba8-fed7fd18cd5a.jpg",
+   "sentAt": "2026-11-06T11:01:04.032+09:00",
+   "saving": 50,
+   "baseline": 13950,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": {
+    "label": "100g당",
+    "value": 2688
+   },
+   "comps": [
+    {
+     "name": "판매글 4곳 최저가",
+     "price": 13950
+    }
+   ],
+   "link": "https://link.coupang.com/a/irMVt2KvmK"
+  },
   {
    "uid": "6517890047",
    "mall": "지마켓",
@@ -4272,87 +4294,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/gkKj7EvlF6"
-  },
-  {
-   "uid": "8264102906",
-   "mall": "지마켓",
-   "title": "레노버 LEGION 27Q-10 OLED QHD 240Hz",
-   "price": 430461,
-   "image": "https://gdimg.gmarket.co.kr/4645690441/goodsimage",
-   "sentAt": "2026-11-04T21:10:10.353+09:00",
-   "saving": 28,
-   "baseline": 597000,
-   "baselineNote": "20곳 중 최저 · 무료배송",
-   "check": {
-    "market": 597000,
-    "malls": 20,
-    "ship": 0
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": false,
-    "low": 421800
-   },
-   "spec": [
-    "모니터",
-    "68.5cm(27인치)",
-    "QHD(2560 x 1440)",
-    "QD-OLED",
-    "와이드(16:9)"
-   ],
-   "comps": [
-    {
-     "name": "20곳 중 최저 · 무료배송",
-     "price": 597000
-    }
-   ],
-   "trend": [
-    {
-     "m": "26-01",
-     "p": 582560
-    },
-    {
-     "m": "26-02",
-     "p": 421800
-    },
-    {
-     "m": "26-03",
-     "p": 518990
-    },
-    {
-     "m": "26-04",
-     "p": 537000
-    },
-    {
-     "m": "26-05",
-     "p": 579040
-    },
-    {
-     "m": "26-06",
-     "p": 596990
-    },
-    {
-     "m": "26-07",
-     "p": 596990
-    },
-    {
-     "m": "26-08",
-     "p": 579000
-    },
-    {
-     "m": "26-09",
-     "p": 463180
-    },
-    {
-     "m": "26-10",
-     "p": 463200
-    },
-    {
-     "m": "26-11",
-     "p": 596990
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4645690441"
   }
  ]
 }
