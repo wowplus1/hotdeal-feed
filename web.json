@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-07T00:44:06.725+09:00",
+ "updated": "2026-11-07T01:14:52.955+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "8232857719",
+   "mall": "쿠팡",
+   "title": "트롤리 사우어 구미 캔디 미니스 200g",
+   "price": 4000,
+   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/279628460505671-621cf10d-7c9e-4a12-90dc-127ab2674633.jpg",
+   "sentAt": "2026-11-07T01:14:52.955+09:00",
+   "saving": 48,
+   "baseline": 7670,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": {
+    "label": "100g당",
+    "value": 2000
+   },
+   "comps": [
+    {
+     "name": "판매글 4곳 최저가",
+     "price": 7670
+    }
+   ],
+   "link": "https://link.coupang.com/a/isLWZVGwRU",
+   "web": true
+  },
   {
    "uid": "5096167479",
    "mall": "지마켓",
@@ -4788,19 +4811,6 @@
    "baselineNote": "판매글 3곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/0qnadL283",
-   "web": true
-  },
-  {
-   "uid": "3009580425",
-   "mall": "롯데온",
-   "title": "나랑드사이다 1.25L PET 1박스",
-   "price": 12320,
-   "image": "https://contents.lotteon.com/itemimage/20260723150216/LO/26/39/34/03/31/_2/63/93/40/33/2/LO2639340331_2639340332_1.jpg",
-   "sentAt": "2026-10-24T00:04:58.319+09:00",
-   "saving": 30,
-   "baseline": 17480,
-   "baselineNote": "판매글 5곳 최저가",
-   "link": "http://app.ac/2bppi4l33",
    "web": true
   }
  ]
