@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-06T18:54:55.219+09:00",
+ "updated": "2026-11-06T19:44:36.822+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5953706997",
+   "mall": "지마켓",
+   "title": "뽑아쓰는 키친타올 3겹 100매 9팩",
+   "price": 5270,
+   "image": "https://gdimg.gmarket.co.kr/4776510902/goodsimage",
+   "sentAt": "2026-11-06T19:44:35.675+09:00",
+   "saving": 54,
+   "baseline": 11514,
+   "baselineNote": "판매글 11곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 11곳 최저가",
+     "price": 11514
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4776510902"
+  },
   {
    "uid": "8558533561",
    "mall": "지마켓",
@@ -3882,24 +3900,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/ip9BnENeto"
-  },
-  {
-   "uid": "6439923099",
-   "mall": "지마켓",
-   "title": "센소다인 멀티케어 치약 100g 3개",
-   "price": 9810,
-   "image": "https://gdimg.gmarket.co.kr/4811424907/goodsimage",
-   "sentAt": "2026-11-05T12:39:27.890+09:00",
-   "unit": {
-    "label": "개당",
-    "value": 3270
-   },
-   "alt": {
-    "price": 10930,
-    "where": "202곳 중 최저",
-    "ship": 3000
-   },
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4811424907"
   }
  ]
 }
