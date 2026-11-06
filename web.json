@@ -1,7 +1,17 @@
 {
- "updated": "2026-11-06T14:05:46.412+09:00",
+ "updated": "2026-11-06T14:48:50.983+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "8947823780",
+   "mall": "롯데온",
+   "title": "빙그레 붕어싸만코/빵또아 10개+요맘때콘 10개+아이스크림 바 10개",
+   "price": 23900,
+   "image": "https://contents.lotteon.com/itemimage/20260514162804/LO/24/54/75/91/98/_2/45/47/59/22/3/LO2454759198_2454759223_1.jpg",
+   "sentAt": "2026-11-06T14:48:50.983+09:00",
+   "link": "http://app.ac/VjpqLTa93",
+   "web": true
+  },
   {
    "uid": "8562367602",
    "mall": "쿠팡",
@@ -4565,20 +4575,6 @@
    "baselineNote": "349곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hRvf55mfvg",
-   "web": true
-  },
-  {
-   "uid": "8933735977",
-   "mall": "지마켓",
-   "title": "삼육김 광천 파래김 도시락김 4g 32봉",
-   "price": 8710,
-   "image": "https://gdimg.gmarket.co.kr/4813787544/goodsimage",
-   "sentAt": "2026-10-23T00:21:26.255+09:00",
-   "saving": 41,
-   "baseline": 14690,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4813787544",
    "web": true
   }
  ]
