@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-06T11:46:19.818+09:00",
+ "updated": "2026-11-06T12:00:29.883+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3877050661",
+   "mall": "롯데온",
+   "title": "무항생제 HACCP인증 자연방사 난각번호 1번 유정란 20구 계란농장",
+   "price": 8000,
+   "image": "https://contents.lotteon.com/itemimage/20261106103408/LO/28/10/05/64/24/_2/81/00/56/42/5/LO2810056424_2810056425_1.png",
+   "sentAt": "2026-11-06T12:00:28.871+09:00",
+   "saving": 39,
+   "baseline": 13200,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 400
+   },
+   "comps": [
+    {
+     "name": "판매글 3곳 최저가",
+     "price": 13200
+    }
+   ],
+   "link": "http://app.ac/htnKKqM33"
+  },
   {
    "uid": "2842507565",
    "mall": "토스쇼핑",
@@ -4203,28 +4225,6 @@
     }
    ],
    "link": "https://toss.shopping/_m/HHij1fSf"
-  },
-  {
-   "uid": "9878273167",
-   "mall": "쿠팡",
-   "title": "하늘보리 에코 무라벨 500ml 20개",
-   "price": 11440,
-   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/381711721875626-f63d3efa-506b-42b8-9515-f19e338b5d79.jpg",
-   "sentAt": "2026-11-05T08:19:21.338+09:00",
-   "saving": 33,
-   "baseline": 17070,
-   "baselineNote": "판매글 18곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 572
-   },
-   "comps": [
-    {
-     "name": "판매글 18곳 최저가",
-     "price": 17070
-    }
-   ],
-   "link": "https://link.coupang.com/a/gF4DJc9Foi"
   }
  ]
 }
