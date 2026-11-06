@@ -1,7 +1,140 @@
 {
- "updated": "2026-11-07T07:28:26.306+09:00",
+ "updated": "2026-11-07T08:38:06.215+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "4137727300",
+   "mall": "쿠팡",
+   "title": "가나 마일드 초콜릿 미니 175g 2개",
+   "price": 9000,
+   "image": "https://t3a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/8389750809879-77298a1e-8109-4151-886b-b21668dfaa82.jpg",
+   "sentAt": "2026-11-07T08:38:06.215+09:00",
+   "saving": 12,
+   "baseline": 10260,
+   "baselineNote": "183곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 4500
+   },
+   "check": {
+    "market": 10260,
+    "malls": 183,
+    "delivered": 13230
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 9590
+   },
+   "spec": [
+    "35개입",
+    "저염"
+   ],
+   "comps": [
+    {
+     "name": "183곳 중 최저",
+     "price": 10260
+    },
+    {
+     "name": "배송비까지 치면",
+     "price": 13230
+    }
+   ],
+   "trend": [
+    {
+     "m": "26-04",
+     "p": 9800
+    },
+    {
+     "m": "26-05",
+     "p": 9590
+    },
+    {
+     "m": "26-06",
+     "p": 10160
+    },
+    {
+     "m": "26-07",
+     "p": 10030
+    },
+    {
+     "m": "26-08",
+     "p": 10020
+    },
+    {
+     "m": "26-09",
+     "p": 9690
+    },
+    {
+     "m": "26-10",
+     "p": 9910
+    },
+    {
+     "m": "26-11",
+     "p": 10260
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4697497861",
+     "price": 10260,
+     "ship": 3000
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F502989969",
+     "price": 10260,
+     "ship": 3000
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000802670143",
+     "price": 10602,
+     "ship": 3000
+    },
+    {
+     "mall": "SK스토아",
+     "code": "TSB275",
+     "id": "59101793",
+     "price": 10700,
+     "ship": 3000
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9183906163",
+     "price": 10830,
+     "ship": 3000
+    },
+    {
+     "mall": "패션플러스",
+     "code": "TH002",
+     "id": "429263004",
+     "price": 10830,
+     "ship": 3000
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000802670143",
+     "price": 11400,
+     "ship": 3000
+    },
+    {
+     "mall": "신세계몰",
+     "code": "ED901",
+     "id": "1000802670143",
+     "price": 11400,
+     "ship": 3000
+    }
+   ],
+   "link": "https://link.coupang.com/a/hdez4LO9Ke",
+   "web": true
+  },
   {
    "uid": "7709482045",
    "mall": "쿠팡",
@@ -4939,20 +5072,6 @@
    "baseline": 2359000,
    "baselineNote": "다른 곳 최저",
    "link": "https://link.coupang.com/a/gzU6PWoshw",
-   "web": true
-  },
-  {
-   "uid": "7623136669",
-   "mall": "쿠팡",
-   "title": "코카콜라 제로 레몬라임, 30개, 190ml",
-   "price": 13670,
-   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/beba/5686b94b877b38e9bc6234313c121a29a75bf511ad7877c795837e202099.jpg",
-   "sentAt": "2026-10-24T08:55:07.673+09:00",
-   "saving": 10,
-   "baseline": 15270,
-   "baselineNote": "161곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gcbVKfTQ8O",
    "web": true
   }
  ]
