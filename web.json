@@ -1,7 +1,130 @@
 {
- "updated": "2026-11-07T10:54:17.299+09:00",
+ "updated": "2026-11-07T11:55:20.439+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "9538872399",
+   "mall": "쿠팡",
+   "title": "얼라이브 원스데일리 포 맨 멀티비타민, 80정, 1개",
+   "price": 22420,
+   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/428647611897284-e9a70e91-42ea-448e-80f6-361b9b55cc4c.jpg",
+   "sentAt": "2026-11-07T11:55:20.439+09:00",
+   "saving": 16,
+   "baseline": 26610,
+   "baselineNote": "35곳 중 최저 · 무료배송",
+   "check": {
+    "market": 26610,
+    "malls": 35,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 24560
+   },
+   "spec": [
+    "남성",
+    "캡슐,정",
+    "1일 1회,1정",
+    "1일 1회, 1정",
+    "건강기능식품"
+   ],
+   "comps": [
+    {
+     "name": "35곳 중 최저 · 무료배송",
+     "price": 26610
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 24900
+    },
+    {
+     "m": "26-01",
+     "p": 28530
+    },
+    {
+     "m": "26-02",
+     "p": 28140
+    },
+    {
+     "m": "26-03",
+     "p": 24560
+    },
+    {
+     "m": "26-04",
+     "p": 27780
+    },
+    {
+     "m": "26-05",
+     "p": 27390
+    },
+    {
+     "m": "26-06",
+     "p": 28300
+    },
+    {
+     "m": "26-07",
+     "p": 28260
+    },
+    {
+     "m": "26-08",
+     "p": 28300
+    },
+    {
+     "m": "26-09",
+     "p": 26770
+    },
+    {
+     "m": "26-10",
+     "p": 28170
+    },
+    {
+     "m": "26-11",
+     "p": 29110
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2808868425",
+     "price": 26610,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4408735277",
+     "price": 26610,
+     "ship": 0
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F472995475",
+     "price": 32930,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9075672903",
+     "price": 34890,
+     "ship": 0
+    },
+    {
+     "mall": "TYB25D",
+     "code": "TYB25D",
+     "id": "13054518033",
+     "price": 36200,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/gay92Pk0ke",
+   "web": true
+  },
   {
    "uid": "5336522415",
    "mall": "지마켓",
@@ -5329,20 +5452,6 @@
    "baselineNote": "198곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/h63gI9h29k",
-   "web": true
-  },
-  {
-   "uid": "1726632219",
-   "mall": "쿠팡",
-   "title": "아이배냇 칼슘 순 소금 130g 2,380원",
-   "price": 2380,
-   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/67875228633382-fa6d0437-e19e-4cb4-89d4-3d93e6de0736.jpg",
-   "sentAt": "2026-10-24T22:02:57.736+09:00",
-   "saving": 51,
-   "baseline": 4830,
-   "baselineNote": "36곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/h6Yk5W0ree",
    "web": true
   }
  ]
