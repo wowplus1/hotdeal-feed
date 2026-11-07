@@ -1,7 +1,160 @@
 {
- "updated": "2026-11-07T14:26:08.988+09:00",
+ "updated": "2026-11-07T15:22:56.741+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9002732891",
+   "mall": "쿠팡",
+   "title": "코카콜라 제로제로, 190ml, 30개",
+   "price": 12310,
+   "image": "https://thumbnail1.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/76227677833552-feae0a48-4e94-4932-9f8a-612194c626e8.jpg",
+   "sentAt": "2026-11-07T15:22:56.002+09:00",
+   "saving": 28,
+   "baseline": 17190,
+   "baselineNote": "184곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 410
+   },
+   "check": {
+    "market": 17190,
+    "malls": 184,
+    "delivered": 17200
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 13030
+   },
+   "review": {
+    "score": 4.7,
+    "count": 1027,
+    "low": 4
+   },
+   "spec": [
+    "캔류",
+    "디카페인, 제로슈거"
+   ],
+   "comps": [
+    {
+     "name": "184곳 중 최저",
+     "price": 17190
+    },
+    {
+     "name": "배송비까지 치면",
+     "price": 17200
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 13960
+    },
+    {
+     "m": "26-01",
+     "p": 14580
+    },
+    {
+     "m": "26-02",
+     "p": 15610
+    },
+    {
+     "m": "26-03",
+     "p": 14870
+    },
+    {
+     "m": "26-04",
+     "p": 14600
+    },
+    {
+     "m": "26-05",
+     "p": 15610
+    },
+    {
+     "m": "26-06",
+     "p": 13030
+    },
+    {
+     "m": "26-07",
+     "p": 13700
+    },
+    {
+     "m": "26-08",
+     "p": 13900
+    },
+    {
+     "m": "26-09",
+     "p": 13900
+    },
+    {
+     "m": "26-10",
+     "p": 13990
+    },
+    {
+     "m": "26-11",
+     "p": 17210
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9057024457",
+     "price": 17190,
+     "ship": 3000
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F490215755",
+     "price": 17200,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "3834007436",
+     "price": 17220,
+     "ship": 0
+    },
+    {
+     "mall": "주식회사 신세계라이브쇼핑",
+     "code": "TRB03",
+     "id": "60135766",
+     "price": 17780,
+     "ship": 0
+    },
+    {
+     "mall": "신세계몰",
+     "code": "ED901",
+     "id": "1000856714880",
+     "price": 18827,
+     "ship": 0
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000856714880",
+     "price": 18827,
+     "ship": 0
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000856714880",
+     "price": 18827,
+     "ship": 0
+    },
+    {
+     "mall": "롯데홈쇼핑",
+     "code": "ED903",
+     "id": "3362744520",
+     "price": 19020,
+     "ship": 0
+    }
+   ],
+   "link": "https://hotdeal.best/9002732891?utm_source=kakao"
+  },
   {
    "uid": "1133221872",
    "mall": "쿠팡",
@@ -3538,28 +3691,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4143930553"
-  },
-  {
-   "uid": "4709941390",
-   "mall": "쿠팡",
-   "title": "맥스봉 치즈, 1.08kg, 1개",
-   "price": 11900,
-   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/3738/9ec174e475d3314fd99a009536da3324b0b4d9ddb45d89f7162dcda19612.jpg",
-   "sentAt": "2026-11-05T18:36:32.995+09:00",
-   "saving": 35,
-   "baseline": 18370,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": {
-    "label": "100g당",
-    "value": 1102
-   },
-   "comps": [
-    {
-     "name": "판매글 5곳 최저가",
-     "price": 18370
-    }
-   ],
-   "link": "https://link.coupang.com/a/iqExdzclK8"
   }
  ]
 }
