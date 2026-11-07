@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-07T18:25:56.392+09:00",
+ "updated": "2026-11-08T07:20:25.720+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9083372353",
+   "mall": "쿠팡",
+   "title": "후버 착즙 오렌지주스, 1L, 2개",
+   "price": 6420,
+   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/5700/7106dfeb6598a52e281bd4ac9a2af93afff815998b59800c1eac3517fb51.jpg",
+   "sentAt": "2026-11-08T07:20:24.911+09:00",
+   "saving": 69,
+   "baseline": 20560,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 3210
+   },
+   "comps": [
+    {
+     "name": "판매글 5곳 최저가",
+     "price": 20560
+    }
+   ],
+   "link": "https://link.coupang.com/a/iuQXeiMDca"
+  },
   {
    "uid": "3831248946",
    "mall": "토스쇼핑",
@@ -3533,28 +3555,6 @@
     "value": 2012
    },
    "link": "https://link.coupang.com/a/gzliOo8RlQ"
-  },
-  {
-   "uid": "2823313123",
-   "mall": "쿠팡",
-   "title": "이롬 황성주 박사의 국산콩 두유 검은콩 고칼슘, 190ml, 24개",
-   "price": 9900,
-   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/076c/f6c50b12bdfb01568dd750f748af00a74424d2121288942ba46b9309adcb.jpg",
-   "sentAt": "2026-11-06T07:11:42.290+09:00",
-   "saving": 58,
-   "baseline": 23310,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 413
-   },
-   "comps": [
-    {
-     "name": "판매글 3곳 최저가",
-     "price": 23310
-    }
-   ],
-   "link": "https://link.coupang.com/a/gA6GnlKQQ8"
   }
  ]
 }
