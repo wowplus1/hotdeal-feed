@@ -1,7 +1,160 @@
 {
- "updated": "2026-11-07T08:40:27.347+09:00",
+ "updated": "2026-11-07T10:00:55.973+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "1853974926",
+   "mall": "쿠팡",
+   "title": "울샴푸 다운워시 본품 800ml 2개 11,880원",
+   "price": 11880,
+   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2871102975725-35a7b700-0ce5-408b-b961-77e84fce6a82.jpg",
+   "sentAt": "2026-11-07T10:00:55.973+09:00",
+   "saving": 10,
+   "baseline": 13190,
+   "baselineNote": "90곳 중 최저 · 무료배송",
+   "unit": {
+    "label": "개당",
+    "value": 5940
+   },
+   "check": {
+    "market": 13190,
+    "malls": 90,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 12457
+   },
+   "review": {
+    "score": 4.7,
+    "count": 1024,
+    "low": 4
+   },
+   "spec": [
+    "울세제",
+    "액체형",
+    "아웃도어,패딩용",
+    "일반,드럼겸용",
+    "중성"
+   ],
+   "comps": [
+    {
+     "name": "90곳 중 최저 · 무료배송",
+     "price": 13190
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 14690
+    },
+    {
+     "m": "26-01",
+     "p": 14310
+    },
+    {
+     "m": "26-02",
+     "p": 14310
+    },
+    {
+     "m": "26-03",
+     "p": 13410
+    },
+    {
+     "m": "26-04",
+     "p": 13860
+    },
+    {
+     "m": "26-05",
+     "p": 18100
+    },
+    {
+     "m": "26-06",
+     "p": 16000
+    },
+    {
+     "m": "26-07",
+     "p": 14900
+    },
+    {
+     "m": "26-08",
+     "p": 14900
+    },
+    {
+     "m": "26-09",
+     "p": 13980
+    },
+    {
+     "m": "26-10",
+     "p": 12740
+    },
+    {
+     "m": "26-11",
+     "p": 12457
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "2529012995",
+     "price": 13190,
+     "ship": 0
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "C736239985",
+     "price": 13740,
+     "ship": 0
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000333836624",
+     "price": 14129,
+     "ship": 0
+    },
+    {
+     "mall": "신세계몰",
+     "code": "ED901",
+     "id": "1000333836624",
+     "price": 14129,
+     "ship": 0
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000333836624",
+     "price": 14129,
+     "ship": 0
+    },
+    {
+     "mall": "오늘의집",
+     "code": "TU710C",
+     "id": "3614233-27145109",
+     "price": 14900,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9450511079",
+     "price": 18780,
+     "ship": 0
+    },
+    {
+     "mall": "패션플러스",
+     "code": "TH002",
+     "id": "424049165",
+     "price": 19190,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/itnxBiwGlM",
+   "web": true
+  },
   {
    "uid": "7806469805",
    "mall": "쿠팡",
@@ -5069,19 +5222,6 @@
    "baselineNote": "170곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/h6qyCr9Nhk",
-   "web": true
-  },
-  {
-   "uid": "3337270328",
-   "mall": "롯데온",
-   "title": "충전식 3중날 전기면도기 SMS-W900",
-   "price": 29900,
-   "image": "https://contents.lotteon.com/itemimage/20261021150508/LO/27/98/49/26/50/_2/79/84/92/65/1/LO2798492650_2798492651_2.png",
-   "sentAt": "2026-10-24T13:01:40.592+09:00",
-   "saving": 83,
-   "baseline": 180180,
-   "baselineNote": "판매글 7곳 최저가",
-   "link": "http://app.ac/yAGQqk553",
    "web": true
   }
  ]
