@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-07T14:48:05.635+09:00",
+ "updated": "2026-11-07T20:10:43.667+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "1343023715",
+   "mall": "11번가",
+   "title": "비트 딥클린 파워 액체세제, 일반, 용기, 3L, 1개 + 일반드럼겸용 리필, 2L, 3개",
+   "price": 16840,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/5496023624/B.webp",
+   "sentAt": "2026-11-07T20:10:43.667+09:00",
+   "saving": 15,
+   "baseline": 19900,
+   "baselineNote": "판매글 5곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 5곳 최저가",
+     "price": 19900
+    }
+   ],
+   "link": "http://app.ac/0jwls8a43",
+   "web": true
+  },
   {
    "uid": "5796399302",
    "mall": "롯데온",
@@ -5715,17 +5734,6 @@
    "baseline": 2168000,
    "baselineNote": "판매글 17곳 최저가",
    "link": "https://link.coupang.com/a/gGDGaSPXz2",
-   "web": true
-  },
-  {
-   "uid": "5924229368",
-   "mall": "쿠팡",
-   "title": "비비고 왕교자 , 1.05kg, 3개",
-   "price": 22410,
-   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/702c00ec-d596-4dd2-92e2-e93b9b02bfdc13845759148683424492.png",
-   "sentAt": "2026-10-25T17:16:54.192+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/h8iNMPtNZs",
    "web": true
   }
  ]
