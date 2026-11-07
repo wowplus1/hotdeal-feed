@@ -1,7 +1,149 @@
 {
- "updated": "2026-11-07T22:25:28.825+09:00",
+ "updated": "2026-11-07T22:34:01.700+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "8655260708",
+   "mall": "쿠팡",
+   "title": "풀무원 평양 물냉면 4인분, 1.692kg, 1개",
+   "price": 3480,
+   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/3758552110781742-781988b0-aa57-4e97-8dfe-ebebd9927449.jpg",
+   "sentAt": "2026-11-07T22:34:01.700+09:00",
+   "saving": 64,
+   "baseline": 9570,
+   "baselineNote": "21곳 중 최저",
+   "unit": {
+    "label": "100g당",
+    "value": 206
+   },
+   "check": {
+    "market": 9570,
+    "malls": 21,
+    "ship": 3000,
+    "delivered": 12570
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 6630
+   },
+   "review": {
+    "score": 4.9,
+    "count": 6383,
+    "low": 4
+   },
+   "spec": [
+    "즉석면요리",
+    "생면",
+    "냉장보관"
+   ],
+   "comps": [
+    {
+     "name": "21곳 중 최저",
+     "price": 9570
+    },
+    {
+     "name": "배송비 3,000원 포함",
+     "price": 12570
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 8620
+    },
+    {
+     "m": "26-01",
+     "p": 6630
+    },
+    {
+     "m": "26-02",
+     "p": 8640
+    },
+    {
+     "m": "26-03",
+     "p": 8830
+    },
+    {
+     "m": "26-04",
+     "p": 8800
+    },
+    {
+     "m": "26-05",
+     "p": 6980
+    },
+    {
+     "m": "26-06",
+     "p": 6980
+    },
+    {
+     "m": "26-07",
+     "p": 6880
+    },
+    {
+     "m": "26-08",
+     "p": 6880
+    },
+    {
+     "m": "26-09",
+     "p": 6980
+    },
+    {
+     "m": "26-10",
+     "p": 9570
+    },
+    {
+     "m": "26-11",
+     "p": 9650
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "3986097754",
+     "price": 9570,
+     "ship": 3000
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "E580746293",
+     "price": 9570,
+     "ship": 3000
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "8233702327",
+     "price": 9790,
+     "ship": 3000
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "0000008231600",
+     "price": 9980,
+     "ship": 3000
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "0000008231600",
+     "price": 9980,
+     "ship": 3000
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2701476889",
+     "price": 11370,
+     "ship": 3000
+    }
+   ],
+   "link": "https://link.coupang.com/a/iuflDGWc1c",
+   "web": true
+  },
   {
    "uid": "5935947117",
    "mall": "11번가",
@@ -5735,20 +5877,6 @@
    "baseline": 48600,
    "baselineNote": "310곳 중 최저 · 무료배송",
    "link": "https://link.coupang.com/a/hD96bGudlk",
-   "web": true
-  },
-  {
-   "uid": "4873140032",
-   "mall": "지마켓",
-   "title": "육개장 630g x 5팩",
-   "price": 19750,
-   "image": "https://gdimg.gmarket.co.kr/4777166390/goodsimage",
-   "sentAt": "2026-10-26T00:15:22.868+09:00",
-   "saving": 42,
-   "baseline": 34250,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4777166390",
    "web": true
   }
  ]
