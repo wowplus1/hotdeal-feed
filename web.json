@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-07T23:20:42.643+09:00",
+ "updated": "2026-11-07T23:34:48.293+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "7380494391",
+   "mall": "11번가",
+   "title": "쟌슨빌 육즙가득 냉동 소시지 1670g / 2종",
+   "price": 25760,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/4/1/1/9/5/5/ZGScQ/1037411955_239818337.webp",
+   "sentAt": "2026-11-07T23:34:48.293+09:00",
+   "unit": {
+    "label": "100g당",
+    "value": 1543
+   },
+   "link": "http://app.ac/JjwyqLa53",
+   "web": true
+  },
   {
    "uid": "9498279384",
    "mall": "11번가",
@@ -5869,20 +5883,6 @@
    "sentAt": "2026-10-26T01:21:46.436+09:00",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/h8RsImTjhs",
-   "web": true
-  },
-  {
-   "uid": "4944879534",
-   "mall": "쿠팡",
-   "title": "이클립스 피치, 34g, 8개",
-   "price": 10190,
-   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/155740836159107-f9985969-50e9-4a40-bac7-6e3fd3d62958.jpg",
-   "sentAt": "2026-10-26T00:44:44.656+09:00",
-   "saving": 19,
-   "baseline": 12640,
-   "baselineNote": "702곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/h8OPKsW2x2",
    "web": true
   }
  ]
