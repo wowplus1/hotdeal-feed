@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-07T17:29:17.178+09:00",
+ "updated": "2026-11-07T17:45:27.455+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4478737460",
+   "mall": "롯데온",
+   "title": "지아자 산양유 단백질 샴푸 400ml 4개",
+   "price": 12790,
+   "image": "https://contents.lotteon.com/itemimage/20261103132358/LO/28/07/80/93/60/_2/80/78/09/36/1/LO2807809360_2807809361_10.jpg",
+   "sentAt": "2026-11-07T17:45:26.330+09:00",
+   "unit": {
+    "label": "개당",
+    "value": 3198
+   },
+   "link": "http://app.ac/rEwtSCS83"
+  },
   {
    "uid": "6323671943",
    "mall": "토스쇼핑",
@@ -3548,15 +3561,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iqQQB7oDL2"
-  },
-  {
-   "uid": "4272891663",
-   "mall": "11번가",
-   "title": "오리온 쉘위 카카오 12입 + 클래식 12P 각2개",
-   "price": 13210,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9013849474/B.webp?837250473",
-   "sentAt": "2026-11-05T21:00:12.690+09:00",
-   "link": "http://app.ac/btnW7IM93"
   }
  ]
 }
