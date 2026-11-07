@@ -1,7 +1,153 @@
 {
- "updated": "2026-11-08T00:19:22.628+09:00",
+ "updated": "2026-11-08T07:48:07.988+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "5509572619",
+   "mall": "쿠팡",
+   "title": "맛선생 참치액, 950g, 2개",
+   "price": 7180,
+   "image": "https://t3a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/67855423-59e2-4a70-94d2-b5b279f225611362637364190612520.png",
+   "sentAt": "2026-11-08T07:48:07.988+09:00",
+   "saving": 19,
+   "baseline": 8900,
+   "baselineNote": "167곳 중 최저 · 무료배송",
+   "unit": {
+    "label": "개당",
+    "value": 3590
+   },
+   "check": {
+    "market": 8900,
+    "malls": 167,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": false,
+    "low": 4030
+   },
+   "review": {
+    "score": 4.6,
+    "count": 11116,
+    "low": 42
+   },
+   "comps": [
+    {
+     "name": "167곳 중 최저 · 무료배송",
+     "price": 8900
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 9540
+    },
+    {
+     "m": "26-01",
+     "p": 8990
+    },
+    {
+     "m": "26-02",
+     "p": 9060
+    },
+    {
+     "m": "26-03",
+     "p": 6800
+    },
+    {
+     "m": "26-04",
+     "p": 6390
+    },
+    {
+     "m": "26-05",
+     "p": 5970
+    },
+    {
+     "m": "26-06",
+     "p": 6170
+    },
+    {
+     "m": "26-07",
+     "p": 7110
+    },
+    {
+     "m": "26-08",
+     "p": 4030
+    },
+    {
+     "m": "26-09",
+     "p": 5730
+    },
+    {
+     "m": "26-10",
+     "p": 9900
+    },
+    {
+     "m": "26-11",
+     "p": 8900
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "D432629177",
+     "price": 8900,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "3022538812",
+     "price": 8900,
+     "ship": 0
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000663165326",
+     "price": 11226,
+     "ship": 3000
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "8040583244",
+     "price": 11470,
+     "ship": 3000
+    },
+    {
+     "mall": "TZA113",
+     "code": "TZA113",
+     "id": "13753758136",
+     "price": 11800,
+     "ship": 0
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000663165326",
+     "price": 12070,
+     "ship": 3000
+    },
+    {
+     "mall": "신세계몰",
+     "code": "ED901",
+     "id": "1000663165326",
+     "price": 12070,
+     "ship": 3000
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2798982054",
+     "price": 13600,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/iuSVmSEI3w",
+   "web": true
+  },
   {
    "uid": "1648310062",
    "mall": "11번가",
@@ -5878,19 +6024,6 @@
    "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/96406349647890-18f6a03e-03e1-45aa-bcdf-7ca2f09697b9.png",
    "sentAt": "2026-10-26T06:52:42.294+09:00",
    "link": "https://link.coupang.com/a/h9e9JfHiOi",
-   "web": true
-  },
-  {
-   "uid": "4405836660",
-   "mall": "쿠팡",
-   "title": "파나소닉 멀티플랙스 5중날 LV-97",
-   "price": 167990,
-   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/fa51/7a28978c4c998a0719c99f42ef337601c730802aba7f4ce81c1280c32158.jpg",
-   "sentAt": "2026-10-26T01:55:22.027+09:00",
-   "saving": 33,
-   "baseline": 248990,
-   "baselineNote": "58곳 중 최저 · 무료배송",
-   "link": "https://link.coupang.com/a/g1zoB5IrFA",
    "web": true
   }
  ]
