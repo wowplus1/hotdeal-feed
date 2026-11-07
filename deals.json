@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-07T16:51:33.936+09:00",
+ "updated": "2026-11-07T17:01:16.088+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5433331287",
+   "mall": "지마켓",
+   "title": "크리넥스 마이비데 키즈 캡 40매 9팩 2세트",
+   "price": 18630,
+   "image": "https://gdimg.gmarket.co.kr/2514176527/goodsimage",
+   "sentAt": "2026-11-07T17:01:15.556+09:00",
+   "saving": 30,
+   "baseline": 26690,
+   "baselineNote": "판매글 28곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 28곳 최저가",
+     "price": 26690
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2514176527"
+  },
   {
    "uid": "7297298452",
    "mall": "토스쇼핑",
@@ -3673,20 +3691,6 @@
     }
    ],
    "link": "http://app.ac/TAVlO8573"
-  },
-  {
-   "uid": "3861316111",
-   "mall": "쿠팡",
-   "title": "스탠리 퀜처 H2.0 플로우 스테이트 텀블러 887ml*1개",
-   "price": 19580,
-   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2849633657372996-bcd9b1ee-ad66-43c3-9682-ce568d3cd3b4.jpg",
-   "sentAt": "2026-11-05T19:30:21.183+09:00",
-   "alt": {
-    "price": 35230,
-    "where": "5곳 중 최저",
-    "ship": 0
-   },
-   "link": "https://link.coupang.com/a/h9PX5j54hg"
   }
  ]
 }
