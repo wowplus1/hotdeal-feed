@@ -1,7 +1,16 @@
 {
- "updated": "2026-11-07T15:22:56.741+09:00",
+ "updated": "2026-11-07T16:03:26.151+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2494229029",
+   "mall": "지마켓",
+   "title": "하림 양푼김치찌개 8입+훌라면 4입+닭칼국수 4입",
+   "price": 12500,
+   "image": "https://gdimg.gmarket.co.kr/4672937495/goodsimage",
+   "sentAt": "2026-11-07T16:03:25.566+09:00",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4672937495"
+  },
   {
    "uid": "9002732891",
    "mall": "쿠팡",
@@ -3669,28 +3678,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/f9zYmBVe2K"
-  },
-  {
-   "uid": "5856623231",
-   "mall": "지마켓",
-   "title": "더블하트 모유실감 젖꼭지 6개 29,440원/32,570원",
-   "price": 29440,
-   "image": "https://gdimg.gmarket.co.kr/4143930553/goodsimage",
-   "sentAt": "2026-11-05T19:01:37.830+09:00",
-   "saving": 22,
-   "baseline": 37940,
-   "baselineNote": "판매글 7곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 4907
-   },
-   "comps": [
-    {
-     "name": "판매글 7곳 최저가",
-     "price": 37940
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4143930553"
   }
  ]
 }
