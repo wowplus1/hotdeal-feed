@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-07T20:10:43.667+09:00",
+ "updated": "2026-11-07T22:00:17.366+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "8979870720",
+   "mall": "지마켓",
+   "title": "삼성 비스포크 ai 키친핏 4도어 냉장고 640l",
+   "price": 2059000,
+   "image": "https://gdimg.gmarket.co.kr/4862148208/goodsimage",
+   "sentAt": "2026-11-07T22:00:17.366+09:00",
+   "saving": 21,
+   "baseline": 2612610,
+   "baselineNote": "판매글 5곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 5곳 최저가",
+     "price": 2612610
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4862148208",
+   "web": true
+  },
   {
    "uid": "1343023715",
    "mall": "11번가",
@@ -5721,19 +5740,6 @@
    "baselineNote": "판매글 5곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/h8rJ5IkNVs",
-   "web": true
-  },
-  {
-   "uid": "8325285975",
-   "mall": "쿠팡",
-   "title": "에이수스 2026 비보북 S 14 코어Ultra5 인텔 14세대 512GB*16GB*WIN11 Home",
-   "price": 951020,
-   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/rs_quotation_api/8zg8ba05/1efa1241ea424ff6ba8f642e057d6461.jpg",
-   "sentAt": "2026-10-25T18:34:33.573+09:00",
-   "saving": 56,
-   "baseline": 2168000,
-   "baselineNote": "판매글 17곳 최저가",
-   "link": "https://link.coupang.com/a/gGDGaSPXz2",
    "web": true
   }
  ]
