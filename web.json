@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-07T22:34:01.700+09:00",
+ "updated": "2026-11-07T23:20:42.643+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "9498279384",
+   "mall": "11번가",
+   "title": "뱅 에너지 체리바닐라 355ml, 24입 + 증정",
+   "price": 23660,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9633317492/B.webp?769939692",
+   "sentAt": "2026-11-07T23:20:42.643+09:00",
+   "saving": 33,
+   "baseline": 35250,
+   "baselineNote": "판매글 8곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 8곳 최저가",
+     "price": 35250
+    }
+   ],
+   "link": "http://app.ac/h3Ct3kJ93",
+   "web": true
+  },
   {
    "uid": "8655260708",
    "mall": "쿠팡",
@@ -5864,19 +5883,6 @@
    "baselineNote": "702곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/h8OPKsW2x2",
-   "web": true
-  },
-  {
-   "uid": "8658406671",
-   "mall": "쿠팡",
-   "title": "스탠리 퀜처 프로투어 플립스트로 텀블러 하이드렌지아 887ml",
-   "price": 21870,
-   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/975050457425344-62af8b2b-ba08-46f7-8a91-a7c86f8ac5f9.jpg",
-   "sentAt": "2026-10-26T00:41:09.555+09:00",
-   "saving": 55,
-   "baseline": 48600,
-   "baselineNote": "310곳 중 최저 · 무료배송",
-   "link": "https://link.coupang.com/a/hD96bGudlk",
    "web": true
   }
  ]
