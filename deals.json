@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-07T17:01:55.916+09:00",
+ "updated": "2026-11-07T17:29:17.178+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6323671943",
+   "mall": "토스쇼핑",
+   "title": "다듬피 홍합, 국내산, 통영, 5kg, 1봉",
+   "price": 8900,
+   "image": "https://shopping.toss.im/live/product/327011/4f6fa65a-5998-4a35-9a07-3eac132a382a.jpg",
+   "sentAt": "2026-11-07T17:29:16.499+09:00",
+   "saving": 27,
+   "baseline": 12120,
+   "baselineNote": "판매글 7곳 최저가",
+   "unit": {
+    "label": "100g당",
+    "value": 178
+   },
+   "comps": [
+    {
+     "name": "판매글 7곳 최저가",
+     "price": 12120
+    }
+   ],
+   "link": "https://toss.im/_m/zah5AYc6"
+  },
   {
    "uid": "2567306044",
    "mall": "쿠팡",
@@ -3535,28 +3557,6 @@
    "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9013849474/B.webp?837250473",
    "sentAt": "2026-11-05T21:00:12.690+09:00",
    "link": "http://app.ac/btnW7IM93"
-  },
-  {
-   "uid": "4947393379",
-   "mall": "토스쇼핑",
-   "title": "코오롱제약 올인원 하루한알 멀티비타민, 60정, 2개",
-   "price": 8790,
-   "image": "https://shopping.toss.im/live/temp/2026-08-10/b60d9a5c-9d9f-4124-bc14-d6244563f453.png",
-   "sentAt": "2026-11-05T20:51:15.607+09:00",
-   "saving": 29,
-   "baseline": 12420,
-   "baselineNote": "판매글 11곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 4395
-   },
-   "comps": [
-    {
-     "name": "판매글 11곳 최저가",
-     "price": 12420
-    }
-   ],
-   "link": "https://toss.im/_m/lngqnn1l"
   }
  ]
 }
