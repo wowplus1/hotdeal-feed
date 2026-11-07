@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-07T12:09:50.867+09:00",
+ "updated": "2026-11-07T14:01:26.757+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9515851100",
+   "mall": "지마켓",
+   "title": "깨끗한나라 뽑아쓰는 키친타올 100매 10팩 8,040원",
+   "price": 8040,
+   "image": "https://gdimg.gmarket.co.kr/2698242120/goodsimage",
+   "sentAt": "2026-11-07T14:01:25.967+09:00",
+   "saving": 27,
+   "baseline": 10980,
+   "baselineNote": "판매글 16곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 16곳 최저가",
+     "price": 10980
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2698242120"
+  },
   {
    "uid": "6564253917",
    "mall": "쿠팡",
@@ -3562,28 +3580,6 @@
     }
    ],
    "link": "https://toss.shopping/_m/rjeauUAy"
-  },
-  {
-   "uid": "4524349086",
-   "mall": "지마켓",
-   "title": "2026년산 햅쌀 푸드앤픽 새청무 특등급 단일품종 20kg",
-   "price": 52740,
-   "image": "https://gdimg.gmarket.co.kr/4575997306/goodsimage",
-   "sentAt": "2026-11-05T17:53:31.908+09:00",
-   "saving": 22,
-   "baseline": 67960,
-   "baselineNote": "판매글 6곳 최저가",
-   "unit": {
-    "label": "100g당",
-    "value": 264
-   },
-   "comps": [
-    {
-     "name": "판매글 6곳 최저가",
-     "price": 67960
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4575997306"
   }
  ]
 }
