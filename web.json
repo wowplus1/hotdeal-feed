@@ -1,7 +1,136 @@
 {
- "updated": "2026-11-07T10:00:55.973+09:00",
+ "updated": "2026-11-07T10:49:08.498+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "9429693910",
+   "mall": "쿠팡",
+   "title": "해태제과 오사쯔, 60g, 16개",
+   "price": 11640,
+   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/9d84/d62f15eae2b4abb110fdd44c8ffbbd892505dbc09dc043dcdffe8c2f6913.jpg",
+   "sentAt": "2026-11-07T10:49:08.498+09:00",
+   "saving": 27,
+   "baseline": 15990,
+   "baselineNote": "565곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 728
+   },
+   "check": {
+    "market": 15990,
+    "malls": 565
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 13070
+   },
+   "review": {
+    "score": 4.7,
+    "count": 569,
+    "low": 4
+   },
+   "comps": [
+    {
+     "name": "565곳 중 최저",
+     "price": 15990
+    }
+   ],
+   "trend": [
+    {
+     "m": "26-04",
+     "p": 13070
+    },
+    {
+     "m": "26-05",
+     "p": 13070
+    },
+    {
+     "m": "26-06",
+     "p": 14210
+    },
+    {
+     "m": "26-07",
+     "p": 13720
+    },
+    {
+     "m": "26-08",
+     "p": 13800
+    },
+    {
+     "m": "26-09",
+     "p": 13710
+    },
+    {
+     "m": "26-10",
+     "p": 13880
+    },
+    {
+     "m": "26-11",
+     "p": 15240
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "E913777619",
+     "price": 15990,
+     "ship": 3000
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4006937565",
+     "price": 16010,
+     "ship": 4000
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2714195225",
+     "price": 16340,
+     "ship": 3000
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "3034889236",
+     "price": 16620,
+     "ship": 3000
+    },
+    {
+     "mall": "현대Hmall",
+     "code": "ED907",
+     "id": "2253770343",
+     "price": 18640,
+     "ship": 0
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000672219714",
+     "price": 19304,
+     "ship": 0
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000672219714",
+     "price": 19304,
+     "ship": 0
+    },
+    {
+     "mall": "신세계몰",
+     "code": "ED901",
+     "id": "1000672219714",
+     "price": 19304,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/itqZfD26p2",
+   "web": true
+  },
   {
    "uid": "1853974926",
    "mall": "쿠팡",
@@ -5208,20 +5337,6 @@
    "baselineNote": "36곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/h6Yk5W0ree",
-   "web": true
-  },
-  {
-   "uid": "5264012418",
-   "mall": "쿠팡",
-   "title": "오뚜기 뿌셔뿌셔 불고기맛, 90g, 5개",
-   "price": 3580,
-   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/69490790863792-7cc903bd-cdef-4a70-bccf-52fa61e75e1f.jpg",
-   "sentAt": "2026-10-24T14:09:33.246+09:00",
-   "saving": 17,
-   "baseline": 4310,
-   "baselineNote": "170곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/h6qyCr9Nhk",
    "web": true
   }
  ]
