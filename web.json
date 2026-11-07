@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-07T23:34:48.293+09:00",
+ "updated": "2026-11-08T00:19:22.628+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "1648310062",
+   "mall": "11번가",
+   "title": "뉴! 쟌슨빌 부대찌개 500g 2+2팩 외",
+   "price": 14420,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/2247363143/B.webp",
+   "sentAt": "2026-11-08T00:19:22.628+09:00",
+   "saving": 32,
+   "baseline": 21200,
+   "baselineNote": "판매글 5곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 5곳 최저가",
+     "price": 21200
+    }
+   ],
+   "link": "http://app.ac/YbpWX0l53",
+   "web": true
+  },
   {
    "uid": "7380494391",
    "mall": "11번가",
@@ -5872,17 +5891,6 @@
    "baseline": 248990,
    "baselineNote": "58곳 중 최저 · 무료배송",
    "link": "https://link.coupang.com/a/g1zoB5IrFA",
-   "web": true
-  },
-  {
-   "uid": "3913721367",
-   "mall": "쿠팡",
-   "title": "롯데웰푸드 칸쵸 초코 54g 4개",
-   "price": 2570,
-   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/66883706241987-ecae22d1-7628-4b27-92d0-17129ac41519.png",
-   "sentAt": "2026-10-26T01:21:46.436+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/h8RsImTjhs",
    "web": true
   }
  ]
