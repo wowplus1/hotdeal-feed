@@ -1,7 +1,149 @@
 {
- "updated": "2026-11-07T09:18:49.047+09:00",
+ "updated": "2026-11-07T09:21:22.624+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8941557910",
+   "mall": "토스쇼핑",
+   "title": "페페브루노 엑스트라버진 올리브 오일, 1L, 1개",
+   "price": 12900,
+   "image": "https://shopping.toss.im/live/taca/ai/ZjllOWU2/QUpmRE85aG9IZVFubC9BYnlYQVA1TFR2K0p0TEVBTmt0T3ZzdTB1VlVIeTA.png",
+   "sentAt": "2026-11-07T09:21:21.642+09:00",
+   "saving": 32,
+   "baseline": 19110,
+   "baselineNote": "34곳 중 최저 · 무료배송",
+   "check": {
+    "market": 19110,
+    "malls": 34,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 15990
+   },
+   "spec": [
+    "올리브유",
+    "유리",
+    "엑스트라버진 올리브유 100%",
+    "이탈리아"
+   ],
+   "comps": [
+    {
+     "name": "34곳 중 최저 · 무료배송",
+     "price": 19110
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 17570
+    },
+    {
+     "m": "26-01",
+     "p": 17820
+    },
+    {
+     "m": "26-02",
+     "p": 17900
+    },
+    {
+     "m": "26-03",
+     "p": 16910
+    },
+    {
+     "m": "26-04",
+     "p": 17220
+    },
+    {
+     "m": "26-05",
+     "p": 17220
+    },
+    {
+     "m": "26-06",
+     "p": 17100
+    },
+    {
+     "m": "26-07",
+     "p": 17990
+    },
+    {
+     "m": "26-08",
+     "p": 17990
+    },
+    {
+     "m": "26-09",
+     "p": 15990
+    },
+    {
+     "m": "26-10",
+     "p": 18990
+    },
+    {
+     "m": "26-11",
+     "p": 19210
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4829232085",
+     "price": 19110,
+     "ship": 0
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F498293735",
+     "price": 19210,
+     "ship": 0
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000799591753",
+     "price": 19856,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9169172604",
+     "price": 20290,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2747315803",
+     "price": 20560,
+     "ship": 0
+    },
+    {
+     "mall": "하프클럽",
+     "code": "TZ6171",
+     "id": "381171735",
+     "price": 21160,
+     "ship": 0
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000799591753",
+     "price": 21350,
+     "ship": 0
+    },
+    {
+     "mall": "신세계몰",
+     "code": "ED901",
+     "id": "1000799591753",
+     "price": 21350,
+     "ship": 0
+    }
+   ],
+   "link": "https://toss.im/_m/Pp1nDBa1"
+  },
   {
    "uid": "2117446911",
    "mall": "토스쇼핑",
@@ -3493,28 +3635,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iqvNNB6hR6"
-  },
-  {
-   "uid": "2474763231",
-   "mall": "쿠팡",
-   "title": "롯데웰푸드 크런키 초콜릿 34g 24개",
-   "price": 17220,
-   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/54831248923930-9db65223-8e34-42bf-a0b4-da9b57a9095d.jpg",
-   "sentAt": "2026-11-05T15:40:33.924+09:00",
-   "saving": 42,
-   "baseline": 29500,
-   "baselineNote": "판매글 8곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 718
-   },
-   "comps": [
-    {
-     "name": "판매글 8곳 최저가",
-     "price": 29500
-    }
-   ],
-   "link": "https://link.coupang.com/a/iqrXBbJHrg"
   }
  ]
 }
