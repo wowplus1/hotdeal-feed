@@ -1,7 +1,104 @@
 {
- "updated": "2026-11-07T11:55:20.439+09:00",
+ "updated": "2026-11-07T13:01:12.776+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "5992668840",
+   "mall": "지마켓",
+   "title": "차일드라이프 액상 칼슘 마그네슘 오렌지맛 473ml 2개 40,060원",
+   "price": 40060,
+   "image": "https://gdimg.gmarket.co.kr/3252000537/goodsimage",
+   "sentAt": "2026-11-07T13:01:12.776+09:00",
+   "saving": 16,
+   "baseline": 47660,
+   "baselineNote": "38곳 중 최저 · 무료배송",
+   "unit": {
+    "label": "개당",
+    "value": 20030
+   },
+   "check": {
+    "market": 47660,
+    "malls": 38,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 41500
+   },
+   "review": {
+    "score": 4.6,
+    "count": 179,
+    "low": 1
+   },
+   "comps": [
+    {
+     "name": "38곳 중 최저 · 무료배송",
+     "price": 47660
+    }
+   ],
+   "trend": [
+    {
+     "m": "26-07",
+     "p": 47700
+    },
+    {
+     "m": "26-08",
+     "p": 45920
+    },
+    {
+     "m": "26-09",
+     "p": 41500
+    },
+    {
+     "m": "26-10",
+     "p": 44700
+    },
+    {
+     "m": "26-11",
+     "p": 47660
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "2930844921",
+     "price": 47660,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "3252000537",
+     "price": 47670,
+     "ship": 0
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "D666810887",
+     "price": 52260,
+     "ship": 0
+    },
+    {
+     "mall": "TY4C4",
+     "code": "TY4C4",
+     "id": "13338693992",
+     "price": 59000,
+     "ship": 9900
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2207991109",
+     "price": 64000,
+     "ship": 0
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=3252000537",
+   "web": true
+  },
   {
    "uid": "9538872399",
    "mall": "쿠팡",
@@ -5438,20 +5535,6 @@
    "baselineNote": "51곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/h678NTPbGu",
-   "web": true
-  },
-  {
-   "uid": "4026749936",
-   "mall": "쿠팡",
-   "title": "프링글스 켈로그 버터카라멜 110g 12개",
-   "price": 16490,
-   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/92043986939088-81429c4e-a6d4-4291-8607-f60d495acb65.jpg",
-   "sentAt": "2026-10-24T23:11:30.937+09:00",
-   "saving": 16,
-   "baseline": 19589,
-   "baselineNote": "198곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/h63gI9h29k",
    "web": true
   }
  ]
