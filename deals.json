@@ -1,7 +1,139 @@
 {
- "updated": "2026-11-07T14:01:26.757+09:00",
+ "updated": "2026-11-07T14:26:08.988+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1133221872",
+   "mall": "쿠팡",
+   "title": "카시오 MQ-24G-9E 남성 메탈 시계",
+   "price": 20040,
+   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/7baa/e98ddbb3aa4dc2115ec55ba9f0e6c0def2207eb9a6bb1f53e2686122bb20.jpg",
+   "sentAt": "2026-11-07T14:26:08.438+09:00",
+   "saving": 50,
+   "baseline": 40400,
+   "baselineNote": "12곳 중 최저",
+   "check": {
+    "market": 40400,
+    "malls": 12,
+    "ship": 3000,
+    "delivered": 43400
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 33360
+   },
+   "spec": [
+    "손목시계",
+    "남성용",
+    "여성용",
+    "스테인리스스틸",
+    "아날로그시계"
+   ],
+   "comps": [
+    {
+     "name": "12곳 중 최저",
+     "price": 40400
+    },
+    {
+     "name": "배송비 3,000원 포함",
+     "price": 43400
+    }
+   ],
+   "trend": [
+    {
+     "m": "26-04",
+     "p": 33360
+    },
+    {
+     "m": "26-05",
+     "p": 33360
+    },
+    {
+     "m": "26-06",
+     "p": 40400
+    },
+    {
+     "m": "26-07",
+     "p": 40400
+    },
+    {
+     "m": "26-08",
+     "p": 40400
+    },
+    {
+     "m": "26-09",
+     "p": 40400
+    },
+    {
+     "m": "26-10",
+     "p": 40400
+    },
+    {
+     "m": "26-11",
+     "p": 53962
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "2684995258",
+     "price": 40400,
+     "ship": 3000
+    },
+    {
+     "mall": "신세계몰",
+     "code": "ED901",
+     "id": "1000703444019",
+     "price": 57024,
+     "ship": 0
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F255616175",
+     "price": 58320,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4453696942",
+     "price": 58320,
+     "ship": 0
+    },
+    {
+     "mall": "LFmall",
+     "code": "TXB15E",
+     "id": "DWDPXX00659",
+     "price": 67070,
+     "ship": 0
+    },
+    {
+     "mall": "롯데홈쇼핑",
+     "code": "ED903",
+     "id": "3199134011",
+     "price": 72330,
+     "ship": 0
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000715147448",
+     "price": 76950,
+     "ship": 0
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000715147448",
+     "price": 76950,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/itGqYo8k6m"
+  },
   {
    "uid": "9515851100",
    "mall": "지마켓",
@@ -3428,158 +3560,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iqExdzclK8"
-  },
-  {
-   "uid": "7428359170",
-   "mall": "토스쇼핑",
-   "title": "식물성 대마종자유 엔 탑 1000 맥스, 1000mg, 60캡슐, 3개",
-   "price": 15900,
-   "image": "https://shopping.toss.im/live/taca/ai/NTk5MWQ2/QU1zTWh6YXc5Sm1wM29ja3Rkd2xjZW0rQjU0Y1A0T3IwL0JZdzVhbzBueHA.png",
-   "sentAt": "2026-11-05T18:26:42.214+09:00",
-   "saving": 39,
-   "baseline": 26010,
-   "baselineNote": "73곳 중 최저 · 무료배송",
-   "unit": {
-    "label": "개당",
-    "value": 5300
-   },
-   "check": {
-    "market": 26010,
-    "malls": 73,
-    "ship": 0
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": true,
-    "low": 18900
-   },
-   "review": {
-    "score": 4.7,
-    "count": 738,
-    "low": 2
-   },
-   "spec": [
-    "성인남녀",
-    "캡슐,정",
-    "1일 1회, 1캡슐",
-    "60일분",
-    "HACCP"
-   ],
-   "comps": [
-    {
-     "name": "73곳 중 최저 · 무료배송",
-     "price": 26010
-    }
-   ],
-   "trend": [
-    {
-     "m": "25-12",
-     "p": 18900
-    },
-    {
-     "m": "26-01",
-     "p": 18900
-    },
-    {
-     "m": "26-02",
-     "p": 21520
-    },
-    {
-     "m": "26-03",
-     "p": 18900
-    },
-    {
-     "m": "26-04",
-     "p": 18900
-    },
-    {
-     "m": "26-05",
-     "p": 23970
-    },
-    {
-     "m": "26-06",
-     "p": 23900
-    },
-    {
-     "m": "26-07",
-     "p": 23020
-    },
-    {
-     "m": "26-08",
-     "p": 23900
-    },
-    {
-     "m": "26-09",
-     "p": 22470
-    },
-    {
-     "m": "26-10",
-     "p": 22120
-    },
-    {
-     "m": "26-11",
-     "p": 23900
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "7602013598",
-     "price": 26010,
-     "ship": 0
-    },
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "4161113709",
-     "price": 26010,
-     "ship": 0
-    },
-    {
-     "mall": "GS SHOP",
-     "code": "ED908",
-     "id": "1079212235",
-     "price": 26910,
-     "ship": 0
-    },
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "F610560171",
-     "price": 27800,
-     "ship": 0
-    },
-    {
-     "mall": "SSG.COM",
-     "code": "TN118",
-     "id": "1000620191310",
-     "price": 28900,
-     "ship": 0
-    },
-    {
-     "mall": "하프클럽",
-     "code": "TZ6171",
-     "id": "373869133",
-     "price": 28900,
-     "ship": 0
-    },
-    {
-     "mall": "신세계몰",
-     "code": "ED901",
-     "id": "1000620191310",
-     "price": 28900,
-     "ship": 0
-    },
-    {
-     "mall": "쇼핑엔티",
-     "code": "TTC2DF",
-     "id": "17830330",
-     "price": 28900,
-     "ship": 0
-    }
-   ],
-   "link": "https://toss.shopping/_m/rjeauUAy"
   }
  ]
 }
