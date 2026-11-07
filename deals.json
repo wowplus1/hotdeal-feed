@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-08T08:16:07.641+09:00",
+ "updated": "2026-11-08T08:38:36.138+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1530903873",
+   "mall": "쿠팡",
+   "title": "일본 목캔디 용각산 목사탕, 88g*6개",
+   "price": 11490,
+   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/bc35/f625112f3b5d04d56b4d1b065c5c55b20d72fdf169792b685bd0ec9539d0.jpg",
+   "sentAt": "2026-11-08T08:38:35.369+09:00",
+   "saving": 42,
+   "baseline": 19900,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 1915
+   },
+   "comps": [
+    {
+     "name": "판매글 4곳 최저가",
+     "price": 19900
+    }
+   ],
+   "link": "https://link.coupang.com/a/gl6Kif8pQO"
+  },
   {
    "uid": "8218640647",
    "mall": "토스쇼핑",
@@ -3594,28 +3616,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/f9BGJLUuWq"
-  },
-  {
-   "uid": "6735911050",
-   "mall": "쿠팡",
-   "title": "코카콜라 오리지널, 190ml, 30개",
-   "price": 13180,
-   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/89720961368927-a2bc7a57-cb63-4376-b222-56cce7c5c2fd.jpg",
-   "sentAt": "2026-11-06T07:34:07.841+09:00",
-   "saving": 40,
-   "baseline": 21810,
-   "baselineNote": "판매글 13곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 439
-   },
-   "comps": [
-    {
-     "name": "판매글 13곳 최저가",
-     "price": 21810
-    }
-   ],
-   "link": "https://link.coupang.com/a/gfBAmA2fkq"
   }
  ]
 }
