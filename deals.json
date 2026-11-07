@@ -1,7 +1,84 @@
 {
- "updated": "2026-11-08T07:36:32.301+09:00",
+ "updated": "2026-11-08T07:40:38.370+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6690114023",
+   "mall": "쿠팡",
+   "title": "펩시 제로슈거 라임향 제로카페인 무라벨, 300ml, 40개",
+   "price": 21880,
+   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/04/07/16/7/a3f574df-8125-482f-b30c-171dd071a3d3.png",
+   "sentAt": "2026-11-08T07:40:37.836+09:00",
+   "saving": 42,
+   "baseline": 37610,
+   "baselineNote": "6곳 중 최저 · 무료배송",
+   "unit": {
+    "label": "개당",
+    "value": 547
+   },
+   "check": {
+    "market": 37610,
+    "malls": 6,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 24280
+   },
+   "spec": [
+    "콜라",
+    "페트"
+   ],
+   "comps": [
+    {
+     "name": "6곳 중 최저 · 무료배송",
+     "price": 37610
+    }
+   ],
+   "trend": [
+    {
+     "m": "26-08",
+     "p": 30360
+    },
+    {
+     "m": "26-09",
+     "p": 24280
+    },
+    {
+     "m": "26-10",
+     "p": 35940
+    },
+    {
+     "m": "26-11",
+     "p": 36410
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4699764809",
+     "price": 37610,
+     "ship": 0
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F505777443",
+     "price": 37610,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9432389060",
+     "price": 38450,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/iuSnHiBoXI"
+  },
   {
    "uid": "6448801565",
    "mall": "쿠팡",
@@ -3549,160 +3626,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/geShoBvvk4"
-  },
-  {
-   "uid": "5779368231",
-   "mall": "쿠팡",
-   "title": "하인즈 버거소스, 230g, 1개",
-   "price": 2630,
-   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/1025_amir_coupang_oct_80k/85cd/6969c7dfb24fe4a026621b01c8bc959531fd6a062c96bdfe5f1e6bfed284.jpg",
-   "sentAt": "2026-11-06T07:24:17.817+09:00",
-   "saving": 31,
-   "baseline": 3830,
-   "baselineNote": "131곳 중 최저",
-   "unit": {
-    "label": "100g당",
-    "value": 1143
-   },
-   "check": {
-    "market": 3830,
-    "malls": 131,
-    "ship": 2500,
-    "delivered": 6330
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": false,
-    "low": 2310
-   },
-   "review": {
-    "score": 4.9,
-    "count": 4972,
-    "low": 0
-   },
-   "spec": [
-    "햄버거소스",
-    "튜브형"
-   ],
-   "comps": [
-    {
-     "name": "131곳 중 최저",
-     "price": 3830
-    },
-    {
-     "name": "배송비 2,500원 포함",
-     "price": 6330
-    }
-   ],
-   "trend": [
-    {
-     "m": "25-12",
-     "p": 2460
-    },
-    {
-     "m": "26-01",
-     "p": 2480
-    },
-    {
-     "m": "26-02",
-     "p": 2450
-    },
-    {
-     "m": "26-03",
-     "p": 2470
-    },
-    {
-     "m": "26-04",
-     "p": 2460
-    },
-    {
-     "m": "26-05",
-     "p": 2430
-    },
-    {
-     "m": "26-06",
-     "p": 2430
-    },
-    {
-     "m": "26-07",
-     "p": 2310
-    },
-    {
-     "m": "26-08",
-     "p": 3050
-    },
-    {
-     "m": "26-09",
-     "p": 2990
-    },
-    {
-     "m": "26-10",
-     "p": 3000
-    },
-    {
-     "m": "26-11",
-     "p": 4540
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "3583213413",
-     "price": 3830,
-     "ship": 2500
-    },
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "2135005915",
-     "price": 4310,
-     "ship": 2500
-    },
-    {
-     "mall": "롯데ON",
-     "code": "EE309",
-     "id": "LO2714663438",
-     "price": 4500,
-     "ship": 3000
-    },
-    {
-     "mall": "롯데마트몰",
-     "code": "TU14D",
-     "id": "OS8801065001603",
-     "price": 4780,
-     "ship": 3000
-    },
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "E650117258",
-     "price": 5050,
-     "ship": 3000
-    },
-    {
-     "mall": "주식회사 신세계라이브쇼핑",
-     "code": "TRB03",
-     "id": "1002831389",
-     "price": 6680,
-     "ship": 3000
-    },
-    {
-     "mall": "SK스토아",
-     "code": "TSB275",
-     "id": "65455158",
-     "price": 6970,
-     "ship": 3000
-    },
-    {
-     "mall": "패션플러스",
-     "code": "TH002",
-     "id": "430073386",
-     "price": 6980,
-     "ship": 3000
-    }
-   ],
-   "link": "https://link.coupang.com/a/irxqMq1ppk"
   }
  ]
 }
