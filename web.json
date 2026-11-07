@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-07T22:00:17.366+09:00",
+ "updated": "2026-11-07T22:25:28.825+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "5935947117",
+   "mall": "11번가",
+   "title": "HACCP 구운계란 60구 대란",
+   "price": 14060,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9152329359/B.webp?540545867",
+   "sentAt": "2026-11-07T22:25:28.825+09:00",
+   "saving": 22,
+   "baseline": 18070,
+   "baselineNote": "판매글 6곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 234
+   },
+   "comps": [
+    {
+     "name": "판매글 6곳 최저가",
+     "price": 18070
+    }
+   ],
+   "link": "http://app.ac/CECrkzS13",
+   "web": true
+  },
   {
    "uid": "8979870720",
    "mall": "지마켓",
@@ -5726,20 +5749,6 @@
    "baselineNote": "판매글 5곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4777166390",
-   "web": true
-  },
-  {
-   "uid": "1403031946",
-   "mall": "쿠팡",
-   "title": "제이엠 솔루션 콜라겐 피디알엔 퍼밍 토너 패드 100매, 170ml, 1개",
-   "price": 6740,
-   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/05edf869-2ec0-4652-bb98-5bc42dc0d7ac11496251599728304575.png",
-   "sentAt": "2026-10-25T19:21:41.983+09:00",
-   "saving": 54,
-   "baseline": 14700,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/h8rJ5IkNVs",
    "web": true
   }
  ]
