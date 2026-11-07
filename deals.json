@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-07T11:54:17.897+09:00",
+ "updated": "2026-11-07T12:09:50.867+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6564253917",
+   "mall": "쿠팡",
+   "title": "스탠리 트랜짓 트위스트플립 머그 591ml*1개",
+   "price": 21870,
+   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/11/04/11/5/606cc966-bdf9-439a-882c-8e297b373f6f.png",
+   "sentAt": "2026-11-07T12:09:49.991+09:00",
+   "saving": 66,
+   "baseline": 64350,
+   "baselineNote": "판매글 5곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 5곳 최저가",
+     "price": 64350
+    }
+   ],
+   "link": "https://link.coupang.com/a/itwJ1ZZlPU"
+  },
   {
    "uid": "8946957586",
    "mall": "쿠팡",
@@ -3566,28 +3584,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4575997306"
-  },
-  {
-   "uid": "5869034391",
-   "mall": "지마켓",
-   "title": "아삭한 부유단감 3kg 중과사이즈",
-   "price": 8630,
-   "image": "https://gdimg.gmarket.co.kr/4875555797/goodsimage",
-   "sentAt": "2026-11-05T17:33:35.765+09:00",
-   "saving": 29,
-   "baseline": 12232,
-   "baselineNote": "판매글 6곳 최저가",
-   "unit": {
-    "label": "100g당",
-    "value": 288
-   },
-   "comps": [
-    {
-     "name": "판매글 6곳 최저가",
-     "price": 12232
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4875555797"
   }
  ]
 }
