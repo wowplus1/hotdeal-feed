@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-07T11:03:06.004+09:00",
+ "updated": "2026-11-07T11:14:05.192+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5691546242",
+   "mall": "11번가",
+   "title": "The미식 햅쌀밥 200g, 24개",
+   "price": 19900,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9683110208/B.webp?33309074",
+   "sentAt": "2026-11-07T11:14:04.467+09:00",
+   "unit": {
+    "label": "개당",
+    "value": 829
+   },
+   "link": "http://app.ac/VbGlHyl83"
+  },
   {
    "uid": "1895984583",
    "mall": "지마켓",
@@ -3701,28 +3714,6 @@
     }
    ],
    "link": "http://app.ac/zbGq95l63"
-  },
-  {
-   "uid": "8982307980",
-   "mall": "지마켓",
-   "title": "햇올리브 유기농 엑스트라버진 올리브오일 250ml 3병",
-   "price": 22030,
-   "image": "https://gdimg.gmarket.co.kr/4833861684/goodsimage",
-   "sentAt": "2026-11-05T17:03:24.225+09:00",
-   "saving": 23,
-   "baseline": 28700,
-   "baselineNote": "판매글 9곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 7343
-   },
-   "comps": [
-    {
-     "name": "판매글 9곳 최저가",
-     "price": 28700
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4833861684"
   }
  ]
 }
