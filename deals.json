@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-07T09:37:58.446+09:00",
+ "updated": "2026-11-07T11:03:06.004+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1895984583",
+   "mall": "지마켓",
+   "title": "식물성 멜라토닌 2mg 6개월분 + 수면안대",
+   "price": 17800,
+   "image": "https://gdimg.gmarket.co.kr/4181505272/goodsimage",
+   "sentAt": "2026-11-07T11:03:05.002+09:00",
+   "saving": 24,
+   "baseline": 23490,
+   "baselineNote": "판매글 5곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 5곳 최저가",
+     "price": 23490
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4181505272"
+  },
   {
    "uid": "2406451443",
    "mall": "토스쇼핑",
@@ -3705,24 +3723,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4833861684"
-  },
-  {
-   "uid": "7527393307",
-   "mall": "롯데온",
-   "title": "1+1 닥터클로 배수구 클리너 500mlx2 젤타입 /배수구막힘해결/배수구냄새제거/배수구세정제",
-   "price": 8260,
-   "image": "https://contents.lotteon.com/itemimage/20261014091434/LO/25/15/46/95/79/_2/51/54/69/58/0/LO2515469579_2515469580_1.png",
-   "sentAt": "2026-11-05T16:35:23.652+09:00",
-   "saving": 48,
-   "baseline": 15900,
-   "baselineNote": "판매글 3곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 3곳 최저가",
-     "price": 15900
-    }
-   ],
-   "link": "http://app.ac/NbpmsOl03"
   }
  ]
 }
