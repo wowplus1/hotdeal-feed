@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-08T08:38:36.138+09:00",
+ "updated": "2026-11-08T08:50:56.030+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3763070705",
+   "mall": "쿠팡",
+   "title": "농심 누룽지팝, 142g, 16개",
+   "price": 20130,
+   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/8746/ddf7a91f7253b28b24c5a7a2f6abc1530e4f126c21b2a155baf5d5ef8023.jpg",
+   "sentAt": "2026-11-08T08:50:55.472+09:00",
+   "unit": {
+    "label": "개당",
+    "value": 1258
+   },
+   "alt": {
+    "price": 35550,
+    "where": "519곳 중 최저",
+    "ship": 0
+   },
+   "link": "https://link.coupang.com/a/isN2dslAaW"
+  },
   {
    "uid": "1530903873",
    "mall": "쿠팡",
@@ -3594,28 +3612,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/hZnzWW8juK"
-  },
-  {
-   "uid": "6004478890",
-   "mall": "쿠팡",
-   "title": "포스트 크랜베리 아몬드 그래놀라, 500g, 2개",
-   "price": 8160,
-   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/28959129272351-0433825a-837b-4524-82aa-e5d872aae133.png",
-   "sentAt": "2026-11-06T07:38:52.991+09:00",
-   "saving": 54,
-   "baseline": 17720,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 4080
-   },
-   "comps": [
-    {
-     "name": "판매글 5곳 최저가",
-     "price": 17720
-    }
-   ],
-   "link": "https://link.coupang.com/a/f9BGJLUuWq"
   }
  ]
 }
