@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-07T18:09:00.470+09:00",
+ "updated": "2026-11-07T18:25:56.392+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3831248946",
+   "mall": "토스쇼핑",
+   "title": "뉴트리원 비비랩 저분자 콜라겐, 2g, 80포, 3개",
+   "price": 54760,
+   "image": "https://shopping.toss.im/live/taca/ai/v2/YjlhZjkz/QUpwN21UeVp1VHh4RG5QbnBybVR6T01jVExIT3JuR0hObm5zRHh0anNQRGs.png",
+   "sentAt": "2026-11-07T18:25:55.777+09:00",
+   "alt": {
+    "price": 75190,
+    "where": "126곳 중 최저"
+   },
+   "link": "https://toss.shopping/_m/xMK0mNGo"
+  },
   {
    "uid": "9574164069",
    "mall": "쿠팡",
@@ -3542,28 +3555,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/gA6GnlKQQ8"
-  },
-  {
-   "uid": "3266866090",
-   "mall": "쿠팡",
-   "title": "오뚜기 라면의 맵쏘디 120g, 10개",
-   "price": 4580,
-   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/15562985735773-e85ac83f-2a84-4e02-8453-40083a2aedce.jpg",
-   "sentAt": "2026-11-06T07:09:30.666+09:00",
-   "saving": 52,
-   "baseline": 9630,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 458
-   },
-   "comps": [
-    {
-     "name": "판매글 3곳 최저가",
-     "price": 9630
-    }
-   ],
-   "link": "https://link.coupang.com/a/hjLTmGKYiO"
   }
  ]
 }
