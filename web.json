@@ -1,7 +1,83 @@
 {
- "updated": "2026-11-07T13:25:06.802+09:00",
+ "updated": "2026-11-07T14:43:38.454+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "4316800317",
+   "mall": "쿠팡",
+   "title": "팔도 바지락짬뽕 120g 4개",
+   "price": 3980,
+   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/10/15/16/0/5481a818-d620-4252-8cd2-c9a287e2f900.jpg",
+   "sentAt": "2026-11-07T14:43:38.454+09:00",
+   "saving": 10,
+   "baseline": 4400,
+   "baselineNote": "7곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 995
+   },
+   "check": {
+    "market": 4400,
+    "malls": 7,
+    "ship": 3000,
+    "delivered": 7400
+   },
+   "spec": [
+    "국물라면",
+    "기본면",
+    "매운맛",
+    "실온보관"
+   ],
+   "comps": [
+    {
+     "name": "7곳 중 최저",
+     "price": 4400
+    },
+    {
+     "name": "배송비 3,000원 포함",
+     "price": 7400
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9696122115",
+     "price": 4400,
+     "ship": 3000
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4891474454",
+     "price": 4480,
+     "ship": 3000
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F692489511",
+     "price": 4480,
+     "ship": 3000
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000891116548",
+     "price": 4480,
+     "ship": 3000
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000891116548",
+     "price": 4480,
+     "ship": 3000
+    }
+   ],
+   "link": "https://link.coupang.com/a/itBo2tYnuu",
+   "web": true
+  },
   {
    "uid": "9877883046",
    "mall": "11번가",
@@ -5527,20 +5603,6 @@
    "baselineNote": "판매글 26곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/3ECBxaS33",
-   "web": true
-  },
-  {
-   "uid": "7771496124",
-   "mall": "쿠팡",
-   "title": "포테토칩 교촌간장치킨맛, 55g, 4개",
-   "price": 3670,
-   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/92665640842440-c3511055-7515-4344-b65c-b0c1852251b5.jpg",
-   "sentAt": "2026-10-25T00:19:41.345+09:00",
-   "saving": 52,
-   "baseline": 7720,
-   "baselineNote": "51곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/h678NTPbGu",
    "web": true
   }
  ]
