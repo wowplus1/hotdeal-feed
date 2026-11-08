@@ -1,7 +1,17 @@
 {
- "updated": "2026-11-08T13:17:58.478+09:00",
+ "updated": "2026-11-08T15:12:06.352+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "4812571600",
+   "mall": "쿠팡",
+   "title": "더순삭 대용량 강력분쇄 내솥 자동세척 모드 음식물 처리기 가정용 4L",
+   "price": 146410,
+   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2024/11/18/13/3/b3d661a3-531d-4c93-ad7e-40e16749d01e.jpg",
+   "sentAt": "2026-11-08T15:12:06.352+09:00",
+   "link": "https://link.coupang.com/a/ivoGtaaQOi",
+   "web": true
+  },
   {
    "uid": "2751212063",
    "mall": "지마켓",
@@ -6523,20 +6533,6 @@
    "baselineNote": "100곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gv95rIeIKG",
-   "web": true
-  },
-  {
-   "uid": "1612849942",
-   "mall": "쿠팡",
-   "title": "뉴트로지나 딥 클린 브라이트닝 포밍 클렌저, 150g",
-   "price": 3350,
-   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/74629869702496-13e9c78b-d41c-4270-a287-9c0c427c2c19.jpg",
-   "sentAt": "2026-10-28T01:10:25.480+09:00",
-   "saving": 74,
-   "baseline": 12825,
-   "baselineNote": "판매글 8곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/icauaxPj8S",
    "web": true
   }
  ]
