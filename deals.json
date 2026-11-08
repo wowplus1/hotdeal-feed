@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-08T19:08:29.064+09:00",
+ "updated": "2026-11-08T19:19:38.317+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7212455770",
+   "mall": "11번가",
+   "title": "차오차이 레토르트 짜장 혼합 5종, 180g, 10개입, 1세트",
+   "price": 13460,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/7451842806/B.webp?865479415",
+   "sentAt": "2026-11-08T19:19:37.310+09:00",
+   "saving": 27,
+   "baseline": 18470,
+   "baselineNote": "판매글 13곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 1346
+   },
+   "comps": [
+    {
+     "name": "판매글 13곳 최저가",
+     "price": 18470
+    }
+   ],
+   "link": "http://app.ac/ktn8uVM03"
+  },
   {
    "uid": "5830260433",
    "mall": "11번가",
@@ -3561,28 +3583,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4342995023"
-  },
-  {
-   "uid": "2290444888",
-   "mall": "11번가",
-   "title": "지아자 산양유 고보습 대용량 바디로션 400ml 2개",
-   "price": 9670,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/0/3/2/9/3/2/ULXwe/8877032932_241977994.webp",
-   "sentAt": "2026-11-06T12:58:44.057+09:00",
-   "saving": 21,
-   "baseline": 12250,
-   "baselineNote": "판매글 8곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 4835
-   },
-   "comps": [
-    {
-     "name": "판매글 8곳 최저가",
-     "price": 12250
-    }
-   ],
-   "link": "http://app.ac/kAVW8w503"
   }
  ]
 }
