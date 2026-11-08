@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-09T07:58:14.539+09:00",
+ "updated": "2026-11-09T08:36:15.782+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8291843960",
+   "mall": "토스쇼핑",
+   "title": "똑순이 알고니 알탕, 700g, 2개",
+   "price": 13000,
+   "image": "https://shopping.toss.im/live/taca/ai/ODVjOWQ0/ZHVYaWJIRWI4NTA0MkliSDVtc2F6TkRqamg5QmppVytBd1p1ZVRwS0NHVT0.png",
+   "sentAt": "2026-11-09T08:36:14.421+09:00",
+   "saving": 24,
+   "baseline": 17200,
+   "baselineNote": "판매글 12곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 6500
+   },
+   "comps": [
+    {
+     "name": "판매글 12곳 최저가",
+     "price": 17200
+    }
+   ],
+   "link": "https://toss.im/_m/BXGxLJCt"
+  },
   {
    "uid": "8078705690",
    "mall": "쿠팡",
@@ -3365,24 +3387,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4624899720"
-  },
-  {
-   "uid": "1018841648",
-   "mall": "지마켓",
-   "title": "팸퍼스 터치오브네이처 2박스 95,790원/100,440원",
-   "price": 95790,
-   "image": "https://gdimg.gmarket.co.kr/4358723482/goodsimage",
-   "sentAt": "2026-11-06T18:01:04.697+09:00",
-   "saving": 36,
-   "baseline": 149800,
-   "baselineNote": "판매글 22곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 22곳 최저가",
-     "price": 149800
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4358723482"
   }
  ]
 }
