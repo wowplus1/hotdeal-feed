@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-08T15:12:06.352+09:00",
+ "updated": "2026-11-08T16:23:54.519+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "3874906416",
+   "mall": "지마켓",
+   "title": "건국 고칼슘두유 190ml 72팩",
+   "price": 23450,
+   "image": "https://gdimg.gmarket.co.kr/4240795981/goodsimage",
+   "sentAt": "2026-11-08T16:23:54.519+09:00",
+   "saving": 19,
+   "baseline": 29035,
+   "baselineNote": "판매글 6곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 326
+   },
+   "comps": [
+    {
+     "name": "판매글 6곳 최저가",
+     "price": 29035
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4240795981",
+   "web": true
+  },
   {
    "uid": "4812571600",
    "mall": "쿠팡",
@@ -6519,20 +6542,6 @@
    "baselineNote": "28곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/icJ9sXgCL6",
-   "web": true
-  },
-  {
-   "uid": "9403342186",
-   "mall": "쿠팡",
-   "title": "비타500 이온킥, 340ml, 20개",
-   "price": 12960,
-   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/06/01/16/8/fc6ed450-b55b-4464-99d0-1bdd58e93392.jpg",
-   "sentAt": "2026-10-28T07:30:05.157+09:00",
-   "saving": 21,
-   "baseline": 16370,
-   "baselineNote": "100곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gv95rIeIKG",
    "web": true
   }
  ]
