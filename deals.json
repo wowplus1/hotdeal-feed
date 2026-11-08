@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-08T12:53:26.044+09:00",
+ "updated": "2026-11-08T13:44:33.202+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3994167555",
+   "mall": "지마켓",
+   "title": "해표 순알콩 양조간장 1.8L 2개 + 500ml 2개",
+   "price": 12500,
+   "image": "https://gdimg.gmarket.co.kr/4741506601/goodsimage",
+   "sentAt": "2026-11-08T13:44:32.638+09:00",
+   "saving": 25,
+   "baseline": 16690,
+   "baselineNote": "판매글 9곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 9곳 최저가",
+     "price": 16690
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4741506601"
+  },
   {
    "uid": "8838650988",
    "mall": "지마켓",
@@ -3570,113 +3588,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4560279101"
-  },
-  {
-   "uid": "6639204438",
-   "mall": "쿠팡",
-   "title": "청정원 저당 토마토케찹, 490g, 1개",
-   "price": 2000,
-   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/11/14/17/2/9d7089aa-3bc0-4f54-bc58-54cbe57ed4f2.jpg",
-   "sentAt": "2026-11-06T10:08:28.397+09:00",
-   "saving": 49,
-   "baseline": 3950,
-   "baselineNote": "16곳 중 최저",
-   "unit": {
-    "label": "100g당",
-    "value": 408
-   },
-   "check": {
-    "market": 3950,
-    "malls": 16
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": true,
-    "low": 3130
-   },
-   "review": {
-    "score": 4.9,
-    "count": 446,
-    "low": 0
-   },
-   "comps": [
-    {
-     "name": "16곳 중 최저",
-     "price": 3950
-    }
-   ],
-   "trend": [
-    {
-     "m": "26-04",
-     "p": 3630
-    },
-    {
-     "m": "26-05",
-     "p": 3580
-    },
-    {
-     "m": "26-06",
-     "p": 3130
-    },
-    {
-     "m": "26-07",
-     "p": 3130
-    },
-    {
-     "m": "26-08",
-     "p": 3560
-    },
-    {
-     "m": "26-09",
-     "p": 3136
-    },
-    {
-     "m": "26-10",
-     "p": 3710
-    },
-    {
-     "m": "26-11",
-     "p": 3710
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "9020442155",
-     "price": 3950,
-     "ship": 3000
-    },
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "4701705319",
-     "price": 4040,
-     "ship": 3000
-    },
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "F508158584",
-     "price": 4250,
-     "ship": 3000
-    },
-    {
-     "mall": "SSG.COM",
-     "code": "TN118",
-     "id": "1000819236704",
-     "price": 4480,
-     "ship": 3000
-    },
-    {
-     "mall": "이마트몰",
-     "code": "EE311",
-     "id": "1000819236704",
-     "price": 4480,
-     "ship": 3000
-    }
-   ],
-   "link": "https://link.coupang.com/a/irJarxdFSK"
   }
  ]
 }
