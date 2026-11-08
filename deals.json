@@ -1,7 +1,24 @@
 {
- "updated": "2026-11-09T07:03:34.391+09:00",
+ "updated": "2026-11-09T07:09:09.433+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7969424240",
+   "mall": "쿠팡",
+   "title": "콘푸로스트 다크초코 시리얼, 550g, 1개",
+   "price": 3860,
+   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/596756775419750-9bb0c07e-9b10-4711-9698-5c5c4e9f1da8.jpg",
+   "sentAt": "2026-11-09T07:09:08.555+09:00",
+   "unit": {
+    "label": "100g당",
+    "value": 702
+   },
+   "alt": {
+    "price": 5500,
+    "where": "84곳 중 최저"
+   },
+   "link": "https://link.coupang.com/a/hYwOoTW4s0"
+  },
   {
    "uid": "9366377086",
    "mall": "쿠팡",
@@ -3376,95 +3393,6 @@
     "ship": 0
    },
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4895922637"
-  },
-  {
-   "uid": "7433367913",
-   "mall": "11번가",
-   "title": "이너홈 건전지 알카라인 AA 40개",
-   "price": 8010,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/1/3/9/9/6/0/FEdbo/9060139960_242571370.webp",
-   "sentAt": "2026-11-06T15:08:11.798+09:00",
-   "saving": 33,
-   "baseline": 11920,
-   "baselineNote": "8곳 중 최저 · 무료배송",
-   "unit": {
-    "label": "개당",
-    "value": 200
-   },
-   "check": {
-    "market": 11920,
-    "malls": 8,
-    "ship": 0
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": true,
-    "low": 8110
-   },
-   "spec": [
-    "일회용건전지",
-    "1.5V",
-    "AA형"
-   ],
-   "comps": [
-    {
-     "name": "8곳 중 최저 · 무료배송",
-     "price": 11920
-    }
-   ],
-   "trend": [
-    {
-     "m": "26-07",
-     "p": 12830
-    },
-    {
-     "m": "26-08",
-     "p": 10470
-    },
-    {
-     "m": "26-09",
-     "p": 10960
-    },
-    {
-     "m": "26-10",
-     "p": 8110
-    },
-    {
-     "m": "26-11",
-     "p": 11920
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "9060139960",
-     "price": 11920,
-     "ship": 0
-    },
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "4610124956",
-     "price": 11930,
-     "ship": 0
-    },
-    {
-     "mall": "롯데ON",
-     "code": "EE309",
-     "id": "LO2706256869",
-     "price": 13520,
-     "ship": 0
-    },
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "F416492920",
-     "price": 14000,
-     "ship": 0
-    }
-   ],
-   "link": "http://app.ac/CAVW5r593"
   }
  ]
 }
