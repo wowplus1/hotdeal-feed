@@ -1,7 +1,16 @@
 {
- "updated": "2026-11-09T07:27:09.751+09:00",
+ "updated": "2026-11-09T07:39:18.787+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5380699071",
+   "mall": "쿠팡",
+   "title": "세타필 모이스춰라이징 로션, 591ml, 1개",
+   "price": 9790,
+   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/77276365654004-a842d9c0-df4d-44fe-82a3-5dc3bc7ba775.jpg",
+   "sentAt": "2026-11-09T07:39:18.221+09:00",
+   "link": "https://link.coupang.com/a/hr6HuCo0Ye"
+  },
   {
    "uid": "5696188951",
    "mall": "쿠팡",
@@ -3379,28 +3388,6 @@
     }
    ],
    "link": "http://app.ac/x3CAiDJ33"
-  },
-  {
-   "uid": "4965422530",
-   "mall": "쿠팡",
-   "title": "틈새라면 고기짬뽕 120g, 4개",
-   "price": 4470,
-   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2297145409799393-b884088d-2586-4389-80d4-ae67efe2ab4d.jpg",
-   "sentAt": "2026-11-06T16:39:27.574+09:00",
-   "saving": 50,
-   "baseline": 8980,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 1118
-   },
-   "comps": [
-    {
-     "name": "판매글 3곳 최저가",
-     "price": 8980
-    }
-   ],
-   "link": "https://link.coupang.com/a/ibwtvFwg8a"
   }
  ]
 }
