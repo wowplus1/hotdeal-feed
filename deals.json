@@ -1,7 +1,283 @@
 {
- "updated": "2026-11-08T21:44:12.589+09:00",
+ "updated": "2026-11-09T07:03:34.391+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9366377086",
+   "mall": "쿠팡",
+   "title": "오투액션 프로 분말형 표백제, 650g, 2개",
+   "price": 8320,
+   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/79e7/6b22034b6cdaa701abe4a803d87564059feffa8854e257a2d725955c879d.png",
+   "sentAt": "2026-11-09T07:03:33.349+09:00",
+   "saving": 58,
+   "baseline": 19910,
+   "baselineNote": "83곳 중 최저 · 무료배송",
+   "unit": {
+    "label": "개당",
+    "value": 4160
+   },
+   "check": {
+    "market": 19910,
+    "malls": 83,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 15995
+   },
+   "spec": [
+    "가루형",
+    "리필",
+    "색상보호",
+    "이염방지",
+    "찬물세척"
+   ],
+   "comps": [
+    {
+     "name": "83곳 중 최저 · 무료배송",
+     "price": 19910
+    }
+   ],
+   "trend": [
+    {
+     "m": "26-04",
+     "p": 20580
+    },
+    {
+     "m": "26-05",
+     "p": 19790
+    },
+    {
+     "m": "26-06",
+     "p": 18478
+    },
+    {
+     "m": "26-07",
+     "p": 15995
+    },
+    {
+     "m": "26-08",
+     "p": 17968
+    },
+    {
+     "m": "26-09",
+     "p": 17530
+    },
+    {
+     "m": "26-10",
+     "p": 18601
+    },
+    {
+     "m": "26-11",
+     "p": 18187
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F501225729",
+     "price": 19910,
+     "ship": 0
+    },
+    {
+     "mall": "주식회사 신세계라이브쇼핑",
+     "code": "TRB03",
+     "id": "92900335",
+     "price": 19920,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9179658627",
+     "price": 19930,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4695400007",
+     "price": 19930,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2634114461",
+     "price": 20100,
+     "ship": 0
+    },
+    {
+     "mall": "신세계몰",
+     "code": "ED901",
+     "id": "1000801682747",
+     "price": 20667,
+     "ship": 0
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000801682747",
+     "price": 20667,
+     "ship": 0
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000801682747",
+     "price": 20667,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/iwuCnD0Ciq"
+  },
+  {
+   "uid": "8682714465",
+   "mall": "쿠팡",
+   "title": "해태 포도 봉봉 제로 340ml 24개",
+   "price": 10930,
+   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2024/11/14/18/8/4f383d10-2130-40c3-a719-24f69dde986a.jpg",
+   "sentAt": "2026-11-09T07:03:33.349+09:00",
+   "saving": 26,
+   "baseline": 14850,
+   "baselineNote": "368곳 중 최저 · 무료배송",
+   "unit": {
+    "label": "개당",
+    "value": 455
+   },
+   "check": {
+    "market": 14850,
+    "malls": 368,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 12180
+   },
+   "review": {
+    "score": 4.7,
+    "count": 683,
+    "low": 14
+   },
+   "comps": [
+    {
+     "name": "368곳 중 최저 · 무료배송",
+     "price": 14850
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 12900
+    },
+    {
+     "m": "26-01",
+     "p": 12900
+    },
+    {
+     "m": "26-02",
+     "p": 13990
+    },
+    {
+     "m": "26-03",
+     "p": 13990
+    },
+    {
+     "m": "26-04",
+     "p": 13490
+    },
+    {
+     "m": "26-05",
+     "p": 14340
+    },
+    {
+     "m": "26-06",
+     "p": 14660
+    },
+    {
+     "m": "26-07",
+     "p": 13980
+    },
+    {
+     "m": "26-08",
+     "p": 14660
+    },
+    {
+     "m": "26-09",
+     "p": 12220
+    },
+    {
+     "m": "26-10",
+     "p": 12180
+    },
+    {
+     "m": "26-11",
+     "p": 14850
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2456753392",
+     "price": 14850,
+     "ship": 0
+    },
+    {
+     "mall": "주식회사 신세계라이브쇼핑",
+     "code": "TRB03",
+     "id": "64113299",
+     "price": 14860,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "8098884800",
+     "price": 15200,
+     "ship": 0
+    },
+    {
+     "mall": "TW6145",
+     "code": "TW6145",
+     "id": "10702668287",
+     "price": 15500,
+     "ship": 3000
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "E437648316",
+     "price": 15660,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "3828850596",
+     "price": 15670,
+     "ship": 0
+    },
+    {
+     "mall": "롯데백화점",
+     "code": "TLC16",
+     "id": "LE1222258142",
+     "price": 16610,
+     "ship": 0
+    },
+    {
+     "mall": "현대Hmall",
+     "code": "ED907",
+     "id": "2211114411",
+     "price": 16900,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/hRvf55mfvg"
+  },
   {
    "uid": "8567999427",
    "mall": "쿠팡",
@@ -3189,42 +3465,6 @@
     }
    ],
    "link": "http://app.ac/CAVW5r593"
-  },
-  {
-   "uid": "2586369238",
-   "mall": "토스쇼핑",
-   "title": "키친아트 멀티 마늘 다지기 KM-N14FM, 2L, 1개",
-   "price": 22860,
-   "image": "https://shopping.toss.im/live/taca/ai/NDZhNGRi/QU14OGJzUm14TmplTHhQcDI3QWZsMm1WbXpNbGttd3pJVzhCeU41dkJIK1I.png",
-   "sentAt": "2026-11-06T14:56:40.581+09:00",
-   "saving": 23,
-   "baseline": 29610,
-   "baselineNote": "판매글 17곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 17곳 최저가",
-     "price": 29610
-    }
-   ],
-   "link": "https://toss.im/_m/XrpIvprn"
-  },
-  {
-   "uid": "6010619724",
-   "mall": "토스쇼핑",
-   "title": "땡큐 팝업티슈, 150입, 9팩",
-   "price": 6900,
-   "image": "https://shopping.toss.im/live/temp/2026-11-04/f1ede904-deee-4790-aa14-21c6d60bf574.png",
-   "sentAt": "2026-11-06T14:46:25.108+09:00",
-   "saving": 28,
-   "baseline": 9600,
-   "baselineNote": "판매글 4곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 4곳 최저가",
-     "price": 9600
-    }
-   ],
-   "link": "https://toss.shopping/_m/dP7xPRiB"
   }
  ]
 }
