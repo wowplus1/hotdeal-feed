@@ -1,7 +1,161 @@
 {
- "updated": "2026-11-08T09:58:15.167+09:00",
+ "updated": "2026-11-08T12:59:23.179+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "8686587273",
+   "mall": "쿠팡",
+   "title": "코카콜라 제로, 300ml, 24개",
+   "price": 14990,
+   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/product/image/vendoritem/2019/06/03/3000416704/818c5e56-e17a-4e86-a1ab-e2e0c266b76a.jpg",
+   "sentAt": "2026-11-08T12:59:23.179+09:00",
+   "saving": 18,
+   "baseline": 18170,
+   "baselineNote": "813곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 625
+   },
+   "check": {
+    "market": 18170,
+    "malls": 813,
+    "delivered": 19000
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": false,
+    "low": 13680
+   },
+   "review": {
+    "score": 4.8,
+    "count": 3210,
+    "low": 22
+   },
+   "spec": [
+    "페트",
+    "제로슈거"
+   ],
+   "comps": [
+    {
+     "name": "813곳 중 최저",
+     "price": 18170
+    },
+    {
+     "name": "배송비까지 치면",
+     "price": 19000
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 16510
+    },
+    {
+     "m": "26-01",
+     "p": 16170
+    },
+    {
+     "m": "26-02",
+     "p": 16400
+    },
+    {
+     "m": "26-03",
+     "p": 16510
+    },
+    {
+     "m": "26-04",
+     "p": 16400
+    },
+    {
+     "m": "26-05",
+     "p": 14380
+    },
+    {
+     "m": "26-06",
+     "p": 16980
+    },
+    {
+     "m": "26-07",
+     "p": 13680
+    },
+    {
+     "m": "26-08",
+     "p": 17950
+    },
+    {
+     "m": "26-09",
+     "p": 16160
+    },
+    {
+     "m": "26-10",
+     "p": 17750
+    },
+    {
+     "m": "26-11",
+     "p": 18170
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F704765038",
+     "price": 18170,
+     "ship": 4000
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4896586570",
+     "price": 18170,
+     "ship": 4000
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9300973327",
+     "price": 19000,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LI3000628055",
+     "price": 20680,
+     "ship": 0
+    },
+    {
+     "mall": "주식회사 신세계라이브쇼핑",
+     "code": "TRB03",
+     "id": "57981941",
+     "price": 21490,
+     "ship": 0
+    },
+    {
+     "mall": "롯데홈쇼핑",
+     "code": "ED903",
+     "id": "3000628055",
+     "price": 21760,
+     "ship": 0
+    },
+    {
+     "mall": "TV81EE",
+     "code": "TV81EE",
+     "id": "7870910105",
+     "price": 22100,
+     "ship": 0
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000860283429",
+     "price": 23520,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/gv1vNp8Btk",
+   "web": true
+  },
   {
    "uid": "9813493410",
    "mall": "지마켓",
@@ -6293,20 +6447,6 @@
    "baselineNote": "판매글 8곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/icauaxPj8S",
-   "web": true
-  },
-  {
-   "uid": "7441100937",
-   "mall": "쿠팡",
-   "title": "뿌셔뿌셔 바베큐맛, 90g, 15개",
-   "price": 9770,
-   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/160023752884109-ca5bca31-5fe0-4111-875f-8825bd282917.jpg",
-   "sentAt": "2026-10-28T00:54:39.607+09:00",
-   "saving": 29,
-   "baseline": 13800,
-   "baselineNote": "판매글 6곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/ib9lMwEX24",
    "web": true
   }
  ]
