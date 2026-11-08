@@ -1,7 +1,24 @@
 {
- "updated": "2026-11-09T07:39:18.787+09:00",
+ "updated": "2026-11-09T07:58:14.539+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8078705690",
+   "mall": "쿠팡",
+   "title": "농심 신라면 컵 65g, 12개",
+   "price": 10290,
+   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1723358760738649-3a896980-b0e5-4ce7-ab1d-edc31672847a.jpg",
+   "sentAt": "2026-11-09T07:58:14.021+09:00",
+   "unit": {
+    "label": "개당",
+    "value": 858
+   },
+   "alt": {
+    "price": 11420,
+    "where": "558곳 중 최저"
+   },
+   "link": "https://link.coupang.com/a/gsN8MMhplY"
+  },
   {
    "uid": "5380699071",
    "mall": "쿠팡",
@@ -3366,28 +3383,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4358723482"
-  },
-  {
-   "uid": "1735087722",
-   "mall": "롯데온",
-   "title": "청라상회 원적외선 구운계란 대란 60구/ 무항생제 맥반석계란 HACCP 햇썹 인증",
-   "price": 15690,
-   "image": "https://contents.lotteon.com/itemimage/20261105173019/LO/27/51/88/14/28/_2/75/18/81/43/7/LO2751881428_2751881437_1.jpg",
-   "sentAt": "2026-11-06T17:38:11.839+09:00",
-   "saving": 29,
-   "baseline": 22250,
-   "baselineNote": "판매글 8곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 262
-   },
-   "comps": [
-    {
-     "name": "판매글 8곳 최저가",
-     "price": 22250
-    }
-   ],
-   "link": "http://app.ac/x3CAiDJ33"
   }
  ]
 }
