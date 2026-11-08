@@ -1,7 +1,94 @@
 {
- "updated": "2026-11-08T10:15:51.181+09:00",
+ "updated": "2026-11-08T10:51:22.480+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2384754265",
+   "mall": "토스쇼핑",
+   "title": "던킨블렌드 캡슐커피, 네스프레소 호환, 에스프레소, 20개입, 4개",
+   "price": 20000,
+   "image": "https://shopping.toss.im/live/taca/ai/v2/MTg3Yzk0/TVoyWk0yT1pMbWRtbVN4elo1bDVKbVpOa3lUR2VkbU1tWjJSakpNWlpuTT0.png",
+   "sentAt": "2026-11-08T10:51:21.769+09:00",
+   "saving": 34,
+   "baseline": 30210,
+   "baselineNote": "29곳 중 최저 · 무료배송",
+   "check": {
+    "market": 30210,
+    "malls": 29,
+    "ship": 0
+   },
+   "spec": [
+    "40ml",
+    "카페인有",
+    "(3)",
+    "(2)"
+   ],
+   "comps": [
+    {
+     "name": "29곳 중 최저 · 무료배송",
+     "price": 30210
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F651425138",
+     "price": 30210,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4843930624",
+     "price": 30210,
+     "ship": 0
+    },
+    {
+     "mall": "TXCC1",
+     "code": "TXCC1",
+     "id": "13740462471",
+     "price": 30900,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2766632422",
+     "price": 32990,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9649201583",
+     "price": 33010,
+     "ship": 0
+    },
+    {
+     "mall": "신세계몰",
+     "code": "ED901",
+     "id": "1000888971518",
+     "price": 33132,
+     "ship": 0
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000888971518",
+     "price": 33132,
+     "ship": 0
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000888971518",
+     "price": 33132,
+     "ship": 0
+    }
+   ],
+   "link": "https://toss.im/_m/FZnp9fb3"
+  },
   {
    "uid": "6179943571",
    "mall": "쿠팡",
@@ -3497,140 +3584,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/irFYJ5E1O8"
-  },
-  {
-   "uid": "3080687894",
-   "mall": "쿠팡",
-   "title": "하인즈 토마토 케찹, 570g, 2개",
-   "price": 5300,
-   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1105972027584631-227ca7a8-f143-485b-9ab9-f94fc4960382.jpg",
-   "sentAt": "2026-11-06T08:59:05.563+09:00",
-   "saving": 40,
-   "baseline": 8870,
-   "baselineNote": "469곳 중 최저",
-   "unit": {
-    "label": "개당",
-    "value": 2650
-   },
-   "check": {
-    "market": 8870,
-    "malls": 469,
-    "ship": 3000,
-    "delivered": 11870
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": true,
-    "low": 5480
-   },
-   "spec": [
-    "튜브형",
-    "토마토 63%",
-    "네덜란드산"
-   ],
-   "comps": [
-    {
-     "name": "469곳 중 최저",
-     "price": 8870
-    },
-    {
-     "name": "배송비 3,000원 포함",
-     "price": 11870
-    }
-   ],
-   "trend": [
-    {
-     "m": "26-04",
-     "p": 6380
-    },
-    {
-     "m": "26-05",
-     "p": 6380
-    },
-    {
-     "m": "26-06",
-     "p": 6900
-    },
-    {
-     "m": "26-07",
-     "p": 7000
-    },
-    {
-     "m": "26-08",
-     "p": 5480
-    },
-    {
-     "m": "26-09",
-     "p": 5480
-    },
-    {
-     "m": "26-10",
-     "p": 8670
-    },
-    {
-     "m": "26-11",
-     "p": 8870
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "E580781469",
-     "price": 8870,
-     "ship": 3000
-    },
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "3986131234",
-     "price": 8870,
-     "ship": 3000
-    },
-    {
-     "mall": "롯데ON",
-     "code": "EE309",
-     "id": "LO2698865236",
-     "price": 8870,
-     "ship": 3000
-    },
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "9468522138",
-     "price": 9580,
-     "ship": 3000
-    },
-    {
-     "mall": "SSG.COM",
-     "code": "TN118",
-     "id": "1000851814493",
-     "price": 9765,
-     "ship": 3000
-    },
-    {
-     "mall": "이마트몰",
-     "code": "EE311",
-     "id": "1000851814493",
-     "price": 9765,
-     "ship": 3000
-    },
-    {
-     "mall": "신세계몰",
-     "code": "ED901",
-     "id": "1000851814493",
-     "price": 9765,
-     "ship": 3000
-    },
-    {
-     "mall": "주식회사 신세계라이브쇼핑",
-     "code": "TRB03",
-     "id": "1002831366",
-     "price": 9970,
-     "ship": 3000
-    }
-   ],
-   "link": "https://link.coupang.com/a/gpVwueJRpk"
   }
  ]
 }
