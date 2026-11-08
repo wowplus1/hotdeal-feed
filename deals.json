@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-08T16:45:08.701+09:00",
+ "updated": "2026-11-08T17:04:21.173+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6328828672",
+   "mall": "지마켓",
+   "title": "스트 오곡 코코볼 1kg 2개+사은품",
+   "price": 12990,
+   "image": "https://gdimg.gmarket.co.kr/1505645718/goodsimage",
+   "sentAt": "2026-11-08T17:04:20.423+09:00",
+   "saving": 35,
+   "baseline": 20090,
+   "baselineNote": "판매글 3곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 3곳 최저가",
+     "price": 20090
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=1505645718"
+  },
   {
    "uid": "2729238391",
    "mall": "쿠팡",
@@ -3797,28 +3815,6 @@
     }
    ],
    "link": "http://app.ac/StVujCM93"
-  },
-  {
-   "uid": "3877050661",
-   "mall": "롯데온",
-   "title": "무항생제 HACCP인증 자연방사 난각번호 1번 유정란 20구 계란농장",
-   "price": 8000,
-   "image": "https://contents.lotteon.com/itemimage/20261106103408/LO/28/10/05/64/24/_2/81/00/56/42/5/LO2810056424_2810056425_1.png",
-   "sentAt": "2026-11-06T12:00:28.871+09:00",
-   "saving": 39,
-   "baseline": 13200,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 400
-   },
-   "comps": [
-    {
-     "name": "판매글 3곳 최저가",
-     "price": 13200
-    }
-   ],
-   "link": "http://app.ac/htnKKqM33"
   }
  ]
 }
