@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-08T13:44:33.202+09:00",
+ "updated": "2026-11-08T15:51:40.241+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1870711805",
+   "mall": "토스쇼핑",
+   "title": "파스쿠치 인텐시브 썬 쌩얼톤업 비비크림, 50ml, 2개",
+   "price": 6250,
+   "image": "https://shopping.toss.im/live/temp/2025-05-28/563f3810-4dbb-4bff-8170-293412d89d68.jpeg",
+   "sentAt": "2026-11-08T15:51:39.329+09:00",
+   "saving": 56,
+   "baseline": 14070,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 3125
+   },
+   "comps": [
+    {
+     "name": "판매글 4곳 최저가",
+     "price": 14070
+    }
+   ],
+   "link": "https://toss.shopping/_m/JHn0tGYk"
+  },
   {
    "uid": "3994167555",
    "mall": "지마켓",
@@ -3566,28 +3588,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/irMVt2KvmK"
-  },
-  {
-   "uid": "6517890047",
-   "mall": "지마켓",
-   "title": "제주 노지감귤 9kg 중대과",
-   "price": 8600,
-   "image": "https://gdimg.gmarket.co.kr/4560279101/goodsimage",
-   "sentAt": "2026-11-06T10:58:31.202+09:00",
-   "saving": 30,
-   "baseline": 12320,
-   "baselineNote": "판매글 17곳 최저가",
-   "unit": {
-    "label": "100g당",
-    "value": 96
-   },
-   "comps": [
-    {
-     "name": "판매글 17곳 최저가",
-     "price": 12320
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4560279101"
   }
  ]
 }
