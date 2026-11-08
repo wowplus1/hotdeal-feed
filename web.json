@@ -1,7 +1,158 @@
 {
- "updated": "2026-11-08T09:29:09.984+09:00",
+ "updated": "2026-11-08T09:54:54.822+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "1469620177",
+   "mall": "쿠팡",
+   "title": "비타500 프레쉬 100ml 40개",
+   "price": 19270,
+   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/134385551300930-894b2012-a9dc-49f2-85d5-25f6532660bc.jpg",
+   "sentAt": "2026-11-08T09:54:54.822+09:00",
+   "saving": 10,
+   "baseline": 21318,
+   "baselineNote": "77곳 중 최저 · 무료배송",
+   "unit": {
+    "label": "개당",
+    "value": 482
+   },
+   "check": {
+    "market": 21318,
+    "malls": 77,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": false,
+    "low": 19200
+   },
+   "review": {
+    "score": 4.8,
+    "count": 147,
+    "low": 1
+   },
+   "spec": [
+    "비타민음료",
+    "유리병",
+    "디카페인"
+   ],
+   "comps": [
+    {
+     "name": "77곳 중 최저 · 무료배송",
+     "price": 21318
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 19950
+    },
+    {
+     "m": "26-01",
+     "p": 20140
+    },
+    {
+     "m": "26-02",
+     "p": 19200
+    },
+    {
+     "m": "26-03",
+     "p": 19270
+    },
+    {
+     "m": "26-04",
+     "p": 20140
+    },
+    {
+     "m": "26-05",
+     "p": 20100
+    },
+    {
+     "m": "26-06",
+     "p": 19270
+    },
+    {
+     "m": "26-07",
+     "p": 20700
+    },
+    {
+     "m": "26-08",
+     "p": 21040
+    },
+    {
+     "m": "26-09",
+     "p": 19900
+    },
+    {
+     "m": "26-10",
+     "p": 21690
+    },
+    {
+     "m": "26-11",
+     "p": 21318
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "신세계몰",
+     "code": "ED901",
+     "id": "1000607458299",
+     "price": 21318,
+     "ship": 0
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000607458299",
+     "price": 21318,
+     "ship": 0
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000607458299",
+     "price": 21318,
+     "ship": 0
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "E742979604",
+     "price": 21690,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4161008515",
+     "price": 21690,
+     "ship": 0
+    },
+    {
+     "mall": "현대Hmall",
+     "code": "ED907",
+     "id": "2219324615",
+     "price": 21940,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "3328008254",
+     "price": 22510,
+     "ship": 0
+    },
+    {
+     "mall": "동원몰",
+     "code": "TSBB7",
+     "id": "003724156",
+     "price": 23900,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/iu109TqzVk",
+   "web": true
+  },
   {
    "uid": "8415359145",
    "mall": "쿠팡",
@@ -6150,20 +6301,6 @@
    "baseline": 42960,
    "baselineNote": "판매글 13곳 최저가",
    "link": "https://link.coupang.com/a/ibX3a1oVm8",
-   "web": true
-  },
-  {
-   "uid": "8838650988",
-   "mall": "지마켓",
-   "title": "더미식 밥알이 살아있는 백미밥 200g 24개",
-   "price": 19800,
-   "image": "https://gdimg.gmarket.co.kr/2245630240/goodsimage",
-   "sentAt": "2026-10-27T21:31:09.934+09:00",
-   "saving": 18,
-   "baseline": 24110,
-   "baselineNote": "117곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2245630240",
    "web": true
   }
  ]
