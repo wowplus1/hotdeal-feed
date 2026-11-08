@@ -1,7 +1,131 @@
 {
- "updated": "2026-11-08T15:51:40.241+09:00",
+ "updated": "2026-11-08T16:23:58.871+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2488132620",
+   "mall": "쿠팡",
+   "title": "샘표 국산콩 백일된장, 450g, 2개",
+   "price": 8080,
+   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/1025_amir_coupang_oct_80k/2493/fc90a751dbc7f3b4c6e7658e321f3d740a840700d66a459ed9780288d41d.jpg",
+   "sentAt": "2026-11-08T16:23:58.293+09:00",
+   "saving": 49,
+   "baseline": 15900,
+   "baselineNote": "11곳 중 최저 · 무료배송",
+   "unit": {
+    "label": "개당",
+    "value": 4040
+   },
+   "check": {
+    "market": 15900,
+    "malls": 11,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 10250
+   },
+   "spec": [
+    "플라스틱",
+    "저당",
+    "대두(국내산)"
+   ],
+   "comps": [
+    {
+     "name": "11곳 중 최저 · 무료배송",
+     "price": 15900
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 13600
+    },
+    {
+     "m": "26-01",
+     "p": 13650
+    },
+    {
+     "m": "26-02",
+     "p": 13870
+    },
+    {
+     "m": "26-03",
+     "p": 13870
+    },
+    {
+     "m": "26-04",
+     "p": 12760
+    },
+    {
+     "m": "26-05",
+     "p": 10250
+    },
+    {
+     "m": "26-06",
+     "p": 10250
+    },
+    {
+     "m": "26-07",
+     "p": 15900
+    },
+    {
+     "m": "26-08",
+     "p": 13990
+    },
+    {
+     "m": "26-09",
+     "p": 13990
+    },
+    {
+     "m": "26-10",
+     "p": 19720
+    },
+    {
+     "m": "26-11",
+     "p": 20100
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "오늘의집",
+     "code": "TU710C",
+     "id": "3983818-29825054",
+     "price": 15900,
+     "ship": 0
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "E739417038",
+     "price": 19490,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4157378061",
+     "price": 19490,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2367161257",
+     "price": 20450,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "8324711733",
+     "price": 21190,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/ivtNMB5Izc"
+  },
   {
    "uid": "1870711805",
    "mall": "토스쇼핑",
@@ -3566,28 +3690,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4569817598"
-  },
-  {
-   "uid": "6340584735",
-   "mall": "쿠팡",
-   "title": "신라명과 세가지맛 사브레쿠키, 260g, 1개 6,990원",
-   "price": 6990,
-   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/07/21/11/9/4f5d4941-28b0-42b8-aba8-fed7fd18cd5a.jpg",
-   "sentAt": "2026-11-06T11:01:04.032+09:00",
-   "saving": 50,
-   "baseline": 13950,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": {
-    "label": "100g당",
-    "value": 2688
-   },
-   "comps": [
-    {
-     "name": "판매글 4곳 최저가",
-     "price": 13950
-    }
-   ],
-   "link": "https://link.coupang.com/a/irMVt2KvmK"
   }
  ]
 }
