@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-09T00:29:06.352+09:00",
+ "updated": "2026-11-09T00:35:02.258+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "4938312662",
+   "mall": "롯데온",
+   "title": "광동 옥수수수염차 1.85L 6입",
+   "price": 5830,
+   "image": "https://contents.lotteon.com/itemimage/20261014150923/LO/27/93/28/30/58/_2/79/32/83/05/9/LO2793283058_2793283059_1.jpg",
+   "sentAt": "2026-11-09T00:35:02.258+09:00",
+   "saving": 42,
+   "baseline": 10032,
+   "baselineNote": "판매글 39곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 972
+   },
+   "comps": [
+    {
+     "name": "판매글 39곳 최저가",
+     "price": 10032
+    }
+   ],
+   "link": "http://app.ac/2bpSS7l63",
+   "web": true
+  },
   {
    "uid": "2917081184",
    "mall": "11번가",
@@ -6694,20 +6717,6 @@
    "baseline": 62460,
    "baselineNote": "판매글 3곳 최저가",
    "link": "http://app.ac/NECQPDS23",
-   "web": true
-  },
-  {
-   "uid": "2312714387",
-   "mall": "쿠팡",
-   "title": "동원 꽁치통조림 4개",
-   "price": 11240,
-   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/258978293170271-42943460-e87a-49e5-97aa-e8c1ef228076.jpg",
-   "sentAt": "2026-10-28T18:54:50.070+09:00",
-   "saving": 55,
-   "baseline": 24750,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/idowJkY7Xg",
    "web": true
   }
  ]
