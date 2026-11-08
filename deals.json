@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-08T21:16:37.395+09:00",
+ "updated": "2026-11-08T21:44:12.589+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8567999427",
+   "mall": "쿠팡",
+   "title": "비비드키친 저칼로리 치킨양념소스 320g 1개",
+   "price": 1810,
+   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/ea0b/65e3fb7daf951cc9e49c6a0d3fe315cff5d16d97d5a70a4a0afd5170ba37.jpg",
+   "sentAt": "2026-11-08T21:44:12.018+09:00",
+   "saving": 71,
+   "baseline": 6289,
+   "baselineNote": "판매글 39곳 최저가",
+   "unit": {
+    "label": "100g당",
+    "value": 566
+   },
+   "comps": [
+    {
+     "name": "판매글 39곳 최저가",
+     "price": 6289
+    }
+   ],
+   "link": "https://link.coupang.com/a/ivQGpMXyg0"
+  },
   {
    "uid": "5365286094",
    "mall": "토스쇼핑",
@@ -3203,155 +3225,6 @@
     }
    ],
    "link": "https://toss.shopping/_m/dP7xPRiB"
-  },
-  {
-   "uid": "3013849278",
-   "mall": "지마켓",
-   "title": "CJ 맛군밤 60g 20개 20,000원",
-   "price": 20000,
-   "image": "https://gdimg.gmarket.co.kr/2135013945/goodsimage",
-   "sentAt": "2026-11-06T14:01:18.529+09:00",
-   "saving": 27,
-   "baseline": 27340,
-   "baselineNote": "242곳 중 최저",
-   "unit": {
-    "label": "개당",
-    "value": 1000
-   },
-   "check": {
-    "market": 27340,
-    "malls": 242,
-    "delivered": 27890
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": true,
-    "low": 20900
-   },
-   "review": {
-    "score": 4.7,
-    "count": 6703,
-    "low": 31
-   },
-   "comps": [
-    {
-     "name": "242곳 중 최저",
-     "price": 27340
-    },
-    {
-     "name": "배송비까지 치면",
-     "price": 27890
-    }
-   ],
-   "trend": [
-    {
-     "m": "25-12",
-     "p": 21900
-    },
-    {
-     "m": "26-01",
-     "p": 21900
-    },
-    {
-     "m": "26-02",
-     "p": 22900
-    },
-    {
-     "m": "26-03",
-     "p": 21900
-    },
-    {
-     "m": "26-04",
-     "p": 23430
-    },
-    {
-     "m": "26-05",
-     "p": 21900
-    },
-    {
-     "m": "26-06",
-     "p": 20900
-    },
-    {
-     "m": "26-07",
-     "p": 21900
-    },
-    {
-     "m": "26-08",
-     "p": 28000
-    },
-    {
-     "m": "26-09",
-     "p": 28050
-    },
-    {
-     "m": "26-10",
-     "p": 24300
-    },
-    {
-     "m": "26-11",
-     "p": 28890
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "F690886335",
-     "price": 27340,
-     "ship": 2500
-    },
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "4844512352",
-     "price": 27890,
-     "ship": 0
-    },
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "9434107704",
-     "price": 27900,
-     "ship": 0
-    },
-    {
-     "mall": "롯데ON",
-     "code": "EE309",
-     "id": "LO2761305937",
-     "price": 27900,
-     "ship": 0
-    },
-    {
-     "mall": "TY1C1",
-     "code": "TY1C1",
-     "id": "11652592548",
-     "price": 29800,
-     "ship": 0
-    },
-    {
-     "mall": "이마트몰",
-     "code": "EE311",
-     "id": "1000806168118",
-     "price": 34795,
-     "ship": 0
-    },
-    {
-     "mall": "신세계몰",
-     "code": "ED901",
-     "id": "1000806168118",
-     "price": 34795,
-     "ship": 0
-    },
-    {
-     "mall": "SSG.COM",
-     "code": "TN118",
-     "id": "1000806168118",
-     "price": 34795,
-     "ship": 0
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2135013945"
   }
  ]
 }
