@@ -1,7 +1,157 @@
 {
- "updated": "2026-11-08T07:48:07.988+09:00",
+ "updated": "2026-11-08T09:29:09.984+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "8415359145",
+   "mall": "쿠팡",
+   "title": "파워에이드 마운틴 블라스트, 900ml, 12개",
+   "price": 10980,
+   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/5391563659701-787f45d3-a3e9-481a-8244-e8e8cba40c39.jpg",
+   "sentAt": "2026-11-08T09:29:09.984+09:00",
+   "saving": 17,
+   "baseline": 13180,
+   "baselineNote": "352곳 중 최저 · 무료배송",
+   "unit": {
+    "label": "개당",
+    "value": 915
+   },
+   "check": {
+    "market": 13180,
+    "malls": 352,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": false,
+    "low": 8020
+   },
+   "review": {
+    "score": 4.8,
+    "count": 4133,
+    "low": 12
+   },
+   "spec": [
+    "이온음료",
+    "페트"
+   ],
+   "comps": [
+    {
+     "name": "352곳 중 최저 · 무료배송",
+     "price": 13180
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 10740
+    },
+    {
+     "m": "26-01",
+     "p": 9750
+    },
+    {
+     "m": "26-02",
+     "p": 11090
+    },
+    {
+     "m": "26-03",
+     "p": 10750
+    },
+    {
+     "m": "26-04",
+     "p": 8020
+    },
+    {
+     "m": "26-05",
+     "p": 10110
+    },
+    {
+     "m": "26-06",
+     "p": 11040
+    },
+    {
+     "m": "26-07",
+     "p": 12000
+    },
+    {
+     "m": "26-08",
+     "p": 8930
+    },
+    {
+     "m": "26-09",
+     "p": 12000
+    },
+    {
+     "m": "26-10",
+     "p": 13490
+    },
+    {
+     "m": "26-11",
+     "p": 13740
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9300973019",
+     "price": 13180,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4818859329",
+     "price": 13190,
+     "ship": 4000
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F626724835",
+     "price": 13190,
+     "ship": 4000
+    },
+    {
+     "mall": "롯데홈쇼핑",
+     "code": "ED903",
+     "id": "3362744137",
+     "price": 15570,
+     "ship": 0
+    },
+    {
+     "mall": "TVB49",
+     "code": "TVB49",
+     "id": "10765653047",
+     "price": 15900,
+     "ship": 0
+    },
+    {
+     "mall": "주식회사 신세계라이브쇼핑",
+     "code": "TRB03",
+     "id": "1007739444",
+     "price": 16170,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LI3362744137",
+     "price": 16260,
+     "ship": 0
+    },
+    {
+     "mall": "현대Hmall",
+     "code": "ED907",
+     "id": "2244806568",
+     "price": 17390,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/f9ABWovyg0",
+   "web": true
+  },
   {
    "uid": "5509572619",
    "mall": "쿠팡",
@@ -6014,16 +6164,6 @@
    "baselineNote": "117곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2245630240",
-   "web": true
-  },
-  {
-   "uid": "6700739652",
-   "mall": "쿠팡",
-   "title": "스탠리 이지 캐리 쿨러 아이스박스 15.1L",
-   "price": 48600,
-   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/96406349647890-18f6a03e-03e1-45aa-bcdf-7ca2f09697b9.png",
-   "sentAt": "2026-10-26T06:52:42.294+09:00",
-   "link": "https://link.coupang.com/a/h9e9JfHiOi",
    "web": true
   }
  ]
