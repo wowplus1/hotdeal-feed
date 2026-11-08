@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-08T09:54:54.822+09:00",
+ "updated": "2026-11-08T09:58:15.167+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "9813493410",
+   "mall": "지마켓",
+   "title": "오리온 스윙칩 볶음고추장 60g X 12입",
+   "price": 11880,
+   "image": "https://gdimg.gmarket.co.kr/2026468774/goodsimage",
+   "sentAt": "2026-11-08T09:58:15.167+09:00",
+   "unit": {
+    "label": "개당",
+    "value": 990
+   },
+   "alt": {
+    "price": 13990,
+    "where": "275곳 중 최저",
+    "ship": 0
+   },
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2026468774",
+   "web": true
+  },
   {
    "uid": "1469620177",
    "mall": "쿠팡",
@@ -6288,19 +6307,6 @@
    "baselineNote": "판매글 6곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/ib9lMwEX24",
-   "web": true
-  },
-  {
-   "uid": "6318416439",
-   "mall": "쿠팡",
-   "title": "qcy 멜로 버즈 n65 블루투스 이어폰 ht21",
-   "price": 31190,
-   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/def6/21e572379e9e2b669134f12a71f36793406c5a2a9b9942c9a7b2d8fcaa0d.png",
-   "sentAt": "2026-10-27T22:16:30.673+09:00",
-   "saving": 27,
-   "baseline": 42960,
-   "baselineNote": "판매글 13곳 최저가",
-   "link": "https://link.coupang.com/a/ibX3a1oVm8",
    "web": true
   }
  ]
