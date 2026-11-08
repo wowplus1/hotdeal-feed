@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-08T17:38:25.722+09:00",
+ "updated": "2026-11-08T18:09:03.826+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4511689376",
+   "mall": "쿠팡",
+   "title": "올바른건강식품 곡물효소 프로바이오틱스 블랙, 270g, 1개",
+   "price": 8230,
+   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/fac5f783-85e0-4f08-b24a-66d2b833816b5564710089203362423.png",
+   "sentAt": "2026-11-08T18:09:02.877+09:00",
+   "unit": {
+    "label": "100g당",
+    "value": 3048
+   },
+   "link": "https://link.coupang.com/a/ivBhZ2An3k"
+  },
   {
    "uid": "3201563808",
    "mall": "지마켓",
@@ -3565,131 +3578,6 @@
     "value": 927
    },
    "link": "https://toss.im/_m/PNzhubus"
-  },
-  {
-   "uid": "3908534407",
-   "mall": "쿠팡",
-   "title": "듀이트리 하이 아미노 올 클렌저, 150ml, 2개",
-   "price": 6040,
-   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/269736192273197-21dd5cc7-76a4-4de0-bdee-d6d2b94fa690.jpeg",
-   "sentAt": "2026-11-06T12:42:18.282+09:00",
-   "saving": 34,
-   "baseline": 9210,
-   "baselineNote": "109곳 중 최저",
-   "unit": {
-    "label": "개당",
-    "value": 3020
-   },
-   "check": {
-    "market": 9210,
-    "malls": 109
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": true,
-    "low": 6770
-   },
-   "comps": [
-    {
-     "name": "109곳 중 최저",
-     "price": 9210
-    }
-   ],
-   "trend": [
-    {
-     "m": "25-12",
-     "p": 8800
-    },
-    {
-     "m": "26-01",
-     "p": 7990
-    },
-    {
-     "m": "26-02",
-     "p": 8900
-    },
-    {
-     "m": "26-03",
-     "p": 8400
-    },
-    {
-     "m": "26-04",
-     "p": 6770
-    },
-    {
-     "m": "26-05",
-     "p": 8700
-    },
-    {
-     "m": "26-06",
-     "p": 8910
-    },
-    {
-     "m": "26-07",
-     "p": 9490
-    },
-    {
-     "m": "26-08",
-     "p": 9540
-    },
-    {
-     "m": "26-09",
-     "p": 8910
-    },
-    {
-     "m": "26-10",
-     "p": 9210
-    },
-    {
-     "m": "26-11",
-     "p": 9210
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "롯데ON",
-     "code": "EE309",
-     "id": "LO2699941723",
-     "price": 9210,
-     "ship": 4800
-    },
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "9650782008",
-     "price": 10330,
-     "ship": 3000
-    },
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "4866072110",
-     "price": 10600,
-     "ship": 3000
-    },
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "F703431452",
-     "price": 11590,
-     "ship": 0
-    },
-    {
-     "mall": "롯데홈쇼핑",
-     "code": "ED903",
-     "id": "2351768328",
-     "price": 13560,
-     "ship": 0
-    },
-    {
-     "mall": "홈&amp;쇼핑",
-     "code": "TLB17",
-     "id": "18315780",
-     "price": 15500,
-     "ship": 0
-    }
-   ],
-   "link": "https://link.coupang.com/a/irT9wDMrDw"
   }
  ]
 }
