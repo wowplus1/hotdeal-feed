@@ -1,7 +1,96 @@
 {
- "updated": "2026-11-08T10:51:22.480+09:00",
+ "updated": "2026-11-08T11:04:53.564+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9759716941",
+   "mall": "쿠팡",
+   "title": "칠성사이다 리치 복숭아 500ml 6개",
+   "price": 4780,
+   "image": "https://thumbnail1.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/10/06/12/7/51c39c88-7ce6-46b2-a4aa-326bd1cac425.jpg",
+   "sentAt": "2026-11-08T11:04:52.871+09:00",
+   "saving": 42,
+   "baseline": 8200,
+   "baselineNote": "110곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 797
+   },
+   "check": {
+    "market": 8200,
+    "malls": 110,
+    "delivered": 9900
+   },
+   "comps": [
+    {
+     "name": "110곳 중 최저",
+     "price": 8200
+    },
+    {
+     "name": "배송비까지 치면",
+     "price": 9900
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F694718985",
+     "price": 8200,
+     "ship": 3000
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4886346553",
+     "price": 8200,
+     "ship": 3000
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9702006290",
+     "price": 8380,
+     "ship": 3000
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2798569490",
+     "price": 9900,
+     "ship": 0
+    },
+    {
+     "mall": "롯데백화점",
+     "code": "TLC16",
+     "id": "LE1222727642",
+     "price": 10350,
+     "ship": 0
+    },
+    {
+     "mall": "TUC261",
+     "code": "TUC261",
+     "id": "13821056978",
+     "price": 10590,
+     "ship": 0
+    },
+    {
+     "mall": "롯데홈쇼핑",
+     "code": "ED903",
+     "id": "3452293056",
+     "price": 10620,
+     "ship": 0
+    },
+    {
+     "mall": "신세계몰",
+     "code": "ED901",
+     "id": "1000892915347",
+     "price": 10640,
+     "ship": 3000
+    }
+   ],
+   "link": "https://link.coupang.com/a/iu61jaCLQa"
+  },
   {
    "uid": "2384754265",
    "mall": "토스쇼핑",
@@ -3461,129 +3550,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2958212252"
-  },
-  {
-   "uid": "9303798590",
-   "mall": "쿠팡",
-   "title": "청정원 저당 돈까스 소스 240g*1개",
-   "price": 1840,
-   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/92604825313879-591fc2d1-d28d-4363-a9f2-98c54195a88d.jpg",
-   "sentAt": "2026-11-06T09:24:17.960+09:00",
-   "saving": 30,
-   "baseline": 2630,
-   "baselineNote": "25곳 중 최저",
-   "unit": {
-    "label": "100g당",
-    "value": 767
-   },
-   "check": {
-    "market": 2630,
-    "malls": 25
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": true,
-    "low": 2280
-   },
-   "review": {
-    "score": 4.9,
-    "count": 956,
-    "low": 0
-   },
-   "comps": [
-    {
-     "name": "25곳 중 최저",
-     "price": 2630
-    }
-   ],
-   "trend": [
-    {
-     "m": "25-12",
-     "p": 3460
-    },
-    {
-     "m": "26-01",
-     "p": 2630
-    },
-    {
-     "m": "26-02",
-     "p": 2470
-    },
-    {
-     "m": "26-03",
-     "p": 2370
-    },
-    {
-     "m": "26-04",
-     "p": 2390
-    },
-    {
-     "m": "26-05",
-     "p": 2420
-    },
-    {
-     "m": "26-06",
-     "p": 2280
-    },
-    {
-     "m": "26-07",
-     "p": 2630
-    },
-    {
-     "m": "26-08",
-     "p": 2370
-    },
-    {
-     "m": "26-09",
-     "p": 2570
-    },
-    {
-     "m": "26-10",
-     "p": 2470
-    },
-    {
-     "m": "26-11",
-     "p": 2370
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "9020441804",
-     "price": 2630,
-     "ship": 3000
-    },
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "F508158254",
-     "price": 2680,
-     "ship": 3000
-    },
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "4701705027",
-     "price": 2700,
-     "ship": 3000
-    },
-    {
-     "mall": "SSG.COM",
-     "code": "TN118",
-     "id": "1000717755908",
-     "price": 3680,
-     "ship": 3000
-    },
-    {
-     "mall": "이마트몰",
-     "code": "EE311",
-     "id": "1000717755908",
-     "price": 3680,
-     "ship": 3000
-    }
-   ],
-   "link": "https://link.coupang.com/a/irFYJ5E1O8"
   }
  ]
 }
