@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-08T18:09:03.826+09:00",
+ "updated": "2026-11-08T19:08:29.064+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5830260433",
+   "mall": "11번가",
+   "title": "1+1 에코센스 황토누름이 김장 김치통 대용량 장아찌 누름독 2.7~20L",
+   "price": 13500,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/5/9/2/4/0/8/GPQeF/9568592408_242747906.webp",
+   "sentAt": "2026-11-08T19:08:28.244+09:00",
+   "saving": 44,
+   "baseline": 24244,
+   "baselineNote": "판매글 7곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 7곳 최저가",
+     "price": 24244
+    }
+   ],
+   "link": "http://app.ac/xtn82dM83"
+  },
   {
    "uid": "4511689376",
    "mall": "쿠팡",
@@ -3565,19 +3583,6 @@
     }
    ],
    "link": "http://app.ac/kAVW8w503"
-  },
-  {
-   "uid": "6920923221",
-   "mall": "토스쇼핑",
-   "title": "퍼니트 올인원 이뮨 멀티비타민, 28개입, 1박스",
-   "price": 25950,
-   "image": "https://shopping.toss.im/live/taca/ai/NjE1MWMy/QUl6bDA1ckVZRmc1MVpiS3JYUlM3bTExMXFadk4zQmFZOVdzTVJJaU5RYXA.png",
-   "sentAt": "2026-11-06T12:46:21.064+09:00",
-   "unit": {
-    "label": "개당",
-    "value": 927
-   },
-   "link": "https://toss.im/_m/PNzhubus"
   }
  ]
 }
