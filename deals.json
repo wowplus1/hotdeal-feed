@@ -1,7 +1,184 @@
 {
- "updated": "2026-11-08T08:50:56.030+09:00",
+ "updated": "2026-11-08T10:15:51.181+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6179943571",
+   "mall": "쿠팡",
+   "title": "2080 퓨어치약 핑크마일드민트향, 150g, 6개",
+   "price": 5750,
+   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/04d6/8c04038d0e2f784ed5bdecf636a83f8763d7ef5edf96162d122aa64ab91e.jpg",
+   "sentAt": "2026-11-08T10:15:50.405+09:00",
+   "saving": 43,
+   "baseline": 10000,
+   "baselineNote": "판매글 13곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 958
+   },
+   "comps": [
+    {
+     "name": "판매글 13곳 최저가",
+     "price": 10000
+    }
+   ],
+   "link": "https://link.coupang.com/a/gTglTeUrKu"
+  },
+  {
+   "uid": "8899955016",
+   "mall": "쿠팡",
+   "title": "샤워메이트 산양유 비누 플러스, 90g, 12개입",
+   "price": 6420,
+   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/2f7b/e3103c6921aa5bf17e88de6a2f52e7799e6a9414a82b831b9150646928ed.png",
+   "sentAt": "2026-11-08T10:15:50.405+09:00",
+   "saving": 26,
+   "baseline": 8720,
+   "baselineNote": "70곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 535
+   },
+   "check": {
+    "market": 8720,
+    "malls": 70,
+    "delivered": 10000
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 8640
+   },
+   "review": {
+    "score": 4.7,
+    "count": 401,
+    "low": 4
+   },
+   "spec": [
+    "세안비누",
+    "모든피부",
+    "미백도움",
+    "피부보습"
+   ],
+   "comps": [
+    {
+     "name": "70곳 중 최저",
+     "price": 8720
+    },
+    {
+     "name": "배송비까지 치면",
+     "price": 10000
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 9270
+    },
+    {
+     "m": "26-01",
+     "p": 9600
+    },
+    {
+     "m": "26-02",
+     "p": 9030
+    },
+    {
+     "m": "26-03",
+     "p": 8640
+    },
+    {
+     "m": "26-04",
+     "p": 9600
+    },
+    {
+     "m": "26-05",
+     "p": 8910
+    },
+    {
+     "m": "26-06",
+     "p": 8640
+    },
+    {
+     "m": "26-07",
+     "p": 8720
+    },
+    {
+     "m": "26-08",
+     "p": 8640
+    },
+    {
+     "m": "26-09",
+     "p": 8720
+    },
+    {
+     "m": "26-10",
+     "p": 9600
+    },
+    {
+     "m": "26-11",
+     "p": 9810
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "6585693084",
+     "price": 8720,
+     "ship": 3000
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F596663648",
+     "price": 10000,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4789046998",
+     "price": 10010,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LI2759206151",
+     "price": 10900,
+     "ship": 0
+    },
+    {
+     "mall": "롯데홈쇼핑",
+     "code": "ED903",
+     "id": "2759206151",
+     "price": 10900,
+     "ship": 0
+    },
+    {
+     "mall": "SK스토아",
+     "code": "TSB275",
+     "id": "65543369",
+     "price": 11110,
+     "ship": 0
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000848444245",
+     "price": 11120,
+     "ship": 0
+    },
+    {
+     "mall": "신세계몰",
+     "code": "ED901",
+     "id": "1000848444245",
+     "price": 11120,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/gJh30HJMJ2"
+  },
   {
    "uid": "3763070705",
    "mall": "쿠팡",
@@ -3454,164 +3631,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/gpVwueJRpk"
-  },
-  {
-   "uid": "7640267755",
-   "mall": "쿠팡",
-   "title": "기꼬만 진한 다시 혼쯔유, 500ml, 3개",
-   "price": 8980,
-   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/6d57/daa696f48cb7533878198b53d33dead83c7b40af361ebc5ad4a298ddd369.jpg",
-   "sentAt": "2026-11-06T08:45:38.999+09:00",
-   "unit": {
-    "label": "개당",
-    "value": 2993
-   },
-   "link": "https://link.coupang.com/a/hV8pzDwb6W"
-  },
-  {
-   "uid": "5736186932",
-   "mall": "쿠팡",
-   "title": "더미식 삼광 백미밥, 200g, 24개",
-   "price": 19100,
-   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/265676418333994-afac1829-c956-40f5-bdaa-fedc238b0dce.jpg",
-   "sentAt": "2026-11-06T08:38:14.063+09:00",
-   "saving": 31,
-   "baseline": 27630,
-   "baselineNote": "50곳 중 최저 · 무료배송",
-   "unit": {
-    "label": "개당",
-    "value": 796
-   },
-   "check": {
-    "market": 27630,
-    "malls": 50,
-    "ship": 0
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": false,
-    "low": 18800
-   },
-   "spec": [
-    "즉석밥",
-    "실온보관",
-    "쌀100%"
-   ],
-   "comps": [
-    {
-     "name": "50곳 중 최저 · 무료배송",
-     "price": 27630
-    }
-   ],
-   "trend": [
-    {
-     "m": "25-12",
-     "p": 22390
-    },
-    {
-     "m": "26-01",
-     "p": 23790
-    },
-    {
-     "m": "26-02",
-     "p": 22440
-    },
-    {
-     "m": "26-03",
-     "p": 20750
-    },
-    {
-     "m": "26-04",
-     "p": 18800
-    },
-    {
-     "m": "26-05",
-     "p": 20830
-    },
-    {
-     "m": "26-06",
-     "p": 22490
-    },
-    {
-     "m": "26-07",
-     "p": 22290
-    },
-    {
-     "m": "26-08",
-     "p": 25310
-    },
-    {
-     "m": "26-09",
-     "p": 25380
-    },
-    {
-     "m": "26-10",
-     "p": 24890
-    },
-    {
-     "m": "26-11",
-     "p": 24690
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "롯데ON",
-     "code": "EE309",
-     "id": "LO2676260841",
-     "price": 27630,
-     "ship": 0
-    },
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "F692640556",
-     "price": 27640,
-     "ship": 0
-    },
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "9390687686",
-     "price": 31120,
-     "ship": 0
-    },
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "4780445380",
-     "price": 31500,
-     "ship": 0
-    },
-    {
-     "mall": "주식회사 신세계라이브쇼핑",
-     "code": "TRB03",
-     "id": "30266919",
-     "price": 33470,
-     "ship": 0
-    },
-    {
-     "mall": "SSG.COM",
-     "code": "TN118",
-     "id": "1000799428609",
-     "price": 57978,
-     "ship": 0
-    },
-    {
-     "mall": "이마트몰",
-     "code": "EE311",
-     "id": "1000799428609",
-     "price": 57978,
-     "ship": 0
-    },
-    {
-     "mall": "신세계몰",
-     "code": "ED901",
-     "id": "1000799428609",
-     "price": 57978,
-     "ship": 0
-    }
-   ],
-   "link": "https://link.coupang.com/a/hZnzWW8juK"
   }
  ]
 }
