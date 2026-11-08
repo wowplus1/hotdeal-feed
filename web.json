@@ -1,7 +1,153 @@
 {
- "updated": "2026-11-08T19:01:28.916+09:00",
+ "updated": "2026-11-08T20:01:40.763+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "2766300338",
+   "mall": "지마켓",
+   "title": "조선호텔 포기김치 8kg 52,810원",
+   "price": 52810,
+   "image": "https://gdimg.gmarket.co.kr/4897143374/goodsimage",
+   "sentAt": "2026-11-08T20:01:40.763+09:00",
+   "saving": 11,
+   "baseline": 59360,
+   "baselineNote": "121곳 중 최저 · 무료배송",
+   "unit": {
+    "label": "100g당",
+    "value": 660
+   },
+   "check": {
+    "market": 59360,
+    "malls": 121,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": false,
+    "low": 48680
+   },
+   "review": {
+    "score": 4.7,
+    "count": 4317,
+    "low": 68
+   },
+   "comps": [
+    {
+     "name": "121곳 중 최저 · 무료배송",
+     "price": 59360
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 61310
+    },
+    {
+     "m": "26-01",
+     "p": 62030
+    },
+    {
+     "m": "26-02",
+     "p": 61240
+    },
+    {
+     "m": "26-03",
+     "p": 48680
+    },
+    {
+     "m": "26-04",
+     "p": 54600
+    },
+    {
+     "m": "26-05",
+     "p": 53220
+    },
+    {
+     "m": "26-06",
+     "p": 52050
+    },
+    {
+     "m": "26-07",
+     "p": 54500
+    },
+    {
+     "m": "26-08",
+     "p": 52800
+    },
+    {
+     "m": "26-09",
+     "p": 54990
+    },
+    {
+     "m": "26-10",
+     "p": 56160
+    },
+    {
+     "m": "26-11",
+     "p": 55420
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F618139704",
+     "price": 59360,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4810334219",
+     "price": 59380,
+     "ship": 0
+    },
+    {
+     "mall": "SK스토아",
+     "code": "TSB275",
+     "id": "45889814",
+     "price": 61170,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "7973860797",
+     "price": 63910,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2434023402",
+     "price": 64080,
+     "ship": 0
+    },
+    {
+     "mall": "하프클럽",
+     "code": "TZ6171",
+     "id": "395023798",
+     "price": 64770,
+     "ship": 0
+    },
+    {
+     "mall": "CJ온스타일",
+     "code": "ED909",
+     "id": "2049892691",
+     "price": 65340,
+     "ship": 0
+    },
+    {
+     "mall": "쇼핑엔티",
+     "code": "TTC2DF",
+     "id": "28079585",
+     "price": 68900,
+     "ship": 0
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4897143374",
+   "web": true
+  },
   {
    "uid": "1930314242",
    "mall": "지마켓",
@@ -6542,20 +6688,6 @@
    "baselineNote": "판매글 33곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2217959476",
-   "web": true
-  },
-  {
-   "uid": "6372600296",
-   "mall": "쿠팡",
-   "title": "아쿠아시스 먹는샘물 무라벨 2L 24개",
-   "price": 9990,
-   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/74476236692591-cfffa33f-2700-49a5-98cb-5a34464a718f.jpg",
-   "sentAt": "2026-10-28T11:26:29.347+09:00",
-   "saving": 30,
-   "baseline": 14340,
-   "baselineNote": "판매글 14곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gaxSvE2QjA",
    "web": true
   }
  ]
