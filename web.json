@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-08T16:23:54.519+09:00",
+ "updated": "2026-11-08T17:39:10.912+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "4156240738",
+   "mall": "지마켓",
+   "title": "간짬뽕 40입",
+   "price": 27040,
+   "image": "https://gdimg.gmarket.co.kr/1597831984/goodsimage",
+   "sentAt": "2026-11-08T17:39:10.912+09:00",
+   "saving": 36,
+   "baseline": 42020,
+   "baselineNote": "판매글 9곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 676
+   },
+   "comps": [
+    {
+     "name": "판매글 9곳 최저가",
+     "price": 42020
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=1597831984",
+   "web": true
+  },
   {
    "uid": "3874906416",
    "mall": "지마켓",
@@ -6528,20 +6551,6 @@
    "baselineNote": "판매글 17곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/lqnUju243",
-   "web": true
-  },
-  {
-   "uid": "1645014006",
-   "mall": "쿠팡",
-   "title": "백설 감자수제비 가루, 500g",
-   "price": 1980,
-   "image": "https://thumbnail1.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/b47f/88aed9a20822e7fb951bc6108c0ed301358449808e47ef5975de8a763f1e.jpg",
-   "sentAt": "2026-10-28T09:29:20.650+09:00",
-   "saving": 14,
-   "baseline": 2300,
-   "baselineNote": "28곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/icJ9sXgCL6",
    "web": true
   }
  ]
