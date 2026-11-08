@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-08T16:30:51.366+09:00",
+ "updated": "2026-11-08T16:45:08.701+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2729238391",
+   "mall": "쿠팡",
+   "title": "담터 호두 아몬드 율무차 18g*130개입*1개",
+   "price": 5690,
+   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/f973/c71007882d78c50fa6c629c57a48692baa8ca95cb3bd6de444ec7f8fb5c9.jpg",
+   "sentAt": "2026-11-08T16:45:08.141+09:00",
+   "saving": 81,
+   "baseline": 30330,
+   "baselineNote": "판매글 36곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 44
+   },
+   "comps": [
+    {
+     "name": "판매글 36곳 최저가",
+     "price": 30330
+    }
+   ],
+   "link": "https://link.coupang.com/a/ivvjDB1DIO"
+  },
   {
    "uid": "1659417473",
    "mall": "토스쇼핑",
@@ -3797,24 +3819,6 @@
     }
    ],
    "link": "http://app.ac/htnKKqM33"
-  },
-  {
-   "uid": "2842507565",
-   "mall": "토스쇼핑",
-   "title": "한미 완전두유 국산콩 검은콩 고칼슘 저당, 190ml, 32팩",
-   "price": 12700,
-   "image": "https://shopping.toss.im/live/taca/ai/NGY2NWNi/V25adE9oWnVoOHp6QnNIandmd1RaTzB6L0JubjBiMG0zc25zSHA5QkErRT0.png",
-   "sentAt": "2026-11-06T11:46:19.101+09:00",
-   "unit": {
-    "label": "개당",
-    "value": 397
-   },
-   "alt": {
-    "price": 14820,
-    "where": "12곳 중 최저",
-    "ship": 0
-   },
-   "link": "https://toss.shopping/_m/1W6KVpne"
   }
  ]
 }
