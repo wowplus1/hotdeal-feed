@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-08T23:04:56.095+09:00",
+ "updated": "2026-11-09T00:04:06.866+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "6002654022",
+   "mall": "롯데온",
+   "title": "대전 실비집 육개장 600g x 8개",
+   "price": 22180,
+   "image": "https://contents.lotteon.com/itemimage/20260911133858/LO/25/64/57/70/73/_2/56/45/77/07/4/LO2564577073_2564577074_1.jpg",
+   "sentAt": "2026-11-09T00:04:06.866+09:00",
+   "saving": 23,
+   "baseline": 28900,
+   "baselineNote": "판매글 7곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 2773
+   },
+   "comps": [
+    {
+     "name": "판매글 7곳 최저가",
+     "price": 28900
+    }
+   ],
+   "link": "http://app.ac/Iqn2Q9253",
+   "web": true
+  },
   {
    "uid": "4829624911",
    "mall": "롯데온",
@@ -6679,20 +6702,6 @@
    "baseline": 24460,
    "baselineNote": "판매글 24곳 최저가",
    "link": "https://link.coupang.com/a/gmINSIgbOC",
-   "web": true
-  },
-  {
-   "uid": "1977677262",
-   "mall": "쿠팡",
-   "title": "코카콜라 제로 제로 무라벨, 370ml, 18개",
-   "price": 14210,
-   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/763923949485522-786b0053-fb3b-4733-a8ae-e446ac716c29.jpg",
-   "sentAt": "2026-10-28T15:00:53.025+09:00",
-   "saving": 14,
-   "baseline": 16520,
-   "baselineNote": "27곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gkKwVf9qSq",
    "web": true
   }
  ]
