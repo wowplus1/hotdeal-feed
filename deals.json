@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-08T19:31:22.528+09:00",
+ "updated": "2026-11-08T21:16:37.395+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5365286094",
+   "mall": "토스쇼핑",
+   "title": "손목긴 니트릴장갑, 대, 블랙, 100매, 1개",
+   "price": 9410,
+   "image": "https://shopping.toss.im/live/taca/ai/v2/YmYwMmZh/TGZFWC9ndnhJVE53dm5MVXYwSFpnNnowM2xyc0k0WW5BemJCbWVITjUvWT0.png",
+   "sentAt": "2026-11-08T21:16:36.533+09:00",
+   "saving": 32,
+   "baseline": 13800,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 94
+   },
+   "comps": [
+    {
+     "name": "판매글 4곳 최저가",
+     "price": 13800
+    }
+   ],
+   "link": "https://toss.shopping/_m/F1NCdlVf"
+  },
   {
    "uid": "6964054587",
    "mall": "토스쇼핑",
@@ -3330,137 +3352,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2135013945"
-  },
-  {
-   "uid": "2535916293",
-   "mall": "쿠팡",
-   "title": "스탠리 에브리데이 서버번 머그 709ml*1개",
-   "price": 20700,
-   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/11/04/10/6/56e357ff-bbac-451b-8923-34dbfcee7ef3.png",
-   "sentAt": "2026-11-06T13:59:02.350+09:00",
-   "saving": 54,
-   "baseline": 44960,
-   "baselineNote": "94곳 중 최저",
-   "check": {
-    "market": 44960,
-    "malls": 94,
-    "delivered": 45990
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": true,
-    "low": 31050
-   },
-   "spec": [
-    "보온보냉병(텀블러)",
-    "손잡이 있음",
-    "스테인리스",
-    "11.5x19.6cm",
-    "480g"
-   ],
-   "comps": [
-    {
-     "name": "94곳 중 최저",
-     "price": 44960
-    },
-    {
-     "name": "배송비까지 치면",
-     "price": 45990
-    }
-   ],
-   "trend": [
-    {
-     "m": "26-04",
-     "p": 46000
-    },
-    {
-     "m": "26-05",
-     "p": 46000
-    },
-    {
-     "m": "26-06",
-     "p": 39100
-    },
-    {
-     "m": "26-07",
-     "p": 37000
-    },
-    {
-     "m": "26-08",
-     "p": 36800
-    },
-    {
-     "m": "26-09",
-     "p": 31050
-    },
-    {
-     "m": "26-10",
-     "p": 40460
-    },
-    {
-     "m": "26-11",
-     "p": 41400
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "4816501352",
-     "price": 44960,
-     "ship": 3000
-    },
-    {
-     "mall": "롯데ON",
-     "code": "EE309",
-     "id": "LO2751352821",
-     "price": 45990,
-     "ship": 0
-    },
-    {
-     "mall": "SSG.COM",
-     "code": "TN118",
-     "id": "1000736719798",
-     "price": 46000,
-     "ship": 0
-    },
-    {
-     "mall": "LG전자",
-     "code": "TW326B",
-     "id": "G25100020035",
-     "price": 46000,
-     "ship": 0
-    },
-    {
-     "mall": "신세계몰",
-     "code": "ED901",
-     "id": "1000736719798",
-     "price": 46000,
-     "ship": 0
-    },
-    {
-     "mall": "더현대닷컴",
-     "code": "TP90D",
-     "id": "40B0124604",
-     "price": 46000,
-     "ship": 0
-    },
-    {
-     "mall": "CJ온스타일",
-     "code": "ED909",
-     "id": "2071915578",
-     "price": 46000,
-     "ship": 0
-    },
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "F641831646",
-     "price": 46870,
-     "ship": 0
-    }
-   ],
-   "link": "https://link.coupang.com/a/irZAqcbT2G"
   }
  ]
 }
