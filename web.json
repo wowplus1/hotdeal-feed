@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-09T00:04:06.866+09:00",
+ "updated": "2026-11-09T00:29:06.352+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "2917081184",
+   "mall": "11번가",
+   "title": "에너자이저 에버레디 알카라인 건전지 AA,AAA 20알",
+   "price": 7500,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/1904670184/B.webp",
+   "sentAt": "2026-11-09T00:29:06.352+09:00",
+   "saving": 21,
+   "baseline": 9520,
+   "baselineNote": "판매글 4곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 4곳 최저가",
+     "price": 9520
+    }
+   ],
+   "link": "http://app.ac/5AGKwz553",
+   "web": true
+  },
   {
    "uid": "6002654022",
    "mall": "롯데온",
@@ -6689,19 +6708,6 @@
    "baselineNote": "판매글 4곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/idowJkY7Xg",
-   "web": true
-  },
-  {
-   "uid": "4332614643",
-   "mall": "쿠팡",
-   "title": "오리코 10Gbps 알루미늄 M.2 NVMe SATA SSD 외장하드 케이스",
-   "price": 17800,
-   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/4e9a/60d8195c8eafbf27907b1d7e3bd27c93db760ef8e1c25e7d0a89c36b4e2c.jpg",
-   "sentAt": "2026-10-28T18:50:13.458+09:00",
-   "saving": 27,
-   "baseline": 24460,
-   "baselineNote": "판매글 24곳 최저가",
-   "link": "https://link.coupang.com/a/gmINSIgbOC",
    "web": true
   }
  ]
