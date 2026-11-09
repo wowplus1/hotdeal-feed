@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-09T09:45:56.266+09:00",
+ "updated": "2026-11-09T10:04:00.111+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7734089077",
+   "mall": "GS SHOP",
+   "title": "잘풀리는집 미용티슈 200매 x 3입 x 3팩",
+   "price": 11900,
+   "image": "https://asset.m-gs.kr/prod/1030561062/1/280",
+   "sentAt": "2026-11-09T10:03:59.242+09:00",
+   "saving": 31,
+   "baseline": 17290,
+   "baselineNote": "판매글 6곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 6곳 최저가",
+     "price": 17290
+    }
+   ],
+   "link": "http://app.ac/xbGWSGl13"
+  },
   {
    "uid": "5619126635",
    "mall": "쿠팡",
@@ -3500,28 +3518,6 @@
     "where": "455곳 중 최저"
    },
    "link": "https://link.coupang.com/a/gRD6wiDMRM"
-  },
-  {
-   "uid": "9491887076",
-   "mall": "롯데온",
-   "title": "국내산 특품 백다다기오이 2kg 10과내외 GAP인증",
-   "price": 7520,
-   "image": "https://contents.lotteon.com/itemimage/20261104144424/LO/27/97/85/49/03/_2/79/78/54/90/4/LO2797854903_2797854904_1.png",
-   "sentAt": "2026-11-06T21:23:46.892+09:00",
-   "saving": 35,
-   "baseline": 11610,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": {
-    "label": "100g당",
-    "value": 376
-   },
-   "comps": [
-    {
-     "name": "판매글 3곳 최저가",
-     "price": 11610
-    }
-   ],
-   "link": "http://app.ac/8tnKVmM93"
   }
  ]
 }
