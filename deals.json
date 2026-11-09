@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-09T15:23:10.430+09:00",
+ "updated": "2026-11-09T15:54:40.329+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1152617310",
+   "mall": "쿠팡",
+   "title": "닥터지 레드 블레미쉬 포 맨 올인원 플루이드 150ml",
+   "price": 13300,
+   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/04/09/16/3/5eec7453-590b-4c07-828f-b29ef2e6cf40.jpg",
+   "sentAt": "2026-11-09T15:54:39.759+09:00",
+   "alt": {
+    "price": 15810,
+    "where": "277곳 중 최저"
+   },
+   "link": "https://link.coupang.com/a/iw6zXW4e4a"
+  },
   {
    "uid": "9848682896",
    "mall": "쿠팡",
@@ -3324,24 +3337,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/itQC4psdBk"
-  },
-  {
-   "uid": "5433331287",
-   "mall": "지마켓",
-   "title": "크리넥스 마이비데 키즈 캡 40매 9팩 2세트",
-   "price": 18630,
-   "image": "https://gdimg.gmarket.co.kr/2514176527/goodsimage",
-   "sentAt": "2026-11-07T17:01:15.556+09:00",
-   "saving": 30,
-   "baseline": 26690,
-   "baselineNote": "판매글 28곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 28곳 최저가",
-     "price": 26690
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2514176527"
   }
  ]
 }
