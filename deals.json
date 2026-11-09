@@ -1,7 +1,16 @@
 {
- "updated": "2026-11-09T11:20:11.258+09:00",
+ "updated": "2026-11-09T11:29:53.454+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1417001594",
+   "mall": "지마켓",
+   "title": "닥터지 블랙 스네일 크림 50ml 1+1 +블랙스네일 톤업 선10ml",
+   "price": 21080,
+   "image": "https://gdimg.gmarket.co.kr/4472184167/goodsimage",
+   "sentAt": "2026-11-09T11:29:52.895+09:00",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4472184167"
+  },
   {
    "uid": "8138908563",
    "mall": "11번가",
@@ -3401,24 +3410,6 @@
     "value": 829
    },
    "link": "http://app.ac/VbGlHyl83"
-  },
-  {
-   "uid": "1895984583",
-   "mall": "지마켓",
-   "title": "식물성 멜라토닌 2mg 6개월분 + 수면안대",
-   "price": 17800,
-   "image": "https://gdimg.gmarket.co.kr/4181505272/goodsimage",
-   "sentAt": "2026-11-07T11:03:05.002+09:00",
-   "saving": 24,
-   "baseline": 23490,
-   "baselineNote": "판매글 5곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 5곳 최저가",
-     "price": 23490
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4181505272"
   }
  ]
 }
