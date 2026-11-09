@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-10T00:04:07.054+09:00",
+ "updated": "2026-11-10T00:09:24.744+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "1719879838",
+   "mall": "지마켓",
+   "title": "감귤 10KG 중대과",
+   "price": 8420,
+   "image": "https://gdimg.gmarket.co.kr/628809631/goodsimage",
+   "sentAt": "2026-11-10T00:09:24.744+09:00",
+   "saving": 45,
+   "baseline": 15390,
+   "baselineNote": "판매글 7곳 최저가",
+   "unit": {
+    "label": "100g당",
+    "value": 84
+   },
+   "comps": [
+    {
+     "name": "판매글 7곳 최저가",
+     "price": 15390
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=628809631",
+   "web": true
+  },
   {
    "uid": "1877250841",
    "mall": "지마켓",
@@ -7360,20 +7383,6 @@
    "baselineNote": "99곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/ieJMGq2vU4",
-   "web": true
-  },
-  {
-   "uid": "3826787506",
-   "mall": "쿠팡",
-   "title": "오뚜기 가벼운참치 살코기, 135g, 8개",
-   "price": 12680,
-   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/725061607635400-86baecd2-3836-4377-98f4-d2f15b388336.jpg",
-   "sentAt": "2026-10-29T14:02:27.359+09:00",
-   "saving": 17,
-   "baseline": 15360,
-   "baselineNote": "46곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gaQc8YmMBE",
    "web": true
   }
  ]
