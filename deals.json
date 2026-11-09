@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-09T15:54:40.329+09:00",
+ "updated": "2026-11-09T15:56:22.087+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4937752520",
+   "mall": "토스쇼핑",
+   "title": "코오롱제약 올인원 하루한알 멀티비타민, 900mg, 60정, 5박스",
+   "price": 23300,
+   "image": "https://shopping.toss.im/live/taca/ai/YTc3ZjBi/QU9KTXNtd1dJRWt5elRZczl6amF0Sk56N3BOTjNvck1Mbmx0S1oveHRGSGc.png",
+   "sentAt": "2026-11-09T15:56:21.240+09:00",
+   "saving": 23,
+   "baseline": 30180,
+   "baselineNote": "판매글 4곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 4곳 최저가",
+     "price": 30180
+    }
+   ],
+   "link": "https://toss.im/_m/LIJQtYLz"
+  },
   {
    "uid": "1152617310",
    "mall": "쿠팡",
@@ -3315,28 +3333,6 @@
     }
    ],
    "link": "https://toss.im/_m/zah5AYc6"
-  },
-  {
-   "uid": "2567306044",
-   "mall": "쿠팡",
-   "title": "메르시 파이니스트 셀렉션 레드, 250g, 1개",
-   "price": 9630,
-   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/9206080985226-bf6ff3e2-f588-4c58-90c9-5432f93d0fd5.png",
-   "sentAt": "2026-11-07T17:01:54.750+09:00",
-   "saving": 22,
-   "baseline": 12351,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": {
-    "label": "100g당",
-    "value": 3852
-   },
-   "comps": [
-    {
-     "name": "판매글 4곳 최저가",
-     "price": 12351
-    }
-   ],
-   "link": "https://link.coupang.com/a/itQC4psdBk"
   }
  ]
 }
