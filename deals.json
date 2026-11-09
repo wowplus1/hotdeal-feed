@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-09T17:25:06.044+09:00",
+ "updated": "2026-11-09T17:26:06.469+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9282612646",
+   "mall": "토스쇼핑",
+   "title": "베라 뱀부 뽑아쓰는 키친타올, 3겹, 팝업, 100매, 9팩",
+   "price": 7818,
+   "image": "https://shopping.toss.im/live/taca/ai/MWI5Yjdh/V1N4MnJHL1ovRVJFTncvSDNyM0xZWkdKYmd2bGpGN1lUSFA1UmpsbWQzcz0.png",
+   "sentAt": "2026-11-09T17:26:05.966+09:00",
+   "saving": 26,
+   "baseline": 10580,
+   "baselineNote": "판매글 12곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 12곳 최저가",
+     "price": 10580
+    }
+   ],
+   "link": "https://toss.shopping/_m/XnHIiJpi"
+  },
   {
    "uid": "2634081442",
    "mall": "지마켓",
@@ -3317,154 +3335,6 @@
     "where": "126곳 중 최저"
    },
    "link": "https://toss.shopping/_m/xMK0mNGo"
-  },
-  {
-   "uid": "9574164069",
-   "mall": "쿠팡",
-   "title": "메이플조 메이플 시럽, 150g, 1개",
-   "price": 4490,
-   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/b1984b54-4a09-4875-99bb-57d9f19adb586858642710865017533.png",
-   "sentAt": "2026-11-07T18:08:59.702+09:00",
-   "saving": 27,
-   "baseline": 6148,
-   "baselineNote": "17곳 중 최저",
-   "unit": {
-    "label": "100g당",
-    "value": 2993
-   },
-   "check": {
-    "market": 6148,
-    "malls": 17,
-    "delivered": 9460
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": true,
-    "low": 5400
-   },
-   "spec": [
-    "유리",
-    "캐나다"
-   ],
-   "comps": [
-    {
-     "name": "17곳 중 최저",
-     "price": 6148
-    },
-    {
-     "name": "배송비까지 치면",
-     "price": 9460
-    }
-   ],
-   "trend": [
-    {
-     "m": "25-12",
-     "p": 6650
-    },
-    {
-     "m": "26-01",
-     "p": 6670
-    },
-    {
-     "m": "26-02",
-     "p": 6650
-    },
-    {
-     "m": "26-03",
-     "p": 6800
-    },
-    {
-     "m": "26-04",
-     "p": 7120
-    },
-    {
-     "m": "26-05",
-     "p": 6750
-    },
-    {
-     "m": "26-06",
-     "p": 5400
-    },
-    {
-     "m": "26-07",
-     "p": 5400
-    },
-    {
-     "m": "26-08",
-     "p": 6350
-    },
-    {
-     "m": "26-09",
-     "p": 6490
-    },
-    {
-     "m": "26-10",
-     "p": 6710
-    },
-    {
-     "m": "26-11",
-     "p": 6548
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "SSG.COM",
-     "code": "TN118",
-     "id": "1000826787594",
-     "price": 6148,
-     "ship": 4000
-    },
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "9344345984",
-     "price": 6280,
-     "ship": 4000
-    },
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "F558519831",
-     "price": 6610,
-     "ship": 4000
-    },
-    {
-     "mall": "신세계몰",
-     "code": "ED901",
-     "id": "1000826787594",
-     "price": 6610,
-     "ship": 4000
-    },
-    {
-     "mall": "이마트몰",
-     "code": "EE311",
-     "id": "1000826787594",
-     "price": 6610,
-     "ship": 4000
-    },
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "2211187325",
-     "price": 6960,
-     "ship": 2500
-    },
-    {
-     "mall": "롯데ON",
-     "code": "EE309",
-     "id": "LO2686182218",
-     "price": 6970,
-     "ship": 3500
-    },
-    {
-     "mall": "주식회사 신세계라이브쇼핑",
-     "code": "TRB03",
-     "id": "79454340",
-     "price": 7520,
-     "ship": 3000
-    }
-   ],
-   "link": "https://link.coupang.com/a/h6QDoJ5KVM"
   }
  ]
 }
