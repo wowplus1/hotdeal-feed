@@ -1,7 +1,135 @@
 {
- "updated": "2026-11-09T20:04:50.044+09:00",
+ "updated": "2026-11-09T20:50:13.419+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "2985644418",
+   "mall": "롯데온",
+   "title": "CARITANI BACKPACK BLACK DQ409001",
+   "price": 73470,
+   "image": "https://contents.lotteon.com/itemimage/20260504101957/LO/10/01/29/22/38/_1/00/12/92/23/9/LO1001292238_1001292239_1.jpg",
+   "sentAt": "2026-11-09T20:50:13.419+09:00",
+   "saving": 14,
+   "baseline": 85910,
+   "baselineNote": "56곳 중 최저 · 무료배송",
+   "check": {
+    "market": 85910,
+    "malls": 56,
+    "ship": 0
+   },
+   "review": {
+    "score": 4.8,
+    "count": 356,
+    "low": 2
+   },
+   "spec": [
+    "백팩",
+    "남성용",
+    "남녀공용",
+    "노트북수납",
+    "38.10cm(15형)"
+   ],
+   "comps": [
+    {
+     "name": "56곳 중 최저 · 무료배송",
+     "price": 85910
+    }
+   ],
+   "trend": [
+    {
+     "m": "26-04",
+     "p": 101080
+    },
+    {
+     "m": "26-05",
+     "p": 85586
+    },
+    {
+     "m": "26-06",
+     "p": 88080
+    },
+    {
+     "m": "26-07",
+     "p": 82122
+    },
+    {
+     "m": "26-08",
+     "p": 83780
+    },
+    {
+     "m": "26-09",
+     "p": 76120
+    },
+    {
+     "m": "26-10",
+     "p": 77790
+    },
+    {
+     "m": "26-11",
+     "p": 76060
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO1001292238",
+     "price": 85910,
+     "ship": 0
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000025196686",
+     "price": 86444,
+     "ship": 0
+    },
+    {
+     "mall": "신세계몰",
+     "code": "ED901",
+     "id": "1000025196686",
+     "price": 86444,
+     "ship": 0
+    },
+    {
+     "mall": "GS SHOP",
+     "code": "ED908",
+     "id": "28864035",
+     "price": 96530,
+     "ship": 0
+    },
+    {
+     "mall": "롯데백화점",
+     "code": "TLC16",
+     "id": "LE1204133292",
+     "price": 96790,
+     "ship": 0
+    },
+    {
+     "mall": "CJ온스타일",
+     "code": "ED909",
+     "id": "2032717085",
+     "price": 101890,
+     "ship": 0
+    },
+    {
+     "mall": "롯데홈쇼핑",
+     "code": "ED903",
+     "id": "1282204596",
+     "price": 104390,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4800880484",
+     "price": 106600,
+     "ship": 0
+    }
+   ],
+   "link": "http://app.ac/lbGKX5l13",
+   "web": true
+  },
   {
    "uid": "8395750448",
    "mall": "지마켓",
@@ -7231,20 +7359,6 @@
    "baselineNote": "판매글 26곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/HtVvXQM73",
-   "web": true
-  },
-  {
-   "uid": "3549585206",
-   "mall": "11번가",
-   "title": "국내산 햇 고춧가루 1kg 김장/요리 양념용 함평 고추가루",
-   "price": 17970,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/3/4/3/3/6/0/BXqXz/9694343360_241860559.webp",
-   "sentAt": "2026-10-29T10:19:38.756+09:00",
-   "saving": 18,
-   "baseline": 22010,
-   "baselineNote": "판매글 6곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/yECQxSS33",
    "web": true
   }
  ]
