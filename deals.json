@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-09T12:31:16.612+09:00",
+ "updated": "2026-11-09T14:08:41.682+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4937993650",
+   "mall": "지마켓",
+   "title": "맥스봉치즈 1.08kg",
+   "price": 10900,
+   "image": "https://gdimg.gmarket.co.kr/2435999418/goodsimage",
+   "sentAt": "2026-11-09T14:08:40.943+09:00",
+   "saving": 41,
+   "baseline": 18370,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": {
+    "label": "100g당",
+    "value": 1009
+   },
+   "comps": [
+    {
+     "name": "판매글 4곳 최저가",
+     "price": 18370
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2435999418"
+  },
   {
    "uid": "4276257117",
    "mall": "토스쇼핑",
@@ -3362,138 +3384,6 @@
     }
    ],
    "link": "https://hotdeal.best/9002732891?utm_source=kakao"
-  },
-  {
-   "uid": "1133221872",
-   "mall": "쿠팡",
-   "title": "카시오 MQ-24G-9E 남성 메탈 시계",
-   "price": 20040,
-   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/7baa/e98ddbb3aa4dc2115ec55ba9f0e6c0def2207eb9a6bb1f53e2686122bb20.jpg",
-   "sentAt": "2026-11-07T14:26:08.438+09:00",
-   "saving": 50,
-   "baseline": 40400,
-   "baselineNote": "12곳 중 최저",
-   "check": {
-    "market": 40400,
-    "malls": 12,
-    "ship": 3000,
-    "delivered": 43400
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": true,
-    "low": 33360
-   },
-   "spec": [
-    "손목시계",
-    "남성용",
-    "여성용",
-    "스테인리스스틸",
-    "아날로그시계"
-   ],
-   "comps": [
-    {
-     "name": "12곳 중 최저",
-     "price": 40400
-    },
-    {
-     "name": "배송비 3,000원 포함",
-     "price": 43400
-    }
-   ],
-   "trend": [
-    {
-     "m": "26-04",
-     "p": 33360
-    },
-    {
-     "m": "26-05",
-     "p": 33360
-    },
-    {
-     "m": "26-06",
-     "p": 40400
-    },
-    {
-     "m": "26-07",
-     "p": 40400
-    },
-    {
-     "m": "26-08",
-     "p": 40400
-    },
-    {
-     "m": "26-09",
-     "p": 40400
-    },
-    {
-     "m": "26-10",
-     "p": 40400
-    },
-    {
-     "m": "26-11",
-     "p": 53962
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "2684995258",
-     "price": 40400,
-     "ship": 3000
-    },
-    {
-     "mall": "신세계몰",
-     "code": "ED901",
-     "id": "1000703444019",
-     "price": 57024,
-     "ship": 0
-    },
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "F255616175",
-     "price": 58320,
-     "ship": 0
-    },
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "4453696942",
-     "price": 58320,
-     "ship": 0
-    },
-    {
-     "mall": "LFmall",
-     "code": "TXB15E",
-     "id": "DWDPXX00659",
-     "price": 67070,
-     "ship": 0
-    },
-    {
-     "mall": "롯데홈쇼핑",
-     "code": "ED903",
-     "id": "3199134011",
-     "price": 72330,
-     "ship": 0
-    },
-    {
-     "mall": "SSG.COM",
-     "code": "TN118",
-     "id": "1000715147448",
-     "price": 76950,
-     "ship": 0
-    },
-    {
-     "mall": "이마트몰",
-     "code": "EE311",
-     "id": "1000715147448",
-     "price": 76950,
-     "ship": 0
-    }
-   ],
-   "link": "https://link.coupang.com/a/itGqYo8k6m"
   }
  ]
 }
