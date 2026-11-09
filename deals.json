@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-09T10:13:21.123+09:00",
+ "updated": "2026-11-09T10:29:27.474+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2269122830",
+   "mall": "롯데온",
+   "title": "독일 식기세척기세제 미니 50개입 3개",
+   "price": 28900,
+   "image": "https://contents.lotteon.com/itemimage/20261014203146/LO/25/59/60/68/25/bndl_img/LO2559606825_1.jpg",
+   "sentAt": "2026-11-09T10:29:26.258+09:00",
+   "saving": 28,
+   "baseline": 40200,
+   "baselineNote": "판매글 6곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 6곳 최저가",
+     "price": 40200
+    }
+   ],
+   "link": "http://app.ac/Oqn4AE293"
+  },
   {
    "uid": "1764929252",
    "mall": "쿠팡",
@@ -3609,24 +3627,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/ithY0nQi1k"
-  },
-  {
-   "uid": "5318079747",
-   "mall": "쿠팡",
-   "title": "AHC 리뉴에이지 토탈 4종 + 아이크림 20ml 기프트 세트, 1세트",
-   "price": 33500,
-   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/85afabdd-d8e6-448d-a120-c89b229a63798682209387496021516.png",
-   "sentAt": "2026-11-07T07:27:43.231+09:00",
-   "saving": 37,
-   "baseline": 53550,
-   "baselineNote": "판매글 6곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 6곳 최저가",
-     "price": 53550
-    }
-   ],
-   "link": "https://link.coupang.com/a/itcyz2EQqO"
   }
  ]
 }
