@@ -1,7 +1,109 @@
 {
- "updated": "2026-11-09T11:45:16.307+09:00",
+ "updated": "2026-11-09T12:07:15.329+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8180448889",
+   "mall": "쿠팡",
+   "title": "동구밭 설거지 워싱바, 150g, 1개",
+   "price": 3010,
+   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/154414666561050-c64bd8fe-4eb9-4f07-8c3f-2a9962c31a27.png",
+   "sentAt": "2026-11-09T12:07:14.560+09:00",
+   "saving": 38,
+   "baseline": 4860,
+   "baselineNote": "21곳 중 최저",
+   "unit": {
+    "label": "100g당",
+    "value": 2007
+   },
+   "check": {
+    "market": 4860,
+    "malls": 21
+   },
+   "comps": [
+    {
+     "name": "21곳 중 최저",
+     "price": 4860
+    }
+   ],
+   "trend": [
+    {
+     "m": "26-08",
+     "p": 5030
+    },
+    {
+     "m": "26-09",
+     "p": 4970
+    },
+    {
+     "m": "26-10",
+     "p": 5030
+    },
+    {
+     "m": "26-11",
+     "p": 4860
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "3954441628",
+     "price": 4860,
+     "ship": 3000
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "7121541916",
+     "price": 5030,
+     "ship": 3000
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "E401446548",
+     "price": 5130,
+     "ship": 3000
+    },
+    {
+     "mall": "롯데홈쇼핑",
+     "code": "ED903",
+     "id": "1980698027",
+     "price": 5240,
+     "ship": 3000
+    },
+    {
+     "mall": "현대Hmall",
+     "code": "ED907",
+     "id": "2224337928",
+     "price": 5460,
+     "ship": 3000
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000067587138",
+     "price": 5580,
+     "ship": 3000
+    },
+    {
+     "mall": "GS SHOP",
+     "code": "ED908",
+     "id": "1078551173",
+     "price": 5580,
+     "ship": 3000
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000067587138",
+     "price": 6000,
+     "ship": 3000
+    }
+   ],
+   "link": "https://link.coupang.com/a/iwQnkhSpJ6"
+  },
   {
    "uid": "7449876205",
    "mall": "11번가",
@@ -3393,28 +3495,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/itwJ1ZZlPU"
-  },
-  {
-   "uid": "8946957586",
-   "mall": "쿠팡",
-   "title": "일리 디카프 디카페인 캡슐 21개",
-   "price": 10320,
-   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/ccc2/034717ca3cd514681c27f00c27cae29de2cc6ec1be586353e60fe1e5fb56.jpg",
-   "sentAt": "2026-11-07T11:54:17.130+09:00",
-   "saving": 40,
-   "baseline": 17190,
-   "baselineNote": "판매글 8곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 491
-   },
-   "comps": [
-    {
-     "name": "판매글 8곳 최저가",
-     "price": 17190
-    }
-   ],
-   "link": "https://link.coupang.com/a/hK4RAxlmH6"
   }
  ]
 }
