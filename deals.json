@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-09T17:26:06.469+09:00",
+ "updated": "2026-11-09T18:00:39.632+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7968941011",
+   "mall": "11번가",
+   "title": "오리온 와우스낵 16입, 1개",
+   "price": 9410,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/8795122910/B.webp?663472015",
+   "sentAt": "2026-11-09T18:00:38.709+09:00",
+   "saving": 27,
+   "baseline": 12900,
+   "baselineNote": "판매글 12곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 588
+   },
+   "comps": [
+    {
+     "name": "판매글 12곳 최저가",
+     "price": 12900
+    }
+   ],
+   "link": "http://app.ac/7jpW8la43"
+  },
   {
    "uid": "9282612646",
    "mall": "토스쇼핑",
@@ -3322,19 +3344,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iuQXeiMDca"
-  },
-  {
-   "uid": "3831248946",
-   "mall": "토스쇼핑",
-   "title": "뉴트리원 비비랩 저분자 콜라겐, 2g, 80포, 3개",
-   "price": 54760,
-   "image": "https://shopping.toss.im/live/taca/ai/v2/YjlhZjkz/QUpwN21UeVp1VHh4RG5QbnBybVR6T01jVExIT3JuR0hObm5zRHh0anNQRGs.png",
-   "sentAt": "2026-11-07T18:25:55.777+09:00",
-   "alt": {
-    "price": 75190,
-    "where": "126곳 중 최저"
-   },
-   "link": "https://toss.shopping/_m/xMK0mNGo"
   }
  ]
 }
