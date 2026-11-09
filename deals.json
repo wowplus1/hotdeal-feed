@@ -1,7 +1,24 @@
 {
- "updated": "2026-11-09T12:07:15.329+09:00",
+ "updated": "2026-11-09T12:29:17.209+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6811431558",
+   "mall": "지마켓",
+   "title": "도톰한3겹순수 화장지 27Mx30롤 3팩",
+   "price": 22220,
+   "image": "https://gdimg.gmarket.co.kr/4474793366/goodsimage",
+   "sentAt": "2026-11-09T12:29:16.598+09:00",
+   "unit": {
+    "label": "개당",
+    "value": 7407
+   },
+   "alt": {
+    "price": 27330,
+    "where": "270곳 중 최저"
+   },
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4474793366"
+  },
   {
    "uid": "8180448889",
    "mall": "쿠팡",
@@ -3477,24 +3494,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2698242120"
-  },
-  {
-   "uid": "6564253917",
-   "mall": "쿠팡",
-   "title": "스탠리 트랜짓 트위스트플립 머그 591ml*1개",
-   "price": 21870,
-   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/11/04/11/5/606cc966-bdf9-439a-882c-8e297b373f6f.png",
-   "sentAt": "2026-11-07T12:09:49.991+09:00",
-   "saving": 66,
-   "baseline": 64350,
-   "baselineNote": "판매글 5곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 5곳 최저가",
-     "price": 64350
-    }
-   ],
-   "link": "https://link.coupang.com/a/itwJ1ZZlPU"
   }
  ]
 }
