@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-09T10:29:27.474+09:00",
+ "updated": "2026-11-09T10:49:28.141+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8756955762",
+   "mall": "쿠팡",
+   "title": "칙필에이 소스, 473ml*1개",
+   "price": 8740,
+   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/2166/4c05022c3a38020ca0cb049ab2cb8ba062a14cf398508fcdc9c0677a056c.png",
+   "sentAt": "2026-11-09T10:49:27.227+09:00",
+   "saving": 52,
+   "baseline": 18340,
+   "baselineNote": "판매글 5곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 5곳 최저가",
+     "price": 18340
+    }
+   ],
+   "link": "https://link.coupang.com/a/iepgm7RPci"
+  },
   {
    "uid": "2269122830",
    "mall": "롯데온",
@@ -3605,28 +3623,6 @@
     }
    ],
    "link": "https://toss.shopping/_m/TSVlf8Rl"
-  },
-  {
-   "uid": "4937631884",
-   "mall": "쿠팡",
-   "title": "CJ제일제당 맛콩 병아리콩 건강 간식, 50g, 10개",
-   "price": 9900,
-   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/80f9377e-8a43-4039-9781-2461bd211b577720118196227924336.png",
-   "sentAt": "2026-11-07T08:43:37.504+09:00",
-   "saving": 49,
-   "baseline": 19290,
-   "baselineNote": "판매글 10곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 990
-   },
-   "comps": [
-    {
-     "name": "판매글 10곳 최저가",
-     "price": 19290
-    }
-   ],
-   "link": "https://link.coupang.com/a/ithY0nQi1k"
   }
  ]
 }
