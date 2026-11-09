@@ -1,7 +1,149 @@
 {
- "updated": "2026-11-09T19:29:57.949+09:00",
+ "updated": "2026-11-09T20:04:50.044+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "8395750448",
+   "mall": "지마켓",
+   "title": "레노버 LEGION 27Q-10 QHD 240 IPS 68C6GAC4KR",
+   "price": 223730,
+   "image": "https://gdimg.gmarket.co.kr/4488245279/goodsimage",
+   "sentAt": "2026-11-09T20:04:50.044+09:00",
+   "saving": 17,
+   "baseline": 269100,
+   "baselineNote": "50곳 중 최저 · 무료배송",
+   "check": {
+    "market": 269100,
+    "malls": 50,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": false,
+    "low": 203000
+   },
+   "review": {
+    "score": 4.6,
+    "count": 117,
+    "low": 3
+   },
+   "comps": [
+    {
+     "name": "50곳 중 최저 · 무료배송",
+     "price": 269100
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 268450
+    },
+    {
+     "m": "26-01",
+     "p": 267990
+    },
+    {
+     "m": "26-02",
+     "p": 257210
+    },
+    {
+     "m": "26-03",
+     "p": 256090
+    },
+    {
+     "m": "26-04",
+     "p": 203000
+    },
+    {
+     "m": "26-05",
+     "p": 271220
+    },
+    {
+     "m": "26-06",
+     "p": 277000
+    },
+    {
+     "m": "26-07",
+     "p": 259070
+    },
+    {
+     "m": "26-08",
+     "p": 267840
+    },
+    {
+     "m": "26-09",
+     "p": 219180
+    },
+    {
+     "m": "26-10",
+     "p": 219200
+    },
+    {
+     "m": "26-11",
+     "p": 269100
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "레노버",
+     "code": "TOC0F",
+     "id": "68C6GAC4KR",
+     "price": 269100,
+     "ship": 0
+    },
+    {
+     "mall": "TZ211D",
+     "code": "TZ211D",
+     "id": "13135732388",
+     "price": 277000,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4488245279",
+     "price": 277000,
+     "ship": 0
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F292016166",
+     "price": 277000,
+     "ship": 0
+    },
+    {
+     "mall": "하이마트",
+     "code": "TJ418",
+     "id": "0050875234",
+     "price": 279000,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2524293623",
+     "price": 287620,
+     "ship": 0
+    },
+    {
+     "mall": "피시포올 (Pc4all)",
+     "code": "PVC14",
+     "id": "177055",
+     "price": 289000,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "8517095848",
+     "price": 310000,
+     "ship": 0
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4488245279",
+   "web": true
+  },
   {
    "uid": "5839956679",
    "mall": "지마켓",
@@ -7103,20 +7245,6 @@
    "baselineNote": "판매글 6곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/yECQxSS33",
-   "web": true
-  },
-  {
-   "uid": "2850950160",
-   "mall": "쿠팡",
-   "title": "둥지냉면 비빔냉면 162g, 4개",
-   "price": 4560,
-   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/480870394163409-600d44cc-5a1a-4ee5-8a33-14c52bdacbc1.jpg",
-   "sentAt": "2026-10-29T08:05:08.133+09:00",
-   "saving": 10,
-   "baseline": 5070,
-   "baselineNote": "144곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/iei3aTdxvw",
    "web": true
   }
  ]
