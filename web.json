@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-10T00:19:19.917+09:00",
+ "updated": "2026-11-10T06:50:26.562+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "2680034523",
+   "mall": "쿠팡",
+   "title": "재미스 잼있는 미니사과쿠키, 16g, 100개",
+   "price": 8220,
+   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/464b/b3708beef90e6d71d60536bfa28ef9097f994aa00409ad335547dc999095.jpg",
+   "sentAt": "2026-11-10T06:50:26.562+09:00",
+   "unit": {
+    "label": "개당",
+    "value": 82
+   },
+   "link": "https://link.coupang.com/a/ix8DQ9r2qa",
+   "web": true
+  },
   {
    "uid": "2869592129",
    "mall": "지마켓",
@@ -7472,19 +7486,6 @@
    "baseline": 56430,
    "baselineNote": "판매글 3곳 최저가",
    "link": "http://app.ac/ztVj3GM93",
-   "web": true
-  },
-  {
-   "uid": "7574260354",
-   "mall": "쿠팡",
-   "title": "마이디어 미니 냉장고 44L",
-   "price": 64000,
-   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/776b/e1f9017f91773d785cf12bf0e99d8de602816438d846b9802f4911fb2ee5.png",
-   "sentAt": "2026-10-29T17:03:41.038+09:00",
-   "saving": 57,
-   "baseline": 149060,
-   "baselineNote": "판매글 7곳 최저가",
-   "link": "https://link.coupang.com/a/hUlA0hAQMe",
    "web": true
   }
  ]
