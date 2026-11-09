@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-09T18:58:49.320+09:00",
+ "updated": "2026-11-09T18:59:43.198+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7730893929",
+   "mall": "쿠팡",
+   "title": "청정원 토마토 퓨레 570g",
+   "price": 2830,
+   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/08/25/11/9/860877ca-607c-4767-a0c4-cbefe0f3af8a.jpg",
+   "sentAt": "2026-11-09T18:59:42.637+09:00",
+   "saving": 65,
+   "baseline": 8010,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": {
+    "label": "100g당",
+    "value": 496
+   },
+   "comps": [
+    {
+     "name": "판매글 5곳 최저가",
+     "price": 8010
+    }
+   ],
+   "link": "https://link.coupang.com/a/ixjNw5yAvY"
+  },
   {
    "uid": "8449574382",
    "mall": "11번가",
@@ -3315,154 +3337,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iuR79m2hYy"
-  },
-  {
-   "uid": "7188233989",
-   "mall": "쿠팡",
-   "title": "마이비데 키즈 화장실용 물티슈 캡형, 40매, 9개",
-   "price": 9720,
-   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/bd6f/9ab7097a5e836828032d9c5f9f9282e66b1c6384cd7143911b7858e2e6fa.PNG",
-   "sentAt": "2026-11-08T07:26:39.793+09:00",
-   "saving": 28,
-   "baseline": 13560,
-   "baselineNote": "396곳 중 최저 · 무료배송",
-   "check": {
-    "market": 13560,
-    "malls": 396,
-    "ship": 0
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": true,
-    "low": 11350
-   },
-   "review": {
-    "score": 4.8,
-    "count": 2916,
-    "low": 6
-   },
-   "spec": [
-    "비데티슈",
-    "9단계정수",
-    "엠보싱",
-    "더마테스트",
-    "O"
-   ],
-   "comps": [
-    {
-     "name": "396곳 중 최저 · 무료배송",
-     "price": 13560
-    }
-   ],
-   "trend": [
-    {
-     "m": "25-12",
-     "p": 12650
-    },
-    {
-     "m": "26-01",
-     "p": 12900
-    },
-    {
-     "m": "26-02",
-     "p": 12690
-    },
-    {
-     "m": "26-03",
-     "p": 11350
-    },
-    {
-     "m": "26-04",
-     "p": 11900
-    },
-    {
-     "m": "26-05",
-     "p": 11710
-    },
-    {
-     "m": "26-06",
-     "p": 11570
-    },
-    {
-     "m": "26-07",
-     "p": 12270
-    },
-    {
-     "m": "26-08",
-     "p": 12690
-    },
-    {
-     "m": "26-09",
-     "p": 12190
-    },
-    {
-     "m": "26-10",
-     "p": 13560
-    },
-    {
-     "m": "26-11",
-     "p": 14170
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "패션플러스",
-     "code": "TH002",
-     "id": "319557454",
-     "price": 13560,
-     "ship": 0
-    },
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "F608035755",
-     "price": 13770,
-     "ship": 0
-    },
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "4800280720",
-     "price": 13770,
-     "ship": 0
-    },
-    {
-     "mall": "주식회사 신세계라이브쇼핑",
-     "code": "TRB03",
-     "id": "1002815028",
-     "price": 14490,
-     "ship": 0
-    },
-    {
-     "mall": "롯데ON",
-     "code": "EE309",
-     "id": "LO2718776212",
-     "price": 14630,
-     "ship": 0
-    },
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "8568505313",
-     "price": 14630,
-     "ship": 0
-    },
-    {
-     "mall": "하프클럽",
-     "code": "TZ6171",
-     "id": "403691867",
-     "price": 15430,
-     "ship": 0
-    },
-    {
-     "mall": "TVB49",
-     "code": "TVB49",
-     "id": "6943226580",
-     "price": 15500,
-     "ship": 0
-    }
-   ],
-   "link": "https://link.coupang.com/a/gZS6qgBcqq"
   }
  ]
 }
