@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-09T14:15:58.328+09:00",
+ "updated": "2026-11-09T14:40:11.616+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5918238886",
+   "mall": "지마켓",
+   "title": "서린공식 리안리 하이드로시프트 lcd c 360n",
+   "price": 190490,
+   "image": "https://gdimg.gmarket.co.kr/4565473623/goodsimage",
+   "sentAt": "2026-11-09T14:40:10.986+09:00",
+   "saving": 29,
+   "baseline": 269000,
+   "baselineNote": "판매글 34곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 34곳 최저가",
+     "price": 269000
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4565473623"
+  },
   {
    "uid": "9508112232",
    "mall": "토스쇼핑",
@@ -3349,15 +3367,6 @@
     }
    ],
    "link": "https://toss.shopping/_m/XgwZ8WYe"
-  },
-  {
-   "uid": "2494229029",
-   "mall": "지마켓",
-   "title": "하림 양푼김치찌개 8입+훌라면 4입+닭칼국수 4입",
-   "price": 12500,
-   "image": "https://gdimg.gmarket.co.kr/4672937495/goodsimage",
-   "sentAt": "2026-11-07T16:03:25.566+09:00",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4672937495"
   }
  ]
 }
