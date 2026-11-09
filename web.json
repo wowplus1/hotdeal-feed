@@ -1,7 +1,118 @@
 {
- "updated": "2026-11-09T13:28:26.500+09:00",
+ "updated": "2026-11-09T15:50:02.197+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "5242381225",
+   "mall": "지마켓",
+   "title": "삼성 뷰피니티 s7 4k 모니터 s27h710",
+   "price": 268500,
+   "image": "https://gdimg.gmarket.co.kr/4801196641/goodsimage",
+   "sentAt": "2026-11-09T15:50:02.197+09:00",
+   "saving": 10,
+   "baseline": 299000,
+   "baselineNote": "37곳 중 최저 · 무료배송",
+   "check": {
+    "market": 299000,
+    "malls": 37,
+    "ship": 0
+   },
+   "spec": [
+    "68.4cm(27인치)",
+    "4K UHD(3840 x 2160)",
+    "60Hz",
+    "IPS",
+    "와이드(16:9)"
+   ],
+   "comps": [
+    {
+     "name": "37곳 중 최저 · 무료배송",
+     "price": 299000
+    }
+   ],
+   "trend": [
+    {
+     "m": "26-07",
+     "p": 347990
+    },
+    {
+     "m": "26-08",
+     "p": 337050
+    },
+    {
+     "m": "26-09",
+     "p": 309000
+    },
+    {
+     "m": "26-10",
+     "p": 299000
+    },
+    {
+     "m": "26-11",
+     "p": 299000
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "TSB21F",
+     "code": "TSB21F",
+     "id": "10333433001",
+     "price": 299000,
+     "ship": 0
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F608870195",
+     "price": 328990,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4801196641",
+     "price": 328990,
+     "ship": 0
+    },
+    {
+     "mall": "하이마트",
+     "code": "TJ418",
+     "id": "0067393991",
+     "price": 329000,
+     "ship": 0
+    },
+    {
+     "mall": "피시포올 (Pc4all)",
+     "code": "PVC14",
+     "id": "186420",
+     "price": 338900,
+     "ship": 0
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000856684257",
+     "price": 349000,
+     "ship": 0
+    },
+    {
+     "mall": "오늘의집",
+     "code": "TU710C",
+     "id": "4147962-31172557",
+     "price": 349000,
+     "ship": 0
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000856684257",
+     "price": 349000,
+     "ship": 0
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4801196641",
+   "web": true
+  },
   {
    "uid": "1044383364",
    "mall": "쿠팡",
@@ -6996,20 +7107,6 @@
    "baselineNote": "판매글 6곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/I3MFp5J63",
-   "web": true
-  },
-  {
-   "uid": "2119273961",
-   "mall": "지마켓",
-   "title": "스테비아 방울 토마토 2kg",
-   "price": 12900,
-   "image": "https://gdimg.gmarket.co.kr/4883460176/goodsimage",
-   "sentAt": "2026-10-29T00:15:00.292+09:00",
-   "saving": 33,
-   "baseline": 19350,
-   "baselineNote": "다른 곳 최저",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4883460176",
    "web": true
   }
  ]
