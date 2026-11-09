@@ -1,7 +1,148 @@
 {
- "updated": "2026-11-09T18:00:39.632+09:00",
+ "updated": "2026-11-09T18:58:49.320+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8449574382",
+   "mall": "11번가",
+   "title": "금강제화 리차드 남성 플레인토 더비 구두 RICOXC4959MF1",
+   "price": 63830,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/1/8/8/8/3/4/mJwZE/9436188834_239821386.webp",
+   "sentAt": "2026-11-09T18:58:48.523+09:00",
+   "saving": 22,
+   "baseline": 81500,
+   "baselineNote": "32곳 중 최저 · 무료배송",
+   "check": {
+    "market": 81500,
+    "malls": 32,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 71250
+   },
+   "spec": [
+    "정장화",
+    "블랙",
+    "가죽"
+   ],
+   "comps": [
+    {
+     "name": "32곳 중 최저 · 무료배송",
+     "price": 81500
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 71400
+    },
+    {
+     "m": "26-01",
+     "p": 74760
+    },
+    {
+     "m": "26-02",
+     "p": 75650
+    },
+    {
+     "m": "26-03",
+     "p": 76500
+    },
+    {
+     "m": "26-04",
+     "p": 78300
+    },
+    {
+     "m": "26-05",
+     "p": 85248
+    },
+    {
+     "m": "26-06",
+     "p": 89000
+    },
+    {
+     "m": "26-07",
+     "p": 79200
+    },
+    {
+     "m": "26-08",
+     "p": 79200
+    },
+    {
+     "m": "26-09",
+     "p": 71250
+    },
+    {
+     "m": "26-10",
+     "p": 76970
+    },
+    {
+     "m": "26-11",
+     "p": 81500
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "롯데홈쇼핑",
+     "code": "ED903",
+     "id": "3326652031",
+     "price": 81500,
+     "ship": 0
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F648050202",
+     "price": 84080,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4812297624",
+     "price": 85050,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2367865806",
+     "price": 85630,
+     "ship": 0
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000619979734",
+     "price": 86174,
+     "ship": 0
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000861030707",
+     "price": 89775,
+     "ship": 0
+    },
+    {
+     "mall": "신세계몰",
+     "code": "ED901",
+     "id": "1000861030707",
+     "price": 89775,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "7598134731",
+     "price": 90780,
+     "ship": 0
+    }
+   ],
+   "link": "http://app.ac/qEwleeS43"
+  },
   {
    "uid": "7968941011",
    "mall": "11번가",
@@ -3322,28 +3463,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/gZS6qgBcqq"
-  },
-  {
-   "uid": "9083372353",
-   "mall": "쿠팡",
-   "title": "후버 착즙 오렌지주스, 1L, 2개",
-   "price": 6420,
-   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/5700/7106dfeb6598a52e281bd4ac9a2af93afff815998b59800c1eac3517fb51.jpg",
-   "sentAt": "2026-11-08T07:20:24.911+09:00",
-   "saving": 69,
-   "baseline": 20560,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 3210
-   },
-   "comps": [
-    {
-     "name": "판매글 5곳 최저가",
-     "price": 20560
-    }
-   ],
-   "link": "https://link.coupang.com/a/iuQXeiMDca"
   }
  ]
 }
