@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-09T20:50:13.419+09:00",
+ "updated": "2026-11-09T23:08:04.078+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "9710544085",
+   "mall": "11번가",
+   "title": "San-Lucas 아보카도 오일 1L 엑스트라버진 냉압착",
+   "price": 19980,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/3/2/5/1/0/2/dOkPe/4750325102_241074276.webp",
+   "sentAt": "2026-11-09T23:08:04.078+09:00",
+   "saving": 40,
+   "baseline": 33200,
+   "baselineNote": "판매글 5곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 5곳 최저가",
+     "price": 33200
+    }
+   ],
+   "link": "http://app.ac/CqnShA223",
+   "web": true
+  },
   {
    "uid": "2985644418",
    "mall": "롯데온",
@@ -7345,20 +7364,6 @@
    "baseline": 18810,
    "baselineNote": "92곳 중 최저 · 무료배송",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2722168983",
-   "web": true
-  },
-  {
-   "uid": "1196266749",
-   "mall": "11번가",
-   "title": "국내산 냉장 다진마늘 1kg x 2팩",
-   "price": 11740,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/1/1/0/7/7/0/uByOc/9382110770_239136346.jpg",
-   "sentAt": "2026-10-29T11:06:32.887+09:00",
-   "saving": 22,
-   "baseline": 15110,
-   "baselineNote": "판매글 26곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/HtVvXQM73",
    "web": true
   }
  ]
