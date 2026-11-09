@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-10T08:03:51.293+09:00",
+ "updated": "2026-11-10T08:08:35.335+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9525578239",
+   "mall": "쿠팡",
+   "title": "티즐 제로 오미자 히비스커스, 500ml, 20개",
+   "price": 12710,
+   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/02/11/15/5/cd00a6d4-5773-4daf-b29e-44a4f184ac2a.jpg",
+   "sentAt": "2026-11-10T08:08:34.640+09:00",
+   "saving": 25,
+   "baseline": 16926,
+   "baselineNote": "판매글 29곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 636
+   },
+   "comps": [
+    {
+     "name": "판매글 29곳 최저가",
+     "price": 16926
+    }
+   ],
+   "link": "https://link.coupang.com/a/iyeczggHCK"
+  },
   {
    "uid": "4322881611",
    "mall": "쿠팡",
@@ -3026,151 +3048,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/gl6Kif8pQO"
-  },
-  {
-   "uid": "8218640647",
-   "mall": "토스쇼핑",
-   "title": "연세우유 멸균우유, 저지방, 190ml, 48개",
-   "price": 23210,
-   "image": "https://shopping.toss.im/live/temp/2026-03-26/8553408c-608d-4a27-a221-1878b4e0614a.jpeg",
-   "sentAt": "2026-11-08T08:16:06.880+09:00",
-   "saving": 26,
-   "baseline": 31410,
-   "baselineNote": "60곳 중 최저 · 무료배송",
-   "unit": {
-    "label": "개당",
-    "value": 484
-   },
-   "check": {
-    "market": 31410,
-    "malls": 60,
-    "ship": 0
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": true,
-    "low": 27270
-   },
-   "review": {
-    "score": 4.7,
-    "count": 443,
-    "low": 4
-   },
-   "comps": [
-    {
-     "name": "60곳 중 최저 · 무료배송",
-     "price": 31410
-    }
-   ],
-   "trend": [
-    {
-     "m": "25-12",
-     "p": 34190
-    },
-    {
-     "m": "26-01",
-     "p": 34190
-    },
-    {
-     "m": "26-02",
-     "p": 35920
-    },
-    {
-     "m": "26-03",
-     "p": 33380
-    },
-    {
-     "m": "26-04",
-     "p": 27270
-    },
-    {
-     "m": "26-05",
-     "p": 34000
-    },
-    {
-     "m": "26-06",
-     "p": 34230
-    },
-    {
-     "m": "26-07",
-     "p": 33800
-    },
-    {
-     "m": "26-08",
-     "p": 33000
-    },
-    {
-     "m": "26-09",
-     "p": 30650
-    },
-    {
-     "m": "26-10",
-     "p": 31520
-    },
-    {
-     "m": "26-11",
-     "p": 31490
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "9686608412",
-     "price": 31410,
-     "ship": 0
-    },
-    {
-     "mall": "롯데ON",
-     "code": "EE309",
-     "id": "LO2795385353",
-     "price": 31420,
-     "ship": 0
-    },
-    {
-     "mall": "주식회사 신세계라이브쇼핑",
-     "code": "TRB03",
-     "id": "1004084940",
-     "price": 33900,
-     "ship": 0
-    },
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "2378027111",
-     "price": 34330,
-     "ship": 0
-    },
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "D673376258",
-     "price": 34750,
-     "ship": 0
-    },
-    {
-     "mall": "SSG.COM",
-     "code": "TN118",
-     "id": "1000066645191",
-     "price": 35917,
-     "ship": 0
-    },
-    {
-     "mall": "이마트몰",
-     "code": "EE311",
-     "id": "1000871048209",
-     "price": 37752,
-     "ship": 0
-    },
-    {
-     "mall": "신세계몰",
-     "code": "ED901",
-     "id": "1000871051656",
-     "price": 37752,
-     "ship": 0
-    }
-   ],
-   "link": "https://toss.im/_m/ZzMTsHbv"
   }
  ]
 }
