@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-09T10:49:28.141+09:00",
+ "updated": "2026-11-09T10:54:52.742+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6846280040",
+   "mall": "지마켓",
+   "title": "완숙토마토 2kg",
+   "price": 7210,
+   "image": "https://gdimg.gmarket.co.kr/4795204829/goodsimage",
+   "sentAt": "2026-11-09T10:54:52.163+09:00",
+   "saving": 27,
+   "baseline": 9930,
+   "baselineNote": "판매글 14곳 최저가",
+   "unit": {
+    "label": "100g당",
+    "value": 361
+   },
+   "comps": [
+    {
+     "name": "판매글 14곳 최저가",
+     "price": 9930
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4795204829"
+  },
   {
    "uid": "8756955762",
    "mall": "쿠팡",
@@ -3601,28 +3623,6 @@
     }
    ],
    "link": "https://toss.im/_m/Pp1nDBa1"
-  },
-  {
-   "uid": "2117446911",
-   "mall": "토스쇼핑",
-   "title": "썬키스트 제로, 복숭아레몬소다, 600ml, 24개",
-   "price": 10210,
-   "image": "https://shopping.toss.im/live/temp/2026-04-28/3203b3eb-8c9c-42b5-a105-3c6e33149d0a.jpeg",
-   "sentAt": "2026-11-07T09:18:48.408+09:00",
-   "saving": 55,
-   "baseline": 22500,
-   "baselineNote": "판매글 34곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 425
-   },
-   "comps": [
-    {
-     "name": "판매글 34곳 최저가",
-     "price": 22500
-    }
-   ],
-   "link": "https://toss.shopping/_m/TSVlf8Rl"
   }
  ]
 }
