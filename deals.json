@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-09T08:36:15.782+09:00",
+ "updated": "2026-11-09T09:40:23.295+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8442839230",
+   "mall": "쿠팡",
+   "title": "cj제일제당 소바바 황금홀릭 후라이드 410g",
+   "price": 4980,
+   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/199189559834410-ce8e4b18-b1ef-426e-b704-b88833068cb5.png",
+   "sentAt": "2026-11-09T09:40:22.369+09:00",
+   "saving": 28,
+   "baseline": 6870,
+   "baselineNote": "판매글 21곳 최저가",
+   "unit": {
+    "label": "100g당",
+    "value": 1215
+   },
+   "comps": [
+    {
+     "name": "판매글 21곳 최저가",
+     "price": 6870
+    }
+   ],
+   "link": "https://link.coupang.com/a/iwFQtz0coe"
+  },
   {
    "uid": "8291843960",
    "mall": "토스쇼핑",
@@ -3365,28 +3387,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4776510902"
-  },
-  {
-   "uid": "8558533561",
-   "mall": "지마켓",
-   "title": "밀카 타블렛 버블리 6개",
-   "price": 15700,
-   "image": "https://gdimg.gmarket.co.kr/4624899720/goodsimage",
-   "sentAt": "2026-11-06T18:54:54.639+09:00",
-   "saving": 22,
-   "baseline": 20152,
-   "baselineNote": "판매글 7곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 2617
-   },
-   "comps": [
-    {
-     "name": "판매글 7곳 최저가",
-     "price": 20152
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4624899720"
   }
  ]
 }
