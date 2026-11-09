@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-09T11:29:53.454+09:00",
+ "updated": "2026-11-09T11:45:16.307+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7449876205",
+   "mall": "11번가",
+   "title": "크리오 덴티메이트시즌2 콤팩트 헤드 칫솔 초극세모 칫솔 10입, 3개+증정",
+   "price": 10900,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/6421323878/B.webp?339456470",
+   "sentAt": "2026-11-09T11:45:15.767+09:00",
+   "saving": 28,
+   "baseline": 15050,
+   "baselineNote": "판매글 4곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 4곳 최저가",
+     "price": 15050
+    }
+   ],
+   "link": "http://app.ac/CAGilf503"
+  },
   {
    "uid": "1417001594",
    "mall": "지마켓",
@@ -3397,19 +3415,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/hK4RAxlmH6"
-  },
-  {
-   "uid": "5691546242",
-   "mall": "11번가",
-   "title": "The미식 햅쌀밥 200g, 24개",
-   "price": 19900,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9683110208/B.webp?33309074",
-   "sentAt": "2026-11-07T11:14:04.467+09:00",
-   "unit": {
-    "label": "개당",
-    "value": 829
-   },
-   "link": "http://app.ac/VbGlHyl83"
   }
  ]
 }
