@@ -1,7 +1,136 @@
 {
- "updated": "2026-11-10T00:09:24.744+09:00",
+ "updated": "2026-11-10T00:19:19.917+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "2869592129",
+   "mall": "지마켓",
+   "title": "코카콜라제로+스프라이트제로+환타제로파인 190ml 90캔",
+   "price": 33140,
+   "image": "https://gdimg.gmarket.co.kr/4715896689/goodsimage",
+   "sentAt": "2026-11-10T00:19:19.917+09:00",
+   "saving": 10,
+   "baseline": 36880,
+   "baselineNote": "판매글 4곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 4곳 최저가",
+     "price": 36880
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4715896689",
+   "web": true
+  },
+  {
+   "uid": "5998569486",
+   "mall": "롯데온",
+   "title": "풀무원 샘물 생수 2L X 30병",
+   "price": 12810,
+   "image": "https://contents.lotteon.com/itemimage/20261026162721/LO/26/54/55/20/10/_2/65/45/52/01/1/LO2654552010_2654552011_1.jpg",
+   "sentAt": "2026-11-10T00:19:19.917+09:00",
+   "saving": 14,
+   "baseline": 14810,
+   "baselineNote": "101곳 중 최저 · 무료배송",
+   "unit": {
+    "label": "개당",
+    "value": 427
+   },
+   "check": {
+    "market": 14810,
+    "malls": 101,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 14260
+   },
+   "spec": [
+    "페트",
+    "무라벨",
+    "경기 포천"
+   ],
+   "comps": [
+    {
+     "name": "101곳 중 최저 · 무료배송",
+     "price": 14810
+    }
+   ],
+   "trend": [
+    {
+     "m": "26-09",
+     "p": 14260
+    },
+    {
+     "m": "26-10",
+     "p": 14950
+    },
+    {
+     "m": "26-11",
+     "p": 14950
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9043870706",
+     "price": 14810,
+     "ship": 0
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F452008649",
+     "price": 14820,
+     "ship": 0
+    },
+    {
+     "mall": "롯데홈쇼핑",
+     "code": "ED903",
+     "id": "3221429765",
+     "price": 15010,
+     "ship": 0
+    },
+    {
+     "mall": "주식회사 신세계라이브쇼핑",
+     "code": "TRB03",
+     "id": "30270402",
+     "price": 15130,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4667019543",
+     "price": 15210,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2634848217",
+     "price": 15320,
+     "ship": 0
+    },
+    {
+     "mall": "현대Hmall",
+     "code": "ED907",
+     "id": "2245401488",
+     "price": 15340,
+     "ship": 0
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000802530174",
+     "price": 15810,
+     "ship": 0
+    }
+   ],
+   "link": "http://app.ac/7qnjp4203",
+   "web": true
+  },
   {
    "uid": "1719879838",
    "mall": "지마켓",
@@ -7356,33 +7485,6 @@
    "baseline": 149060,
    "baselineNote": "판매글 7곳 최저가",
    "link": "https://link.coupang.com/a/hUlA0hAQMe",
-   "web": true
-  },
-  {
-   "uid": "2175354619",
-   "mall": "쿠팡",
-   "title": "LG전자 4K UHD TV • 189cm • 벽걸이형 • 방문설치",
-   "price": 1200000,
-   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/09/03/15/1/c097610a-a1dd-4278-a25b-26f53c299e8a.jpg",
-   "sentAt": "2026-10-29T15:39:51.241+09:00",
-   "saving": 28,
-   "baseline": 1676600,
-   "baselineNote": "판매글 4곳 최저가",
-   "link": "https://link.coupang.com/a/iePwoAST00",
-   "web": true
-  },
-  {
-   "uid": "1442243351",
-   "mall": "쿠팡",
-   "title": "해표 양조식초, 1.8L, 4개",
-   "price": 5760,
-   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1158870169409512-4f752a46-53f1-4d3c-ab5a-5508cc1803d6.jpg",
-   "sentAt": "2026-10-29T14:19:26.053+09:00",
-   "saving": 18,
-   "baseline": 7010,
-   "baselineNote": "99곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/ieJMGq2vU4",
    "web": true
   }
  ]
