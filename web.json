@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-09T10:40:39.696+09:00",
+ "updated": "2026-11-09T13:28:26.500+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "1044383364",
+   "mall": "쿠팡",
+   "title": "오리온 무뚝뚝 감자칩 통후추소금맛, 106g, 2개",
+   "price": 4050,
+   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/3f160010-b95f-44d7-b87b-1e683ad4697e2282720917281583841.png",
+   "sentAt": "2026-11-09T13:28:26.500+09:00",
+   "saving": 42,
+   "baseline": 7040,
+   "baselineNote": "판매글 6곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 2025
+   },
+   "comps": [
+    {
+     "name": "판매글 6곳 최저가",
+     "price": 7040
+    }
+   ],
+   "link": "https://link.coupang.com/a/iwV9BORSlE",
+   "web": true
+  },
   {
    "uid": "5299537495",
    "mall": "지마켓",
@@ -6987,20 +7010,6 @@
    "baselineNote": "다른 곳 최저",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4883460176",
-   "web": true
-  },
-  {
-   "uid": "1017359484",
-   "mall": "쿠팡",
-   "title": "코카콜라 제로, 215ml, 12개",
-   "price": 4320,
-   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/3f48/cf056143d718dd417c1360c9edbb76e65dcbba5cd626feeb8bad6beac99c.jpg",
-   "sentAt": "2026-10-29T00:12:55.661+09:00",
-   "saving": 55,
-   "baseline": 9540,
-   "baselineNote": "26곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/idLiyE6Kyq",
    "web": true
   }
  ]
