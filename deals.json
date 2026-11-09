@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-09T17:13:42.914+09:00",
+ "updated": "2026-11-09T17:25:06.044+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2634081442",
+   "mall": "지마켓",
+   "title": "제주 감귤 중대과 10kg",
+   "price": 8840,
+   "image": "https://gdimg.gmarket.co.kr/4879764475/goodsimage",
+   "sentAt": "2026-11-09T17:25:05.303+09:00",
+   "saving": 23,
+   "baseline": 11430,
+   "baselineNote": "판매글 8곳 최저가",
+   "unit": {
+    "label": "100g당",
+    "value": 88
+   },
+   "comps": [
+    {
+     "name": "판매글 8곳 최저가",
+     "price": 11430
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4879764475"
+  },
   {
    "uid": "1433783089",
    "mall": "지마켓",
@@ -3443,19 +3465,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/h6QDoJ5KVM"
-  },
-  {
-   "uid": "4478737460",
-   "mall": "롯데온",
-   "title": "지아자 산양유 단백질 샴푸 400ml 4개",
-   "price": 12790,
-   "image": "https://contents.lotteon.com/itemimage/20261103132358/LO/28/07/80/93/60/_2/80/78/09/36/1/LO2807809360_2807809361_10.jpg",
-   "sentAt": "2026-11-07T17:45:26.330+09:00",
-   "unit": {
-    "label": "개당",
-    "value": 3198
-   },
-   "link": "http://app.ac/rEwtSCS83"
   }
  ]
 }
