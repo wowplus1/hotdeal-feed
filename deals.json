@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-09T18:59:43.198+09:00",
+ "updated": "2026-11-09T19:10:37.423+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1630373586",
+   "mall": "11번가",
+   "title": "칼칼한 매력의 알싸한 파김치1kg",
+   "price": 9580,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/4/1/4/0/2/2/FuZDs/4171414022_242956945.webp",
+   "sentAt": "2026-11-09T19:10:36.798+09:00",
+   "saving": 37,
+   "baseline": 15210,
+   "baselineNote": "판매글 6곳 최저가",
+   "unit": {
+    "label": "100g당",
+    "value": 958
+   },
+   "comps": [
+    {
+     "name": "판매글 6곳 최저가",
+     "price": 15210
+    }
+   ],
+   "link": "http://app.ac/mjpWLza13"
+  },
   {
    "uid": "7730893929",
    "mall": "쿠팡",
@@ -3204,139 +3226,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iuSnHiBoXI"
-  },
-  {
-   "uid": "6448801565",
-   "mall": "쿠팡",
-   "title": "휘오 다이아몬드 EC 무라벨, 20개, 500ml",
-   "price": 3420,
-   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/794d/72b2f7fa40bae5d40c257e00c11bcaf267a082783c7f2ed6aa2f47d24ecd.jpg",
-   "sentAt": "2026-11-08T07:36:31.715+09:00",
-   "saving": 64,
-   "baseline": 9570,
-   "baselineNote": "12곳 중 최저 · 무료배송",
-   "unit": {
-    "label": "개당",
-    "value": 171
-   },
-   "check": {
-    "market": 9570,
-    "malls": 12,
-    "ship": 0
-   },
-   "spec": [
-    "생수",
-    "페트",
-    "강원도 철원군"
-   ],
-   "comps": [
-    {
-     "name": "12곳 중 최저 · 무료배송",
-     "price": 9570
-    }
-   ],
-   "trend": [
-    {
-     "m": "25-12",
-     "p": 7500
-    },
-    {
-     "m": "26-01",
-     "p": 7500
-    },
-    {
-     "m": "26-02",
-     "p": 7500
-    },
-    {
-     "m": "26-03",
-     "p": 7490
-    },
-    {
-     "m": "26-04",
-     "p": 8700
-    },
-    {
-     "m": "26-05",
-     "p": 8700
-    },
-    {
-     "m": "26-06",
-     "p": 8700
-    },
-    {
-     "m": "26-07",
-     "p": 8700
-    },
-    {
-     "m": "26-08",
-     "p": 7900
-    },
-    {
-     "m": "26-09",
-     "p": 1810
-    },
-    {
-     "m": "26-10",
-     "p": 9500
-    },
-    {
-     "m": "26-11",
-     "p": 9300
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "롯데ON",
-     "code": "EE309",
-     "id": "LO2152898581",
-     "price": 9570,
-     "ship": 0
-    },
-    {
-     "mall": "하프클럽",
-     "code": "TZ6171",
-     "id": "390256135",
-     "price": 9710,
-     "ship": 0
-    },
-    {
-     "mall": "롯데홈쇼핑",
-     "code": "ED903",
-     "id": "3406502146",
-     "price": 9810,
-     "ship": 0
-    },
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "4841326580",
-     "price": 9820,
-     "ship": 0
-    },
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "F648621766",
-     "price": 10020,
-     "ship": 0
-    },
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "9583742479",
-     "price": 10130,
-     "ship": 0
-    },
-    {
-     "mall": "홈&쇼핑",
-     "code": "TLB17",
-     "id": "83968171",
-     "price": 10550,
-     "ship": 0
-    }
-   ],
-   "link": "https://link.coupang.com/a/iuR79m2hYy"
   }
  ]
 }
