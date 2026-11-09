@@ -1,7 +1,160 @@
 {
- "updated": "2026-11-10T08:08:35.335+09:00",
+ "updated": "2026-11-10T08:54:17.300+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7540297024",
+   "mall": "쿠팡",
+   "title": "동원 참치액 진, 900g, 2개",
+   "price": 8220,
+   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/30286601589670-6085c0e2-ed7a-408d-9827-4befb501b39b.jpg",
+   "sentAt": "2026-11-10T08:54:16.684+09:00",
+   "saving": 23,
+   "baseline": 10700,
+   "baselineNote": "293곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 4110
+   },
+   "check": {
+    "market": 10700,
+    "malls": 293,
+    "delivered": 10800
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 8900
+   },
+   "review": {
+    "score": 4.7,
+    "count": 180,
+    "low": 1
+   },
+   "spec": [
+    "플라스틱",
+    "훈연참치추출물 80%"
+   ],
+   "comps": [
+    {
+     "name": "293곳 중 최저",
+     "price": 10700
+    },
+    {
+     "name": "배송비까지 치면",
+     "price": 10800
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 10000
+    },
+    {
+     "m": "26-01",
+     "p": 10000
+    },
+    {
+     "m": "26-02",
+     "p": 9800
+    },
+    {
+     "m": "26-03",
+     "p": 8900
+    },
+    {
+     "m": "26-04",
+     "p": 9800
+    },
+    {
+     "m": "26-05",
+     "p": 9220
+    },
+    {
+     "m": "26-06",
+     "p": 10230
+    },
+    {
+     "m": "26-07",
+     "p": 9930
+    },
+    {
+     "m": "26-08",
+     "p": 9930
+    },
+    {
+     "m": "26-09",
+     "p": 10000
+    },
+    {
+     "m": "26-10",
+     "p": 10690
+    },
+    {
+     "m": "26-11",
+     "p": 10690
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F561008625",
+     "price": 10700,
+     "ship": 3000
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9351400508",
+     "price": 10700,
+     "ship": 3000
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4634087372",
+     "price": 10800,
+     "ship": 0
+    },
+    {
+     "mall": "현대Hmall",
+     "code": "ED907",
+     "id": "2210537274",
+     "price": 13180,
+     "ship": 0
+    },
+    {
+     "mall": "주식회사 신세계라이브쇼핑",
+     "code": "TRB03",
+     "id": "1007816072",
+     "price": 13440,
+     "ship": 0
+    },
+    {
+     "mall": "하프클럽",
+     "code": "TZ6171",
+     "id": "364797356",
+     "price": 13820,
+     "ship": 0
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000595161706",
+     "price": 13950,
+     "ship": 0
+    },
+    {
+     "mall": "패션플러스",
+     "code": "TH002",
+     "id": "428472502",
+     "price": 14250,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/iyhsUMWqo8"
+  },
   {
    "uid": "9525578239",
    "mall": "쿠팡",
@@ -3026,28 +3179,6 @@
     "ship": 0
    },
    "link": "https://link.coupang.com/a/isN2dslAaW"
-  },
-  {
-   "uid": "1530903873",
-   "mall": "쿠팡",
-   "title": "일본 목캔디 용각산 목사탕, 88g*6개",
-   "price": 11490,
-   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/bc35/f625112f3b5d04d56b4d1b065c5c55b20d72fdf169792b685bd0ec9539d0.jpg",
-   "sentAt": "2026-11-08T08:38:35.369+09:00",
-   "saving": 42,
-   "baseline": 19900,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 1915
-   },
-   "comps": [
-    {
-     "name": "판매글 4곳 최저가",
-     "price": 19900
-    }
-   ],
-   "link": "https://link.coupang.com/a/gl6Kif8pQO"
   }
  ]
 }
