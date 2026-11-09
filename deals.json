@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-09T12:29:17.209+09:00",
+ "updated": "2026-11-09T12:31:16.612+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4276257117",
+   "mall": "토스쇼핑",
+   "title": "테팔 셰프드 프랑스 궁중팬, 28cm, 1개",
+   "price": 22850,
+   "image": "https://shopping.toss.im/live/taca/ai/ZTZjNTE5/VExiU2FTeVV0U2tTa3BWa1ZHbHNscGxwSnBhaksxclNqV3l0UzFLVVMwcz0.png",
+   "sentAt": "2026-11-09T12:31:16.061+09:00",
+   "saving": 51,
+   "baseline": 46710,
+   "baselineNote": "판매글 7곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 7곳 최저가",
+     "price": 46710
+    }
+   ],
+   "link": "https://toss.im/_m/XxuP1047"
+  },
   {
    "uid": "6811431558",
    "mall": "지마켓",
@@ -3476,24 +3494,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/itGqYo8k6m"
-  },
-  {
-   "uid": "9515851100",
-   "mall": "지마켓",
-   "title": "깨끗한나라 뽑아쓰는 키친타올 100매 10팩 8,040원",
-   "price": 8040,
-   "image": "https://gdimg.gmarket.co.kr/2698242120/goodsimage",
-   "sentAt": "2026-11-07T14:01:25.967+09:00",
-   "saving": 27,
-   "baseline": 10980,
-   "baselineNote": "판매글 16곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 16곳 최저가",
-     "price": 10980
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2698242120"
   }
  ]
 }
