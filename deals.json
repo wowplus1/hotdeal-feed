@@ -1,7 +1,117 @@
 {
- "updated": "2026-11-10T13:51:45.905+09:00",
+ "updated": "2026-11-10T14:40:58.654+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1200154389",
+   "mall": "쿠팡",
+   "title": "풀무원 새콤달콤 생쫄면 4인, 920g, 2개",
+   "price": 9480,
+   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1614694127308427-a8cbc3ef-ca77-41e8-bbcc-672beef4a525.jpg",
+   "sentAt": "2026-11-10T14:40:57.847+09:00",
+   "saving": 51,
+   "baseline": 19230,
+   "baselineNote": "5곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 4740
+   },
+   "check": {
+    "market": 19230,
+    "malls": 5
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 11960
+   },
+   "comps": [
+    {
+     "name": "5곳 중 최저",
+     "price": 19230
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 16160
+    },
+    {
+     "m": "26-01",
+     "p": 17610
+    },
+    {
+     "m": "26-02",
+     "p": 17610
+    },
+    {
+     "m": "26-03",
+     "p": 13960
+    },
+    {
+     "m": "26-04",
+     "p": 13960
+    },
+    {
+     "m": "26-05",
+     "p": 13640
+    },
+    {
+     "m": "26-06",
+     "p": 11960
+    },
+    {
+     "m": "26-07",
+     "p": 13460
+    },
+    {
+     "m": "26-08",
+     "p": 13460
+    },
+    {
+     "m": "26-09",
+     "p": 14510
+    },
+    {
+     "m": "26-10",
+     "p": 19440
+    },
+    {
+     "m": "26-11",
+     "p": 19440
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "3529476333",
+     "price": 19230,
+     "ship": 3000
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F618674325",
+     "price": 30310,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/iyGeMhceMC"
+  },
+  {
+   "uid": "5549855483",
+   "mall": "쿠팡",
+   "title": "비비고 큰 채소가득 고기만두 고기 & 양배추 , 400g, 4개",
+   "price": 9500,
+   "image": "https://thumbnail1.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/082d127f-9573-459b-ae49-0f4ddd4784d01755586744102689689.png",
+   "sentAt": "2026-11-10T14:40:57.847+09:00",
+   "unit": {
+    "label": "개당",
+    "value": 2375
+   },
+   "link": "https://link.coupang.com/a/iyGebu0uUm"
+  },
   {
    "uid": "1245890397",
    "mall": "토스쇼핑",
@@ -2834,41 +2944,6 @@
     }
    ],
    "link": "http://app.ac/xtn82dM83"
-  },
-  {
-   "uid": "4511689376",
-   "mall": "쿠팡",
-   "title": "올바른건강식품 곡물효소 프로바이오틱스 블랙, 270g, 1개",
-   "price": 8230,
-   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/fac5f783-85e0-4f08-b24a-66d2b833816b5564710089203362423.png",
-   "sentAt": "2026-11-08T18:09:02.877+09:00",
-   "unit": {
-    "label": "100g당",
-    "value": 3048
-   },
-   "link": "https://link.coupang.com/a/ivBhZ2An3k"
-  },
-  {
-   "uid": "3201563808",
-   "mall": "지마켓",
-   "title": "제주 노지감귤 5kg 로얄과",
-   "price": 9460,
-   "image": "https://gdimg.gmarket.co.kr/4865086255/goodsimage",
-   "sentAt": "2026-11-08T17:38:25.158+09:00",
-   "saving": 23,
-   "baseline": 12230,
-   "baselineNote": "판매글 13곳 최저가",
-   "unit": {
-    "label": "100g당",
-    "value": 189
-   },
-   "comps": [
-    {
-     "name": "판매글 13곳 최저가",
-     "price": 12230
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4865086255"
   }
  ]
 }
