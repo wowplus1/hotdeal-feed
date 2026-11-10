@@ -1,7 +1,50 @@
 {
- "updated": "2026-11-10T12:28:12.458+09:00",
+ "updated": "2026-11-10T12:36:33.698+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1750305873",
+   "mall": "토스쇼핑",
+   "title": "쏘울너츠 100% 땅콩버터 스무스, 500g, 2개",
+   "price": 7900,
+   "image": "https://shopping.toss.im/live/temp/2026-02-24/7684754b-dfe3-4e6e-91f5-c1c7774315d0.jpeg",
+   "sentAt": "2026-11-10T12:36:32.854+09:00",
+   "saving": 36,
+   "baseline": 12390,
+   "baselineNote": "8곳 중 최저 · 무료배송",
+   "unit": {
+    "label": "개당",
+    "value": 3950
+   },
+   "check": {
+    "market": 12390,
+    "malls": 8,
+    "ship": 0
+   },
+   "comps": [
+    {
+     "name": "8곳 중 최저 · 무료배송",
+     "price": 12390
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2598643075",
+     "price": 12390,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9576106662",
+     "price": 16830,
+     "ship": 3000
+    }
+   ],
+   "link": "https://toss.shopping/_m/5wCSmY4r"
+  },
   {
    "uid": "2652073203",
    "mall": "지마켓",
@@ -2822,153 +2865,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/ivvjDB1DIO"
-  },
-  {
-   "uid": "1659417473",
-   "mall": "토스쇼핑",
-   "title": "산과들에 하루견과 브런치오리지널, 20g, 50봉, 1세트",
-   "price": 18900,
-   "image": "https://shopping.toss.im/live/taca/ai/OTAwMzY3/SG5Hek9COXo2ZWJ3NC9NV1E4OW16d2VMSGh0NEhOd3NrSEJqNldmQnR4WT0.png",
-   "sentAt": "2026-11-08T16:30:50.816+09:00",
-   "saving": 21,
-   "baseline": 23850,
-   "baselineNote": "28곳 중 최저 · 무료배송",
-   "unit": {
-    "label": "개당",
-    "value": 378
-   },
-   "check": {
-    "market": 23850,
-    "malls": 28,
-    "ship": 0
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": false,
-    "low": 16920
-   },
-   "spec": [
-    "HACCP",
-    "6종",
-    "그래놀라 20%",
-    "건조크랜베리루비 20%",
-    "호두 15%"
-   ],
-   "comps": [
-    {
-     "name": "28곳 중 최저 · 무료배송",
-     "price": 23850
-    }
-   ],
-   "trend": [
-    {
-     "m": "25-12",
-     "p": 21630
-    },
-    {
-     "m": "26-01",
-     "p": 21510
-    },
-    {
-     "m": "26-02",
-     "p": 20940
-    },
-    {
-     "m": "26-03",
-     "p": 18960
-    },
-    {
-     "m": "26-04",
-     "p": 20600
-    },
-    {
-     "m": "26-05",
-     "p": 20600
-    },
-    {
-     "m": "26-06",
-     "p": 16920
-    },
-    {
-     "m": "26-07",
-     "p": 22320
-    },
-    {
-     "m": "26-08",
-     "p": 21880
-    },
-    {
-     "m": "26-09",
-     "p": 19440
-    },
-    {
-     "m": "26-10",
-     "p": 19440
-    },
-    {
-     "m": "26-11",
-     "p": 23200
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "1712345469",
-     "price": 23850,
-     "ship": 0
-    },
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "D688832629",
-     "price": 23850,
-     "ship": 0
-    },
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "7831080339",
-     "price": 23850,
-     "ship": 0
-    },
-    {
-     "mall": "SK스토아",
-     "code": "TSB275",
-     "id": "21069532",
-     "price": 25440,
-     "ship": 0
-    },
-    {
-     "mall": "하프클럽",
-     "code": "TZ6171",
-     "id": "326792528",
-     "price": 26500,
-     "ship": 0
-    },
-    {
-     "mall": "오늘의집",
-     "code": "TU710C",
-     "id": "1592947-13813039",
-     "price": 26500,
-     "ship": 0
-    },
-    {
-     "mall": "롯데ON",
-     "code": "EE309",
-     "id": "LO2641681728",
-     "price": 30710,
-     "ship": 3000
-    },
-    {
-     "mall": "롯데홈쇼핑",
-     "code": "ED903",
-     "id": "1500410538",
-     "price": 32960,
-     "ship": 0
-    }
-   ],
-   "link": "https://toss.shopping/_m/lvR7ZMyo"
   }
  ]
 }
