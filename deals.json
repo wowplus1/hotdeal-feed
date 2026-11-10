@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-10T12:36:33.698+09:00",
+ "updated": "2026-11-10T13:34:09.731+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4728914755",
+   "mall": "지마켓",
+   "title": "크리넥스 3겹 울트라클린 화이트 25M X 24롤 2팩 화장지",
+   "price": 19400,
+   "image": "https://gdimg.gmarket.co.kr/4453898729/goodsimage",
+   "sentAt": "2026-11-10T13:34:08.583+09:00",
+   "saving": 31,
+   "baseline": 28170,
+   "baselineNote": "판매글 17곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 9700
+   },
+   "comps": [
+    {
+     "name": "판매글 17곳 최저가",
+     "price": 28170
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4453898729"
+  },
   {
    "uid": "1750305873",
    "mall": "토스쇼핑",
@@ -2843,28 +2865,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=1505645718"
-  },
-  {
-   "uid": "2729238391",
-   "mall": "쿠팡",
-   "title": "담터 호두 아몬드 율무차 18g*130개입*1개",
-   "price": 5690,
-   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/f973/c71007882d78c50fa6c629c57a48692baa8ca95cb3bd6de444ec7f8fb5c9.jpg",
-   "sentAt": "2026-11-08T16:45:08.141+09:00",
-   "saving": 81,
-   "baseline": 30330,
-   "baselineNote": "판매글 36곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 44
-   },
-   "comps": [
-    {
-     "name": "판매글 36곳 최저가",
-     "price": 30330
-    }
-   ],
-   "link": "https://link.coupang.com/a/ivvjDB1DIO"
   }
  ]
 }
