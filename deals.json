@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-10T09:04:22.906+09:00",
+ "updated": "2026-11-10T09:26:05.082+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3029684283",
+   "mall": "토스쇼핑",
+   "title": "맘스럽 아토워시 프렌치 라벤더 캡슐세제 파우치형, 실내건조형, 200개입, 1개",
+   "price": 6750,
+   "image": "https://shopping.toss.im/live/temp/2025-05-14/52c78bea-ea6e-40df-92a3-fca69d1d7141.jpeg",
+   "sentAt": "2026-11-10T09:26:04.499+09:00",
+   "saving": 53,
+   "baseline": 14310,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 34
+   },
+   "comps": [
+    {
+     "name": "판매글 4곳 최저가",
+     "price": 14310
+    }
+   ],
+   "link": "https://toss.im/_m/X6HQ0fX1"
+  },
   {
    "uid": "5850013641",
    "mall": "11번가",
@@ -3024,161 +3046,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/gTglTeUrKu"
-  },
-  {
-   "uid": "8899955016",
-   "mall": "쿠팡",
-   "title": "샤워메이트 산양유 비누 플러스, 90g, 12개입",
-   "price": 6420,
-   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/2f7b/e3103c6921aa5bf17e88de6a2f52e7799e6a9414a82b831b9150646928ed.png",
-   "sentAt": "2026-11-08T10:15:50.405+09:00",
-   "saving": 26,
-   "baseline": 8720,
-   "baselineNote": "70곳 중 최저",
-   "unit": {
-    "label": "개당",
-    "value": 535
-   },
-   "check": {
-    "market": 8720,
-    "malls": 70,
-    "delivered": 10000
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": true,
-    "low": 8640
-   },
-   "review": {
-    "score": 4.7,
-    "count": 401,
-    "low": 4
-   },
-   "spec": [
-    "세안비누",
-    "모든피부",
-    "미백도움",
-    "피부보습"
-   ],
-   "comps": [
-    {
-     "name": "70곳 중 최저",
-     "price": 8720
-    },
-    {
-     "name": "배송비까지 치면",
-     "price": 10000
-    }
-   ],
-   "trend": [
-    {
-     "m": "25-12",
-     "p": 9270
-    },
-    {
-     "m": "26-01",
-     "p": 9600
-    },
-    {
-     "m": "26-02",
-     "p": 9030
-    },
-    {
-     "m": "26-03",
-     "p": 8640
-    },
-    {
-     "m": "26-04",
-     "p": 9600
-    },
-    {
-     "m": "26-05",
-     "p": 8910
-    },
-    {
-     "m": "26-06",
-     "p": 8640
-    },
-    {
-     "m": "26-07",
-     "p": 8720
-    },
-    {
-     "m": "26-08",
-     "p": 8640
-    },
-    {
-     "m": "26-09",
-     "p": 8720
-    },
-    {
-     "m": "26-10",
-     "p": 9600
-    },
-    {
-     "m": "26-11",
-     "p": 9810
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "6585693084",
-     "price": 8720,
-     "ship": 3000
-    },
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "F596663648",
-     "price": 10000,
-     "ship": 0
-    },
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "4789046998",
-     "price": 10010,
-     "ship": 0
-    },
-    {
-     "mall": "롯데ON",
-     "code": "EE309",
-     "id": "LI2759206151",
-     "price": 10900,
-     "ship": 0
-    },
-    {
-     "mall": "롯데홈쇼핑",
-     "code": "ED903",
-     "id": "2759206151",
-     "price": 10900,
-     "ship": 0
-    },
-    {
-     "mall": "SK스토아",
-     "code": "TSB275",
-     "id": "65543369",
-     "price": 11110,
-     "ship": 0
-    },
-    {
-     "mall": "SSG.COM",
-     "code": "TN118",
-     "id": "1000848444245",
-     "price": 11120,
-     "ship": 0
-    },
-    {
-     "mall": "신세계몰",
-     "code": "ED901",
-     "id": "1000848444245",
-     "price": 11120,
-     "ship": 0
-    }
-   ],
-   "link": "https://link.coupang.com/a/gJh30HJMJ2"
   }
  ]
 }
