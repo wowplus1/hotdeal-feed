@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-10T09:58:38.781+09:00",
+ "updated": "2026-11-10T10:00:44.719+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3765874496",
+   "mall": "지마켓",
+   "title": "카누 돌체구스토 호환캡슐 48캡슐+16캡슐 증정 총64캡",
+   "price": 19530,
+   "image": "https://gdimg.gmarket.co.kr/3336362692/goodsimage",
+   "sentAt": "2026-11-10T10:00:43.956+09:00",
+   "saving": 51,
+   "baseline": 39470,
+   "baselineNote": "판매글 5곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 5곳 최저가",
+     "price": 39470
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=3336362692"
+  },
   {
    "uid": "3245760240",
    "mall": "지마켓",
@@ -3014,28 +3032,6 @@
     }
    ],
    "link": "http://app.ac/8jpj35a83"
-  },
-  {
-   "uid": "2990843251",
-   "mall": "지마켓",
-   "title": "하동관의 하동가곰탕600g 5팩",
-   "price": 23250,
-   "image": "https://gdimg.gmarket.co.kr/4458072111/goodsimage",
-   "sentAt": "2026-11-08T11:13:24.982+09:00",
-   "saving": 33,
-   "baseline": 34710,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 4650
-   },
-   "comps": [
-    {
-     "name": "판매글 4곳 최저가",
-     "price": 34710
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4458072111"
   }
  ]
 }
