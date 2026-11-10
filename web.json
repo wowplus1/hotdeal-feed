@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-10T22:05:11.143+09:00",
+ "updated": "2026-11-10T22:54:52.494+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "8945450861",
+   "mall": "쿠팡",
+   "title": "박카스 얼박사 355ml 24개",
+   "price": 9810,
+   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/0781/f1241ba65efa9494eb619c3e1d4a74295683dcbf7f5198c3d2ba0a253fa8.jpg",
+   "sentAt": "2026-11-10T22:54:52.494+09:00",
+   "saving": 56,
+   "baseline": 22420,
+   "baselineNote": "판매글 27곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 409
+   },
+   "comps": [
+    {
+     "name": "판매글 27곳 최저가",
+     "price": 22420
+    }
+   ],
+   "link": "https://link.coupang.com/a/izfy7Tgbnw",
+   "web": true
+  },
   {
    "uid": "3764550387",
    "mall": "11번가",
@@ -8542,20 +8565,6 @@
    "baselineNote": "150곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/iiMYd9eHWm",
-   "web": true
-  },
-  {
-   "uid": "4193043778",
-   "mall": "11번가",
-   "title": "오리온 통크 초코, 45g, 12개",
-   "price": 8380,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/4018336872/B.webp?204246383",
-   "sentAt": "2026-11-01T00:25:13.597+09:00",
-   "saving": 20,
-   "baseline": 10500,
-   "baselineNote": "31곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "http://app.ac/obpOlwl43",
    "web": true
   }
  ]
