@@ -1,7 +1,151 @@
 {
- "updated": "2026-11-10T21:46:32.855+09:00",
+ "updated": "2026-11-11T07:09:53.316+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2362241172",
+   "mall": "쿠팡",
+   "title": "불닭볶음면 140g 10개",
+   "price": 6700,
+   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/344801897244744-1de94e9f-29e9-408c-9143-88bbc2a9998e.png",
+   "sentAt": "2026-11-11T07:09:52.534+09:00",
+   "saving": 32,
+   "baseline": 9890,
+   "baselineNote": "154곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 670
+   },
+   "check": {
+    "market": 9890,
+    "malls": 154
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 7530
+   },
+   "review": {
+    "score": 4.7,
+    "count": 3140,
+    "low": 25
+   },
+   "comps": [
+    {
+     "name": "154곳 중 최저",
+     "price": 9890
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 9140
+    },
+    {
+     "m": "26-01",
+     "p": 9140
+    },
+    {
+     "m": "26-02",
+     "p": 7590
+    },
+    {
+     "m": "26-03",
+     "p": 7530
+    },
+    {
+     "m": "26-04",
+     "p": 8020
+    },
+    {
+     "m": "26-05",
+     "p": 8160
+    },
+    {
+     "m": "26-06",
+     "p": 9140
+    },
+    {
+     "m": "26-07",
+     "p": 8970
+    },
+    {
+     "m": "26-08",
+     "p": 9810
+    },
+    {
+     "m": "26-09",
+     "p": 9050
+    },
+    {
+     "m": "26-10",
+     "p": 9820
+    },
+    {
+     "m": "26-11",
+     "p": 9750
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F598369002",
+     "price": 9890,
+     "ship": 3000
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4790897275",
+     "price": 9890,
+     "ship": 3000
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2709188376",
+     "price": 10120,
+     "ship": 3000
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9455371890",
+     "price": 10330,
+     "ship": 3000
+    },
+    {
+     "mall": "롯데백화점",
+     "code": "TLC16",
+     "id": "LE1222747254",
+     "price": 10920,
+     "ship": 0
+    },
+    {
+     "mall": "롯데홈쇼핑",
+     "code": "ED903",
+     "id": "3456032019",
+     "price": 11490,
+     "ship": 0
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000850285505",
+     "price": 11980,
+     "ship": 0
+    },
+    {
+     "mall": "TUC261",
+     "code": "TUC261",
+     "id": "13425959808",
+     "price": 12070,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/hgY1v3gKJw"
+  },
   {
    "uid": "9309571842",
    "mall": "토스쇼핑",
@@ -3011,24 +3155,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iup8IBoRGu"
-  },
-  {
-   "uid": "7734089077",
-   "mall": "GS SHOP",
-   "title": "잘풀리는집 미용티슈 200매 x 3입 x 3팩",
-   "price": 11900,
-   "image": "https://asset.m-gs.kr/prod/1030561062/1/280",
-   "sentAt": "2026-11-09T10:03:59.242+09:00",
-   "saving": 31,
-   "baseline": 17290,
-   "baselineNote": "판매글 6곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 6곳 최저가",
-     "price": 17290
-    }
-   ],
-   "link": "http://app.ac/xbGWSGl13"
   }
  ]
 }
