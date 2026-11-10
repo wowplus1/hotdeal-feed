@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-10T17:05:06.669+09:00",
+ "updated": "2026-11-10T17:30:20.281+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3792621663",
+   "mall": "11번가",
+   "title": "올리브유 녹차 재래도시락김 5g 72봉",
+   "price": 18930,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/pd/v2/4/2/9/4/6/6/vayNU/4203429466_B.webp",
+   "sentAt": "2026-11-10T17:30:19.665+09:00",
+   "saving": 43,
+   "baseline": 33350,
+   "baselineNote": "판매글 7곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 263
+   },
+   "comps": [
+    {
+     "name": "판매글 7곳 최저가",
+     "price": 33350
+    }
+   ],
+   "link": "http://app.ac/PqDLFl263"
+  },
   {
    "uid": "7674256327",
    "mall": "지마켓",
@@ -3142,28 +3164,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/hRvf55mfvg"
-  },
-  {
-   "uid": "8567999427",
-   "mall": "쿠팡",
-   "title": "비비드키친 저칼로리 치킨양념소스 320g 1개",
-   "price": 1810,
-   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/ea0b/65e3fb7daf951cc9e49c6a0d3fe315cff5d16d97d5a70a4a0afd5170ba37.jpg",
-   "sentAt": "2026-11-08T21:44:12.018+09:00",
-   "saving": 71,
-   "baseline": 6289,
-   "baselineNote": "판매글 39곳 최저가",
-   "unit": {
-    "label": "100g당",
-    "value": 566
-   },
-   "comps": [
-    {
-     "name": "판매글 39곳 최저가",
-     "price": 6289
-    }
-   ],
-   "link": "https://link.coupang.com/a/ivQGpMXyg0"
   }
  ]
 }
