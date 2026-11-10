@@ -1,7 +1,148 @@
 {
- "updated": "2026-11-10T17:04:10.590+09:00",
+ "updated": "2026-11-10T17:18:27.126+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "6996897484",
+   "mall": "롯데온",
+   "title": "NEW 부산1953세트 2호",
+   "price": 32590,
+   "image": "https://contents.lotteon.com/itemimage/20260831154602/LO/27/51/93/74/79/_2/75/19/37/48/0/LO2751937479_2751937480_1.jpg",
+   "sentAt": "2026-11-10T17:18:27.126+09:00",
+   "saving": 13,
+   "baseline": 37410,
+   "baselineNote": "25곳 중 최저 · 무료배송",
+   "check": {
+    "market": 37410,
+    "malls": 25,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 35110
+   },
+   "spec": [
+    "어묵",
+    "냉장보관"
+   ],
+   "comps": [
+    {
+     "name": "25곳 중 최저 · 무료배송",
+     "price": 37410
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 43700
+    },
+    {
+     "m": "26-01",
+     "p": 40490
+    },
+    {
+     "m": "26-02",
+     "p": 36050
+    },
+    {
+     "m": "26-03",
+     "p": 36120
+    },
+    {
+     "m": "26-04",
+     "p": 39100
+    },
+    {
+     "m": "26-05",
+     "p": 35640
+    },
+    {
+     "m": "26-06",
+     "p": 37160
+    },
+    {
+     "m": "26-07",
+     "p": 36710
+    },
+    {
+     "m": "26-08",
+     "p": 41400
+    },
+    {
+     "m": "26-09",
+     "p": 35110
+    },
+    {
+     "m": "26-10",
+     "p": 38250
+    },
+    {
+     "m": "26-11",
+     "p": 38250
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4866158443",
+     "price": 37410,
+     "ship": 0
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F673882666",
+     "price": 39520,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2782712341",
+     "price": 40280,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9647427716",
+     "price": 40570,
+     "ship": 0
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000874583379",
+     "price": 43757,
+     "ship": 0
+    },
+    {
+     "mall": "공영쇼핑",
+     "code": "TQ304",
+     "id": "11695780",
+     "price": 45000,
+     "ship": 0
+    },
+    {
+     "mall": "쇼핑엔티",
+     "code": "TTC2DF",
+     "id": "14337546",
+     "price": 45000,
+     "ship": 0
+    },
+    {
+     "mall": "nsmall",
+     "code": "ED904",
+     "id": "36228189",
+     "price": 45000,
+     "ship": 0
+    }
+   ],
+   "link": "http://app.ac/JtneBkM23",
+   "web": true
+  },
   {
    "uid": "3435514950",
    "mall": "지마켓",
@@ -8073,19 +8214,6 @@
    "baselineNote": "판매글 20곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/hSK1c1ZZ7Y",
-   "web": true
-  },
-  {
-   "uid": "5107452596",
-   "mall": "쿠팡",
-   "title": "스탠리 올데이 캐리올 퀜처 H2.0 텀블러 스트랩백 1.18L",
-   "price": 23900,
-   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/78484251199591-6d5cb2a8-6d44-4fcb-a2f8-27806f21cfb2.jpg",
-   "sentAt": "2026-10-31T01:30:08.036+09:00",
-   "saving": 55,
-   "baseline": 53100,
-   "baselineNote": "21곳 중 최저 · 무료배송",
-   "link": "https://link.coupang.com/a/ihaCMrQw8G",
    "web": true
   }
  ]
