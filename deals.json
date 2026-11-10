@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-10T13:34:09.731+09:00",
+ "updated": "2026-11-10T13:51:45.905+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1245890397",
+   "mall": "토스쇼핑",
+   "title": "널담 고단백 저당 포카치아, 토마토 바질치즈, 90g, 8개",
+   "price": 11340,
+   "image": "https://shopping.toss.im/live/taca/ai/OWFmMzA5/QU42cDBacHRFMHBXcDZVOEpxbHVvdENwcFp0ZjBWZ0Y5SjlyYkFMRXpzcnM.png",
+   "sentAt": "2026-11-10T13:51:45.330+09:00",
+   "saving": 35,
+   "baseline": 17480,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 1418
+   },
+   "comps": [
+    {
+     "name": "판매글 3곳 최저가",
+     "price": 17480
+    }
+   ],
+   "link": "https://toss.im/_m/B0yiVkKj"
+  },
   {
    "uid": "4728914755",
    "mall": "지마켓",
@@ -2847,24 +2869,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4865086255"
-  },
-  {
-   "uid": "6328828672",
-   "mall": "지마켓",
-   "title": "스트 오곡 코코볼 1kg 2개+사은품",
-   "price": 12990,
-   "image": "https://gdimg.gmarket.co.kr/1505645718/goodsimage",
-   "sentAt": "2026-11-08T17:04:20.423+09:00",
-   "saving": 35,
-   "baseline": 20090,
-   "baselineNote": "판매글 3곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 3곳 최저가",
-     "price": 20090
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=1505645718"
   }
  ]
 }
