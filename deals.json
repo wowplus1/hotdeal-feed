@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-10T16:33:28.097+09:00",
+ "updated": "2026-11-10T16:40:27.427+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4825403459",
+   "mall": "지마켓",
+   "title": "신세계푸드 치아바타 3개입 3팩 골라담기 삼성카드",
+   "price": 21160,
+   "image": "https://gdimg.gmarket.co.kr/2388764121/goodsimage",
+   "sentAt": "2026-11-10T16:40:26.543+09:00",
+   "saving": 28,
+   "baseline": 29550,
+   "baselineNote": "판매글 6곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 7053
+   },
+   "comps": [
+    {
+     "name": "판매글 6곳 최저가",
+     "price": 29550
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2388764121"
+  },
   {
    "uid": "4076606175",
    "mall": "지마켓",
@@ -3010,28 +3032,6 @@
     }
    ],
    "link": "https://toss.shopping/_m/F1NCdlVf"
-  },
-  {
-   "uid": "6964054587",
-   "mall": "토스쇼핑",
-   "title": "오즈랜드 리얼 생감자스틱, 20g, 18봉, 1박스",
-   "price": 7900,
-   "image": "https://shopping.toss.im/live/taca/ai/v2/MWU3ZjEy/Y2VRNW1qTFozck91YkszaEhXbXpjYWFSMXFOVDBsOGVKS1Y2SExWTTk3UT0.png",
-   "sentAt": "2026-11-08T19:31:21.987+09:00",
-   "saving": 43,
-   "baseline": 13860,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 439
-   },
-   "comps": [
-    {
-     "name": "판매글 4곳 최저가",
-     "price": 13860
-    }
-   ],
-   "link": "https://toss.im/_m/zzsu6ufn"
   }
  ]
 }
