@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-10T19:54:12.355+09:00",
+ "updated": "2026-11-10T20:16:20.191+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6874123835",
+   "mall": "토스쇼핑",
+   "title": "시래기 곱창전골, 1kg, 2개",
+   "price": 14110,
+   "image": "https://shopping.toss.im/live/temp/2026-09-28/9cea9812-e99c-4bbd-afc3-01755e3fd4bf.png",
+   "sentAt": "2026-11-10T20:16:19.553+09:00",
+   "saving": 32,
+   "baseline": 20850,
+   "baselineNote": "판매글 10곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 7055
+   },
+   "comps": [
+    {
+     "name": "판매글 10곳 최저가",
+     "price": 20850
+    }
+   ],
+   "link": "https://toss.shopping/_m/zK9Z5OGx"
+  },
   {
    "uid": "9434901768",
    "mall": "쿠팡",
@@ -3142,28 +3164,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iwGeqHRWcm"
-  },
-  {
-   "uid": "8442839230",
-   "mall": "쿠팡",
-   "title": "cj제일제당 소바바 황금홀릭 후라이드 410g",
-   "price": 4980,
-   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/199189559834410-ce8e4b18-b1ef-426e-b704-b88833068cb5.png",
-   "sentAt": "2026-11-09T09:40:22.369+09:00",
-   "saving": 28,
-   "baseline": 6870,
-   "baselineNote": "판매글 21곳 최저가",
-   "unit": {
-    "label": "100g당",
-    "value": 1215
-   },
-   "comps": [
-    {
-     "name": "판매글 21곳 최저가",
-     "price": 6870
-    }
-   ],
-   "link": "https://link.coupang.com/a/iwFQtz0coe"
   }
  ]
 }
