@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-10T09:58:33.576+09:00",
+ "updated": "2026-11-10T10:20:09.572+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "8382112805",
+   "mall": "지마켓",
+   "title": "라이프익스텐션 종합비타민 투퍼데이 V2 120정 2개",
+   "price": 41530,
+   "image": "https://gdimg.gmarket.co.kr/4242849318/goodsimage",
+   "sentAt": "2026-11-10T10:20:09.572+09:00",
+   "unit": {
+    "label": "개당",
+    "value": 20765
+   },
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4242849318",
+   "web": true
+  },
   {
    "uid": "7731968406",
    "mall": "쿠팡",
@@ -7746,19 +7760,6 @@
    "baselineNote": "112곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/ifhdxTHPa0",
-   "web": true
-  },
-  {
-   "uid": "6515986083",
-   "mall": "쿠팡",
-   "title": "에이수스 QHD ProArt Display IPS 120Hz 350cd sRGB 100 DCI P3 95 멀티스탠드 전문가용 모니터",
-   "price": 249000,
-   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/09/17/13/9/4d5f8db7-1f46-41c5-a427-0a82549a73c4.jpg",
-   "sentAt": "2026-10-29T17:21:49.912+09:00",
-   "saving": 11,
-   "baseline": 280630,
-   "baselineNote": "판매글 7곳 최저가",
-   "link": "https://link.coupang.com/a/ieWOgjWb0u",
    "web": true
   }
  ]
