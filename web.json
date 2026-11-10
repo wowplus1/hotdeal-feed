@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-10T16:59:58.746+09:00",
+ "updated": "2026-11-10T17:04:10.590+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "3435514950",
+   "mall": "지마켓",
+   "title": "비비고 왕교자1.05kg x3개 + 315g x1개",
+   "price": 23200,
+   "image": "https://gdimg.gmarket.co.kr/4467917687/goodsimage",
+   "sentAt": "2026-11-10T17:04:10.590+09:00",
+   "saving": 40,
+   "baseline": 38680,
+   "baselineNote": "판매글 5곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 5곳 최저가",
+     "price": 38680
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4467917687",
+   "web": true
+  },
   {
    "uid": "2556060128",
    "mall": "쿠팡",
@@ -8067,20 +8086,6 @@
    "baseline": 53100,
    "baselineNote": "21곳 중 최저 · 무료배송",
    "link": "https://link.coupang.com/a/ihaCMrQw8G",
-   "web": true
-  },
-  {
-   "uid": "8685073681",
-   "mall": "지마켓",
-   "title": "시리얼 콘푸로스트 230g x 3개",
-   "price": 9270,
-   "image": "https://gdimg.gmarket.co.kr/4257579867/goodsimage",
-   "sentAt": "2026-10-31T00:44:10.914+09:00",
-   "saving": 29,
-   "baseline": 13016,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4257579867",
    "web": true
   }
  ]
