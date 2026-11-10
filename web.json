@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-10T10:20:09.572+09:00",
+ "updated": "2026-11-10T11:02:28.310+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "2561018295",
+   "mall": "지마켓",
+   "title": "파스퇴르 무항생제 바른목장우유 195mL 20입 x 2박스",
+   "price": 25360,
+   "image": "https://gdimg.gmarket.co.kr/1738068170/goodsimage",
+   "sentAt": "2026-11-10T11:02:28.310+09:00",
+   "saving": 11,
+   "baseline": 28620,
+   "baselineNote": "판매글 36곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 1268
+   },
+   "comps": [
+    {
+     "name": "판매글 36곳 최저가",
+     "price": 28620
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=1738068170",
+   "web": true
+  },
   {
    "uid": "8382112805",
    "mall": "지마켓",
@@ -7746,20 +7769,6 @@
    "baseline": 92160,
    "baselineNote": "판매글 39곳 최저가",
    "link": "http://app.ac/p3MdtbJ23",
-   "web": true
-  },
-  {
-   "uid": "2061571964",
-   "mall": "쿠팡",
-   "title": "본아미 감자칩 김맛, 68g, 12개 7,870원",
-   "price": 7870,
-   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/32886795915200-16c8d230-aa36-4e21-8408-4fb1ef5c9de3.jpg",
-   "sentAt": "2026-10-29T22:07:06.511+09:00",
-   "saving": 34,
-   "baseline": 11880,
-   "baselineNote": "112곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/ifhdxTHPa0",
    "web": true
   }
  ]
