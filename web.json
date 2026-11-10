@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-10T15:20:15.988+09:00",
+ "updated": "2026-11-10T15:58:48.990+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "1021774643",
+   "mall": "쿠팡",
+   "title": "오리코 M.2 2230 NVMe 10Gbps C타입 외장 SSD 케이스",
+   "price": 16800,
+   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/adc8/efa535d1a974fe83dd316ad9817634416a139612606c1ac085e53b92f6d7.jpg",
+   "sentAt": "2026-11-10T15:58:48.990+09:00",
+   "saving": 43,
+   "baseline": 29710,
+   "baselineNote": "판매글 10곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 10곳 최저가",
+     "price": 29710
+    }
+   ],
+   "link": "https://link.coupang.com/a/iyLLPcqVem",
+   "web": true
+  },
   {
    "uid": "9058448622",
    "mall": "지마켓",
@@ -7922,20 +7941,6 @@
    "sentAt": "2026-10-31T00:01:09.800+09:00",
    "unit": "[object Object]",
    "link": "http://app.ac/Vqncyi273",
-   "web": true
-  },
-  {
-   "uid": "8117271406",
-   "mall": "쿠팡",
-   "title": "페브리즈 섬유탈취제 상쾌한향 본품 360ml 3개",
-   "price": 10330,
-   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/133009316430068-29761032-d321-4fb9-a5c9-22575efeb4f0.jpg",
-   "sentAt": "2026-10-30T23:01:16.248+09:00",
-   "saving": 50,
-   "baseline": 20650,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/igZYApoAMK",
    "web": true
   }
  ]
