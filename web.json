@@ -1,7 +1,22 @@
 {
- "updated": "2026-11-10T17:29:16.376+09:00",
+ "updated": "2026-11-10T17:30:14.807+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "6597383007",
+   "mall": "지마켓",
+   "title": "마니커 버팔로 치킨윙봉 1kg+1kg",
+   "price": 15640,
+   "image": "https://gdimg.gmarket.co.kr/1695859677/goodsimage",
+   "sentAt": "2026-11-10T17:30:14.807+09:00",
+   "alt": {
+    "price": 20410,
+    "where": "87곳 중 최저",
+    "ship": 0
+   },
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=1695859677",
+   "web": true
+  },
   {
    "uid": "7940701034",
    "mall": "11번가",
@@ -8346,20 +8361,6 @@
    "baseline": 83590,
    "baselineNote": "195곳 중 최저 · 무료배송",
    "link": "http://app.ac/bjpEvAa13",
-   "web": true
-  },
-  {
-   "uid": "8361640221",
-   "mall": "쿠팡",
-   "title": "농심 포테토칩 오리지널 40g 4개",
-   "price": 2950,
-   "image": "https://thumbnail1.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/97763835413851-77612c38-740f-4a27-a3a8-d3ba0242eaa7.jpg",
-   "sentAt": "2026-10-31T16:41:05.265+09:00",
-   "saving": 16,
-   "baseline": 3500,
-   "baselineNote": "29곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/iidI2zXwQ0",
    "web": true
   }
  ]
