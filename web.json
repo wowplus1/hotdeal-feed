@@ -1,7 +1,162 @@
 {
- "updated": "2026-11-11T02:30:08.241+09:00",
+ "updated": "2026-11-11T08:09:33.688+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "3414586183",
+   "mall": "쿠팡",
+   "title": "암바사 제로 by 환타, 345ml, 24개",
+   "price": 12980,
+   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/4b05/d9668a8b1de2086150ff6ae00c44b82a99062a00ef6edca525d82d1adf21.jpg",
+   "sentAt": "2026-11-11T08:09:33.688+09:00",
+   "saving": 10,
+   "baseline": 14370,
+   "baselineNote": "449곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 541
+   },
+   "check": {
+    "market": 14370,
+    "malls": 449,
+    "ship": 3000,
+    "delivered": 17370
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 13890
+   },
+   "review": {
+    "score": 4.7,
+    "count": 1504,
+    "low": 13
+   },
+   "spec": [
+    "탄산음료",
+    "캔류"
+   ],
+   "comps": [
+    {
+     "name": "449곳 중 최저",
+     "price": 14370
+    },
+    {
+     "name": "배송비 3,000원 포함",
+     "price": 17370
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 14400
+    },
+    {
+     "m": "26-01",
+     "p": 14400
+    },
+    {
+     "m": "26-02",
+     "p": 14500
+    },
+    {
+     "m": "26-03",
+     "p": 14230
+    },
+    {
+     "m": "26-04",
+     "p": 13930
+    },
+    {
+     "m": "26-05",
+     "p": 13890
+    },
+    {
+     "m": "26-06",
+     "p": 14270
+    },
+    {
+     "m": "26-07",
+     "p": 14410
+    },
+    {
+     "m": "26-08",
+     "p": 14410
+    },
+    {
+     "m": "26-09",
+     "p": 14330
+    },
+    {
+     "m": "26-10",
+     "p": 14410
+    },
+    {
+     "m": "26-11",
+     "p": 14370
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F375385661",
+     "price": 14370,
+     "ship": 3000
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4569934855",
+     "price": 14370,
+     "ship": 3000
+    },
+    {
+     "mall": "배민상회",
+     "code": "TWB192",
+     "id": "70958",
+     "price": 14695,
+     "ship": 3000
+    },
+    {
+     "mall": "SK스토아",
+     "code": "TSB275",
+     "id": "29282976",
+     "price": 15460,
+     "ship": 3000
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "4803837441",
+     "price": 16700,
+     "ship": 3000
+    },
+    {
+     "mall": "TW6145",
+     "code": "TW6145",
+     "id": "8731373488",
+     "price": 17760,
+     "ship": 3000
+    },
+    {
+     "mall": "롯데홈쇼핑",
+     "code": "ED903",
+     "id": "3100911146",
+     "price": 18450,
+     "ship": 0
+    },
+    {
+     "mall": "현대Hmall",
+     "code": "ED907",
+     "id": "2252574968",
+     "price": 18460,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/gJDOYu0shM",
+   "web": true
+  },
   {
    "uid": "1794811432",
    "mall": "쿠팡",
@@ -9413,20 +9568,6 @@
    "baseline": 40161,
    "baselineNote": "105곳 중 최저",
    "link": "http://app.ac/83C3nxJ73",
-   "web": true
-  },
-  {
-   "uid": "3763536376",
-   "mall": "쿠팡",
-   "title": "비타500 이온킥 제로 음료, 1.5L, 12개",
-   "price": 13520,
-   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/03/11/14/6/d6bfcaec-2415-4153-af85-283ea8f5905f.jpg",
-   "sentAt": "2026-11-01T22:36:30.839+09:00",
-   "saving": 29,
-   "baseline": 18910,
-   "baselineNote": "371곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gF2RxIfph6",
    "web": true
   }
  ]
