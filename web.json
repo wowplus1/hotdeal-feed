@@ -1,7 +1,114 @@
 {
- "updated": "2026-11-10T20:09:49.904+09:00",
+ "updated": "2026-11-10T22:05:11.143+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "3764550387",
+   "mall": "11번가",
+   "title": "프릴 베이킹소다 레몬 용기, 700ml, 1개 + 리필, 1L, 5개 + 증정",
+   "price": 21070,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9707427446/B.jpg?478535318",
+   "sentAt": "2026-11-10T22:05:11.143+09:00",
+   "saving": 17,
+   "baseline": 25450,
+   "baselineNote": "15곳 중 최저 · 무료배송",
+   "check": {
+    "market": 25450,
+    "malls": 15,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": false,
+    "low": 20900
+   },
+   "review": {
+    "score": 4.8,
+    "count": 1305,
+    "low": 7
+   },
+   "comps": [
+    {
+     "name": "15곳 중 최저 · 무료배송",
+     "price": 25450
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 21900
+    },
+    {
+     "m": "26-01",
+     "p": 20900
+    },
+    {
+     "m": "26-02",
+     "p": 20900
+    },
+    {
+     "m": "26-03",
+     "p": 20900
+    },
+    {
+     "m": "26-04",
+     "p": 21900
+    },
+    {
+     "m": "26-05",
+     "p": 21900
+    },
+    {
+     "m": "26-06",
+     "p": 21900
+    },
+    {
+     "m": "26-07",
+     "p": 22900
+    },
+    {
+     "m": "26-08",
+     "p": 22900
+    },
+    {
+     "m": "26-09",
+     "p": 23900
+    },
+    {
+     "m": "26-10",
+     "p": 23900
+    },
+    {
+     "m": "26-11",
+     "p": 28420
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4691101411",
+     "price": 25450,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "6176617284",
+     "price": 26620,
+     "ship": 0
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F496947145",
+     "price": 29000,
+     "ship": 0
+    }
+   ],
+   "link": "http://app.ac/NtnLlNM43",
+   "web": true
+  },
   {
    "uid": "4720505033",
    "mall": "11번가",
@@ -8449,16 +8556,6 @@
    "baselineNote": "31곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "http://app.ac/obpOlwl43",
-   "web": true
-  },
-  {
-   "uid": "7463853332",
-   "mall": "쿠팡",
-   "title": "레노버 2026 V15 G7 IWC 코어5 코어 시리즈3, 256GB, 8GB 노트북",
-   "price": 628690,
-   "image": "https://thumbnail1.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/1702/a21b726851835bc17509a23b6714f8dd9dcffe6f7685a54d74db7e16192d.jpg",
-   "sentAt": "2026-11-01T00:25:11.845+09:00",
-   "link": "https://link.coupang.com/a/iiKQs8I8Ye",
    "web": true
   }
  ]
