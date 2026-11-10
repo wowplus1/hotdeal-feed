@@ -1,7 +1,103 @@
 {
- "updated": "2026-11-11T07:44:04.954+09:00",
+ "updated": "2026-11-11T07:51:54.011+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2000957125",
+   "mall": "토스쇼핑",
+   "title": "추추 추어탕, 500g, 4개",
+   "price": 11090,
+   "image": "https://shopping.toss.im/live/taca/ai/MTg4Njhm/U1d5OS9La2dQbkVVdFhnNzhqQnVDNnRmSDZpVlNNSG5RNk1YUnFwV0xDND0.png",
+   "sentAt": "2026-11-11T07:51:53.406+09:00",
+   "saving": 27,
+   "baseline": 15250,
+   "baselineNote": "9곳 중 최저 · 무료배송",
+   "unit": {
+    "label": "개당",
+    "value": 2773
+   },
+   "check": {
+    "market": 15250,
+    "malls": 9,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 11900
+   },
+   "comps": [
+    {
+     "name": "9곳 중 최저 · 무료배송",
+     "price": 15250
+    }
+   ],
+   "trend": [
+    {
+     "m": "26-04",
+     "p": 11900
+    },
+    {
+     "m": "26-05",
+     "p": 14900
+    },
+    {
+     "m": "26-06",
+     "p": 11900
+    },
+    {
+     "m": "26-07",
+     "p": 11900
+    },
+    {
+     "m": "26-08",
+     "p": 14600
+    },
+    {
+     "m": "26-09",
+     "p": 12220
+    },
+    {
+     "m": "26-10",
+     "p": 14440
+    },
+    {
+     "m": "26-11",
+     "p": 15620
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F640583675",
+     "price": 15250,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4833190875",
+     "price": 15250,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9562286114",
+     "price": 15620,
+     "ship": 0
+    },
+    {
+     "mall": "TYA180",
+     "code": "TYA180",
+     "id": "13865433254",
+     "price": 16300,
+     "ship": 0
+    }
+   ],
+   "link": "https://toss.im/_m/BtWMIdq4"
+  },
   {
    "uid": "2997882902",
    "mall": "쿠팡",
@@ -3167,24 +3263,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4795204829"
-  },
-  {
-   "uid": "8756955762",
-   "mall": "쿠팡",
-   "title": "칙필에이 소스, 473ml*1개",
-   "price": 8740,
-   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/2166/4c05022c3a38020ca0cb049ab2cb8ba062a14cf398508fcdc9c0677a056c.png",
-   "sentAt": "2026-11-09T10:49:27.227+09:00",
-   "saving": 52,
-   "baseline": 18340,
-   "baselineNote": "판매글 5곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 5곳 최저가",
-     "price": 18340
-    }
-   ],
-   "link": "https://link.coupang.com/a/iepgm7RPci"
   }
  ]
 }
