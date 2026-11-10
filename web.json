@@ -1,7 +1,163 @@
 {
- "updated": "2026-11-11T01:39:01.932+09:00",
+ "updated": "2026-11-11T02:30:08.241+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "1794811432",
+   "mall": "쿠팡",
+   "title": "농심 김치 사발면 86g, 6개",
+   "price": 4280,
+   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/6607/643570382c3681ecc235563aae8bd4426fd533552c3024abe5790a885d58.jpg",
+   "sentAt": "2026-11-11T02:30:08.241+09:00",
+   "saving": 13,
+   "baseline": 4910,
+   "baselineNote": "691곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 713
+   },
+   "check": {
+    "market": 4910,
+    "malls": 691,
+    "ship": 3000,
+    "delivered": 7910
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": false,
+    "low": 1760
+   },
+   "review": {
+    "score": 4.9,
+    "count": 33553,
+    "low": 8
+   },
+   "spec": [
+    "컵라면",
+    "국물라면",
+    "기본면"
+   ],
+   "comps": [
+    {
+     "name": "691곳 중 최저",
+     "price": 4910
+    },
+    {
+     "name": "배송비 3,000원 포함",
+     "price": 7910
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 2090
+    },
+    {
+     "m": "26-01",
+     "p": 2090
+    },
+    {
+     "m": "26-02",
+     "p": 2410
+    },
+    {
+     "m": "26-03",
+     "p": 2410
+    },
+    {
+     "m": "26-04",
+     "p": 2090
+    },
+    {
+     "m": "26-05",
+     "p": 2090
+    },
+    {
+     "m": "26-06",
+     "p": 2090
+    },
+    {
+     "m": "26-07",
+     "p": 2410
+    },
+    {
+     "m": "26-08",
+     "p": 4000
+    },
+    {
+     "m": "26-09",
+     "p": 1760
+    },
+    {
+     "m": "26-10",
+     "p": 4750
+    },
+    {
+     "m": "26-11",
+     "p": 5080
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "3375175468",
+     "price": 4910,
+     "ship": 3000
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "2018162181",
+     "price": 4920,
+     "ship": 3000
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "C275062448",
+     "price": 4920,
+     "ship": 3000
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2701477285",
+     "price": 5370,
+     "ship": 3000
+    },
+    {
+     "mall": "TY321E",
+     "code": "TY321E",
+     "id": "11247342860",
+     "price": 5400,
+     "ship": 3000
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000559418563",
+     "price": 5472,
+     "ship": 3000
+    },
+    {
+     "mall": "신세계몰",
+     "code": "ED901",
+     "id": "1000559418563",
+     "price": 5760,
+     "ship": 3000
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000559418563",
+     "price": 5760,
+     "ship": 3000
+    }
+   ],
+   "link": "https://link.coupang.com/a/hECcqUws1Y",
+   "web": true
+  },
   {
    "uid": "4959591053",
    "mall": "쿠팡",
@@ -9271,19 +9427,6 @@
    "baselineNote": "371곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gF2RxIfph6",
-   "web": true
-  },
-  {
-   "uid": "3260787279",
-   "mall": "쿠팡",
-   "title": "시티즌 녹판 BM8180-71W 남자시계",
-   "price": 137430,
-   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/f4e1/9ad4b43dcd2e28bbf7e90e160252c750b9de8b6c2abd7001373218203077.jpg",
-   "sentAt": "2026-11-01T21:25:08.783+09:00",
-   "saving": 12,
-   "baseline": 156230,
-   "baselineNote": "판매글 38곳 최저가",
-   "link": "https://link.coupang.com/a/hslctFoiWG",
    "web": true
   }
  ]
