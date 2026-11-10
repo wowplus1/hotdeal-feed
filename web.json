@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-10T14:54:06.358+09:00",
+ "updated": "2026-11-10T15:20:15.988+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "9058448622",
+   "mall": "지마켓",
+   "title": "9850x3d rx9070xt 16gb 32gb 1tb",
+   "price": 1500000,
+   "image": "https://gdimg.gmarket.co.kr/4463680822/goodsimage",
+   "sentAt": "2026-11-10T15:20:15.988+09:00",
+   "saving": 50,
+   "baseline": 3028170,
+   "baselineNote": "판매글 29곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 29곳 최저가",
+     "price": 3028170
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4463680822",
+   "web": true
+  },
   {
    "uid": "3411605053",
    "mall": "롯데온",
@@ -7917,17 +7936,6 @@
    "baselineNote": "판매글 4곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/igZYApoAMK",
-   "web": true
-  },
-  {
-   "uid": "8215379478",
-   "mall": "쿠팡",
-   "title": "백설 초코칩 쿠키믹스, 290g, 2개 2,980원",
-   "price": 2980,
-   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/eaaa/282b674e12d0cd165c2686bb7890f6653fa796fd605e21d9ab9fd4b34e8f.jpg",
-   "sentAt": "2026-10-30T22:02:26.331+09:00",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/igVLzT8HTg",
    "web": true
   }
  ]
