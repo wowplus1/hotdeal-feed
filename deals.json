@@ -1,7 +1,136 @@
 {
- "updated": "2026-11-10T18:28:27.311+09:00",
+ "updated": "2026-11-10T18:43:25.855+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7739892121",
+   "mall": "쿠팡",
+   "title": "일리윤 세라마이드 아토 버블워시 앤 샴푸 바디워시 무향, 900ml, 1개",
+   "price": 12700,
+   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/60672521503089-3af733e8-3883-4dd1-8705-92a59af48f45.jpg",
+   "sentAt": "2026-11-10T18:43:25.247+09:00",
+   "saving": 44,
+   "baseline": 22600,
+   "baselineNote": "35곳 중 최저 · 무료배송",
+   "check": {
+    "market": 22600,
+    "malls": 35,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 19040
+   },
+   "comps": [
+    {
+     "name": "35곳 중 최저 · 무료배송",
+     "price": 22600
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 20050
+    },
+    {
+     "m": "26-01",
+     "p": 20190
+    },
+    {
+     "m": "26-02",
+     "p": 20070
+    },
+    {
+     "m": "26-03",
+     "p": 19720
+    },
+    {
+     "m": "26-04",
+     "p": 20260
+    },
+    {
+     "m": "26-05",
+     "p": 20120
+    },
+    {
+     "m": "26-06",
+     "p": 20420
+    },
+    {
+     "m": "26-07",
+     "p": 21600
+    },
+    {
+     "m": "26-08",
+     "p": 20600
+    },
+    {
+     "m": "26-09",
+     "p": 19040
+    },
+    {
+     "m": "26-10",
+     "p": 22590
+    },
+    {
+     "m": "26-11",
+     "p": 22590
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "오늘의집",
+     "code": "TU710C",
+     "id": "3716344-27748532",
+     "price": 22600,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "8233886127",
+     "price": 22650,
+     "ship": 3000
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "E255788449",
+     "price": 23380,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "3635456401",
+     "price": 23390,
+     "ship": 0
+    },
+    {
+     "mall": "롯데홈쇼핑",
+     "code": "ED903",
+     "id": "2706237489",
+     "price": 25000,
+     "ship": 0
+    },
+    {
+     "mall": "홈&amp;쇼핑",
+     "code": "TLB17",
+     "id": "71567434",
+     "price": 28760,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2779638132",
+     "price": 32670,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/iyXzBQlzCS"
+  },
   {
    "uid": "7879161252",
    "mall": "롯데온",
@@ -2907,23 +3036,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iwwkVMUyLA"
-  },
-  {
-   "uid": "7969424240",
-   "mall": "쿠팡",
-   "title": "콘푸로스트 다크초코 시리얼, 550g, 1개",
-   "price": 3860,
-   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/596756775419750-9bb0c07e-9b10-4711-9698-5c5c4e9f1da8.jpg",
-   "sentAt": "2026-11-09T07:09:08.555+09:00",
-   "unit": {
-    "label": "100g당",
-    "value": 702
-   },
-   "alt": {
-    "price": 5500,
-    "where": "84곳 중 최저"
-   },
-   "link": "https://link.coupang.com/a/hYwOoTW4s0"
   }
  ]
 }
