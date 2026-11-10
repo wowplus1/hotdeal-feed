@@ -1,7 +1,17 @@
 {
- "updated": "2026-11-10T11:02:28.310+09:00",
+ "updated": "2026-11-10T12:24:08.293+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "1106238610",
+   "mall": "지마켓",
+   "title": "백산수 2L 24펫",
+   "price": 16900,
+   "image": "https://gdimg.gmarket.co.kr/4174542188/goodsimage",
+   "sentAt": "2026-11-10T12:24:08.293+09:00",
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4174542188",
+   "web": true
+  },
   {
    "uid": "2561018295",
    "mall": "지마켓",
@@ -7756,19 +7766,6 @@
    "baselineNote": "177곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/f9zmAX1HOK",
-   "web": true
-  },
-  {
-   "uid": "9558116049",
-   "mall": "롯데온",
-   "title": "써모락 C 남성 슬림 다운 자켓 남자경량패딩 DMW24560",
-   "price": 76520,
-   "image": "https://contents.lotteon.com/itemimage/20261005185750/LE/12/22/42/18/78/_1/33/62/61/33/8/LE1222421878_1336261338_1.jpg",
-   "sentAt": "2026-10-29T22:14:28.227+09:00",
-   "saving": 17,
-   "baseline": 92160,
-   "baselineNote": "판매글 39곳 최저가",
-   "link": "http://app.ac/p3MdtbJ23",
    "web": true
   }
  ]
