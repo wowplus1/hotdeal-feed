@@ -1,7 +1,164 @@
 {
- "updated": "2026-11-11T00:35:29.105+09:00",
+ "updated": "2026-11-11T00:43:38.021+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "9637976881",
+   "mall": "쿠팡",
+   "title": "너구리 얼큰한맛 120g, 5개,",
+   "price": 3290,
+   "image": "https://thumbnail1.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/823151683228-c86fcdef-e31d-442d-8397-e12a74e28c13.png",
+   "sentAt": "2026-11-11T00:43:38.021+09:00",
+   "saving": 18,
+   "baseline": 3990,
+   "baselineNote": "220곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 658
+   },
+   "check": {
+    "market": 3990,
+    "malls": 220,
+    "ship": 2500,
+    "delivered": 6490
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": false,
+    "low": 3030
+   },
+   "review": {
+    "score": 4.9,
+    "count": 78774,
+    "low": 83
+   },
+   "spec": [
+    "봉지라면",
+    "국물라면",
+    "기본면",
+    "매운맛"
+   ],
+   "comps": [
+    {
+     "name": "220곳 중 최저",
+     "price": 3990
+    },
+    {
+     "name": "배송비 2,500원 포함",
+     "price": 6490
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 3740
+    },
+    {
+     "m": "26-01",
+     "p": 3740
+    },
+    {
+     "m": "26-02",
+     "p": 3810
+    },
+    {
+     "m": "26-03",
+     "p": 3740
+    },
+    {
+     "m": "26-04",
+     "p": 3720
+    },
+    {
+     "m": "26-05",
+     "p": 3760
+    },
+    {
+     "m": "26-06",
+     "p": 3810
+    },
+    {
+     "m": "26-07",
+     "p": 3890
+    },
+    {
+     "m": "26-08",
+     "p": 3890
+    },
+    {
+     "m": "26-09",
+     "p": 3030
+    },
+    {
+     "m": "26-10",
+     "p": 3990
+    },
+    {
+     "m": "26-11",
+     "p": 3840
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "5637601711",
+     "price": 3990,
+     "ship": 2500
+    },
+    {
+     "mall": "TV91F9",
+     "code": "TV91F9",
+     "id": "10675368677",
+     "price": 4000,
+     "ship": 3500
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "205482963",
+     "price": 4200,
+     "ship": 3000
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "B769964715",
+     "price": 4200,
+     "ship": 3000
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2798584694",
+     "price": 4490,
+     "ship": 3000
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000819367663",
+     "price": 4579,
+     "ship": 3000
+    },
+    {
+     "mall": "롯데마트몰",
+     "code": "TU14D",
+     "id": "OS8801043015011",
+     "price": 4700,
+     "ship": 3000
+    },
+    {
+     "mall": "보리보리",
+     "code": "TG021",
+     "id": "336527658",
+     "price": 4700,
+     "ship": 2700
+    }
+   ],
+   "link": "https://link.coupang.com/a/hTxCajxw7h",
+   "web": true
+  },
   {
    "uid": "4629012236",
    "mall": "11번가",
@@ -8575,20 +8732,6 @@
    "baselineNote": "36곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "http://app.ac/iEC7InS73",
-   "web": true
-  },
-  {
-   "uid": "1365925506",
-   "mall": "쿠팡",
-   "title": "미닛메이드 레몬에이드 탄산음료, 355ml, 24개",
-   "price": 10800,
-   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/03/20/10/8/ff0ae358-aeaa-47bd-9ecf-d984bc25fac7.jpg",
-   "sentAt": "2026-11-01T08:39:48.272+09:00",
-   "saving": 19,
-   "baseline": 13380,
-   "baselineNote": "205곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gnMUBIQLoy",
    "web": true
   }
  ]
