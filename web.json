@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-10T17:28:18.517+09:00",
+ "updated": "2026-11-10T17:29:16.376+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "7940701034",
+   "mall": "11번가",
+   "title": "광천김 3대째 달인 김자반 60g x 5봉",
+   "price": 7850,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/4583662575/B.webp",
+   "sentAt": "2026-11-10T17:29:16.376+09:00",
+   "saving": 33,
+   "baseline": 11690,
+   "baselineNote": "다른 곳 최저",
+   "unit": {
+    "label": "개당",
+    "value": 1570
+   },
+   "comps": [
+    {
+     "name": "다른 곳 최저",
+     "price": 11690
+    }
+   ],
+   "link": "http://app.ac/p3MW2SJ93",
+   "web": true
+  },
   {
    "uid": "7018831438",
    "mall": "지마켓",
@@ -8337,19 +8360,6 @@
    "baselineNote": "29곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/iidI2zXwQ0",
-   "web": true
-  },
-  {
-   "uid": "2671159419",
-   "mall": "쿠팡",
-   "title": "에뛰드 진저슈가 오버나이트 립 마스크 23g",
-   "price": 5750,
-   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/63177c9b-ce7f-4f75-b334-6866c9c6fd1f10866229871240206984.png",
-   "sentAt": "2026-10-31T09:56:06.067+09:00",
-   "saving": 14,
-   "baseline": 6690,
-   "baselineNote": "31곳 중 최저",
-   "link": "https://link.coupang.com/a/ihKMlGTwuy",
    "web": true
   }
  ]
