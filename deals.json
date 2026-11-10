@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-10T10:50:33.073+09:00",
+ "updated": "2026-11-10T11:02:33.367+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8188784935",
+   "mall": "지마켓",
+   "title": "피지 모락셀라 액체세제 코튼향 2.1L 용기 + 부스터 코튼향 3p",
+   "price": 13050,
+   "image": "https://gdimg.gmarket.co.kr/4278580679/goodsimage",
+   "sentAt": "2026-11-10T11:02:32.852+09:00",
+   "saving": 31,
+   "baseline": 18820,
+   "baselineNote": "판매글 8곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 8곳 최저가",
+     "price": 18820
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4278580679"
+  },
   {
    "uid": "4624343866",
    "mall": "쿠팡",
@@ -2973,24 +2991,6 @@
     }
    ],
    "link": "https://toss.shopping/_m/JHn0tGYk"
-  },
-  {
-   "uid": "3994167555",
-   "mall": "지마켓",
-   "title": "해표 순알콩 양조간장 1.8L 2개 + 500ml 2개",
-   "price": 12500,
-   "image": "https://gdimg.gmarket.co.kr/4741506601/goodsimage",
-   "sentAt": "2026-11-08T13:44:32.638+09:00",
-   "saving": 25,
-   "baseline": 16690,
-   "baselineNote": "판매글 9곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 9곳 최저가",
-     "price": 16690
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4741506601"
   }
  ]
 }
