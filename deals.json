@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-11T08:09:38.200+09:00",
+ "updated": "2026-11-11T08:33:05.176+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1665768648",
+   "mall": "지마켓",
+   "title": "로스팜97 200g 5캔",
+   "price": 8900,
+   "image": "https://gdimg.gmarket.co.kr/3881912560/goodsimage",
+   "sentAt": "2026-11-11T08:33:04.568+09:00",
+   "saving": 52,
+   "baseline": 18430,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 1780
+   },
+   "comps": [
+    {
+     "name": "판매글 4곳 최저가",
+     "price": 18430
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=3881912560"
+  },
   {
    "uid": "9606007014",
    "mall": "쿠팡",
@@ -3363,28 +3385,6 @@
     }
    ],
    "link": "http://app.ac/X3MF1xJ13"
-  },
-  {
-   "uid": "3549585206",
-   "mall": "11번가",
-   "title": "국내산 햇 고춧가루 1kg 김장/요리 양념용 함평 고추가루",
-   "price": 17970,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/3/4/3/3/6/0/BXqXz/9694343360_241860559.webp",
-   "sentAt": "2026-11-09T11:13:30.134+09:00",
-   "saving": 21,
-   "baseline": 22790,
-   "baselineNote": "판매글 8곳 최저가",
-   "unit": {
-    "label": "100g당",
-    "value": 1797
-   },
-   "comps": [
-    {
-     "name": "판매글 8곳 최저가",
-     "price": 22790
-    }
-   ],
-   "link": "http://app.ac/yECQxSS33"
   }
  ]
 }
