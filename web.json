@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-10T13:14:20.240+09:00",
+ "updated": "2026-11-10T13:35:01.929+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "9731367151",
+   "mall": "지마켓",
+   "title": "atk a9 ultimate 마스터 8k 무선 마우스 paw3955 마스터 얼티메이트 플러스",
+   "price": 56410,
+   "image": "https://gdimg.gmarket.co.kr/4894955728/goodsimage",
+   "sentAt": "2026-11-10T13:35:01.929+09:00",
+   "saving": 38,
+   "baseline": 90340,
+   "baselineNote": "판매글 15곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 15곳 최저가",
+     "price": 90340
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4894955728",
+   "web": true
+  },
   {
    "uid": "4030365381",
    "mall": "지마켓",
@@ -7889,19 +7908,6 @@
    "baseline": 249000,
    "baselineNote": "판매글 8곳 최저가",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4778327123",
-   "web": true
-  },
-  {
-   "uid": "6404071647",
-   "mall": "11번가",
-   "title": "코오롱 오토드 AI퓨어 3.5L 음식물처리기",
-   "price": 179000,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/8037729550/B.webp",
-   "sentAt": "2026-10-30T12:26:15.269+09:00",
-   "saving": 10,
-   "baseline": 199000,
-   "baselineNote": "판매글 8곳 최저가",
-   "link": "http://app.ac/bECqcFS83",
    "web": true
   }
  ]
