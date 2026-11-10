@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-10T09:28:31.495+09:00",
+ "updated": "2026-11-10T09:33:12.273+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8097731439",
+   "mall": "지마켓",
+   "title": "박대 서대 생선구이 10미 30cm 내외",
+   "price": 12500,
+   "image": "https://gdimg.gmarket.co.kr/4713455475/goodsimage",
+   "sentAt": "2026-11-10T09:33:11.693+09:00",
+   "saving": 26,
+   "baseline": 16890,
+   "baselineNote": "판매글 5곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 5곳 최저가",
+     "price": 16890
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4713455475"
+  },
   {
    "uid": "3365724435",
    "mall": "쿠팡",
@@ -3076,93 +3094,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iu61jaCLQa"
-  },
-  {
-   "uid": "2384754265",
-   "mall": "토스쇼핑",
-   "title": "던킨블렌드 캡슐커피, 네스프레소 호환, 에스프레소, 20개입, 4개",
-   "price": 20000,
-   "image": "https://shopping.toss.im/live/taca/ai/v2/MTg3Yzk0/TVoyWk0yT1pMbWRtbVN4elo1bDVKbVpOa3lUR2VkbU1tWjJSakpNWlpuTT0.png",
-   "sentAt": "2026-11-08T10:51:21.769+09:00",
-   "saving": 34,
-   "baseline": 30210,
-   "baselineNote": "29곳 중 최저 · 무료배송",
-   "check": {
-    "market": 30210,
-    "malls": 29,
-    "ship": 0
-   },
-   "spec": [
-    "40ml",
-    "카페인有",
-    "(3)",
-    "(2)"
-   ],
-   "comps": [
-    {
-     "name": "29곳 중 최저 · 무료배송",
-     "price": 30210
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "F651425138",
-     "price": 30210,
-     "ship": 0
-    },
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "4843930624",
-     "price": 30210,
-     "ship": 0
-    },
-    {
-     "mall": "TXCC1",
-     "code": "TXCC1",
-     "id": "13740462471",
-     "price": 30900,
-     "ship": 0
-    },
-    {
-     "mall": "롯데ON",
-     "code": "EE309",
-     "id": "LO2766632422",
-     "price": 32990,
-     "ship": 0
-    },
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "9649201583",
-     "price": 33010,
-     "ship": 0
-    },
-    {
-     "mall": "신세계몰",
-     "code": "ED901",
-     "id": "1000888971518",
-     "price": 33132,
-     "ship": 0
-    },
-    {
-     "mall": "SSG.COM",
-     "code": "TN118",
-     "id": "1000888971518",
-     "price": 33132,
-     "ship": 0
-    },
-    {
-     "mall": "이마트몰",
-     "code": "EE311",
-     "id": "1000888971518",
-     "price": 33132,
-     "ship": 0
-    }
-   ],
-   "link": "https://toss.im/_m/FZnp9fb3"
   }
  ]
 }
