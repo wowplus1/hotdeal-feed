@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-10T23:15:01.721+09:00",
+ "updated": "2026-11-10T23:33:29.726+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "4624670743",
+   "mall": "쿠팡",
+   "title": "튀김우동 컵면, 62g, 6개",
+   "price": 5480,
+   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/308588647525049-f593698b-72ab-4405-8085-56fe511a863b.jpg",
+   "sentAt": "2026-11-10T23:33:29.726+09:00",
+   "saving": 24,
+   "baseline": 7190,
+   "baselineNote": "판매글 27곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 913
+   },
+   "comps": [
+    {
+     "name": "판매글 27곳 최저가",
+     "price": 7190
+    }
+   ],
+   "link": "https://link.coupang.com/a/hKXAqj4jHo",
+   "web": true
+  },
   {
    "uid": "3156604210",
    "mall": "11번가",
@@ -8560,20 +8583,6 @@
    "baseline": 68160,
    "baselineNote": "판매글 35곳 최저가",
    "link": "http://app.ac/PbpBTml13",
-   "web": true
-  },
-  {
-   "uid": "4373419414",
-   "mall": "쿠팡",
-   "title": "온더바디 코튼풋 발을 씻자 풋샴푸 자몽 민트향 *385ml*3개",
-   "price": 12370,
-   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/5d5a03c0-5648-4e90-80fa-87ea40451f2910981358665052633967.png",
-   "sentAt": "2026-11-01T07:30:38.502+09:00",
-   "saving": 13,
-   "baseline": 14170,
-   "baselineNote": "154곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/ijfh2YNeoK",
    "web": true
   }
  ]
