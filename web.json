@@ -1,7 +1,118 @@
 {
- "updated": "2026-11-10T17:30:14.807+09:00",
+ "updated": "2026-11-10T20:09:49.904+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "4720505033",
+   "mall": "11번가",
+   "title": "비트 스트롱세븐 액체세제 일반드럼겸용 리필 2.22L, 6개",
+   "price": 20220,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9255933555/B.webp?269767424",
+   "sentAt": "2026-11-10T20:09:49.904+09:00",
+   "saving": 19,
+   "baseline": 24900,
+   "baselineNote": "92곳 중 최저 · 무료배송",
+   "unit": {
+    "label": "개당",
+    "value": 3370
+   },
+   "check": {
+    "market": 24900,
+    "malls": 92,
+    "ship": 0
+   },
+   "review": {
+    "score": 4.7,
+    "count": 7235,
+    "low": 29
+   },
+   "spec": [
+    "세탁세제",
+    "액체형",
+    "피부저자극",
+    "무형광증백제, 무파라벤"
+   ],
+   "comps": [
+    {
+     "name": "92곳 중 최저 · 무료배송",
+     "price": 24900
+    }
+   ],
+   "trend": [
+    {
+     "m": "26-09",
+     "p": 23900
+    },
+    {
+     "m": "26-10",
+     "p": 28900
+    },
+    {
+     "m": "26-11",
+     "p": 23900
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "C589598058",
+     "price": 24900,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "2429170542",
+     "price": 24900,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9255933555",
+     "price": 28900,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2763503407",
+     "price": 31280,
+     "ship": 0
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000048572027",
+     "price": 31896,
+     "ship": 0
+    },
+    {
+     "mall": "신세계몰",
+     "code": "ED901",
+     "id": "1000048572027",
+     "price": 31896,
+     "ship": 0
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000048572027",
+     "price": 31896,
+     "ship": 0
+    },
+    {
+     "mall": "주식회사 신세계라이브쇼핑",
+     "code": "TRB03",
+     "id": "10661197",
+     "price": 31900,
+     "ship": 0
+    }
+   ],
+   "link": "http://app.ac/pAV8Ek593",
+   "web": true
+  },
   {
    "uid": "6597383007",
    "mall": "지마켓",
@@ -8348,19 +8459,6 @@
    "image": "https://thumbnail1.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/1702/a21b726851835bc17509a23b6714f8dd9dcffe6f7685a54d74db7e16192d.jpg",
    "sentAt": "2026-11-01T00:25:11.845+09:00",
    "link": "https://link.coupang.com/a/iiKQs8I8Ye",
-   "web": true
-  },
-  {
-   "uid": "4684292098",
-   "mall": "롯데온",
-   "title": "남성 노던 유틸라이저 자켓 WE3189",
-   "price": 68680,
-   "image": "https://contents.lotteon.com/itemimage/20261030141835/LE/12/22/42/38/43/_1/33/62/76/50/7/LE1222423843_1336276507_1.jpg",
-   "sentAt": "2026-10-31T22:59:33.924+09:00",
-   "saving": 18,
-   "baseline": 83590,
-   "baselineNote": "195곳 중 최저 · 무료배송",
-   "link": "http://app.ac/bjpEvAa13",
    "web": true
   }
  ]
