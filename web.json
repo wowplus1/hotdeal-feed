@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-11T08:09:33.688+09:00",
+ "updated": "2026-11-11T08:43:04.783+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "5297923661",
+   "mall": "지마켓",
+   "title": "서린공식 Apacer DDR5-6000 CL38 NOX BLACK 패키지 (32GB(16...",
+   "price": 574740,
+   "image": "https://gdimg.gmarket.co.kr/4598271556/goodsimage",
+   "sentAt": "2026-11-11T08:43:04.783+09:00",
+   "saving": 24,
+   "baseline": 760000,
+   "baselineNote": "판매글 40곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 40곳 최저가",
+     "price": 760000
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4598271556",
+   "web": true
+  },
   {
    "uid": "3414586183",
    "mall": "쿠팡",
@@ -9555,19 +9574,6 @@
    "baselineNote": "판매글 18곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=1760962443",
-   "web": true
-  },
-  {
-   "uid": "9557174980",
-   "mall": "11번가",
-   "title": "듀엣 맥스 II 클로그 필드그린 208776-3CM",
-   "price": 26940,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/8/7/7/0/6/8/WwpAS/9715877068_242111876.webp",
-   "sentAt": "2026-11-02T00:16:38.949+09:00",
-   "saving": 33,
-   "baseline": 40161,
-   "baselineNote": "105곳 중 최저",
-   "link": "http://app.ac/83C3nxJ73",
    "web": true
   }
  ]
