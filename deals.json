@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-11T08:33:05.176+09:00",
+ "updated": "2026-11-11T08:49:21.050+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4428965171",
+   "mall": "11번가",
+   "title": "센소다인 시린이케어 오리지날 플러스 치약 100g, 6개+딥클린 칫솔 1입,1개 + 증정",
+   "price": 16680,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/8255226587/B.jpg?596076734",
+   "sentAt": "2026-11-11T08:49:20.464+09:00",
+   "saving": 42,
+   "baseline": 28860,
+   "baselineNote": "판매글 9곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 9곳 최저가",
+     "price": 28860
+    }
+   ],
+   "link": "http://app.ac/6jpEYia03"
+  },
   {
    "uid": "1665768648",
    "mall": "지마켓",
@@ -3363,28 +3381,6 @@
    "image": "https://gdimg.gmarket.co.kr/4472184167/goodsimage",
    "sentAt": "2026-11-09T11:29:52.895+09:00",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4472184167"
-  },
-  {
-   "uid": "8138908563",
-   "mall": "11번가",
-   "title": "해남 햇 호박고구마 5kg 특상호풍미",
-   "price": 11940,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/pd/v2/5/1/1/7/9/7/TTilV/9623511797_B.webp",
-   "sentAt": "2026-11-09T11:20:10.651+09:00",
-   "saving": 20,
-   "baseline": 15000,
-   "baselineNote": "판매글 19곳 최저가",
-   "unit": {
-    "label": "100g당",
-    "value": 239
-   },
-   "comps": [
-    {
-     "name": "판매글 19곳 최저가",
-     "price": 15000
-    }
-   ],
-   "link": "http://app.ac/X3MF1xJ13"
   }
  ]
 }
