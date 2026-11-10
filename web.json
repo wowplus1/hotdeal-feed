@@ -1,7 +1,153 @@
 {
- "updated": "2026-11-10T06:50:26.562+09:00",
+ "updated": "2026-11-10T09:35:29.150+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "4496803058",
+   "mall": "11번가",
+   "title": "오리온 통크 초코, 45g, 20개",
+   "price": 13460,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/6785934242/B.webp",
+   "sentAt": "2026-11-10T09:35:29.150+09:00",
+   "saving": 15,
+   "baseline": 15900,
+   "baselineNote": "495곳 중 최저 · 무료배송",
+   "unit": {
+    "label": "개당",
+    "value": 673
+   },
+   "check": {
+    "market": 15900,
+    "malls": 495,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": false,
+    "low": 9900
+   },
+   "review": {
+    "score": 4.8,
+    "count": 3833,
+    "low": 18
+   },
+   "comps": [
+    {
+     "name": "495곳 중 최저 · 무료배송",
+     "price": 15900
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 9900
+    },
+    {
+     "m": "26-01",
+     "p": 13560
+    },
+    {
+     "m": "26-02",
+     "p": 13460
+    },
+    {
+     "m": "26-03",
+     "p": 14600
+    },
+    {
+     "m": "26-04",
+     "p": 15600
+    },
+    {
+     "m": "26-05",
+     "p": 15100
+    },
+    {
+     "m": "26-06",
+     "p": 15600
+    },
+    {
+     "m": "26-07",
+     "p": 14940
+    },
+    {
+     "m": "26-08",
+     "p": 15600
+    },
+    {
+     "m": "26-09",
+     "p": 13970
+    },
+    {
+     "m": "26-10",
+     "p": 15900
+    },
+    {
+     "m": "26-11",
+     "p": 14900
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "6785934242",
+     "price": 15900,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "1677180728",
+     "price": 16500,
+     "ship": 0
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000805526094",
+     "price": 16587,
+     "ship": 0
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "B741120803",
+     "price": 16890,
+     "ship": 0
+    },
+    {
+     "mall": "SK스토아",
+     "code": "TSB275",
+     "id": "23617043",
+     "price": 17400,
+     "ship": 0
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000805526094",
+     "price": 17835,
+     "ship": 0
+    },
+    {
+     "mall": "신세계몰",
+     "code": "ED901",
+     "id": "1000805526094",
+     "price": 17835,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2722458365",
+     "price": 18230,
+     "ship": 3000
+    }
+   ],
+   "link": "http://app.ac/lECq6XS63",
+   "web": true
+  },
   {
    "uid": "2680034523",
    "mall": "쿠팡",
@@ -7248,20 +7394,6 @@
    "baseline": 83590,
    "baselineNote": "195곳 중 최저 · 무료배송",
    "link": "http://app.ac/bjpEvAa13",
-   "web": true
-  },
-  {
-   "uid": "4496803058",
-   "mall": "11번가",
-   "title": "오리온 통크 초코, 45g, 20개",
-   "price": 13460,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/6785934242/B.webp",
-   "sentAt": "2026-10-31T19:01:05.108+09:00",
-   "saving": 15,
-   "baseline": 15900,
-   "baselineNote": "490곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "http://app.ac/lECq6XS63",
    "web": true
   },
   {
