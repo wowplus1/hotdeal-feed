@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-10T22:54:52.494+09:00",
+ "updated": "2026-11-10T23:15:01.721+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "3156604210",
+   "mall": "11번가",
+   "title": "스너글 섬유탈취제 허거블 코튼 더블 소프트 470ml, 3개",
+   "price": 11420,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/8255050597/B.webp?207083074",
+   "sentAt": "2026-11-10T23:15:01.721+09:00",
+   "saving": 36,
+   "baseline": 17890,
+   "baselineNote": "판매글 28곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 3807
+   },
+   "comps": [
+    {
+     "name": "판매글 28곳 최저가",
+     "price": 17890
+    }
+   ],
+   "link": "http://app.ac/MjpKlGa03",
+   "web": true
+  },
   {
    "uid": "8945450861",
    "mall": "쿠팡",
@@ -8551,20 +8574,6 @@
    "baselineNote": "154곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/ijfh2YNeoK",
-   "web": true
-  },
-  {
-   "uid": "3361386470",
-   "mall": "쿠팡",
-   "title": "오뚜기 스낵면 108g, 10개",
-   "price": 5760,
-   "image": "https://t3a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/196163713696016-37dd9d4f-664a-4746-a8ec-49d9f8a34dd4.jpg",
-   "sentAt": "2026-11-01T00:54:19.536+09:00",
-   "saving": 19,
-   "baseline": 7100,
-   "baselineNote": "150곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/iiMYd9eHWm",
    "web": true
   }
  ]
