@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-10T14:28:58.529+09:00",
+ "updated": "2026-11-10T14:54:06.358+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "3411605053",
+   "mall": "롯데온",
+   "title": "유럽내수용 유리아쥬 스틱 레브르 립밤 4g 10개",
+   "price": 52950,
+   "image": "https://contents.lotteon.com/itemimage/20261109142614/LO/28/02/14/54/49/_2/80/21/45/45/0/LO2802145449_2802145450_1.png",
+   "sentAt": "2026-11-10T14:54:06.358+09:00",
+   "saving": 11,
+   "baseline": 59508,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 5295
+   },
+   "comps": [
+    {
+     "name": "판매글 4곳 최저가",
+     "price": 59508
+    }
+   ],
+   "link": "http://app.ac/fAV8Yv593",
+   "web": true
+  },
   {
    "uid": "4079765383",
    "mall": "롯데온",
@@ -7905,19 +7928,6 @@
    "sentAt": "2026-10-30T22:02:26.331+09:00",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/igVLzT8HTg",
-   "web": true
-  },
-  {
-   "uid": "7880755606",
-   "mall": "지마켓",
-   "title": "오디세이 OLED G8 G80SH 80cm LS32HG800",
-   "price": 1213931,
-   "image": "https://gdimg.gmarket.co.kr/4742327611/goodsimage",
-   "sentAt": "2026-10-30T17:46:41.535+09:00",
-   "saving": 24,
-   "baseline": 1590000,
-   "baselineNote": "판매글 9곳 최저가",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4742327611",
    "web": true
   }
  ]
