@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-10T19:28:03.457+09:00",
+ "updated": "2026-11-10T19:53:32.193+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2417251557",
+   "mall": "지마켓",
+   "title": "하이뮨 면역엔 알로에 20g 14포 1박스",
+   "price": 5900,
+   "image": "https://gdimg.gmarket.co.kr/3466418429/goodsimage",
+   "sentAt": "2026-11-10T19:53:31.336+09:00",
+   "unit": {
+    "label": "개당",
+    "value": 421
+   },
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=3466418429"
+  },
   {
    "uid": "5555376183",
    "mall": "롯데온",
@@ -3023,23 +3036,6 @@
     }
    ],
    "link": "https://toss.im/_m/BXGxLJCt"
-  },
-  {
-   "uid": "8078705690",
-   "mall": "쿠팡",
-   "title": "농심 신라면 컵 65g, 12개",
-   "price": 10290,
-   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1723358760738649-3a896980-b0e5-4ce7-ab1d-edc31672847a.jpg",
-   "sentAt": "2026-11-09T07:58:14.021+09:00",
-   "unit": {
-    "label": "개당",
-    "value": 858
-   },
-   "alt": {
-    "price": 11420,
-    "where": "558곳 중 최저"
-   },
-   "link": "https://link.coupang.com/a/gsN8MMhplY"
   }
  ]
 }
