@@ -1,7 +1,163 @@
 {
- "updated": "2026-11-11T00:44:34.616+09:00",
+ "updated": "2026-11-11T01:04:22.761+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "5725786239",
+   "mall": "쿠팡",
+   "title": "불닭볶음면 140g, 5개",
+   "price": 3570,
+   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/344801787593852-567aaca7-a965-4d97-adc9-4214051864f5.png",
+   "sentAt": "2026-11-11T01:04:22.761+09:00",
+   "saving": 23,
+   "baseline": 4620,
+   "baselineNote": "165곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 714
+   },
+   "check": {
+    "market": 4620,
+    "malls": 165,
+    "delivered": 7580
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": false,
+    "low": 2350
+   },
+   "review": {
+    "score": 4.9,
+    "count": 58077,
+    "low": 0
+   },
+   "spec": [
+    "봉지라면",
+    "볶음라면",
+    "기본면",
+    "매운맛"
+   ],
+   "comps": [
+    {
+     "name": "165곳 중 최저",
+     "price": 4620
+    },
+    {
+     "name": "배송비까지 치면",
+     "price": 7580
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 4110
+    },
+    {
+     "m": "26-01",
+     "p": 4110
+    },
+    {
+     "m": "26-02",
+     "p": 2400
+    },
+    {
+     "m": "26-03",
+     "p": 2350
+    },
+    {
+     "m": "26-04",
+     "p": 3850
+    },
+    {
+     "m": "26-05",
+     "p": 4010
+    },
+    {
+     "m": "26-06",
+     "p": 4390
+    },
+    {
+     "m": "26-07",
+     "p": 4390
+    },
+    {
+     "m": "26-08",
+     "p": 4390
+    },
+    {
+     "m": "26-09",
+     "p": 4590
+    },
+    {
+     "m": "26-10",
+     "p": 4591
+    },
+    {
+     "m": "26-11",
+     "p": 4585
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4496928893",
+     "price": 4620,
+     "ship": 3000
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F375299053",
+     "price": 4670,
+     "ship": 3000
+    },
+    {
+     "mall": "보리보리",
+     "code": "TG021",
+     "id": "342948082",
+     "price": 4700,
+     "ship": 3000
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000214819871",
+     "price": 4788,
+     "ship": 3000
+    },
+    {
+     "mall": "하프클럽",
+     "code": "TZ6171",
+     "id": "406788352",
+     "price": 4880,
+     "ship": 2700
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2682492899",
+     "price": 4900,
+     "ship": 3000
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "8772121422",
+     "price": 4940,
+     "ship": 3000
+    },
+    {
+     "mall": "롯데홈쇼핑",
+     "code": "ED903",
+     "id": "3457709956",
+     "price": 4980,
+     "ship": 2700
+    }
+   ],
+   "link": "https://link.coupang.com/a/hKDhwFjWX6",
+   "web": true
+  },
   {
    "uid": "3008341893",
    "mall": "쿠팡",
@@ -8856,20 +9012,6 @@
    "baselineNote": "581곳 중 최저",
    "unit": "[object Object]",
    "link": "http://app.ac/hAG7Rq523",
-   "web": true
-  },
-  {
-   "uid": "7621357506",
-   "mall": "11번가",
-   "title": "홈스타 욕실용 세정제 500ml, 4개",
-   "price": 10070,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/5637148079/B.webp?710318737",
-   "sentAt": "2026-11-01T12:31:40.551+09:00",
-   "saving": 37,
-   "baseline": 16062,
-   "baselineNote": "판매글 9곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/VtV2TIM93",
    "web": true
   }
  ]
