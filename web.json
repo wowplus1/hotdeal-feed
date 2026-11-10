@@ -1,7 +1,152 @@
 {
- "updated": "2026-11-11T01:04:22.761+09:00",
+ "updated": "2026-11-11T01:08:50.643+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "3031221505",
+   "mall": "쿠팡",
+   "title": "짜파게티 범벅 컵라면 70g, 6개",
+   "price": 3690,
+   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/259123202019659-69e60d9d-ee5e-4a86-8254-9b2c761c703b.jpg",
+   "sentAt": "2026-11-11T01:08:50.643+09:00",
+   "saving": 20,
+   "baseline": 4640,
+   "baselineNote": "776곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 615
+   },
+   "check": {
+    "market": 4640,
+    "malls": 776
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": false,
+    "low": 2790
+   },
+   "review": {
+    "score": 4.9,
+    "count": 26594,
+    "low": 38
+   },
+   "comps": [
+    {
+     "name": "776곳 중 최저",
+     "price": 4640
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 3200
+    },
+    {
+     "m": "26-01",
+     "p": 3200
+    },
+    {
+     "m": "26-02",
+     "p": 3200
+    },
+    {
+     "m": "26-03",
+     "p": 3200
+    },
+    {
+     "m": "26-04",
+     "p": 4190
+    },
+    {
+     "m": "26-05",
+     "p": 4140
+    },
+    {
+     "m": "26-06",
+     "p": 2790
+    },
+    {
+     "m": "26-07",
+     "p": 4420
+    },
+    {
+     "m": "26-08",
+     "p": 4400
+    },
+    {
+     "m": "26-09",
+     "p": 4030
+    },
+    {
+     "m": "26-10",
+     "p": 4420
+    },
+    {
+     "m": "26-11",
+     "p": 4381
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "8946372112",
+     "price": 4640,
+     "ship": 3000
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000041981897",
+     "price": 4760,
+     "ship": 3000
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "2034667109",
+     "price": 4820,
+     "ship": 3000
+    },
+    {
+     "mall": "보리보리",
+     "code": "TG021",
+     "id": "336530542",
+     "price": 4880,
+     "ship": 2700
+    },
+    {
+     "mall": "하프클럽",
+     "code": "TZ6171",
+     "id": "406789200",
+     "price": 4880,
+     "ship": 2700
+    },
+    {
+     "mall": "롯데홈쇼핑",
+     "code": "ED903",
+     "id": "3457716446",
+     "price": 4980,
+     "ship": 2700
+    },
+    {
+     "mall": "신세계몰",
+     "code": "ED901",
+     "id": "1000041981897",
+     "price": 5010,
+     "ship": 3000
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000041981897",
+     "price": 5010,
+     "ship": 3000
+    }
+   ],
+   "link": "https://link.coupang.com/a/hCnywAkOv6",
+   "web": true
+  },
   {
    "uid": "5725786239",
    "mall": "쿠팡",
@@ -8998,20 +9143,6 @@
    "baselineNote": "56곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gK0QgkSERE",
-   "web": true
-  },
-  {
-   "uid": "7895312873",
-   "mall": "11번가",
-   "title": "오리온 비쵸비 2mix 6입, 1개",
-   "price": 12160,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9636954180/B.webp?336988533",
-   "sentAt": "2026-11-01T18:24:38.667+09:00",
-   "saving": 10,
-   "baseline": 13490,
-   "baselineNote": "581곳 중 최저",
-   "unit": "[object Object]",
-   "link": "http://app.ac/hAG7Rq523",
    "web": true
   }
  ]
