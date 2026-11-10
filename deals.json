@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-10T11:02:33.367+09:00",
+ "updated": "2026-11-10T12:10:09.154+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7045592558",
+   "mall": "쿠팡",
+   "title": "카멕스 모이스처라이징 튜브 립밤 3개입",
+   "price": 5900,
+   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/9c77/afc9585644b0518d16180feb9254ecff90087fdcbdae640ef9babb67088a.jpg",
+   "sentAt": "2026-11-10T12:10:08.391+09:00",
+   "saving": 52,
+   "baseline": 12320,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 1967
+   },
+   "comps": [
+    {
+     "name": "판매글 5곳 최저가",
+     "price": 12320
+    }
+   ],
+   "link": "https://link.coupang.com/a/iyvt1po9O8"
+  },
   {
    "uid": "8188784935",
    "mall": "지마켓",
@@ -2969,28 +2991,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/ivtNMB5Izc"
-  },
-  {
-   "uid": "1870711805",
-   "mall": "토스쇼핑",
-   "title": "파스쿠치 인텐시브 썬 쌩얼톤업 비비크림, 50ml, 2개",
-   "price": 6250,
-   "image": "https://shopping.toss.im/live/temp/2025-05-28/563f3810-4dbb-4bff-8170-293412d89d68.jpeg",
-   "sentAt": "2026-11-08T15:51:39.329+09:00",
-   "saving": 56,
-   "baseline": 14070,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 3125
-   },
-   "comps": [
-    {
-     "name": "판매글 4곳 최저가",
-     "price": 14070
-    }
-   ],
-   "link": "https://toss.shopping/_m/JHn0tGYk"
   }
  ]
 }
