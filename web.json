@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-10T13:35:01.929+09:00",
+ "updated": "2026-11-10T14:28:58.529+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "4079765383",
+   "mall": "롯데온",
+   "title": "풀무원 샘물 생수 500mL X 60병",
+   "price": 9970,
+   "image": "https://contents.lotteon.com/itemimage/20261109152210/LO/26/54/55/33/56/_2/65/45/53/35/7/LO2654553356_2654553357_1.jpg",
+   "sentAt": "2026-11-10T14:28:58.529+09:00",
+   "saving": 32,
+   "baseline": 14700,
+   "baselineNote": "판매글 28곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 166
+   },
+   "comps": [
+    {
+     "name": "판매글 28곳 최저가",
+     "price": 14700
+    }
+   ],
+   "link": "http://app.ac/O3CqJMJ13",
+   "web": true
+  },
   {
    "uid": "9731367151",
    "mall": "지마켓",
@@ -7895,19 +7918,6 @@
    "baseline": 1590000,
    "baselineNote": "판매글 9곳 최저가",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4742327611",
-   "web": true
-  },
-  {
-   "uid": "9118733835",
-   "mall": "지마켓",
-   "title": "LG G5 25G523B 62cm FHD IPS 200Hz 1ms 게이밍모니터 HDR 229,330원",
-   "price": 198730,
-   "image": "https://gdimg.gmarket.co.kr/4778327123/goodsimage",
-   "sentAt": "2026-10-30T15:31:12.756+09:00",
-   "saving": 20,
-   "baseline": 249000,
-   "baselineNote": "판매글 8곳 최저가",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4778327123",
    "web": true
   }
  ]
