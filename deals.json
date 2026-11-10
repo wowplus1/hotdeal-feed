@@ -1,7 +1,92 @@
 {
- "updated": "2026-11-10T10:00:44.719+09:00",
+ "updated": "2026-11-10T10:40:11.522+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8173576091",
+   "mall": "쿠팡",
+   "title": "몽쉘 생크림 케이크 리치 치즈 카라멜 치플레 6p 222g 2개",
+   "price": 6280,
+   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/a647ecd2-69bb-4455-8102-0329a726c9784199843456585591655.png",
+   "sentAt": "2026-11-10T10:40:10.767+09:00",
+   "saving": 28,
+   "baseline": 8740,
+   "baselineNote": "67곳 중 최저 · 무료배송",
+   "unit": {
+    "label": "개당",
+    "value": 3140
+   },
+   "check": {
+    "market": 8740,
+    "malls": 67,
+    "ship": 0
+   },
+   "comps": [
+    {
+     "name": "67곳 중 최저 · 무료배송",
+     "price": 8740
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F686074247",
+     "price": 8740,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4878261182",
+     "price": 8740,
+     "ship": 0
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000889818023",
+     "price": 8835,
+     "ship": 0
+    },
+    {
+     "mall": "SK스토아",
+     "code": "TSB275",
+     "id": "69818975",
+     "price": 9000,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9680379885",
+     "price": 9030,
+     "ship": 0
+    },
+    {
+     "mall": "롯데백화점",
+     "code": "TLC16",
+     "id": "LE1222693687",
+     "price": 9190,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LE1222693687",
+     "price": 9190,
+     "ship": 0
+    },
+    {
+     "mall": "현대Hmall",
+     "code": "ED907",
+     "id": "2255451721",
+     "price": 9470,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/iyo2Yvus0W"
+  },
   {
    "uid": "3765874496",
    "mall": "지마켓",
@@ -3010,28 +3095,6 @@
     }
    ],
    "link": "http://app.ac/C3MtckJ23"
-  },
-  {
-   "uid": "7585935332",
-   "mall": "11번가",
-   "title": "NEW 페브리즈 섬유탈취제 370ml 3개 모음",
-   "price": 11800,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/0/3/9/1/2/8/bQSXP/7267039128_242120679.webp",
-   "sentAt": "2026-11-08T11:39:47.400+09:00",
-   "saving": 28,
-   "baseline": 16380,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 3933
-   },
-   "comps": [
-    {
-     "name": "판매글 5곳 최저가",
-     "price": 16380
-    }
-   ],
-   "link": "http://app.ac/8jpj35a83"
   }
  ]
 }
