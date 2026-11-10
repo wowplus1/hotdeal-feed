@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-10T18:43:25.855+09:00",
+ "updated": "2026-11-10T18:43:58.922+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8279054930",
+   "mall": "롯데온",
+   "title": "대구 북성로식 대용량 매운 양념 무뼈 닭발 1KG",
+   "price": 15800,
+   "image": "https://contents.lotteon.com/itemimage/20261109131725/LO/28/07/19/62/28/_2/80/71/96/22/9/LO2807196228_2807196229_1.jpg",
+   "sentAt": "2026-11-10T18:43:58.192+09:00",
+   "saving": 37,
+   "baseline": 24890,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": {
+    "label": "100g당",
+    "value": 1580
+   },
+   "comps": [
+    {
+     "name": "판매글 4곳 최저가",
+     "price": 24890
+    }
+   ],
+   "link": "http://app.ac/jbGKs3l83"
+  },
   {
    "uid": "7739892121",
    "mall": "쿠팡",
@@ -3014,28 +3036,6 @@
    "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/77276365654004-a842d9c0-df4d-44fe-82a3-5dc3bc7ba775.jpg",
    "sentAt": "2026-11-09T07:39:18.221+09:00",
    "link": "https://link.coupang.com/a/hr6HuCo0Ye"
-  },
-  {
-   "uid": "5696188951",
-   "mall": "쿠팡",
-   "title": "마즈 믹스드 패밀리팩, 870g, 1개",
-   "price": 11600,
-   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/6894/968640094a3d2effd2946a6de80896556d81574d26c917ccce5ea333113e.jpg",
-   "sentAt": "2026-11-09T07:27:09.197+09:00",
-   "saving": 49,
-   "baseline": 22790,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": {
-    "label": "100g당",
-    "value": 1333
-   },
-   "comps": [
-    {
-     "name": "판매글 3곳 최저가",
-     "price": 22790
-    }
-   ],
-   "link": "https://link.coupang.com/a/iwwkVMUyLA"
   }
  ]
 }
