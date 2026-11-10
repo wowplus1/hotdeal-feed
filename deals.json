@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-10T15:01:48.550+09:00",
+ "updated": "2026-11-10T16:33:28.097+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4076606175",
+   "mall": "지마켓",
+   "title": "삼양 나가사끼짬뽕 20입/멀티팩",
+   "price": 12900,
+   "image": "https://gdimg.gmarket.co.kr/3520078509/goodsimage",
+   "sentAt": "2026-11-10T16:33:27.168+09:00",
+   "unit": {
+    "label": "개당",
+    "value": 645
+   },
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=3520078509"
+  },
   {
    "uid": "3321818534",
    "mall": "토스쇼핑",
@@ -3019,28 +3032,6 @@
     }
    ],
    "link": "https://toss.im/_m/zzsu6ufn"
-  },
-  {
-   "uid": "7212455770",
-   "mall": "11번가",
-   "title": "차오차이 레토르트 짜장 혼합 5종, 180g, 10개입, 1세트",
-   "price": 13460,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/7451842806/B.webp?865479415",
-   "sentAt": "2026-11-08T19:19:37.310+09:00",
-   "saving": 27,
-   "baseline": 18470,
-   "baselineNote": "판매글 13곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 1346
-   },
-   "comps": [
-    {
-     "name": "판매글 13곳 최저가",
-     "price": 18470
-    }
-   ],
-   "link": "http://app.ac/ktn8uVM03"
   }
  ]
 }
