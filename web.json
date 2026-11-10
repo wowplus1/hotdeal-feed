@@ -1,7 +1,157 @@
 {
- "updated": "2026-11-10T17:18:27.126+09:00",
+ "updated": "2026-11-10T17:28:18.517+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "7018831438",
+   "mall": "지마켓",
+   "title": "코카콜라 제로 음료 190ml 모음 60캔",
+   "price": 22630,
+   "image": "https://gdimg.gmarket.co.kr/4865597003/goodsimage",
+   "sentAt": "2026-11-10T17:28:18.517+09:00",
+   "saving": 11,
+   "baseline": 25290,
+   "baselineNote": "1170곳 중 최저 · 무료배송",
+   "unit": {
+    "label": "개당",
+    "value": 377
+   },
+   "check": {
+    "market": 25290,
+    "malls": 1170,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": false,
+    "low": 17500
+   },
+   "review": {
+    "score": 4.7,
+    "count": 16329,
+    "low": 114
+   },
+   "spec": [
+    "캔류",
+    "제로슈거"
+   ],
+   "comps": [
+    {
+     "name": "1170곳 중 최저 · 무료배송",
+     "price": 25290
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 26090
+    },
+    {
+     "m": "26-01",
+     "p": 29160
+    },
+    {
+     "m": "26-02",
+     "p": 27030
+    },
+    {
+     "m": "26-03",
+     "p": 28310
+    },
+    {
+     "m": "26-04",
+     "p": 22300
+    },
+    {
+     "m": "26-05",
+     "p": 26840
+    },
+    {
+     "m": "26-06",
+     "p": 28660
+    },
+    {
+     "m": "26-07",
+     "p": 25240
+    },
+    {
+     "m": "26-08",
+     "p": 23100
+    },
+    {
+     "m": "26-09",
+     "p": 17500
+    },
+    {
+     "m": "26-10",
+     "p": 22720
+    },
+    {
+     "m": "26-11",
+     "p": 25290
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2795999140",
+     "price": 25290,
+     "ship": 0
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F684350669",
+     "price": 27720,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4876070772",
+     "price": 27720,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9676370499",
+     "price": 31020,
+     "ship": 0
+    },
+    {
+     "mall": "TW231E",
+     "code": "TW231E",
+     "id": "7861591323",
+     "price": 33000,
+     "ship": 4000
+    },
+    {
+     "mall": "주식회사 신세계라이브쇼핑",
+     "code": "TRB03",
+     "id": "57981940",
+     "price": 33750,
+     "ship": 0
+    },
+    {
+     "mall": "현대Hmall",
+     "code": "ED907",
+     "id": "2253764748",
+     "price": 34940,
+     "ship": 0
+    },
+    {
+     "mall": "롯데홈쇼핑",
+     "code": "ED903",
+     "id": "3263136854",
+     "price": 34950,
+     "ship": 0
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4865597003",
+   "web": true
+  },
   {
    "uid": "6996897484",
    "mall": "롯데온",
@@ -8200,20 +8350,6 @@
    "baseline": 6690,
    "baselineNote": "31곳 중 최저",
    "link": "https://link.coupang.com/a/ihKMlGTwuy",
-   "web": true
-  },
-  {
-   "uid": "5176624099",
-   "mall": "쿠팡",
-   "title": "비타500 C PLUS, 100ml, 50개",
-   "price": 21630,
-   "image": "https://t3a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/551827844203589-dcc43579-539f-41f7-8aca-34e687c28c0c.jpg",
-   "sentAt": "2026-10-31T09:04:50.142+09:00",
-   "saving": 18,
-   "baseline": 26251,
-   "baselineNote": "판매글 20곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/hSK1c1ZZ7Y",
    "web": true
   }
  ]
