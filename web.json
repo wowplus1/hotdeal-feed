@@ -1,7 +1,158 @@
 {
- "updated": "2026-11-10T15:58:48.990+09:00",
+ "updated": "2026-11-10T16:59:58.746+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "2556060128",
+   "mall": "쿠팡",
+   "title": "라운드랩 1025 독도크림 80ml",
+   "price": 11500,
+   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/441141100228821-4e9d2791-6eff-4e10-a093-8f3516cd933c.jpg",
+   "sentAt": "2026-11-10T16:59:58.746+09:00",
+   "saving": 13,
+   "baseline": 13290,
+   "baselineNote": "165곳 중 최저",
+   "check": {
+    "market": 13290,
+    "malls": 165,
+    "delivered": 15280
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": false,
+    "low": 8740
+   },
+   "review": {
+    "score": 4.8,
+    "count": 199,
+    "low": 1
+   },
+   "spec": [
+    "모든피부",
+    "민감성",
+    "친환경패키지, 착한성분"
+   ],
+   "comps": [
+    {
+     "name": "165곳 중 최저",
+     "price": 13290
+    },
+    {
+     "name": "배송비까지 치면",
+     "price": 15280
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 8740
+    },
+    {
+     "m": "26-01",
+     "p": 9140
+    },
+    {
+     "m": "26-02",
+     "p": 9140
+    },
+    {
+     "m": "26-03",
+     "p": 9000
+    },
+    {
+     "m": "26-04",
+     "p": 10070
+    },
+    {
+     "m": "26-05",
+     "p": 10460
+    },
+    {
+     "m": "26-06",
+     "p": 11050
+    },
+    {
+     "m": "26-07",
+     "p": 12070
+    },
+    {
+     "m": "26-08",
+     "p": 9510
+    },
+    {
+     "m": "26-09",
+     "p": 11210
+    },
+    {
+     "m": "26-10",
+     "p": 11210
+    },
+    {
+     "m": "26-11",
+     "p": 11210
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9277448804",
+     "price": 13290,
+     "ship": 3500
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2657502569",
+     "price": 13300,
+     "ship": 3500
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4644184251",
+     "price": 15280,
+     "ship": 0
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F451493131",
+     "price": 15340,
+     "ship": 0
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000815797620",
+     "price": 18326,
+     "ship": 3000
+    },
+    {
+     "mall": "신세계몰",
+     "code": "ED901",
+     "id": "1000814564725",
+     "price": 18544,
+     "ship": 3000
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000814564725",
+     "price": 18544,
+     "ship": 3000
+    },
+    {
+     "mall": "TY271",
+     "code": "TY271",
+     "id": "11126547093",
+     "price": 18900,
+     "ship": 3000
+    }
+   ],
+   "link": "https://link.coupang.com/a/iyQcrkbIJg",
+   "web": true
+  },
   {
    "uid": "1021774643",
    "mall": "쿠팡",
@@ -7930,17 +8081,6 @@
    "baselineNote": "판매글 5곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4257579867",
-   "web": true
-  },
-  {
-   "uid": "4067531668",
-   "mall": "11번가",
-   "title": "빙그레 아카페라 사이즈업 350ml 20입 아메리카노",
-   "price": 17960,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/3/3/8/7/1/5/ZEQmd/4302338715_241243968.webp",
-   "sentAt": "2026-10-31T00:01:09.800+09:00",
-   "unit": "[object Object]",
-   "link": "http://app.ac/Vqncyi273",
    "web": true
   }
  ]
