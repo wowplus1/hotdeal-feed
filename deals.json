@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-11T10:03:49.170+09:00",
+ "updated": "2026-11-11T10:04:51.901+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1733641349",
+   "mall": "쿠팡",
+   "title": "브리델 버터 200g 3개",
+   "price": 11000,
+   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/a07f/74d1bbc21301df799aae9c5b2dcc33fb019181d6ee5400ad13b6a2a84365.jpg",
+   "sentAt": "2026-11-11T10:04:51.360+09:00",
+   "saving": 31,
+   "baseline": 15930,
+   "baselineNote": "판매글 11곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 3667
+   },
+   "comps": [
+    {
+     "name": "판매글 11곳 최저가",
+     "price": 15930
+    }
+   ],
+   "link": "https://link.coupang.com/a/iz1nNhVA0O"
+  },
   {
    "uid": "5853814732",
    "mall": "쿠팡",
@@ -3538,28 +3560,6 @@
     }
    ],
    "link": "https://toss.shopping/_m/Lx0KGYId"
-  },
-  {
-   "uid": "4937993650",
-   "mall": "지마켓",
-   "title": "맥스봉치즈 1.08kg",
-   "price": 10900,
-   "image": "https://gdimg.gmarket.co.kr/2435999418/goodsimage",
-   "sentAt": "2026-11-09T14:08:40.943+09:00",
-   "saving": 41,
-   "baseline": 18370,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": {
-    "label": "100g당",
-    "value": 1009
-   },
-   "comps": [
-    {
-     "name": "판매글 4곳 최저가",
-     "price": 18370
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2435999418"
   }
  ]
 }
