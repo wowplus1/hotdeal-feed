@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-11T10:50:03.591+09:00",
+ "updated": "2026-11-11T10:58:20.128+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2737583527",
+   "mall": "11번가",
+   "title": "풍년보감 고려홍삼정 투데이 굿타임스틱 100개",
+   "price": 14900,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/5462190567/B.webp?25240718",
+   "sentAt": "2026-11-11T10:58:19.342+09:00",
+   "saving": 47,
+   "baseline": 28240,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 149
+   },
+   "comps": [
+    {
+     "name": "판매글 3곳 최저가",
+     "price": 28240
+    }
+   ],
+   "link": "http://app.ac/ljpKPXa43"
+  },
   {
    "uid": "3988133204",
    "mall": "쿠팡",
@@ -3592,24 +3614,6 @@
     }
    ],
    "link": "http://app.ac/7jpW8la43"
-  },
-  {
-   "uid": "9282612646",
-   "mall": "토스쇼핑",
-   "title": "베라 뱀부 뽑아쓰는 키친타올, 3겹, 팝업, 100매, 9팩",
-   "price": 7818,
-   "image": "https://shopping.toss.im/live/taca/ai/MWI5Yjdh/V1N4MnJHL1ovRVJFTncvSDNyM0xZWkdKYmd2bGpGN1lUSFA1UmpsbWQzcz0.png",
-   "sentAt": "2026-11-09T17:26:05.966+09:00",
-   "saving": 26,
-   "baseline": 10580,
-   "baselineNote": "판매글 12곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 12곳 최저가",
-     "price": 10580
-    }
-   ],
-   "link": "https://toss.shopping/_m/XnHIiJpi"
   }
  ]
 }
