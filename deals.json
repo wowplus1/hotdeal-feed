@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-11T16:34:17.341+09:00",
+ "updated": "2026-11-11T17:23:17.073+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7977109571",
+   "mall": "지마켓",
+   "title": "국내산 전라도 파김치 2kg",
+   "price": 9490,
+   "image": "https://gdimg.gmarket.co.kr/4742482277/goodsimage",
+   "sentAt": "2026-11-11T17:23:16.492+09:00",
+   "saving": 47,
+   "baseline": 17900,
+   "baselineNote": "다른 곳 최저",
+   "unit": {
+    "label": "100g당",
+    "value": 475
+   },
+   "comps": [
+    {
+     "name": "다른 곳 최저",
+     "price": 17900
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4742482277"
+  },
   {
    "uid": "4642295886",
    "mall": "지마켓",
@@ -3993,24 +4015,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iyXzBQlzCS"
-  },
-  {
-   "uid": "7879161252",
-   "mall": "롯데온",
-   "title": "후드 스웨이드 다운 점퍼AM0FOJO402-57B",
-   "price": 67300,
-   "image": "https://contents.lotteon.com/itemimage/20261105145511/LE/24/25/94/92/48/bndl_img/LE2425949248_1.jpg",
-   "sentAt": "2026-11-10T18:28:26.548+09:00",
-   "saving": 74,
-   "baseline": 263450,
-   "baselineNote": "판매글 6곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 6곳 최저가",
-     "price": 263450
-    }
-   ],
-   "link": "http://app.ac/rtneQ5M43"
   }
  ]
 }
