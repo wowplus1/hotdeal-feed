@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-11T14:28:28.402+09:00",
+ "updated": "2026-11-11T15:00:42.346+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8570793257",
+   "mall": "쿠팡",
+   "title": "조지아 블랙 무라벨 커피, 370ml, 20개",
+   "price": 16100,
+   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/129299413373747-329dd76d-4db8-417c-b8ac-4b62ff55c1d1.jpg",
+   "sentAt": "2026-11-11T15:00:41.691+09:00",
+   "saving": 34,
+   "baseline": 24480,
+   "baselineNote": "판매글 29곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 805
+   },
+   "comps": [
+    {
+     "name": "판매글 29곳 최저가",
+     "price": 24480
+    }
+   ],
+   "link": "https://link.coupang.com/a/gwhWYW2f3k"
+  },
   {
    "uid": "5723152247",
    "mall": "지마켓",
@@ -3807,28 +3829,6 @@
     "value": 2375
    },
    "link": "https://link.coupang.com/a/iyGebu0uUm"
-  },
-  {
-   "uid": "1245890397",
-   "mall": "토스쇼핑",
-   "title": "널담 고단백 저당 포카치아, 토마토 바질치즈, 90g, 8개",
-   "price": 11340,
-   "image": "https://shopping.toss.im/live/taca/ai/OWFmMzA5/QU42cDBacHRFMHBXcDZVOEpxbHVvdENwcFp0ZjBWZ0Y5SjlyYkFMRXpzcnM.png",
-   "sentAt": "2026-11-10T13:51:45.330+09:00",
-   "saving": 35,
-   "baseline": 17480,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 1418
-   },
-   "comps": [
-    {
-     "name": "판매글 3곳 최저가",
-     "price": 17480
-    }
-   ],
-   "link": "https://toss.im/_m/B0yiVkKj"
   }
  ]
 }
