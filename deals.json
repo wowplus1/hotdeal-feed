@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-11T10:44:48.252+09:00",
+ "updated": "2026-11-11T10:50:03.591+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3988133204",
+   "mall": "쿠팡",
+   "title": "도브 miffy 뷰티너리싱 바디워시 1kg",
+   "price": 4710,
+   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/07/01/12/9/bba9df4d-adc5-4207-b7ea-46d330c3e001.png",
+   "sentAt": "2026-11-11T10:50:03.013+09:00",
+   "saving": 47,
+   "baseline": 8930,
+   "baselineNote": "판매글 10곳 최저가",
+   "unit": {
+    "label": "100g당",
+    "value": 471
+   },
+   "comps": [
+    {
+     "name": "판매글 10곳 최저가",
+     "price": 8930
+    }
+   ],
+   "link": "https://link.coupang.com/a/iz4FcgypR6"
+  },
   {
    "uid": "9880283326",
    "mall": "지마켓",
@@ -3588,28 +3610,6 @@
     }
    ],
    "link": "https://toss.shopping/_m/XnHIiJpi"
-  },
-  {
-   "uid": "2634081442",
-   "mall": "지마켓",
-   "title": "제주 감귤 중대과 10kg",
-   "price": 8840,
-   "image": "https://gdimg.gmarket.co.kr/4879764475/goodsimage",
-   "sentAt": "2026-11-09T17:25:05.303+09:00",
-   "saving": 23,
-   "baseline": 11430,
-   "baselineNote": "판매글 8곳 최저가",
-   "unit": {
-    "label": "100g당",
-    "value": 88
-   },
-   "comps": [
-    {
-     "name": "판매글 8곳 최저가",
-     "price": 11430
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4879764475"
   }
  ]
 }
