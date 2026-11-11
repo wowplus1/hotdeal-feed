@@ -1,7 +1,139 @@
 {
- "updated": "2026-11-11T13:37:03.124+09:00",
+ "updated": "2026-11-11T13:43:19.621+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9909948407",
+   "mall": "쿠팡",
+   "title": "배홍동 막국수 114g, 4개",
+   "price": 2980,
+   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/02/20/13/0/dd5e37f9-7b10-478e-920e-8d213c53014b.png",
+   "sentAt": "2026-11-11T13:43:19.032+09:00",
+   "saving": 38,
+   "baseline": 4820,
+   "baselineNote": "100곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 745
+   },
+   "check": {
+    "market": 4820,
+    "malls": 100
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": false,
+    "low": 2050
+   },
+   "review": {
+    "score": 4.9,
+    "count": 3797,
+    "low": 0
+   },
+   "comps": [
+    {
+     "name": "100곳 중 최저",
+     "price": 4820
+    }
+   ],
+   "trend": [
+    {
+     "m": "26-03",
+     "p": 4400
+    },
+    {
+     "m": "26-04",
+     "p": 4180
+    },
+    {
+     "m": "26-05",
+     "p": 2050
+    },
+    {
+     "m": "26-06",
+     "p": 3300
+    },
+    {
+     "m": "26-07",
+     "p": 3300
+    },
+    {
+     "m": "26-08",
+     "p": 3300
+    },
+    {
+     "m": "26-09",
+     "p": 3300
+    },
+    {
+     "m": "26-10",
+     "p": 4826
+    },
+    {
+     "m": "26-11",
+     "p": 4743
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9417238452",
+     "price": 4820,
+     "ship": 3000
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000805476503",
+     "price": 4921,
+     "ship": 3000
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2631414256",
+     "price": 5040,
+     "ship": 2700
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4847467315",
+     "price": 5040,
+     "ship": 3000
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F655174965",
+     "price": 5040,
+     "ship": 3000
+    },
+    {
+     "mall": "보리보리",
+     "code": "TG021",
+     "id": "418520449",
+     "price": 5060,
+     "ship": 2700
+    },
+    {
+     "mall": "하프클럽",
+     "code": "TZ6171",
+     "id": "418520482",
+     "price": 5060,
+     "ship": 2700
+    },
+    {
+     "mall": "롯데홈쇼핑",
+     "code": "ED903",
+     "id": "3457715733",
+     "price": 5170,
+     "ship": 2700
+    }
+   ],
+   "link": "https://link.coupang.com/a/iAg2bFrBx6"
+  },
   {
    "uid": "2658603883",
    "mall": "토스쇼핑",
@@ -3751,24 +3883,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iyo2Yvus0W"
-  },
-  {
-   "uid": "3765874496",
-   "mall": "지마켓",
-   "title": "카누 돌체구스토 호환캡슐 48캡슐+16캡슐 증정 총64캡",
-   "price": 19530,
-   "image": "https://gdimg.gmarket.co.kr/3336362692/goodsimage",
-   "sentAt": "2026-11-10T10:00:43.956+09:00",
-   "saving": 51,
-   "baseline": 39470,
-   "baselineNote": "판매글 5곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 5곳 최저가",
-     "price": 39470
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=3336362692"
   }
  ]
 }
