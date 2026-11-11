@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-11T10:23:08.305+09:00",
+ "updated": "2026-11-11T10:38:13.285+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5286097204",
+   "mall": "토스쇼핑",
+   "title": "광천김 3대째 달인 김자반, 60g, 5봉",
+   "price": 7380,
+   "image": "https://shopping.toss.im/live/taca/ai/NTk0MWRl/QUtXN3ZDbFc2M2x6VjZ0NWIycFQ1dGF0T1dmVHJXRzFyMXJVV1hENjFPYk4.png",
+   "sentAt": "2026-11-11T10:38:12.513+09:00",
+   "saving": 37,
+   "baseline": 11690,
+   "baselineNote": "다른 곳 최저",
+   "unit": {
+    "label": "개당",
+    "value": 1476
+   },
+   "comps": [
+    {
+     "name": "다른 곳 최저",
+     "price": 11690
+    }
+   ],
+   "link": "https://toss.im/_m/HxGNfEKp"
+  },
   {
    "uid": "1844647543",
    "mall": "쿠팡",
@@ -3569,129 +3591,6 @@
     "where": "277곳 중 최저"
    },
    "link": "https://link.coupang.com/a/iw6zXW4e4a"
-  },
-  {
-   "uid": "9848682896",
-   "mall": "쿠팡",
-   "title": "청우식품 쫀득초코칩, 240g, 2개",
-   "price": 4540,
-   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/588115208393310-f53052c5-45f8-4541-ac6d-72f34cbb2883.jpg",
-   "sentAt": "2026-11-09T15:23:09.663+09:00",
-   "saving": 43,
-   "baseline": 7943,
-   "baselineNote": "25곳 중 최저",
-   "unit": {
-    "label": "개당",
-    "value": 2270
-   },
-   "check": {
-    "market": 7943,
-    "malls": 25
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": true,
-    "low": 6610
-   },
-   "comps": [
-    {
-     "name": "25곳 중 최저",
-     "price": 7943
-    }
-   ],
-   "trend": [
-    {
-     "m": "26-04",
-     "p": 6610
-    },
-    {
-     "m": "26-05",
-     "p": 6780
-    },
-    {
-     "m": "26-06",
-     "p": 7360
-    },
-    {
-     "m": "26-07",
-     "p": 7440
-    },
-    {
-     "m": "26-08",
-     "p": 7440
-    },
-    {
-     "m": "26-09",
-     "p": 7600
-    },
-    {
-     "m": "26-10",
-     "p": 7784
-    },
-    {
-     "m": "26-11",
-     "p": 7868
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "SSG.COM",
-     "code": "TN118",
-     "id": "1000042935240",
-     "price": 7943,
-     "ship": 3000
-    },
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "2933078130",
-     "price": 8120,
-     "ship": 3000
-    },
-    {
-     "mall": "이마트몰",
-     "code": "EE311",
-     "id": "1000042935207",
-     "price": 8540,
-     "ship": 3000
-    },
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "D656989948",
-     "price": 8540,
-     "ship": 3000
-    },
-    {
-     "mall": "신세계몰",
-     "code": "ED901",
-     "id": "1000042935207",
-     "price": 8540,
-     "ship": 3000
-    },
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "1838387389",
-     "price": 8540,
-     "ship": 3000
-    },
-    {
-     "mall": "SK스토아",
-     "code": "TSB275",
-     "id": "39088081",
-     "price": 9030,
-     "ship": 3000
-    },
-    {
-     "mall": "TUC31F",
-     "code": "TUC31F",
-     "id": "11973123413",
-     "price": 9900,
-     "ship": 0
-    }
-   ],
-   "link": "https://link.coupang.com/a/iw4mZeqvjF"
   }
  ]
 }
