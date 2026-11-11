@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-11T17:46:10.683+09:00",
+ "updated": "2026-11-11T17:48:59.818+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1598224878",
+   "mall": "롯데온",
+   "title": "어가찬 국내산 햇 멸치 1.5kg 가이리 지리 고바 다시",
+   "price": 8960,
+   "image": "https://contents.lotteon.com/itemimage/20260811153242/LO/21/92/43/42/78/_2/19/24/34/28/6/LO2192434278_2192434286_1.jpg",
+   "sentAt": "2026-11-11T17:48:58.803+09:00",
+   "saving": 50,
+   "baseline": 17990,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": {
+    "label": "100g당",
+    "value": 597
+   },
+   "comps": [
+    {
+     "name": "판매글 5곳 최저가",
+     "price": 17990
+    }
+   ],
+   "link": "http://app.ac/iECqpoS93"
+  },
   {
    "uid": "7070389413",
    "mall": "토스쇼핑",
@@ -3886,28 +3908,6 @@
     "value": 360
    },
    "link": "http://app.ac/ibp01Zl63"
-  },
-  {
-   "uid": "8279054930",
-   "mall": "롯데온",
-   "title": "대구 북성로식 대용량 매운 양념 무뼈 닭발 1KG",
-   "price": 15800,
-   "image": "https://contents.lotteon.com/itemimage/20261109131725/LO/28/07/19/62/28/_2/80/71/96/22/9/LO2807196228_2807196229_1.jpg",
-   "sentAt": "2026-11-10T18:43:58.192+09:00",
-   "saving": 37,
-   "baseline": 24890,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": {
-    "label": "100g당",
-    "value": 1580
-   },
-   "comps": [
-    {
-     "name": "판매글 4곳 최저가",
-     "price": 24890
-    }
-   ],
-   "link": "http://app.ac/jbGKs3l83"
   }
  ]
 }
