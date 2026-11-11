@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-11T14:19:32.293+09:00",
+ "updated": "2026-11-11T14:23:40.524+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7740299022",
+   "mall": "쿠팡",
+   "title": "육개장 라면 116g, 4개,",
+   "price": 2790,
+   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/748474382252435-52d2a90e-b55d-49c3-bdf3-6ea6c4ec1ff2.jpg",
+   "sentAt": "2026-11-11T14:23:39.978+09:00",
+   "unit": {
+    "label": "개당",
+    "value": 698
+   },
+   "link": "https://link.coupang.com/a/iAjT1ZFikC"
+  },
   {
    "uid": "8522433846",
    "mall": "쿠팡",
@@ -3925,28 +3938,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=1604440426"
-  },
-  {
-   "uid": "7045592558",
-   "mall": "쿠팡",
-   "title": "카멕스 모이스처라이징 튜브 립밤 3개입",
-   "price": 5900,
-   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/9c77/afc9585644b0518d16180feb9254ecff90087fdcbdae640ef9babb67088a.jpg",
-   "sentAt": "2026-11-10T12:10:08.391+09:00",
-   "saving": 52,
-   "baseline": 12320,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 1967
-   },
-   "comps": [
-    {
-     "name": "판매글 5곳 최저가",
-     "price": 12320
-    }
-   ],
-   "link": "https://link.coupang.com/a/iyvt1po9O8"
   }
  ]
 }
