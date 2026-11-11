@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-11T21:50:15.781+09:00",
+ "updated": "2026-11-11T22:01:33.043+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "3203384598",
+   "mall": "쿠팡",
+   "title": "애경바세린 데일리 모이스처 바디로션 450ml 2,780원",
+   "price": 2780,
+   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/179937400568482-7cd760b4-b1d5-4d68-a828-e63dcbc2bf65.png",
+   "sentAt": "2026-11-11T22:01:33.043+09:00",
+   "saving": 29,
+   "baseline": 3920,
+   "baselineNote": "343곳 중 최저",
+   "check": {
+    "market": 3920,
+    "malls": 343
+   },
+   "comps": [
+    {
+     "name": "343곳 중 최저",
+     "price": 3920
+    }
+   ],
+   "link": "https://link.coupang.com/a/iAQBQEOf48",
+   "web": true
+  },
   {
    "uid": "2478977536",
    "mall": "롯데온",
@@ -10406,19 +10429,6 @@
    "baselineNote": "판매글 20곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4181779886",
-   "web": true
-  },
-  {
-   "uid": "8891846352",
-   "mall": "지마켓",
-   "title": "쿠진아트 에어프라이어 오븐 toa 75kr",
-   "price": 179000,
-   "image": "https://gdimg.gmarket.co.kr/4565350697/goodsimage",
-   "sentAt": "2026-11-02T11:00:07.034+09:00",
-   "saving": 19,
-   "baseline": 220000,
-   "baselineNote": "88곳 중 최저 · 무료배송",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4565350697",
    "web": true
   }
  ]
