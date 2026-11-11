@@ -1,7 +1,24 @@
 {
- "updated": "2026-11-11T15:00:42.346+09:00",
+ "updated": "2026-11-11T15:01:27.807+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3792044204",
+   "mall": "지마켓",
+   "title": "몬스터에너지 355ml x 24캔",
+   "price": 24960,
+   "image": "https://gdimg.gmarket.co.kr/4902849991/goodsimage",
+   "sentAt": "2026-11-11T15:01:27.247+09:00",
+   "unit": {
+    "label": "개당",
+    "value": 1040
+   },
+   "alt": {
+    "price": 28640,
+    "where": "1286곳 중 최저"
+   },
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4902849991"
+  },
   {
    "uid": "8570793257",
    "mall": "쿠팡",
@@ -3816,19 +3833,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iyGeMhceMC"
-  },
-  {
-   "uid": "5549855483",
-   "mall": "쿠팡",
-   "title": "비비고 큰 채소가득 고기만두 고기 & 양배추 , 400g, 4개",
-   "price": 9500,
-   "image": "https://thumbnail1.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/082d127f-9573-459b-ae49-0f4ddd4784d01755586744102689689.png",
-   "sentAt": "2026-11-10T14:40:57.847+09:00",
-   "unit": {
-    "label": "개당",
-    "value": 2375
-   },
-   "link": "https://link.coupang.com/a/iyGebu0uUm"
   }
  ]
 }
