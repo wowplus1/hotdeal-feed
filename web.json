@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-11T14:54:54.770+09:00",
+ "updated": "2026-11-11T15:20:04.488+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "8487787256",
+   "mall": "11번가",
+   "title": "LG G5 25G523B 62cm 게이밍 모니터 IPS 200Hz 1ms HDR지원 3면슬림베젤",
+   "price": 179980,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9423184897/B.webp?789680992",
+   "sentAt": "2026-11-11T15:20:04.488+09:00",
+   "saving": 24,
+   "baseline": 236480,
+   "baselineNote": "판매글 9곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 9곳 최저가",
+     "price": 236480
+    }
+   ],
+   "link": "http://app.ac/oAVeu2563",
+   "web": true
+  },
   {
    "uid": "8217144821",
    "mall": "11번가",
@@ -10247,19 +10266,6 @@
    "baseline": 1076210,
    "baselineNote": "판매글 21곳 최저가",
    "link": "http://app.ac/SqDqJS203",
-   "web": true
-  },
-  {
-   "uid": "8239889761",
-   "mall": "지마켓",
-   "title": "살부루아 유기농 엑스트라버진 올리브유 500ml 2병 + 250ml 증정",
-   "price": 24390,
-   "image": "https://gdimg.gmarket.co.kr/4460724686/goodsimage",
-   "sentAt": "2026-11-02T09:38:35.069+09:00",
-   "saving": 23,
-   "baseline": 31520,
-   "baselineNote": "84곳 중 최저",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4460724686",
    "web": true
   }
  ]
