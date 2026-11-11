@@ -1,7 +1,157 @@
 {
- "updated": "2026-11-11T10:01:19.169+09:00",
+ "updated": "2026-11-11T10:03:49.170+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5853814732",
+   "mall": "쿠팡",
+   "title": "불닭볶음면 큰컵 105g, 6개",
+   "price": 5380,
+   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/437765084703826-1230afe2-d1df-4479-8257-f4a4738d2b51.png",
+   "sentAt": "2026-11-11T10:03:48.609+09:00",
+   "saving": 35,
+   "baseline": 8260,
+   "baselineNote": "112곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 897
+   },
+   "check": {
+    "market": 8260,
+    "malls": 112,
+    "delivered": 10080
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": false,
+    "low": 5120
+   },
+   "spec": [
+    "컵라면",
+    "볶음라면",
+    "기본면",
+    "매운맛"
+   ],
+   "comps": [
+    {
+     "name": "112곳 중 최저",
+     "price": 8260
+    },
+    {
+     "name": "배송비까지 치면",
+     "price": 10080
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 7260
+    },
+    {
+     "m": "26-01",
+     "p": 5120
+    },
+    {
+     "m": "26-02",
+     "p": 5120
+    },
+    {
+     "m": "26-03",
+     "p": 5120
+    },
+    {
+     "m": "26-04",
+     "p": 5120
+    },
+    {
+     "m": "26-05",
+     "p": 5120
+    },
+    {
+     "m": "26-06",
+     "p": 5120
+    },
+    {
+     "m": "26-07",
+     "p": 5120
+    },
+    {
+     "m": "26-08",
+     "p": 5120
+    },
+    {
+     "m": "26-09",
+     "p": 5120
+    },
+    {
+     "m": "26-10",
+     "p": 7920
+    },
+    {
+     "m": "26-11",
+     "p": 8260
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "C287334397",
+     "price": 8260,
+     "ship": 3000
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "2034490804",
+     "price": 8280,
+     "ship": 3000
+    },
+    {
+     "mall": "롯데마트몰",
+     "code": "TU14D",
+     "id": "OS8801073250604",
+     "price": 8400,
+     "ship": 3000
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000552692375",
+     "price": 9709,
+     "ship": 3000
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "7598371198",
+     "price": 10080,
+     "ship": 0
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000552692375",
+     "price": 10220,
+     "ship": 3000
+    },
+    {
+     "mall": "TW9178",
+     "code": "TW9178",
+     "id": "11887614454",
+     "price": 10470,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LML000004949544",
+     "price": 10560,
+     "ship": 3000
+    }
+   ],
+   "link": "https://link.coupang.com/a/h3eBEzqmdg"
+  },
   {
    "uid": "4943998752",
    "mall": "쿠팡",
@@ -3410,24 +3560,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2435999418"
-  },
-  {
-   "uid": "4276257117",
-   "mall": "토스쇼핑",
-   "title": "테팔 셰프드 프랑스 궁중팬, 28cm, 1개",
-   "price": 22850,
-   "image": "https://shopping.toss.im/live/taca/ai/ZTZjNTE5/VExiU2FTeVV0U2tTa3BWa1ZHbHNscGxwSnBhaksxclNqV3l0UzFLVVMwcz0.png",
-   "sentAt": "2026-11-09T12:31:16.061+09:00",
-   "saving": 51,
-   "baseline": 46710,
-   "baselineNote": "판매글 7곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 7곳 최저가",
-     "price": 46710
-    }
-   ],
-   "link": "https://toss.im/_m/XxuP1047"
   }
  ]
 }
