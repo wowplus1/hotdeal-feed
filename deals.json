@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-11T13:48:18.483+09:00",
+ "updated": "2026-11-11T13:50:13.602+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1997662812",
+   "mall": "쿠팡",
+   "title": "피지 모락셀라 냄새제거 세탁세제 코튼향 2.1L",
+   "price": 12300,
+   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/04/06/16/1/1b23d043-ce1e-46e9-b7af-f803a16c6132.jpg",
+   "sentAt": "2026-11-11T13:50:12.987+09:00",
+   "saving": 42,
+   "baseline": 21040,
+   "baselineNote": "판매글 5곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 5곳 최저가",
+     "price": 21040
+    }
+   ],
+   "link": "https://link.coupang.com/a/hbAnJtyDUy"
+  },
   {
    "uid": "5813922595",
    "mall": "쿠팡",
@@ -3926,28 +3944,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iypL2dUEhw"
-  },
-  {
-   "uid": "3746251376",
-   "mall": "토스쇼핑",
-   "title": "국내산 닭 솥뚜껑 안동찜닭, 1kg, 2개",
-   "price": 14160,
-   "image": "https://shopping.toss.im/live/taca/ai/ZWI2MGZm/Tmg1VFo1azBUU3lTeG0yTms4MjVaSHNEWVp0c0dRVHI2TWxBU1lEdTNZdz0.png",
-   "sentAt": "2026-11-10T10:46:29.652+09:00",
-   "saving": 27,
-   "baseline": 19380,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 7080
-   },
-   "comps": [
-    {
-     "name": "판매글 3곳 최저가",
-     "price": 19380
-    }
-   ],
-   "link": "https://toss.shopping/_m/9SBKeCx8"
   }
  ]
 }
