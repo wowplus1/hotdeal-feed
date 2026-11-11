@@ -1,7 +1,153 @@
 {
- "updated": "2026-11-11T11:09:41.526+09:00",
+ "updated": "2026-11-11T11:18:32.530+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "4252115318",
+   "mall": "쿠팡",
+   "title": "신라면 더 레드 125g, 4개",
+   "price": 3480,
+   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/9b9b/3b044ce74a3c13dcb9b514600dbaad3014abfa9b22cef6d52e001128aabe.jpg",
+   "sentAt": "2026-11-11T11:18:32.530+09:00",
+   "saving": 14,
+   "baseline": 4060,
+   "baselineNote": "93곳 중 최저 · 무료배송",
+   "unit": {
+    "label": "개당",
+    "value": 870
+   },
+   "check": {
+    "market": 4060,
+    "malls": 93,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": false,
+    "low": 1790
+   },
+   "review": {
+    "score": 4.9,
+    "count": 13347,
+    "low": 0
+   },
+   "comps": [
+    {
+     "name": "93곳 중 최저 · 무료배송",
+     "price": 4060
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 4300
+    },
+    {
+     "m": "26-01",
+     "p": 4030
+    },
+    {
+     "m": "26-02",
+     "p": 3670
+    },
+    {
+     "m": "26-03",
+     "p": 4000
+    },
+    {
+     "m": "26-04",
+     "p": 4290
+    },
+    {
+     "m": "26-05",
+     "p": 4100
+    },
+    {
+     "m": "26-06",
+     "p": 4200
+    },
+    {
+     "m": "26-07",
+     "p": 1890
+    },
+    {
+     "m": "26-08",
+     "p": 1790
+    },
+    {
+     "m": "26-09",
+     "p": 1790
+    },
+    {
+     "m": "26-10",
+     "p": 3390
+    },
+    {
+     "m": "26-11",
+     "p": 4060
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "8859764238",
+     "price": 4060,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "3134793255",
+     "price": 4450,
+     "ship": 3000
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "D550634921",
+     "price": 4450,
+     "ship": 3000
+    },
+    {
+     "mall": "GS SHOP",
+     "code": "ED908",
+     "id": "1039099062",
+     "price": 4840,
+     "ship": 3000
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000556216085",
+     "price": 4980,
+     "ship": 3000
+    },
+    {
+     "mall": "TY40A",
+     "code": "TY40A",
+     "id": "11533393848",
+     "price": 4980,
+     "ship": 3000
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000556216085",
+     "price": 4980,
+     "ship": 3000
+    },
+    {
+     "mall": "롯데마트몰",
+     "code": "TU14D",
+     "id": "OS8801043069663",
+     "price": 4980,
+     "ship": 3000
+    }
+   ],
+   "link": "https://link.coupang.com/a/iz6Fv5ZYLQ",
+   "web": true
+  },
   {
    "uid": "1428785980",
    "mall": "지마켓",
@@ -9841,19 +9987,6 @@
    "baselineNote": "판매글 15곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4147348242",
-   "web": true
-  },
-  {
-   "uid": "5319616071",
-   "mall": "쿠팡",
-   "title": "카시오 웨이브셉터 WV-59RD-1AJFㅜ전자시계",
-   "price": 34750,
-   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/65a8/a045383a52b875f22cee4e683f92414a1d4c45c5d160b96fe89d0ca2db73.jpg",
-   "sentAt": "2026-11-02T07:49:56.897+09:00",
-   "saving": 15,
-   "baseline": 41000,
-   "baselineNote": "판매글 39곳 최저가",
-   "link": "https://link.coupang.com/a/ikVBjjhqz6",
    "web": true
   }
  ]
