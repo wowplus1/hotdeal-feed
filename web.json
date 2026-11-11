@@ -1,7 +1,162 @@
 {
- "updated": "2026-11-11T11:18:32.530+09:00",
+ "updated": "2026-11-11T11:20:18.848+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "4415028796",
+   "mall": "쿠팡",
+   "title": "피크닉 제로 사과, 200ml, 24개",
+   "price": 7400,
+   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/1025_amir_coupang_oct_80k/c1d2/a5547e07fc749944d1ccf6a1ea7d90e82cb4bf97c00802d7370096506f79.jpg",
+   "sentAt": "2026-11-11T11:20:18.848+09:00",
+   "saving": 17,
+   "baseline": 8870,
+   "baselineNote": "305곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 308
+   },
+   "check": {
+    "market": 8870,
+    "malls": 305,
+    "delivered": 9900
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": false,
+    "low": 5750
+   },
+   "review": {
+    "score": 4.7,
+    "count": 1188,
+    "low": 12
+   },
+   "spec": [
+    "혼합음료",
+    "종이팩",
+    "제로슈거"
+   ],
+   "comps": [
+    {
+     "name": "305곳 중 최저",
+     "price": 8870
+    },
+    {
+     "name": "배송비까지 치면",
+     "price": 9900
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 8700
+    },
+    {
+     "m": "26-01",
+     "p": 8700
+    },
+    {
+     "m": "26-02",
+     "p": 9990
+    },
+    {
+     "m": "26-03",
+     "p": 9900
+    },
+    {
+     "m": "26-04",
+     "p": 9900
+    },
+    {
+     "m": "26-05",
+     "p": 9820
+    },
+    {
+     "m": "26-06",
+     "p": 8800
+    },
+    {
+     "m": "26-07",
+     "p": 8780
+    },
+    {
+     "m": "26-08",
+     "p": 8770
+    },
+    {
+     "m": "26-09",
+     "p": 5750
+    },
+    {
+     "m": "26-10",
+     "p": 8780
+    },
+    {
+     "m": "26-11",
+     "p": 8870
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F375065182",
+     "price": 8870,
+     "ship": 3000
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4569627122",
+     "price": 8870,
+     "ship": 3000
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2564505469",
+     "price": 9070,
+     "ship": 3000
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "7269558177",
+     "price": 9900,
+     "ship": 0
+    },
+    {
+     "mall": "현대Hmall",
+     "code": "ED907",
+     "id": "2253372221",
+     "price": 12080,
+     "ship": 3000
+    },
+    {
+     "mall": "롯데홈쇼핑",
+     "code": "ED903",
+     "id": "3386919084",
+     "price": 12080,
+     "ship": 3000
+    },
+    {
+     "mall": "패션플러스",
+     "code": "TH002",
+     "id": "428611939",
+     "price": 12310,
+     "ship": 3000
+    },
+    {
+     "mall": "SK스토아",
+     "code": "TSB275",
+     "id": "46706919",
+     "price": 12440,
+     "ship": 3000
+    }
+   ],
+   "link": "https://link.coupang.com/a/gpsv5kT3pQ",
+   "web": true
+  },
   {
    "uid": "4252115318",
    "mall": "쿠팡",
@@ -9973,20 +10128,6 @@
    "baselineNote": "458곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/ghbuynx9ki",
-   "web": true
-  },
-  {
-   "uid": "8073484968",
-   "mall": "지마켓",
-   "title": "모나리자 소프트리 순수 3겹 화장지 30m 30롤 2팩",
-   "price": 22230,
-   "image": "https://gdimg.gmarket.co.kr/4147348242/goodsimage",
-   "sentAt": "2026-11-02T08:58:40.094+09:00",
-   "saving": 20,
-   "baseline": 27890,
-   "baselineNote": "판매글 15곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4147348242",
    "web": true
   }
  ]
