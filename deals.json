@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-11T09:55:38.650+09:00",
+ "updated": "2026-11-11T10:01:19.169+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4943998752",
+   "mall": "쿠팡",
+   "title": "르샤트라1802 인퓨전 섬유유연제 피오니부케 본품 5.7L*1개입*1개",
+   "price": 11000,
+   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/190f/059825364b53a1974ad06914cdae2ff472877f5465627a9b2ea4dba75fbb.jpg",
+   "sentAt": "2026-11-11T10:01:18.547+09:00",
+   "saving": 58,
+   "baseline": 26180,
+   "baselineNote": "판매글 19곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 19곳 최저가",
+     "price": 26180
+    }
+   ],
+   "link": "https://link.coupang.com/a/gzkICKnApE"
+  },
   {
    "uid": "3069378465",
    "mall": "쿠팡",
@@ -3410,23 +3428,6 @@
     }
    ],
    "link": "https://toss.im/_m/XxuP1047"
-  },
-  {
-   "uid": "6811431558",
-   "mall": "지마켓",
-   "title": "도톰한3겹순수 화장지 27Mx30롤 3팩",
-   "price": 22220,
-   "image": "https://gdimg.gmarket.co.kr/4474793366/goodsimage",
-   "sentAt": "2026-11-09T12:29:16.598+09:00",
-   "unit": {
-    "label": "개당",
-    "value": 7407
-   },
-   "alt": {
-    "price": 27330,
-    "where": "270곳 중 최저"
-   },
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4474793366"
   }
  ]
 }
