@@ -1,7 +1,147 @@
 {
- "updated": "2026-11-11T11:20:18.848+09:00",
+ "updated": "2026-11-11T11:26:54.439+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "6468166512",
+   "mall": "쿠팡",
+   "title": "불닭볶음면 큰컵 105g, 16개",
+   "price": 15270,
+   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/1640/1715307816d10c2ee399fd990560049e35d6566734350a5dbd26e48f9979.JPG",
+   "sentAt": "2026-11-11T11:26:54.439+09:00",
+   "saving": 17,
+   "baseline": 18290,
+   "baselineNote": "1266곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 954
+   },
+   "check": {
+    "market": 18290,
+    "malls": 1266
+   },
+   "review": {
+    "score": 4.8,
+    "count": 3088,
+    "low": 28
+   },
+   "comps": [
+    {
+     "name": "1266곳 중 최저",
+     "price": 18290
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 17590
+    },
+    {
+     "m": "26-01",
+     "p": 14900
+    },
+    {
+     "m": "26-02",
+     "p": 14900
+    },
+    {
+     "m": "26-03",
+     "p": 14900
+    },
+    {
+     "m": "26-04",
+     "p": 12400
+    },
+    {
+     "m": "26-05",
+     "p": 12400
+    },
+    {
+     "m": "26-06",
+     "p": 12400
+    },
+    {
+     "m": "26-07",
+     "p": 15500
+    },
+    {
+     "m": "26-08",
+     "p": 16900
+    },
+    {
+     "m": "26-09",
+     "p": 17600
+    },
+    {
+     "m": "26-10",
+     "p": 1850
+    },
+    {
+     "m": "26-11",
+     "p": 18100
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "2456737987",
+     "price": 18290,
+     "ship": 3000
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "C617075757",
+     "price": 18290,
+     "ship": 3000
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "5125925086",
+     "price": 18930,
+     "ship": 3000
+    },
+    {
+     "mall": "TT9287",
+     "code": "TT9287",
+     "id": "5236047572",
+     "price": 19500,
+     "ship": 3000
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2711954056",
+     "price": 19520,
+     "ship": 3000
+    },
+    {
+     "mall": "롯데백화점",
+     "code": "TLC16",
+     "id": "LE1222359454",
+     "price": 19710,
+     "ship": 0
+    },
+    {
+     "mall": "GS SHOP",
+     "code": "ED908",
+     "id": "1087866689",
+     "price": 20560,
+     "ship": 0
+    },
+    {
+     "mall": "SK스토아",
+     "code": "TSB275",
+     "id": "20088845",
+     "price": 20660,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/h3ktMqHlW8",
+   "web": true
+  },
   {
    "uid": "4415028796",
    "mall": "쿠팡",
@@ -10114,20 +10254,6 @@
    "baseline": 869557,
    "baselineNote": "192곳 중 최저 · 무료배송",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=3489248573",
-   "web": true
-  },
-  {
-   "uid": "2521827444",
-   "mall": "쿠팡",
-   "title": "파워에이드 퍼플스톰, 600ml, 20개",
-   "price": 16130,
-   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/5392629616744-370c312d-9587-4e93-8cc4-572119bb16fc.jpg",
-   "sentAt": "2026-11-02T09:34:33.923+09:00",
-   "saving": 15,
-   "baseline": 19040,
-   "baselineNote": "458곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/ghbuynx9ki",
    "web": true
   }
  ]
