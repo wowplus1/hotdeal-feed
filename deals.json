@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-11T10:38:13.285+09:00",
+ "updated": "2026-11-11T10:40:22.772+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1476157637",
+   "mall": "쿠팡",
+   "title": "짜왕, 8개",
+   "price": 6470,
+   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/118888610038270-e970db90-b63a-4ae2-b77d-f7770d97633d.jpg",
+   "sentAt": "2026-11-11T10:40:22.233+09:00",
+   "unit": {
+    "label": "개당",
+    "value": 809
+   },
+   "alt": {
+    "price": 10640,
+    "where": "103곳 중 최저",
+    "ship": 0
+   },
+   "link": "https://link.coupang.com/a/gOImJXrNnw"
+  },
   {
    "uid": "5286097204",
    "mall": "토스쇼핑",
@@ -3578,19 +3596,6 @@
     }
    ],
    "link": "https://toss.im/_m/LIJQtYLz"
-  },
-  {
-   "uid": "1152617310",
-   "mall": "쿠팡",
-   "title": "닥터지 레드 블레미쉬 포 맨 올인원 플루이드 150ml",
-   "price": 13300,
-   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/04/09/16/3/5eec7453-590b-4c07-828f-b29ef2e6cf40.jpg",
-   "sentAt": "2026-11-09T15:54:39.759+09:00",
-   "alt": {
-    "price": 15810,
-    "where": "277곳 중 최저"
-   },
-   "link": "https://link.coupang.com/a/iw6zXW4e4a"
   }
  ]
 }
