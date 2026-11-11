@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-11T22:12:55.442+09:00",
+ "updated": "2026-11-11T23:30:00.714+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "8330707637",
+   "mall": "쿠팡",
+   "title": "롯데칠성음료 히야 제로 사과, 200ml, 24개",
+   "price": 6230,
+   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/06/05/11/7/a1d3416b-2fe8-4e13-acbb-c852d39d134b.png",
+   "sentAt": "2026-11-11T23:30:00.714+09:00",
+   "saving": 37,
+   "baseline": 9900,
+   "baselineNote": "판매글 12곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 260
+   },
+   "comps": [
+    {
+     "name": "판매글 12곳 최저가",
+     "price": 9900
+    }
+   ],
+   "link": "https://link.coupang.com/a/hwEsJzDK8G",
+   "web": true
+  },
   {
    "uid": "8098931558",
    "mall": "11번가",
@@ -10414,17 +10437,6 @@
    "baseline": 1735900,
    "baselineNote": "판매글 16곳 최저가",
    "link": "http://app.ac/ftntZHM93",
-   "web": true
-  },
-  {
-   "uid": "7426980737",
-   "mall": "지마켓",
-   "title": "대숲천년쌀 특등급 새청무 10kg",
-   "price": 27340,
-   "image": "https://gdimg.gmarket.co.kr/4747660732/goodsimage",
-   "sentAt": "2026-11-02T12:24:24.676+09:00",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4747660732",
    "web": true
   }
  ]
