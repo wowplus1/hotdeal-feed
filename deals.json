@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-11T13:50:13.602+09:00",
+ "updated": "2026-11-11T14:06:19.255+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7183790379",
+   "mall": "토스쇼핑",
+   "title": "터치 라이트 아토캡 고농축 캡슐세제, 8g, 120개입, 1개",
+   "price": 7260,
+   "image": "https://shopping.toss.im/live/taca/ai/v2/MDVjMTIx/RWtYZzhmbERxT0hGaDdMVGZVYjh5emh6NGsyRmhzUEdRYytybXhZNEhqdz0.png",
+   "sentAt": "2026-11-11T14:06:18.482+09:00",
+   "saving": 30,
+   "baseline": 10355,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 61
+   },
+   "comps": [
+    {
+     "name": "판매글 4곳 최저가",
+     "price": 10355
+    }
+   ],
+   "link": "https://toss.shopping/_m/Nj0QT9SD"
+  },
   {
    "uid": "1997662812",
    "mall": "쿠팡",
@@ -3793,157 +3815,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4278580679"
-  },
-  {
-   "uid": "4624343866",
-   "mall": "쿠팡",
-   "title": "오뚜기 고소한 참기름, 500ml, 1개",
-   "price": 8410,
-   "image": "https://t3a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2487475493103343-8c9cf850-cdde-49af-86f8-722ff0c2b563.jpg",
-   "sentAt": "2026-11-10T10:50:32.521+09:00",
-   "saving": 33,
-   "baseline": 12510,
-   "baselineNote": "389곳 중 최저",
-   "check": {
-    "market": 12510,
-    "malls": 389,
-    "ship": 3000,
-    "delivered": 15510
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": true,
-    "low": 11500
-   },
-   "review": {
-    "score": 4.7,
-    "count": 172,
-    "low": 1
-   },
-   "spec": [
-    "캔",
-    "참깨 100%",
-    "외국산"
-   ],
-   "comps": [
-    {
-     "name": "389곳 중 최저",
-     "price": 12510
-    },
-    {
-     "name": "배송비 3,000원 포함",
-     "price": 15510
-    }
-   ],
-   "trend": [
-    {
-     "m": "25-12",
-     "p": 11740
-    },
-    {
-     "m": "26-01",
-     "p": 11600
-    },
-    {
-     "m": "26-02",
-     "p": 11880
-    },
-    {
-     "m": "26-03",
-     "p": 11870
-    },
-    {
-     "m": "26-04",
-     "p": 12240
-    },
-    {
-     "m": "26-05",
-     "p": 12240
-    },
-    {
-     "m": "26-06",
-     "p": 12260
-    },
-    {
-     "m": "26-07",
-     "p": 11500
-    },
-    {
-     "m": "26-08",
-     "p": 12140
-    },
-    {
-     "m": "26-09",
-     "p": 11600
-    },
-    {
-     "m": "26-10",
-     "p": 12360
-    },
-    {
-     "m": "26-11",
-     "p": 12513
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "2543550848",
-     "price": 12510,
-     "ship": 3000
-    },
-    {
-     "mall": "배민상회",
-     "code": "TWB192",
-     "id": "190628",
-     "price": 12513,
-     "ship": 3000
-    },
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "B702120216",
-     "price": 12700,
-     "ship": 3000
-    },
-    {
-     "mall": "TTC48",
-     "code": "TTC48",
-     "id": "6053133584",
-     "price": 12750,
-     "ship": 3000
-    },
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "2093652978",
-     "price": 12850,
-     "ship": 3000
-    },
-    {
-     "mall": "SSG.COM",
-     "code": "TN118",
-     "id": "1000034883070",
-     "price": 13455,
-     "ship": 3000
-    },
-    {
-     "mall": "주식회사 신세계라이브쇼핑",
-     "code": "TRB03",
-     "id": "67606731",
-     "price": 14060,
-     "ship": 3000
-    },
-    {
-     "mall": "신세계몰",
-     "code": "ED901",
-     "id": "1000034883070",
-     "price": 14950,
-     "ship": 3000
-    }
-   ],
-   "link": "https://link.coupang.com/a/iypL2dUEhw"
   }
  ]
 }
