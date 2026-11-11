@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-11T15:01:27.807+09:00",
+ "updated": "2026-11-11T15:11:06.005+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1406291122",
+   "mall": "토스쇼핑",
+   "title": "유한메디카 고함량 마그네슘 엔 탑 400 맥스, 90정, 2개",
+   "price": 13130,
+   "image": "https://shopping.toss.im/live/taca/ai/v2/ZjNhOTEz/UFBRZkl5OGNzZm51TnVROEhHRlBoM3pVT3dkODhlMDgyTUVIdm40WGtQQT0.png",
+   "sentAt": "2026-11-11T15:11:05.240+09:00",
+   "saving": 33,
+   "baseline": 19700,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 6565
+   },
+   "comps": [
+    {
+     "name": "판매글 5곳 최저가",
+     "price": 19700
+    }
+   ],
+   "link": "https://toss.shopping/_m/tHXopaSt"
+  },
   {
    "uid": "3792044204",
    "mall": "지마켓",
@@ -3736,103 +3758,6 @@
     }
    ],
    "link": "https://toss.shopping/_m/d7p1oFHn"
-  },
-  {
-   "uid": "1200154389",
-   "mall": "쿠팡",
-   "title": "풀무원 새콤달콤 생쫄면 4인, 920g, 2개",
-   "price": 9480,
-   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1614694127308427-a8cbc3ef-ca77-41e8-bbcc-672beef4a525.jpg",
-   "sentAt": "2026-11-10T14:40:57.847+09:00",
-   "saving": 51,
-   "baseline": 19230,
-   "baselineNote": "5곳 중 최저",
-   "unit": {
-    "label": "개당",
-    "value": 4740
-   },
-   "check": {
-    "market": 19230,
-    "malls": 5
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": true,
-    "low": 11960
-   },
-   "comps": [
-    {
-     "name": "5곳 중 최저",
-     "price": 19230
-    }
-   ],
-   "trend": [
-    {
-     "m": "25-12",
-     "p": 16160
-    },
-    {
-     "m": "26-01",
-     "p": 17610
-    },
-    {
-     "m": "26-02",
-     "p": 17610
-    },
-    {
-     "m": "26-03",
-     "p": 13960
-    },
-    {
-     "m": "26-04",
-     "p": 13960
-    },
-    {
-     "m": "26-05",
-     "p": 13640
-    },
-    {
-     "m": "26-06",
-     "p": 11960
-    },
-    {
-     "m": "26-07",
-     "p": 13460
-    },
-    {
-     "m": "26-08",
-     "p": 13460
-    },
-    {
-     "m": "26-09",
-     "p": 14510
-    },
-    {
-     "m": "26-10",
-     "p": 19440
-    },
-    {
-     "m": "26-11",
-     "p": 19440
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "3529476333",
-     "price": 19230,
-     "ship": 3000
-    },
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "F618674325",
-     "price": 30310,
-     "ship": 0
-    }
-   ],
-   "link": "https://link.coupang.com/a/iyGeMhceMC"
   }
  ]
 }
