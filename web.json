@@ -1,7 +1,17 @@
 {
- "updated": "2026-11-11T22:01:33.043+09:00",
+ "updated": "2026-11-11T22:12:55.442+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "8098931558",
+   "mall": "11번가",
+   "title": "총2kg 스테비아 대추방울감동마토 500g 4팩",
+   "price": 7080,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/pd/v2/8/5/2/4/1/2/nPYMC/7700852412_B.webp",
+   "sentAt": "2026-11-11T22:12:55.442+09:00",
+   "link": "http://app.ac/LAVeY6573",
+   "web": true
+  },
   {
    "uid": "3203384598",
    "mall": "쿠팡",
@@ -10415,20 +10425,6 @@
    "sentAt": "2026-11-02T12:24:24.676+09:00",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4747660732",
-   "web": true
-  },
-  {
-   "uid": "6133563379",
-   "mall": "지마켓",
-   "title": "해남절임배추 20kg 예약배송",
-   "price": 27850,
-   "image": "https://gdimg.gmarket.co.kr/4181779886/goodsimage",
-   "sentAt": "2026-11-02T12:13:27.045+09:00",
-   "saving": 19,
-   "baseline": 34232,
-   "baselineNote": "판매글 20곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4181779886",
    "web": true
   }
  ]
