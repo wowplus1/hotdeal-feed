@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-11T23:48:53.889+09:00",
+ "updated": "2026-11-12T00:11:10.822+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "6639220627",
+   "mall": "롯데온",
+   "title": "백제 두번 구운 김밥김 22g 10봉",
+   "price": 13500,
+   "image": "https://contents.lotteon.com/itemimage/20261106142810/LO/14/04/38/15/34/_1/40/43/81/53/5/LO1404381534_1404381535_1.jpg",
+   "sentAt": "2026-11-12T00:11:10.822+09:00",
+   "saving": 58,
+   "baseline": 32310,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 1350
+   },
+   "comps": [
+    {
+     "name": "판매글 3곳 최저가",
+     "price": 32310
+    }
+   ],
+   "link": "http://app.ac/rAVedO583",
+   "web": true
+  },
   {
    "uid": "6905199623",
    "mall": "쿠팡",
@@ -10428,20 +10451,6 @@
    "baseline": 199690,
    "baselineNote": "200곳 중 최저",
    "link": "https://link.coupang.com/a/hNTSdvPzZA",
-   "web": true
-  },
-  {
-   "uid": "5202667637",
-   "mall": "GS SHOP",
-   "title": "대용량 메추리알 장조림 1kg 2팩",
-   "price": 15900,
-   "image": "https://asset.m-gs.kr/prod/1037730341/1/280",
-   "sentAt": "2026-11-02T13:58:56.949+09:00",
-   "saving": 17,
-   "baseline": 19100,
-   "baselineNote": "판매글 7곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/PAVAZ6563",
    "web": true
   }
  ]
