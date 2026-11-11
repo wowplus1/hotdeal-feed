@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-11T08:49:21.050+09:00",
+ "updated": "2026-11-11T09:08:15.679+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6885895589",
+   "mall": "지마켓",
+   "title": "스테비아단마토 500g x 4팩 총 2kg",
+   "price": 11240,
+   "image": "https://gdimg.gmarket.co.kr/4723212071/goodsimage",
+   "sentAt": "2026-11-11T09:08:14.885+09:00",
+   "saving": 24,
+   "baseline": 14760,
+   "baselineNote": "판매글 7곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 7곳 최저가",
+     "price": 14760
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4723212071"
+  },
   {
    "uid": "4428965171",
    "mall": "11번가",
@@ -3372,15 +3390,6 @@
     }
    ],
    "link": "http://app.ac/CAGilf503"
-  },
-  {
-   "uid": "1417001594",
-   "mall": "지마켓",
-   "title": "닥터지 블랙 스네일 크림 50ml 1+1 +블랙스네일 톤업 선10ml",
-   "price": 21080,
-   "image": "https://gdimg.gmarket.co.kr/4472184167/goodsimage",
-   "sentAt": "2026-11-09T11:29:52.895+09:00",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4472184167"
   }
  ]
 }
