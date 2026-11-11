@@ -1,7 +1,152 @@
 {
- "updated": "2026-11-11T12:05:19.372+09:00",
+ "updated": "2026-11-11T12:35:55.346+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3216175346",
+   "mall": "토스쇼핑",
+   "title": "라오메뜨 전설의패치 레전드, 준대형, 40매, 1개",
+   "price": 6600,
+   "image": "https://shopping.toss.im/live/taca/ai/ODYyZDZm/ZkRRSG4vUGg1SDFIbTd0ay9sTVIvSStENFBnQVBQL0NOQTBQOG0va2NBVT0.png",
+   "sentAt": "2026-11-11T12:35:54.298+09:00",
+   "saving": 56,
+   "baseline": 15050,
+   "baselineNote": "78곳 중 최저 · 무료배송",
+   "unit": {
+    "label": "개당",
+    "value": 165
+   },
+   "check": {
+    "market": 15050,
+    "malls": 78,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 8720
+   },
+   "review": {
+    "score": 4.3,
+    "count": 183,
+    "low": 7
+   },
+   "comps": [
+    {
+     "name": "78곳 중 최저 · 무료배송",
+     "price": 15050
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 12500
+    },
+    {
+     "m": "26-01",
+     "p": 12500
+    },
+    {
+     "m": "26-02",
+     "p": 13100
+    },
+    {
+     "m": "26-03",
+     "p": 12100
+    },
+    {
+     "m": "26-04",
+     "p": 12500
+    },
+    {
+     "m": "26-05",
+     "p": 12500
+    },
+    {
+     "m": "26-06",
+     "p": 12900
+    },
+    {
+     "m": "26-07",
+     "p": 10330
+    },
+    {
+     "m": "26-08",
+     "p": 8720
+    },
+    {
+     "m": "26-09",
+     "p": 9120
+    },
+    {
+     "m": "26-10",
+     "p": 10350
+    },
+    {
+     "m": "26-11",
+     "p": 15050
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F624286756",
+     "price": 15050,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "3602072272",
+     "price": 15060,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "5903953028",
+     "price": 17390,
+     "ship": 3000
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000565482267",
+     "price": 17955,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2735457212",
+     "price": 18090,
+     "ship": 0
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000565482267",
+     "price": 18900,
+     "ship": 0
+    },
+    {
+     "mall": "GS SHOP",
+     "code": "ED908",
+     "id": "1033940105",
+     "price": 18900,
+     "ship": 3000
+    },
+    {
+     "mall": "신세계몰",
+     "code": "ED901",
+     "id": "1000565482267",
+     "price": 18900,
+     "ship": 0
+    }
+   ],
+   "link": "https://toss.im/_m/LQTZqmS4"
+  },
   {
    "uid": "8290028334",
    "mall": "쿠팡",
@@ -3667,28 +3812,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iyeczggHCK"
-  },
-  {
-   "uid": "4322881611",
-   "mall": "쿠팡",
-   "title": "코카콜라 제로 레몬라임, 500ml, 12개",
-   "price": 9990,
-   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/a2a3e01a-21f9-4cc8-9e80-9319807e85ee14379768261741085898.png",
-   "sentAt": "2026-11-10T08:03:50.217+09:00",
-   "saving": 20,
-   "baseline": 12490,
-   "baselineNote": "판매글 14곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 833
-   },
-   "comps": [
-    {
-     "name": "판매글 14곳 최저가",
-     "price": 12490
-    }
-   ],
-   "link": "https://link.coupang.com/a/hbCUl7fd24"
   }
  ]
 }
