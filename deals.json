@@ -1,7 +1,33 @@
 {
- "updated": "2026-11-11T19:28:12.907+09:00",
+ "updated": "2026-11-11T20:34:14.103+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7364238814",
+   "mall": "쿠팡",
+   "title": "농심 자갈치 90g 3개",
+   "price": 2520,
+   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/21532382325669-37fa294b-38c3-42ce-b7ae-9590b727db64.jpg",
+   "sentAt": "2026-11-11T20:34:13.229+09:00",
+   "saving": 46,
+   "baseline": 4630,
+   "baselineNote": "15곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 840
+   },
+   "check": {
+    "market": 4630,
+    "malls": 15
+   },
+   "comps": [
+    {
+     "name": "15곳 중 최저",
+     "price": 4630
+    }
+   ],
+   "link": "https://link.coupang.com/a/iAKpitrITQ"
+  },
   {
    "uid": "6295308258",
    "mall": "롯데온",
@@ -3981,156 +4007,6 @@
     }
    ],
    "link": "https://toss.shopping/_m/zK9Z5OGx"
-  },
-  {
-   "uid": "9434901768",
-   "mall": "쿠팡",
-   "title": "청정원 맛술, 830ml, 2개",
-   "price": 5180,
-   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2762763047257-6ffa04ac-a8af-41bd-bd0a-456de126fd23.jpg",
-   "sentAt": "2026-11-10T19:54:11.813+09:00",
-   "saving": 21,
-   "baseline": 6560,
-   "baselineNote": "275곳 중 최저",
-   "unit": {
-    "label": "개당",
-    "value": 2590
-   },
-   "check": {
-    "market": 6560,
-    "malls": 275,
-    "ship": 3000,
-    "delivered": 9560
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": false,
-    "low": 5000
-   },
-   "spec": [
-    "플라스틱",
-    "생강농축액 1%, 매실농축액 0.4%",
-    "생강(국내산), 매실(국내산)"
-   ],
-   "comps": [
-    {
-     "name": "275곳 중 최저",
-     "price": 6560
-    },
-    {
-     "name": "배송비 3,000원 포함",
-     "price": 9560
-    }
-   ],
-   "trend": [
-    {
-     "m": "25-12",
-     "p": 5000
-    },
-    {
-     "m": "26-01",
-     "p": 5000
-    },
-    {
-     "m": "26-02",
-     "p": 7100
-    },
-    {
-     "m": "26-03",
-     "p": 7100
-    },
-    {
-     "m": "26-04",
-     "p": 7100
-    },
-    {
-     "m": "26-05",
-     "p": 7100
-    },
-    {
-     "m": "26-06",
-     "p": 7100
-    },
-    {
-     "m": "26-07",
-     "p": 6780
-    },
-    {
-     "m": "26-08",
-     "p": 5570
-    },
-    {
-     "m": "26-09",
-     "p": 6590
-    },
-    {
-     "m": "26-10",
-     "p": 6800
-    },
-    {
-     "m": "26-11",
-     "p": 6780
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "F564720442",
-     "price": 6560,
-     "ship": 3000
-    },
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "4756708050",
-     "price": 6560,
-     "ship": 3000
-    },
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "9362711429",
-     "price": 6950,
-     "ship": 3000
-    },
-    {
-     "mall": "현대Hmall",
-     "code": "ED907",
-     "id": "2237565596",
-     "price": 7100,
-     "ship": 3000
-    },
-    {
-     "mall": "롯데ON",
-     "code": "EE309",
-     "id": "LO2677219853",
-     "price": 9370,
-     "ship": 3000
-    },
-    {
-     "mall": "주식회사 신세계라이브쇼핑",
-     "code": "TRB03",
-     "id": "94684365",
-     "price": 9600,
-     "ship": 3000
-    },
-    {
-     "mall": "SK스토아",
-     "code": "TSB275",
-     "id": "46235334",
-     "price": 10030,
-     "ship": 3000
-    },
-    {
-     "mall": "패션플러스",
-     "code": "TH002",
-     "id": "429324553",
-     "price": 10050,
-     "ship": 3000
-    }
-   ],
-   "link": "https://link.coupang.com/a/iy2DorSVHw"
   }
  ]
 }
