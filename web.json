@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-11T11:26:54.439+09:00",
+ "updated": "2026-11-11T14:54:54.770+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "8217144821",
+   "mall": "11번가",
+   "title": "브리타 정수기 글라스저그 리미티드 에디션 2.5L + 기본필터 1입",
+   "price": 62410,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/6/3/9/6/5/9/fnoAa/9717639659_243104244.webp",
+   "sentAt": "2026-11-11T14:54:54.770+09:00",
+   "saving": 21,
+   "baseline": 78900,
+   "baselineNote": "판매글 9곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 9곳 최저가",
+     "price": 78900
+    }
+   ],
+   "link": "http://app.ac/q3ClGGJ93",
+   "web": true
+  },
   {
    "uid": "6468166512",
    "mall": "쿠팡",
@@ -10241,19 +10260,6 @@
    "baseline": 31520,
    "baselineNote": "84곳 중 최저",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4460724686",
-   "web": true
-  },
-  {
-   "uid": "1839841654",
-   "mall": "지마켓",
-   "title": "삼성 비스포크 RWP54421BF7M 직수형 냉온정수기 빌트인 화이트",
-   "price": 699540,
-   "image": "https://gdimg.gmarket.co.kr/3489248573/goodsimage",
-   "sentAt": "2026-11-02T09:38:35.069+09:00",
-   "saving": 20,
-   "baseline": 869557,
-   "baselineNote": "192곳 중 최저 · 무료배송",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=3489248573",
    "web": true
   }
  ]
