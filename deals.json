@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-11T14:25:31.646+09:00",
+ "updated": "2026-11-11T14:26:35.938+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4988778631",
+   "mall": "쿠팡",
+   "title": "스너글 초고농축 섬유유연제 오리지널 블루밍 부케 본품, 2L, 1개",
+   "price": 6850,
+   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2024/09/24/11/1/05e27401-0303-4a48-aa78-26ae7d8466f0.png",
+   "sentAt": "2026-11-11T14:26:35.226+09:00",
+   "saving": 42,
+   "baseline": 11820,
+   "baselineNote": "판매글 5곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 5곳 최저가",
+     "price": 11820
+    }
+   ],
+   "link": "https://link.coupang.com/a/iAj67LPhQr"
+  },
   {
    "uid": "3607902458",
    "mall": "지마켓",
@@ -3815,49 +3833,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4453898729"
-  },
-  {
-   "uid": "1750305873",
-   "mall": "토스쇼핑",
-   "title": "쏘울너츠 100% 땅콩버터 스무스, 500g, 2개",
-   "price": 7900,
-   "image": "https://shopping.toss.im/live/temp/2026-02-24/7684754b-dfe3-4e6e-91f5-c1c7774315d0.jpeg",
-   "sentAt": "2026-11-10T12:36:32.854+09:00",
-   "saving": 36,
-   "baseline": 12390,
-   "baselineNote": "8곳 중 최저 · 무료배송",
-   "unit": {
-    "label": "개당",
-    "value": 3950
-   },
-   "check": {
-    "market": 12390,
-    "malls": 8,
-    "ship": 0
-   },
-   "comps": [
-    {
-     "name": "8곳 중 최저 · 무료배송",
-     "price": 12390
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "롯데ON",
-     "code": "EE309",
-     "id": "LO2598643075",
-     "price": 12390,
-     "ship": 0
-    },
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "9576106662",
-     "price": 16830,
-     "ship": 3000
-    }
-   ],
-   "link": "https://toss.shopping/_m/5wCSmY4r"
   }
  ]
 }
