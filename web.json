@@ -1,7 +1,156 @@
 {
- "updated": "2026-11-11T08:43:04.783+09:00",
+ "updated": "2026-11-11T09:09:11.283+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "1055692341",
+   "mall": "쿠팡",
+   "title": "LG전자 QHD 울트라기어 게이밍 모니터 32GS75Q",
+   "price": 359000,
+   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/09/16/15/9/358c9070-e325-48fc-ae19-9f54ae3bf43d.jpg",
+   "sentAt": "2026-11-11T09:09:11.283+09:00",
+   "saving": 17,
+   "baseline": 434860,
+   "baselineNote": "218곳 중 최저 · 무료배송",
+   "check": {
+    "market": 434860,
+    "malls": 218,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": false,
+    "low": 356120
+   },
+   "review": {
+    "score": 4.8,
+    "count": 1202,
+    "low": 10
+   },
+   "spec": [
+    "80cm(32인치)",
+    "QHD(2560 x 1440)",
+    "180Hz",
+    "IPS",
+    "와이드(16:9)"
+   ],
+   "comps": [
+    {
+     "name": "218곳 중 최저 · 무료배송",
+     "price": 434860
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 425990
+    },
+    {
+     "m": "26-01",
+     "p": 409990
+    },
+    {
+     "m": "26-02",
+     "p": 407990
+    },
+    {
+     "m": "26-03",
+     "p": 429490
+    },
+    {
+     "m": "26-04",
+     "p": 403900
+    },
+    {
+     "m": "26-05",
+     "p": 356120
+    },
+    {
+     "m": "26-06",
+     "p": 408040
+    },
+    {
+     "m": "26-07",
+     "p": 425140
+    },
+    {
+     "m": "26-08",
+     "p": 437690
+    },
+    {
+     "m": "26-09",
+     "p": 449000
+    },
+    {
+     "m": "26-10",
+     "p": 435990
+    },
+    {
+     "m": "26-11",
+     "p": 435990
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4808693263",
+     "price": 434860,
+     "ship": 0
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F616260259",
+     "price": 434860,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9505276647",
+     "price": 434870,
+     "ship": 0
+    },
+    {
+     "mall": "TZ711E",
+     "code": "TZ711E",
+     "id": "13673592495",
+     "price": 473000,
+     "ship": 0
+    },
+    {
+     "mall": "피시포올 (Pc4all)",
+     "code": "PVC14",
+     "id": "170702",
+     "price": 499000,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LH0024039794",
+     "price": 531100,
+     "ship": 0
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000731445681",
+     "price": 539365,
+     "ship": 0
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000731445681",
+     "price": 554365,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/izXrvBGD4S",
+   "web": true
+  },
   {
    "uid": "5297923661",
    "mall": "지마켓",
@@ -9560,20 +9709,6 @@
    "baseline": 10620,
    "baselineNote": "판매글 25곳 최저가",
    "link": "https://link.coupang.com/a/iktmvBwxB6",
-   "web": true
-  },
-  {
-   "uid": "1348082102",
-   "mall": "지마켓",
-   "title": "광천김 백제 돌김 김자반 40g 10봉",
-   "price": 8900,
-   "image": "https://gdimg.gmarket.co.kr/1760962443/goodsimage",
-   "sentAt": "2026-11-02T00:26:01.778+09:00",
-   "saving": 26,
-   "baseline": 12070,
-   "baselineNote": "판매글 18곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=1760962443",
    "web": true
   }
  ]
