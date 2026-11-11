@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-11T11:40:26.733+09:00",
+ "updated": "2026-11-11T11:54:07.618+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7422060629",
+   "mall": "쿠팡",
+   "title": "백설 저당 타르타르 소스, 250g, 2개",
+   "price": 6470,
+   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/967299998520686-3e6a529d-f509-4665-a416-3a5d711661a1.jpg",
+   "sentAt": "2026-11-11T11:54:06.075+09:00",
+   "saving": 43,
+   "baseline": 11305,
+   "baselineNote": "판매글 6곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 3235
+   },
+   "comps": [
+    {
+     "name": "판매글 6곳 최저가",
+     "price": 11305
+    }
+   ],
+   "link": "https://link.coupang.com/a/grfkdHcW8y"
+  },
   {
    "uid": "3442396782",
    "mall": "쿠팡",
@@ -3555,28 +3577,6 @@
     }
    ],
    "link": "http://app.ac/mjpWLza13"
-  },
-  {
-   "uid": "7730893929",
-   "mall": "쿠팡",
-   "title": "청정원 토마토 퓨레 570g",
-   "price": 2830,
-   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/08/25/11/9/860877ca-607c-4767-a0c4-cbefe0f3af8a.jpg",
-   "sentAt": "2026-11-09T18:59:42.637+09:00",
-   "saving": 65,
-   "baseline": 8010,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": {
-    "label": "100g당",
-    "value": 496
-   },
-   "comps": [
-    {
-     "name": "판매글 5곳 최저가",
-     "price": 8010
-    }
-   ],
-   "link": "https://link.coupang.com/a/ixjNw5yAvY"
   }
  ]
 }
