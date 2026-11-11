@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-12T00:11:10.822+09:00",
+ "updated": "2026-11-12T00:11:12.730+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "9337126169",
+   "mall": "쿠팡",
+   "title": "피지오겔 콜라겐 에센스 수딩 마스크팩 10개",
+   "price": 9900,
+   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/06/16/18/2/e025c3f3-8fa1-4e50-8aac-eeb5aa738533.jpg",
+   "sentAt": "2026-11-12T00:11:12.730+09:00",
+   "saving": 39,
+   "baseline": 16100,
+   "baselineNote": "다른 곳 최저",
+   "unit": {
+    "label": "개당",
+    "value": 990
+   },
+   "comps": [
+    {
+     "name": "다른 곳 최저",
+     "price": 16100
+    }
+   ],
+   "link": "https://link.coupang.com/a/iAZPiKoNdA",
+   "web": true
+  },
   {
    "uid": "6639220627",
    "mall": "롯데온",
@@ -10438,19 +10461,6 @@
    "baseline": 40020,
    "baselineNote": "30곳 중 최저 · 무료배송",
    "link": "http://app.ac/GEwjEXS83",
-   "web": true
-  },
-  {
-   "uid": "2891601260",
-   "mall": "쿠팡",
-   "title": "시티즌 에코드라이브 BM7620-83A 흰판 남자시계",
-   "price": 170240,
-   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/3f79/ffd44f1253ee181c17e04b832f2196c2a9c09e314eb26e24f7c998f328e1.jpg",
-   "sentAt": "2026-11-02T15:24:51.046+09:00",
-   "saving": 15,
-   "baseline": 199690,
-   "baselineNote": "200곳 중 최저",
-   "link": "https://link.coupang.com/a/hNTSdvPzZA",
    "web": true
   }
  ]
