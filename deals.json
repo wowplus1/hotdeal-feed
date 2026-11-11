@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-12T08:08:40.433+09:00",
+ "updated": "2026-11-12T08:26:24.121+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8273771513",
+   "mall": "토스쇼핑",
+   "title": "베네틴 플랜트 프로틴 쉐이크 아이솔레이트 곡물맛, 2kg, 1개",
+   "price": 20500,
+   "image": "https://shopping.toss.im/live/temp/2026-09-10/2573232b-ecd8-40e3-b8a8-fb3297d13c1e.png",
+   "sentAt": "2026-11-12T08:26:23.080+09:00",
+   "saving": 33,
+   "baseline": 30500,
+   "baselineNote": "판매글 24곳 최저가",
+   "unit": {
+    "label": "100g당",
+    "value": 1025
+   },
+   "comps": [
+    {
+     "name": "판매글 24곳 최저가",
+     "price": 30500
+    }
+   ],
+   "link": "https://toss.shopping/_m/N3cbcwYv"
+  },
   {
    "uid": "2853721965",
    "mall": "지마켓",
@@ -3737,162 +3759,6 @@
     }
    ],
    "link": "https://toss.im/_m/BtWMIdq4"
-  },
-  {
-   "uid": "2997882902",
-   "mall": "쿠팡",
-   "title": "생생우동, 253g, 4개",
-   "price": 5620,
-   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/0183/23c44a625a0271e9e9579963fa9b7fe54d9b07646dcd850a28ea334d6012.jpg",
-   "sentAt": "2026-11-11T07:44:04.332+09:00",
-   "saving": 24,
-   "baseline": 7390,
-   "baselineNote": "172곳 중 최저",
-   "unit": {
-    "label": "개당",
-    "value": 1405
-   },
-   "check": {
-    "market": 7390,
-    "malls": 172,
-    "ship": 3000,
-    "delivered": 10390
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": true,
-    "low": 6830
-   },
-   "review": {
-    "score": 4.9,
-    "count": 13708,
-    "low": 0
-   },
-   "spec": [
-    "봉지라면",
-    "국물라면",
-    "우동면",
-    "순한맛"
-   ],
-   "comps": [
-    {
-     "name": "172곳 중 최저",
-     "price": 7390
-    },
-    {
-     "name": "배송비 3,000원 포함",
-     "price": 10390
-    }
-   ],
-   "trend": [
-    {
-     "m": "25-12",
-     "p": 6960
-    },
-    {
-     "m": "26-01",
-     "p": 7000
-    },
-    {
-     "m": "26-02",
-     "p": 6830
-    },
-    {
-     "m": "26-03",
-     "p": 6830
-    },
-    {
-     "m": "26-04",
-     "p": 6830
-    },
-    {
-     "m": "26-05",
-     "p": 7040
-    },
-    {
-     "m": "26-06",
-     "p": 7320
-    },
-    {
-     "m": "26-07",
-     "p": 7070
-    },
-    {
-     "m": "26-08",
-     "p": 7070
-    },
-    {
-     "m": "26-09",
-     "p": 7270
-    },
-    {
-     "m": "26-10",
-     "p": 7310
-    },
-    {
-     "m": "26-11",
-     "p": 7310
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "F656080855",
-     "price": 7390,
-     "ship": 3000
-    },
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "4848231257",
-     "price": 7390,
-     "ship": 3000
-    },
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "6569431247",
-     "price": 7560,
-     "ship": 3000
-    },
-    {
-     "mall": "TT4386",
-     "code": "TT4386",
-     "id": "5194744690",
-     "price": 7950,
-     "ship": 3000
-    },
-    {
-     "mall": "SSG.COM",
-     "code": "TN118",
-     "id": "1000100139583",
-     "price": 8040,
-     "ship": 3000
-    },
-    {
-     "mall": "롯데마트몰",
-     "code": "TU14D",
-     "id": "OS8801043059879",
-     "price": 8040,
-     "ship": 3000
-    },
-    {
-     "mall": "롯데ON",
-     "code": "EE309",
-     "id": "LO2701482692",
-     "price": 9070,
-     "ship": 3000
-    },
-    {
-     "mall": "SK스토아",
-     "code": "TSB275",
-     "id": "46162408",
-     "price": 10810,
-     "ship": 3000
-    }
-   ],
-   "link": "https://link.coupang.com/a/gzVjZPBoxE"
   }
  ]
 }
