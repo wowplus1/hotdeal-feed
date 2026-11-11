@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-11T21:08:34.869+09:00",
+ "updated": "2026-11-11T21:56:01.906+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1218030029",
+   "mall": "토스쇼핑",
+   "title": "헤이필드 그릭요거트 플레인, 100g, 5개",
+   "price": 12860,
+   "image": "https://shopping.toss.im/live/temp/2026-08-13/7575d398-51ec-4a01-a42b-c91fd6f036b8.jpeg",
+   "sentAt": "2026-11-11T21:56:01.121+09:00",
+   "saving": 24,
+   "baseline": 16960,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 2572
+   },
+   "comps": [
+    {
+     "name": "판매글 4곳 최저가",
+     "price": 16960
+    }
+   ],
+   "link": "https://toss.im/_m/1Qey6hX1"
+  },
   {
    "uid": "9979882512",
    "mall": "11번가",
@@ -3985,24 +4007,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/hgY1v3gKJw"
-  },
-  {
-   "uid": "9309571842",
-   "mall": "토스쇼핑",
-   "title": "웨이크비 스페셜 콜드브루, 1L, 1개",
-   "price": 7410,
-   "image": "https://shopping.toss.im/08f/live/product/799856465/08f304a4-a36e-4166-93ea-0c71e7802c38.jpg",
-   "sentAt": "2026-11-10T21:46:31.769+09:00",
-   "saving": 48,
-   "baseline": 14370,
-   "baselineNote": "판매글 37곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 37곳 최저가",
-     "price": 14370
-    }
-   ],
-   "link": "https://toss.shopping/_m/F7TymhWD"
   }
  ]
 }
