@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-11T20:34:14.103+09:00",
+ "updated": "2026-11-11T21:08:34.869+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9979882512",
+   "mall": "11번가",
+   "title": "널담 뚱카롱 4.5cm 고식이섬유 마카롱 8구",
+   "price": 8380,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/2797124560/B.webp?62584350",
+   "sentAt": "2026-11-11T21:08:34.249+09:00",
+   "saving": 31,
+   "baseline": 12150,
+   "baselineNote": "판매글 17곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 17곳 최저가",
+     "price": 12150
+    }
+   ],
+   "link": "http://app.ac/TECmO3S93"
+  },
   {
    "uid": "7364238814",
    "mall": "쿠팡",
@@ -3985,28 +4003,6 @@
     }
    ],
    "link": "https://toss.shopping/_m/F7TymhWD"
-  },
-  {
-   "uid": "6874123835",
-   "mall": "토스쇼핑",
-   "title": "시래기 곱창전골, 1kg, 2개",
-   "price": 14110,
-   "image": "https://shopping.toss.im/live/temp/2026-09-28/9cea9812-e99c-4bbd-afc3-01755e3fd4bf.png",
-   "sentAt": "2026-11-10T20:16:19.553+09:00",
-   "saving": 32,
-   "baseline": 20850,
-   "baselineNote": "판매글 10곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 7055
-   },
-   "comps": [
-    {
-     "name": "판매글 10곳 최저가",
-     "price": 20850
-    }
-   ],
-   "link": "https://toss.shopping/_m/zK9Z5OGx"
   }
  ]
 }
