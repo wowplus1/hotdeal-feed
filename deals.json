@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-11T13:35:26.804+09:00",
+ "updated": "2026-11-11T13:37:03.124+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2658603883",
+   "mall": "토스쇼핑",
+   "title": "사리원 송탄식 부대찌개, 400g, 4팩",
+   "price": 12480,
+   "image": "https://shopping.toss.im/live/taca/ai/OWJlNmZm/QUtYTkxqTkhES3p6bnF6NDR4NDlNOE42TkllUHlQRStDUTNEdUw4VUQ4SWM.png",
+   "sentAt": "2026-11-11T13:37:02.422+09:00",
+   "saving": 36,
+   "baseline": 19410,
+   "baselineNote": "판매글 39곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 3120
+   },
+   "comps": [
+    {
+     "name": "판매글 39곳 최저가",
+     "price": 19410
+    }
+   ],
+   "link": "https://toss.shopping/_m/htuV6nU6"
+  },
   {
    "uid": "5291919231",
    "mall": "11번가",
@@ -3747,151 +3769,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=3336362692"
-  },
-  {
-   "uid": "3245760240",
-   "mall": "지마켓",
-   "title": "크리넥스 3겹 데코앤소프트 와이드 33M 24롤 2팩",
-   "price": 26870,
-   "image": "https://gdimg.gmarket.co.kr/3975054886/goodsimage",
-   "sentAt": "2026-11-10T09:58:38.255+09:00",
-   "saving": 23,
-   "baseline": 34900,
-   "baselineNote": "250곳 중 최저 · 무료배송",
-   "unit": {
-    "label": "개당",
-    "value": 13435
-   },
-   "check": {
-    "market": 34900,
-    "malls": 250,
-    "ship": 0
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": true,
-    "low": 28220
-   },
-   "review": {
-    "score": 4.8,
-    "count": 611,
-    "low": 2
-   },
-   "comps": [
-    {
-     "name": "250곳 중 최저 · 무료배송",
-     "price": 34900
-    }
-   ],
-   "trend": [
-    {
-     "m": "25-12",
-     "p": 33150
-    },
-    {
-     "m": "26-01",
-     "p": 32700
-    },
-    {
-     "m": "26-02",
-     "p": 33920
-    },
-    {
-     "m": "26-03",
-     "p": 34020
-    },
-    {
-     "m": "26-04",
-     "p": 33900
-    },
-    {
-     "m": "26-05",
-     "p": 32900
-    },
-    {
-     "m": "26-06",
-     "p": 31900
-    },
-    {
-     "m": "26-07",
-     "p": 28220
-    },
-    {
-     "m": "26-08",
-     "p": 33900
-    },
-    {
-     "m": "26-09",
-     "p": 32010
-    },
-    {
-     "m": "26-10",
-     "p": 34900
-    },
-    {
-     "m": "26-11",
-     "p": 34900
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "7774272243",
-     "price": 34900,
-     "ship": 0
-    },
-    {
-     "mall": "패션플러스",
-     "code": "TH002",
-     "id": "331415638",
-     "price": 35030,
-     "ship": 0
-    },
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "F698926155",
-     "price": 36000,
-     "ship": 3000
-    },
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "4890692426",
-     "price": 36000,
-     "ship": 3000
-    },
-    {
-     "mall": "롯데ON",
-     "code": "EE309",
-     "id": "LO2702833003",
-     "price": 40340,
-     "ship": 0
-    },
-    {
-     "mall": "SSG.COM",
-     "code": "TN118",
-     "id": "1000851090878",
-     "price": 42687,
-     "ship": 3000
-    },
-    {
-     "mall": "홈&amp;쇼핑",
-     "code": "TLB17",
-     "id": "47425604",
-     "price": 45540,
-     "ship": 0
-    },
-    {
-     "mall": "이마트몰",
-     "code": "EE311",
-     "id": "1000851090878",
-     "price": 45900,
-     "ship": 3000
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=3975054886"
   }
  ]
 }
