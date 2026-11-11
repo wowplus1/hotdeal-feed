@@ -1,7 +1,168 @@
 {
- "updated": "2026-11-11T12:57:16.594+09:00",
+ "updated": "2026-11-11T12:59:23.871+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7485360797",
+   "mall": "쿠팡",
+   "title": "환타 파인애플 오리지널, 350ml, 24개",
+   "price": 12810,
+   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/125068738929061-1de809b1-a9b8-4051-8c68-c18d12657386.jpg",
+   "sentAt": "2026-11-11T12:59:23.325+09:00",
+   "saving": 38,
+   "baseline": 20610,
+   "baselineNote": "판매글 7곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 534
+   },
+   "comps": [
+    {
+     "name": "판매글 7곳 최저가",
+     "price": 20610
+    }
+   ],
+   "link": "https://link.coupang.com/a/ikWYiSbb40"
+  },
+  {
+   "uid": "3315919892",
+   "mall": "쿠팡",
+   "title": "포테토칩 오리지널, 60g, 5개",
+   "price": 4540,
+   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/27592320150168-04635473-c2c3-4a3f-aa57-1e18c80f8da5.jpg",
+   "sentAt": "2026-11-11T12:59:23.325+09:00",
+   "saving": 30,
+   "baseline": 6440,
+   "baselineNote": "112곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 908
+   },
+   "check": {
+    "market": 6440,
+    "malls": 112
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 5080
+   },
+   "comps": [
+    {
+     "name": "112곳 중 최저",
+     "price": 6440
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 6370
+    },
+    {
+     "m": "26-01",
+     "p": 6320
+    },
+    {
+     "m": "26-02",
+     "p": 5500
+    },
+    {
+     "m": "26-03",
+     "p": 5600
+    },
+    {
+     "m": "26-04",
+     "p": 5400
+    },
+    {
+     "m": "26-05",
+     "p": 5080
+    },
+    {
+     "m": "26-06",
+     "p": 5560
+    },
+    {
+     "m": "26-07",
+     "p": 6150
+    },
+    {
+     "m": "26-08",
+     "p": 6440
+    },
+    {
+     "m": "26-09",
+     "p": 6440
+    },
+    {
+     "m": "26-10",
+     "p": 5950
+    },
+    {
+     "m": "26-11",
+     "p": 6440
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "4641753687",
+     "price": 6440,
+     "ship": 3000
+    },
+    {
+     "mall": "GS SHOP",
+     "code": "ED908",
+     "id": "1015293858",
+     "price": 6510,
+     "ship": 3000
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4562349398",
+     "price": 6640,
+     "ship": 3000
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "E949961653",
+     "price": 7000,
+     "ship": 3000
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000424186445",
+     "price": 7296,
+     "ship": 3000
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000424186445",
+     "price": 7680,
+     "ship": 3000
+    },
+    {
+     "mall": "신세계몰",
+     "code": "ED901",
+     "id": "1000424186445",
+     "price": 7680,
+     "ship": 3000
+    },
+    {
+     "mall": "TUC261",
+     "code": "TUC261",
+     "id": "12779806351",
+     "price": 8950,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/iAdT4RBYNU"
+  },
   {
    "uid": "5283587820",
    "mall": "쿠팡",
@@ -3755,46 +3916,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iyjUyLTsya"
-  },
-  {
-   "uid": "3029684283",
-   "mall": "토스쇼핑",
-   "title": "맘스럽 아토워시 프렌치 라벤더 캡슐세제 파우치형, 실내건조형, 200개입, 1개",
-   "price": 6750,
-   "image": "https://shopping.toss.im/live/temp/2025-05-14/52c78bea-ea6e-40df-92a3-fca69d1d7141.jpeg",
-   "sentAt": "2026-11-10T09:26:04.499+09:00",
-   "saving": 53,
-   "baseline": 14310,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 34
-   },
-   "comps": [
-    {
-     "name": "판매글 4곳 최저가",
-     "price": 14310
-    }
-   ],
-   "link": "https://toss.im/_m/X6HQ0fX1"
-  },
-  {
-   "uid": "5850013641",
-   "mall": "11번가",
-   "title": "두메산골 냉장 닭다리살 1kg+1kg",
-   "price": 18690,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/0/1/3/0/7/9/Bkkbh/7382013079_218162491.jpg",
-   "sentAt": "2026-11-10T09:04:22.125+09:00",
-   "saving": 20,
-   "baseline": 23310,
-   "baselineNote": "판매글 19곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 19곳 최저가",
-     "price": 23310
-    }
-   ],
-   "link": "http://app.ac/W3Cq22J13"
   }
  ]
 }
