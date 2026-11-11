@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-11T14:26:35.938+09:00",
+ "updated": "2026-11-11T14:28:28.402+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5723152247",
+   "mall": "지마켓",
+   "title": "팔도 왕뚜껑 오리지널+김치 10+10 / 20개",
+   "price": 17300,
+   "image": "https://gdimg.gmarket.co.kr/4478067865/goodsimage",
+   "sentAt": "2026-11-11T14:28:27.852+09:00",
+   "saving": 21,
+   "baseline": 21920,
+   "baselineNote": "판매글 6곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 6곳 최저가",
+     "price": 21920
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4478067865"
+  },
   {
    "uid": "4988778631",
    "mall": "쿠팡",
@@ -3811,28 +3829,6 @@
     }
    ],
    "link": "https://toss.im/_m/B0yiVkKj"
-  },
-  {
-   "uid": "4728914755",
-   "mall": "지마켓",
-   "title": "크리넥스 3겹 울트라클린 화이트 25M X 24롤 2팩 화장지",
-   "price": 19400,
-   "image": "https://gdimg.gmarket.co.kr/4453898729/goodsimage",
-   "sentAt": "2026-11-10T13:34:08.583+09:00",
-   "saving": 31,
-   "baseline": 28170,
-   "baselineNote": "판매글 17곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 9700
-   },
-   "comps": [
-    {
-     "name": "판매글 17곳 최저가",
-     "price": 28170
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4453898729"
   }
  ]
 }
