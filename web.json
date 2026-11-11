@@ -1,7 +1,153 @@
 {
- "updated": "2026-11-11T09:09:11.283+09:00",
+ "updated": "2026-11-11T09:15:08.790+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "5652185367",
+   "mall": "11번가",
+   "title": "하겐다즈 아이스크림 파인트 3개 골라담기",
+   "price": 22070,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/7/6/2/3/3/9/MJeLY/6989762339_239953706.webp",
+   "sentAt": "2026-11-11T09:15:08.790+09:00",
+   "saving": 15,
+   "baseline": 25920,
+   "baselineNote": "42곳 중 최저 · 무료배송",
+   "unit": {
+    "label": "개당",
+    "value": 7357
+   },
+   "check": {
+    "market": 25920,
+    "malls": 42,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 24930
+   },
+   "review": {
+    "score": 4.7,
+    "count": 12345,
+    "low": 76
+   },
+   "comps": [
+    {
+     "name": "42곳 중 최저 · 무료배송",
+     "price": 25920
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 27910
+    },
+    {
+     "m": "26-01",
+     "p": 26880
+    },
+    {
+     "m": "26-02",
+     "p": 26900
+    },
+    {
+     "m": "26-03",
+     "p": 26860
+    },
+    {
+     "m": "26-04",
+     "p": 27500
+    },
+    {
+     "m": "26-05",
+     "p": 26900
+    },
+    {
+     "m": "26-06",
+     "p": 27900
+    },
+    {
+     "m": "26-07",
+     "p": 29910
+    },
+    {
+     "m": "26-08",
+     "p": 26900
+    },
+    {
+     "m": "26-09",
+     "p": 27900
+    },
+    {
+     "m": "26-10",
+     "p": 26900
+    },
+    {
+     "m": "26-11",
+     "p": 24930
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "6989762339",
+     "price": 25920,
+     "ship": 0
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "D864525524",
+     "price": 28260,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "3464354270",
+     "price": 29320,
+     "ship": 0
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000061599607",
+     "price": 31550,
+     "ship": 0
+    },
+    {
+     "mall": "GS SHOP",
+     "code": "ED908",
+     "id": "90179666",
+     "price": 32460,
+     "ship": 0
+    },
+    {
+     "mall": "신세계몰",
+     "code": "ED901",
+     "id": "1000061599607",
+     "price": 33210,
+     "ship": 0
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000061599607",
+     "price": 33210,
+     "ship": 0
+    },
+    {
+     "mall": "CJ온스타일",
+     "code": "ED909",
+     "id": "2013052608",
+     "price": 34900,
+     "ship": 0
+    }
+   ],
+   "link": "http://app.ac/dAGY50513",
+   "web": true
+  },
   {
    "uid": "1055692341",
    "mall": "쿠팡",
@@ -9696,19 +9842,6 @@
    "sentAt": "2026-11-02T04:34:18.920+09:00",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4616965399",
-   "web": true
-  },
-  {
-   "uid": "4006837990",
-   "mall": "쿠팡",
-   "title": "이니스프리 블랙 화산송이 파하 모공 클렌징오일 200ml",
-   "price": 6110,
-   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/06/23/17/8/8e537824-1e6e-4655-8fb1-b2d6cc0c9ffa.jpg",
-   "sentAt": "2026-11-02T01:15:43.553+09:00",
-   "saving": 42,
-   "baseline": 10620,
-   "baselineNote": "판매글 25곳 최저가",
-   "link": "https://link.coupang.com/a/iktmvBwxB6",
    "web": true
   }
  ]
