@@ -1,7 +1,34 @@
 {
- "updated": "2026-11-11T19:58:42.087+09:00",
+ "updated": "2026-11-11T21:50:15.781+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "2478977536",
+   "mall": "롯데온",
+   "title": "유귀열의The귀한 소곱창전골 1000g 4팩",
+   "price": 21140,
+   "image": "https://contents.lotteon.com/itemimage/20261028112752/LO/26/79/12/16/13/_2/67/91/21/61/4/LO2679121613_2679121614_1.jpg",
+   "sentAt": "2026-11-11T21:50:15.781+09:00",
+   "saving": 11,
+   "baseline": 23630,
+   "baselineNote": "75곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 5285
+   },
+   "check": {
+    "market": 23630,
+    "malls": 75
+   },
+   "comps": [
+    {
+     "name": "75곳 중 최저",
+     "price": 23630
+    }
+   ],
+   "link": "http://app.ac/EjpK0va63",
+   "web": true
+  },
   {
    "uid": "3504612195",
    "mall": "지마켓",
@@ -10392,19 +10419,6 @@
    "baseline": 220000,
    "baselineNote": "88곳 중 최저 · 무료배송",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4565350697",
-   "web": true
-  },
-  {
-   "uid": "3734471631",
-   "mall": "지마켓",
-   "title": "레노버 모니터 27인치 fhd 240hz ips as3년",
-   "price": 112677,
-   "image": "https://gdimg.gmarket.co.kr/4740285344/goodsimage",
-   "sentAt": "2026-11-02T10:10:42.439+09:00",
-   "saving": 31,
-   "baseline": 163350,
-   "baselineNote": "판매글 12곳 최저가",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4740285344",
    "web": true
   }
  ]
