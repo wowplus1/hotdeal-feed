@@ -1,7 +1,157 @@
 {
- "updated": "2026-11-11T13:43:19.621+09:00",
+ "updated": "2026-11-11T13:48:18.483+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5813922595",
+   "mall": "쿠팡",
+   "title": "풀무원 로스팅 짜장 파기름 라면 105g, 4개",
+   "price": 2980,
+   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/86620423628023-637203d9-bc28-4be6-99ee-a94e51197772.jpg",
+   "sentAt": "2026-11-11T13:48:17.926+09:00",
+   "saving": 33,
+   "baseline": 4480,
+   "baselineNote": "26곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 745
+   },
+   "check": {
+    "market": 4480,
+    "malls": 26,
+    "ship": 3000,
+    "delivered": 7480
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": false,
+    "low": 2940
+   },
+   "spec": [
+    "봉지라면",
+    "짜장라면",
+    "건면"
+   ],
+   "comps": [
+    {
+     "name": "26곳 중 최저",
+     "price": 4480
+    },
+    {
+     "name": "배송비 3,000원 포함",
+     "price": 7480
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 4020
+    },
+    {
+     "m": "26-01",
+     "p": 4020
+    },
+    {
+     "m": "26-02",
+     "p": 3740
+    },
+    {
+     "m": "26-03",
+     "p": 3970
+    },
+    {
+     "m": "26-04",
+     "p": 4020
+    },
+    {
+     "m": "26-05",
+     "p": 3590
+    },
+    {
+     "m": "26-06",
+     "p": 4020
+    },
+    {
+     "m": "26-07",
+     "p": 4020
+    },
+    {
+     "m": "26-08",
+     "p": 3040
+    },
+    {
+     "m": "26-09",
+     "p": 2940
+    },
+    {
+     "m": "26-10",
+     "p": 3120
+    },
+    {
+     "m": "26-11",
+     "p": 4480
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "D824834993",
+     "price": 4480,
+     "ship": 3000
+    },
+    {
+     "mall": "패션플러스",
+     "code": "TH002",
+     "id": "297241389",
+     "price": 4490,
+     "ship": 3000
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4070685628",
+     "price": 4620,
+     "ship": 3000
+    },
+    {
+     "mall": "주식회사 신세계라이브쇼핑",
+     "code": "TRB03",
+     "id": "83703760",
+     "price": 4640,
+     "ship": 3000
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "7456277662",
+     "price": 4900,
+     "ship": 3000
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000825928025",
+     "price": 9000,
+     "ship": 0
+    },
+    {
+     "mall": "신세계몰",
+     "code": "ED901",
+     "id": "1000825928025",
+     "price": 9000,
+     "ship": 0
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000825928025",
+     "price": 9000,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/iAhn4BhOzA"
+  },
   {
    "uid": "9909948407",
    "mall": "쿠팡",
@@ -3798,91 +3948,6 @@
     }
    ],
    "link": "https://toss.shopping/_m/9SBKeCx8"
-  },
-  {
-   "uid": "8173576091",
-   "mall": "쿠팡",
-   "title": "몽쉘 생크림 케이크 리치 치즈 카라멜 치플레 6p 222g 2개",
-   "price": 6280,
-   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/a647ecd2-69bb-4455-8102-0329a726c9784199843456585591655.png",
-   "sentAt": "2026-11-10T10:40:10.767+09:00",
-   "saving": 28,
-   "baseline": 8740,
-   "baselineNote": "67곳 중 최저 · 무료배송",
-   "unit": {
-    "label": "개당",
-    "value": 3140
-   },
-   "check": {
-    "market": 8740,
-    "malls": 67,
-    "ship": 0
-   },
-   "comps": [
-    {
-     "name": "67곳 중 최저 · 무료배송",
-     "price": 8740
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "F686074247",
-     "price": 8740,
-     "ship": 0
-    },
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "4878261182",
-     "price": 8740,
-     "ship": 0
-    },
-    {
-     "mall": "SSG.COM",
-     "code": "TN118",
-     "id": "1000889818023",
-     "price": 8835,
-     "ship": 0
-    },
-    {
-     "mall": "SK스토아",
-     "code": "TSB275",
-     "id": "69818975",
-     "price": 9000,
-     "ship": 0
-    },
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "9680379885",
-     "price": 9030,
-     "ship": 0
-    },
-    {
-     "mall": "롯데백화점",
-     "code": "TLC16",
-     "id": "LE1222693687",
-     "price": 9190,
-     "ship": 0
-    },
-    {
-     "mall": "롯데ON",
-     "code": "EE309",
-     "id": "LE1222693687",
-     "price": 9190,
-     "ship": 0
-    },
-    {
-     "mall": "현대Hmall",
-     "code": "ED907",
-     "id": "2255451721",
-     "price": 9470,
-     "ship": 0
-    }
-   ],
-   "link": "https://link.coupang.com/a/iyo2Yvus0W"
   }
  ]
 }
