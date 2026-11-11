@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-11T16:10:03.634+09:00",
+ "updated": "2026-11-11T16:34:17.341+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4642295886",
+   "mall": "지마켓",
+   "title": "토레타 500ml x 24개 + 토레타 키캡키링 증정",
+   "price": 14440,
+   "image": "https://gdimg.gmarket.co.kr/4898859500/goodsimage",
+   "sentAt": "2026-11-11T16:34:16.551+09:00",
+   "alt": {
+    "price": 16160,
+    "where": "853곳 중 최저",
+    "ship": 3000
+   },
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4898859500"
+  },
   {
    "uid": "2101345695",
    "mall": "쿠팡",
@@ -3997,24 +4011,6 @@
     }
    ],
    "link": "http://app.ac/rtneQ5M43"
-  },
-  {
-   "uid": "3421888787",
-   "mall": "롯데온",
-   "title": "고품질 특품 정량 로메인청상추 1kg/2kg",
-   "price": 5980,
-   "image": "https://contents.lotteon.com/itemimage/20260929111612/LO/25/79/65/87/49/_2/57/96/58/75/0/LO2579658749_2579658750_1.jpg",
-   "sentAt": "2026-11-10T17:48:26.240+09:00",
-   "saving": 35,
-   "baseline": 9210,
-   "baselineNote": "판매글 5곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 5곳 최저가",
-     "price": 9210
-    }
-   ],
-   "link": "http://app.ac/eAGzYZ563"
   }
  ]
 }
