@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-11T09:08:15.679+09:00",
+ "updated": "2026-11-11T09:28:07.926+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8672778180",
+   "mall": "쿠팡",
+   "title": "우르오스 올인원 모이스처라이저 스킨로션 지복합성, 200ml, 1개",
+   "price": 16600,
+   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/6517837272263-9b9fddf3-caf3-4eb6-b88d-3e0e4d813efe.jpg",
+   "sentAt": "2026-11-11T09:28:07.107+09:00",
+   "saving": 21,
+   "baseline": 21010,
+   "baselineNote": "판매글 14곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 14곳 최저가",
+     "price": 21010
+    }
+   ],
+   "link": "https://link.coupang.com/a/izYOkRZURg"
+  },
   {
    "uid": "6885895589",
    "mall": "지마켓",
@@ -3372,24 +3390,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iwQnkhSpJ6"
-  },
-  {
-   "uid": "7449876205",
-   "mall": "11번가",
-   "title": "크리오 덴티메이트시즌2 콤팩트 헤드 칫솔 초극세모 칫솔 10입, 3개+증정",
-   "price": 10900,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/6421323878/B.webp?339456470",
-   "sentAt": "2026-11-09T11:45:15.767+09:00",
-   "saving": 28,
-   "baseline": 15050,
-   "baselineNote": "판매글 4곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 4곳 최저가",
-     "price": 15050
-    }
-   ],
-   "link": "http://app.ac/CAGilf503"
   }
  ]
 }
