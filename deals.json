@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-12T07:51:17.781+09:00",
+ "updated": "2026-11-12T08:08:40.433+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2853721965",
+   "mall": "지마켓",
+   "title": "완도 활전복 9~11미 1kg",
+   "price": 25470,
+   "image": "https://gdimg.gmarket.co.kr/3387179402/goodsimage",
+   "sentAt": "2026-11-12T08:08:39.879+09:00",
+   "saving": 50,
+   "baseline": 50730,
+   "baselineNote": "판매글 10곳 최저가",
+   "unit": {
+    "label": "100g당",
+    "value": 2547
+   },
+   "comps": [
+    {
+     "name": "판매글 10곳 최저가",
+     "price": 50730
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=3387179402"
+  },
   {
    "uid": "1223397952",
    "mall": "토스쇼핑",
@@ -3871,24 +3893,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/gzVjZPBoxE"
-  },
-  {
-   "uid": "7603810735",
-   "mall": "쿠팡",
-   "title": "스너글 스파클링 시트러스 더블 소프트 섬유탈취제 본품 470ml 1개",
-   "price": 3080,
-   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/06/20/10/6/ba4022ae-68b7-495e-85f5-af49561a3497.jpg",
-   "sentAt": "2026-11-11T07:20:09.115+09:00",
-   "saving": 58,
-   "baseline": 7310,
-   "baselineNote": "판매글 9곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 9곳 최저가",
-     "price": 7310
-    }
-   ],
-   "link": "https://link.coupang.com/a/izPEoK7CGO"
   }
  ]
 }
