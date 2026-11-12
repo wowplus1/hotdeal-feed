@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-12T17:52:19.009+09:00",
+ "updated": "2026-11-12T21:39:04.071+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "6046853239",
+   "mall": "지마켓",
+   "title": "AULA kunlun X5 독슈스 햅틱 마우스 paw3955 8k",
+   "price": 59900,
+   "image": "https://gdimg.gmarket.co.kr/4888295934/goodsimage",
+   "sentAt": "2026-11-12T21:39:04.071+09:00",
+   "saving": 29,
+   "baseline": 84510,
+   "baselineNote": "판매글 10곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 10곳 최저가",
+     "price": 84510
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4888295934",
+   "web": true
+  },
   {
    "uid": "8616584859",
    "mall": "지마켓",
@@ -7643,25 +7662,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/itcC28gwyi",
-   "web": true
-  },
-  {
-   "uid": "6046853239",
-   "mall": "지마켓",
-   "title": "AULA kunlun X5 독슈스 햅틱 마우스 paw3955 8k",
-   "price": 62500,
-   "image": "https://gdimg.gmarket.co.kr/4888295934/goodsimage",
-   "sentAt": "2026-11-07T03:38:39.742+09:00",
-   "saving": 27,
-   "baseline": 86080,
-   "baselineNote": "판매글 12곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 12곳 최저가",
-     "price": 86080
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4888295934",
    "web": true
   },
   {
