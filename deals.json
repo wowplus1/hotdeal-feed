@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-13T08:08:32.512+09:00",
+ "updated": "2026-11-13T08:42:56.456+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7808861834",
+   "mall": "쿠팡",
+   "title": "일리 볼드 로스트 인텐소 캡슐커피 6.7g*21개입*1개",
+   "price": 10080,
+   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/43903717961606-a77261af-97df-4b32-8f79-b8fb1957807c.jpg",
+   "sentAt": "2026-11-13T08:42:55.687+09:00",
+   "saving": 50,
+   "baseline": 20230,
+   "baselineNote": "판매글 8곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 480
+   },
+   "comps": [
+    {
+     "name": "판매글 8곳 최저가",
+     "price": 20230
+    }
+   ],
+   "link": "https://link.coupang.com/a/g4SJ6uYMa4"
+  },
   {
    "uid": "2060412446",
    "mall": "쿠팡",
@@ -2749,28 +2771,6 @@
    "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/7214702412/B.png?966093720",
    "sentAt": "2026-11-11T13:03:53.593+09:00",
    "link": "http://app.ac/REwWCVS33"
-  },
-  {
-   "uid": "7485360797",
-   "mall": "쿠팡",
-   "title": "환타 파인애플 오리지널, 350ml, 24개",
-   "price": 12810,
-   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/125068738929061-1de809b1-a9b8-4051-8c68-c18d12657386.jpg",
-   "sentAt": "2026-11-11T12:59:23.325+09:00",
-   "saving": 38,
-   "baseline": 20610,
-   "baselineNote": "판매글 7곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 534
-   },
-   "comps": [
-    {
-     "name": "판매글 7곳 최저가",
-     "price": 20610
-    }
-   ],
-   "link": "https://link.coupang.com/a/ikWYiSbb40"
   }
  ]
 }
