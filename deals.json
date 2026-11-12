@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-12T13:00:54.349+09:00",
+ "updated": "2026-11-12T14:35:49.589+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1452721585",
+   "mall": "쿠팡",
+   "title": "오리온 더 깔끔한 자일리톨 102g 2개",
+   "price": 4860,
+   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/450797600104396-10c7e8d1-7448-4604-b56d-d51d17147cdc.jpg",
+   "sentAt": "2026-11-12T14:35:48.300+09:00",
+   "saving": 42,
+   "baseline": 8370,
+   "baselineNote": "판매글 25곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 2430
+   },
+   "comps": [
+    {
+     "name": "판매글 25곳 최저가",
+     "price": 8370
+    }
+   ],
+   "link": "https://link.coupang.com/a/iBZDSVPnum"
+  },
   {
    "uid": "2105825310",
    "mall": "쿠팡",
@@ -3058,28 +3080,6 @@
     "ship": 0
    },
    "link": "https://link.coupang.com/a/gOImJXrNnw"
-  },
-  {
-   "uid": "5286097204",
-   "mall": "토스쇼핑",
-   "title": "광천김 3대째 달인 김자반, 60g, 5봉",
-   "price": 7380,
-   "image": "https://shopping.toss.im/live/taca/ai/NTk0MWRl/QUtXN3ZDbFc2M2x6VjZ0NWIycFQ1dGF0T1dmVHJXRzFyMXJVV1hENjFPYk4.png",
-   "sentAt": "2026-11-11T10:38:12.513+09:00",
-   "saving": 37,
-   "baseline": 11690,
-   "baselineNote": "다른 곳 최저",
-   "unit": {
-    "label": "개당",
-    "value": 1476
-   },
-   "comps": [
-    {
-     "name": "다른 곳 최저",
-     "price": 11690
-    }
-   ],
-   "link": "https://toss.im/_m/HxGNfEKp"
   }
  ]
 }
