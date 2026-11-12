@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-12T17:04:47.648+09:00",
+ "updated": "2026-11-12T18:28:18.327+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9574671540",
+   "mall": "토스쇼핑",
+   "title": "호풍미 호박고구마, 특대, 10kg, 1박스",
+   "price": 14520,
+   "image": "https://shopping.toss.im/live/temp/2026-09-30/99351aac-dfa1-42ae-beca-be6edcc044ba.jpeg",
+   "sentAt": "2026-11-12T18:28:17.505+09:00",
+   "saving": 41,
+   "baseline": 24750,
+   "baselineNote": "판매글 31곳 최저가",
+   "unit": {
+    "label": "100g당",
+    "value": 145
+   },
+   "comps": [
+    {
+     "name": "판매글 31곳 최저가",
+     "price": 24750
+    }
+   ],
+   "link": "https://toss.shopping/_m/PAE79zxC"
+  },
   {
    "uid": "4500064432",
    "mall": "쿠팡",
@@ -3109,110 +3131,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/hLYBAktSKq"
-  },
-  {
-   "uid": "4131704365",
-   "mall": "쿠팡",
-   "title": "농심 사리면 110g 15개",
-   "price": 3110,
-   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/42a2/ad03262b2ef68550bdb7c7f194a5e97a19f5f4a0fee93aa84fe067d7ed55.jpg",
-   "sentAt": "2026-11-11T11:13:51.702+09:00",
-   "saving": 23,
-   "baseline": 4050,
-   "baselineNote": "17곳 중 최저",
-   "unit": {
-    "label": "개당",
-    "value": 207
-   },
-   "check": {
-    "market": 4050,
-    "malls": 17
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": true,
-    "low": 3700
-   },
-   "comps": [
-    {
-     "name": "17곳 중 최저",
-     "price": 4050
-    }
-   ],
-   "trend": [
-    {
-     "m": "25-12",
-     "p": 4670
-    },
-    {
-     "m": "26-01",
-     "p": 4530
-    },
-    {
-     "m": "26-02",
-     "p": 3750
-    },
-    {
-     "m": "26-03",
-     "p": 3750
-    },
-    {
-     "m": "26-04",
-     "p": 3700
-    },
-    {
-     "m": "26-05",
-     "p": 3740
-    },
-    {
-     "m": "26-06",
-     "p": 3750
-    },
-    {
-     "m": "26-07",
-     "p": 3920
-    },
-    {
-     "m": "26-08",
-     "p": 4410
-    },
-    {
-     "m": "26-09",
-     "p": 4410
-    },
-    {
-     "m": "26-10",
-     "p": 4010
-    },
-    {
-     "m": "26-11",
-     "p": 3960
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "4663379993",
-     "price": 4050,
-     "ship": 3000
-    },
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "F470305626",
-     "price": 4050,
-     "ship": 3000
-    },
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "9119771014",
-     "price": 4140,
-     "ship": 3000
-    }
-   ],
-   "link": "https://link.coupang.com/a/h1QY3sV5Gu"
   }
  ]
 }
