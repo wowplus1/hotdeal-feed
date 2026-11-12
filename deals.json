@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-12T09:46:25.938+09:00",
+ "updated": "2026-11-12T10:00:56.538+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4951946124",
+   "mall": "지마켓",
+   "title": "글라스락베이비 이유식용기 270ml 6조 18,520원",
+   "price": 17500,
+   "image": "https://gdimg.gmarket.co.kr/4713398004/goodsimage",
+   "sentAt": "2026-11-12T10:00:55.729+09:00",
+   "saving": 28,
+   "baseline": 24170,
+   "baselineNote": "다른 곳 최저",
+   "comps": [
+    {
+     "name": "다른 곳 최저",
+     "price": 24170
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4713398004"
+  },
   {
    "uid": "8333283186",
    "mall": "하이마트",
@@ -3537,24 +3555,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4723212071"
-  },
-  {
-   "uid": "4428965171",
-   "mall": "11번가",
-   "title": "센소다인 시린이케어 오리지날 플러스 치약 100g, 6개+딥클린 칫솔 1입,1개 + 증정",
-   "price": 16680,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/8255226587/B.jpg?596076734",
-   "sentAt": "2026-11-11T08:49:20.464+09:00",
-   "saving": 42,
-   "baseline": 28860,
-   "baselineNote": "판매글 9곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 9곳 최저가",
-     "price": 28860
-    }
-   ],
-   "link": "http://app.ac/6jpEYia03"
   }
  ]
 }
