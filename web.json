@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-12T00:11:12.730+09:00",
+ "updated": "2026-11-12T09:48:10.500+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "2443530680",
+   "mall": "11번가",
+   "title": "그릴보이 보일링씨푸드 1450g 미국 해물찜",
+   "price": 24360,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/9/0/7/9/0/1/ZRkfY/9419907901_237617103.webp",
+   "sentAt": "2026-11-12T09:48:10.500+09:00",
+   "saving": 17,
+   "baseline": 29360,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": {
+    "label": "100g당",
+    "value": 1680
+   },
+   "comps": [
+    {
+     "name": "판매글 3곳 최저가",
+     "price": 29360
+    }
+   ],
+   "link": "http://app.ac/fbpiRnl23",
+   "web": true
+  },
   {
    "uid": "9337126169",
    "mall": "쿠팡",
@@ -10448,19 +10471,6 @@
    "baseline": 599000,
    "baselineNote": "판매글 3곳 최저가",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4441064335",
-   "web": true
-  },
-  {
-   "uid": "2675518231",
-   "mall": "하이마트",
-   "title": "세라믹 선풍기형 좌석용 히터 KEH-S25C",
-   "price": 29900,
-   "image": "https://static2.e-himart.co.kr/contents/goods/00/73/01/71/07/0073017107__KEH-S25C__M_640_640.jpg",
-   "sentAt": "2026-11-02T16:54:11.066+09:00",
-   "saving": 25,
-   "baseline": 40020,
-   "baselineNote": "30곳 중 최저 · 무료배송",
-   "link": "http://app.ac/GEwjEXS83",
    "web": true
   }
  ]
