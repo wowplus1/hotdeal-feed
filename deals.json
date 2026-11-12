@@ -1,7 +1,151 @@
 {
- "updated": "2026-11-13T08:53:56.226+09:00",
+ "updated": "2026-11-13T08:56:50.770+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4029279629",
+   "mall": "쿠팡",
+   "title": "어메이징오트 언스위트, 190ml, 24개",
+   "price": 10650,
+   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/0bd6/e5de94f65093969e229a4d11aee238e462abda727234f2a3d112bdfac96f.png",
+   "sentAt": "2026-11-13T08:56:50.139+09:00",
+   "saving": 24,
+   "baseline": 13990,
+   "baselineNote": "181곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 444
+   },
+   "check": {
+    "market": 13990,
+    "malls": 181
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": false,
+    "low": 10480
+   },
+   "review": {
+    "score": 4.7,
+    "count": 2890,
+    "low": 28
+   },
+   "comps": [
+    {
+     "name": "181곳 중 최저",
+     "price": 13990
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 10480
+    },
+    {
+     "m": "26-01",
+     "p": 13270
+    },
+    {
+     "m": "26-02",
+     "p": 11500
+    },
+    {
+     "m": "26-03",
+     "p": 11180
+    },
+    {
+     "m": "26-04",
+     "p": 13570
+    },
+    {
+     "m": "26-05",
+     "p": 13530
+    },
+    {
+     "m": "26-06",
+     "p": 13490
+    },
+    {
+     "m": "26-07",
+     "p": 13590
+    },
+    {
+     "m": "26-08",
+     "p": 13590
+    },
+    {
+     "m": "26-09",
+     "p": 12960
+    },
+    {
+     "m": "26-10",
+     "p": 13950
+    },
+    {
+     "m": "26-11",
+     "p": 13590
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "E925966462",
+     "price": 13990,
+     "ship": 4000
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4892155948",
+     "price": 13990,
+     "ship": 4000
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2702777166",
+     "price": 14300,
+     "ship": 3000
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "7214678203",
+     "price": 14500,
+     "ship": 0
+    },
+    {
+     "mall": "하프클럽",
+     "code": "TZ6171",
+     "id": "369794100",
+     "price": 17020,
+     "ship": 0
+    },
+    {
+     "mall": "보리보리",
+     "code": "TG021",
+     "id": "315148453",
+     "price": 17020,
+     "ship": 0
+    },
+    {
+     "mall": "롯데백화점",
+     "code": "TLC16",
+     "id": "LE1220681247",
+     "price": 17160,
+     "ship": 0
+    },
+    {
+     "mall": "롯데홈쇼핑",
+     "code": "ED903",
+     "id": "3419196047",
+     "price": 17210,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/gl3CLij06n"
+  },
   {
    "uid": "3373608852",
    "mall": "지마켓",
@@ -2660,130 +2804,6 @@
     }
    ],
    "link": "http://app.ac/EEwWw6S33"
-  },
-  {
-   "uid": "4296870512",
-   "mall": "토스쇼핑",
-   "title": "풀무원 아임리얼100 고농축 푸룬, 120ml, 24개",
-   "price": 15470,
-   "image": "https://shopping.toss.im/live/taca/ai/N2MzMTY2/QU9ZK05teFkrWnkwb2VWejU1ZVA1NXBlSGh4cHlGWmpkS1hwOVliT3RCcDU.png",
-   "sentAt": "2026-11-11T13:08:18.876+09:00",
-   "saving": 22,
-   "baseline": 19800,
-   "baselineNote": "249곳 중 최저 · 무료배송",
-   "unit": {
-    "label": "개당",
-    "value": 645
-   },
-   "check": {
-    "market": 19800,
-    "malls": 249,
-    "ship": 0
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": true,
-    "low": 19300
-   },
-   "comps": [
-    {
-     "name": "249곳 중 최저 · 무료배송",
-     "price": 19800
-    }
-   ],
-   "trend": [
-    {
-     "m": "26-04",
-     "p": 20130
-    },
-    {
-     "m": "26-05",
-     "p": 19690
-    },
-    {
-     "m": "26-06",
-     "p": 19430
-    },
-    {
-     "m": "26-07",
-     "p": 19440
-    },
-    {
-     "m": "26-08",
-     "p": 19300
-    },
-    {
-     "m": "26-09",
-     "p": 19600
-    },
-    {
-     "m": "26-10",
-     "p": 19430
-    },
-    {
-     "m": "26-11",
-     "p": 19900
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "4785055370",
-     "price": 19800,
-     "ship": 0
-    },
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "F593052648",
-     "price": 19800,
-     "ship": 0
-    },
-    {
-     "mall": "주식회사 신세계라이브쇼핑",
-     "code": "TRB03",
-     "id": "86323340",
-     "price": 20470,
-     "ship": 0
-    },
-    {
-     "mall": "롯데ON",
-     "code": "EE309",
-     "id": "LO2540823267",
-     "price": 20870,
-     "ship": 0
-    },
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "8624624280",
-     "price": 21000,
-     "ship": 0
-    },
-    {
-     "mall": "SSG.COM",
-     "code": "TN118",
-     "id": "1000819013810",
-     "price": 23308,
-     "ship": 0
-    },
-    {
-     "mall": "패션플러스",
-     "code": "TH002",
-     "id": "433861008",
-     "price": 23380,
-     "ship": 0
-    },
-    {
-     "mall": "W쇼핑",
-     "code": "TZ9CF",
-     "id": "22846014",
-     "price": 23970,
-     "ship": 0
-    }
-   ],
-   "link": "https://toss.shopping/_m/TPgz0Q0m"
   }
  ]
 }
