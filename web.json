@@ -1,7 +1,147 @@
 {
- "updated": "2026-11-12T22:01:47.461+09:00",
+ "updated": "2026-11-12T23:47:16.670+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "6793775703",
+   "mall": "쿠팡",
+   "title": "구운감자 15개",
+   "price": 7500,
+   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/176645121255054-3d326305-4eaa-4031-a8b4-104e6efa34f9.jpg",
+   "sentAt": "2026-11-12T23:47:16.670+09:00",
+   "saving": 25,
+   "baseline": 9980,
+   "baselineNote": "160곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 500
+   },
+   "check": {
+    "market": 9980,
+    "malls": 160
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 7990
+   },
+   "comps": [
+    {
+     "name": "160곳 중 최저",
+     "price": 9980
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 7990
+    },
+    {
+     "m": "26-01",
+     "p": 9210
+    },
+    {
+     "m": "26-02",
+     "p": 9160
+    },
+    {
+     "m": "26-03",
+     "p": 9210
+    },
+    {
+     "m": "26-04",
+     "p": 9330
+    },
+    {
+     "m": "26-05",
+     "p": 9000
+    },
+    {
+     "m": "26-06",
+     "p": 9160
+    },
+    {
+     "m": "26-07",
+     "p": 9160
+    },
+    {
+     "m": "26-08",
+     "p": 9160
+    },
+    {
+     "m": "26-09",
+     "p": 8700
+    },
+    {
+     "m": "26-10",
+     "p": 9930
+    },
+    {
+     "m": "26-11",
+     "p": 9930
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9446130693",
+     "price": 9980,
+     "ship": 3000
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4335255283",
+     "price": 9990,
+     "ship": 3000
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "E913778308",
+     "price": 9990,
+     "ship": 3000
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2774891937",
+     "price": 12870,
+     "ship": 0
+    },
+    {
+     "mall": "SK스토아",
+     "code": "TSB275",
+     "id": "65312357",
+     "price": 15010,
+     "ship": 0
+    },
+    {
+     "mall": "패션플러스",
+     "code": "TH002",
+     "id": "428636536",
+     "price": 15030,
+     "ship": 0
+    },
+    {
+     "mall": "하프클럽",
+     "code": "TZ6171",
+     "id": "396858743",
+     "price": 15350,
+     "ship": 0
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000805423584",
+     "price": 15531,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/iCCr9394G4",
+   "web": true
+  },
   {
    "uid": "6409579233",
    "mall": "쿠팡",
@@ -11092,17 +11232,6 @@
    "baseline": 2244000,
    "baselineNote": "판매글 3곳 최저가",
    "link": "http://app.ac/lAVtCK503",
-   "web": true
-  },
-  {
-   "uid": "3073381707",
-   "mall": "지마켓",
-   "title": "연양갱 32개",
-   "price": 11380,
-   "image": "https://gdimg.gmarket.co.kr/2512693532/goodsimage",
-   "sentAt": "2026-11-02T22:43:36.555+09:00",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2512693532",
    "web": true
   }
  ]
