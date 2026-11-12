@@ -1,7 +1,137 @@
 {
- "updated": "2026-11-12T21:39:04.071+09:00",
+ "updated": "2026-11-12T22:01:47.461+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "6409579233",
+   "mall": "쿠팡",
+   "title": "오뚜기 핫케이크 믹스, 1kg, 1개",
+   "price": 3100,
+   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/87060605900171-f042e02a-7905-47b9-8c3f-24f261864cf5.jpg",
+   "sentAt": "2026-11-12T22:01:47.461+09:00",
+   "saving": 35,
+   "baseline": 4780,
+   "baselineNote": "291곳 중 최저",
+   "unit": {
+    "label": "100g당",
+    "value": 310
+   },
+   "check": {
+    "market": 4780,
+    "malls": 291,
+    "ship": 3000,
+    "delivered": 7780
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 3790
+   },
+   "comps": [
+    {
+     "name": "291곳 중 최저",
+     "price": 4780
+    },
+    {
+     "name": "배송비 3,000원 포함",
+     "price": 7780
+    }
+   ],
+   "trend": [
+    {
+     "m": "26-04",
+     "p": 4640
+    },
+    {
+     "m": "26-05",
+     "p": 4610
+    },
+    {
+     "m": "26-06",
+     "p": 4640
+    },
+    {
+     "m": "26-07",
+     "p": 4750
+    },
+    {
+     "m": "26-08",
+     "p": 4750
+    },
+    {
+     "m": "26-09",
+     "p": 4140
+    },
+    {
+     "m": "26-10",
+     "p": 3790
+    },
+    {
+     "m": "26-11",
+     "p": 4780
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4516941221",
+     "price": 4780,
+     "ship": 3000
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "C672949089",
+     "price": 4780,
+     "ship": 3000
+    },
+    {
+     "mall": "TTC48",
+     "code": "TTC48",
+     "id": "5561564944",
+     "price": 4870,
+     "ship": 3000
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "8210749728",
+     "price": 5090,
+     "ship": 3000
+    },
+    {
+     "mall": "배민상회",
+     "code": "TWB192",
+     "id": "190902",
+     "price": 5432,
+     "ship": 3000
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "0000008352218",
+     "price": 5850,
+     "ship": 3000
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2390365905",
+     "price": 8120,
+     "ship": 0
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000799258628",
+     "price": 8500,
+     "ship": 3000
+    }
+   ],
+   "link": "https://link.coupang.com/a/iiuJ7oZEOW",
+   "web": true
+  },
   {
    "uid": "6046853239",
    "mall": "지마켓",
@@ -10973,20 +11103,6 @@
    "sentAt": "2026-11-02T22:43:36.555+09:00",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2512693532",
-   "web": true
-  },
-  {
-   "uid": "7306969897",
-   "mall": "11번가",
-   "title": "국내산 한돈 냉장 삼겹살, 목살 1kg",
-   "price": 14370,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9507767181/B.webp?963190533",
-   "sentAt": "2026-11-02T22:23:29.552+09:00",
-   "saving": 23,
-   "baseline": 18720,
-   "baselineNote": "판매글 17곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/GECwzXS93",
    "web": true
   }
  ]
