@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-12T15:13:39.705+09:00",
+ "updated": "2026-11-12T16:33:01.589+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7551259073",
+   "mall": "롯데온",
+   "title": "세타필 모이스춰라이징 로션 591ml 2개",
+   "price": 23750,
+   "image": "https://contents.lotteon.com/itemimage/20261106150102/LO/27/54/40/72/54/_2/75/44/07/25/5/LO2754407254_2754407255_2.jpg",
+   "sentAt": "2026-11-12T16:33:00.736+09:00",
+   "saving": 22,
+   "baseline": 30360,
+   "baselineNote": "판매글 14곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 11875
+   },
+   "comps": [
+    {
+     "name": "판매글 14곳 최저가",
+     "price": 30360
+    }
+   ],
+   "link": "http://app.ac/vAVWzA593"
+  },
   {
    "uid": "7952908263",
    "mall": "쿠팡",
@@ -3060,28 +3082,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iz4FcgypR6"
-  },
-  {
-   "uid": "9880283326",
-   "mall": "지마켓",
-   "title": "전복죽200g 3팩",
-   "price": 19330,
-   "image": "https://gdimg.gmarket.co.kr/4785160436/goodsimage",
-   "sentAt": "2026-11-11T10:44:47.396+09:00",
-   "saving": 33,
-   "baseline": 28920,
-   "baselineNote": "판매글 14곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 6443
-   },
-   "comps": [
-    {
-     "name": "판매글 14곳 최저가",
-     "price": 28920
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4785160436"
   }
  ]
 }
