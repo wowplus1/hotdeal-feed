@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-12T09:48:10.500+09:00",
+ "updated": "2026-11-12T11:00:18.268+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "4697941924",
+   "mall": "지마켓",
+   "title": "바이타믹스 E310 초고속 블렌더 믹서기 1.4L 블랙",
+   "price": 391100,
+   "image": "https://gdimg.gmarket.co.kr/4736856286/goodsimage",
+   "sentAt": "2026-11-12T11:00:18.268+09:00",
+   "saving": 36,
+   "baseline": 613280,
+   "baselineNote": "판매글 7곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 7곳 최저가",
+     "price": 613280
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4736856286",
+   "web": true
+  },
   {
    "uid": "2443530680",
    "mall": "11번가",
@@ -10458,19 +10477,6 @@
    "baseline": 551630,
    "baselineNote": "판매글 4곳 최저가",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4845836197",
-   "web": true
-  },
-  {
-   "uid": "1782236114",
-   "mall": "지마켓",
-   "title": "삼성 스마트모니터 M7 LS32FM701 32형 UHD 4K AI 리모컨",
-   "price": 465368,
-   "image": "https://gdimg.gmarket.co.kr/4441064335/goodsimage",
-   "sentAt": "2026-11-02T17:35:29.038+09:00",
-   "saving": 22,
-   "baseline": 599000,
-   "baselineNote": "판매글 3곳 최저가",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4441064335",
    "web": true
   }
  ]
