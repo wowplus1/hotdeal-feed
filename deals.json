@@ -1,7 +1,33 @@
 {
- "updated": "2026-11-12T12:56:28.060+09:00",
+ "updated": "2026-11-12T13:00:54.349+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2105825310",
+   "mall": "쿠팡",
+   "title": "팔도 뽀로로 제로 밀크맛 235ml 24개 10,400원",
+   "price": 10400,
+   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/03/27/11/1/57ef60f3-474b-4f26-b57b-6caf3d25a285.jpg",
+   "sentAt": "2026-11-12T13:00:53.826+09:00",
+   "saving": 34,
+   "baseline": 15790,
+   "baselineNote": "171곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 433
+   },
+   "check": {
+    "market": 15790,
+    "malls": 171
+   },
+   "comps": [
+    {
+     "name": "171곳 중 최저",
+     "price": 15790
+    }
+   ],
+   "link": "https://link.coupang.com/a/iBSVkhxpRI"
+  },
   {
    "uid": "6415854271",
    "mall": "토스쇼핑",
@@ -3054,161 +3080,6 @@
     }
    ],
    "link": "https://toss.im/_m/HxGNfEKp"
-  },
-  {
-   "uid": "1844647543",
-   "mall": "쿠팡",
-   "title": "새우탕 컵 67g 6개",
-   "price": 4120,
-   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/73984346769567-a2db6b98-c71c-449c-8704-a97215aa36fe.jpg",
-   "sentAt": "2026-11-11T10:23:07.699+09:00",
-   "saving": 23,
-   "baseline": 5340,
-   "baselineNote": "630곳 중 최저",
-   "unit": {
-    "label": "개당",
-    "value": 687
-   },
-   "check": {
-    "market": 5340,
-    "malls": 630,
-    "ship": 3000,
-    "delivered": 8340
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": false,
-    "low": 2790
-   },
-   "review": {
-    "score": 4.9,
-    "count": 25995,
-    "low": 22
-   },
-   "spec": [
-    "컵라면",
-    "국물라면",
-    "기본면"
-   ],
-   "comps": [
-    {
-     "name": "630곳 중 최저",
-     "price": 5340
-    },
-    {
-     "name": "배송비 3,000원 포함",
-     "price": 8340
-    }
-   ],
-   "trend": [
-    {
-     "m": "25-12",
-     "p": 4980
-    },
-    {
-     "m": "26-01",
-     "p": 4980
-    },
-    {
-     "m": "26-02",
-     "p": 4890
-    },
-    {
-     "m": "26-03",
-     "p": 3120
-    },
-    {
-     "m": "26-04",
-     "p": 3150
-    },
-    {
-     "m": "26-05",
-     "p": 3420
-    },
-    {
-     "m": "26-06",
-     "p": 3420
-    },
-    {
-     "m": "26-07",
-     "p": 2790
-    },
-    {
-     "m": "26-08",
-     "p": 4780
-    },
-    {
-     "m": "26-09",
-     "p": 5090
-    },
-    {
-     "m": "26-10",
-     "p": 5560
-    },
-    {
-     "m": "26-11",
-     "p": 5270
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "6553008860",
-     "price": 5340,
-     "ship": 3000
-    },
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "1575405891",
-     "price": 5510,
-     "ship": 3000
-    },
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "C290394582",
-     "price": 5510,
-     "ship": 3000
-    },
-    {
-     "mall": "롯데ON",
-     "code": "EE309",
-     "id": "LO2080168261",
-     "price": 5640,
-     "ship": 2700
-    },
-    {
-     "mall": "보리보리",
-     "code": "TG021",
-     "id": "336530700",
-     "price": 5800,
-     "ship": 2700
-    },
-    {
-     "mall": "하프클럽",
-     "code": "TZ6171",
-     "id": "406789164",
-     "price": 5800,
-     "ship": 2700
-    },
-    {
-     "mall": "SSG.COM",
-     "code": "TN118",
-     "id": "1000041971824",
-     "price": 5909,
-     "ship": 3000
-    },
-    {
-     "mall": "이마트몰",
-     "code": "EE311",
-     "id": "0000008333643",
-     "price": 6000,
-     "ship": 3000
-    }
-   ],
-   "link": "https://link.coupang.com/a/iz2wVL4gWy"
   }
  ]
 }
