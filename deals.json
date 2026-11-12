@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-13T08:42:56.456+09:00",
+ "updated": "2026-11-13T08:53:56.226+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3373608852",
+   "mall": "지마켓",
+   "title": "1회착유 100% 통참깨 참기름 350ml 2병",
+   "price": 11200,
+   "image": "https://gdimg.gmarket.co.kr/4362020049/goodsimage",
+   "sentAt": "2026-11-13T08:53:55.499+09:00",
+   "saving": 30,
+   "baseline": 16060,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 5600
+   },
+   "comps": [
+    {
+     "name": "판매글 3곳 최저가",
+     "price": 16060
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4362020049"
+  },
   {
    "uid": "7808861834",
    "mall": "쿠팡",
@@ -2762,15 +2784,6 @@
     }
    ],
    "link": "https://toss.shopping/_m/TPgz0Q0m"
-  },
-  {
-   "uid": "5207951844",
-   "mall": "11번가",
-   "title": "총2kg 스테비아 대추방울감동마토 500g 4팩",
-   "price": 7980,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/7214702412/B.png?966093720",
-   "sentAt": "2026-11-11T13:03:53.593+09:00",
-   "link": "http://app.ac/REwWCVS33"
   }
  ]
 }
