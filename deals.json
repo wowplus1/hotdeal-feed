@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-12T10:00:56.538+09:00",
+ "updated": "2026-11-12T10:03:27.764+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7406488956",
+   "mall": "지마켓",
+   "title": "바세린 대용량 바디로션 1000ml 2개",
+   "price": 10970,
+   "image": "https://gdimg.gmarket.co.kr/2343900135/goodsimage",
+   "sentAt": "2026-11-12T10:03:27.239+09:00",
+   "saving": 20,
+   "baseline": 13780,
+   "baselineNote": "다른 곳 최저",
+   "unit": {
+    "label": "개당",
+    "value": 5485
+   },
+   "comps": [
+    {
+     "name": "다른 곳 최저",
+     "price": 13780
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2343900135"
+  },
   {
    "uid": "4951946124",
    "mall": "지마켓",
@@ -3537,24 +3559,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/izYOkRZURg"
-  },
-  {
-   "uid": "6885895589",
-   "mall": "지마켓",
-   "title": "스테비아단마토 500g x 4팩 총 2kg",
-   "price": 11240,
-   "image": "https://gdimg.gmarket.co.kr/4723212071/goodsimage",
-   "sentAt": "2026-11-11T09:08:14.885+09:00",
-   "saving": 24,
-   "baseline": 14760,
-   "baselineNote": "판매글 7곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 7곳 최저가",
-     "price": 14760
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4723212071"
   }
  ]
 }
