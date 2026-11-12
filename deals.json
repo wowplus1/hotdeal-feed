@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-12T14:39:55.863+09:00",
+ "updated": "2026-11-12T15:13:39.705+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7952908263",
+   "mall": "쿠팡",
+   "title": "평창수 무라벨 생수, 2L, 24개",
+   "price": 13680,
+   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/459497738488671-4b23932d-51a4-449e-a8d8-548412b51aae.jpg",
+   "sentAt": "2026-11-12T15:13:38.927+09:00",
+   "saving": 31,
+   "baseline": 19940,
+   "baselineNote": "판매글 11곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 570
+   },
+   "comps": [
+    {
+     "name": "판매글 11곳 최저가",
+     "price": 19940
+    }
+   ],
+   "link": "https://link.coupang.com/a/ic0APRB6dM"
+  },
   {
    "uid": "3810758365",
    "mall": "11번가",
@@ -3060,161 +3082,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4785160436"
-  },
-  {
-   "uid": "9884726405",
-   "mall": "쿠팡",
-   "title": "짜왕, 4개,",
-   "price": 2980,
-   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1136978354037617-1a3ee11e-60c5-4a9c-9ac3-9b6bef3c4696.jpg",
-   "sentAt": "2026-11-11T10:43:55.425+09:00",
-   "saving": 34,
-   "baseline": 4520,
-   "baselineNote": "67곳 중 최저",
-   "unit": {
-    "label": "개당",
-    "value": 745
-   },
-   "check": {
-    "market": 4520,
-    "malls": 67,
-    "ship": 3000,
-    "delivered": 7520
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": true,
-    "low": 4340
-   },
-   "review": {
-    "score": 4.9,
-    "count": 47568,
-    "low": 34
-   },
-   "spec": [
-    "봉지라면",
-    "짜장라면",
-    "기본면"
-   ],
-   "comps": [
-    {
-     "name": "67곳 중 최저",
-     "price": 4520
-    },
-    {
-     "name": "배송비 3,000원 포함",
-     "price": 7520
-    }
-   ],
-   "trend": [
-    {
-     "m": "25-12",
-     "p": 4510
-    },
-    {
-     "m": "26-01",
-     "p": 4880
-    },
-    {
-     "m": "26-02",
-     "p": 4750
-    },
-    {
-     "m": "26-03",
-     "p": 4490
-    },
-    {
-     "m": "26-04",
-     "p": 4390
-    },
-    {
-     "m": "26-05",
-     "p": 4510
-    },
-    {
-     "m": "26-06",
-     "p": 4350
-    },
-    {
-     "m": "26-07",
-     "p": 4720
-    },
-    {
-     "m": "26-08",
-     "p": 4720
-    },
-    {
-     "m": "26-09",
-     "p": 4480
-    },
-    {
-     "m": "26-10",
-     "p": 4340
-    },
-    {
-     "m": "26-11",
-     "p": 4360
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "C290338817",
-     "price": 4520,
-     "ship": 3000
-    },
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "2040908001",
-     "price": 4520,
-     "ship": 3000
-    },
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "9675859779",
-     "price": 4620,
-     "ship": 3000
-    },
-    {
-     "mall": "이마트몰",
-     "code": "EE311",
-     "id": "1000011308552",
-     "price": 4980,
-     "ship": 3000
-    },
-    {
-     "mall": "롯데마트몰",
-     "code": "TU14D",
-     "id": "OS8801043032148",
-     "price": 4980,
-     "ship": 3000
-    },
-    {
-     "mall": "SSG.COM",
-     "code": "TN118",
-     "id": "1000011308552",
-     "price": 4980,
-     "ship": 3000
-    },
-    {
-     "mall": "GS SHOP",
-     "code": "ED908",
-     "id": "1039099074",
-     "price": 5210,
-     "ship": 3000
-    },
-    {
-     "mall": "롯데ON",
-     "code": "EE309",
-     "id": "LO2360475468",
-     "price": 5340,
-     "ship": 3500
-    }
-   ],
-   "link": "https://link.coupang.com/a/iz4aWrcu4G"
   }
  ]
 }
