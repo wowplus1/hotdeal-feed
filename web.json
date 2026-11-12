@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-12T11:00:18.268+09:00",
+ "updated": "2026-11-12T12:00:09.911+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "5591324748",
+   "mall": "롯데온",
+   "title": "당진 해나루 삼광쌀10kg/20kg미곡",
+   "price": 31760,
+   "image": "https://contents.lotteon.com/itemimage/20261112100136/LO/25/97/84/05/80/_2/59/78/40/58/1/LO2597840580_2597840581_1.jpg",
+   "sentAt": "2026-11-12T12:00:09.911+09:00",
+   "saving": 16,
+   "baseline": 37670,
+   "baselineNote": "판매글 10곳 최저가",
+   "unit": {
+    "label": "100g당",
+    "value": 318
+   },
+   "comps": [
+    {
+     "name": "판매글 10곳 최저가",
+     "price": 37670
+    }
+   ],
+   "link": "http://app.ac/iAVLqr553",
+   "web": true
+  },
   {
    "uid": "4697941924",
    "mall": "지마켓",
@@ -10464,19 +10487,6 @@
    "baseline": 119000,
    "baselineNote": "판매글 3곳 최저가",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4212282614",
-   "web": true
-  },
-  {
-   "uid": "7049520094",
-   "mall": "지마켓",
-   "title": "MSI EZgo 전기차 충전기 32A 7kW 휴대용 220V",
-   "price": 454840,
-   "image": "https://gdimg.gmarket.co.kr/4845836197/goodsimage",
-   "sentAt": "2026-11-02T17:48:36.774+09:00",
-   "saving": 18,
-   "baseline": 551630,
-   "baselineNote": "판매글 4곳 최저가",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4845836197",
    "web": true
   }
  ]
