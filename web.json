@@ -1,7 +1,153 @@
 {
- "updated": "2026-11-12T15:24:13.366+09:00",
+ "updated": "2026-11-12T16:04:07.079+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "2705059280",
+   "mall": "지마켓",
+   "title": "국산 전라도 포기배추김치 5kg",
+   "price": 18610,
+   "image": "https://gdimg.gmarket.co.kr/4530689951/goodsimage",
+   "sentAt": "2026-11-12T16:04:07.079+09:00",
+   "saving": 19,
+   "baseline": 22890,
+   "baselineNote": "77곳 중 최저 · 무료배송",
+   "unit": {
+    "label": "100g당",
+    "value": 372
+   },
+   "check": {
+    "market": 22890,
+    "malls": 77,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 21660
+   },
+   "review": {
+    "score": 4.5,
+    "count": 283,
+    "low": 11
+   },
+   "comps": [
+    {
+     "name": "77곳 중 최저 · 무료배송",
+     "price": 22890
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 27220
+    },
+    {
+     "m": "26-01",
+     "p": 27220
+    },
+    {
+     "m": "26-02",
+     "p": 33850
+    },
+    {
+     "m": "26-03",
+     "p": 34190
+    },
+    {
+     "m": "26-04",
+     "p": 34190
+    },
+    {
+     "m": "26-05",
+     "p": 33810
+    },
+    {
+     "m": "26-06",
+     "p": 33113
+    },
+    {
+     "m": "26-07",
+     "p": 33810
+    },
+    {
+     "m": "26-08",
+     "p": 22410
+    },
+    {
+     "m": "26-09",
+     "p": 21660
+    },
+    {
+     "m": "26-10",
+     "p": 22410
+    },
+    {
+     "m": "26-11",
+     "p": 22410
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "GS SHOP",
+     "code": "ED908",
+     "id": "1116768616",
+     "price": 22890,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "8820825367",
+     "price": 24840,
+     "ship": 0
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F536537881",
+     "price": 24960,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4728728450",
+     "price": 24980,
+     "ship": 0
+    },
+    {
+     "mall": "주식회사 신세계라이브쇼핑",
+     "code": "TRB03",
+     "id": "94692391",
+     "price": 26000,
+     "ship": 0
+    },
+    {
+     "mall": "롯데홈쇼핑",
+     "code": "ED903",
+     "id": "3068284457",
+     "price": 26350,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LI3068284457",
+     "price": 26640,
+     "ship": 0
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000820947936",
+     "price": 30597,
+     "ship": 0
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4530689951",
+   "web": true
+  },
   {
    "uid": "5433100401",
    "mall": "지마켓",
@@ -10695,20 +10841,6 @@
    "baseline": 1422960,
    "baselineNote": "42곳 중 최저 · 무료배송",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4622794834",
-   "web": true
-  },
-  {
-   "uid": "3643793545",
-   "mall": "쿠팡",
-   "title": "비비드키친 저당 돈카츠 소스 310g 1개",
-   "price": 2800,
-   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/04/30/18/9/02a250f9-21c2-4a9a-8b02-e473e0616f83.jpg",
-   "sentAt": "2026-11-02T20:24:59.228+09:00",
-   "saving": 15,
-   "baseline": 3310,
-   "baselineNote": "27곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/ilNB2tmapo",
    "web": true
   }
  ]
