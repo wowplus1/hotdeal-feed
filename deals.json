@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-12T19:13:43.920+09:00",
+ "updated": "2026-11-12T20:21:52.842+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3416849828",
+   "mall": "롯데온",
+   "title": "한돈 1등급 등갈비 1kg",
+   "price": 16640,
+   "image": "https://contents.lotteon.com/itemimage/20261020120229/LO/26/97/80/42/57/_2/69/78/04/25/8/LO2697804257_2697804258_1.png",
+   "sentAt": "2026-11-12T20:21:51.974+09:00",
+   "saving": 36,
+   "baseline": 26170,
+   "baselineNote": "판매글 10곳 최저가",
+   "unit": {
+    "label": "100g당",
+    "value": 1664
+   },
+   "comps": [
+    {
+     "name": "판매글 10곳 최저가",
+     "price": 26170
+    }
+   ],
+   "link": "http://app.ac/1AVLwL513"
+  },
   {
    "uid": "2541672211",
    "mall": "지마켓",
@@ -3105,28 +3127,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iz91uUe1aS"
-  },
-  {
-   "uid": "7422060629",
-   "mall": "쿠팡",
-   "title": "백설 저당 타르타르 소스, 250g, 2개",
-   "price": 6470,
-   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/967299998520686-3e6a529d-f509-4665-a416-3a5d711661a1.jpg",
-   "sentAt": "2026-11-11T11:54:06.075+09:00",
-   "saving": 43,
-   "baseline": 11305,
-   "baselineNote": "판매글 6곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 3235
-   },
-   "comps": [
-    {
-     "name": "판매글 6곳 최저가",
-     "price": 11305
-    }
-   ],
-   "link": "https://link.coupang.com/a/grfkdHcW8y"
   }
  ]
 }
