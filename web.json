@@ -1,7 +1,97 @@
 {
- "updated": "2026-11-12T12:05:18.620+09:00",
+ "updated": "2026-11-12T13:15:14.257+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "9970416093",
+   "mall": "쿠팡",
+   "title": "푸드앤픽 2026년산 햅쌀 새청무 특등급 20kg*특등급*1개",
+   "price": 51900,
+   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/02/10/17/2/96096e5b-35a8-4355-b768-6b9120b462c2.jpg",
+   "sentAt": "2026-11-12T13:15:14.257+09:00",
+   "saving": 15,
+   "baseline": 61000,
+   "baselineNote": "77곳 중 최저",
+   "unit": {
+    "label": "100g당",
+    "value": 260
+   },
+   "check": {
+    "market": 61000,
+    "malls": 77,
+    "delivered": 61020
+   },
+   "comps": [
+    {
+     "name": "77곳 중 최저",
+     "price": 61000
+    },
+    {
+     "name": "배송비까지 치면",
+     "price": 61020
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F479342085",
+     "price": 61020,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4671507158",
+     "price": 61020,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2745043478",
+     "price": 62370,
+     "ship": 0
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000878991140",
+     "price": 63215,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9185347995",
+     "price": 63240,
+     "ship": 0
+    },
+    {
+     "mall": "롯데홈쇼핑",
+     "code": "ED903",
+     "id": "3342298576",
+     "price": 65610,
+     "ship": 0
+    },
+    {
+     "mall": "nsmall",
+     "code": "ED904",
+     "id": "36107087",
+     "price": 66500,
+     "ship": 0
+    },
+    {
+     "mall": "신세계몰",
+     "code": "ED901",
+     "id": "1000878991140",
+     "price": 66542,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/gu2JupdNfw",
+   "web": true
+  },
   {
    "uid": "1108675353",
    "mall": "지마켓",
@@ -10489,20 +10579,6 @@
    "sentAt": "2026-11-02T20:24:03.119+09:00",
    "unit": "[object Object]",
    "link": "http://app.ac/CAVtcw573",
-   "web": true
-  },
-  {
-   "uid": "4562598892",
-   "mall": "지마켓",
-   "title": "비트 딥클린파워 액체세탁세제 일반/드럼 겸용 용기 4L 3개",
-   "price": 21790,
-   "image": "https://gdimg.gmarket.co.kr/2551993406/goodsimage",
-   "sentAt": "2026-11-02T20:10:52.828+09:00",
-   "saving": 17,
-   "baseline": 26130,
-   "baselineNote": "판매글 38곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2551993406",
    "web": true
   }
  ]
