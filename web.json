@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-13T01:32:47.748+09:00",
+ "updated": "2026-11-13T08:27:29.532+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "8374333264",
+   "mall": "지마켓",
+   "title": "두메산골 냉장 닭다리 1kg+1kg",
+   "price": 16930,
+   "image": "https://gdimg.gmarket.co.kr/4456428839/goodsimage",
+   "sentAt": "2026-11-13T08:27:29.532+09:00",
+   "saving": 18,
+   "baseline": 20750,
+   "baselineNote": "판매글 18곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 18곳 최저가",
+     "price": 20750
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4456428839",
+   "web": true
+  },
   {
    "uid": "4211413471",
    "mall": "지마켓",
@@ -11242,20 +11261,6 @@
    "baseline": 17900,
    "baselineNote": "판매글 3곳 최저가",
    "link": "http://app.ac/VtV86yM83",
-   "web": true
-  },
-  {
-   "uid": "9847187797",
-   "mall": "지마켓",
-   "title": "제주 감귤 실중량 9kg 대과",
-   "price": 9340,
-   "image": "https://gdimg.gmarket.co.kr/4882408202/goodsimage",
-   "sentAt": "2026-11-03T00:09:40.574+09:00",
-   "saving": 33,
-   "baseline": 13900,
-   "baselineNote": "판매글 22곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4882408202",
    "web": true
   }
  ]
