@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-12T10:16:17.881+09:00",
+ "updated": "2026-11-12T10:41:00.998+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2273081806",
+   "mall": "토스쇼핑",
+   "title": "주방미학 심플 미니 통삼중 압력솥, 1.2L, 1개",
+   "price": 31010,
+   "image": "https://shopping.toss.im/live/taca/ai/ZjM2Mzk5/QUt4Z3RSK1Q1dGJiWGhwTGNVajVIU3p4eDdMT1BueGtNR3VrbjRUaEUyclM.png",
+   "sentAt": "2026-11-12T10:41:00.366+09:00",
+   "saving": 38,
+   "baseline": 50200,
+   "baselineNote": "판매글 4곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 4곳 최저가",
+     "price": 50200
+    }
+   ],
+   "link": "https://toss.im/_m/HuC1HKCD"
+  },
   {
    "uid": "9444547570",
    "mall": "토스쇼핑",
@@ -3424,145 +3442,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/gzkICKnApE"
-  },
-  {
-   "uid": "3069378465",
-   "mall": "쿠팡",
-   "title": "오뚜기 진라면 약간매운맛 120g, 10개",
-   "price": 5710,
-   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1201001782431308-6a716b92-c2ff-4485-8271-a9b334e706d1.jpg",
-   "sentAt": "2026-11-11T09:55:38.080+09:00",
-   "saving": 30,
-   "baseline": 8130,
-   "baselineNote": "101곳 중 최저",
-   "unit": {
-    "label": "개당",
-    "value": 571
-   },
-   "check": {
-    "market": 8130,
-    "malls": 101
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": false,
-    "low": 4500
-   },
-   "comps": [
-    {
-     "name": "101곳 중 최저",
-     "price": 8130
-    }
-   ],
-   "trend": [
-    {
-     "m": "25-12",
-     "p": 7110
-    },
-    {
-     "m": "26-01",
-     "p": 6600
-    },
-    {
-     "m": "26-02",
-     "p": 4790
-    },
-    {
-     "m": "26-03",
-     "p": 4710
-    },
-    {
-     "m": "26-04",
-     "p": 6180
-    },
-    {
-     "m": "26-05",
-     "p": 4500
-    },
-    {
-     "m": "26-06",
-     "p": 4500
-    },
-    {
-     "m": "26-07",
-     "p": 7540
-    },
-    {
-     "m": "26-08",
-     "p": 6860
-    },
-    {
-     "m": "26-09",
-     "p": 6230
-    },
-    {
-     "m": "26-10",
-     "p": 7830
-    },
-    {
-     "m": "26-11",
-     "p": 8130
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "F486603068",
-     "price": 8130,
-     "ship": 3000
-    },
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "4680109732",
-     "price": 8290,
-     "ship": 3000
-    },
-    {
-     "mall": "SK스토아",
-     "code": "TSB275",
-     "id": "50918573",
-     "price": 8300,
-     "ship": 0
-    },
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "8366811124",
-     "price": 8750,
-     "ship": 0
-    },
-    {
-     "mall": "현대Hmall",
-     "code": "ED907",
-     "id": "2235555451",
-     "price": 8830,
-     "ship": 0
-    },
-    {
-     "mall": "롯데ON",
-     "code": "EE309",
-     "id": "LI3016710277",
-     "price": 8840,
-     "ship": 0
-    },
-    {
-     "mall": "SSG.COM",
-     "code": "TN118",
-     "id": "1000829012697",
-     "price": 8939,
-     "ship": 0
-    },
-    {
-     "mall": "롯데백화점",
-     "code": "TLC16",
-     "id": "LE1222780749",
-     "price": 9290,
-     "ship": 0
-    }
-   ],
-   "link": "https://link.coupang.com/a/h0vATBZa8a"
   }
  ]
 }
