@@ -1,7 +1,49 @@
 {
- "updated": "2026-11-12T12:00:09.911+09:00",
+ "updated": "2026-11-12T12:05:18.620+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "1108675353",
+   "mall": "지마켓",
+   "title": "호아비 베트남 야생화꿀 2kg 2개",
+   "price": 19500,
+   "image": "https://gdimg.gmarket.co.kr/4565654632/goodsimage",
+   "sentAt": "2026-11-12T12:05:18.620+09:00",
+   "saving": 19,
+   "baseline": 24030,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 9750
+   },
+   "comps": [
+    {
+     "name": "판매글 5곳 최저가",
+     "price": 24030
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4565654632",
+   "web": true
+  },
+  {
+   "uid": "1684652646",
+   "mall": "지마켓",
+   "title": "아이깨끗해 핸드워시 대용량 리필 2.45L 1개",
+   "price": 14900,
+   "image": "https://gdimg.gmarket.co.kr/4685937719/goodsimage",
+   "sentAt": "2026-11-12T12:05:18.620+09:00",
+   "saving": 17,
+   "baseline": 17910,
+   "baselineNote": "판매글 15곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 15곳 최저가",
+     "price": 17910
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4685937719",
+   "web": true
+  },
   {
    "uid": "5591324748",
    "mall": "롯데온",
@@ -10461,32 +10503,6 @@
    "baselineNote": "판매글 38곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2551993406",
-   "web": true
-  },
-  {
-   "uid": "6496037776",
-   "mall": "11번가",
-   "title": "앙블랑 아기물티슈 그랜드 네이비 캡형 70매X20팩",
-   "price": 27120,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/7407909161/B.webp",
-   "sentAt": "2026-11-02T20:09:05.557+09:00",
-   "saving": 13,
-   "baseline": 31220,
-   "baselineNote": "판매글 28곳 최저가",
-   "link": "http://app.ac/5AGKnn583",
-   "web": true
-  },
-  {
-   "uid": "2174227450",
-   "mall": "지마켓",
-   "title": "미홀3세대 유리창 로봇청소기 C77S AIR 62mm",
-   "price": 89000,
-   "image": "https://gdimg.gmarket.co.kr/4212282614/goodsimage",
-   "sentAt": "2026-11-02T19:05:42.410+09:00",
-   "saving": 25,
-   "baseline": 119000,
-   "baselineNote": "판매글 3곳 최저가",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4212282614",
    "web": true
   }
  ]
