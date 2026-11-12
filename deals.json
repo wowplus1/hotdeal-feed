@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-12T18:28:18.327+09:00",
+ "updated": "2026-11-12T19:13:43.920+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2541672211",
+   "mall": "지마켓",
+   "title": "트래블인 18인치 기내용 캐리어",
+   "price": 28900,
+   "image": "https://gdimg.gmarket.co.kr/4758688477/goodsimage",
+   "sentAt": "2026-11-12T19:13:43.301+09:00",
+   "saving": 32,
+   "baseline": 42660,
+   "baselineNote": "판매글 24곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 24곳 최저가",
+     "price": 42660
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4758688477"
+  },
   {
    "uid": "9574671540",
    "mall": "토스쇼핑",
@@ -3109,28 +3127,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/grfkdHcW8y"
-  },
-  {
-   "uid": "3442396782",
-   "mall": "쿠팡",
-   "title": "암바사 제로 1 5리터 12개",
-   "price": 11570,
-   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/07/28/11/1/a66666b8-da0c-4767-89ab-b9ce07edb2e8.jpg",
-   "sentAt": "2026-11-11T11:40:25.658+09:00",
-   "saving": 61,
-   "baseline": 29640,
-   "baselineNote": "판매글 12곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 964
-   },
-   "comps": [
-    {
-     "name": "판매글 12곳 최저가",
-     "price": 29640
-    }
-   ],
-   "link": "https://link.coupang.com/a/hLYBAktSKq"
   }
  ]
 }
