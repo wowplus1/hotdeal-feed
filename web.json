@@ -1,7 +1,148 @@
 {
- "updated": "2026-11-12T13:15:14.257+09:00",
+ "updated": "2026-11-12T14:28:55.658+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "4579704342",
+   "mall": "쿠팡",
+   "title": "웰라쥬 리얼 히알루로닉 블루 앰플 100ml 2개",
+   "price": 30120,
+   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/23109275375806-66e0449b-a752-47ae-af83-e535209617b9.jpg",
+   "sentAt": "2026-11-12T14:28:55.658+09:00",
+   "saving": 13,
+   "baseline": 34470,
+   "baselineNote": "94곳 중 최저 · 무료배송",
+   "unit": {
+    "label": "개당",
+    "value": 15060
+   },
+   "check": {
+    "market": 34470,
+    "malls": 94,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": false,
+    "low": 21310
+   },
+   "comps": [
+    {
+     "name": "94곳 중 최저 · 무료배송",
+     "price": 34470
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 30620
+    },
+    {
+     "m": "26-01",
+     "p": 23310
+    },
+    {
+     "m": "26-02",
+     "p": 34800
+    },
+    {
+     "m": "26-03",
+     "p": 33800
+    },
+    {
+     "m": "26-04",
+     "p": 23410
+    },
+    {
+     "m": "26-05",
+     "p": 25500
+    },
+    {
+     "m": "26-06",
+     "p": 36800
+    },
+    {
+     "m": "26-07",
+     "p": 23410
+    },
+    {
+     "m": "26-08",
+     "p": 22600
+    },
+    {
+     "m": "26-09",
+     "p": 30430
+    },
+    {
+     "m": "26-10",
+     "p": 21310
+    },
+    {
+     "m": "26-11",
+     "p": 21310
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2701613911",
+     "price": 34470,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4610775806",
+     "price": 41340,
+     "ship": 3000
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F442346367",
+     "price": 41840,
+     "ship": 0
+    },
+    {
+     "mall": "TW2169",
+     "code": "TW2169",
+     "id": "7382492965",
+     "price": 41990,
+     "ship": 3000
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "8402130219",
+     "price": 44330,
+     "ship": 3000
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000770275375",
+     "price": 52583,
+     "ship": 0
+    },
+    {
+     "mall": "SK스토아",
+     "code": "TSB275",
+     "id": "66088478",
+     "price": 54420,
+     "ship": 0
+    },
+    {
+     "mall": "패션플러스",
+     "code": "TH002",
+     "id": "391161189",
+     "price": 54510,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/imFc4Y1bRA",
+   "web": true
+  },
   {
    "uid": "9970416093",
    "mall": "쿠팡",
@@ -10568,17 +10709,6 @@
    "baselineNote": "27곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/ilNB2tmapo",
-   "web": true
-  },
-  {
-   "uid": "9208963816",
-   "mall": "롯데온",
-   "title": "안톤버그 2026년 신상 리큐어 다크초콜릿 버라이어티팩 48개입 750g",
-   "price": 45380,
-   "image": "https://contents.lotteon.com/itemimage/20261028174721/LO/28/02/84/29/51/_2/80/28/42/95/2/LO2802842951_2802842952_1.jpg",
-   "sentAt": "2026-11-02T20:24:03.119+09:00",
-   "unit": "[object Object]",
-   "link": "http://app.ac/CAVtcw573",
    "web": true
   }
  ]
