@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-12T09:28:20.470+09:00",
+ "updated": "2026-11-12T09:46:25.938+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8333283186",
+   "mall": "하이마트",
+   "title": "PS4앤섬 PLAS10357K",
+   "price": 990,
+   "image": "https://static1.e-himart.co.kr/contents/goods/00/44/83/85/49/0044838549__PLAS10357K__M_640_640.jpg",
+   "sentAt": "2026-11-12T09:46:25.113+09:00",
+   "saving": 65,
+   "baseline": 2820,
+   "baselineNote": "판매글 27곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 27곳 최저가",
+     "price": 2820
+    }
+   ],
+   "link": "http://app.ac/6jpKa6a13"
+  },
   {
    "uid": "7124467931",
    "mall": "11번가",
@@ -3537,28 +3555,6 @@
     }
    ],
    "link": "http://app.ac/6jpEYia03"
-  },
-  {
-   "uid": "1665768648",
-   "mall": "지마켓",
-   "title": "로스팜97 200g 5캔",
-   "price": 8900,
-   "image": "https://gdimg.gmarket.co.kr/3881912560/goodsimage",
-   "sentAt": "2026-11-11T08:33:04.568+09:00",
-   "saving": 52,
-   "baseline": 18430,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 1780
-   },
-   "comps": [
-    {
-     "name": "판매글 4곳 최저가",
-     "price": 18430
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=3881912560"
   }
  ]
 }
