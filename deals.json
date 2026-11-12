@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-12T10:41:00.998+09:00",
+ "updated": "2026-11-12T11:00:23.296+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9719223147",
+   "mall": "쿠팡",
+   "title": "몬스터에너지 드링크 울트라 스트로베리 드림즈 500ml 24개",
+   "price": 35780,
+   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/05/01/10/4/5233c1a4-ab1a-4339-9b20-7a73101d85b1.jpg",
+   "sentAt": "2026-11-12T11:00:22.290+09:00",
+   "saving": 27,
+   "baseline": 48790,
+   "baselineNote": "판매글 27곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 1491
+   },
+   "comps": [
+    {
+     "name": "판매글 27곳 최저가",
+     "price": 48790
+    }
+   ],
+   "link": "https://link.coupang.com/a/iBKg5EfGEK"
+  },
   {
    "uid": "2273081806",
    "mall": "토스쇼핑",
@@ -3424,24 +3446,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/h3eBEzqmdg"
-  },
-  {
-   "uid": "4943998752",
-   "mall": "쿠팡",
-   "title": "르샤트라1802 인퓨전 섬유유연제 피오니부케 본품 5.7L*1개입*1개",
-   "price": 11000,
-   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/190f/059825364b53a1974ad06914cdae2ff472877f5465627a9b2ea4dba75fbb.jpg",
-   "sentAt": "2026-11-11T10:01:18.547+09:00",
-   "saving": 58,
-   "baseline": 26180,
-   "baselineNote": "판매글 19곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 19곳 최저가",
-     "price": 26180
-    }
-   ],
-   "link": "https://link.coupang.com/a/gzkICKnApE"
   }
  ]
 }
