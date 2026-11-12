@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-12T23:47:16.670+09:00",
+ "updated": "2026-11-13T00:01:22.639+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "9438975291",
+   "mall": "쿠팡",
+   "title": "청도반시, 1.5kg",
+   "price": 5990,
+   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/rs_quotation_api/plca9yk2/dbb9246e158b4b42b91cd6ccaf0963be.jpg",
+   "sentAt": "2026-11-13T00:01:22.639+09:00",
+   "unit": {
+    "label": "100g당",
+    "value": 399
+   },
+   "link": "https://link.coupang.com/a/iCDSHjFbqK",
+   "web": true
+  },
   {
    "uid": "6793775703",
    "mall": "쿠팡",
@@ -11219,19 +11233,6 @@
    "baseline": 29930,
    "baselineNote": "38곳 중 최저 · 무료배송",
    "link": "http://app.ac/VbpWccl63",
-   "web": true
-  },
-  {
-   "uid": "6540380107",
-   "mall": "11번가",
-   "title": "삼성전자 Bespoke AI 905L 4도어 냉장고 RM70H90R1ZGD 1등급 에센셜화이트+에센셜베이지 2026년형",
-   "price": 1599600,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/2/7/3/5/6/4/ACbve/9633273564_242317456.webp",
-   "sentAt": "2026-11-02T23:03:26.326+09:00",
-   "saving": 29,
-   "baseline": 2244000,
-   "baselineNote": "판매글 3곳 최저가",
-   "link": "http://app.ac/lAVtCK503",
    "web": true
   }
  ]
