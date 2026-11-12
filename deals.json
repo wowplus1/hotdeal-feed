@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-12T20:21:52.842+09:00",
+ "updated": "2026-11-12T21:04:34.449+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5469684326",
+   "mall": "토스쇼핑",
+   "title": "빌트루 진한 헛개수 진액 헛개차 원액, 480g, 1개",
+   "price": 8900,
+   "image": "https://shopping.toss.im/live/taca/ai/Zjk4ZTAx/QVA5ZWRSeUs5MzNHZmZhSGVLcmo5UndWZk9xREpCMGI5T1VKQ0tlQkNmVlk.png",
+   "sentAt": "2026-11-12T21:04:33.695+09:00",
+   "saving": 29,
+   "baseline": 12510,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": {
+    "label": "100g당",
+    "value": 1854
+   },
+   "comps": [
+    {
+     "name": "판매글 5곳 최저가",
+     "price": 12510
+    }
+   ],
+   "link": "https://toss.shopping/_m/ZVKNOpcq"
+  },
   {
    "uid": "3416849828",
    "mall": "롯데온",
@@ -2993,140 +3015,6 @@
     }
    ],
    "link": "https://toss.im/_m/LQTZqmS4"
-  },
-  {
-   "uid": "8290028334",
-   "mall": "쿠팡",
-   "title": "후루룩 국수 92g 4개",
-   "price": 2700,
-   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/71865886725868-a0e36d2f-dd34-4a53-9f0a-1cdd31f040df.jpg",
-   "sentAt": "2026-11-11T12:05:18.750+09:00",
-   "saving": 30,
-   "baseline": 3880,
-   "baselineNote": "20곳 중 최저",
-   "unit": {
-    "label": "개당",
-    "value": 675
-   },
-   "check": {
-    "market": 3880,
-    "malls": 20,
-    "ship": 3000,
-    "delivered": 6880
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": true,
-    "low": 3560
-   },
-   "review": {
-    "score": 4.6,
-    "count": 297,
-    "low": 0
-   },
-   "spec": [
-    "봉지라면",
-    "국물라면",
-    "기본면",
-    "순한맛",
-    "1인분"
-   ],
-   "comps": [
-    {
-     "name": "20곳 중 최저",
-     "price": 3880
-    },
-    {
-     "name": "배송비 3,000원 포함",
-     "price": 6880
-    }
-   ],
-   "trend": [
-    {
-     "m": "26-04",
-     "p": 3880
-    },
-    {
-     "m": "26-05",
-     "p": 3880
-    },
-    {
-     "m": "26-06",
-     "p": 3760
-    },
-    {
-     "m": "26-07",
-     "p": 3560
-    },
-    {
-     "m": "26-08",
-     "p": 3880
-    },
-    {
-     "m": "26-09",
-     "p": 3880
-    },
-    {
-     "m": "26-10",
-     "p": 3880
-    },
-    {
-     "m": "26-11",
-     "p": 3880
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "롯데마트몰",
-     "code": "TU14D",
-     "id": "OS8801043042994",
-     "price": 3880,
-     "ship": 3000
-    },
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "C274326450",
-     "price": 4160,
-     "ship": 3000
-    },
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "2016972084",
-     "price": 4160,
-     "ship": 3000
-    },
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "6535804092",
-     "price": 6500,
-     "ship": 3000
-    },
-    {
-     "mall": "신세계몰",
-     "code": "ED901",
-     "id": "1000831910167",
-     "price": 9720,
-     "ship": 0
-    },
-    {
-     "mall": "이마트몰",
-     "code": "EE311",
-     "id": "1000831910167",
-     "price": 9720,
-     "ship": 0
-    },
-    {
-     "mall": "SSG.COM",
-     "code": "TN118",
-     "id": "1000831910167",
-     "price": 9720,
-     "ship": 0
-    }
-   ],
-   "link": "https://link.coupang.com/a/iz91uUe1aS"
   }
  ]
 }
