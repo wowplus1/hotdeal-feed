@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-12T14:28:55.658+09:00",
+ "updated": "2026-11-12T15:24:13.366+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "5433100401",
+   "mall": "지마켓",
+   "title": "밀크앤허니 모닝빵 생지 2520g + 크로아상 생지 2250g",
+   "price": 18870,
+   "image": "https://gdimg.gmarket.co.kr/3389690785/goodsimage",
+   "sentAt": "2026-11-12T15:24:13.366+09:00",
+   "saving": 24,
+   "baseline": 24920,
+   "baselineNote": "판매글 5곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 5곳 최저가",
+     "price": 24920
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=3389690785",
+   "web": true
+  },
   {
    "uid": "4579704342",
    "mall": "쿠팡",
@@ -7872,25 +7891,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2248359584",
-   "web": true
-  },
-  {
-   "uid": "5433100401",
-   "mall": "지마켓",
-   "title": "밀크앤허니 모닝빵 생지 2520g + 크로아상 생지 2250g",
-   "price": 19930,
-   "image": "https://gdimg.gmarket.co.kr/3389690785/goodsimage",
-   "sentAt": "2026-11-06T10:20:19.278+09:00",
-   "saving": 17,
-   "baseline": 24030,
-   "baselineNote": "판매글 5곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 5곳 최저가",
-     "price": 24030
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=3389690785",
    "web": true
   },
   {
