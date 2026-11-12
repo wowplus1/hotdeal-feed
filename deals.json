@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-13T07:37:47.721+09:00",
+ "updated": "2026-11-13T08:07:27.846+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5838088587",
+   "mall": "쿠팡",
+   "title": "배스킨라빈스 피스타치오 크림 모찌 파이 12p, 264g, 3개",
+   "price": 10170,
+   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/276554408690484-4f5ac3d4-e38c-4c34-8610-a2f08b302516.jpg",
+   "sentAt": "2026-11-13T08:07:27.258+09:00",
+   "saving": 38,
+   "baseline": 16280,
+   "baselineNote": "판매글 9곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 3390
+   },
+   "comps": [
+    {
+     "name": "판매글 9곳 최저가",
+     "price": 16280
+    }
+   ],
+   "link": "https://link.coupang.com/a/gfB1kGFjUW"
+  },
   {
    "uid": "1528163346",
    "mall": "쿠팡",
@@ -2866,19 +2888,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iAdT4RBYNU"
-  },
-  {
-   "uid": "5283587820",
-   "mall": "쿠팡",
-   "title": "쿠라콘 시오콘부 염장 다시마, 47g, 3개",
-   "price": 9530,
-   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/27a1/8b56bc9aab7f69e169a2da90af950adec713bcc56b68cae2533bfe385ed8.jpg",
-   "sentAt": "2026-11-11T12:57:15.659+09:00",
-   "unit": {
-    "label": "개당",
-    "value": 3177
-   },
-   "link": "https://link.coupang.com/a/iAdD0nYhbM"
   }
  ]
 }
