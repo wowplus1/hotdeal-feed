@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-12T08:26:24.121+09:00",
+ "updated": "2026-11-12T08:59:07.135+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1335367310",
+   "mall": "지마켓",
+   "title": "펩시제로슈거라임 190ml 30캔+펩시제로슈거라임 355ml 24캔 펩시제로라임/콜라",
+   "price": 20370,
+   "image": "https://gdimg.gmarket.co.kr/4660574989/goodsimage",
+   "sentAt": "2026-11-12T08:59:06.357+09:00",
+   "saving": 34,
+   "baseline": 30980,
+   "baselineNote": "판매글 10곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 10곳 최저가",
+     "price": 30980
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4660574989"
+  },
   {
    "uid": "8273771513",
    "mall": "토스쇼핑",
@@ -3663,102 +3681,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/gF4ZB9qAh2"
-  },
-  {
-   "uid": "2000957125",
-   "mall": "토스쇼핑",
-   "title": "추추 추어탕, 500g, 4개",
-   "price": 11090,
-   "image": "https://shopping.toss.im/live/taca/ai/MTg4Njhm/U1d5OS9La2dQbkVVdFhnNzhqQnVDNnRmSDZpVlNNSG5RNk1YUnFwV0xDND0.png",
-   "sentAt": "2026-11-11T07:51:53.406+09:00",
-   "saving": 27,
-   "baseline": 15250,
-   "baselineNote": "9곳 중 최저 · 무료배송",
-   "unit": {
-    "label": "개당",
-    "value": 2773
-   },
-   "check": {
-    "market": 15250,
-    "malls": 9,
-    "ship": 0
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": true,
-    "low": 11900
-   },
-   "comps": [
-    {
-     "name": "9곳 중 최저 · 무료배송",
-     "price": 15250
-    }
-   ],
-   "trend": [
-    {
-     "m": "26-04",
-     "p": 11900
-    },
-    {
-     "m": "26-05",
-     "p": 14900
-    },
-    {
-     "m": "26-06",
-     "p": 11900
-    },
-    {
-     "m": "26-07",
-     "p": 11900
-    },
-    {
-     "m": "26-08",
-     "p": 14600
-    },
-    {
-     "m": "26-09",
-     "p": 12220
-    },
-    {
-     "m": "26-10",
-     "p": 14440
-    },
-    {
-     "m": "26-11",
-     "p": 15620
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "F640583675",
-     "price": 15250,
-     "ship": 0
-    },
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "4833190875",
-     "price": 15250,
-     "ship": 0
-    },
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "9562286114",
-     "price": 15620,
-     "ship": 0
-    },
-    {
-     "mall": "TYA180",
-     "code": "TYA180",
-     "id": "13865433254",
-     "price": 16300,
-     "ship": 0
-    }
-   ],
-   "link": "https://toss.im/_m/BtWMIdq4"
   }
  ]
 }
