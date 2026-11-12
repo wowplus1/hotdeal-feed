@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-12T16:33:01.589+09:00",
+ "updated": "2026-11-12T16:34:08.411+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2771726927",
+   "mall": "지마켓",
+   "title": "올반 우리돼지 동그랑땡 380g 6팩",
+   "price": 15960,
+   "image": "https://gdimg.gmarket.co.kr/3391972250/goodsimage",
+   "sentAt": "2026-11-12T16:34:07.850+09:00",
+   "saving": 37,
+   "baseline": 25380,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 2660
+   },
+   "comps": [
+    {
+     "name": "판매글 4곳 최저가",
+     "price": 25380
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=3391972250"
+  },
   {
    "uid": "7551259073",
    "mall": "롯데온",
@@ -3060,28 +3082,6 @@
     }
    ],
    "link": "http://app.ac/ljpKPXa43"
-  },
-  {
-   "uid": "3988133204",
-   "mall": "쿠팡",
-   "title": "도브 miffy 뷰티너리싱 바디워시 1kg",
-   "price": 4710,
-   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/07/01/12/9/bba9df4d-adc5-4207-b7ea-46d330c3e001.png",
-   "sentAt": "2026-11-11T10:50:03.013+09:00",
-   "saving": 47,
-   "baseline": 8930,
-   "baselineNote": "판매글 10곳 최저가",
-   "unit": {
-    "label": "100g당",
-    "value": 471
-   },
-   "comps": [
-    {
-     "name": "판매글 10곳 최저가",
-     "price": 8930
-    }
-   ],
-   "link": "https://link.coupang.com/a/iz4FcgypR6"
   }
  ]
 }
