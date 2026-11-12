@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-12T17:26:58.967+09:00",
+ "updated": "2026-11-12T17:52:19.009+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "8616584859",
+   "mall": "지마켓",
+   "title": "스너글 초고농축 섬유유연제 오리지널 2L + 2.6L",
+   "price": 15780,
+   "image": "https://gdimg.gmarket.co.kr/1894144268/goodsimage",
+   "sentAt": "2026-11-12T17:52:19.009+09:00",
+   "saving": 21,
+   "baseline": 19920,
+   "baselineNote": "판매글 10곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 10곳 최저가",
+     "price": 19920
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=1894144268",
+   "web": true
+  },
   {
    "uid": "2908447315",
    "mall": "지마켓",
@@ -10968,20 +10987,6 @@
    "baselineNote": "판매글 17곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/GECwzXS93",
-   "web": true
-  },
-  {
-   "uid": "1372671171",
-   "mall": "지마켓",
-   "title": "크리넥스 3겹 데코앤소프트 화이트 25MX30롤 2팩",
-   "price": 24980,
-   "image": "https://gdimg.gmarket.co.kr/4157511492/goodsimage",
-   "sentAt": "2026-11-02T21:40:31.445+09:00",
-   "saving": 13,
-   "baseline": 28610,
-   "baselineNote": "157곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4157511492",
    "web": true
   }
  ]
