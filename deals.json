@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-13T17:31:39.780+09:00",
+ "updated": "2026-11-13T17:52:24.968+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7179178832",
+   "mall": "지마켓",
+   "title": "스너글 섬유유연제 허거블 코튼 4L + 2.6L",
+   "price": 22020,
+   "image": "https://gdimg.gmarket.co.kr/1871026404/goodsimage",
+   "sentAt": "2026-11-13T17:52:24.039+09:00",
+   "saving": 29,
+   "baseline": 31070,
+   "baselineNote": "판매글 3곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 3곳 최저가",
+     "price": 31070
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=1871026404"
+  },
   {
    "uid": "6236890136",
    "mall": "롯데온",
@@ -2487,28 +2505,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iArwUYEWOG"
-  },
-  {
-   "uid": "7629332467",
-   "mall": "토스쇼핑",
-   "title": "맘스케이크 플랫파운드, 혼합, 50g, 20개",
-   "price": 9100,
-   "image": "https://shopping.toss.im/live/temp/2026-09-11/000e96a6-7249-4341-815e-053dabad7e08.png",
-   "sentAt": "2026-11-11T15:45:53.915+09:00",
-   "saving": 40,
-   "baseline": 15110,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 455
-   },
-   "comps": [
-    {
-     "name": "판매글 3곳 최저가",
-     "price": 15110
-    }
-   ],
-   "link": "https://toss.im/_m/nzmjNNTa"
   }
  ]
 }
