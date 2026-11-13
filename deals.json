@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-13T14:58:50.821+09:00",
+ "updated": "2026-11-13T15:07:33.505+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2011581570",
+   "mall": "11번가",
+   "title": "맥널티 병커피 50g 3개 골라담기",
+   "price": 11900,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/1/4/4/0/2/1/TGgDY/8835144021_240917592.webp",
+   "sentAt": "2026-11-13T15:07:32.908+09:00",
+   "saving": 25,
+   "baseline": 15900,
+   "baselineNote": "판매글 32곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 3967
+   },
+   "comps": [
+    {
+     "name": "판매글 32곳 최저가",
+     "price": 15900
+    }
+   ],
+   "link": "http://app.ac/A3MJ8JJ33"
+  },
   {
    "uid": "4319779077",
    "mall": "쿠팡",
@@ -2650,28 +2672,6 @@
     "where": "1286곳 중 최저"
    },
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4902849991"
-  },
-  {
-   "uid": "8570793257",
-   "mall": "쿠팡",
-   "title": "조지아 블랙 무라벨 커피, 370ml, 20개",
-   "price": 16100,
-   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/129299413373747-329dd76d-4db8-417c-b8ac-4b62ff55c1d1.jpg",
-   "sentAt": "2026-11-11T15:00:41.691+09:00",
-   "saving": 34,
-   "baseline": 24480,
-   "baselineNote": "판매글 29곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 805
-   },
-   "comps": [
-    {
-     "name": "판매글 29곳 최저가",
-     "price": 24480
-    }
-   ],
-   "link": "https://link.coupang.com/a/gwhWYW2f3k"
   }
  ]
 }
