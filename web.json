@@ -1,7 +1,137 @@
 {
- "updated": "2026-11-13T22:12:25.776+09:00",
+ "updated": "2026-11-13T22:22:17.933+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "5370492457",
+   "mall": "11번가",
+   "title": "오리온 예감 오리지널 64g, 10개",
+   "price": 8380,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9167337169/B.webp",
+   "sentAt": "2026-11-13T22:22:17.933+09:00",
+   "saving": 15,
+   "baseline": 9900,
+   "baselineNote": "359곳 중 최저 · 무료배송",
+   "unit": {
+    "label": "개당",
+    "value": 838
+   },
+   "check": {
+    "market": 9900,
+    "malls": 359,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": false,
+    "low": 4690
+   },
+   "review": {
+    "score": 4.7,
+    "count": 383,
+    "low": 2
+   },
+   "comps": [
+    {
+     "name": "359곳 중 최저 · 무료배송",
+     "price": 9900
+    }
+   ],
+   "trend": [
+    {
+     "m": "26-04",
+     "p": 10740
+    },
+    {
+     "m": "26-05",
+     "p": 10340
+    },
+    {
+     "m": "26-06",
+     "p": 10340
+    },
+    {
+     "m": "26-07",
+     "p": 10500
+    },
+    {
+     "m": "26-08",
+     "p": 10300
+    },
+    {
+     "m": "26-09",
+     "p": 4690
+    },
+    {
+     "m": "26-10",
+     "p": 10000
+    },
+    {
+     "m": "26-11",
+     "p": 9900
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9167337169",
+     "price": 9900,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "3577591126",
+     "price": 10240,
+     "ship": 3500
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F642448416",
+     "price": 10960,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2750295684",
+     "price": 11180,
+     "ship": 0
+    },
+    {
+     "mall": "TY65E",
+     "code": "TY65E",
+     "id": "13770768106",
+     "price": 11700,
+     "ship": 0
+    },
+    {
+     "mall": "주식회사 신세계라이브쇼핑",
+     "code": "TRB03",
+     "id": "10980192",
+     "price": 12020,
+     "ship": 0
+    },
+    {
+     "mall": "SK스토아",
+     "code": "TSB275",
+     "id": "23616745",
+     "price": 12280,
+     "ship": 0
+    },
+    {
+     "mall": "현대Hmall",
+     "code": "ED907",
+     "id": "2239964255",
+     "price": 12890,
+     "ship": 0
+    }
+   ],
+   "link": "http://app.ac/utV8DsM53",
+   "web": true
+  },
   {
    "uid": "6799971015",
    "mall": "롯데온",
@@ -11656,19 +11786,6 @@
    "baseline": 63960,
    "baselineNote": "판매글 3곳 최저가",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2332219546",
-   "web": true
-  },
-  {
-   "uid": "4294240493",
-   "mall": "11번가",
-   "title": "매일두유 99.9 190ml, 24개 + 검은콩 고단백 190ml, 24개",
-   "price": 23660,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/8523717889/B.jpg?319221857",
-   "sentAt": "2026-11-03T11:54:03.363+09:00",
-   "saving": 18,
-   "baseline": 28900,
-   "baselineNote": "판매글 15곳 최저가",
-   "link": "http://app.ac/7AVtHl593",
    "web": true
   }
  ]
