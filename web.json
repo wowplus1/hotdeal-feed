@@ -1,7 +1,164 @@
 {
- "updated": "2026-11-13T12:41:35.502+09:00",
+ "updated": "2026-11-13T13:32:00.099+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "5940395314",
+   "mall": "쿠팡",
+   "title": "이클립스 워터멜론향 캔디, 30g, 8개",
+   "price": 10880,
+   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/33725236650462-d41df694-e6ed-4c53-8aa3-bcc87279f723.jpg",
+   "sentAt": "2026-11-13T13:32:00.099+09:00",
+   "saving": 18,
+   "baseline": 13230,
+   "baselineNote": "261곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 1360
+   },
+   "check": {
+    "market": 13230,
+    "malls": 261,
+    "ship": 3000,
+    "delivered": 16230
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 11910
+   },
+   "review": {
+    "score": 4.7,
+    "count": 1552,
+    "low": 8
+   },
+   "spec": [
+    "사탕",
+    "저지방",
+    "무당",
+    "무염"
+   ],
+   "comps": [
+    {
+     "name": "261곳 중 최저",
+     "price": 13230
+    },
+    {
+     "name": "배송비 3,000원 포함",
+     "price": 16230
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 12940
+    },
+    {
+     "m": "26-01",
+     "p": 12540
+    },
+    {
+     "m": "26-02",
+     "p": 12380
+    },
+    {
+     "m": "26-03",
+     "p": 12490
+    },
+    {
+     "m": "26-04",
+     "p": 12880
+    },
+    {
+     "m": "26-05",
+     "p": 12860
+    },
+    {
+     "m": "26-06",
+     "p": 11910
+    },
+    {
+     "m": "26-07",
+     "p": 12870
+    },
+    {
+     "m": "26-08",
+     "p": 13200
+    },
+    {
+     "m": "26-09",
+     "p": 13110
+    },
+    {
+     "m": "26-10",
+     "p": 13020
+    },
+    {
+     "m": "26-11",
+     "p": 13170
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4685830506",
+     "price": 13230,
+     "ship": 3000
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F684980359",
+     "price": 13630,
+     "ship": 3000
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2367033079",
+     "price": 13920,
+     "ship": 3000
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "7583730343",
+     "price": 14160,
+     "ship": 3000
+    },
+    {
+     "mall": "TZ3D7",
+     "code": "TZ3D7",
+     "id": "13262928759",
+     "price": 14880,
+     "ship": 3000
+    },
+    {
+     "mall": "하프클럽",
+     "code": "TZ6171",
+     "id": "430547913",
+     "price": 16510,
+     "ship": 0
+    },
+    {
+     "mall": "롯데홈쇼핑",
+     "code": "ED903",
+     "id": "3433873001",
+     "price": 17190,
+     "ship": 0
+    },
+    {
+     "mall": "보리보리",
+     "code": "TG021",
+     "id": "378278568",
+     "price": 17210,
+     "ship": 3000
+    }
+   ],
+   "link": "https://link.coupang.com/a/iDzLEb2YSW",
+   "web": true
+  },
   {
    "uid": "1372671171",
    "mall": "지마켓",
@@ -11390,20 +11547,6 @@
    "baselineNote": "판매글 3곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/imADj9tOPA",
-   "web": true
-  },
-  {
-   "uid": "3516617377",
-   "mall": "지마켓",
-   "title": "들기름 광천김 도시락김 4g32봉",
-   "price": 7330,
-   "image": "https://gdimg.gmarket.co.kr/4427513967/goodsimage",
-   "sentAt": "2026-11-03T05:30:33.415+09:00",
-   "saving": 45,
-   "baseline": 13240,
-   "baselineNote": "다른 곳 최저",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4427513967",
    "web": true
   }
  ]
