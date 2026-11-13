@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-13T17:08:48.236+09:00",
+ "updated": "2026-11-13T17:11:54.856+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3027512040",
+   "mall": "토스쇼핑",
+   "title": "그린핑거 촉촉한 자연보습 워시, 320ml, 2개",
+   "price": 15500,
+   "image": "https://shopping.toss.im/live/temp/2026-09-23/72b9e938-ec5d-40f8-85dd-507b47ef6cd6.jpeg",
+   "sentAt": "2026-11-13T17:11:54.319+09:00",
+   "unit": {
+    "label": "개당",
+    "value": 7750
+   },
+   "alt": {
+    "price": 18600,
+    "where": "34곳 중 최저",
+    "ship": 0
+   },
+   "link": "https://toss.shopping/_m/v2lxQb4c"
+  },
   {
    "uid": "1196266749",
    "mall": "11번가",
@@ -2610,138 +2628,6 @@
     }
    ],
    "link": "http://app.ac/WtnLkGM33"
-  },
-  {
-   "uid": "7203707526",
-   "mall": "쿠팡",
-   "title": "농심 메론킥, 60g, 3개",
-   "price": 2520,
-   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/759522266600500-cde22522-2bef-4581-8d8b-dd7e0000ccaa.jpg",
-   "sentAt": "2026-11-11T15:23:25.401+09:00",
-   "saving": 46,
-   "baseline": 4630,
-   "baselineNote": "10곳 중 최저",
-   "unit": {
-    "label": "개당",
-    "value": 840
-   },
-   "check": {
-    "market": 4630,
-    "malls": 10
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": true,
-    "low": 3300
-   },
-   "comps": [
-    {
-     "name": "10곳 중 최저",
-     "price": 4630
-    }
-   ],
-   "trend": [
-    {
-     "m": "25-12",
-     "p": 4080
-    },
-    {
-     "m": "26-01",
-     "p": 3300
-    },
-    {
-     "m": "26-02",
-     "p": 3300
-    },
-    {
-     "m": "26-03",
-     "p": 4080
-    },
-    {
-     "m": "26-04",
-     "p": 4080
-    },
-    {
-     "m": "26-05",
-     "p": 4080
-    },
-    {
-     "m": "26-06",
-     "p": 4080
-    },
-    {
-     "m": "26-07",
-     "p": 4080
-    },
-    {
-     "m": "26-08",
-     "p": 4080
-    },
-    {
-     "m": "26-09",
-     "p": 4200
-    },
-    {
-     "m": "26-10",
-     "p": 5350
-    },
-    {
-     "m": "26-11",
-     "p": 4630
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "F258069407",
-     "price": 4630,
-     "ship": 3000
-    },
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "4455712677",
-     "price": 5360,
-     "ship": 3000
-    },
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "8528889835",
-     "price": 6860,
-     "ship": 0
-    },
-    {
-     "mall": "TY22C2",
-     "code": "TY22C2",
-     "id": "12180838656",
-     "price": 7600,
-     "ship": 0
-    },
-    {
-     "mall": "SSG.COM",
-     "code": "TN118",
-     "id": "1000693925880",
-     "price": 8260,
-     "ship": 0
-    },
-    {
-     "mall": "신세계몰",
-     "code": "ED901",
-     "id": "1000693925880",
-     "price": 8260,
-     "ship": 0
-    },
-    {
-     "mall": "이마트몰",
-     "code": "EE311",
-     "id": "1000693925880",
-     "price": 8260,
-     "ship": 0
-    }
-   ],
-   "link": "https://link.coupang.com/a/iAobgvEYr6"
   }
  ]
 }
