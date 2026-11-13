@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-13T18:32:45.754+09:00",
+ "updated": "2026-11-13T18:42:43.679+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3274577832",
+   "mall": "쿠팡",
+   "title": "삼립 돌아온 로켓단 초코롤 85g",
+   "price": 860,
+   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/426743633513770-840bf65d-38b5-4e16-8eb9-dbd770bc1cfc.jpg",
+   "sentAt": "2026-11-13T18:42:43.115+09:00",
+   "saving": 49,
+   "baseline": 1680,
+   "baselineNote": "판매글 3곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 3곳 최저가",
+     "price": 1680
+    }
+   ],
+   "link": "https://link.coupang.com/a/hS0IyykAdU"
+  },
   {
    "uid": "3231301540",
    "mall": "쿠팡",
@@ -2504,28 +2522,6 @@
     }
    ],
    "link": "https://toss.shopping/_m/XtkiINd1"
-  },
-  {
-   "uid": "7977109571",
-   "mall": "지마켓",
-   "title": "국내산 전라도 파김치 2kg",
-   "price": 9490,
-   "image": "https://gdimg.gmarket.co.kr/4742482277/goodsimage",
-   "sentAt": "2026-11-11T17:23:16.492+09:00",
-   "saving": 47,
-   "baseline": 17900,
-   "baselineNote": "다른 곳 최저",
-   "unit": {
-    "label": "100g당",
-    "value": 475
-   },
-   "comps": [
-    {
-     "name": "다른 곳 최저",
-     "price": 17900
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4742482277"
   }
  ]
 }
