@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-13T13:13:27.027+09:00",
+ "updated": "2026-11-13T13:52:56.941+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6670276415",
+   "mall": "토스쇼핑",
+   "title": "부산포차 꼬치어묵, 400g, 3봉",
+   "price": 10430,
+   "image": "https://shopping.toss.im/live/taca/ai/NmE0Yzk5/UkFySGthUFRZNlZsbUxKY1NWWGtyVnNpQ3I4SHZ3bTJsbkowbThTdm5RRT0.png",
+   "sentAt": "2026-11-13T13:52:56.160+09:00",
+   "unit": {
+    "label": "개당",
+    "value": 3477
+   },
+   "link": "https://toss.im/_m/XUJXCqyD"
+  },
   {
    "uid": "4748299656",
    "mall": "지마켓",
@@ -2518,156 +2531,6 @@
     "value": 698
    },
    "link": "https://link.coupang.com/a/iAjT1ZFikC"
-  },
-  {
-   "uid": "8522433846",
-   "mall": "쿠팡",
-   "title": "새우깡, 90g, 4개",
-   "price": 3020,
-   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/268741224140966-4ae882cd-c215-4d84-8e29-c26902447a37.jpg",
-   "sentAt": "2026-11-11T14:19:31.609+09:00",
-   "saving": 44,
-   "baseline": 5400,
-   "baselineNote": "23곳 중 최저",
-   "unit": {
-    "label": "개당",
-    "value": 755
-   },
-   "check": {
-    "market": 5400,
-    "malls": 23,
-    "delivered": 6890
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": true,
-    "low": 3880
-   },
-   "spec": [
-    "스낵",
-    "대두, 밀, 새우, 우유",
-    "저당",
-    "생새우8.5%"
-   ],
-   "comps": [
-    {
-     "name": "23곳 중 최저",
-     "price": 5400
-    },
-    {
-     "name": "배송비까지 치면",
-     "price": 6890
-    }
-   ],
-   "trend": [
-    {
-     "m": "25-12",
-     "p": 3880
-    },
-    {
-     "m": "26-01",
-     "p": 3880
-    },
-    {
-     "m": "26-02",
-     "p": 4040
-    },
-    {
-     "m": "26-03",
-     "p": 4640
-    },
-    {
-     "m": "26-04",
-     "p": 4640
-    },
-    {
-     "m": "26-05",
-     "p": 4510
-    },
-    {
-     "m": "26-06",
-     "p": 4560
-    },
-    {
-     "m": "26-07",
-     "p": 4240
-    },
-    {
-     "m": "26-08",
-     "p": 4120
-    },
-    {
-     "m": "26-09",
-     "p": 4650
-    },
-    {
-     "m": "26-10",
-     "p": 5220
-    },
-    {
-     "m": "26-11",
-     "p": 5280
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "3936651607",
-     "price": 5400,
-     "ship": 3000
-    },
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "E536465459",
-     "price": 5690,
-     "ship": 3000
-    },
-    {
-     "mall": "TV4236",
-     "code": "TV4236",
-     "id": "10510209477",
-     "price": 5800,
-     "ship": 3000
-    },
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "8210425905",
-     "price": 6890,
-     "ship": 0
-    },
-    {
-     "mall": "패션플러스",
-     "code": "TH002",
-     "id": "429420338",
-     "price": 7410,
-     "ship": 0
-    },
-    {
-     "mall": "롯데ON",
-     "code": "EE309",
-     "id": "LO2696499338",
-     "price": 7570,
-     "ship": 0
-    },
-    {
-     "mall": "하프클럽",
-     "code": "TZ6171",
-     "id": "427642774",
-     "price": 7800,
-     "ship": 0
-    },
-    {
-     "mall": "SK스토아",
-     "code": "TSB275",
-     "id": "55407034",
-     "price": 7880,
-     "ship": 0
-    }
-   ],
-   "link": "https://link.coupang.com/a/iAjA7RXeDI"
   }
  ]
 }
