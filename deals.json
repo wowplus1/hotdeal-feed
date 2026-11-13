@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-13T12:47:17.725+09:00",
+ "updated": "2026-11-13T13:13:27.027+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4748299656",
+   "mall": "지마켓",
+   "title": "배수구 세정제 드릴펑 1L x 3개 + 2L x 1개",
+   "price": 9740,
+   "image": "https://gdimg.gmarket.co.kr/1667635785/goodsimage",
+   "sentAt": "2026-11-13T13:13:26.263+09:00",
+   "saving": 46,
+   "baseline": 17900,
+   "baselineNote": "판매글 3곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 3곳 최저가",
+     "price": 17900
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=1667635785"
+  },
   {
    "uid": "8650232967",
    "mall": "쿠팡",
@@ -2650,28 +2668,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iAjA7RXeDI"
-  },
-  {
-   "uid": "7183790379",
-   "mall": "토스쇼핑",
-   "title": "터치 라이트 아토캡 고농축 캡슐세제, 8g, 120개입, 1개",
-   "price": 7260,
-   "image": "https://shopping.toss.im/live/taca/ai/v2/MDVjMTIx/RWtYZzhmbERxT0hGaDdMVGZVYjh5emh6NGsyRmhzUEdRYytybXhZNEhqdz0.png",
-   "sentAt": "2026-11-11T14:06:18.482+09:00",
-   "saving": 30,
-   "baseline": 10355,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 61
-   },
-   "comps": [
-    {
-     "name": "판매글 4곳 최저가",
-     "price": 10355
-    }
-   ],
-   "link": "https://toss.shopping/_m/Nj0QT9SD"
   }
  ]
 }
