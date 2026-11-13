@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-13T18:42:43.679+09:00",
+ "updated": "2026-11-13T18:48:31.395+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9606595390",
+   "mall": "지마켓",
+   "title": "도브 바디워시 1000ml 3개",
+   "price": 11770,
+   "image": "https://gdimg.gmarket.co.kr/1677460336/goodsimage",
+   "sentAt": "2026-11-13T18:48:30.846+09:00",
+   "saving": 42,
+   "baseline": 20280,
+   "baselineNote": "판매글 10곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 3923
+   },
+   "comps": [
+    {
+     "name": "판매글 10곳 최저가",
+     "price": 20280
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=1677460336"
+  },
   {
    "uid": "3274577832",
    "mall": "쿠팡",
@@ -2500,28 +2522,6 @@
     }
    ],
    "link": "http://app.ac/iECqpoS93"
-  },
-  {
-   "uid": "7070389413",
-   "mall": "토스쇼핑",
-   "title": "탄수화물 컷 가르시니아 다이어트 6 플러스, 120정, 3개",
-   "price": 18220,
-   "image": "https://shopping.toss.im/live/taca/ai/NjIxNDUy/QUw4UVRqbFJzV2lQVWVENGg0UFFXeTNTMEliTzVaS3EvUFVEQi9pcUJWVjY.png",
-   "sentAt": "2026-11-11T17:46:09.901+09:00",
-   "saving": 73,
-   "baseline": 68530,
-   "baselineNote": "판매글 10곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 6073
-   },
-   "comps": [
-    {
-     "name": "판매글 10곳 최저가",
-     "price": 68530
-    }
-   ],
-   "link": "https://toss.shopping/_m/XtkiINd1"
   }
  ]
 }
