@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-13T08:27:29.532+09:00",
+ "updated": "2026-11-13T10:22:42.993+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "9940458140",
+   "mall": "쿠팡",
+   "title": "믈레코비타 3.5% 멸균우유, 1L, 12개",
+   "price": 16520,
+   "image": "https://thumbnail1.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/31460093780521-86d6c0d5-4bb7-4557-a164-ac42d2603e8f.jpg",
+   "sentAt": "2026-11-13T10:22:42.993+09:00",
+   "saving": 16,
+   "baseline": 19620,
+   "baselineNote": "판매글 28곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 1377
+   },
+   "comps": [
+    {
+     "name": "판매글 28곳 최저가",
+     "price": 19620
+    }
+   ],
+   "link": "https://link.coupang.com/a/iDmf1x419w",
+   "web": true
+  },
   {
    "uid": "8374333264",
    "mall": "지마켓",
@@ -11248,19 +11271,6 @@
    "baseline": 47670,
    "baselineNote": "38곳 중 최저 · 무료배송",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4861306746",
-   "web": true
-  },
-  {
-   "uid": "4445811806",
-   "mall": "11번가",
-   "title": "피죤 배수구 세정제 드릴펑 1L, 3개 + 드릴펑 2L, 1개",
-   "price": 8900,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/7228945907/B.jpg?924186573",
-   "sentAt": "2026-11-03T00:11:18.344+09:00",
-   "saving": 50,
-   "baseline": 17900,
-   "baselineNote": "판매글 3곳 최저가",
-   "link": "http://app.ac/VtV86yM83",
    "web": true
   }
  ]
