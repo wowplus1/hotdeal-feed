@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-13T15:23:22.008+09:00",
+ "updated": "2026-11-13T15:56:30.737+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3020853623",
+   "mall": "지마켓",
+   "title": "김정문알로에 워터쿨링 선스틱 23g 2개",
+   "price": 11890,
+   "image": "https://gdimg.gmarket.co.kr/2442814798/goodsimage",
+   "sentAt": "2026-11-13T15:56:29.802+09:00",
+   "saving": 31,
+   "baseline": 17200,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 5945
+   },
+   "comps": [
+    {
+     "name": "판매글 3곳 최저가",
+     "price": 17200
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2442814798"
+  },
   {
    "uid": "2313872522",
    "mall": "지마켓",
@@ -2773,28 +2795,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iAnA9BmUNM"
-  },
-  {
-   "uid": "1406291122",
-   "mall": "토스쇼핑",
-   "title": "유한메디카 고함량 마그네슘 엔 탑 400 맥스, 90정, 2개",
-   "price": 13130,
-   "image": "https://shopping.toss.im/live/taca/ai/v2/ZjNhOTEz/UFBRZkl5OGNzZm51TnVROEhHRlBoM3pVT3dkODhlMDgyTUVIdm40WGtQQT0.png",
-   "sentAt": "2026-11-11T15:11:05.240+09:00",
-   "saving": 33,
-   "baseline": 19700,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 6565
-   },
-   "comps": [
-    {
-     "name": "판매글 5곳 최저가",
-     "price": 19700
-    }
-   ],
-   "link": "https://toss.shopping/_m/tHXopaSt"
   }
  ]
 }
