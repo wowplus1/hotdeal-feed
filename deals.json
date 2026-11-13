@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-13T14:58:09.393+09:00",
+ "updated": "2026-11-13T14:58:50.821+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4319779077",
+   "mall": "쿠팡",
+   "title": "이니스프리 비자 바하 트러블 클렌징 폼 150g 2개",
+   "price": 6530,
+   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/28278735821283-7e6bca71-a5bf-4450-94ea-643913ff7ec8.jpg",
+   "sentAt": "2026-11-13T14:58:50.291+09:00",
+   "unit": {
+    "label": "개당",
+    "value": 3265
+   },
+   "link": "https://link.coupang.com/a/iDFYyPDdUO"
+  },
   {
    "uid": "3322815424",
    "mall": "쿠팡",
@@ -2659,24 +2672,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/gwhWYW2f3k"
-  },
-  {
-   "uid": "5723152247",
-   "mall": "지마켓",
-   "title": "팔도 왕뚜껑 오리지널+김치 10+10 / 20개",
-   "price": 17300,
-   "image": "https://gdimg.gmarket.co.kr/4478067865/goodsimage",
-   "sentAt": "2026-11-11T14:28:27.852+09:00",
-   "saving": 21,
-   "baseline": 21920,
-   "baselineNote": "판매글 6곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 6곳 최저가",
-     "price": 21920
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4478067865"
   }
  ]
 }
