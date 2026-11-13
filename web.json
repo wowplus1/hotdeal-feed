@@ -1,7 +1,133 @@
 {
- "updated": "2026-11-13T13:56:55.529+09:00",
+ "updated": "2026-11-13T19:17:08.053+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "5785453398",
+   "mall": "지마켓",
+   "title": "오뚜기 진라면 매운맛 120g 20개 + 열라면 120g 20개",
+   "price": 19980,
+   "image": "https://gdimg.gmarket.co.kr/3782617204/goodsimage",
+   "sentAt": "2026-11-13T19:17:08.053+09:00",
+   "saving": 13,
+   "baseline": 22900,
+   "baselineNote": "130곳 중 최저 · 무료배송",
+   "check": {
+    "market": 22900,
+    "malls": 130,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": false,
+    "low": 19900
+   },
+   "review": {
+    "score": 4.7,
+    "count": 1590,
+    "low": 1
+   },
+   "spec": [
+    "혼합세트",
+    "기본면"
+   ],
+   "comps": [
+    {
+     "name": "130곳 중 최저 · 무료배송",
+     "price": 22900
+    }
+   ],
+   "trend": [
+    {
+     "m": "26-05",
+     "p": 19900
+    },
+    {
+     "m": "26-06",
+     "p": 21350
+    },
+    {
+     "m": "26-07",
+     "p": 22900
+    },
+    {
+     "m": "26-08",
+     "p": 21770
+    },
+    {
+     "m": "26-09",
+     "p": 22500
+    },
+    {
+     "m": "26-10",
+     "p": 22780
+    },
+    {
+     "m": "26-11",
+     "p": 22900
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "E398698886",
+     "price": 22900,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4732514641",
+     "price": 27330,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9670141091",
+     "price": 27920,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2768349655",
+     "price": 28290,
+     "ship": 0
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000890585661",
+     "price": 28458,
+     "ship": 0
+    },
+    {
+     "mall": "롯데홈쇼핑",
+     "code": "ED903",
+     "id": "3455814261",
+     "price": 29080,
+     "ship": 0
+    },
+    {
+     "mall": "SK스토아",
+     "code": "TSB275",
+     "id": "70029865",
+     "price": 30090,
+     "ship": 0
+    },
+    {
+     "mall": "패션플러스",
+     "code": "TH002",
+     "id": "442967385",
+     "price": 30140,
+     "ship": 0
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=3782617204",
+   "web": true
+  },
   {
    "uid": "7104888073",
    "mall": "지마켓",
@@ -11533,20 +11659,6 @@
    "baselineNote": "845곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/gF2SJNgKZ2",
-   "web": true
-  },
-  {
-   "uid": "2276606152",
-   "mall": "쿠팡",
-   "title": "연세두유 고단백 Pro 플레인, 240ml*16개",
-   "price": 15240,
-   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/05/11/13/8/61ab6e7d-d47b-4e14-a1a5-7d19ef89d46a.jpg",
-   "sentAt": "2026-11-03T07:51:40.823+09:00",
-   "saving": 52,
-   "baseline": 31540,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/imADj9tOPA",
    "web": true
   }
  ]
