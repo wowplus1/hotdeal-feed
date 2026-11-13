@@ -1,7 +1,51 @@
 {
- "updated": "2026-11-13T20:27:41.578+09:00",
+ "updated": "2026-11-14T07:21:40.384+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9444075229",
+   "mall": "쿠팡",
+   "title": "환타 제로 오렌지 탄산음료, 190ml, 30개",
+   "price": 12030,
+   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/10/16/16/9/8c5a99f8-f51e-4970-88c8-cca7be94af3b.jpg",
+   "sentAt": "2026-11-14T07:21:39.509+09:00",
+   "saving": 36,
+   "baseline": 18760,
+   "baselineNote": "판매글 10곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 401
+   },
+   "comps": [
+    {
+     "name": "판매글 10곳 최저가",
+     "price": 18760
+    }
+   ],
+   "link": "https://link.coupang.com/a/iEOegRaWjI"
+  },
+  {
+   "uid": "2735157210",
+   "mall": "쿠팡",
+   "title": "몬스터에너지 드링크 그린, 500ml, 24개",
+   "price": 35890,
+   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/01/12/11/3/5d70050e-45dc-47c8-a75b-326d20d88352.jpg",
+   "sentAt": "2026-11-14T07:21:39.509+09:00",
+   "saving": 33,
+   "baseline": 53780,
+   "baselineNote": "판매글 19곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 1495
+   },
+   "comps": [
+    {
+     "name": "판매글 19곳 최저가",
+     "price": 53780
+    }
+   ],
+   "link": "https://link.coupang.com/a/iEOeBYznW0"
+  },
   {
    "uid": "7285092260",
    "mall": "11번가",
@@ -2269,50 +2313,6 @@
     }
    ],
    "link": "https://toss.im/_m/1Qey6hX1"
-  },
-  {
-   "uid": "9979882512",
-   "mall": "11번가",
-   "title": "널담 뚱카롱 4.5cm 고식이섬유 마카롱 8구",
-   "price": 8380,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/2797124560/B.webp?62584350",
-   "sentAt": "2026-11-11T21:08:34.249+09:00",
-   "saving": 31,
-   "baseline": 12150,
-   "baselineNote": "판매글 17곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 17곳 최저가",
-     "price": 12150
-    }
-   ],
-   "link": "http://app.ac/TECmO3S93"
-  },
-  {
-   "uid": "7364238814",
-   "mall": "쿠팡",
-   "title": "농심 자갈치 90g 3개",
-   "price": 2520,
-   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/21532382325669-37fa294b-38c3-42ce-b7ae-9590b727db64.jpg",
-   "sentAt": "2026-11-11T20:34:13.229+09:00",
-   "saving": 46,
-   "baseline": 4630,
-   "baselineNote": "15곳 중 최저",
-   "unit": {
-    "label": "개당",
-    "value": 840
-   },
-   "check": {
-    "market": 4630,
-    "malls": 15
-   },
-   "comps": [
-    {
-     "name": "15곳 중 최저",
-     "price": 4630
-    }
-   ],
-   "link": "https://link.coupang.com/a/iAKpitrITQ"
   }
  ]
 }
