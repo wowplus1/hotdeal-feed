@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-13T14:19:01.362+09:00",
+ "updated": "2026-11-13T14:52:45.430+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2015119824",
+   "mall": "지마켓",
+   "title": "국내산 대봉감 3kg",
+   "price": 6170,
+   "image": "https://gdimg.gmarket.co.kr/4884322967/goodsimage",
+   "sentAt": "2026-11-13T14:52:44.471+09:00",
+   "saving": 31,
+   "baseline": 8980,
+   "baselineNote": "판매글 10곳 최저가",
+   "unit": {
+    "label": "100g당",
+    "value": 206
+   },
+   "comps": [
+    {
+     "name": "판매글 10곳 최저가",
+     "price": 8980
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4884322967"
+  },
   {
    "uid": "9328484341",
    "mall": "지마켓",
@@ -2576,28 +2598,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iAj67LPhQr"
-  },
-  {
-   "uid": "3607902458",
-   "mall": "지마켓",
-   "title": "바세린 딥 폼클렌징 220ml 3개",
-   "price": 8800,
-   "image": "https://gdimg.gmarket.co.kr/4504229873/goodsimage",
-   "sentAt": "2026-11-11T14:25:31.065+09:00",
-   "saving": 27,
-   "baseline": 12000,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 2933
-   },
-   "comps": [
-    {
-     "name": "판매글 4곳 최저가",
-     "price": 12000
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4504229873"
   }
  ]
 }
