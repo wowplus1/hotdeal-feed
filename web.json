@@ -1,7 +1,96 @@
 {
- "updated": "2026-11-13T23:41:36.676+09:00",
+ "updated": "2026-11-14T03:01:10.703+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "2252185490",
+   "mall": "롯데온",
+   "title": "오리온 비쵸비 125g 5개 + 나샌드 77g 5개",
+   "price": 14980,
+   "image": "https://contents.lotteon.com/itemimage/20260827171853/LO/23/70/45/50/57/_2/37/04/55/05/8/LO2370455057_2370455058_1.jpg",
+   "sentAt": "2026-11-14T03:01:10.703+09:00",
+   "saving": 17,
+   "baseline": 18070,
+   "baselineNote": "11곳 중 최저 · 무료배송",
+   "check": {
+    "market": 18070,
+    "malls": 11,
+    "ship": 0
+   },
+   "spec": [
+    "과자혼합세트",
+    "1.01kg",
+    "10개입",
+    "비쵸비x5개",
+    "나샌드x5개"
+   ],
+   "comps": [
+    {
+     "name": "11곳 중 최저 · 무료배송",
+     "price": 18070
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2370455057",
+     "price": 18070,
+     "ship": 0
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F508353679",
+     "price": 18870,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9198932122",
+     "price": 18920,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4702498475",
+     "price": 18960,
+     "ship": 0
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000805680768",
+     "price": 19135,
+     "ship": 0
+    },
+    {
+     "mall": "신세계몰",
+     "code": "ED901",
+     "id": "1000805680768",
+     "price": 19135,
+     "ship": 0
+    },
+    {
+     "mall": "W쇼핑",
+     "code": "TZ9CF",
+     "id": "24716932",
+     "price": 19350,
+     "ship": 0
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000805680768",
+     "price": 21500,
+     "ship": 0
+    }
+   ],
+   "link": "http://app.ac/xtV6laM03",
+   "web": true
+  },
   {
    "uid": "2187457599",
    "mall": "쿠팡",
@@ -11783,19 +11872,6 @@
    "baselineNote": "판매글 6곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/a3CE7YJ43",
-   "web": true
-  },
-  {
-   "uid": "3644566565",
-   "mall": "지마켓",
-   "title": "ASUS 비보북 X1404MA-EB302W 가성비노트북",
-   "price": 899000,
-   "image": "https://gdimg.gmarket.co.kr/4833998522/goodsimage",
-   "sentAt": "2026-11-03T15:18:21.301+09:00",
-   "saving": 33,
-   "baseline": 1349000,
-   "baselineNote": "다른 곳 최저",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4833998522",
    "web": true
   }
  ]
