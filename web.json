@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-13T19:17:08.053+09:00",
+ "updated": "2026-11-13T19:26:30.435+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "9187119240",
+   "mall": "지마켓",
+   "title": "찬예찬 무색소프리미엄 백명란 파치1kg",
+   "price": 14500,
+   "image": "https://gdimg.gmarket.co.kr/1888409015/goodsimage",
+   "sentAt": "2026-11-13T19:26:30.435+09:00",
+   "unit": {
+    "label": "100g당",
+    "value": 1450
+   },
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=1888409015",
+   "web": true
+  },
   {
    "uid": "5785453398",
    "mall": "지마켓",
@@ -11645,20 +11659,6 @@
    "baselineNote": "판매글 26곳 최저가",
    "unit": "[object Object]",
    "link": "http://app.ac/0AGKnd573",
-   "web": true
-  },
-  {
-   "uid": "4042865012",
-   "mall": "쿠팡",
-   "title": "펩시 제로 슈거 라임향 제로 카페인, 355ml, 24개",
-   "price": 12240,
-   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/10/01/11/9/33d77ad6-f56b-41e5-a658-85e2767fa0bc.jpg",
-   "sentAt": "2026-11-03T08:10:16.952+09:00",
-   "saving": 10,
-   "baseline": 13650,
-   "baselineNote": "845곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/gF2SJNgKZ2",
    "web": true
   }
  ]
