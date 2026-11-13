@@ -1,7 +1,87 @@
 {
- "updated": "2026-11-13T13:52:56.941+09:00",
+ "updated": "2026-11-13T14:19:01.362+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9328484341",
+   "mall": "지마켓",
+   "title": "삼성전자 갤럭시북6 NT740VJQ-A51A",
+   "price": 1188410,
+   "image": "https://gdimg.gmarket.co.kr/4868345475/goodsimage",
+   "sentAt": "2026-11-13T14:19:00.782+09:00",
+   "saving": 23,
+   "baseline": 1542840,
+   "baselineNote": "53곳 중 최저",
+   "check": {
+    "market": 1542840,
+    "malls": 53
+   },
+   "comps": [
+    {
+     "name": "53곳 중 최저",
+     "price": 1542840
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "컴오아시스",
+     "code": "PV203",
+     "id": "5749631245",
+     "price": 1542840,
+     "ship": 5000
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4868345475",
+     "price": 1579000,
+     "ship": 0
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F675509000",
+     "price": 1579000,
+     "ship": 0
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000885974865",
+     "price": 1580000,
+     "ship": 0
+    },
+    {
+     "mall": "신세계몰",
+     "code": "ED901",
+     "id": "1000885972682",
+     "price": 1580000,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2784409360",
+     "price": 1580000,
+     "ship": 0
+    },
+    {
+     "mall": "TSA28B",
+     "code": "TSA28B",
+     "id": "13771760642",
+     "price": 1580000,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9653713595",
+     "price": 1580000,
+     "ship": 0
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4868345475"
+  },
   {
    "uid": "6670276415",
    "mall": "토스쇼핑",
@@ -2518,19 +2598,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4504229873"
-  },
-  {
-   "uid": "7740299022",
-   "mall": "쿠팡",
-   "title": "육개장 라면 116g, 4개,",
-   "price": 2790,
-   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/748474382252435-52d2a90e-b55d-49c3-bdf3-6ea6c4ec1ff2.jpg",
-   "sentAt": "2026-11-11T14:23:39.978+09:00",
-   "unit": {
-    "label": "개당",
-    "value": 698
-   },
-   "link": "https://link.coupang.com/a/iAjT1ZFikC"
   }
  ]
 }
