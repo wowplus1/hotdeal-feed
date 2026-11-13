@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-13T18:48:31.395+09:00",
+ "updated": "2026-11-13T19:02:38.219+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4593358903",
+   "mall": "롯데온",
+   "title": "아이나비 QXD9900mini 32GB 64GB 전후방QHD 2채널 블랙박스, 설치비 포함",
+   "price": 182880,
+   "image": "https://contents.lotteon.com/itemimage/20260806094841/LO/27/03/62/77/30/_2/70/36/27/73/5/LO2703627730_2703627735_1.jpg",
+   "sentAt": "2026-11-13T19:02:37.633+09:00",
+   "saving": 33,
+   "baseline": 271200,
+   "baselineNote": "판매글 6곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 6곳 최저가",
+     "price": 271200
+    }
+   ],
+   "link": "http://app.ac/Ujwlrla03"
+  },
   {
    "uid": "9606595390",
    "mall": "지마켓",
@@ -2500,28 +2518,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iAD19KMzbU"
-  },
-  {
-   "uid": "1598224878",
-   "mall": "롯데온",
-   "title": "어가찬 국내산 햇 멸치 1.5kg 가이리 지리 고바 다시",
-   "price": 8960,
-   "image": "https://contents.lotteon.com/itemimage/20260811153242/LO/21/92/43/42/78/_2/19/24/34/28/6/LO2192434278_2192434286_1.jpg",
-   "sentAt": "2026-11-11T17:48:58.803+09:00",
-   "saving": 50,
-   "baseline": 17990,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": {
-    "label": "100g당",
-    "value": 597
-   },
-   "comps": [
-    {
-     "name": "판매글 5곳 최저가",
-     "price": 17990
-    }
-   ],
-   "link": "http://app.ac/iECqpoS93"
   }
  ]
 }
