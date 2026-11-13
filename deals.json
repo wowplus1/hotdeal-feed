@@ -1,7 +1,104 @@
 {
- "updated": "2026-11-13T14:52:45.430+09:00",
+ "updated": "2026-11-13T14:58:09.393+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3322815424",
+   "mall": "쿠팡",
+   "title": "꼬깔콘 군옥수수맛 지퍼백, 235g, 1개",
+   "price": 3200,
+   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/1025_amir_coupang_oct_80k/4dd4/273c1609f20e400e19ade03e4977e5a7545910a44721d629979edb4a70c3.jpg",
+   "sentAt": "2026-11-13T14:58:08.792+09:00",
+   "saving": 27,
+   "baseline": 4380,
+   "baselineNote": "3곳 중 최저",
+   "unit": {
+    "label": "100g당",
+    "value": 1362
+   },
+   "check": {
+    "market": 4380,
+    "malls": 3
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 3660
+   },
+   "comps": [
+    {
+     "name": "3곳 중 최저",
+     "price": 4380
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 3780
+    },
+    {
+     "m": "26-01",
+     "p": 3770
+    },
+    {
+     "m": "26-02",
+     "p": 3660
+    },
+    {
+     "m": "26-03",
+     "p": 3660
+    },
+    {
+     "m": "26-04",
+     "p": 4140
+    },
+    {
+     "m": "26-05",
+     "p": 4060
+    },
+    {
+     "m": "26-06",
+     "p": 4140
+    },
+    {
+     "m": "26-07",
+     "p": 4140
+    },
+    {
+     "m": "26-08",
+     "p": 4140
+    },
+    {
+     "m": "26-09",
+     "p": 4140
+    },
+    {
+     "m": "26-10",
+     "p": 4140
+    },
+    {
+     "m": "26-11",
+     "p": 4140
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F473648628",
+     "price": 4380,
+     "ship": 3000
+    },
+    {
+     "mall": "쇼핑엔티",
+     "code": "TTC2DF",
+     "id": "16628502",
+     "price": 4490,
+     "ship": 3000
+    }
+   ],
+   "link": "https://link.coupang.com/a/iypCuMFWW4"
+  },
   {
    "uid": "2015119824",
    "mall": "지마켓",
@@ -2580,24 +2677,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4478067865"
-  },
-  {
-   "uid": "4988778631",
-   "mall": "쿠팡",
-   "title": "스너글 초고농축 섬유유연제 오리지널 블루밍 부케 본품, 2L, 1개",
-   "price": 6850,
-   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2024/09/24/11/1/05e27401-0303-4a48-aa78-26ae7d8466f0.png",
-   "sentAt": "2026-11-11T14:26:35.226+09:00",
-   "saving": 42,
-   "baseline": 11820,
-   "baselineNote": "판매글 5곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 5곳 최저가",
-     "price": 11820
-    }
-   ],
-   "link": "https://link.coupang.com/a/iAj67LPhQr"
   }
  ]
 }
