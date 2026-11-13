@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-13T19:02:38.219+09:00",
+ "updated": "2026-11-13T19:41:43.420+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1759224645",
+   "mall": "지마켓",
+   "title": "레쓰비 마일드 캔커피 175mlx30캔 3박스",
+   "price": 25900,
+   "image": "https://gdimg.gmarket.co.kr/4828804486/goodsimage",
+   "sentAt": "2026-11-13T19:41:42.459+09:00",
+   "saving": 23,
+   "baseline": 33730,
+   "baselineNote": "판매글 12곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 863
+   },
+   "comps": [
+    {
+     "name": "판매글 12곳 최저가",
+     "price": 33730
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4828804486"
+  },
   {
    "uid": "4593358903",
    "mall": "롯데온",
@@ -2395,129 +2417,6 @@
     }
    ],
    "link": "http://app.ac/PbG8zJl63"
-  },
-  {
-   "uid": "3670200173",
-   "mall": "쿠팡",
-   "title": "바나나킥 75g 3개",
-   "price": 2520,
-   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/149724806210642-f2d7e496-1065-467d-ab05-86c3d4df28f6.jpg",
-   "sentAt": "2026-11-11T19:04:57.842+09:00",
-   "saving": 46,
-   "baseline": 4630,
-   "baselineNote": "64곳 중 최저",
-   "unit": {
-    "label": "개당",
-    "value": 840
-   },
-   "check": {
-    "market": 4630,
-    "malls": 64
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": true,
-    "low": 3200
-   },
-   "comps": [
-    {
-     "name": "64곳 중 최저",
-     "price": 4630
-    }
-   ],
-   "trend": [
-    {
-     "m": "26-04",
-     "p": 4700
-    },
-    {
-     "m": "26-05",
-     "p": 4700
-    },
-    {
-     "m": "26-06",
-     "p": 3200
-    },
-    {
-     "m": "26-07",
-     "p": 3200
-    },
-    {
-     "m": "26-08",
-     "p": 3200
-    },
-    {
-     "m": "26-09",
-     "p": 3200
-    },
-    {
-     "m": "26-10",
-     "p": 4470
-    },
-    {
-     "m": "26-11",
-     "p": 4630
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "F258777116",
-     "price": 4630,
-     "ship": 3000
-    },
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "1946728297",
-     "price": 4700,
-     "ship": 3000
-    },
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "6248703045",
-     "price": 5830,
-     "ship": 0
-    },
-    {
-     "mall": "롯데ON",
-     "code": "EE309",
-     "id": "LO2672473666",
-     "price": 5840,
-     "ship": 0
-    },
-    {
-     "mall": "SSG.COM",
-     "code": "TN118",
-     "id": "1000698827074",
-     "price": 6023,
-     "ship": 0
-    },
-    {
-     "mall": "SK스토아",
-     "code": "TSB275",
-     "id": "62986150",
-     "price": 6240,
-     "ship": 0
-    },
-    {
-     "mall": "패션플러스",
-     "code": "TH002",
-     "id": "432202612",
-     "price": 6260,
-     "ship": 0
-    },
-    {
-     "mall": "GS SHOP",
-     "code": "ED908",
-     "id": "1039061895",
-     "price": 6340,
-     "ship": 0
-    }
-   ],
-   "link": "https://link.coupang.com/a/iAD19KMzbU"
   }
  ]
 }
