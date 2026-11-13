@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-13T22:22:17.933+09:00",
+ "updated": "2026-11-13T23:41:36.676+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "2187457599",
+   "mall": "쿠팡",
+   "title": "오리온 비쵸비 비스켓, 125g, 8개",
+   "price": 17180,
+   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/25745479454922-38876bff-80bb-4865-ba22-c4f25ef928ab.jpg",
+   "sentAt": "2026-11-13T23:41:36.676+09:00",
+   "saving": 17,
+   "baseline": 20700,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 2148
+   },
+   "comps": [
+    {
+     "name": "판매글 3곳 최저가",
+     "price": 20700
+    }
+   ],
+   "link": "https://link.coupang.com/a/iEhlMEqH8u",
+   "web": true
+  },
   {
    "uid": "5370492457",
    "mall": "11번가",
@@ -11773,19 +11796,6 @@
    "baseline": 1349000,
    "baselineNote": "다른 곳 최저",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4833998522",
-   "web": true
-  },
-  {
-   "uid": "5731328922",
-   "mall": "지마켓",
-   "title": "드시모네 베이비스텝1 3박스+20일분 55,803원",
-   "price": 55803,
-   "image": "https://gdimg.gmarket.co.kr/2332219546/goodsimage",
-   "sentAt": "2026-11-03T14:01:16.928+09:00",
-   "saving": 13,
-   "baseline": 63960,
-   "baselineNote": "판매글 3곳 최저가",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2332219546",
    "web": true
   }
  ]
