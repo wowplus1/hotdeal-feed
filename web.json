@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-13T22:03:33.088+09:00",
+ "updated": "2026-11-13T22:12:25.776+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "6799971015",
+   "mall": "롯데온",
+   "title": "NSW 클럽 남성 써마 핏 패딩 재킷 IB2976-010",
+   "price": 156110,
+   "image": "https://contents.lotteon.com/itemimage/20261113190727/LE/12/20/48/74/59/_1/32/33/34/88/0/LE1220487459_1323334880_1.jpg",
+   "sentAt": "2026-11-13T22:12:25.776+09:00",
+   "saving": 20,
+   "baseline": 195950,
+   "baselineNote": "판매글 40곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 40곳 최저가",
+     "price": 195950
+    }
+   ],
+   "link": "http://app.ac/2bGLbel33",
+   "web": true
+  },
   {
    "uid": "6192292003",
    "mall": "지마켓",
@@ -11650,20 +11669,6 @@
    "baseline": 28900,
    "baselineNote": "판매글 15곳 최저가",
    "link": "http://app.ac/7AVtHl593",
-   "web": true
-  },
-  {
-   "uid": "6223412488",
-   "mall": "지마켓",
-   "title": "대봉감 5kg 20과내",
-   "price": 9920,
-   "image": "https://gdimg.gmarket.co.kr/2596585689/goodsimage",
-   "sentAt": "2026-11-03T11:39:33.475+09:00",
-   "saving": 26,
-   "baseline": 13385,
-   "baselineNote": "판매글 6곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2596585689",
    "web": true
   }
  ]
