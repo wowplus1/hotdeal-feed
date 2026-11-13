@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-13T20:58:21.382+09:00",
+ "updated": "2026-11-13T22:03:33.088+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "6192292003",
+   "mall": "지마켓",
+   "title": "펩시제로라임 제로카페인 210ml 30캔+ 355ml 24캔 펩시/콜라/제로카페인",
+   "price": 19260,
+   "image": "https://gdimg.gmarket.co.kr/4667917611/goodsimage",
+   "sentAt": "2026-11-13T22:03:33.088+09:00",
+   "saving": 38,
+   "baseline": 31070,
+   "baselineNote": "판매글 25곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 25곳 최저가",
+     "price": 31070
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4667917611",
+   "web": true
+  },
   {
    "uid": "5336522415",
    "mall": "지마켓",
@@ -11645,20 +11664,6 @@
    "baselineNote": "판매글 6곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2596585689",
-   "web": true
-  },
-  {
-   "uid": "4066412295",
-   "mall": "롯데온",
-   "title": "오뚜기 가뿐한끼 현미밥 150G x 30개",
-   "price": 24990,
-   "image": "https://contents.lotteon.com/itemimage/20260811152326/LO/26/04/96/76/03/_2/60/49/67/60/4/LO2604967603_2604967604_1.jpg",
-   "sentAt": "2026-11-03T10:43:20.572+09:00",
-   "saving": 13,
-   "baseline": 28780,
-   "baselineNote": "판매글 26곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/0AGKnd573",
    "web": true
   }
  ]
