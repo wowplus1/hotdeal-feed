@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-13T08:56:50.770+09:00",
+ "updated": "2026-11-13T09:46:38.740+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7443011201",
+   "mall": "롯데온",
+   "title": "해남절임배추 20kg 김장 절임 배추 김치",
+   "price": 26510,
+   "image": "https://contents.lotteon.com/itemimage/20261112163808/LO/27/93/09/11/30/_2/79/30/91/23/4/LO2793091130_2793091234_1.jpg",
+   "sentAt": "2026-11-13T09:46:37.935+09:00",
+   "saving": 23,
+   "baseline": 34420,
+   "baselineNote": "판매글 11곳 최저가",
+   "unit": {
+    "label": "100g당",
+    "value": 133
+   },
+   "comps": [
+    {
+     "name": "판매글 11곳 최저가",
+     "price": 34420
+    }
+   ],
+   "link": "http://app.ac/ubGezcl83"
+  },
   {
    "uid": "4029279629",
    "mall": "쿠팡",
@@ -2782,28 +2804,6 @@
     }
    ],
    "link": "https://toss.shopping/_m/htuV6nU6"
-  },
-  {
-   "uid": "5291919231",
-   "mall": "11번가",
-   "title": "일상미당 한입 호박인절미 20g x 70개입",
-   "price": 11520,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/5/1/6/6/1/7/zyLph/9277516617_242419328.webp",
-   "sentAt": "2026-11-11T13:35:26.070+09:00",
-   "saving": 23,
-   "baseline": 14900,
-   "baselineNote": "판매글 10곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 165
-   },
-   "comps": [
-    {
-     "name": "판매글 10곳 최저가",
-     "price": 14900
-    }
-   ],
-   "link": "http://app.ac/EEwWw6S33"
   }
  ]
 }
