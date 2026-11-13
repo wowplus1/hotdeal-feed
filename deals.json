@@ -1,7 +1,16 @@
 {
- "updated": "2026-11-13T09:46:38.740+09:00",
+ "updated": "2026-11-13T11:09:14.592+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3297329033",
+   "mall": "롯데온",
+   "title": "리큐 실내건조 세탁세제 시트러스향 2L*3개 + 450ml 추가증정",
+   "price": 11270,
+   "image": "https://contents.lotteon.com/itemimage/20260518164701/LO/26/81/66/40/12/_2/68/16/64/01/3/LO2681664012_2681664013_1.png",
+   "sentAt": "2026-11-13T11:09:13.521+09:00",
+   "link": "http://app.ac/gjwlLYa83"
+  },
   {
    "uid": "7443011201",
    "mall": "롯데온",
@@ -2782,28 +2791,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iAg2bFrBx6"
-  },
-  {
-   "uid": "2658603883",
-   "mall": "토스쇼핑",
-   "title": "사리원 송탄식 부대찌개, 400g, 4팩",
-   "price": 12480,
-   "image": "https://shopping.toss.im/live/taca/ai/OWJlNmZm/QUtYTkxqTkhES3p6bnF6NDR4NDlNOE42TkllUHlQRStDUTNEdUw4VUQ4SWM.png",
-   "sentAt": "2026-11-11T13:37:02.422+09:00",
-   "saving": 36,
-   "baseline": 19410,
-   "baselineNote": "판매글 39곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 3120
-   },
-   "comps": [
-    {
-     "name": "판매글 39곳 최저가",
-     "price": 19410
-    }
-   ],
-   "link": "https://toss.shopping/_m/htuV6nU6"
   }
  ]
 }
