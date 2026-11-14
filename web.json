@@ -1,7 +1,103 @@
 {
- "updated": "2026-11-14T09:31:48.138+09:00",
+ "updated": "2026-11-14T14:22:17.251+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "2751212063",
+   "mall": "지마켓",
+   "title": "gigabyte g27q26 260hz 체감가 21만",
+   "price": 267810,
+   "image": "https://gdimg.gmarket.co.kr/4866954411/goodsimage",
+   "sentAt": "2026-11-14T14:22:17.251+09:00",
+   "saving": 19,
+   "baseline": 329000,
+   "baselineNote": "29곳 중 최저 · 무료배송",
+   "check": {
+    "market": 329000,
+    "malls": 29,
+    "ship": 0
+   },
+   "comps": [
+    {
+     "name": "29곳 중 최저 · 무료배송",
+     "price": 329000
+    }
+   ],
+   "trend": [
+    {
+     "m": "26-09",
+     "p": 329000
+    },
+    {
+     "m": "26-10",
+     "p": 329000
+    },
+    {
+     "m": "26-11",
+     "p": 329000
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "TY1DD",
+     "code": "TY1DD",
+     "id": "13778550017",
+     "price": 329000,
+     "ship": 0
+    },
+    {
+     "mall": "피시포올 (Pc4all)",
+     "code": "PVC14",
+     "id": "189348",
+     "price": 329000,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9649612154",
+     "price": 329000,
+     "ship": 0
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000885501689",
+     "price": 329000,
+     "ship": 0
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000885501689",
+     "price": 329000,
+     "ship": 0
+    },
+    {
+     "mall": "오늘의집",
+     "code": "TU710C",
+     "id": "4244752-32036567",
+     "price": 329000,
+     "ship": 0
+    },
+    {
+     "mall": "신세계몰",
+     "code": "ED901",
+     "id": "1000885501689",
+     "price": 329000,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2783492046",
+     "price": 329000,
+     "ship": 0
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4866954411",
+   "web": true
+  },
   {
    "uid": "9100274296",
    "mall": "쿠팡",
@@ -7017,109 +7113,6 @@
    "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2024/11/18/13/3/b3d661a3-531d-4c93-ad7e-40e16749d01e.jpg",
    "sentAt": "2026-11-08T15:12:06.352+09:00",
    "link": "https://link.coupang.com/a/ivoGtaaQOi",
-   "web": true
-  },
-  {
-   "uid": "2751212063",
-   "mall": "지마켓",
-   "title": "gigabyte g27q26 260hz 체감가 21만",
-   "price": 286900,
-   "image": "https://gdimg.gmarket.co.kr/4866954411/goodsimage",
-   "sentAt": "2026-11-08T13:17:58.478+09:00",
-   "saving": 13,
-   "baseline": 329000,
-   "baselineNote": "28곳 중 최저 · 무료배송",
-   "check": {
-    "market": 329000,
-    "malls": 28,
-    "ship": 0
-   },
-   "spec": [
-    "모니터",
-    "68.6cm(27인치)",
-    "QHD(2560 x 1440)",
-    "260Hz(OC 270Hz)",
-    "SS IPS"
-   ],
-   "comps": [
-    {
-     "name": "28곳 중 최저 · 무료배송",
-     "price": 329000
-    }
-   ],
-   "trend": [
-    {
-     "m": "26-09",
-     "p": 329000
-    },
-    {
-     "m": "26-10",
-     "p": 329000
-    },
-    {
-     "m": "26-11",
-     "p": 329000
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "신세계몰",
-     "code": "ED901",
-     "id": "1000885501689",
-     "price": 329000,
-     "ship": 0
-    },
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "9635112408",
-     "price": 329000,
-     "ship": 0
-    },
-    {
-     "mall": "TU12E0",
-     "code": "TU12E0",
-     "id": "13778763500",
-     "price": 329000,
-     "ship": 0
-    },
-    {
-     "mall": "오늘의집",
-     "code": "TU710C",
-     "id": "4244752-32036567",
-     "price": 329000,
-     "ship": 0
-    },
-    {
-     "mall": "제이씨현시스템(주)",
-     "code": "PW202",
-     "id": "140825",
-     "price": 329000,
-     "ship": 0
-    },
-    {
-     "mall": "이마트몰",
-     "code": "EE311",
-     "id": "1000885501689",
-     "price": 329000,
-     "ship": 0
-    },
-    {
-     "mall": "SSG.COM",
-     "code": "TN118",
-     "id": "1000885501689",
-     "price": 329000,
-     "ship": 0
-    },
-    {
-     "mall": "롯데ON",
-     "code": "EE309",
-     "id": "LO2783492046",
-     "price": 329000,
-     "ship": 0
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4866954411",
    "web": true
   },
   {
