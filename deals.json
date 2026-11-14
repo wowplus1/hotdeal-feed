@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-14T15:27:34.246+09:00",
+ "updated": "2026-11-14T16:46:52.549+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1920370601",
+   "mall": "쿠팡",
+   "title": "액트투 전자렌지용 팝콘 버터맛, 78g, 18개",
+   "price": 15100,
+   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/5573205642770627-c78327d3-6c3d-4b2e-bf4d-b7b835d1b9f5.jpg",
+   "sentAt": "2026-11-14T16:46:51.773+09:00",
+   "saving": 21,
+   "baseline": 19230,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 839
+   },
+   "comps": [
+    {
+     "name": "판매글 5곳 최저가",
+     "price": 19230
+    }
+   ],
+   "link": "https://link.coupang.com/a/iFsBECfQGa"
+  },
   {
    "uid": "4460148617",
    "mall": "쿠팡",
@@ -2279,28 +2301,6 @@
     }
    ],
    "link": "https://toss.shopping/_m/N3cbcwYv"
-  },
-  {
-   "uid": "2853721965",
-   "mall": "지마켓",
-   "title": "완도 활전복 9~11미 1kg",
-   "price": 25470,
-   "image": "https://gdimg.gmarket.co.kr/3387179402/goodsimage",
-   "sentAt": "2026-11-12T08:08:39.879+09:00",
-   "saving": 50,
-   "baseline": 50730,
-   "baselineNote": "판매글 10곳 최저가",
-   "unit": {
-    "label": "100g당",
-    "value": 2547
-   },
-   "comps": [
-    {
-     "name": "판매글 10곳 최저가",
-     "price": 50730
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=3387179402"
   }
  ]
 }
