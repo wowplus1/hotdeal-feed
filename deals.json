@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-14T17:18:30.174+09:00",
+ "updated": "2026-11-14T17:27:53.363+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9103525369",
+   "mall": "토스쇼핑",
+   "title": "바이마르 IH 엔틱 스테인레스 3단 찜솥, 24cm, 1개",
+   "price": 11110,
+   "image": "https://shopping.toss.im/live/taca/ai/NGJmOWE1/Wnh4bGdjR0JaaDdEbG5QRFNsUE1QQ1k1eHpNVzVFNHkybk9wRk8xR2hhTT0.png",
+   "sentAt": "2026-11-14T17:27:52.575+09:00",
+   "saving": 26,
+   "baseline": 15000,
+   "baselineNote": "판매글 7곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 7곳 최저가",
+     "price": 15000
+    }
+   ],
+   "link": "https://toss.shopping/_m/LepB91lr"
+  },
   {
    "uid": "7368042702",
    "mall": "쿠팡",
@@ -2416,24 +2434,6 @@
     }
    ],
    "link": "http://app.ac/RECqMPS43"
-  },
-  {
-   "uid": "1335367310",
-   "mall": "지마켓",
-   "title": "펩시제로슈거라임 190ml 30캔+펩시제로슈거라임 355ml 24캔 펩시제로라임/콜라",
-   "price": 20370,
-   "image": "https://gdimg.gmarket.co.kr/4660574989/goodsimage",
-   "sentAt": "2026-11-12T08:59:06.357+09:00",
-   "saving": 34,
-   "baseline": 30980,
-   "baselineNote": "판매글 10곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 10곳 최저가",
-     "price": 30980
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4660574989"
   }
  ]
 }
