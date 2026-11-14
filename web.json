@@ -1,7 +1,124 @@
 {
- "updated": "2026-11-14T03:01:10.703+09:00",
+ "updated": "2026-11-14T09:31:48.138+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "9100274296",
+   "mall": "쿠팡",
+   "title": "오뚜기 부대찌개라면 115g, 6개",
+   "price": 9840,
+   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/62302446012978-6529af5b-f97a-47f0-b732-7a924b1b6388.jpg",
+   "sentAt": "2026-11-14T09:31:48.138+09:00",
+   "saving": 15,
+   "baseline": 11590,
+   "baselineNote": "55곳 중 최저 · 무료배송",
+   "unit": {
+    "label": "개당",
+    "value": 1640
+   },
+   "check": {
+    "market": 11590,
+    "malls": 55,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": false,
+    "low": 8560
+   },
+   "comps": [
+    {
+     "name": "55곳 중 최저 · 무료배송",
+     "price": 11590
+    }
+   ],
+   "trend": [
+    {
+     "m": "26-06",
+     "p": 8850
+    },
+    {
+     "m": "26-07",
+     "p": 8560
+    },
+    {
+     "m": "26-08",
+     "p": 9620
+    },
+    {
+     "m": "26-09",
+     "p": 9600
+    },
+    {
+     "m": "26-10",
+     "p": 10460
+    },
+    {
+     "m": "26-11",
+     "p": 11170
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LE1222444350",
+     "price": 11590,
+     "ship": 0
+    },
+    {
+     "mall": "롯데백화점",
+     "code": "TLC16",
+     "id": "LE1222444350",
+     "price": 11590,
+     "ship": 0
+    },
+    {
+     "mall": "TUC261",
+     "code": "TUC261",
+     "id": "13193354075",
+     "price": 11830,
+     "ship": 0
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F424383680",
+     "price": 11860,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4619186688",
+     "price": 11870,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9396017693",
+     "price": 11980,
+     "ship": 0
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000833192740",
+     "price": 12137,
+     "ship": 0
+    },
+    {
+     "mall": "롯데홈쇼핑",
+     "code": "ED903",
+     "id": "3334942607",
+     "price": 12170,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/iEXxyNMwi4",
+   "web": true
+  },
   {
    "uid": "2252185490",
    "mall": "롯데온",
@@ -11858,20 +11975,6 @@
    "image": "https://gdimg.gmarket.co.kr/4854543111/goodsimage",
    "sentAt": "2026-11-03T16:03:11.157+09:00",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4854543111",
-   "web": true
-  },
-  {
-   "uid": "3602317249",
-   "mall": "롯데온",
-   "title": "국내산 햇 고춧가루 1kg 김장/요리 양념용 함평 고추가루",
-   "price": 18620,
-   "image": "https://contents.lotteon.com/itemimage/20261028140731/LO/27/97/72/48/88/_2/79/77/24/88/9/LO2797724888_2797724889_1.jpg",
-   "sentAt": "2026-11-03T15:28:45.495+09:00",
-   "saving": 18,
-   "baseline": 22790,
-   "baselineNote": "판매글 6곳 최저가",
-   "unit": "[object Object]",
-   "link": "http://app.ac/a3CE7YJ43",
    "web": true
   }
  ]
