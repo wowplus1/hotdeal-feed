@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-14T14:22:17.251+09:00",
+ "updated": "2026-11-14T15:53:13.937+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "8536291286",
+   "mall": "롯데온",
+   "title": "NSW 클럽 남성 써마 핏 패딩 베스트 IB2978-010",
+   "price": 108420,
+   "image": "https://contents.lotteon.com/itemimage/20261113190412/LE/12/20/18/00/17/_1/32/12/90/43/6/LE1220180017_1321290436_1.jpg",
+   "sentAt": "2026-11-14T15:53:13.937+09:00",
+   "saving": 15,
+   "baseline": 127870,
+   "baselineNote": "판매글 40곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 40곳 최저가",
+     "price": 127870
+    }
+   ],
+   "link": "http://app.ac/ytncVrM53",
+   "web": true
+  },
   {
    "uid": "2751212063",
    "mall": "지마켓",
@@ -11958,16 +11977,6 @@
    "baselineNote": "판매글 13곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4734077791",
-   "web": true
-  },
-  {
-   "uid": "4886535688",
-   "mall": "지마켓",
-   "title": "샤오미 미지아 기화식 가습기 3세대 6L",
-   "price": 96680,
-   "image": "https://gdimg.gmarket.co.kr/4854543111/goodsimage",
-   "sentAt": "2026-11-03T16:03:11.157+09:00",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4854543111",
    "web": true
   }
  ]
