@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-15T00:33:31.252+09:00",
+ "updated": "2026-11-15T05:27:42.831+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "8619782601",
+   "mall": "쿠팡",
+   "title": "믈레코비타 아이러브밀크 1.5% 저지방 멸균우유, 1L, 12개",
+   "price": 15790,
+   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/53830791697295-ec209c16-60e1-40d6-9648-6d0641ffae01.png",
+   "sentAt": "2026-11-15T05:27:42.831+09:00",
+   "unit": {
+    "label": "개당",
+    "value": 1316
+   },
+   "link": "https://link.coupang.com/a/iGkYJiY2eG",
+   "web": true
+  },
   {
    "uid": "8756955762",
    "mall": "쿠팡",
@@ -11968,20 +11982,6 @@
    "baselineNote": "판매글 13곳 최저가",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=3979306238",
-   "web": true
-  },
-  {
-   "uid": "3207296050",
-   "mall": "지마켓",
-   "title": "넛츠피아 스윗넛츠 플러스 하루견과 20g 100봉",
-   "price": 25370,
-   "image": "https://gdimg.gmarket.co.kr/4633257982/goodsimage",
-   "sentAt": "2026-11-03T16:29:40.748+09:00",
-   "saving": 10,
-   "baseline": 28280,
-   "baselineNote": "88곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4633257982",
    "web": true
   }
  ]
