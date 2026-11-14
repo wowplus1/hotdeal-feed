@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-14T15:53:13.937+09:00",
+ "updated": "2026-11-15T00:33:31.252+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "8756955762",
+   "mall": "쿠팡",
+   "title": "칙필에이 소스, 473ml*1개",
+   "price": 8260,
+   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/2166/4c05022c3a38020ca0cb049ab2cb8ba062a14cf398508fcdc9c0677a056c.png",
+   "sentAt": "2026-11-15T00:33:31.252+09:00",
+   "saving": 55,
+   "baseline": 18340,
+   "baselineNote": "판매글 5곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 5곳 최저가",
+     "price": 18340
+    }
+   ],
+   "link": "https://link.coupang.com/a/iepgm7RPci",
+   "web": true
+  },
   {
    "uid": "8536291286",
    "mall": "롯데온",
@@ -11963,20 +11982,6 @@
    "baselineNote": "88곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4633257982",
-   "web": true
-  },
-  {
-   "uid": "5457767011",
-   "mall": "지마켓",
-   "title": "홈스타 락스와세제 스프레이 후로랄 900ml x 4개",
-   "price": 12010,
-   "image": "https://gdimg.gmarket.co.kr/4734077791/goodsimage",
-   "sentAt": "2026-11-03T16:20:43.111+09:00",
-   "saving": 27,
-   "baseline": 16380,
-   "baselineNote": "판매글 13곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4734077791",
    "web": true
   }
  ]
