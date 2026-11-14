@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-14T12:46:31.491+09:00",
+ "updated": "2026-11-14T15:27:34.246+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4460148617",
+   "mall": "쿠팡",
+   "title": "크리오 덴티메이트 시즌2 초극세모 칫솔, 10개입, 3개",
+   "price": 7770,
+   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/14411637610854-4d68453f-d65d-4fa9-8ee3-50252a1845d2.jpg",
+   "sentAt": "2026-11-14T15:27:33.455+09:00",
+   "saving": 50,
+   "baseline": 15600,
+   "baselineNote": "판매글 11곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 11곳 최저가",
+     "price": 15600
+    }
+   ],
+   "link": "https://link.coupang.com/a/f9AyoiTqEK"
+  },
   {
    "uid": "4732001891",
    "mall": "롯데온",
@@ -2283,32 +2301,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=3387179402"
-  },
-  {
-   "uid": "1223397952",
-   "mall": "토스쇼핑",
-   "title": "교동 육개장, 500g, 10개",
-   "price": 22950,
-   "image": "https://shopping.toss.im/live/taca/ai/OTI5MmUz/QU5MY1g2WFNMTld0djl5bHBaU2szLzBIbUVpc081U2lkVzBRelZRMEw2V2k.png",
-   "sentAt": "2026-11-12T07:51:16.992+09:00",
-   "saving": 24,
-   "baseline": 30330,
-   "baselineNote": "67곳 중 최저",
-   "unit": {
-    "label": "개당",
-    "value": 2295
-   },
-   "check": {
-    "market": 30330,
-    "malls": 67
-   },
-   "comps": [
-    {
-     "name": "67곳 중 최저",
-     "price": 30330
-    }
-   ],
-   "link": "https://toss.shopping/_m/DHH75vZp"
   }
  ]
 }
