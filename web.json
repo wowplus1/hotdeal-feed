@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-16T00:42:21.028+09:00",
+ "updated": "2026-11-16T01:38:07.609+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "1296067996",
+   "mall": "쿠팡",
+   "title": "레이즈 더블 크런치 씨위드 감자칩 60g 6개",
+   "price": 7680,
+   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/252279994072448-9252d94e-79ba-48d9-81fb-2977e0251f23.jpg",
+   "sentAt": "2026-11-16T01:38:07.609+09:00",
+   "unit": {
+    "label": "개당",
+    "value": 1280
+   },
+   "link": "https://link.coupang.com/a/iHJv388RRQ",
+   "web": true
+  },
   {
    "uid": "1057651699",
    "mall": "롯데온",
@@ -12349,19 +12363,6 @@
    "baseline": 362880,
    "baselineNote": "판매글 40곳 최저가",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4823240598",
-   "web": true
-  },
-  {
-   "uid": "1824448710",
-   "mall": "지마켓",
-   "title": "YMTC ZHITAI TiPro9000 M.2 NVMe SSD 2TB",
-   "price": 501370,
-   "image": "https://gdimg.gmarket.co.kr/4775805855/goodsimage",
-   "sentAt": "2026-11-03T19:40:32.515+09:00",
-   "saving": 16,
-   "baseline": 599000,
-   "baselineNote": "114곳 중 최저",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4775805855",
    "web": true
   }
  ]
