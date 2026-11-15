@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-15T09:26:55.386+09:00",
+ "updated": "2026-11-15T11:21:29.491+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3118544900",
+   "mall": "롯데온",
+   "title": "선 미네랄 크림 50ml SPF50+ PA++++",
+   "price": 22640,
+   "image": "https://contents.lotteon.com/itemimage/20260907144510/LO/26/27/06/76/88/bndl_img/LO2627067688_1.png",
+   "sentAt": "2026-11-15T11:21:28.672+09:00",
+   "saving": 29,
+   "baseline": 32110,
+   "baselineNote": "판매글 3곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 3곳 최저가",
+     "price": 32110
+    }
+   ],
+   "link": "http://app.ac/5qnOAQ263"
+  },
   {
    "uid": "1823137348",
    "mall": "쿠팡",
@@ -2521,28 +2539,6 @@
     }
    ],
    "link": "https://toss.im/_m/HuC1HKCD"
-  },
-  {
-   "uid": "9444547570",
-   "mall": "토스쇼핑",
-   "title": "던킨 아메리카노, 400ml, 12개",
-   "price": 10920,
-   "image": "https://shopping.toss.im/live/taca/ai/v2/MzQ3NTgz/RzRkQ2o4OTQ3M2h3dzFUbnE0N3l0OVp3TFU1ZzQ5YXhtNDRwVDBSeDFyRT0.png",
-   "sentAt": "2026-11-12T10:16:17.278+09:00",
-   "saving": 39,
-   "baseline": 17910,
-   "baselineNote": "판매글 13곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 910
-   },
-   "comps": [
-    {
-     "name": "판매글 13곳 최저가",
-     "price": 17910
-    }
-   ],
-   "link": "https://toss.im/_m/ZmtYxB0B"
   }
  ]
 }
