@@ -1,7 +1,112 @@
 {
- "updated": "2026-11-16T07:13:24.853+09:00",
+ "updated": "2026-11-16T08:16:54.270+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3820483918",
+   "mall": "쿠팡",
+   "title": "신제품 오뚜기 한강라면 110g, 8개",
+   "price": 8780,
+   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/b5754afe-8ed5-4f77-b9b3-98ff7a453fc15057142237159117539.png",
+   "sentAt": "2026-11-16T08:16:53.473+09:00",
+   "saving": 21,
+   "baseline": 11140,
+   "baselineNote": "45곳 중 최저 · 무료배송",
+   "unit": {
+    "label": "개당",
+    "value": 1098
+   },
+   "check": {
+    "market": 11140,
+    "malls": 45,
+    "ship": 0
+   },
+   "spec": [
+    "봉지라면",
+    "국물라면",
+    "기본면",
+    "실온보관"
+   ],
+   "comps": [
+    {
+     "name": "45곳 중 최저 · 무료배송",
+     "price": 11140
+    }
+   ],
+   "trend": [
+    {
+     "m": "26-09",
+     "p": 11310
+    },
+    {
+     "m": "26-10",
+     "p": 11050
+    },
+    {
+     "m": "26-11",
+     "p": 10750
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2806733158",
+     "price": 11140,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9627770765",
+     "price": 12700,
+     "ship": 0
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F688220594",
+     "price": 13320,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4880746452",
+     "price": 13320,
+     "ship": 0
+    },
+    {
+     "mall": "SK스토아",
+     "code": "TSB275",
+     "id": "69804076",
+     "price": 13320,
+     "ship": 0
+    },
+    {
+     "mall": "롯데홈쇼핑",
+     "code": "ED903",
+     "id": "3446985563",
+     "price": 13760,
+     "ship": 0
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000889247625",
+     "price": 14007,
+     "ship": 0
+    },
+    {
+     "mall": "현대Hmall",
+     "code": "ED907",
+     "id": "2255337218",
+     "price": 14020,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/iIbZhPHcXY"
+  },
   {
    "uid": "6153466668",
    "mall": "쿠팡",
@@ -2609,28 +2714,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=3391972250"
-  },
-  {
-   "uid": "7551259073",
-   "mall": "롯데온",
-   "title": "세타필 모이스춰라이징 로션 591ml 2개",
-   "price": 23750,
-   "image": "https://contents.lotteon.com/itemimage/20261106150102/LO/27/54/40/72/54/_2/75/44/07/25/5/LO2754407254_2754407255_2.jpg",
-   "sentAt": "2026-11-12T16:33:00.736+09:00",
-   "saving": 22,
-   "baseline": 30360,
-   "baselineNote": "판매글 14곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 11875
-   },
-   "comps": [
-    {
-     "name": "판매글 14곳 최저가",
-     "price": 30360
-    }
-   ],
-   "link": "http://app.ac/vAVWzA593"
   }
  ]
 }
