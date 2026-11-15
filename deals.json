@@ -1,7 +1,42 @@
 {
- "updated": "2026-11-15T09:23:39.677+09:00",
+ "updated": "2026-11-15T09:26:55.386+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1823137348",
+   "mall": "쿠팡",
+   "title": "마이카페라떼 원데이 로어슈거 클래식라떼, 210ml, 10개",
+   "price": 9520,
+   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/48802301364199-3c6eb0c8-87f0-47c9-a706-39303255245b.jpg",
+   "sentAt": "2026-11-15T09:26:54.748+09:00",
+   "saving": 30,
+   "baseline": 13680,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 952
+   },
+   "comps": [
+    {
+     "name": "판매글 5곳 최저가",
+     "price": 13680
+    }
+   ],
+   "link": "https://link.coupang.com/a/hjVXtanupw"
+  },
+  {
+   "uid": "8615859552",
+   "mall": "쿠팡",
+   "title": "레이즈 더블 크런치 바베큐향 감자칩 60g 6개",
+   "price": 8300,
+   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/252350324449940-4389440c-de34-4a95-ae7f-731b3c248c49.jpg",
+   "sentAt": "2026-11-15T09:26:54.748+09:00",
+   "unit": {
+    "label": "개당",
+    "value": 1383
+   },
+   "link": "https://link.coupang.com/a/iGB4npLHCm"
+  },
   {
    "uid": "3942954156",
    "mall": "11번가",
@@ -2508,46 +2543,6 @@
     }
    ],
    "link": "https://toss.im/_m/ZmtYxB0B"
-  },
-  {
-   "uid": "7406488956",
-   "mall": "지마켓",
-   "title": "바세린 대용량 바디로션 1000ml 2개",
-   "price": 10970,
-   "image": "https://gdimg.gmarket.co.kr/2343900135/goodsimage",
-   "sentAt": "2026-11-12T10:03:27.239+09:00",
-   "saving": 20,
-   "baseline": 13780,
-   "baselineNote": "다른 곳 최저",
-   "unit": {
-    "label": "개당",
-    "value": 5485
-   },
-   "comps": [
-    {
-     "name": "다른 곳 최저",
-     "price": 13780
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2343900135"
-  },
-  {
-   "uid": "4951946124",
-   "mall": "지마켓",
-   "title": "글라스락베이비 이유식용기 270ml 6조 18,520원",
-   "price": 17500,
-   "image": "https://gdimg.gmarket.co.kr/4713398004/goodsimage",
-   "sentAt": "2026-11-12T10:00:55.729+09:00",
-   "saving": 28,
-   "baseline": 24170,
-   "baselineNote": "다른 곳 최저",
-   "comps": [
-    {
-     "name": "다른 곳 최저",
-     "price": 24170
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4713398004"
   }
  ]
 }
