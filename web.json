@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-15T05:27:42.831+09:00",
+ "updated": "2026-11-15T12:34:01.868+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "6683282590",
+   "mall": "11번가",
+   "title": "삼성공식파트너 하만카돈 루나2 포터블 무선 블루투스 스피커 LUNA2",
+   "price": 145260,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/pd/v2/4/8/3/2/1/2/dFXeo/9578483212_B.webp",
+   "sentAt": "2026-11-15T12:34:01.868+09:00",
+   "saving": 18,
+   "baseline": 178000,
+   "baselineNote": "판매글 12곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 12곳 최저가",
+     "price": 178000
+    }
+   ],
+   "link": "http://app.ac/WEw8mWS23",
+   "web": true
+  },
   {
    "uid": "8619782601",
    "mall": "쿠팡",
@@ -11968,20 +11987,6 @@
    "baseline": 19900,
    "baselineNote": "판매글 8곳 최저가",
    "link": "http://app.ac/UbGABCl73",
-   "web": true
-  },
-  {
-   "uid": "2902537668",
-   "mall": "지마켓",
-   "title": "닥터아토 손소독티슈 휴대용 20매 20팩 15,850원",
-   "price": 19250,
-   "image": "https://gdimg.gmarket.co.kr/3979306238/goodsimage",
-   "sentAt": "2026-11-03T16:43:20.191+09:00",
-   "saving": 18,
-   "baseline": 23580,
-   "baselineNote": "판매글 13곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=3979306238",
    "web": true
   }
  ]
