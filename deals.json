@@ -1,7 +1,16 @@
 {
- "updated": "2026-11-15T09:21:51.848+09:00",
+ "updated": "2026-11-15T09:23:39.677+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3942954156",
+   "mall": "11번가",
+   "title": "홈바이브 모노 스텐 유리찜기 올인원 스마트 쿠커 1.5L",
+   "price": 25900,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/8856845759/B.webp?167985264",
+   "sentAt": "2026-11-15T09:23:38.667+09:00",
+   "link": "http://app.ac/vtncUgM73"
+  },
   {
    "uid": "6265965100",
    "mall": "쿠팡",
@@ -2539,24 +2548,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4713398004"
-  },
-  {
-   "uid": "8333283186",
-   "mall": "하이마트",
-   "title": "PS4앤섬 PLAS10357K",
-   "price": 990,
-   "image": "https://static1.e-himart.co.kr/contents/goods/00/44/83/85/49/0044838549__PLAS10357K__M_640_640.jpg",
-   "sentAt": "2026-11-12T09:46:25.113+09:00",
-   "saving": 65,
-   "baseline": 2820,
-   "baselineNote": "판매글 27곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 27곳 최저가",
-     "price": 2820
-    }
-   ],
-   "link": "http://app.ac/6jpKa6a13"
   }
  ]
 }
