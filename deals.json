@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-15T21:22:46.621+09:00",
+ "updated": "2026-11-16T07:13:24.853+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6153466668",
+   "mall": "쿠팡",
+   "title": "스포츠리서치 루테인 20mg 제아잔틴 4mg 베지 소프트젤 120정 1개",
+   "price": 20880,
+   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/a16b/6e067b2e9a75cd86eaf3f2b0af362efb0c4fad38b5ed42dfdc1dc07c1405.jpg",
+   "sentAt": "2026-11-16T07:13:23.880+09:00",
+   "saving": 46,
+   "baseline": 38800,
+   "baselineNote": "판매글 5곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 5곳 최저가",
+     "price": 38800
+    }
+   ],
+   "link": "https://link.coupang.com/a/iH7si54cLY"
+  },
   {
    "uid": "4021175085",
    "mall": "쿠팡",
@@ -2613,28 +2631,6 @@
     }
    ],
    "link": "http://app.ac/vAVWzA593"
-  },
-  {
-   "uid": "7952908263",
-   "mall": "쿠팡",
-   "title": "평창수 무라벨 생수, 2L, 24개",
-   "price": 13680,
-   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/459497738488671-4b23932d-51a4-449e-a8d8-548412b51aae.jpg",
-   "sentAt": "2026-11-12T15:13:38.927+09:00",
-   "saving": 31,
-   "baseline": 19940,
-   "baselineNote": "판매글 11곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 570
-   },
-   "comps": [
-    {
-     "name": "판매글 11곳 최저가",
-     "price": 19940
-    }
-   ],
-   "link": "https://link.coupang.com/a/ic0APRB6dM"
   }
  ]
 }
