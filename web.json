@@ -1,7 +1,165 @@
 {
- "updated": "2026-11-15T22:08:11.202+09:00",
+ "updated": "2026-11-16T00:08:02.984+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "6193777231",
+   "mall": "쿠팡",
+   "title": "카밀 핸드 앤 네일 크림 클래식, 100ml, 3개",
+   "price": 6810,
+   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/329801364733669-f77b85a1-2098-437b-8ce2-7edaa31d3f91.jpg",
+   "sentAt": "2026-11-16T00:08:02.984+09:00",
+   "saving": 20,
+   "baseline": 8520,
+   "baselineNote": "130곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 2270
+   },
+   "check": {
+    "market": 8520,
+    "malls": 130,
+    "ship": 3000,
+    "delivered": 11520
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": false,
+    "low": 4900
+   },
+   "review": {
+    "score": 4.7,
+    "count": 6777,
+    "low": 40
+   },
+   "spec": [
+    "핸드크림",
+    "미백도움",
+    "모든피부",
+    "수분증발차단, 피부보습, 피부보호",
+    "튜브형"
+   ],
+   "comps": [
+    {
+     "name": "130곳 중 최저",
+     "price": 8520
+    },
+    {
+     "name": "배송비 3,000원 포함",
+     "price": 11520
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 7120
+    },
+    {
+     "m": "26-01",
+     "p": 7390
+    },
+    {
+     "m": "26-02",
+     "p": 4900
+    },
+    {
+     "m": "26-03",
+     "p": 7060
+    },
+    {
+     "m": "26-04",
+     "p": 7520
+    },
+    {
+     "m": "26-05",
+     "p": 7830
+    },
+    {
+     "m": "26-06",
+     "p": 7830
+    },
+    {
+     "m": "26-07",
+     "p": 7830
+    },
+    {
+     "m": "26-08",
+     "p": 7830
+    },
+    {
+     "m": "26-09",
+     "p": 7740
+    },
+    {
+     "m": "26-10",
+     "p": 8160
+    },
+    {
+     "m": "26-11",
+     "p": 8350
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4087419233",
+     "price": 8520,
+     "ship": 3000
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "D463255402",
+     "price": 8520,
+     "ship": 3000
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2354340596",
+     "price": 8790,
+     "ship": 3000
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "6100283333",
+     "price": 8820,
+     "ship": 3000
+    },
+    {
+     "mall": "오늘의집",
+     "code": "TU710C",
+     "id": "2527947-19310494",
+     "price": 13600,
+     "ship": 2500
+    },
+    {
+     "mall": "TZ3D4",
+     "code": "TZ3D4",
+     "id": "13331619062",
+     "price": 13900,
+     "ship": 3000
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000702259581",
+     "price": 13988,
+     "ship": 3000
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000702259581",
+     "price": 15040,
+     "ship": 3000
+    }
+   ],
+   "link": "https://link.coupang.com/a/iHC1dux4xM",
+   "web": true
+  },
   {
    "uid": "9658129477",
    "mall": "쿠팡",
@@ -12204,20 +12362,6 @@
    "baseline": 599000,
    "baselineNote": "114곳 중 최저",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4775805855",
-   "web": true
-  },
-  {
-   "uid": "9158720111",
-   "mall": "지마켓",
-   "title": "동원 DHA 참치 150g 원터치 12캔",
-   "price": 20870,
-   "image": "https://gdimg.gmarket.co.kr/1579106890/goodsimage",
-   "sentAt": "2026-11-03T18:01:00.028+09:00",
-   "saving": 18,
-   "baseline": 25470,
-   "baselineNote": "728곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=1579106890",
    "web": true
   }
  ]
