@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-15T12:11:52.625+09:00",
+ "updated": "2026-11-15T12:23:49.563+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7977109571",
+   "mall": "지마켓",
+   "title": "국내산 전라도 파김치 2kg",
+   "price": 11990,
+   "image": "https://gdimg.gmarket.co.kr/4742482277/goodsimage",
+   "sentAt": "2026-11-15T12:23:48.845+09:00",
+   "saving": 33,
+   "baseline": 17900,
+   "baselineNote": "다른 곳 최저",
+   "unit": {
+    "label": "100g당",
+    "value": 600
+   },
+   "comps": [
+    {
+     "name": "다른 곳 최저",
+     "price": 17900
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4742482277"
+  },
   {
    "uid": "7378361135",
    "mall": "토스쇼핑",
@@ -2757,28 +2779,6 @@
     }
    ],
    "link": "https://toss.im/_m/fuMcJ3O4"
-  },
-  {
-   "uid": "2961082369",
-   "mall": "지마켓",
-   "title": "크리넥스 3겹 수프림소프트 와이드 30m 24롤 2팩",
-   "price": 30900,
-   "image": "https://gdimg.gmarket.co.kr/4522112296/goodsimage",
-   "sentAt": "2026-11-12T11:45:44.138+09:00",
-   "saving": 20,
-   "baseline": 38610,
-   "baselineNote": "판매글 28곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 15450
-   },
-   "comps": [
-    {
-     "name": "판매글 28곳 최저가",
-     "price": 38610
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4522112296"
   }
  ]
 }
