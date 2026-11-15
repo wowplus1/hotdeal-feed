@@ -1,7 +1,155 @@
 {
- "updated": "2026-11-15T11:21:29.491+09:00",
+ "updated": "2026-11-15T11:22:21.712+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3892329722",
+   "mall": "토스쇼핑",
+   "title": "센토 프라임 고불소 잇몸케어 치약, 프레쉬민트향, 120g, 8개",
+   "price": 14090,
+   "image": "https://shopping.toss.im/live/temp/2025-11-05/1b819ad5-cc7d-4dde-bceb-d8e46a4a7e7f.jpeg",
+   "sentAt": "2026-11-15T11:22:21.210+09:00",
+   "saving": 49,
+   "baseline": 27800,
+   "baselineNote": "6곳 중 최저 · 무료배송",
+   "unit": {
+    "label": "개당",
+    "value": 1761
+   },
+   "check": {
+    "market": 27800,
+    "malls": 6,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 16900
+   },
+   "comps": [
+    {
+     "name": "6곳 중 최저 · 무료배송",
+     "price": 27800
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 23800
+    },
+    {
+     "m": "26-01",
+     "p": 25790
+    },
+    {
+     "m": "26-02",
+     "p": 24960
+    },
+    {
+     "m": "26-03",
+     "p": 24770
+    },
+    {
+     "m": "26-04",
+     "p": 22440
+    },
+    {
+     "m": "26-05",
+     "p": 25400
+    },
+    {
+     "m": "26-06",
+     "p": 24800
+    },
+    {
+     "m": "26-07",
+     "p": 17900
+    },
+    {
+     "m": "26-08",
+     "p": 22580
+    },
+    {
+     "m": "26-09",
+     "p": 16900
+    },
+    {
+     "m": "26-10",
+     "p": 27800
+    },
+    {
+     "m": "26-11",
+     "p": 27800
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "오늘의집",
+     "code": "TU710C",
+     "id": "3612416-27133804",
+     "price": 27800,
+     "ship": 0
+    },
+    {
+     "mall": "현대Hmall",
+     "code": "ED907",
+     "id": "2247375674",
+     "price": 28900,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9658363220",
+     "price": 29630,
+     "ship": 0
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F713517661",
+     "price": 29760,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4905502508",
+     "price": 31840,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2503829615",
+     "price": 32300,
+     "ship": 0
+    }
+   ],
+   "link": "https://toss.shopping/_m/VakwcHoi"
+  },
+  {
+   "uid": "6069740866",
+   "mall": "토스쇼핑",
+   "title": "초록들 솥뚜껑 닭볶음탕, 1kg, 2개",
+   "price": 12270,
+   "image": "https://shopping.toss.im/live/temp/2026-03-31/2a869020-6de7-4268-a72c-1d42119f7a41.jpeg",
+   "sentAt": "2026-11-15T11:22:21.210+09:00",
+   "saving": 22,
+   "baseline": 15720,
+   "baselineNote": "판매글 17곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 6135
+   },
+   "comps": [
+    {
+     "name": "판매글 17곳 최저가",
+     "price": 15720
+    }
+   ],
+   "link": "https://toss.im/_m/TnRNRK4c"
+  },
   {
    "uid": "3118544900",
    "mall": "롯데온",
@@ -2499,46 +2647,6 @@
     "value": 317
    },
    "link": "http://app.ac/jjp8bba63"
-  },
-  {
-   "uid": "9719223147",
-   "mall": "쿠팡",
-   "title": "몬스터에너지 드링크 울트라 스트로베리 드림즈 500ml 24개",
-   "price": 35780,
-   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/05/01/10/4/5233c1a4-ab1a-4339-9b20-7a73101d85b1.jpg",
-   "sentAt": "2026-11-12T11:00:22.290+09:00",
-   "saving": 27,
-   "baseline": 48790,
-   "baselineNote": "판매글 27곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 1491
-   },
-   "comps": [
-    {
-     "name": "판매글 27곳 최저가",
-     "price": 48790
-    }
-   ],
-   "link": "https://link.coupang.com/a/iBKg5EfGEK"
-  },
-  {
-   "uid": "2273081806",
-   "mall": "토스쇼핑",
-   "title": "주방미학 심플 미니 통삼중 압력솥, 1.2L, 1개",
-   "price": 31010,
-   "image": "https://shopping.toss.im/live/taca/ai/ZjM2Mzk5/QUt4Z3RSK1Q1dGJiWGhwTGNVajVIU3p4eDdMT1BueGtNR3VrbjRUaEUyclM.png",
-   "sentAt": "2026-11-12T10:41:00.366+09:00",
-   "saving": 38,
-   "baseline": 50200,
-   "baselineNote": "판매글 4곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 4곳 최저가",
-     "price": 50200
-    }
-   ],
-   "link": "https://toss.im/_m/HuC1HKCD"
   }
  ]
 }
