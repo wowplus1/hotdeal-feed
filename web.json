@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-16T00:08:02.984+09:00",
+ "updated": "2026-11-16T00:42:21.028+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "1057651699",
+   "mall": "롯데온",
+   "title": "헤드앤숄더 샴푸/트리트먼트 850,800ml 3개 + 미니샴푸 2개증정",
+   "price": 24730,
+   "image": "https://contents.lotteon.com/itemimage/20260911104018/LO/26/75/23/19/12/bndl_img/LO2675231912_1.jpg",
+   "sentAt": "2026-11-16T00:42:21.028+09:00",
+   "saving": 47,
+   "baseline": 47030,
+   "baselineNote": "판매글 13곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 13곳 최저가",
+     "price": 47030
+    }
+   ],
+   "link": "http://app.ac/ltVR1TM13",
+   "web": true
+  },
   {
    "uid": "6193777231",
    "mall": "쿠팡",
@@ -11526,25 +11545,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4532626746",
-   "web": true
-  },
-  {
-   "uid": "1057651699",
-   "mall": "롯데온",
-   "title": "헤드앤숄더 샴푸/트리트먼트 850,800ml 3개 + 미니샴푸 2개증정",
-   "price": 24990,
-   "image": "https://contents.lotteon.com/itemimage/20260911104018/LO/26/75/23/19/12/bndl_img/LO2675231912_1.jpg",
-   "sentAt": "2026-11-05T00:30:54.618+09:00",
-   "saving": 47,
-   "baseline": 47030,
-   "baselineNote": "판매글 13곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 13곳 최저가",
-     "price": 47030
-    }
-   ],
-   "link": "http://app.ac/ltVR1TM13",
    "web": true
   },
   {
