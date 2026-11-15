@@ -1,7 +1,161 @@
 {
- "updated": "2026-11-15T17:01:23.284+09:00",
+ "updated": "2026-11-15T22:08:11.202+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "9658129477",
+   "mall": "쿠팡",
+   "title": "첵스초코 오곡으로 만든 시리얼, 570g, 1개",
+   "price": 4380,
+   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/37485321608886-38d437db-0a8b-4303-8924-2def29f3269e.jpg",
+   "sentAt": "2026-11-15T22:08:11.202+09:00",
+   "saving": 23,
+   "baseline": 5720,
+   "baselineNote": "184곳 중 최저",
+   "unit": {
+    "label": "100g당",
+    "value": 768
+   },
+   "check": {
+    "market": 5720,
+    "malls": 184,
+    "delivered": 7930
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 4430
+   },
+   "review": {
+    "score": 4.9,
+    "count": 20059,
+    "low": 0
+   },
+   "spec": [
+    "대두, 밀",
+    "코코아분말4.5%"
+   ],
+   "comps": [
+    {
+     "name": "184곳 중 최저",
+     "price": 5720
+    },
+    {
+     "name": "배송비까지 치면",
+     "price": 7930
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 4980
+    },
+    {
+     "m": "26-01",
+     "p": 5100
+    },
+    {
+     "m": "26-02",
+     "p": 5500
+    },
+    {
+     "m": "26-03",
+     "p": 4430
+    },
+    {
+     "m": "26-04",
+     "p": 5500
+    },
+    {
+     "m": "26-05",
+     "p": 5420
+    },
+    {
+     "m": "26-06",
+     "p": 4650
+    },
+    {
+     "m": "26-07",
+     "p": 4740
+    },
+    {
+     "m": "26-08",
+     "p": 4740
+    },
+    {
+     "m": "26-09",
+     "p": 4740
+    },
+    {
+     "m": "26-10",
+     "p": 4740
+    },
+    {
+     "m": "26-11",
+     "p": 5480
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4155338690",
+     "price": 5720,
+     "ship": 3500
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000075933755",
+     "price": 6055,
+     "ship": 3000
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "3553488293",
+     "price": 6250,
+     "ship": 3000
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000075933755",
+     "price": 6510,
+     "ship": 3000
+    },
+    {
+     "mall": "신세계몰",
+     "code": "ED901",
+     "id": "1000075933755",
+     "price": 6510,
+     "ship": 3000
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "E567630541",
+     "price": 7570,
+     "ship": 3500
+    },
+    {
+     "mall": "주식회사 신세계라이브쇼핑",
+     "code": "TRB03",
+     "id": "90720645",
+     "price": 7930,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2595862203",
+     "price": 8040,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/h9tcWPqXzE",
+   "web": true
+  },
   {
    "uid": "2337951489",
    "mall": "지마켓",
@@ -12064,19 +12218,6 @@
    "baselineNote": "728곳 중 최저",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=1579106890",
-   "web": true
-  },
-  {
-   "uid": "1393491022",
-   "mall": "롯데온",
-   "title": "K2여성 구스다운 씬에어 코코 W KWW24542-JS",
-   "price": 93210,
-   "image": "https://contents.lotteon.com/itemimage/20260810192814/LE/12/22/14/24/38/_1/33/42/41/34/3/LE1222142438_1334241343_1.jpg",
-   "sentAt": "2026-11-03T17:29:13.671+09:00",
-   "saving": 11,
-   "baseline": 104720,
-   "baselineNote": "판매글 9곳 최저가",
-   "link": "http://app.ac/KtVe0LM13",
    "web": true
   }
  ]
