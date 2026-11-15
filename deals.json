@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-15T12:23:49.563+09:00",
+ "updated": "2026-11-15T13:52:02.280+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9945705638",
+   "mall": "쿠팡",
+   "title": "바나나킥, 118g 3개",
+   "price": 4250,
+   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/63488645301422-f20fc528-fb65-4dd6-a027-c049fe04bd96.jpg",
+   "sentAt": "2026-11-15T13:52:01.461+09:00",
+   "saving": 59,
+   "baseline": 10390,
+   "baselineNote": "판매글 26곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 1417
+   },
+   "comps": [
+    {
+     "name": "판매글 26곳 최저가",
+     "price": 10390
+    }
+   ],
+   "link": "https://link.coupang.com/a/iGU1fSeqE8"
+  },
   {
    "uid": "7977109571",
    "mall": "지마켓",
@@ -2757,28 +2779,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iBSVkhxpRI"
-  },
-  {
-   "uid": "6415854271",
-   "mall": "토스쇼핑",
-   "title": "유한메디카 올데이 비타민C 엔 탑 3000 맥스, 90포, 2개",
-   "price": 15370,
-   "image": "https://shopping.toss.im/live/taca/ai/ZGJlN2Q3/SmxsZWVUOXd5Q2xwT0ppek1UZ2V4ekY0SE1NdWtlV00wcFJ6SE1yV29ibz0.png",
-   "sentAt": "2026-11-12T12:56:27.159+09:00",
-   "saving": 38,
-   "baseline": 24930,
-   "baselineNote": "64곳 중 최저",
-   "check": {
-    "market": 24930,
-    "malls": 64
-   },
-   "comps": [
-    {
-     "name": "64곳 중 최저",
-     "price": 24930
-    }
-   ],
-   "link": "https://toss.im/_m/fuMcJ3O4"
   }
  ]
 }
