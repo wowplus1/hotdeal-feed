@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-15T15:28:40.305+09:00",
+ "updated": "2026-11-15T18:46:39.648+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5383428838",
+   "mall": "11번가",
+   "title": "오리온 포카칩 오리지널 66g, 5개 + 어니언 66g, 5개",
+   "price": 9630,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/6098554134/B.jpg?453749063",
+   "sentAt": "2026-11-15T18:46:38.823+09:00",
+   "saving": 25,
+   "baseline": 12900,
+   "baselineNote": "판매글 14곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 14곳 최저가",
+     "price": 12900
+    }
+   ],
+   "link": "http://app.ac/r3MXiHJ33"
+  },
   {
    "uid": "2257330386",
    "mall": "지마켓",
@@ -2753,28 +2771,6 @@
     }
    ],
    "link": "http://app.ac/NqDccS283"
-  },
-  {
-   "uid": "1452721585",
-   "mall": "쿠팡",
-   "title": "오리온 더 깔끔한 자일리톨 102g 2개",
-   "price": 4860,
-   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/450797600104396-10c7e8d1-7448-4604-b56d-d51d17147cdc.jpg",
-   "sentAt": "2026-11-12T14:35:48.300+09:00",
-   "saving": 42,
-   "baseline": 8370,
-   "baselineNote": "판매글 25곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 2430
-   },
-   "comps": [
-    {
-     "name": "판매글 25곳 최저가",
-     "price": 8370
-    }
-   ],
-   "link": "https://link.coupang.com/a/iBZDSVPnum"
   }
  ]
 }
