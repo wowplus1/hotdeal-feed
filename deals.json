@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-16T18:56:45.320+09:00",
+ "updated": "2026-11-16T19:01:52.409+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7103976425",
+   "mall": "토스쇼핑",
+   "title": "보라톡스 제로슈가 파비플로라 알파CD 보라워터, 500ml, 24개",
+   "price": 23600,
+   "image": "https://shopping.toss.im/live/temp/2026-09-03/31bd8534-8c21-4808-9c9a-ed08fc5efd4a.jpeg",
+   "sentAt": "2026-11-16T19:01:51.471+09:00",
+   "saving": 43,
+   "baseline": 41571,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 983
+   },
+   "comps": [
+    {
+     "name": "판매글 3곳 최저가",
+     "price": 41571
+    }
+   ],
+   "link": "https://toss.shopping/_m/nk5U9uF5"
+  },
   {
    "uid": "5962141473",
    "mall": "토스쇼핑",
@@ -2706,28 +2728,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iDcGRWC6IC"
-  },
-  {
-   "uid": "5838088587",
-   "mall": "쿠팡",
-   "title": "배스킨라빈스 피스타치오 크림 모찌 파이 12p, 264g, 3개",
-   "price": 10170,
-   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/276554408690484-4f5ac3d4-e38c-4c34-8610-a2f08b302516.jpg",
-   "sentAt": "2026-11-13T08:07:27.258+09:00",
-   "saving": 38,
-   "baseline": 16280,
-   "baselineNote": "판매글 9곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 3390
-   },
-   "comps": [
-    {
-     "name": "판매글 9곳 최저가",
-     "price": 16280
-    }
-   ],
-   "link": "https://link.coupang.com/a/gfB1kGFjUW"
   }
  ]
 }
