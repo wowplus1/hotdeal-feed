@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-16T19:46:50.138+09:00",
+ "updated": "2026-11-16T19:48:55.948+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6615612796",
+   "mall": "롯데온",
+   "title": "당일손질 냉장 북채 1kg+1kg",
+   "price": 15890,
+   "image": "https://contents.lotteon.com/itemimage/20261116175229/LO/28/15/78/45/13/_2/81/57/84/51/4/LO2815784513_2815784514_1.jpg",
+   "sentAt": "2026-11-16T19:48:55.085+09:00",
+   "saving": 46,
+   "baseline": 29660,
+   "baselineNote": "판매글 9곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 9곳 최저가",
+     "price": 29660
+    }
+   ],
+   "link": "http://app.ac/T3C8ZRJ33"
+  },
   {
    "uid": "4443056013",
    "mall": "롯데온",
@@ -2957,28 +2975,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/gl3CLij06n"
-  },
-  {
-   "uid": "3373608852",
-   "mall": "지마켓",
-   "title": "1회착유 100% 통참깨 참기름 350ml 2병",
-   "price": 11200,
-   "image": "https://gdimg.gmarket.co.kr/4362020049/goodsimage",
-   "sentAt": "2026-11-13T08:53:55.499+09:00",
-   "saving": 30,
-   "baseline": 16060,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 5600
-   },
-   "comps": [
-    {
-     "name": "판매글 3곳 최저가",
-     "price": 16060
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4362020049"
   }
  ]
 }
