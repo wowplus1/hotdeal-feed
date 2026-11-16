@@ -1,7 +1,158 @@
 {
- "updated": "2026-11-16T19:01:52.409+09:00",
+ "updated": "2026-11-16T19:33:33.176+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5327356309",
+   "mall": "쿠팡",
+   "title": "불닭 볶음탕면 145g 16개",
+   "price": 11920,
+   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1719769554002687-f621dce1-5155-466a-9a53-d7772ed6a8ef.jpg",
+   "sentAt": "2026-11-16T19:33:32.566+09:00",
+   "saving": 27,
+   "baseline": 16250,
+   "baselineNote": "168곳 중 최저 · 무료배송",
+   "unit": {
+    "label": "개당",
+    "value": 745
+   },
+   "check": {
+    "market": 16250,
+    "malls": 168,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 15980
+   },
+   "review": {
+    "score": 4.6,
+    "count": 100,
+    "low": 3
+   },
+   "spec": [
+    "봉지라면",
+    "볶음라면",
+    "기본면",
+    "매운맛"
+   ],
+   "comps": [
+    {
+     "name": "168곳 중 최저 · 무료배송",
+     "price": 16250
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 18140
+    },
+    {
+     "m": "26-01",
+     "p": 29070
+    },
+    {
+     "m": "26-02",
+     "p": 20100
+    },
+    {
+     "m": "26-03",
+     "p": 19000
+    },
+    {
+     "m": "26-04",
+     "p": 18200
+    },
+    {
+     "m": "26-05",
+     "p": 16740
+    },
+    {
+     "m": "26-06",
+     "p": 17500
+    },
+    {
+     "m": "26-07",
+     "p": 17500
+    },
+    {
+     "m": "26-08",
+     "p": 17500
+    },
+    {
+     "m": "26-09",
+     "p": 15980
+    },
+    {
+     "m": "26-10",
+     "p": 17500
+    },
+    {
+     "m": "26-11",
+     "p": 16250
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4772664047",
+     "price": 16250,
+     "ship": 0
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F580503617",
+     "price": 17500,
+     "ship": 0
+    },
+    {
+     "mall": "롯데백화점",
+     "code": "TLC16",
+     "id": "LE1222747278",
+     "price": 19420,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LE1222747278",
+     "price": 19420,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9509584303",
+     "price": 20230,
+     "ship": 0
+    },
+    {
+     "mall": "롯데홈쇼핑",
+     "code": "ED903",
+     "id": "3456032504",
+     "price": 20430,
+     "ship": 0
+    },
+    {
+     "mall": "TUC261",
+     "code": "TUC261",
+     "id": "9841027957",
+     "price": 20800,
+     "ship": 0
+    },
+    {
+     "mall": "GS SHOP",
+     "code": "ED908",
+     "id": "1112527010",
+     "price": 21490,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/iIYkT3XieG"
+  },
   {
    "uid": "7103976425",
    "mall": "토스쇼핑",
@@ -2706,28 +2857,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/g4SJ6uYMa4"
-  },
-  {
-   "uid": "2060412446",
-   "mall": "쿠팡",
-   "title": "천하장사 오리지날 간식 소시지 990g 1개",
-   "price": 9320,
-   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/538583756834322-4de649eb-f78f-40c4-bdf2-502fe0e60c14.jpg",
-   "sentAt": "2026-11-13T08:08:31.960+09:00",
-   "saving": 33,
-   "baseline": 13980,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": {
-    "label": "100g당",
-    "value": 941
-   },
-   "comps": [
-    {
-     "name": "판매글 5곳 최저가",
-     "price": 13980
-    }
-   ],
-   "link": "https://link.coupang.com/a/iDcGRWC6IC"
   }
  ]
 }
