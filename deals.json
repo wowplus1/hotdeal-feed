@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-16T19:48:55.948+09:00",
+ "updated": "2026-11-17T07:22:46.002+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1394712154",
+   "mall": "쿠팡",
+   "title": "나우푸드 마그네슘 글리시네이트 타블렛, 180정, 2개",
+   "price": 31070,
+   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/3ae1/a88813af9c82ce0dc60b44d1d6b5da8f485d1bd3a58963c79ff5fcda3864.jpg",
+   "sentAt": "2026-11-17T07:22:45.202+09:00",
+   "unit": {
+    "label": "개당",
+    "value": 15535
+   },
+   "link": "https://link.coupang.com/a/gkKjaFUF40"
+  },
   {
    "uid": "6615612796",
    "mall": "롯데온",
@@ -2831,150 +2844,6 @@
     }
    ],
    "link": "http://app.ac/ubGezcl83"
-  },
-  {
-   "uid": "4029279629",
-   "mall": "쿠팡",
-   "title": "어메이징오트 언스위트, 190ml, 24개",
-   "price": 10650,
-   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/0bd6/e5de94f65093969e229a4d11aee238e462abda727234f2a3d112bdfac96f.png",
-   "sentAt": "2026-11-13T08:56:50.139+09:00",
-   "saving": 24,
-   "baseline": 13990,
-   "baselineNote": "181곳 중 최저",
-   "unit": {
-    "label": "개당",
-    "value": 444
-   },
-   "check": {
-    "market": 13990,
-    "malls": 181
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": false,
-    "low": 10480
-   },
-   "review": {
-    "score": 4.7,
-    "count": 2890,
-    "low": 28
-   },
-   "comps": [
-    {
-     "name": "181곳 중 최저",
-     "price": 13990
-    }
-   ],
-   "trend": [
-    {
-     "m": "25-12",
-     "p": 10480
-    },
-    {
-     "m": "26-01",
-     "p": 13270
-    },
-    {
-     "m": "26-02",
-     "p": 11500
-    },
-    {
-     "m": "26-03",
-     "p": 11180
-    },
-    {
-     "m": "26-04",
-     "p": 13570
-    },
-    {
-     "m": "26-05",
-     "p": 13530
-    },
-    {
-     "m": "26-06",
-     "p": 13490
-    },
-    {
-     "m": "26-07",
-     "p": 13590
-    },
-    {
-     "m": "26-08",
-     "p": 13590
-    },
-    {
-     "m": "26-09",
-     "p": 12960
-    },
-    {
-     "m": "26-10",
-     "p": 13950
-    },
-    {
-     "m": "26-11",
-     "p": 13590
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "E925966462",
-     "price": 13990,
-     "ship": 4000
-    },
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "4892155948",
-     "price": 13990,
-     "ship": 4000
-    },
-    {
-     "mall": "롯데ON",
-     "code": "EE309",
-     "id": "LO2702777166",
-     "price": 14300,
-     "ship": 3000
-    },
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "7214678203",
-     "price": 14500,
-     "ship": 0
-    },
-    {
-     "mall": "하프클럽",
-     "code": "TZ6171",
-     "id": "369794100",
-     "price": 17020,
-     "ship": 0
-    },
-    {
-     "mall": "보리보리",
-     "code": "TG021",
-     "id": "315148453",
-     "price": 17020,
-     "ship": 0
-    },
-    {
-     "mall": "롯데백화점",
-     "code": "TLC16",
-     "id": "LE1220681247",
-     "price": 17160,
-     "ship": 0
-    },
-    {
-     "mall": "롯데홈쇼핑",
-     "code": "ED903",
-     "id": "3419196047",
-     "price": 17210,
-     "ship": 0
-    }
-   ],
-   "link": "https://link.coupang.com/a/gl3CLij06n"
   }
  ]
 }
