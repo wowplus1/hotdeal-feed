@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-16T19:12:25.154+09:00",
+ "updated": "2026-11-16T19:48:02.627+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "4976534098",
+   "mall": "지마켓",
+   "title": "퐁퐁 친환경 주방세제 오렌지 1.2L 4개",
+   "price": 7960,
+   "image": "https://gdimg.gmarket.co.kr/3545658358/goodsimage",
+   "sentAt": "2026-11-16T19:48:02.627+09:00",
+   "unit": {
+    "label": "개당",
+    "value": 1990
+   },
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=3545658358",
+   "web": true
+  },
   {
    "uid": "4579704342",
    "mall": "쿠팡",
@@ -12854,20 +12868,6 @@
    "baseline": 89460,
    "baselineNote": "판매글 7곳 최저가",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2843163641",
-   "web": true
-  },
-  {
-   "uid": "2006071858",
-   "mall": "지마켓",
-   "title": "한돈 갈비찜용 2kg",
-   "price": 23590,
-   "image": "https://gdimg.gmarket.co.kr/4744094934/goodsimage",
-   "sentAt": "2026-11-04T00:13:09.247+09:00",
-   "saving": 33,
-   "baseline": 35250,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4744094934",
    "web": true
   }
  ]
