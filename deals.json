@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-16T13:27:58.634+09:00",
+ "updated": "2026-11-16T17:41:59.854+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1384839594",
+   "mall": "쿠팡",
+   "title": "청정원 쌀로만든 멸치 컵쌀국수, 92g, 6개",
+   "price": 7790,
+   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/10033988168618-475527c0-334a-49e5-8475-052f6c91a9f8.jpg",
+   "sentAt": "2026-11-16T17:41:58.261+09:00",
+   "saving": 38,
+   "baseline": 12600,
+   "baselineNote": "판매글 7곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 1298
+   },
+   "comps": [
+    {
+     "name": "판매글 7곳 최저가",
+     "price": 12600
+    }
+   ],
+   "link": "https://link.coupang.com/a/ilOUIO8eLA"
+  },
   {
    "uid": "6911105620",
    "mall": "쿠팡",
@@ -2688,28 +2710,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2435999418"
-  },
-  {
-   "uid": "5469684326",
-   "mall": "토스쇼핑",
-   "title": "빌트루 진한 헛개수 진액 헛개차 원액, 480g, 1개",
-   "price": 8900,
-   "image": "https://shopping.toss.im/live/taca/ai/Zjk4ZTAx/QVA5ZWRSeUs5MzNHZmZhSGVLcmo5UndWZk9xREpCMGI5T1VKQ0tlQkNmVlk.png",
-   "sentAt": "2026-11-12T21:04:33.695+09:00",
-   "saving": 29,
-   "baseline": 12510,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": {
-    "label": "100g당",
-    "value": 1854
-   },
-   "comps": [
-    {
-     "name": "판매글 5곳 최저가",
-     "price": 12510
-    }
-   ],
-   "link": "https://toss.shopping/_m/ZVKNOpcq"
   }
  ]
 }
