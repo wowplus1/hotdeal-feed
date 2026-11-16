@@ -1,7 +1,152 @@
 {
- "updated": "2026-11-16T10:52:51.196+09:00",
+ "updated": "2026-11-16T15:03:44.651+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "2015101611",
+   "mall": "쿠팡",
+   "title": "미닛메이드 자몽에이드 탄산, 355ml, 24개",
+   "price": 10940,
+   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/c39b/1ef49ea4a9591821ae81e0ad44915f3975a1cc9df44707e5875085422f09.jpg",
+   "sentAt": "2026-11-16T15:03:44.651+09:00",
+   "saving": 13,
+   "baseline": 12510,
+   "baselineNote": "618곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 456
+   },
+   "check": {
+    "market": 12510,
+    "malls": 618
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 11170
+   },
+   "review": {
+    "score": 4.7,
+    "count": 604,
+    "low": 2
+   },
+   "comps": [
+    {
+     "name": "618곳 중 최저",
+     "price": 12510
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 11430
+    },
+    {
+     "m": "26-01",
+     "p": 11170
+    },
+    {
+     "m": "26-02",
+     "p": 12410
+    },
+    {
+     "m": "26-03",
+     "p": 11630
+    },
+    {
+     "m": "26-04",
+     "p": 11330
+    },
+    {
+     "m": "26-05",
+     "p": 11430
+    },
+    {
+     "m": "26-06",
+     "p": 12410
+    },
+    {
+     "m": "26-07",
+     "p": 12410
+    },
+    {
+     "m": "26-08",
+     "p": 12410
+    },
+    {
+     "m": "26-09",
+     "p": 12570
+    },
+    {
+     "m": "26-10",
+     "p": 12420
+    },
+    {
+     "m": "26-11",
+     "p": 12480
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F704801486",
+     "price": 12510,
+     "ship": 4000
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4896624130",
+     "price": 12510,
+     "ship": 4000
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2756965484",
+     "price": 12780,
+     "ship": 3000
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9580459545",
+     "price": 13130,
+     "ship": 3000
+    },
+    {
+     "mall": "TW6145",
+     "code": "TW6145",
+     "id": "11158557793",
+     "price": 14120,
+     "ship": 3000
+    },
+    {
+     "mall": "패션플러스",
+     "code": "TH002",
+     "id": "441370390",
+     "price": 14480,
+     "ship": 3000
+    },
+    {
+     "mall": "보리보리",
+     "code": "TG021",
+     "id": "423281178",
+     "price": 15180,
+     "ship": 3000
+    },
+    {
+     "mall": "배민상회",
+     "code": "TWB192",
+     "id": "38055",
+     "price": 15306,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/gkKxunRYNo",
+   "web": true
+  },
   {
    "uid": "5998569486",
    "mall": "롯데온",
@@ -12614,20 +12759,6 @@
    "baseline": 287100,
    "baselineNote": "49곳 중 최저 · 무료배송",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4512193348",
-   "web": true
-  },
-  {
-   "uid": "9903383002",
-   "mall": "쿠팡",
-   "title": "샘표 국산콩 백일된장, 900g, 1개",
-   "price": 9160,
-   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/1025_amir_coupang_oct_80k/2493/fc90a751dbc7f3b4c6e7658e321f3d740a840700d66a459ed9780288d41d.jpg",
-   "sentAt": "2026-11-03T22:09:01.415+09:00",
-   "saving": 27,
-   "baseline": 12480,
-   "baselineNote": "7곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/inzW1EjoEm",
    "web": true
   }
  ]
