@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-16T08:16:54.270+09:00",
+ "updated": "2026-11-16T09:57:03.797+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7250887834",
+   "mall": "쿠팡",
+   "title": "오리온 치즈뿌린 치킨팝, 65g, 15개",
+   "price": 10550,
+   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/193226417090885-10047811-7f0f-4055-beeb-fe84547205ad.png",
+   "sentAt": "2026-11-16T09:57:03.000+09:00",
+   "saving": 27,
+   "baseline": 14510,
+   "baselineNote": "판매글 10곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 703
+   },
+   "comps": [
+    {
+     "name": "판매글 10곳 최저가",
+     "price": 14510
+    }
+   ],
+   "link": "https://link.coupang.com/a/ie9VDXKGGW"
+  },
   {
    "uid": "3820483918",
    "mall": "쿠팡",
@@ -2692,28 +2714,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iB94V1EAs8"
-  },
-  {
-   "uid": "2771726927",
-   "mall": "지마켓",
-   "title": "올반 우리돼지 동그랑땡 380g 6팩",
-   "price": 15960,
-   "image": "https://gdimg.gmarket.co.kr/3391972250/goodsimage",
-   "sentAt": "2026-11-12T16:34:07.850+09:00",
-   "saving": 37,
-   "baseline": 25380,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 2660
-   },
-   "comps": [
-    {
-     "name": "판매글 4곳 최저가",
-     "price": 25380
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=3391972250"
   }
  ]
 }
