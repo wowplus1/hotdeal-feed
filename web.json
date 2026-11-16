@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-16T15:03:44.651+09:00",
+ "updated": "2026-11-16T15:54:12.062+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "2706266424",
+   "mall": "롯데온",
+   "title": "TRU-FRAME 캐리어 55/20 FR PHANTOM BLACK I0099004",
+   "price": 196750,
+   "image": "https://contents.lotteon.com/itemimage/20261111160111/LE/28/13/99/65/44/bndl_img/LE2813996544_1.jpg",
+   "sentAt": "2026-11-16T15:54:12.062+09:00",
+   "saving": 16,
+   "baseline": 233620,
+   "baselineNote": "다른 곳 최저",
+   "comps": [
+    {
+     "name": "다른 곳 최저",
+     "price": 233620
+    }
+   ],
+   "link": "http://app.ac/83C8OLJ03",
+   "web": true
+  },
   {
    "uid": "2015101611",
    "mall": "쿠팡",
@@ -12746,19 +12765,6 @@
    "sentAt": "2026-11-03T23:14:18.767+09:00",
    "unit": "[object Object]",
    "link": "http://app.ac/CECKtbS93",
-   "web": true
-  },
-  {
-   "uid": "1537659784",
-   "mall": "지마켓",
-   "title": "레노버 리전 27Q-11 QHD 300Hz IPS",
-   "price": 223914,
-   "image": "https://gdimg.gmarket.co.kr/4512193348/goodsimage",
-   "sentAt": "2026-11-03T22:35:00.510+09:00",
-   "saving": 22,
-   "baseline": 287100,
-   "baselineNote": "49곳 중 최저 · 무료배송",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4512193348",
    "web": true
   }
  ]
