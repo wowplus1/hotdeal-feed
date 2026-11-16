@@ -1,7 +1,153 @@
 {
- "updated": "2026-11-16T10:11:25.169+09:00",
+ "updated": "2026-11-16T10:17:48.309+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "5398852009",
+   "mall": "GS SHOP",
+   "title": "광양 칼집 돼지 양념 왕구이 600g x3팩",
+   "price": 13900,
+   "image": "https://asset.m-gs.kr/prod/95876888/1/280",
+   "sentAt": "2026-11-16T10:17:48.309+09:00",
+   "saving": 12,
+   "baseline": 15800,
+   "baselineNote": "58곳 중 최저 · 무료배송",
+   "unit": {
+    "label": "개당",
+    "value": 4633
+   },
+   "check": {
+    "market": 15800,
+    "malls": 58,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": false,
+    "low": 13850
+   },
+   "review": {
+    "score": 4.4,
+    "count": 24942,
+    "low": 620
+   },
+   "comps": [
+    {
+     "name": "58곳 중 최저 · 무료배송",
+     "price": 15800
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 14500
+    },
+    {
+     "m": "26-01",
+     "p": 14150
+    },
+    {
+     "m": "26-02",
+     "p": 14150
+    },
+    {
+     "m": "26-03",
+     "p": 13850
+    },
+    {
+     "m": "26-04",
+     "p": 13890
+    },
+    {
+     "m": "26-05",
+     "p": 14450
+    },
+    {
+     "m": "26-06",
+     "p": 15040
+    },
+    {
+     "m": "26-07",
+     "p": 16240
+    },
+    {
+     "m": "26-08",
+     "p": 15760
+    },
+    {
+     "m": "26-09",
+     "p": 15120
+    },
+    {
+     "m": "26-10",
+     "p": 15040
+    },
+    {
+     "m": "26-11",
+     "p": 14950
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "E810024007",
+     "price": 15800,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4231361324",
+     "price": 15810,
+     "ship": 0
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000713956564",
+     "price": 16310,
+     "ship": 0
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000713956564",
+     "price": 16310,
+     "ship": 0
+    },
+    {
+     "mall": "신세계몰",
+     "code": "ED901",
+     "id": "1000713956564",
+     "price": 16310,
+     "ship": 0
+    },
+    {
+     "mall": "SK스토아",
+     "code": "TSB275",
+     "id": "41924597",
+     "price": 16330,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "3767866755",
+     "price": 16470,
+     "ship": 0
+    },
+    {
+     "mall": "GS SHOP",
+     "code": "ED908",
+     "id": "95876888",
+     "price": 16650,
+     "ship": 0
+    }
+   ],
+   "link": "http://app.ac/uAGuDY503",
+   "web": true
+  },
   {
    "uid": "1378213323",
    "mall": "롯데온",
@@ -12482,20 +12628,6 @@
    "baselineNote": "7곳 중 최저",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/inzW1EjoEm",
-   "web": true
-  },
-  {
-   "uid": "5032227940",
-   "mall": "쿠팡",
-   "title": "이니스프리 화산송이 모공 바하 클렌징 폼, 150g, 2개",
-   "price": 7940,
-   "image": "https://t3a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/806171289192691-3e4d64f0-c301-4943-bc72-f6d5c1eacbe3.jpg",
-   "sentAt": "2026-11-03T22:04:42.246+09:00",
-   "saving": 44,
-   "baseline": 14170,
-   "baselineNote": "판매글 8곳 최저가",
-   "unit": "[object Object]",
-   "link": "https://link.coupang.com/a/g371HX36aG",
    "web": true
   }
  ]
