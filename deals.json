@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-16T09:57:03.797+09:00",
+ "updated": "2026-11-16T10:51:52.783+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5648267955",
+   "mall": "쿠팡",
+   "title": "롯데웰푸드 크런키 초콜릿 34g 12개",
+   "price": 10330,
+   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/17e0/fbd8a68185e665826e4d0ec09fda854dcd6deae06cdd2a2e5406668ce7d2.jpg",
+   "sentAt": "2026-11-16T10:51:52.150+09:00",
+   "saving": 26,
+   "baseline": 13970,
+   "baselineNote": "판매글 32곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 861
+   },
+   "comps": [
+    {
+     "name": "판매글 32곳 최저가",
+     "price": 13970
+    }
+   ],
+   "link": "https://link.coupang.com/a/hnlQePlriu"
+  },
   {
    "uid": "7250887834",
    "mall": "쿠팡",
@@ -2561,159 +2583,6 @@
     }
    ],
    "link": "https://toss.shopping/_m/PAE79zxC"
-  },
-  {
-   "uid": "4500064432",
-   "mall": "쿠팡",
-   "title": "매일우유 멸균 딸기, 200ml, 24개 11,500원",
-   "price": 11500,
-   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/1025_amir_coupang_oct_80k/fd8b/461d0d06c1882ed4e2e8f33555dd062c9687bb69af5c54bdcef7f83aacd4.jpg",
-   "sentAt": "2026-11-12T17:04:47.064+09:00",
-   "saving": 22,
-   "baseline": 14820,
-   "baselineNote": "291곳 중 최저",
-   "unit": {
-    "label": "개당",
-    "value": 479
-   },
-   "check": {
-    "market": 14820,
-    "malls": 291,
-    "delivered": 17060
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": true,
-    "low": 12870
-   },
-   "review": {
-    "score": 4.8,
-    "count": 4840,
-    "low": 22
-   },
-   "spec": [
-    "딸기우유",
-    "테트라팩"
-   ],
-   "comps": [
-    {
-     "name": "291곳 중 최저",
-     "price": 14820
-    },
-    {
-     "name": "배송비까지 치면",
-     "price": 17060
-    }
-   ],
-   "trend": [
-    {
-     "m": "25-12",
-     "p": 14220
-    },
-    {
-     "m": "26-01",
-     "p": 12940
-    },
-    {
-     "m": "26-02",
-     "p": 12870
-    },
-    {
-     "m": "26-03",
-     "p": 13090
-    },
-    {
-     "m": "26-04",
-     "p": 13260
-    },
-    {
-     "m": "26-05",
-     "p": 12940
-    },
-    {
-     "m": "26-06",
-     "p": 13490
-    },
-    {
-     "m": "26-07",
-     "p": 13790
-    },
-    {
-     "m": "26-08",
-     "p": 14040
-    },
-    {
-     "m": "26-09",
-     "p": 14350
-    },
-    {
-     "m": "26-10",
-     "p": 14040
-    },
-    {
-     "m": "26-11",
-     "p": 14200
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "D418569802",
-     "price": 14820,
-     "ship": 3500
-    },
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "3009469358",
-     "price": 15140,
-     "ship": 3500
-    },
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "5907092400",
-     "price": 15600,
-     "ship": 3500
-    },
-    {
-     "mall": "롯데ON",
-     "code": "EE309",
-     "id": "LI3265384371",
-     "price": 17060,
-     "ship": 0
-    },
-    {
-     "mall": "SSG.COM",
-     "code": "TN118",
-     "id": "1000864202476",
-     "price": 17271,
-     "ship": 3000
-    },
-    {
-     "mall": "롯데홈쇼핑",
-     "code": "ED903",
-     "id": "3380456447",
-     "price": 17310,
-     "ship": 3000
-    },
-    {
-     "mall": "현대Hmall",
-     "code": "ED907",
-     "id": "2253369744",
-     "price": 17310,
-     "ship": 3000
-    },
-    {
-     "mall": "주식회사 신세계라이브쇼핑",
-     "code": "TRB03",
-     "id": "1000509176",
-     "price": 17770,
-     "ship": 0
-    }
-   ],
-   "link": "https://link.coupang.com/a/iB94V1EAs8"
   }
  ]
 }
