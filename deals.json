@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-16T11:43:19.489+09:00",
+ "updated": "2026-11-16T13:27:58.634+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6911105620",
+   "mall": "쿠팡",
+   "title": "리츠 샌드위치 크래커 초코, 77g, 10개",
+   "price": 6550,
+   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/e3761acb-7541-4991-a088-8f1ca8845d2114682358551501780163.png",
+   "sentAt": "2026-11-16T13:27:57.853+09:00",
+   "saving": 56,
+   "baseline": 14900,
+   "baselineNote": "판매글 24곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 655
+   },
+   "comps": [
+    {
+     "name": "판매글 24곳 최저가",
+     "price": 14900
+    }
+   ],
+   "link": "https://link.coupang.com/a/iIybP7Rdkq"
+  },
   {
    "uid": "3810758365",
    "mall": "11번가",
@@ -2688,28 +2710,6 @@
     }
    ],
    "link": "https://toss.shopping/_m/ZVKNOpcq"
-  },
-  {
-   "uid": "3416849828",
-   "mall": "롯데온",
-   "title": "한돈 1등급 등갈비 1kg",
-   "price": 16640,
-   "image": "https://contents.lotteon.com/itemimage/20261020120229/LO/26/97/80/42/57/_2/69/78/04/25/8/LO2697804257_2697804258_1.png",
-   "sentAt": "2026-11-12T20:21:51.974+09:00",
-   "saving": 36,
-   "baseline": 26170,
-   "baselineNote": "판매글 10곳 최저가",
-   "unit": {
-    "label": "100g당",
-    "value": 1664
-   },
-   "comps": [
-    {
-     "name": "판매글 10곳 최저가",
-     "price": 26170
-    }
-   ],
-   "link": "http://app.ac/1AVLwL513"
   }
  ]
 }
