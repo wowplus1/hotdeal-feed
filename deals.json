@@ -1,7 +1,24 @@
 {
- "updated": "2026-11-17T07:22:46.002+09:00",
+ "updated": "2026-11-17T08:03:19.792+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1930238860",
+   "mall": "쿠팡",
+   "title": "씨그램 레몬 무라벨, 350ml, 24개",
+   "price": 10230,
+   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/33455254882561-69061bdf-a29e-415b-84ca-43765250d974.jpg",
+   "sentAt": "2026-11-17T08:03:19.192+09:00",
+   "unit": {
+    "label": "개당",
+    "value": 426
+   },
+   "alt": {
+    "price": 12600,
+    "where": "490곳 중 최저"
+   },
+   "link": "https://link.coupang.com/a/hgURMD1Aom"
+  },
   {
    "uid": "1394712154",
    "mall": "쿠팡",
@@ -2822,28 +2839,6 @@
    "image": "https://contents.lotteon.com/itemimage/20260518164701/LO/26/81/66/40/12/_2/68/16/64/01/3/LO2681664012_2681664013_1.png",
    "sentAt": "2026-11-13T11:09:13.521+09:00",
    "link": "http://app.ac/gjwlLYa83"
-  },
-  {
-   "uid": "7443011201",
-   "mall": "롯데온",
-   "title": "해남절임배추 20kg 김장 절임 배추 김치",
-   "price": 26510,
-   "image": "https://contents.lotteon.com/itemimage/20261112163808/LO/27/93/09/11/30/_2/79/30/91/23/4/LO2793091130_2793091234_1.jpg",
-   "sentAt": "2026-11-13T09:46:37.935+09:00",
-   "saving": 23,
-   "baseline": 34420,
-   "baselineNote": "판매글 11곳 최저가",
-   "unit": {
-    "label": "100g당",
-    "value": 133
-   },
-   "comps": [
-    {
-     "name": "판매글 11곳 최저가",
-     "price": 34420
-    }
-   ],
-   "link": "http://app.ac/ubGezcl83"
   }
  ]
 }
