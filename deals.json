@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-16T18:16:54.010+09:00",
+ "updated": "2026-11-16T18:56:45.320+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5962141473",
+   "mall": "토스쇼핑",
+   "title": "포스파티딜세린 징코 PS, 60캡슐, 4박스",
+   "price": 49800,
+   "image": "https://shopping.toss.im/live/temp/2026-07-24/c91f8f6f-84aa-4e6d-8fb0-1a9c976a6258.jpeg",
+   "sentAt": "2026-11-16T18:56:44.517+09:00",
+   "saving": 48,
+   "baseline": 96348,
+   "baselineNote": "판매글 8곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 8곳 최저가",
+     "price": 96348
+    }
+   ],
+   "link": "https://toss.im/_m/b7kAWe6b"
+  },
   {
    "uid": "5773044676",
    "mall": "쿠팡",
@@ -2710,138 +2728,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/gfB1kGFjUW"
-  },
-  {
-   "uid": "1528163346",
-   "mall": "쿠팡",
-   "title": "웅진 생차 녹차, 500ml, 20개",
-   "price": 10930,
-   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/01/07/11/1/fa12adfe-8433-43ef-adeb-eda4d40104a9.jpg",
-   "sentAt": "2026-11-13T07:37:46.807+09:00",
-   "saving": 31,
-   "baseline": 15750,
-   "baselineNote": "88곳 중 최저 · 무료배송",
-   "unit": {
-    "label": "개당",
-    "value": 547
-   },
-   "check": {
-    "market": 15750,
-    "malls": 88,
-    "ship": 0
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": true,
-    "low": 11410
-   },
-   "comps": [
-    {
-     "name": "88곳 중 최저 · 무료배송",
-     "price": 15750
-    }
-   ],
-   "trend": [
-    {
-     "m": "26-02",
-     "p": 16860
-    },
-    {
-     "m": "26-03",
-     "p": 16900
-    },
-    {
-     "m": "26-04",
-     "p": 15080
-    },
-    {
-     "m": "26-05",
-     "p": 15080
-    },
-    {
-     "m": "26-06",
-     "p": 16900
-    },
-    {
-     "m": "26-07",
-     "p": 16900
-    },
-    {
-     "m": "26-08",
-     "p": 16900
-    },
-    {
-     "m": "26-09",
-     "p": 11410
-    },
-    {
-     "m": "26-10",
-     "p": 15570
-    },
-    {
-     "m": "26-11",
-     "p": 15570
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "9013952331",
-     "price": 15750,
-     "ship": 0
-    },
-    {
-     "mall": "주식회사 신세계라이브쇼핑",
-     "code": "TRB03",
-     "id": "1007060614",
-     "price": 15760,
-     "ship": 0
-    },
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "F688678537",
-     "price": 15810,
-     "ship": 0
-    },
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "4880402659",
-     "price": 15810,
-     "ship": 0
-    },
-    {
-     "mall": "SSG.COM",
-     "code": "TN118",
-     "id": "1000890212215",
-     "price": 16461,
-     "ship": 0
-    },
-    {
-     "mall": "nsmall",
-     "code": "ED904",
-     "id": "36274018",
-     "price": 16900,
-     "ship": 0
-    },
-    {
-     "mall": "롯데ON",
-     "code": "EE309",
-     "id": "LO2793964248",
-     "price": 16940,
-     "ship": 0
-    },
-    {
-     "mall": "하프클럽",
-     "code": "TZ6171",
-     "id": "441140958",
-     "price": 17700,
-     "ship": 0
-    }
-   ],
-   "link": "https://link.coupang.com/a/gOofhpwk6S"
   }
  ]
 }
