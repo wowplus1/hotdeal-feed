@@ -1,7 +1,153 @@
 {
- "updated": "2026-11-16T19:48:02.627+09:00",
+ "updated": "2026-11-16T20:43:16.710+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "9786199973",
+   "mall": "쿠팡",
+   "title": "하리보 스타믹스 젤리, 1kg, 1개",
+   "price": 11920,
+   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/277947154475086-038d1751-bd37-4dca-80cd-af42454e97bd.jpg",
+   "sentAt": "2026-11-16T20:43:16.710+09:00",
+   "saving": 11,
+   "baseline": 13390,
+   "baselineNote": "823곳 중 최저 · 무료배송",
+   "unit": {
+    "label": "100g당",
+    "value": 1192
+   },
+   "check": {
+    "market": 13390,
+    "malls": 823,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": false,
+    "low": 9620
+   },
+   "review": {
+    "score": 4.7,
+    "count": 1325,
+    "low": 18
+   },
+   "comps": [
+    {
+     "name": "823곳 중 최저 · 무료배송",
+     "price": 13390
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 9960
+    },
+    {
+     "m": "26-01",
+     "p": 9880
+    },
+    {
+     "m": "26-02",
+     "p": 9890
+    },
+    {
+     "m": "26-03",
+     "p": 9640
+    },
+    {
+     "m": "26-04",
+     "p": 9620
+    },
+    {
+     "m": "26-05",
+     "p": 9710
+    },
+    {
+     "m": "26-06",
+     "p": 9910
+    },
+    {
+     "m": "26-07",
+     "p": 12260
+    },
+    {
+     "m": "26-08",
+     "p": 10900
+    },
+    {
+     "m": "26-09",
+     "p": 10880
+    },
+    {
+     "m": "26-10",
+     "p": 11580
+    },
+    {
+     "m": "26-11",
+     "p": 12600
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4823217047",
+     "price": 13390,
+     "ship": 0
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F630904810",
+     "price": 13390,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9749549195",
+     "price": 14010,
+     "ship": 0
+    },
+    {
+     "mall": "TX199",
+     "code": "TX199",
+     "id": "9642388732",
+     "price": 15700,
+     "ship": 3000
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2762848139",
+     "price": 17880,
+     "ship": 0
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000761720650",
+     "price": 18260,
+     "ship": 3000
+    },
+    {
+     "mall": "신세계몰",
+     "code": "ED901",
+     "id": "1000761720650",
+     "price": 18260,
+     "ship": 3000
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000761720650",
+     "price": 18260,
+     "ship": 3000
+    }
+   ],
+   "link": "https://link.coupang.com/a/ilM8mrvst3",
+   "web": true
+  },
   {
    "uid": "4976534098",
    "mall": "지마켓",
@@ -12855,19 +13001,6 @@
    "baselineNote": "판매글 15곳 최저가",
    "unit": "[object Object]",
    "link": "https://link.coupang.com/a/inM6jFHkkK",
-   "web": true
-  },
-  {
-   "uid": "4179528553",
-   "mall": "지마켓",
-   "title": "1++ 등급 투뿔한우 국거리 200g+200g",
-   "price": 9650,
-   "image": "https://gdimg.gmarket.co.kr/2843163641/goodsimage",
-   "sentAt": "2026-11-04T00:34:56.583+09:00",
-   "saving": 89,
-   "baseline": 89460,
-   "baselineNote": "판매글 7곳 최저가",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2843163641",
    "web": true
   }
  ]
