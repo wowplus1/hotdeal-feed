@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-16T10:51:52.783+09:00",
+ "updated": "2026-11-16T11:23:30.434+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9566227843",
+   "mall": "쿠팡",
+   "title": "리츠 샌드위치 크래커 초코 77g 3개",
+   "price": 2840,
+   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/235323958430510-9a61bc73-e4f1-4655-9501-d943a2463703.jpg",
+   "sentAt": "2026-11-16T11:23:29.460+09:00",
+   "saving": 59,
+   "baseline": 6873,
+   "baselineNote": "판매글 10곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 947
+   },
+   "comps": [
+    {
+     "name": "판매글 10곳 최저가",
+     "price": 6873
+    }
+   ],
+   "link": "https://link.coupang.com/a/iIpj3A4XAW"
+  },
   {
    "uid": "5648267955",
    "mall": "쿠팡",
@@ -2561,28 +2583,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4758688477"
-  },
-  {
-   "uid": "9574671540",
-   "mall": "토스쇼핑",
-   "title": "호풍미 호박고구마, 특대, 10kg, 1박스",
-   "price": 14520,
-   "image": "https://shopping.toss.im/live/temp/2026-09-30/99351aac-dfa1-42ae-beca-be6edcc044ba.jpeg",
-   "sentAt": "2026-11-12T18:28:17.505+09:00",
-   "saving": 41,
-   "baseline": 24750,
-   "baselineNote": "판매글 31곳 최저가",
-   "unit": {
-    "label": "100g당",
-    "value": 145
-   },
-   "comps": [
-    {
-     "name": "판매글 31곳 최저가",
-     "price": 24750
-    }
-   ],
-   "link": "https://toss.shopping/_m/PAE79zxC"
   }
  ]
 }
