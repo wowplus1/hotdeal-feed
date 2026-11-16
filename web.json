@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-16T15:54:12.062+09:00",
+ "updated": "2026-11-16T17:16:39.537+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "5457767011",
+   "mall": "지마켓",
+   "title": "홈스타 락스와세제 스프레이 후로랄 900ml x 4개",
+   "price": 12010,
+   "image": "https://gdimg.gmarket.co.kr/4734077791/goodsimage",
+   "sentAt": "2026-11-16T17:16:39.537+09:00",
+   "saving": 25,
+   "baseline": 16110,
+   "baselineNote": "판매글 23곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 3003
+   },
+   "comps": [
+    {
+     "name": "판매글 23곳 최저가",
+     "price": 16110
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4734077791",
+   "web": true
+  },
   {
    "uid": "2706266424",
    "mall": "롯데온",
@@ -12754,17 +12777,6 @@
    "baseline": 13980,
    "baselineNote": "다른 곳 최저",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4646524115",
-   "web": true
-  },
-  {
-   "uid": "4564496593",
-   "mall": "11번가",
-   "title": "오리온 비쵸비 125g, 6개",
-   "price": 11770,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/6307815341/B.webp",
-   "sentAt": "2026-11-03T23:14:18.767+09:00",
-   "unit": "[object Object]",
-   "link": "http://app.ac/CECKtbS93",
    "web": true
   }
  ]
