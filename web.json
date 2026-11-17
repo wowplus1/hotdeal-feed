@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-17T19:32:36.155+09:00",
+ "updated": "2026-11-17T22:16:09.049+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "5038134452",
+   "mall": "11번가",
+   "title": "국내산 1등급 한돈 냉장 삼겹살 500g x 2 총 1kg",
+   "price": 16740,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/pd/v2/4/8/7/5/8/0/IHbMN/9763487580_B.webp",
+   "sentAt": "2026-11-17T22:16:09.049+09:00",
+   "saving": 34,
+   "baseline": 25410,
+   "baselineNote": "판매글 13곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 13곳 최저가",
+     "price": 25410
+    }
+   ],
+   "link": "http://app.ac/PqDXF0213",
+   "web": true
+  },
   {
    "uid": "5008059655",
    "mall": "롯데온",
@@ -13602,25 +13621,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4503348010",
-   "web": true
-  },
-  {
-   "uid": "6349916394",
-   "mall": "지마켓",
-   "title": "바세린 미니 립밤 7g 3개",
-   "price": 7000,
-   "image": "https://gdimg.gmarket.co.kr/4562580482/goodsimage",
-   "sentAt": "2026-11-04T11:55:41.367+09:00",
-   "unit": {
-    "label": "개당",
-    "value": 2333
-   },
-   "alt": {
-    "price": 8190,
-    "where": "48곳 중 최저",
-    "ship": 0
-   },
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4562580482",
    "web": true
   }
  ]
