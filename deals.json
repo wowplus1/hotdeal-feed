@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-17T11:43:36.096+09:00",
+ "updated": "2026-11-17T11:53:21.508+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5183318392",
+   "mall": "11번가",
+   "title": "제주 조생감귤 5kg",
+   "price": 5140,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/9/4/3/5/1/7/QGXRG/4806943517_242482042.webp",
+   "sentAt": "2026-11-17T11:53:20.931+09:00",
+   "saving": 52,
+   "baseline": 10695,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": {
+    "label": "100g당",
+    "value": 103
+   },
+   "comps": [
+    {
+     "name": "판매글 4곳 최저가",
+     "price": 10695
+    }
+   ],
+   "link": "http://app.ac/vqDKKA273"
+  },
   {
    "uid": "9403117760",
    "mall": "지마켓",
@@ -3251,19 +3273,6 @@
     }
    ],
    "link": "http://app.ac/A3MJ8JJ33"
-  },
-  {
-   "uid": "4319779077",
-   "mall": "쿠팡",
-   "title": "이니스프리 비자 바하 트러블 클렌징 폼 150g 2개",
-   "price": 6530,
-   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/28278735821283-7e6bca71-a5bf-4450-94ea-643913ff7ec8.jpg",
-   "sentAt": "2026-11-13T14:58:50.291+09:00",
-   "unit": {
-    "label": "개당",
-    "value": 3265
-   },
-   "link": "https://link.coupang.com/a/iDFYyPDdUO"
   }
  ]
 }
