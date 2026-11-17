@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-17T15:58:52.380+09:00",
+ "updated": "2026-11-17T17:22:19.635+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6387740760",
+   "mall": "쿠팡",
+   "title": "세균아 꼼짝마 3.5L",
+   "price": 15520,
+   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1921571935051-76244c47-7b50-4c7f-b071-8c2b8f0f4e46.jpg",
+   "sentAt": "2026-11-17T17:22:18.829+09:00",
+   "alt": {
+    "price": 18900,
+    "where": "115곳 중 최저"
+   },
+   "link": "https://link.coupang.com/a/iKtSOxVjob"
+  },
   {
    "uid": "6329979221",
    "mall": "롯데온",
@@ -3375,28 +3388,6 @@
     }
    ],
    "link": "http://app.ac/Ujwlrla03"
-  },
-  {
-   "uid": "9606595390",
-   "mall": "지마켓",
-   "title": "도브 바디워시 1000ml 3개",
-   "price": 11770,
-   "image": "https://gdimg.gmarket.co.kr/1677460336/goodsimage",
-   "sentAt": "2026-11-13T18:48:30.846+09:00",
-   "saving": 42,
-   "baseline": 20280,
-   "baselineNote": "판매글 10곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 3923
-   },
-   "comps": [
-    {
-     "name": "판매글 10곳 최저가",
-     "price": 20280
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=1677460336"
   }
  ]
 }
