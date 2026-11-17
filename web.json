@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-17T13:56:45.914+09:00",
+ "updated": "2026-11-17T14:22:35.419+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "2900934882",
+   "mall": "쿠팡",
+   "title": "시티즌 에코드라이브 크로노그래프 다이버 VO10-6771 남자시계",
+   "price": 155500,
+   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/e7de/71791ac737aafc33134735f0c23f1f435812b64ebb8c7f735beffafc68da.jpg",
+   "sentAt": "2026-11-17T14:22:35.419+09:00",
+   "saving": 19,
+   "baseline": 191000,
+   "baselineNote": "판매글 35곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 35곳 최저가",
+     "price": 191000
+    }
+   ],
+   "link": "https://link.coupang.com/a/hJRo8NJ82K",
+   "web": true
+  },
   {
    "uid": "8959379718",
    "mall": "쿠팡",
@@ -13419,20 +13438,6 @@
    "baseline": 2650500,
    "baselineNote": "판매글 11곳 최저가",
    "link": "https://link.coupang.com/a/f9BmhOjE0y",
-   "web": true
-  },
-  {
-   "uid": "1027598673",
-   "mall": "지마켓",
-   "title": "스팸 클래식 200g 9개",
-   "price": 20710,
-   "image": "https://gdimg.gmarket.co.kr/1552234801/goodsimage",
-   "sentAt": "2026-11-04T11:01:23.598+09:00",
-   "saving": 14,
-   "baseline": 23990,
-   "baselineNote": "995곳 중 최저",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=1552234801",
    "web": true
   }
  ]
