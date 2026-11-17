@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-17T14:58:24.847+09:00",
+ "updated": "2026-11-17T15:03:51.886+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "6810401068",
+   "mall": "11번가",
+   "title": "빙그레 바나나맛 딸기맛 우유 미니 120ml 24팩+24팩 골라담기",
+   "price": 27460,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/6/4/5/3/8/3/uGObJ/4277645383_241428858.webp",
+   "sentAt": "2026-11-17T15:03:51.886+09:00",
+   "saving": 12,
+   "baseline": 31220,
+   "baselineNote": "판매글 4곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 4곳 최저가",
+     "price": 31220
+    }
+   ],
+   "link": "http://app.ac/RqnQNN243",
+   "web": true
+  },
   {
    "uid": "4947573730",
    "mall": "지마켓",
@@ -13552,25 +13571,6 @@
     }
    ],
    "link": "http://app.ac/z3MeksJ53",
-   "web": true
-  },
-  {
-   "uid": "1718490745",
-   "mall": "쿠팡",
-   "title": "LG 2025 그램 AI 16 Core Ultra5",
-   "price": 1649500,
-   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/538193623322694-c63a0de8-6d6b-4f52-a368-b7e878cce059.jpg",
-   "sentAt": "2026-11-04T11:48:40.919+09:00",
-   "saving": 17,
-   "baseline": 1999000,
-   "baselineNote": "판매글 11곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 11곳 최저가",
-     "price": 1999000
-    }
-   ],
-   "link": "https://link.coupang.com/a/iowucZZwnQ",
    "web": true
   }
  ]
