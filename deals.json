@@ -1,7 +1,111 @@
 {
- "updated": "2026-11-17T15:52:03.608+09:00",
+ "updated": "2026-11-17T15:58:52.380+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6329979221",
+   "mall": "롯데온",
+   "title": "네이비 로고자수 면 긴팔카라티셔츠 WHTS5C331N2",
+   "price": 66770,
+   "image": "https://contents.lotteon.com/itemimage/20260908143443/LO/14/49/89/57/18/bndl_img/LO1449895718_1.jpg",
+   "sentAt": "2026-11-17T15:58:51.821+09:00",
+   "saving": 37,
+   "baseline": 106460,
+   "baselineNote": "34곳 중 최저 · 무료배송",
+   "check": {
+    "market": 106460,
+    "malls": 34,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 80210
+   },
+   "spec": [
+    "남성용",
+    "카라넥"
+   ],
+   "comps": [
+    {
+     "name": "34곳 중 최저 · 무료배송",
+     "price": 106460
+    }
+   ],
+   "trend": [
+    {
+     "m": "26-09",
+     "p": 83040
+    },
+    {
+     "m": "26-10",
+     "p": 80210
+    },
+    {
+     "m": "26-11",
+     "p": 83980
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F706333693",
+     "price": 106460,
+     "ship": 0
+    },
+    {
+     "mall": "하프클럽",
+     "code": "TZ6171",
+     "id": "441777131",
+     "price": 106470,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2793298377",
+     "price": 144710,
+     "ship": 3500
+    },
+    {
+     "mall": "현대Hmall",
+     "code": "ED907",
+     "id": "2255436263",
+     "price": 146170,
+     "ship": 3500
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4877770062",
+     "price": 147170,
+     "ship": 3500
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000889851548",
+     "price": 149312,
+     "ship": 3500
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9679816687",
+     "price": 152460,
+     "ship": 3500
+    },
+    {
+     "mall": "주식회사 신세계라이브쇼핑",
+     "code": "TRB03",
+     "id": "1007006156",
+     "price": 157170,
+     "ship": 3500
+    }
+   ],
+   "link": "http://app.ac/Hbpp3Ml03"
+  },
   {
    "uid": "9514054273",
    "mall": "쿠팡",
@@ -3293,24 +3397,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=1677460336"
-  },
-  {
-   "uid": "3274577832",
-   "mall": "쿠팡",
-   "title": "삼립 돌아온 로켓단 초코롤 85g",
-   "price": 860,
-   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/426743633513770-840bf65d-38b5-4e16-8eb9-dbd770bc1cfc.jpg",
-   "sentAt": "2026-11-13T18:42:43.115+09:00",
-   "saving": 49,
-   "baseline": 1680,
-   "baselineNote": "판매글 3곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 3곳 최저가",
-     "price": 1680
-    }
-   ],
-   "link": "https://link.coupang.com/a/hS0IyykAdU"
   }
  ]
 }
