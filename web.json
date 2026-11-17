@@ -1,7 +1,157 @@
 {
- "updated": "2026-11-18T00:09:05.898+09:00",
+ "updated": "2026-11-18T07:07:33.434+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "8433271003",
+   "mall": "쿠팡",
+   "title": "해태htb 갈배사이다 제로, 185ml, 30개",
+   "price": 9020,
+   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/5279/dd27fdb9bbb4c55d7d5507f97c5e04650bcfbe098f10baba1841520eefd9.jpg",
+   "sentAt": "2026-11-18T07:07:33.434+09:00",
+   "saving": 19,
+   "baseline": 11140,
+   "baselineNote": "44곳 중 최저 · 무료배송",
+   "unit": {
+    "label": "개당",
+    "value": 301
+   },
+   "check": {
+    "market": 11140,
+    "malls": 44,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 9160
+   },
+   "review": {
+    "score": 4.8,
+    "count": 235,
+    "low": 0
+   },
+   "spec": [
+    "캔류",
+    "제로슈거"
+   ],
+   "comps": [
+    {
+     "name": "44곳 중 최저 · 무료배송",
+     "price": 11140
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 11140
+    },
+    {
+     "m": "26-01",
+     "p": 11000
+    },
+    {
+     "m": "26-02",
+     "p": 10040
+    },
+    {
+     "m": "26-03",
+     "p": 11000
+    },
+    {
+     "m": "26-04",
+     "p": 10400
+    },
+    {
+     "m": "26-05",
+     "p": 11000
+    },
+    {
+     "m": "26-06",
+     "p": 11000
+    },
+    {
+     "m": "26-07",
+     "p": 10050
+    },
+    {
+     "m": "26-08",
+     "p": 11000
+    },
+    {
+     "m": "26-09",
+     "p": 9160
+    },
+    {
+     "m": "26-10",
+     "p": 10790
+    },
+    {
+     "m": "26-11",
+     "p": 11140
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "주식회사 신세계라이브쇼핑",
+     "code": "TRB03",
+     "id": "63907668",
+     "price": 11140,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4699926092",
+     "price": 11430,
+     "ship": 0
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "E536075257",
+     "price": 11980,
+     "ship": 0
+    },
+    {
+     "mall": "W쇼핑",
+     "code": "TZ9CF",
+     "id": "17584317",
+     "price": 13400,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "7301258361",
+     "price": 13540,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2456757606",
+     "price": 14070,
+     "ship": 0
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000550509734",
+     "price": 14100,
+     "ship": 0
+    },
+    {
+     "mall": "신세계몰",
+     "code": "ED901",
+     "id": "1000550509734",
+     "price": 14100,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/gpsa4StInQ",
+   "web": true
+  },
   {
    "uid": "3573966653",
    "mall": "지마켓",
@@ -13602,25 +13752,6 @@
     }
    ],
    "link": "http://app.ac/xAVqHc523",
-   "web": true
-  },
-  {
-   "uid": "6445019483",
-   "mall": "11번가",
-   "title": "삼성전자 138.7cm UHD 4K LED 비즈니스TV LH55BEHHLGFXKR",
-   "price": 544530,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/pd/v2/2/7/7/3/4/5/bSlaH/5953277345_B.webp",
-   "sentAt": "2026-11-04T13:55:09.723+09:00",
-   "saving": 19,
-   "baseline": 672790,
-   "baselineNote": "판매글 32곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 32곳 최저가",
-     "price": 672790
-    }
-   ],
-   "link": "http://app.ac/MtVyZHM93",
    "web": true
   }
  ]
