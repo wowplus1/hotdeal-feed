@@ -1,7 +1,153 @@
 {
- "updated": "2026-11-17T14:22:35.419+09:00",
+ "updated": "2026-11-17T14:58:24.847+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "4947573730",
+   "mall": "지마켓",
+   "title": "백설 올리브유 900ml 2개",
+   "price": 18810,
+   "image": "https://gdimg.gmarket.co.kr/4686660169/goodsimage",
+   "sentAt": "2026-11-17T14:58:24.847+09:00",
+   "saving": 10,
+   "baseline": 20900,
+   "baselineNote": "336곳 중 최저 · 무료배송",
+   "unit": {
+    "label": "개당",
+    "value": 9405
+   },
+   "check": {
+    "market": 20900,
+    "malls": 336,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 19900
+   },
+   "review": {
+    "score": 4.7,
+    "count": 1693,
+    "low": 10
+   },
+   "comps": [
+    {
+     "name": "336곳 중 최저 · 무료배송",
+     "price": 20900
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 22620
+    },
+    {
+     "m": "26-01",
+     "p": 21720
+    },
+    {
+     "m": "26-02",
+     "p": 22540
+    },
+    {
+     "m": "26-03",
+     "p": 21420
+    },
+    {
+     "m": "26-04",
+     "p": 21500
+    },
+    {
+     "m": "26-05",
+     "p": 19900
+    },
+    {
+     "m": "26-06",
+     "p": 19900
+    },
+    {
+     "m": "26-07",
+     "p": 22200
+    },
+    {
+     "m": "26-08",
+     "p": 22200
+    },
+    {
+     "m": "26-09",
+     "p": 20060
+    },
+    {
+     "m": "26-10",
+     "p": 23560
+    },
+    {
+     "m": "26-11",
+     "p": 22900
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4686660169",
+     "price": 20900,
+     "ship": 0
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F331934239",
+     "price": 25110,
+     "ship": 0
+    },
+    {
+     "mall": "롯데홈쇼핑",
+     "code": "ED903",
+     "id": "2791853517",
+     "price": 25950,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LI2791853517",
+     "price": 26510,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9752789313",
+     "price": 26800,
+     "ship": 0
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000753650264",
+     "price": 28365,
+     "ship": 0
+    },
+    {
+     "mall": "현대Hmall",
+     "code": "ED907",
+     "id": "2252747026",
+     "price": 28420,
+     "ship": 0
+    },
+    {
+     "mall": "하프클럽",
+     "code": "TZ6171",
+     "id": "410161408",
+     "price": 28750,
+     "ship": 0
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4686660169",
+   "web": true
+  },
   {
    "uid": "2900934882",
    "mall": "쿠팡",
@@ -13425,19 +13571,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iowucZZwnQ",
-   "web": true
-  },
-  {
-   "uid": "4587889635",
-   "mall": "쿠팡",
-   "title": "LG전자 2026 그램 프로 AI 16 코어Ultra5",
-   "price": 1759300,
-   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/114716160986719-2f422ffb-806d-4347-bb73-e233c5f54bac.jpg",
-   "sentAt": "2026-11-04T11:43:33.879+09:00",
-   "saving": 34,
-   "baseline": 2650500,
-   "baselineNote": "판매글 11곳 최저가",
-   "link": "https://link.coupang.com/a/f9BmhOjE0y",
    "web": true
   }
  ]
