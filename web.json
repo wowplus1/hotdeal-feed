@@ -1,7 +1,132 @@
 {
- "updated": "2026-11-17T10:21:39.426+09:00",
+ "updated": "2026-11-17T11:03:18.444+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "3378702068",
+   "mall": "롯데온",
+   "title": "켈로그 에너지바 크런치넛/레드베리 12개 + 추가증정",
+   "price": 10420,
+   "image": "https://contents.lotteon.com/itemimage/20261116110900/LO/28/07/17/93/06/_2/80/71/79/31/2/LO2807179306_2807179312_1.jpg",
+   "sentAt": "2026-11-17T11:03:18.444+09:00",
+   "saving": 11,
+   "baseline": 11750,
+   "baselineNote": "104곳 중 최저",
+   "check": {
+    "market": 11750,
+    "malls": 104
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": false,
+    "low": 8580
+   },
+   "review": {
+    "score": 4.6,
+    "count": 312,
+    "low": 2
+   },
+   "comps": [
+    {
+     "name": "104곳 중 최저",
+     "price": 11750
+    }
+   ],
+   "trend": [
+    {
+     "m": "26-04",
+     "p": 9640
+    },
+    {
+     "m": "26-05",
+     "p": 8900
+    },
+    {
+     "m": "26-06",
+     "p": 8960
+    },
+    {
+     "m": "26-07",
+     "p": 10080
+    },
+    {
+     "m": "26-08",
+     "p": 10080
+    },
+    {
+     "m": "26-09",
+     "p": 8580
+    },
+    {
+     "m": "26-10",
+     "p": 10686
+    },
+    {
+     "m": "26-11",
+     "p": 12382
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "C795346316",
+     "price": 11750,
+     "ship": 3000
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000048389295",
+     "price": 12053,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4252825450",
+     "price": 12530,
+     "ship": 0
+    },
+    {
+     "mall": "신세계몰",
+     "code": "ED901",
+     "id": "1000048389295",
+     "price": 12960,
+     "ship": 0
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000048389295",
+     "price": 12960,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LI2853617781",
+     "price": 13230,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "2886734320",
+     "price": 13420,
+     "ship": 0
+    },
+    {
+     "mall": "주식회사 신세계라이브쇼핑",
+     "code": "TRB03",
+     "id": "90720578",
+     "price": 13800,
+     "ship": 0
+    }
+   ],
+   "link": "http://app.ac/tAV5w9503",
+   "web": true
+  },
   {
    "uid": "8622523066",
    "mall": "쿠팡",
@@ -13181,20 +13306,6 @@
    "baselineNote": "26곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2826955382",
-   "web": true
-  },
-  {
-   "uid": "5871758054",
-   "mall": "11번가",
-   "title": "오리온 초코송이 50g, 12개",
-   "price": 8380,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/4018326702/B.webp?341030643",
-   "sentAt": "2026-11-04T07:49:29.936+09:00",
-   "saving": 15,
-   "baseline": 9900,
-   "baselineNote": "179곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "http://app.ac/2jpArNa83",
    "web": true
   }
  ]
