@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-17T14:02:51.210+09:00",
+ "updated": "2026-11-17T14:11:56.519+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6928403952",
+   "mall": "쿠팡",
+   "title": "컨피던스 비타민음료, 250ml, 30개",
+   "price": 12400,
+   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/1025_amir_coupang_oct_80k/5116/74434a02ece71d219667058c984c7cb349a52b507de60256045b693773a6.jpg",
+   "sentAt": "2026-11-17T14:11:55.926+09:00",
+   "saving": 26,
+   "baseline": 16830,
+   "baselineNote": "판매글 9곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 413
+   },
+   "comps": [
+    {
+     "name": "판매글 9곳 최저가",
+     "price": 16830
+    }
+   ],
+   "link": "https://link.coupang.com/a/iKgftMUPgy"
+  },
   {
    "uid": "4591058349",
    "mall": "쿠팡",
@@ -3165,24 +3187,6 @@
     }
    ],
    "link": "http://app.ac/AbGeZKl43"
-  },
-  {
-   "uid": "3027512040",
-   "mall": "토스쇼핑",
-   "title": "그린핑거 촉촉한 자연보습 워시, 320ml, 2개",
-   "price": 15500,
-   "image": "https://shopping.toss.im/live/temp/2026-09-23/72b9e938-ec5d-40f8-85dd-507b47ef6cd6.jpeg",
-   "sentAt": "2026-11-13T17:11:54.319+09:00",
-   "unit": {
-    "label": "개당",
-    "value": 7750
-   },
-   "alt": {
-    "price": 18600,
-    "where": "34곳 중 최저",
-    "ship": 0
-   },
-   "link": "https://toss.shopping/_m/v2lxQb4c"
   }
  ]
 }
