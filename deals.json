@@ -1,7 +1,80 @@
 {
- "updated": "2026-11-17T08:03:19.792+09:00",
+ "updated": "2026-11-17T09:22:27.723+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5861973031",
+   "mall": "쿠팡",
+   "title": "오리온 진한 디저트 케익 오뜨 치즈, 156g, 4개",
+   "price": 8560,
+   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/8def/d3f4fb5a01e01e650bc12e2d8edc15db86c27029797ce6af5e7589fda258.jpg",
+   "sentAt": "2026-11-17T09:22:26.896+09:00",
+   "saving": 48,
+   "baseline": 16370,
+   "baselineNote": "3곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 2140
+   },
+   "check": {
+    "market": 16370,
+    "malls": 3
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 9370
+   },
+   "comps": [
+    {
+     "name": "3곳 중 최저",
+     "price": 16370
+    }
+   ],
+   "trend": [
+    {
+     "m": "26-06",
+     "p": 9370
+    },
+    {
+     "m": "26-07",
+     "p": 9570
+    },
+    {
+     "m": "26-08",
+     "p": 10700
+    },
+    {
+     "m": "26-09",
+     "p": 11200
+    },
+    {
+     "m": "26-10",
+     "p": 14370
+    },
+    {
+     "m": "26-11",
+     "p": 15030
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4515632857",
+     "price": 16370,
+     "ship": 2500
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9741677963",
+     "price": 18900,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/hIIeAtEGsK"
+  },
   {
    "uid": "1930238860",
    "mall": "쿠팡",
@@ -2830,15 +2903,6 @@
     }
    ],
    "link": "http://app.ac/1EwKHzS13"
-  },
-  {
-   "uid": "3297329033",
-   "mall": "롯데온",
-   "title": "리큐 실내건조 세탁세제 시트러스향 2L*3개 + 450ml 추가증정",
-   "price": 11270,
-   "image": "https://contents.lotteon.com/itemimage/20260518164701/LO/26/81/66/40/12/_2/68/16/64/01/3/LO2681664012_2681664013_1.png",
-   "sentAt": "2026-11-13T11:09:13.521+09:00",
-   "link": "http://app.ac/gjwlLYa83"
   }
  ]
 }
