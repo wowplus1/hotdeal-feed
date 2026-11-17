@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-17T22:16:09.049+09:00",
+ "updated": "2026-11-18T00:09:05.898+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "3573966653",
+   "mall": "지마켓",
+   "title": "제주 달콤 노지감귤 9kg 로얄or소과랜덤",
+   "price": 8710,
+   "image": "https://gdimg.gmarket.co.kr/2230897307/goodsimage",
+   "sentAt": "2026-11-18T00:09:05.898+09:00",
+   "saving": 45,
+   "baseline": 15870,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": {
+    "label": "100g당",
+    "value": 97
+   },
+   "comps": [
+    {
+     "name": "판매글 5곳 최저가",
+     "price": 15870
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2230897307",
+   "web": true
+  },
   {
    "uid": "5038134452",
    "mall": "11번가",
@@ -13598,29 +13621,6 @@
     }
    ],
    "link": "http://app.ac/MtVyZHM93",
-   "web": true
-  },
-  {
-   "uid": "6797457249",
-   "mall": "지마켓",
-   "title": "그레인랩 고소한 99.9 무가당두유 40팩 1박스,",
-   "price": 13900,
-   "image": "https://gdimg.gmarket.co.kr/4503348010/goodsimage",
-   "sentAt": "2026-11-04T13:08:14.536+09:00",
-   "saving": 23,
-   "baseline": 17990,
-   "baselineNote": "판매글 15곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 348
-   },
-   "comps": [
-    {
-     "name": "판매글 15곳 최저가",
-     "price": 17990
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4503348010",
    "web": true
   }
  ]
