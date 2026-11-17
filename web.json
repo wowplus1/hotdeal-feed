@@ -1,7 +1,148 @@
 {
- "updated": "2026-11-17T11:03:18.444+09:00",
+ "updated": "2026-11-17T13:56:45.914+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "8959379718",
+   "mall": "쿠팡",
+   "title": "유한락스 후레쉬, 2L, 1개",
+   "price": 4090,
+   "image": "https://t3a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/2edf/121e6c952132dc088207ba80e95c642121f3fa791d5f02f30437ed1e0e0d.jpg",
+   "sentAt": "2026-11-17T13:56:45.914+09:00",
+   "saving": 12,
+   "baseline": 4650,
+   "baselineNote": "365곳 중 최저",
+   "check": {
+    "market": 4650,
+    "malls": 365
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": false,
+    "low": 4000
+   },
+   "review": {
+    "score": 4.8,
+    "count": 296,
+    "low": 2
+   },
+   "comps": [
+    {
+     "name": "365곳 중 최저",
+     "price": 4650
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 4210
+    },
+    {
+     "m": "26-01",
+     "p": 4280
+    },
+    {
+     "m": "26-02",
+     "p": 4110
+    },
+    {
+     "m": "26-03",
+     "p": 4000
+    },
+    {
+     "m": "26-04",
+     "p": 4010
+    },
+    {
+     "m": "26-05",
+     "p": 4000
+    },
+    {
+     "m": "26-06",
+     "p": 4080
+    },
+    {
+     "m": "26-07",
+     "p": 4090
+    },
+    {
+     "m": "26-08",
+     "p": 4190
+    },
+    {
+     "m": "26-09",
+     "p": 4520
+    },
+    {
+     "m": "26-10",
+     "p": 4520
+    },
+    {
+     "m": "26-11",
+     "p": 4650
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "B692992572",
+     "price": 4650,
+     "ship": 3000
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "1622989007",
+     "price": 4650,
+     "ship": 3000
+    },
+    {
+     "mall": "TU330D",
+     "code": "TU330D",
+     "id": "3121407971",
+     "price": 4700,
+     "ship": 3000
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "2440671860",
+     "price": 4810,
+     "ship": 3000
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LE1212577371",
+     "price": 5360,
+     "ship": 3000
+    },
+    {
+     "mall": "롯데백화점",
+     "code": "TLC16",
+     "id": "LE1212577371",
+     "price": 5360,
+     "ship": 3000
+    },
+    {
+     "mall": "신세계몰",
+     "code": "ED901",
+     "id": "1000560228235",
+     "price": 6120,
+     "ship": 3000
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000560228235",
+     "price": 6120,
+     "ship": 3000
+    }
+   ],
+   "link": "https://link.coupang.com/a/iKfa0bF3Dg",
+   "web": true
+  },
   {
    "uid": "3378702068",
    "mall": "롯데온",
@@ -13292,20 +13433,6 @@
    "baselineNote": "995곳 중 최저",
    "unit": "[object Object]",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=1552234801",
-   "web": true
-  },
-  {
-   "uid": "2810548633",
-   "mall": "지마켓",
-   "title": "오늘도 신동진 10kg 26년 햅쌀 옥구농협 상등급 단일품종",
-   "price": 27300,
-   "image": "https://gdimg.gmarket.co.kr/2826955382/goodsimage",
-   "sentAt": "2026-11-04T10:30:21.748+09:00",
-   "saving": 18,
-   "baseline": 33130,
-   "baselineNote": "26곳 중 최저 · 무료배송",
-   "unit": "[object Object]",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2826955382",
    "web": true
   }
  ]
