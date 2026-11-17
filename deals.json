@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-17T14:11:56.519+09:00",
+ "updated": "2026-11-17T14:47:40.307+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2572175529",
+   "mall": "롯데온",
+   "title": "울샴푸 실내건조 중성세제 오리지널 용기 1L*2개",
+   "price": 8750,
+   "image": "https://contents.lotteon.com/itemimage/20261113141522/LO/28/11/97/98/57/_2/81/19/79/85/8/LO2811979857_2811979858_1.png",
+   "sentAt": "2026-11-17T14:47:39.685+09:00",
+   "saving": 21,
+   "baseline": 11130,
+   "baselineNote": "판매글 10곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 4375
+   },
+   "comps": [
+    {
+     "name": "판매글 10곳 최저가",
+     "price": 11130
+    }
+   ],
+   "link": "http://app.ac/9EwLu4S63"
+  },
   {
    "uid": "6928403952",
    "mall": "쿠팡",
@@ -3165,28 +3187,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=1871026404"
-  },
-  {
-   "uid": "6236890136",
-   "mall": "롯데온",
-   "title": "서울우유 커피타운 아메리카노 350ml 20개-커피음료 블랙커피 원두 커피",
-   "price": 16720,
-   "image": "https://contents.lotteon.com/itemimage/20261110093430/LO/25/35/23/34/64/_2/53/52/33/46/5/LO2535233464_2535233465_1.jpg",
-   "sentAt": "2026-11-13T17:31:39.000+09:00",
-   "saving": 31,
-   "baseline": 24210,
-   "baselineNote": "판매글 34곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 836
-   },
-   "comps": [
-    {
-     "name": "판매글 34곳 최저가",
-     "price": 24210
-    }
-   ],
-   "link": "http://app.ac/AbGeZKl43"
   }
  ]
 }
