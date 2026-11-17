@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-17T18:17:55.228+09:00",
+ "updated": "2026-11-17T19:52:33.931+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9720480733",
+   "mall": "롯데온",
+   "title": "당일손질 냉장 닭다리살 1kg+1kg",
+   "price": 18820,
+   "image": "https://contents.lotteon.com/itemimage/20261116174007/LO/28/15/78/63/83/_2/81/57/86/38/4/LO2815786383_2815786384_1.jpg",
+   "sentAt": "2026-11-17T19:52:33.082+09:00",
+   "saving": 47,
+   "baseline": 35570,
+   "baselineNote": "판매글 12곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 12곳 최저가",
+     "price": 35570
+    }
+   ],
+   "link": "http://app.ac/O3Ce0zJ63"
+  },
   {
    "uid": "9585257825",
    "mall": "쿠팡",
@@ -3366,28 +3384,6 @@
     }
    ],
    "link": "http://app.ac/7bGeavl83"
-  },
-  {
-   "uid": "1759224645",
-   "mall": "지마켓",
-   "title": "레쓰비 마일드 캔커피 175mlx30캔 3박스",
-   "price": 25900,
-   "image": "https://gdimg.gmarket.co.kr/4828804486/goodsimage",
-   "sentAt": "2026-11-13T19:41:42.459+09:00",
-   "saving": 23,
-   "baseline": 33730,
-   "baselineNote": "판매글 12곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 863
-   },
-   "comps": [
-    {
-     "name": "판매글 12곳 최저가",
-     "price": 33730
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4828804486"
   }
  ]
 }
