@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-17T12:52:22.209+09:00",
+ "updated": "2026-11-17T13:37:17.710+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4013898697",
+   "mall": "쿠팡",
+   "title": "해태htb 갈배사이다 355ml 24개",
+   "price": 10300,
+   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/1a37/20b87b6b721eb1c17839ccb8de429282fefef017fa3ae9fb3bf999a6c7e0.jpg",
+   "sentAt": "2026-11-17T13:37:17.108+09:00",
+   "unit": {
+    "label": "개당",
+    "value": 429
+   },
+   "link": "https://link.coupang.com/a/hV7OL25ShM"
+  },
   {
    "uid": "9086535662",
    "mall": "롯데온",
@@ -3251,28 +3264,6 @@
     }
    ],
    "link": "http://app.ac/HtVvXQM73"
-  },
-  {
-   "uid": "3020853623",
-   "mall": "지마켓",
-   "title": "김정문알로에 워터쿨링 선스틱 23g 2개",
-   "price": 11890,
-   "image": "https://gdimg.gmarket.co.kr/2442814798/goodsimage",
-   "sentAt": "2026-11-13T15:56:29.802+09:00",
-   "saving": 31,
-   "baseline": 17200,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 5945
-   },
-   "comps": [
-    {
-     "name": "판매글 3곳 최저가",
-     "price": 17200
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2442814798"
   }
  ]
 }
