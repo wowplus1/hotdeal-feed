@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-17T10:51:50.297+09:00",
+ "updated": "2026-11-17T11:23:09.576+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1594024918",
+   "mall": "지마켓",
+   "title": "생표고버섯 못난이 1kg",
+   "price": 5210,
+   "image": "https://gdimg.gmarket.co.kr/4902021649/goodsimage",
+   "sentAt": "2026-11-17T11:23:08.746+09:00",
+   "saving": 56,
+   "baseline": 11910,
+   "baselineNote": "판매글 9곳 최저가",
+   "unit": {
+    "label": "100g당",
+    "value": 521
+   },
+   "comps": [
+    {
+     "name": "판매글 9곳 최저가",
+     "price": 11910
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4902021649"
+  },
   {
    "uid": "5581851052",
    "mall": "11번가",
@@ -3194,28 +3216,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iypCuMFWW4"
-  },
-  {
-   "uid": "2015119824",
-   "mall": "지마켓",
-   "title": "국내산 대봉감 3kg",
-   "price": 6170,
-   "image": "https://gdimg.gmarket.co.kr/4884322967/goodsimage",
-   "sentAt": "2026-11-13T14:52:44.471+09:00",
-   "saving": 31,
-   "baseline": 8980,
-   "baselineNote": "판매글 10곳 최저가",
-   "unit": {
-    "label": "100g당",
-    "value": 206
-   },
-   "comps": [
-    {
-     "name": "판매글 10곳 최저가",
-     "price": 8980
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4884322967"
   }
  ]
 }
