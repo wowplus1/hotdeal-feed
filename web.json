@@ -1,7 +1,161 @@
 {
- "updated": "2026-11-16T22:23:37.827+09:00",
+ "updated": "2026-11-17T10:21:39.426+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "8622523066",
+   "mall": "쿠팡",
+   "title": "오뚜기 콕콕콕 라면볶이 컵라면 120g, 12개",
+   "price": 11790,
+   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/119211818321484-a0bd185b-7882-42d0-8b01-865d36f01c86.jpg",
+   "sentAt": "2026-11-17T10:21:39.426+09:00",
+   "saving": 15,
+   "baseline": 13880,
+   "baselineNote": "1029곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 983
+   },
+   "check": {
+    "market": 13880,
+    "malls": 1029,
+    "delivered": 14690
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": false,
+    "low": 8390
+   },
+   "review": {
+    "score": 4.7,
+    "count": 367,
+    "low": 4
+   },
+   "spec": [
+    "볶음라면",
+    "기본면"
+   ],
+   "comps": [
+    {
+     "name": "1029곳 중 최저",
+     "price": 13880
+    },
+    {
+     "name": "배송비까지 치면",
+     "price": 14690
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 12730
+    },
+    {
+     "m": "26-01",
+     "p": 12730
+    },
+    {
+     "m": "26-02",
+     "p": 8500
+    },
+    {
+     "m": "26-03",
+     "p": 8390
+    },
+    {
+     "m": "26-04",
+     "p": 8400
+    },
+    {
+     "m": "26-05",
+     "p": 8400
+    },
+    {
+     "m": "26-06",
+     "p": 8400
+    },
+    {
+     "m": "26-07",
+     "p": 8400
+    },
+    {
+     "m": "26-08",
+     "p": 8400
+    },
+    {
+     "m": "26-09",
+     "p": 10270
+    },
+    {
+     "m": "26-10",
+     "p": 13180
+    },
+    {
+     "m": "26-11",
+     "p": 13180
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "7271143708",
+     "price": 13880,
+     "ship": 3000
+    },
+    {
+     "mall": "배민상회",
+     "code": "TWB192",
+     "id": "294099",
+     "price": 13890,
+     "ship": 3000
+    },
+    {
+     "mall": "TZA0C",
+     "code": "TZA0C",
+     "id": "13831435468",
+     "price": 14100,
+     "ship": 3000
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4813238722",
+     "price": 14370,
+     "ship": 3000
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F620815275",
+     "price": 14370,
+     "ship": 3000
+    },
+    {
+     "mall": "SK스토아",
+     "code": "TSB275",
+     "id": "21713793",
+     "price": 14690,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2681979038",
+     "price": 15350,
+     "ship": 0
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000829012781",
+     "price": 15390,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/iJZN4wV1TE",
+   "web": true
+  },
   {
    "uid": "8534946572",
    "mall": "쿠팡",
@@ -13041,19 +13195,6 @@
    "baselineNote": "179곳 중 최저 · 무료배송",
    "unit": "[object Object]",
    "link": "http://app.ac/2jpArNa83",
-   "web": true
-  },
-  {
-   "uid": "6793074581",
-   "mall": "쿠팡",
-   "title": "헬시오리진스 피크노제놀 100mg 베지 캡슐 120정*1개",
-   "price": 39120,
-   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/image_audit/prod/3c9b44ea-e769-4778-951e-9ab470f4323d_fixing_v2.png",
-   "sentAt": "2026-11-04T06:59:22.444+09:00",
-   "saving": 60,
-   "baseline": 97290,
-   "baselineNote": "21곳 중 최저 · 무료배송",
-   "link": "https://link.coupang.com/a/iobQV1J5B6",
    "web": true
   }
  ]
