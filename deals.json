@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-17T21:43:13.767+09:00",
+ "updated": "2026-11-18T07:31:12.612+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5640942735",
+   "mall": "쿠팡",
+   "title": "코카콜라 오리지널, 490ml, 24개",
+   "price": 19840,
+   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2918734753703087-096f0cda-b353-4cae-b267-5146a90df5ba.jpg",
+   "sentAt": "2026-11-18T07:31:11.761+09:00",
+   "saving": 30,
+   "baseline": 28300,
+   "baselineNote": "판매글 34곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 827
+   },
+   "comps": [
+    {
+     "name": "판매글 34곳 최저가",
+     "price": 28300
+    }
+   ],
+   "link": "https://link.coupang.com/a/iLsyrVzII0"
+  },
   {
    "uid": "4456192715",
    "mall": "11번가",
@@ -3492,28 +3514,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iEOegRaWjI"
-  },
-  {
-   "uid": "2735157210",
-   "mall": "쿠팡",
-   "title": "몬스터에너지 드링크 그린, 500ml, 24개",
-   "price": 35890,
-   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/01/12/11/3/5d70050e-45dc-47c8-a75b-326d20d88352.jpg",
-   "sentAt": "2026-11-14T07:21:39.509+09:00",
-   "saving": 33,
-   "baseline": 53780,
-   "baselineNote": "판매글 19곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 1495
-   },
-   "comps": [
-    {
-     "name": "판매글 19곳 최저가",
-     "price": 53780
-    }
-   ],
-   "link": "https://link.coupang.com/a/iEOeBYznW0"
   }
  ]
 }
