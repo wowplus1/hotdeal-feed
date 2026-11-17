@@ -1,7 +1,152 @@
 {
- "updated": "2026-11-17T10:32:21.624+09:00",
+ "updated": "2026-11-17T10:36:25.062+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1977677262",
+   "mall": "쿠팡",
+   "title": "코카콜라 제로 제로 무라벨, 370ml, 18개",
+   "price": 13870,
+   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/763923949485522-786b0053-fb3b-4733-a8ae-e446ac716c29.jpg",
+   "sentAt": "2026-11-17T10:36:24.516+09:00",
+   "saving": 23,
+   "baseline": 17990,
+   "baselineNote": "25곳 중 최저 · 무료배송",
+   "unit": {
+    "label": "개당",
+    "value": 771
+   },
+   "check": {
+    "market": 17990,
+    "malls": 25,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": false,
+    "low": 12720
+   },
+   "spec": [
+    "페트",
+    "제로슈거, 무라벨",
+    "0kcal"
+   ],
+   "comps": [
+    {
+     "name": "25곳 중 최저 · 무료배송",
+     "price": 17990
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 13760
+    },
+    {
+     "m": "26-01",
+     "p": 14100
+    },
+    {
+     "m": "26-02",
+     "p": 15890
+    },
+    {
+     "m": "26-03",
+     "p": 13140
+    },
+    {
+     "m": "26-04",
+     "p": 14960
+    },
+    {
+     "m": "26-05",
+     "p": 14960
+    },
+    {
+     "m": "26-06",
+     "p": 15040
+    },
+    {
+     "m": "26-07",
+     "p": 12720
+    },
+    {
+     "m": "26-08",
+     "p": 13470
+    },
+    {
+     "m": "26-09",
+     "p": 15040
+    },
+    {
+     "m": "26-10",
+     "p": 16310
+    },
+    {
+     "m": "26-11",
+     "p": 16520
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "8849045463",
+     "price": 17990,
+     "ship": 0
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "E928359153",
+     "price": 18000,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4351286183",
+     "price": 18010,
+     "ship": 0
+    },
+    {
+     "mall": "주식회사 신세계라이브쇼핑",
+     "code": "TRB03",
+     "id": "79082548",
+     "price": 18640,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2793659515",
+     "price": 20230,
+     "ship": 0
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000674563344",
+     "price": 20900,
+     "ship": 0
+    },
+    {
+     "mall": "신세계몰",
+     "code": "ED901",
+     "id": "1000674563344",
+     "price": 20900,
+     "ship": 0
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000674563344",
+     "price": 20900,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/gkKwVf9qSq"
+  },
   {
    "uid": "8227523337",
    "mall": "11번가",
@@ -3003,19 +3148,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4868345475"
-  },
-  {
-   "uid": "6670276415",
-   "mall": "토스쇼핑",
-   "title": "부산포차 꼬치어묵, 400g, 3봉",
-   "price": 10430,
-   "image": "https://shopping.toss.im/live/taca/ai/NmE0Yzk5/UkFySGthUFRZNlZsbUxKY1NWWGtyVnNpQ3I4SHZ3bTJsbkowbThTdm5RRT0.png",
-   "sentAt": "2026-11-13T13:52:56.160+09:00",
-   "unit": {
-    "label": "개당",
-    "value": 3477
-   },
-   "link": "https://toss.im/_m/XUJXCqyD"
   }
  ]
 }
