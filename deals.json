@@ -1,7 +1,151 @@
 {
- "updated": "2026-11-18T12:57:22.533+09:00",
+ "updated": "2026-11-18T13:58:25.984+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3902095704",
+   "mall": "11번가",
+   "title": "켈로그 첵스초코 컵시리얼, 40g, 12개",
+   "price": 9230,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/4922500742/B.webp?743951304",
+   "sentAt": "2026-11-18T13:58:25.202+09:00",
+   "saving": 26,
+   "baseline": 12510,
+   "baselineNote": "267곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 769
+   },
+   "check": {
+    "market": 12510,
+    "malls": 267
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": false,
+    "low": 6820
+   },
+   "review": {
+    "score": 4.9,
+    "count": 116,
+    "low": 0
+   },
+   "comps": [
+    {
+     "name": "267곳 중 최저",
+     "price": 12510
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 10140
+    },
+    {
+     "m": "26-01",
+     "p": 9500
+    },
+    {
+     "m": "26-02",
+     "p": 10140
+    },
+    {
+     "m": "26-03",
+     "p": 10140
+    },
+    {
+     "m": "26-04",
+     "p": 10140
+    },
+    {
+     "m": "26-05",
+     "p": 11400
+    },
+    {
+     "m": "26-06",
+     "p": 11340
+    },
+    {
+     "m": "26-07",
+     "p": 7220
+    },
+    {
+     "m": "26-08",
+     "p": 7220
+    },
+    {
+     "m": "26-09",
+     "p": 6820
+    },
+    {
+     "m": "26-10",
+     "p": 11230
+    },
+    {
+     "m": "26-11",
+     "p": 11920
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4653672084",
+     "price": 12510,
+     "ship": 3000
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F254879040",
+     "price": 12650,
+     "ship": 0
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000048389279",
+     "price": 12756,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9665243106",
+     "price": 13350,
+     "ship": 0
+    },
+    {
+     "mall": "신세계몰",
+     "code": "ED901",
+     "id": "1000048389279",
+     "price": 13716,
+     "ship": 0
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000048389279",
+     "price": 13716,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2791327862",
+     "price": 14870,
+     "ship": 0
+    },
+    {
+     "mall": "롯데홈쇼핑",
+     "code": "ED903",
+     "id": "2785389039",
+     "price": 15050,
+     "ship": 0
+    }
+   ],
+   "link": "http://app.ac/gAViMa513"
+  },
   {
    "uid": "6063317362",
    "mall": "토스쇼핑",
@@ -3704,19 +3848,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/hjVXtanupw"
-  },
-  {
-   "uid": "8615859552",
-   "mall": "쿠팡",
-   "title": "레이즈 더블 크런치 바베큐향 감자칩 60g 6개",
-   "price": 8300,
-   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/252350324449940-4389440c-de34-4a95-ae7f-731b3c248c49.jpg",
-   "sentAt": "2026-11-15T09:26:54.748+09:00",
-   "unit": {
-    "label": "개당",
-    "value": 1383
-   },
-   "link": "https://link.coupang.com/a/iGB4npLHCm"
   }
  ]
 }
