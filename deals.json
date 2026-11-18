@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-18T08:21:55.868+09:00",
+ "updated": "2026-11-18T09:27:09.693+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4514302731",
+   "mall": "토스쇼핑",
+   "title": "배스킨라빈스 쫀떡궁합 파이, 264g, 3개",
+   "price": 9908,
+   "image": "https://shopping.toss.im/live/temp/2024-10-23/4a01685e-d2aa-41c0-98fb-dcc237575d75.jpeg",
+   "sentAt": "2026-11-18T09:27:08.706+09:00",
+   "saving": 37,
+   "baseline": 15700,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 3303
+   },
+   "comps": [
+    {
+     "name": "판매글 5곳 최저가",
+     "price": 15700
+    }
+   ],
+   "link": "https://toss.shopping/_m/JaZF1CH6"
+  },
   {
    "uid": "2615627922",
    "mall": "쿠팡",
@@ -3598,24 +3620,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/f9AyoiTqEK"
-  },
-  {
-   "uid": "4732001891",
-   "mall": "롯데온",
-   "title": "진도담은 꽃송이미역 30g X 6EA",
-   "price": 8150,
-   "image": "https://contents.lotteon.com/itemimage/20260807140617/LO/26/15/25/19/22/_2/61/52/51/92/3/LO2615251922_2615251923_1.jpg",
-   "sentAt": "2026-11-14T12:46:30.665+09:00",
-   "saving": 24,
-   "baseline": 10680,
-   "baselineNote": "판매글 3곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 3곳 최저가",
-     "price": 10680
-    }
-   ],
-   "link": "http://app.ac/X3MtrpJ33"
   }
  ]
 }
