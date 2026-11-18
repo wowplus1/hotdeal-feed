@@ -1,7 +1,103 @@
 {
- "updated": "2026-11-18T18:31:46.115+09:00",
+ "updated": "2026-11-18T18:37:21.923+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "2194054523",
+   "mall": "하이마트",
+   "title": "엡손 컬러 무한잉크 복합기 스터디 메이트 L3310 유선 USB, 정품 잉크 포함",
+   "price": 134100,
+   "image": "https://static2.e-himart.co.kr/contents/goods/00/69/89/12/57/0069891257__L3310__M_640_640.jpg",
+   "sentAt": "2026-11-18T18:37:21.923+09:00",
+   "saving": 10,
+   "baseline": 149000,
+   "baselineNote": "47곳 중 최저 · 무료배송",
+   "check": {
+    "market": 149000,
+    "malls": 47,
+    "ship": 0
+   },
+   "comps": [
+    {
+     "name": "47곳 중 최저 · 무료배송",
+     "price": 149000
+    }
+   ],
+   "trend": [
+    {
+     "m": "26-09",
+     "p": 159000
+    },
+    {
+     "m": "26-10",
+     "p": 149000
+    },
+    {
+     "m": "26-11",
+     "p": 149000
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "하이마트",
+     "code": "TJ418",
+     "id": "0069891257",
+     "price": 149000,
+     "ship": 0
+    },
+    {
+     "mall": "(주)요피씨인터내셔널",
+     "code": "PU502",
+     "id": "5749630447",
+     "price": 175900,
+     "ship": 4000
+    },
+    {
+     "mall": "TU72F2",
+     "code": "TU72F2",
+     "id": "13715032777",
+     "price": 179000,
+     "ship": 0
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000870251879",
+     "price": 179000,
+     "ship": 0
+    },
+    {
+     "mall": "오늘의집",
+     "code": "TU710C",
+     "id": "4223527-31798135",
+     "price": 179000,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9548594545",
+     "price": 179000,
+     "ship": 0
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000870251879",
+     "price": 179000,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2745588489",
+     "price": 179000,
+     "ship": 0
+    }
+   ],
+   "link": "http://app.ac/83CL2aJ93",
+   "web": true
+  },
   {
    "uid": "5694618261",
    "mall": "롯데온",
@@ -13914,42 +14010,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/ipeD16Vth6",
-   "web": true
-  },
-  {
-   "uid": "9328484341",
-   "mall": "지마켓",
-   "title": "삼성전자 갤럭시북6 NT740VJQ-A51A",
-   "price": 1189000,
-   "image": "https://gdimg.gmarket.co.kr/4868345475/goodsimage",
-   "sentAt": "2026-11-04T22:04:18.012+09:00",
-   "saving": 23,
-   "baseline": 1548970,
-   "baselineNote": "47곳 중 최저",
-   "check": {
-    "market": 1548970,
-    "malls": 47,
-    "ship": 5000,
-    "delivered": 1553970
-   },
-   "spec": [
-    "노트북",
-    "35.6cm(14인치)",
-    "1.35kg",
-    "최대 25시간",
-    "OS미포함(프리도스)"
-   ],
-   "comps": [
-    {
-     "name": "47곳 중 최저",
-     "price": 1548970
-    },
-    {
-     "name": "배송비 5,000원 포함",
-     "price": 1553970
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4868345475",
    "web": true
   }
  ]
