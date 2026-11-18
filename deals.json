@@ -1,7 +1,152 @@
 {
- "updated": "2026-11-19T07:18:19.764+09:00",
+ "updated": "2026-11-19T08:37:14.983+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1534164514",
+   "mall": "쿠팡",
+   "title": "광동 밀싹 보리차 음료 500ml 24개",
+   "price": 13850,
+   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/579571108493278-688baf92-c81f-4677-bcbe-a622b4ccaea3.jpg",
+   "sentAt": "2026-11-19T08:37:14.168+09:00",
+   "saving": 21,
+   "baseline": 17590,
+   "baselineNote": "79곳 중 최저 · 무료배송",
+   "unit": {
+    "label": "개당",
+    "value": 577
+   },
+   "check": {
+    "market": 17590,
+    "malls": 79,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": false,
+    "low": 13300
+   },
+   "review": {
+    "score": 4.9,
+    "count": 109,
+    "low": 0
+   },
+   "comps": [
+    {
+     "name": "79곳 중 최저 · 무료배송",
+     "price": 17590
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 15140
+    },
+    {
+     "m": "26-01",
+     "p": 14080
+    },
+    {
+     "m": "26-02",
+     "p": 13300
+    },
+    {
+     "m": "26-03",
+     "p": 13970
+    },
+    {
+     "m": "26-04",
+     "p": 15190
+    },
+    {
+     "m": "26-05",
+     "p": 16830
+    },
+    {
+     "m": "26-06",
+     "p": 16630
+    },
+    {
+     "m": "26-07",
+     "p": 14780
+    },
+    {
+     "m": "26-08",
+     "p": 15880
+    },
+    {
+     "m": "26-09",
+     "p": 14870
+    },
+    {
+     "m": "26-10",
+     "p": 17590
+    },
+    {
+     "m": "26-11",
+     "p": 17590
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2295849187",
+     "price": 17590,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4273599735",
+     "price": 18270,
+     "ship": 0
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "E851306556",
+     "price": 18270,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "7364356952",
+     "price": 18290,
+     "ship": 0
+    },
+    {
+     "mall": "현대Hmall",
+     "code": "ED907",
+     "id": "2226779705",
+     "price": 18840,
+     "ship": 0
+    },
+    {
+     "mall": "주식회사 신세계라이브쇼핑",
+     "code": "TRB03",
+     "id": "75560362",
+     "price": 19230,
+     "ship": 0
+    },
+    {
+     "mall": "SK스토아",
+     "code": "TSB275",
+     "id": "44985367",
+     "price": 19290,
+     "ship": 0
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000607458292",
+     "price": 19847,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/iNcaEvyDhk"
+  },
   {
    "uid": "8104737097",
    "mall": "쿠팡",
@@ -3756,28 +3901,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iIpj3A4XAW"
-  },
-  {
-   "uid": "5648267955",
-   "mall": "쿠팡",
-   "title": "롯데웰푸드 크런키 초콜릿 34g 12개",
-   "price": 10330,
-   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/17e0/fbd8a68185e665826e4d0ec09fda854dcd6deae06cdd2a2e5406668ce7d2.jpg",
-   "sentAt": "2026-11-16T10:51:52.150+09:00",
-   "saving": 26,
-   "baseline": 13970,
-   "baselineNote": "판매글 32곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 861
-   },
-   "comps": [
-    {
-     "name": "판매글 32곳 최저가",
-     "price": 13970
-    }
-   ],
-   "link": "https://link.coupang.com/a/hnlQePlriu"
   }
  ]
 }
