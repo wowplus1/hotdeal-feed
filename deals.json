@@ -1,7 +1,79 @@
 {
- "updated": "2026-11-19T08:37:14.983+09:00",
+ "updated": "2026-11-19T08:55:49.978+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3986351934",
+   "mall": "쿠팡",
+   "title": "클룹 오프아워 라임브리즈 350ml, 6개",
+   "price": 7910,
+   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/53119215622157-8a60fb62-8497-4a42-9c56-981130cd9655.jpg",
+   "sentAt": "2026-11-19T08:55:49.302+09:00",
+   "saving": 56,
+   "baseline": 18000,
+   "baselineNote": "4곳 중 최저 · 무료배송",
+   "unit": {
+    "label": "개당",
+    "value": 1318
+   },
+   "check": {
+    "market": 18000,
+    "malls": 4,
+    "ship": 0
+   },
+   "comps": [
+    {
+     "name": "4곳 중 최저 · 무료배송",
+     "price": 18000
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F708313879",
+     "price": 18000,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9692109519",
+     "price": 19230,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4869305180",
+     "price": 21470,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/iNdoNgGtno"
+  },
+  {
+   "uid": "9864450523",
+   "mall": "쿠팡",
+   "title": "델포유 오븐에 구운 십센치 파운드 케이크 50g 50g 25개",
+   "price": 14900,
+   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/ac64/8fc3231c6713ce3f7f7cf59723d5e009d149d64ea0d0d8bb9d48894d9606.jpg",
+   "sentAt": "2026-11-19T08:55:49.302+09:00",
+   "saving": 46,
+   "baseline": 27840,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 596
+   },
+   "comps": [
+    {
+     "name": "판매글 4곳 최저가",
+     "price": 27840
+    }
+   ],
+   "link": "https://link.coupang.com/a/iNdmMBEMCG"
+  },
   {
    "uid": "1534164514",
    "mall": "쿠팡",
@@ -3734,173 +3806,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iIybP7Rdkq"
-  },
-  {
-   "uid": "3810758365",
-   "mall": "11번가",
-   "title": "스프라이트 제로 190ml, 30개",
-   "price": 9500,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9735922251/B.webp?382988718",
-   "sentAt": "2026-11-16T11:43:18.967+09:00",
-   "saving": 38,
-   "baseline": 15300,
-   "baselineNote": "160곳 중 최저 · 무료배송",
-   "unit": {
-    "label": "개당",
-    "value": 317
-   },
-   "check": {
-    "market": 15300,
-    "malls": 160,
-    "ship": 0
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": false,
-    "low": 7820
-   },
-   "review": {
-    "score": 4.8,
-    "count": 213,
-    "low": 2
-   },
-   "comps": [
-    {
-     "name": "160곳 중 최저 · 무료배송",
-     "price": 15300
-    }
-   ],
-   "trend": [
-    {
-     "m": "25-12",
-     "p": 12520
-    },
-    {
-     "m": "26-01",
-     "p": 11090
-    },
-    {
-     "m": "26-02",
-     "p": 14110
-    },
-    {
-     "m": "26-03",
-     "p": 10360
-    },
-    {
-     "m": "26-04",
-     "p": 11600
-    },
-    {
-     "m": "26-05",
-     "p": 9680
-    },
-    {
-     "m": "26-06",
-     "p": 14160
-    },
-    {
-     "m": "26-07",
-     "p": 10700
-    },
-    {
-     "m": "26-08",
-     "p": 11660
-    },
-    {
-     "m": "26-09",
-     "p": 7820
-    },
-    {
-     "m": "26-10",
-     "p": 12350
-    },
-    {
-     "m": "26-11",
-     "p": 15300
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "TYA5C",
-     "code": "TYA5C",
-     "id": "13486857635",
-     "price": 15300,
-     "ship": 0
-    },
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "E856571948",
-     "price": 15450,
-     "ship": 0
-    },
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "4289275738",
-     "price": 15460,
-     "ship": 0
-    },
-    {
-     "mall": "주식회사 신세계라이브쇼핑",
-     "code": "TRB03",
-     "id": "75836975",
-     "price": 15960,
-     "ship": 0
-    },
-    {
-     "mall": "롯데ON",
-     "code": "EE309",
-     "id": "LO2419661692",
-     "price": 16150,
-     "ship": 0
-    },
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "7887803078",
-     "price": 16520,
-     "ship": 0
-    },
-    {
-     "mall": "SSG.COM",
-     "code": "TN118",
-     "id": "1000805427858",
-     "price": 16740,
-     "ship": 0
-    },
-    {
-     "mall": "현대Hmall",
-     "code": "ED907",
-     "id": "2253772630",
-     "price": 16780,
-     "ship": 0
-    }
-   ],
-   "link": "http://app.ac/NqDccS283"
-  },
-  {
-   "uid": "9566227843",
-   "mall": "쿠팡",
-   "title": "리츠 샌드위치 크래커 초코 77g 3개",
-   "price": 2840,
-   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/235323958430510-9a61bc73-e4f1-4655-9501-d943a2463703.jpg",
-   "sentAt": "2026-11-16T11:23:29.460+09:00",
-   "saving": 59,
-   "baseline": 6873,
-   "baselineNote": "판매글 10곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 947
-   },
-   "comps": [
-    {
-     "name": "판매글 10곳 최저가",
-     "price": 6873
-    }
-   ],
-   "link": "https://link.coupang.com/a/iIpj3A4XAW"
   }
  ]
 }
