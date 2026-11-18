@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-18T12:16:57.031+09:00",
+ "updated": "2026-11-18T12:57:22.533+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6063317362",
+   "mall": "토스쇼핑",
+   "title": "에어보나 LED 스탠드, AB 578LS, 화이트, 1개",
+   "price": 8460,
+   "image": "https://shopping.toss.im/live/temp/2025-07-25/1226c7e7-f6ba-4b49-9895-1390ec796e69.jpeg",
+   "sentAt": "2026-11-18T12:57:21.743+09:00",
+   "saving": 57,
+   "baseline": 19570,
+   "baselineNote": "판매글 4곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 4곳 최저가",
+     "price": 19570
+    }
+   ],
+   "link": "https://toss.im/_m/Pg1oliwn"
+  },
   {
    "uid": "4481964100",
    "mall": "GS SHOP",
@@ -3699,15 +3717,6 @@
     "value": 1383
    },
    "link": "https://link.coupang.com/a/iGB4npLHCm"
-  },
-  {
-   "uid": "3942954156",
-   "mall": "11번가",
-   "title": "홈바이브 모노 스텐 유리찜기 올인원 스마트 쿠커 1.5L",
-   "price": 25900,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/8856845759/B.webp?167985264",
-   "sentAt": "2026-11-15T09:23:38.667+09:00",
-   "link": "http://app.ac/vtncUgM73"
   }
  ]
 }
