@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-18T19:17:03.104+09:00",
+ "updated": "2026-11-18T20:21:32.488+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "5231913450",
+   "mall": "롯데온",
+   "title": "여성 파니 롱 다운자켓 1BYPAWU508",
+   "price": 148920,
+   "image": "https://contents.lotteon.com/itemimage/20261118170717/LE/12/22/59/73/00/_1/33/73/91/24/3/LE1222597300_1337391243_1.jpg",
+   "sentAt": "2026-11-18T20:21:32.488+09:00",
+   "saving": 11,
+   "baseline": 167130,
+   "baselineNote": "판매글 40곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 40곳 최저가",
+     "price": 167130
+    }
+   ],
+   "link": "http://app.ac/gAVixV503",
+   "web": true
+  },
   {
    "uid": "9678202423",
    "mall": "롯데온",
@@ -14097,29 +14116,6 @@
     "value": 18900
    },
    "link": "http://app.ac/5jpttKa63",
-   "web": true
-  },
-  {
-   "uid": "3983168068",
-   "mall": "지마켓",
-   "title": "양푼이 우거지 감자탕 5kg",
-   "price": 16980,
-   "image": "https://gdimg.gmarket.co.kr/4645995922/goodsimage",
-   "sentAt": "2026-11-05T00:03:59.477+09:00",
-   "saving": 27,
-   "baseline": 23360,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": {
-    "label": "100g당",
-    "value": 340
-   },
-   "comps": [
-    {
-     "name": "판매글 5곳 최저가",
-     "price": 23360
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4645995922",
    "web": true
   }
  ]
