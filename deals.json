@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-18T20:18:57.863+09:00",
+ "updated": "2026-11-18T20:27:06.645+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5647985769",
+   "mall": "11번가",
+   "title": "아삭달콤 가정용 부사사과 중대과 3kg",
+   "price": 9070,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/pd/v2/8/5/0/2/4/1/pvVdq/8782850241_B.webp",
+   "sentAt": "2026-11-18T20:27:05.478+09:00",
+   "unit": {
+    "label": "100g당",
+    "value": 302
+   },
+   "link": "http://app.ac/SqDg1v273"
+  },
   {
    "uid": "1566434875",
    "mall": "쿠팡",
@@ -3726,24 +3739,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iIbZhPHcXY"
-  },
-  {
-   "uid": "6153466668",
-   "mall": "쿠팡",
-   "title": "스포츠리서치 루테인 20mg 제아잔틴 4mg 베지 소프트젤 120정 1개",
-   "price": 20880,
-   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/a16b/6e067b2e9a75cd86eaf3f2b0af362efb0c4fad38b5ed42dfdc1dc07c1405.jpg",
-   "sentAt": "2026-11-16T07:13:23.880+09:00",
-   "saving": 46,
-   "baseline": 38800,
-   "baselineNote": "판매글 5곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 5곳 최저가",
-     "price": 38800
-    }
-   ],
-   "link": "https://link.coupang.com/a/iH7si54cLY"
   }
  ]
 }
