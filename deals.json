@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-18T16:36:24.369+09:00",
+ "updated": "2026-11-18T17:26:32.277+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2787702477",
+   "mall": "GS SHOP",
+   "title": "도브 대용량 비누 135g x 10개",
+   "price": 9078,
+   "image": "https://asset.m-gs.kr/prod/54750180/1/280",
+   "sentAt": "2026-11-18T17:26:31.482+09:00",
+   "saving": 40,
+   "baseline": 15060,
+   "baselineNote": "판매글 34곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 908
+   },
+   "comps": [
+    {
+     "name": "판매글 34곳 최저가",
+     "price": 15060
+    }
+   ],
+   "link": "http://app.ac/RqDgk0223"
+  },
   {
    "uid": "6813475612",
    "mall": "쿠팡",
@@ -3595,28 +3617,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iGU1fSeqE8"
-  },
-  {
-   "uid": "7977109571",
-   "mall": "지마켓",
-   "title": "국내산 전라도 파김치 2kg",
-   "price": 11990,
-   "image": "https://gdimg.gmarket.co.kr/4742482277/goodsimage",
-   "sentAt": "2026-11-15T12:23:48.845+09:00",
-   "saving": 33,
-   "baseline": 17900,
-   "baselineNote": "다른 곳 최저",
-   "unit": {
-    "label": "100g당",
-    "value": 600
-   },
-   "comps": [
-    {
-     "name": "다른 곳 최저",
-     "price": 17900
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4742482277"
   }
  ]
 }
