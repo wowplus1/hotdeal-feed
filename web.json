@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-18T22:27:37.144+09:00",
+ "updated": "2026-11-19T00:11:52.524+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "8967328775",
+   "mall": "11번가",
+   "title": "San-Lucas 아보카도 오일 1L x 2병 엑스트라버진 멕시코산 냉압착 HASS 아보카드 아보카도유 식용유",
+   "price": 37800,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/9/7/3/1/7/0/IdlJX/8261973170_242187436.webp",
+   "sentAt": "2026-11-19T00:11:52.524+09:00",
+   "saving": 41,
+   "baseline": 63780,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 18900
+   },
+   "comps": [
+    {
+     "name": "판매글 3곳 최저가",
+     "price": 63780
+    }
+   ],
+   "link": "http://app.ac/5jpttKa63",
+   "web": true
+  },
   {
    "uid": "4473968413",
    "mall": "쿠팡",
@@ -14195,25 +14218,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/ip8MqfGlTE",
-   "web": true
-  },
-  {
-   "uid": "8553989230",
-   "mall": "지마켓",
-   "title": "아이깨끗해X포차코 핸드워시 대용량 리필 4.5L +시나모롤 공용기 증정",
-   "price": 20380,
-   "image": "https://gdimg.gmarket.co.kr/4532626746/goodsimage",
-   "sentAt": "2026-11-05T10:24:27.389+09:00",
-   "saving": 13,
-   "baseline": 23400,
-   "baselineNote": "판매글 7곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 7곳 최저가",
-     "price": 23400
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4532626746",
    "web": true
   }
  ]
