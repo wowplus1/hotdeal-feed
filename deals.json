@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-19T07:08:06.266+09:00",
+ "updated": "2026-11-19T07:18:19.764+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8104737097",
+   "mall": "쿠팡",
+   "title": "스프라이트 제로 사이다, 250ml, 30개",
+   "price": 12290,
+   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/3057/8476349e6225fc49f978d71fc1ac8c504952e508d2c628f5463340b194b2.png",
+   "sentAt": "2026-11-19T07:18:19.174+09:00",
+   "saving": 27,
+   "baseline": 16920,
+   "baselineNote": "판매글 11곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 410
+   },
+   "comps": [
+    {
+     "name": "판매글 11곳 최저가",
+     "price": 16920
+    }
+   ],
+   "link": "https://link.coupang.com/a/gaqS8zDclM"
+  },
   {
    "uid": "8606076223",
    "mall": "쿠팡",
@@ -3756,28 +3778,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/hnlQePlriu"
-  },
-  {
-   "uid": "7250887834",
-   "mall": "쿠팡",
-   "title": "오리온 치즈뿌린 치킨팝, 65g, 15개",
-   "price": 10550,
-   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/193226417090885-10047811-7f0f-4055-beeb-fe84547205ad.png",
-   "sentAt": "2026-11-16T09:57:03.000+09:00",
-   "saving": 27,
-   "baseline": 14510,
-   "baselineNote": "판매글 10곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 703
-   },
-   "comps": [
-    {
-     "name": "판매글 10곳 최저가",
-     "price": 14510
-    }
-   ],
-   "link": "https://link.coupang.com/a/ie9VDXKGGW"
   }
  ]
 }
