@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-18T13:58:25.984+09:00",
+ "updated": "2026-11-18T14:11:41.379+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3875252067",
+   "mall": "토스쇼핑",
+   "title": "모나리자 에코 미용티슈, 300매, 12입, 1박스",
+   "price": 11900,
+   "image": "https://shopping.toss.im/live/temp/2026-09-08/131ff3ca-add9-4eb4-887d-a5bfc5f03ac0.jpeg",
+   "sentAt": "2026-11-18T14:11:40.808+09:00",
+   "saving": 59,
+   "baseline": 29200,
+   "baselineNote": "판매글 4곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 4곳 최저가",
+     "price": 29200
+    }
+   ],
+   "link": "https://toss.shopping/_m/fwlk6mt3"
+  },
   {
    "uid": "3902095704",
    "mall": "11번가",
@@ -3826,28 +3844,6 @@
     }
    ],
    "link": "http://app.ac/5qnOAQ263"
-  },
-  {
-   "uid": "1823137348",
-   "mall": "쿠팡",
-   "title": "마이카페라떼 원데이 로어슈거 클래식라떼, 210ml, 10개",
-   "price": 9520,
-   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/48802301364199-3c6eb0c8-87f0-47c9-a706-39303255245b.jpg",
-   "sentAt": "2026-11-15T09:26:54.748+09:00",
-   "saving": 30,
-   "baseline": 13680,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 952
-   },
-   "comps": [
-    {
-     "name": "판매글 5곳 최저가",
-     "price": 13680
-    }
-   ],
-   "link": "https://link.coupang.com/a/hjVXtanupw"
   }
  ]
 }
