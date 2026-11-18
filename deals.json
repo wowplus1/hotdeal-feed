@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-18T15:01:53.014+09:00",
+ "updated": "2026-11-18T15:16:50.283+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3272032410",
+   "mall": "쿠팡",
+   "title": "광동제약 아이스웨일 플레인 제로 탄산수, 500ml, 40개",
+   "price": 13300,
+   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/441750504779171-37c18c41-61b7-4f4f-91ab-58c9a19d4345.jpg",
+   "sentAt": "2026-11-18T15:16:49.705+09:00",
+   "saving": 42,
+   "baseline": 23020,
+   "baselineNote": "판매글 16곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 333
+   },
+   "comps": [
+    {
+     "name": "판매글 16곳 최저가",
+     "price": 23020
+    }
+   ],
+   "link": "https://link.coupang.com/a/iLZMQiKglE"
+  },
   {
    "uid": "2818120660",
    "mall": "롯데온",
@@ -3826,28 +3848,6 @@
     }
    ],
    "link": "https://toss.shopping/_m/VakwcHoi"
-  },
-  {
-   "uid": "6069740866",
-   "mall": "토스쇼핑",
-   "title": "초록들 솥뚜껑 닭볶음탕, 1kg, 2개",
-   "price": 12270,
-   "image": "https://shopping.toss.im/live/temp/2026-03-31/2a869020-6de7-4268-a72c-1d42119f7a41.jpeg",
-   "sentAt": "2026-11-15T11:22:21.210+09:00",
-   "saving": 22,
-   "baseline": 15720,
-   "baselineNote": "판매글 17곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 6135
-   },
-   "comps": [
-    {
-     "name": "판매글 17곳 최저가",
-     "price": 15720
-    }
-   ],
-   "link": "https://toss.im/_m/TnRNRK4c"
   }
  ]
 }
