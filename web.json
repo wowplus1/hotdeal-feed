@@ -1,7 +1,144 @@
 {
- "updated": "2026-11-18T18:37:21.923+09:00",
+ "updated": "2026-11-18T18:59:00.106+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "9476494340",
+   "mall": "쿠팡",
+   "title": "lg 27u421a 모니터 100hz",
+   "price": 146810,
+   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/52000544956835-259c0939-fe21-41a1-affe-a39dc5a0918e.jpg",
+   "sentAt": "2026-11-18T18:59:00.106+09:00",
+   "saving": 24,
+   "baseline": 191990,
+   "baselineNote": "119곳 중 최저 · 무료배송",
+   "check": {
+    "market": 191990,
+    "malls": 119,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": false,
+    "low": 84000
+   },
+   "comps": [
+    {
+     "name": "119곳 중 최저 · 무료배송",
+     "price": 191990
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 174000
+    },
+    {
+     "m": "26-01",
+     "p": 166000
+    },
+    {
+     "m": "26-02",
+     "p": 174000
+    },
+    {
+     "m": "26-03",
+     "p": 165990
+    },
+    {
+     "m": "26-04",
+     "p": 162000
+    },
+    {
+     "m": "26-05",
+     "p": 84000
+    },
+    {
+     "m": "26-06",
+     "p": 84000
+    },
+    {
+     "m": "26-07",
+     "p": 138000
+    },
+    {
+     "m": "26-08",
+     "p": 138000
+    },
+    {
+     "m": "26-09",
+     "p": 167000
+    },
+    {
+     "m": "26-10",
+     "p": 192940
+    },
+    {
+     "m": "26-11",
+     "p": 187060
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F486937162",
+     "price": 191990,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4680420551",
+     "price": 191990,
+     "ship": 0
+    },
+    {
+     "mall": "TY21A7",
+     "code": "TY21A7",
+     "id": "13226680833",
+     "price": 192000,
+     "ship": 0
+    },
+    {
+     "mall": "LG전자",
+     "code": "TW326B",
+     "id": "MD10547826",
+     "price": 199000,
+     "ship": 0
+    },
+    {
+     "mall": "컴오아시스",
+     "code": "PV203",
+     "id": "5743494400",
+     "price": 218990,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "8272377541",
+     "price": 225610,
+     "ship": 5000
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000808799030",
+     "price": 232136,
+     "ship": 0
+    },
+    {
+     "mall": "하이마트",
+     "code": "TJ418",
+     "id": "0053783322",
+     "price": 235000,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/iMfDN0igLs",
+   "web": true
+  },
   {
    "uid": "2194054523",
    "mall": "하이마트",
@@ -13987,29 +14124,6 @@
     }
    ],
    "link": "http://app.ac/E3Mt63J83",
-   "web": true
-  },
-  {
-   "uid": "3608331447",
-   "mall": "쿠팡",
-   "title": "올가홀푸드 한입에 쏙 우리밀 꼬마약과 400g 5,900원",
-   "price": 5900,
-   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/515731406740466-ed10094e-ad7b-4dea-932e-70a009649178.jpg",
-   "sentAt": "2026-11-04T22:06:24.678+09:00",
-   "saving": 35,
-   "baseline": 9120,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": {
-    "label": "100g당",
-    "value": 1475
-   },
-   "comps": [
-    {
-     "name": "판매글 3곳 최저가",
-     "price": 9120
-    }
-   ],
-   "link": "https://link.coupang.com/a/ipeD16Vth6",
    "web": true
   }
  ]
