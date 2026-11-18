@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-18T19:03:47.251+09:00",
+ "updated": "2026-11-18T20:18:57.863+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1566434875",
+   "mall": "쿠팡",
+   "title": "르샤트라1802 건조기 시트 섬유유연제 클린코튼향 본품 140매 1개",
+   "price": 8760,
+   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/dca6/e8339989dd84f3e80594fcadc26b64c97d4c9b2564666960357ef943d30c.jpg",
+   "sentAt": "2026-11-18T20:18:57.044+09:00",
+   "saving": 58,
+   "baseline": 20700,
+   "baselineNote": "판매글 9곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 63
+   },
+   "comps": [
+    {
+     "name": "판매글 9곳 최저가",
+     "price": 20700
+    }
+   ],
+   "link": "https://link.coupang.com/a/hZQDAWUv2i"
+  },
   {
    "uid": "3819937986",
    "mall": "지마켓",
@@ -3722,23 +3744,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iH7si54cLY"
-  },
-  {
-   "uid": "4021175085",
-   "mall": "쿠팡",
-   "title": "오뚜기 3일 숙성카레 순한맛, 200g, 2개",
-   "price": 3380,
-   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1310695264808732-ee91d275-e7d5-4d13-b7ee-3491015bc7be.jpg",
-   "sentAt": "2026-11-15T21:22:45.814+09:00",
-   "unit": {
-    "label": "개당",
-    "value": 1690
-   },
-   "alt": {
-    "price": 6100,
-    "where": "3곳 중 최저"
-   },
-   "link": "https://link.coupang.com/a/iHrdWIiGjY"
   }
  ]
 }
