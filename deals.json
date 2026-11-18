@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-18T18:22:21.907+09:00",
+ "updated": "2026-11-18T19:01:36.805+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2852536998",
+   "mall": "지마켓",
+   "title": "대추방울토마토 소과 2kg",
+   "price": 7400,
+   "image": "https://gdimg.gmarket.co.kr/4780838614/goodsimage",
+   "sentAt": "2026-11-18T19:01:35.949+09:00",
+   "saving": 31,
+   "baseline": 10710,
+   "baselineNote": "판매글 13곳 최저가",
+   "unit": {
+    "label": "100g당",
+    "value": 370
+   },
+   "comps": [
+    {
+     "name": "판매글 13곳 최저가",
+     "price": 10710
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4780838614"
+  },
   {
    "uid": "2779559201",
    "mall": "토스쇼핑",
@@ -3713,28 +3735,6 @@
     }
    ],
    "link": "http://app.ac/r3MXiHJ33"
-  },
-  {
-   "uid": "2257330386",
-   "mall": "지마켓",
-   "title": "에뛰드 베이킹 파우더 모공 클렌징폼 300g 듀오 세트",
-   "price": 9600,
-   "image": "https://gdimg.gmarket.co.kr/3307231792/goodsimage",
-   "sentAt": "2026-11-15T15:28:39.193+09:00",
-   "saving": 34,
-   "baseline": 14440,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": {
-    "label": "100g당",
-    "value": 3200
-   },
-   "comps": [
-    {
-     "name": "판매글 4곳 최저가",
-     "price": 14440
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=3307231792"
   }
  ]
 }
