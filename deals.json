@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-18T11:48:27.310+09:00",
+ "updated": "2026-11-18T11:58:26.224+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8597167292",
+   "mall": "쿠팡",
+   "title": "백설 부침가루 1kg 2개",
+   "price": 4650,
+   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/09f0/704f916bb5a7da6c8866a1fcf069445b10c2e9118d396db92f1ca986cc3b.jpg",
+   "sentAt": "2026-11-18T11:58:25.181+09:00",
+   "saving": 43,
+   "baseline": 8090,
+   "baselineNote": "판매글 7곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 2325
+   },
+   "comps": [
+    {
+     "name": "판매글 7곳 최저가",
+     "price": 8090
+    }
+   ],
+   "link": "https://link.coupang.com/a/iLLDgkHEPc"
+  },
   {
    "uid": "4915371360",
    "mall": "11번가",
@@ -3813,24 +3835,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iGBHVUpiFw"
-  },
-  {
-   "uid": "9103525369",
-   "mall": "토스쇼핑",
-   "title": "바이마르 IH 엔틱 스테인레스 3단 찜솥, 24cm, 1개",
-   "price": 11110,
-   "image": "https://shopping.toss.im/live/taca/ai/NGJmOWE1/Wnh4bGdjR0JaaDdEbG5QRFNsUE1QQ1k1eHpNVzVFNHkybk9wRk8xR2hhTT0.png",
-   "sentAt": "2026-11-14T17:27:52.575+09:00",
-   "saving": 26,
-   "baseline": 15000,
-   "baselineNote": "판매글 7곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 7곳 최저가",
-     "price": 15000
-    }
-   ],
-   "link": "https://toss.shopping/_m/LepB91lr"
   }
  ]
 }
