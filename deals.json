@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-18T19:01:36.805+09:00",
+ "updated": "2026-11-18T19:03:47.251+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3819937986",
+   "mall": "지마켓",
+   "title": "국산 완숙토마토 5kg",
+   "price": 12160,
+   "image": "https://gdimg.gmarket.co.kr/4896819280/goodsimage",
+   "sentAt": "2026-11-18T19:03:46.686+09:00",
+   "saving": 32,
+   "baseline": 17820,
+   "baselineNote": "판매글 6곳 최저가",
+   "unit": {
+    "label": "100g당",
+    "value": 243
+   },
+   "comps": [
+    {
+     "name": "판매글 6곳 최저가",
+     "price": 17820
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4896819280"
+  },
   {
    "uid": "2852536998",
    "mall": "지마켓",
@@ -3717,24 +3739,6 @@
     "where": "3곳 중 최저"
    },
    "link": "https://link.coupang.com/a/iHrdWIiGjY"
-  },
-  {
-   "uid": "5383428838",
-   "mall": "11번가",
-   "title": "오리온 포카칩 오리지널 66g, 5개 + 어니언 66g, 5개",
-   "price": 9630,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/6098554134/B.jpg?453749063",
-   "sentAt": "2026-11-15T18:46:38.823+09:00",
-   "saving": 25,
-   "baseline": 12900,
-   "baselineNote": "판매글 14곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 14곳 최저가",
-     "price": 12900
-    }
-   ],
-   "link": "http://app.ac/r3MXiHJ33"
   }
  ]
 }
