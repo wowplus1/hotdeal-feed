@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-19T02:53:39.563+09:00",
+ "updated": "2026-11-19T09:48:41.190+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "6349916394",
+   "mall": "지마켓",
+   "title": "바세린 미니 립밤 7g 3개",
+   "price": 6500,
+   "image": "https://gdimg.gmarket.co.kr/4562580482/goodsimage",
+   "sentAt": "2026-11-19T09:48:41.190+09:00",
+   "unit": {
+    "label": "개당",
+    "value": 2167
+   },
+   "alt": {
+    "price": 8190,
+    "where": "48곳 중 최저",
+    "ship": 0
+   },
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4562580482",
+   "web": true
+  },
   {
    "uid": "7661700432",
    "mall": "쿠팡",
@@ -14108,25 +14127,6 @@
     }
    ],
    "link": "http://app.ac/CEwA6qS63",
-   "web": true
-  },
-  {
-   "uid": "3664460233",
-   "mall": "지마켓",
-   "title": "MP243W E14 24인치 IPS 144Hz 화이트 모니터",
-   "price": 127600,
-   "image": "https://gdimg.gmarket.co.kr/4685773572/goodsimage",
-   "sentAt": "2026-11-05T12:03:29.535+09:00",
-   "saving": 46,
-   "baseline": 237210,
-   "baselineNote": "판매글 5곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 5곳 최저가",
-     "price": 237210
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4685773572",
    "web": true
   }
  ]
