@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-19T17:56:36.093+09:00",
+ "updated": "2026-11-19T19:13:10.152+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1501123353",
+   "mall": "11번가",
+   "title": "펨 도피러스 알엑스 100억 여성 유산균 프로바이오틱스 60캡슐 1개",
+   "price": 29900,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/8564246733/B.webp",
+   "sentAt": "2026-11-19T19:13:09.148+09:00",
+   "saving": 24,
+   "baseline": 39210,
+   "baselineNote": "판매글 3곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 3곳 최저가",
+     "price": 39210
+    }
+   ],
+   "link": "http://app.ac/RECqw6S63"
+  },
   {
    "uid": "6946845889",
    "mall": "롯데온",
@@ -3839,79 +3857,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iDGkHc9SBU"
-  },
-  {
-   "uid": "5861973031",
-   "mall": "쿠팡",
-   "title": "오리온 진한 디저트 케익 오뜨 치즈, 156g, 4개",
-   "price": 8560,
-   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/8def/d3f4fb5a01e01e650bc12e2d8edc15db86c27029797ce6af5e7589fda258.jpg",
-   "sentAt": "2026-11-17T09:22:26.896+09:00",
-   "saving": 48,
-   "baseline": 16370,
-   "baselineNote": "3곳 중 최저",
-   "unit": {
-    "label": "개당",
-    "value": 2140
-   },
-   "check": {
-    "market": 16370,
-    "malls": 3
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": true,
-    "low": 9370
-   },
-   "comps": [
-    {
-     "name": "3곳 중 최저",
-     "price": 16370
-    }
-   ],
-   "trend": [
-    {
-     "m": "26-06",
-     "p": 9370
-    },
-    {
-     "m": "26-07",
-     "p": 9570
-    },
-    {
-     "m": "26-08",
-     "p": 10700
-    },
-    {
-     "m": "26-09",
-     "p": 11200
-    },
-    {
-     "m": "26-10",
-     "p": 14370
-    },
-    {
-     "m": "26-11",
-     "p": 15030
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "4515632857",
-     "price": 16370,
-     "ship": 2500
-    },
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "9741677963",
-     "price": 18900,
-     "ship": 0
-    }
-   ],
-   "link": "https://link.coupang.com/a/hIIeAtEGsK"
   }
  ]
 }
