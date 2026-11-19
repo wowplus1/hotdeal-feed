@@ -1,7 +1,136 @@
 {
- "updated": "2026-11-19T18:17:08.343+09:00",
+ "updated": "2026-11-19T18:32:12.328+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "3164089652",
+   "mall": "쿠팡",
+   "title": "오뚜기 델리 토마토 케찹, 800g, 1개",
+   "price": 2510,
+   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/66872725367182-13f2ce28-4be4-4ee0-b264-c7be970a75e2.jpg",
+   "sentAt": "2026-11-19T18:32:12.328+09:00",
+   "saving": 10,
+   "baseline": 2780,
+   "baselineNote": "70곳 중 최저",
+   "unit": {
+    "label": "100g당",
+    "value": 314
+   },
+   "check": {
+    "market": 2780,
+    "malls": 70
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 2640
+   },
+   "review": {
+    "score": 4.9,
+    "count": 1179,
+    "low": 0
+   },
+   "comps": [
+    {
+     "name": "70곳 중 최저",
+     "price": 2780
+    }
+   ],
+   "trend": [
+    {
+     "m": "26-04",
+     "p": 2680
+    },
+    {
+     "m": "26-05",
+     "p": 2640
+    },
+    {
+     "m": "26-06",
+     "p": 2680
+    },
+    {
+     "m": "26-07",
+     "p": 2860
+    },
+    {
+     "m": "26-08",
+     "p": 2880
+    },
+    {
+     "m": "26-09",
+     "p": 2780
+    },
+    {
+     "m": "26-10",
+     "p": 2820
+    },
+    {
+     "m": "26-11",
+     "p": 2780
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "3529627038",
+     "price": 2780,
+     "ship": 3000
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "1625282121",
+     "price": 2790,
+     "ship": 3000
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "B695169034",
+     "price": 2790,
+     "ship": 3000
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000626521594",
+     "price": 4680,
+     "ship": 3000
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000626521594",
+     "price": 4680,
+     "ship": 3000
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2719346309",
+     "price": 7360,
+     "ship": 0
+    },
+    {
+     "mall": "롯데홈쇼핑",
+     "code": "ED903",
+     "id": "3364529109",
+     "price": 7790,
+     "ship": 0
+    },
+    {
+     "mall": "신세계몰",
+     "code": "ED901",
+     "id": "1000856716183",
+     "price": 7868,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/iNSGT67wVF",
+   "web": true
+  },
   {
    "uid": "7866367768",
    "mall": "11번가",
@@ -13996,29 +14125,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=3598494926",
-   "web": true
-  },
-  {
-   "uid": "7239285398",
-   "mall": "롯데온",
-   "title": "페레로로쉐 3T 16개",
-   "price": 29790,
-   "image": "https://contents.lotteon.com/itemimage/20261102111500/LO/10/01/55/67/08/_1/00/15/56/70/9/LO1001556708_1001556709_1.jpg",
-   "sentAt": "2026-11-05T16:53:12.708+09:00",
-   "saving": 17,
-   "baseline": 35910,
-   "baselineNote": "판매글 13곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 1862
-   },
-   "comps": [
-    {
-     "name": "판매글 13곳 최저가",
-     "price": 35910
-    }
-   ],
-   "link": "http://app.ac/7tnWTUM83",
    "web": true
   }
  ]
