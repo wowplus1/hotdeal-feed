@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-19T10:22:35.550+09:00",
+ "updated": "2026-11-19T10:36:16.333+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5160033506",
+   "mall": "지마켓",
+   "title": "국내산 신안 새우젓 1kg x 2병",
+   "price": 12200,
+   "image": "https://gdimg.gmarket.co.kr/2583702784/goodsimage",
+   "sentAt": "2026-11-19T10:36:15.719+09:00",
+   "saving": 37,
+   "baseline": 19430,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 6100
+   },
+   "comps": [
+    {
+     "name": "판매글 3곳 최저가",
+     "price": 19430
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2583702784"
+  },
   {
    "uid": "7078557236",
    "mall": "지마켓",
@@ -3775,24 +3797,6 @@
     }
    ],
    "link": "https://toss.shopping/_m/nk5U9uF5"
-  },
-  {
-   "uid": "5962141473",
-   "mall": "토스쇼핑",
-   "title": "포스파티딜세린 징코 PS, 60캡슐, 4박스",
-   "price": 49800,
-   "image": "https://shopping.toss.im/live/temp/2026-07-24/c91f8f6f-84aa-4e6d-8fb0-1a9c976a6258.jpeg",
-   "sentAt": "2026-11-16T18:56:44.517+09:00",
-   "saving": 48,
-   "baseline": 96348,
-   "baselineNote": "판매글 8곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 8곳 최저가",
-     "price": 96348
-    }
-   ],
-   "link": "https://toss.im/_m/b7kAWe6b"
   }
  ]
 }
