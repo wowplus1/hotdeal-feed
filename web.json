@@ -1,7 +1,162 @@
 {
- "updated": "2026-11-20T05:18:23.681+09:00",
+ "updated": "2026-11-20T07:56:13.129+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "6305990565",
+   "mall": "쿠팡",
+   "title": "코카콜라 제로 무라벨, 370ml, 24개",
+   "price": 17480,
+   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/885a/5275afb0998711fbbbcf6aaf2e50daf49885f10e5c34208ec34c8e09e053.jpg",
+   "sentAt": "2026-11-20T07:56:13.129+09:00",
+   "saving": 15,
+   "baseline": 20480,
+   "baselineNote": "209곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 728
+   },
+   "check": {
+    "market": 20480,
+    "malls": 209,
+    "delivered": 21840
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": false,
+    "low": 16960
+   },
+   "review": {
+    "score": 4.8,
+    "count": 1161,
+    "low": 10
+   },
+   "spec": [
+    "페트",
+    "제로슈거, 무라벨",
+    "0kcal"
+   ],
+   "comps": [
+    {
+     "name": "209곳 중 최저",
+     "price": 20480
+    },
+    {
+     "name": "배송비까지 치면",
+     "price": 21840
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 18900
+    },
+    {
+     "m": "26-01",
+     "p": 18900
+    },
+    {
+     "m": "26-02",
+     "p": 19650
+    },
+    {
+     "m": "26-03",
+     "p": 18740
+    },
+    {
+     "m": "26-04",
+     "p": 18740
+    },
+    {
+     "m": "26-05",
+     "p": 16990
+    },
+    {
+     "m": "26-06",
+     "p": 21390
+    },
+    {
+     "m": "26-07",
+     "p": 16960
+    },
+    {
+     "m": "26-08",
+     "p": 17960
+    },
+    {
+     "m": "26-09",
+     "p": 19920
+    },
+    {
+     "m": "26-10",
+     "p": 21870
+    },
+    {
+     "m": "26-11",
+     "p": 20480
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9057031022",
+     "price": 20480,
+     "ship": 3000
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2816226084",
+     "price": 20490,
+     "ship": 3000
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4837973730",
+     "price": 21840,
+     "ship": 0
+    },
+    {
+     "mall": "TTB2DA",
+     "code": "TTB2DA",
+     "id": "8060252473",
+     "price": 21900,
+     "ship": 5000
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "D455336045",
+     "price": 22180,
+     "ship": 0
+    },
+    {
+     "mall": "주식회사 신세계라이브쇼핑",
+     "code": "TRB03",
+     "id": "57981943",
+     "price": 22600,
+     "ship": 0
+    },
+    {
+     "mall": "현대Hmall",
+     "code": "ED907",
+     "id": "2141836682",
+     "price": 24160,
+     "ship": 0
+    },
+    {
+     "mall": "롯데홈쇼핑",
+     "code": "ED903",
+     "id": "1964009951",
+     "price": 24310,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/gcfie4gWuy",
+   "web": true
+  },
   {
    "uid": "1184718471",
    "mall": "지마켓",
@@ -13773,25 +13928,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/gJmjI6suo8",
-   "web": true
-  },
-  {
-   "uid": "8419836582",
-   "mall": "쿠팡",
-   "title": "닌자 푸디 맥스 스마트 에어그릴 에어프라이어 5.7L",
-   "price": 254910,
-   "image": "https://thumbnail1.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/292800773676383-a267a454-a6fa-470c-85af-a6b5ec05018d.jpg",
-   "sentAt": "2026-11-06T08:17:02.387+09:00",
-   "saving": 46,
-   "baseline": 473240,
-   "baselineNote": "판매글 3곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 3곳 최저가",
-     "price": 473240
-    }
-   ],
-   "link": "https://link.coupang.com/a/ghi3j9GNqu",
    "web": true
   }
  ]
