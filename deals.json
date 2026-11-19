@@ -1,7 +1,147 @@
 {
- "updated": "2026-11-19T14:11:55.690+09:00",
+ "updated": "2026-11-19T15:37:09.596+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8034980164",
+   "mall": "쿠팡",
+   "title": "팔도 빅뽀로로 제로 딸기맛, 360ml, 24개",
+   "price": 12510,
+   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2024/06/26/13/4/583e7866-62fb-4f1f-aa4d-b46eb6197d79.jpg",
+   "sentAt": "2026-11-19T15:37:08.747+09:00",
+   "saving": 31,
+   "baseline": 18220,
+   "baselineNote": "275곳 중 최저 · 무료배송",
+   "unit": {
+    "label": "개당",
+    "value": 521
+   },
+   "check": {
+    "market": 18220,
+    "malls": 275,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 15000
+   },
+   "comps": [
+    {
+     "name": "275곳 중 최저 · 무료배송",
+     "price": 18220
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 16970
+    },
+    {
+     "m": "26-01",
+     "p": 16000
+    },
+    {
+     "m": "26-02",
+     "p": 15930
+    },
+    {
+     "m": "26-03",
+     "p": 15000
+    },
+    {
+     "m": "26-04",
+     "p": 16720
+    },
+    {
+     "m": "26-05",
+     "p": 16120
+    },
+    {
+     "m": "26-06",
+     "p": 16910
+    },
+    {
+     "m": "26-07",
+     "p": 17090
+    },
+    {
+     "m": "26-08",
+     "p": 17280
+    },
+    {
+     "m": "26-09",
+     "p": 17390
+    },
+    {
+     "m": "26-10",
+     "p": 16740
+    },
+    {
+     "m": "26-11",
+     "p": 16730
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "8105784763",
+     "price": 18220,
+     "ship": 0
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "E935526200",
+     "price": 18410,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4358243852",
+     "price": 18420,
+     "ship": 0
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000676331715",
+     "price": 19380,
+     "ship": 0
+    },
+    {
+     "mall": "신세계몰",
+     "code": "ED901",
+     "id": "1000676331715",
+     "price": 19380,
+     "ship": 0
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000676331715",
+     "price": 19380,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2478776875",
+     "price": 21850,
+     "ship": 0
+    },
+    {
+     "mall": "롯데백화점",
+     "code": "TLC16",
+     "id": "LE1222426021",
+     "price": 22460,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/iqQQB7oDL2"
+  },
   {
    "uid": "1764986499",
    "mall": "쿠팡",
@@ -3771,19 +3911,6 @@
     "where": "490곳 중 최저"
    },
    "link": "https://link.coupang.com/a/hgURMD1Aom"
-  },
-  {
-   "uid": "1394712154",
-   "mall": "쿠팡",
-   "title": "나우푸드 마그네슘 글리시네이트 타블렛, 180정, 2개",
-   "price": 31070,
-   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/3ae1/a88813af9c82ce0dc60b44d1d6b5da8f485d1bd3a58963c79ff5fcda3864.jpg",
-   "sentAt": "2026-11-17T07:22:45.202+09:00",
-   "unit": {
-    "label": "개당",
-    "value": 15535
-   },
-   "link": "https://link.coupang.com/a/gkKjaFUF40"
   }
  ]
 }
