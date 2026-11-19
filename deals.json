@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-20T08:12:38.488+09:00",
+ "updated": "2026-11-20T08:22:19.236+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6757896090",
+   "mall": "쿠팡",
+   "title": "카시오 웨이브셉터 멀티밴드5 시계 WV-59R-1AJF",
+   "price": 31820,
+   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/a951/046496bd7c05f09ed54bde060e301ce944a108ccf6a550f054f6a6f19820.jpg",
+   "sentAt": "2026-11-20T08:22:18.663+09:00",
+   "saving": 20,
+   "baseline": 39900,
+   "baselineNote": "판매글 16곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 16곳 최저가",
+     "price": 39900
+    }
+   ],
+   "link": "https://link.coupang.com/a/iOP0ebvzjg"
+  },
   {
    "uid": "5501648467",
    "mall": "쿠팡",
@@ -3774,28 +3792,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iJ8nEvR18S"
-  },
-  {
-   "uid": "5183318392",
-   "mall": "11번가",
-   "title": "제주 조생감귤 5kg",
-   "price": 5140,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/9/4/3/5/1/7/QGXRG/4806943517_242482042.webp",
-   "sentAt": "2026-11-17T11:53:20.931+09:00",
-   "saving": 52,
-   "baseline": 10695,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": {
-    "label": "100g당",
-    "value": 103
-   },
-   "comps": [
-    {
-     "name": "판매글 4곳 최저가",
-     "price": 10695
-    }
-   ],
-   "link": "http://app.ac/vqDKKA273"
   }
  ]
 }
