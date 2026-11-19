@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-19T15:37:09.596+09:00",
+ "updated": "2026-11-19T17:56:36.093+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6946845889",
+   "mall": "롯데온",
+   "title": "헤드앤숄더 샴푸/트리트먼트 850,800ml 3개 + 트리트먼트 220ml증정",
+   "price": 24730,
+   "image": "https://contents.lotteon.com/itemimage/20261119133856/LO/26/75/22/66/08/_2/67/52/26/60/9/LO2675226608_2675226609_1.jpg",
+   "sentAt": "2026-11-19T17:56:34.616+09:00",
+   "saving": 47,
+   "baseline": 47030,
+   "baselineNote": "판매글 13곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 13곳 최저가",
+     "price": 47030
+    }
+   ],
+   "link": "http://app.ac/cqDI58213"
+  },
   {
    "uid": "8034980164",
    "mall": "쿠팡",
@@ -3894,23 +3912,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/hIIeAtEGsK"
-  },
-  {
-   "uid": "1930238860",
-   "mall": "쿠팡",
-   "title": "씨그램 레몬 무라벨, 350ml, 24개",
-   "price": 10230,
-   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/33455254882561-69061bdf-a29e-415b-84ca-43765250d974.jpg",
-   "sentAt": "2026-11-17T08:03:19.192+09:00",
-   "unit": {
-    "label": "개당",
-    "value": 426
-   },
-   "alt": {
-    "price": 12600,
-    "where": "490곳 중 최저"
-   },
-   "link": "https://link.coupang.com/a/hgURMD1Aom"
   }
  ]
 }
