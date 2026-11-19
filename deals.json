@@ -1,7 +1,154 @@
 {
- "updated": "2026-11-19T10:36:16.333+09:00",
+ "updated": "2026-11-19T10:38:38.146+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1027059573",
+   "mall": "쿠팡",
+   "title": "인디안밥 83g 8개",
+   "price": 6930,
+   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/346623668631815-d434f208-6141-407d-9e98-b2f698d4f40e.jpg",
+   "sentAt": "2026-11-19T10:38:37.595+09:00",
+   "saving": 39,
+   "baseline": 11370,
+   "baselineNote": "34곳 중 최저 · 무료배송",
+   "unit": {
+    "label": "개당",
+    "value": 866
+   },
+   "check": {
+    "market": 11370,
+    "malls": 34,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": false,
+    "low": 5700
+   },
+   "spec": [
+    "스낵",
+    "계란, 대두, 우유",
+    "무당",
+    "옥수수 70%",
+    "옥수수(인도)"
+   ],
+   "comps": [
+    {
+     "name": "34곳 중 최저 · 무료배송",
+     "price": 11370
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 9900
+    },
+    {
+     "m": "26-01",
+     "p": 9900
+    },
+    {
+     "m": "26-02",
+     "p": 9900
+    },
+    {
+     "m": "26-03",
+     "p": 5700
+    },
+    {
+     "m": "26-04",
+     "p": 5700
+    },
+    {
+     "m": "26-05",
+     "p": 7880
+    },
+    {
+     "m": "26-06",
+     "p": 7880
+    },
+    {
+     "m": "26-07",
+     "p": 7880
+    },
+    {
+     "m": "26-08",
+     "p": 9570
+    },
+    {
+     "m": "26-09",
+     "p": 9400
+    },
+    {
+     "m": "26-10",
+     "p": 11880
+    },
+    {
+     "m": "26-11",
+     "p": 10120
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9732993740",
+     "price": 11370,
+     "ship": 0
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "E833039723",
+     "price": 11680,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4255090158",
+     "price": 11680,
+     "ship": 0
+    },
+    {
+     "mall": "현대Hmall",
+     "code": "ED907",
+     "id": "2085871324",
+     "price": 12700,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2246090364",
+     "price": 13460,
+     "ship": 0
+    },
+    {
+     "mall": "TY22C2",
+     "code": "TY22C2",
+     "id": "12844129499",
+     "price": 13900,
+     "ship": 0
+    },
+    {
+     "mall": "신세계몰",
+     "code": "ED901",
+     "id": "1000825927061",
+     "price": 17136,
+     "ship": 0
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000825927061",
+     "price": 17136,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/iNkO0lye72"
+  },
   {
    "uid": "5160033506",
    "mall": "지마켓",
@@ -3775,28 +3922,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iIYkT3XieG"
-  },
-  {
-   "uid": "7103976425",
-   "mall": "토스쇼핑",
-   "title": "보라톡스 제로슈가 파비플로라 알파CD 보라워터, 500ml, 24개",
-   "price": 23600,
-   "image": "https://shopping.toss.im/live/temp/2026-09-03/31bd8534-8c21-4808-9c9a-ed08fc5efd4a.jpeg",
-   "sentAt": "2026-11-16T19:01:51.471+09:00",
-   "saving": 43,
-   "baseline": 41571,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 983
-   },
-   "comps": [
-    {
-     "name": "판매글 3곳 최저가",
-     "price": 41571
-    }
-   ],
-   "link": "https://toss.shopping/_m/nk5U9uF5"
   }
  ]
 }
