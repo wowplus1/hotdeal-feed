@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-20T00:13:49.839+09:00",
+ "updated": "2026-11-20T00:19:15.638+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "1723999922",
+   "mall": "지마켓",
+   "title": "루테인지아잔틴 아스타잔틴 미니 30캡슐 3박스",
+   "price": 18900,
+   "image": "https://gdimg.gmarket.co.kr/3704953070/goodsimage",
+   "sentAt": "2026-11-20T00:19:15.638+09:00",
+   "saving": 14,
+   "baseline": 21900,
+   "baselineNote": "다른 곳 최저",
+   "comps": [
+    {
+     "name": "다른 곳 최저",
+     "price": 21900
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=3704953070",
+   "web": true
+  },
   {
    "uid": "8931638765",
    "mall": "쿠팡",
@@ -13822,29 +13841,6 @@
     }
    ],
    "link": "http://app.ac/k3CbmVJ03",
-   "web": true
-  },
-  {
-   "uid": "5701981821",
-   "mall": "지마켓",
-   "title": "동원 살코기 참치 150G 12개",
-   "price": 22880,
-   "image": "https://gdimg.gmarket.co.kr/4587206297/goodsimage",
-   "sentAt": "2026-11-05T22:13:35.124+09:00",
-   "saving": 28,
-   "baseline": 31590,
-   "baselineNote": "판매글 9곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 1907
-   },
-   "comps": [
-    {
-     "name": "판매글 9곳 최저가",
-     "price": 31590
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4587206297",
    "web": true
   }
  ]
