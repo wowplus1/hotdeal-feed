@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-19T19:19:00.238+09:00",
+ "updated": "2026-11-19T19:43:26.602+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1753472396",
+   "mall": "11번가",
+   "title": "코디 기름먹는 UKP 키친타월, 140매, 4롤, 3개",
+   "price": 9230,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/6905636071/B.webp?119741585",
+   "sentAt": "2026-11-19T19:43:25.952+09:00",
+   "saving": 24,
+   "baseline": 12090,
+   "baselineNote": "판매글 34곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 34곳 최저가",
+     "price": 12090
+    }
+   ],
+   "link": "http://app.ac/OqDIgx223"
+  },
   {
    "uid": "9413751929",
    "mall": "쿠팡",
@@ -3826,28 +3844,6 @@
     }
    ],
    "link": "http://app.ac/6jpfrza43"
-  },
-  {
-   "uid": "5956803807",
-   "mall": "쿠팡",
-   "title": "롯데웰푸드 크런키 초콜릿, 34g, 16개",
-   "price": 13770,
-   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/52799874430005-50479598-c00b-46bd-96d4-fbb00e0eebc2.jpg",
-   "sentAt": "2026-11-17T10:17:11.806+09:00",
-   "saving": 31,
-   "baseline": 20070,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 861
-   },
-   "comps": [
-    {
-     "name": "판매글 5곳 최저가",
-     "price": 20070
-    }
-   ],
-   "link": "https://link.coupang.com/a/iJZr33gzJc"
   }
  ]
 }
