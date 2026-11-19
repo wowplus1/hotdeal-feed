@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-19T13:42:16.935+09:00",
+ "updated": "2026-11-19T17:07:27.792+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "5561902789",
+   "mall": "롯데온",
+   "title": "드리미 X50s Pro Ultra 올인원 로봇청소기 화이트",
+   "price": 599000,
+   "image": "https://contents.lotteon.com/itemimage/20260807180936/LO/26/20/16/78/27/_2/62/01/67/82/8/LO2620167827_2620167828_1.jpg",
+   "sentAt": "2026-11-19T17:07:27.792+09:00",
+   "saving": 23,
+   "baseline": 778860,
+   "baselineNote": "다른 곳 최저",
+   "comps": [
+    {
+     "name": "다른 곳 최저",
+     "price": 778860
+    }
+   ],
+   "link": "http://app.ac/23Mi8uJ03",
+   "web": true
+  },
   {
    "uid": "2568544280",
    "mall": "지마켓",
@@ -13997,131 +14016,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/ipV9JONwei",
-   "web": true
-  },
-  {
-   "uid": "2906158328",
-   "mall": "지마켓",
-   "title": "YMTC ZHITAI TiPro9000 M.2 NVMe SSD 4TB",
-   "price": 501370,
-   "image": "https://gdimg.gmarket.co.kr/4775806046/goodsimage",
-   "sentAt": "2026-11-05T13:39:16.399+09:00",
-   "saving": 58,
-   "baseline": 1188000,
-   "baselineNote": "115곳 중 최저",
-   "check": {
-    "market": 1188000,
-    "malls": 115,
-    "ship": 2500,
-    "delivered": 1190500
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": true,
-    "low": 1099000
-   },
-   "spec": [
-    "M.2 (2280)",
-    "PCIe5.0x4 (128GT/s)",
-    "TLC",
-    "DRAM 탑재",
-    "실리콘모션 SM2508"
-   ],
-   "comps": [
-    {
-     "name": "115곳 중 최저",
-     "price": 1188000
-    },
-    {
-     "name": "배송비 2,500원 포함",
-     "price": 1190500
-    }
-   ],
-   "trend": [
-    {
-     "m": "26-06",
-     "p": 1218500
-    },
-    {
-     "m": "26-07",
-     "p": 1259220
-    },
-    {
-     "m": "26-08",
-     "p": 1273090
-    },
-    {
-     "m": "26-09",
-     "p": 1099000
-    },
-    {
-     "m": "26-10",
-     "p": 1142970
-    },
-    {
-     "m": "26-11",
-     "p": 1162080
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "TV7171",
-     "code": "TV7171",
-     "id": "13622452723",
-     "price": 1188000,
-     "ship": 2500
-    },
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "F579802802",
-     "price": 1188000,
-     "ship": 2500
-    },
-    {
-     "mall": "신세계몰",
-     "code": "ED901",
-     "id": "1000843039120",
-     "price": 1188000,
-     "ship": 2500
-    },
-    {
-     "mall": "롯데ON",
-     "code": "EE309",
-     "id": "LO2773833608",
-     "price": 1188000,
-     "ship": 2500
-    },
-    {
-     "mall": "엔코퍼레이션",
-     "code": "PR50B",
-     "id": "5749626693",
-     "price": 1188000,
-     "ship": 2500
-    },
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "4814855986",
-     "price": 1188000,
-     "ship": 2500
-    },
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "9403467649",
-     "price": 1188000,
-     "ship": 2500
-    },
-    {
-     "mall": "SSG.COM",
-     "code": "TN118",
-     "id": "1000838448033",
-     "price": 1188000,
-     "ship": 2500
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4775806046",
    "web": true
   }
  ]
