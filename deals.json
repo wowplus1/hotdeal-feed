@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-19T08:55:49.978+09:00",
+ "updated": "2026-11-19T10:01:26.692+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7303703436",
+   "mall": "지마켓",
+   "title": "2+1 킷캣 미니녹차 7개입 x 3팩",
+   "price": 12920,
+   "image": "https://gdimg.gmarket.co.kr/4296468513/goodsimage",
+   "sentAt": "2026-11-19T10:01:25.842+09:00",
+   "saving": 35,
+   "baseline": 19870,
+   "baselineNote": "판매글 4곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 4곳 최저가",
+     "price": 19870
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4296468513"
+  },
   {
    "uid": "3986351934",
    "mall": "쿠팡",
@@ -3784,28 +3802,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/ilOUIO8eLA"
-  },
-  {
-   "uid": "6911105620",
-   "mall": "쿠팡",
-   "title": "리츠 샌드위치 크래커 초코, 77g, 10개",
-   "price": 6550,
-   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/e3761acb-7541-4991-a088-8f1ca8845d2114682358551501780163.png",
-   "sentAt": "2026-11-16T13:27:57.853+09:00",
-   "saving": 56,
-   "baseline": 14900,
-   "baselineNote": "판매글 24곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 655
-   },
-   "comps": [
-    {
-     "name": "판매글 24곳 최저가",
-     "price": 14900
-    }
-   ],
-   "link": "https://link.coupang.com/a/iIybP7Rdkq"
   }
  ]
 }
