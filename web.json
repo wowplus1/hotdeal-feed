@@ -1,7 +1,152 @@
 {
- "updated": "2026-11-20T15:12:29.916+09:00",
+ "updated": "2026-11-20T15:47:37.394+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "8952105741",
+   "mall": "쿠팡",
+   "title": "햇반 솥반 꿀약밥, 210g, 6개",
+   "price": 9480,
+   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/319421063501925-5b30bcf9-fe2b-42d3-8cb8-1361cd04843c.jpg",
+   "sentAt": "2026-11-20T15:47:37.394+09:00",
+   "saving": 14,
+   "baseline": 10970,
+   "baselineNote": "505곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 1580
+   },
+   "check": {
+    "market": 10970,
+    "malls": 505
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 10030
+   },
+   "review": {
+    "score": 4.7,
+    "count": 3868,
+    "low": 16
+   },
+   "comps": [
+    {
+     "name": "505곳 중 최저",
+     "price": 10970
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 11570
+    },
+    {
+     "m": "26-01",
+     "p": 10870
+    },
+    {
+     "m": "26-02",
+     "p": 10790
+    },
+    {
+     "m": "26-03",
+     "p": 10030
+    },
+    {
+     "m": "26-04",
+     "p": 10870
+    },
+    {
+     "m": "26-05",
+     "p": 10830
+    },
+    {
+     "m": "26-06",
+     "p": 10640
+    },
+    {
+     "m": "26-07",
+     "p": 10620
+    },
+    {
+     "m": "26-08",
+     "p": 11210
+    },
+    {
+     "m": "26-09",
+     "p": 10440
+    },
+    {
+     "m": "26-10",
+     "p": 10620
+    },
+    {
+     "m": "26-11",
+     "p": 10970
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "C440236181",
+     "price": 10970,
+     "ship": 3000
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4886365067",
+     "price": 13920,
+     "ship": 4000
+    },
+    {
+     "mall": "TW11EB",
+     "code": "TW11EB",
+     "id": "9163264534",
+     "price": 14990,
+     "ship": 3900
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "7301454458",
+     "price": 15400,
+     "ship": 4900
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2708511714",
+     "price": 17710,
+     "ship": 3000
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000825380772",
+     "price": 18507,
+     "ship": 0
+    },
+    {
+     "mall": "현대Hmall",
+     "code": "ED907",
+     "id": "2253780458",
+     "price": 18550,
+     "ship": 0
+    },
+    {
+     "mall": "롯데홈쇼핑",
+     "code": "ED903",
+     "id": "3263266802",
+     "price": 18550,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/iPlNRPpdG8",
+   "web": true
+  },
   {
    "uid": "4077703188",
    "mall": "쿠팡",
@@ -13833,92 +13978,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/isAr1DOVDo",
-   "web": true
-  },
-  {
-   "uid": "1227988800",
-   "mall": "롯데온",
-   "title": "26년 햅쌀 옥구농협 오늘도 신동진 10kg 상등급 당일도정 단일품종",
-   "price": 27350,
-   "image": "https://contents.lotteon.com/itemimage/20261104111822/LO/28/07/98/02/62/_2/80/79/80/26/3/LO2807980262_2807980263_1.jpg",
-   "sentAt": "2026-11-06T15:59:02.163+09:00",
-   "saving": 17,
-   "baseline": 33130,
-   "baselineNote": "26곳 중 최저 · 무료배송",
-   "unit": {
-    "label": "100g당",
-    "value": 274
-   },
-   "check": {
-    "market": 33130,
-    "malls": 26,
-    "ship": 0
-   },
-   "comps": [
-    {
-     "name": "26곳 중 최저 · 무료배송",
-     "price": 33130
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "4187587930",
-     "price": 33130,
-     "ship": 0
-    },
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "9538619133",
-     "price": 33840,
-     "ship": 0
-    },
-    {
-     "mall": "배민상회",
-     "code": "TWB192",
-     "id": "422569",
-     "price": 33853,
-     "ship": 0
-    },
-    {
-     "mall": "롯데ON",
-     "code": "EE309",
-     "id": "LO2741410040",
-     "price": 33860,
-     "ship": 0
-    },
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "F629291881",
-     "price": 34720,
-     "ship": 0
-    },
-    {
-     "mall": "SSG.COM",
-     "code": "TN118",
-     "id": "1000548093806",
-     "price": 37107,
-     "ship": 0
-    },
-    {
-     "mall": "nsmall",
-     "code": "ED904",
-     "id": "36095228",
-     "price": 37900,
-     "ship": 0
-    },
-    {
-     "mall": "GS SHOP",
-     "code": "ED908",
-     "id": "1032875251",
-     "price": 38860,
-     "ship": 0
-    }
-   ],
-   "link": "http://app.ac/iqD8Iq293",
    "web": true
   }
  ]
