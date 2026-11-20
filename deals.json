@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-20T15:21:21.342+09:00",
+ "updated": "2026-11-20T15:41:17.641+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1228161459",
+   "mall": "토스쇼핑",
+   "title": "필라델피아 크림치즈 미니, 41g, 16개",
+   "price": 8500,
+   "image": "https://shopping.toss.im/live/temp/2026-09-10/98b2e69b-64da-4282-86df-cad87d94e929.jpeg",
+   "sentAt": "2026-11-20T15:41:17.016+09:00",
+   "saving": 33,
+   "baseline": 12730,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 531
+   },
+   "comps": [
+    {
+     "name": "판매글 4곳 최저가",
+     "price": 12730
+    }
+   ],
+   "link": "https://toss.im/_m/jfygiXT5"
+  },
   {
    "uid": "4009094420",
    "mall": "롯데온",
@@ -3740,24 +3762,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iKm1WYcXh6"
-  },
-  {
-   "uid": "7648055341",
-   "mall": "쿠팡",
-   "title": "아우라 섬유 향수 400ml",
-   "price": 2870,
-   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2024/01/17/11/3/4bd3cbaa-5b3c-4067-ab1c-c92fe1e1de70.jpg",
-   "sentAt": "2026-11-17T15:33:55.904+09:00",
-   "saving": 73,
-   "baseline": 10520,
-   "baselineNote": "판매글 5곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 5곳 최저가",
-     "price": 10520
-    }
-   ],
-   "link": "https://link.coupang.com/a/iKl6ozBl5o"
   }
  ]
 }
