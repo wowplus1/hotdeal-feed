@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-20T16:57:54.788+09:00",
+ "updated": "2026-11-20T17:17:24.350+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7549406487",
+   "mall": "롯데온",
+   "title": "코디 에코그린 화장지 30m*30롤 3팩",
+   "price": 27360,
+   "image": "https://contents.lotteon.com/itemimage/20261117154934/LO/28/13/13/29/22/_2/81/31/32/92/3/LO2813132922_2813132923_1.jpg",
+   "sentAt": "2026-11-20T17:17:23.645+09:00",
+   "saving": 27,
+   "baseline": 37370,
+   "baselineNote": "판매글 10곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 9120
+   },
+   "comps": [
+    {
+     "name": "판매글 10곳 최저가",
+     "price": 37370
+    }
+   ],
+   "link": "http://app.ac/XbGi7kl33"
+  },
   {
    "uid": "7620342566",
    "mall": "롯데온",
@@ -3593,24 +3615,6 @@
     }
    ],
    "link": "http://app.ac/O3Ce0zJ63"
-  },
-  {
-   "uid": "9585257825",
-   "mall": "쿠팡",
-   "title": "삼성전자 Galaxy Z Fold8 자급제 256GB, SM-F971N 폴드8",
-   "price": 187,
-   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/4861142705485-439f97e4-04d1-48dd-9be4-c90253323634.jpg",
-   "sentAt": "2026-11-17T18:17:54.552+09:00",
-   "saving": 100,
-   "baseline": 139020,
-   "baselineNote": "판매글 22곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 22곳 최저가",
-     "price": 139020
-    }
-   ],
-   "link": "https://link.coupang.com/a/g5U8TmHVHU"
   }
  ]
 }
