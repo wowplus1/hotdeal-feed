@@ -1,7 +1,221 @@
 {
- "updated": "2026-11-20T19:07:48.910+09:00",
+ "updated": "2026-11-20T23:06:44.003+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "8922100125",
+   "mall": "쿠팡",
+   "title": "첵스초코 오곡으로 만든 스노우초코볼 시리얼, 420g, 1개",
+   "price": 4260,
+   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/666940318192898-48d9f371-4203-49c3-9316-ee3903b7c5ce.jpg",
+   "sentAt": "2026-11-20T23:06:44.003+09:00",
+   "saving": 44,
+   "baseline": 7560,
+   "baselineNote": "11곳 중 최저",
+   "unit": {
+    "label": "100g당",
+    "value": 1014
+   },
+   "check": {
+    "market": 7560,
+    "malls": 11,
+    "ship": 3000,
+    "delivered": 10560
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": false,
+    "low": 4240
+   },
+   "review": {
+    "score": 4.9,
+    "count": 11587,
+    "low": 19
+   },
+   "spec": [
+    "대두, 밀, 우유",
+    "옥수수가루28%"
+   ],
+   "comps": [
+    {
+     "name": "11곳 중 최저",
+     "price": 7560
+    },
+    {
+     "name": "배송비 3,000원 포함",
+     "price": 10560
+    }
+   ],
+   "trend": [
+    {
+     "m": "26-04",
+     "p": 7040
+    },
+    {
+     "m": "26-05",
+     "p": 5590
+    },
+    {
+     "m": "26-06",
+     "p": 4800
+    },
+    {
+     "m": "26-07",
+     "p": 5460
+    },
+    {
+     "m": "26-08",
+     "p": 5410
+    },
+    {
+     "m": "26-09",
+     "p": 5290
+    },
+    {
+     "m": "26-10",
+     "p": 4240
+    },
+    {
+     "m": "26-11",
+     "p": 7830
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "C789094710",
+     "price": 7560,
+     "ship": 3000
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "2630802636",
+     "price": 7570,
+     "ship": 3000
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "8233712310",
+     "price": 8310,
+     "ship": 3000
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "0000009599107",
+     "price": 8470,
+     "ship": 3000
+    },
+    {
+     "mall": "롯데마트몰",
+     "code": "TU14D",
+     "id": "OS8801083544205",
+     "price": 8480,
+     "ship": 3000
+    }
+   ],
+   "link": "https://link.coupang.com/a/iPRb5T9bb2",
+   "web": true
+  },
+  {
+   "uid": "1875436126",
+   "mall": "쿠팡",
+   "title": "켈로그 코코팝스 시리얼, 460g, 1개",
+   "price": 4650,
+   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1442939194703034-0152ada2-08d0-4e33-91f2-16d45739ceab.jpg",
+   "sentAt": "2026-11-20T23:06:44.004+09:00",
+   "saving": 23,
+   "baseline": 6040,
+   "baselineNote": "6곳 중 최저",
+   "unit": {
+    "label": "100g당",
+    "value": 1011
+   },
+   "check": {
+    "market": 6040,
+    "malls": 6
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 5720
+   },
+   "comps": [
+    {
+     "name": "6곳 중 최저",
+     "price": 6040
+    }
+   ],
+   "trend": [
+    {
+     "m": "26-04",
+     "p": 6300
+    },
+    {
+     "m": "26-05",
+     "p": 6300
+    },
+    {
+     "m": "26-06",
+     "p": 6040
+    },
+    {
+     "m": "26-07",
+     "p": 5880
+    },
+    {
+     "m": "26-08",
+     "p": 5830
+    },
+    {
+     "m": "26-09",
+     "p": 5720
+    },
+    {
+     "m": "26-10",
+     "p": 6040
+    },
+    {
+     "m": "26-11",
+     "p": 6250
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4359858629",
+     "price": 6040,
+     "ship": 3000
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "7580781768",
+     "price": 8290,
+     "ship": 0
+    },
+    {
+     "mall": "롯데마트몰",
+     "code": "TU14D",
+     "id": "OS8801083011462",
+     "price": 8580,
+     "ship": 3000
+    },
+    {
+     "mall": "CJ온스타일",
+     "code": "ED909",
+     "id": "2081059364",
+     "price": 9900,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/iPRddBM9g4",
+   "web": true
+  },
   {
    "uid": "7974815380",
    "mall": "지마켓",
@@ -13842,138 +14056,6 @@
     }
    ],
    "link": "http://app.ac/LtnK9WM93",
-   "web": true
-  },
-  {
-   "uid": "4744415720",
-   "mall": "지마켓",
-   "title": "엡손 POP Plus EF-62 미니빔 프로젝터 UHD 700ISO루멘",
-   "price": 684210,
-   "image": "https://gdimg.gmarket.co.kr/4571126722/goodsimage",
-   "sentAt": "2026-11-07T00:05:53.032+09:00",
-   "saving": 14,
-   "baseline": 799000,
-   "baselineNote": "판매글 13곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 13곳 최저가",
-     "price": 799000
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4571126722",
-   "web": true
-  },
-  {
-   "uid": "7841413372",
-   "mall": "쿠팡",
-   "title": "추억의국민학교떡볶이 오리지널 , 600g, 2개",
-   "price": 6790,
-   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/6607017a-725d-44d4-98f1-658951625a108957023136289230174.png",
-   "sentAt": "2026-11-06T22:46:46.895+09:00",
-   "saving": 46,
-   "baseline": 12610,
-   "baselineNote": "6곳 중 최저 · 무료배송",
-   "unit": {
-    "label": "개당",
-    "value": 3395
-   },
-   "check": {
-    "market": 12610,
-    "malls": 6,
-    "ship": 0
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": true,
-    "low": 6800
-   },
-   "comps": [
-    {
-     "name": "6곳 중 최저 · 무료배송",
-     "price": 12610
-    }
-   ],
-   "trend": [
-    {
-     "m": "25-12",
-     "p": 9520
-    },
-    {
-     "m": "26-01",
-     "p": 9520
-    },
-    {
-     "m": "26-02",
-     "p": 9490
-    },
-    {
-     "m": "26-03",
-     "p": 9490
-    },
-    {
-     "m": "26-04",
-     "p": 9490
-    },
-    {
-     "m": "26-05",
-     "p": 9990
-    },
-    {
-     "m": "26-06",
-     "p": 9990
-    },
-    {
-     "m": "26-07",
-     "p": 11700
-    },
-    {
-     "m": "26-08",
-     "p": 6800
-    },
-    {
-     "m": "26-09",
-     "p": 11440
-    },
-    {
-     "m": "26-10",
-     "p": 11050
-    },
-    {
-     "m": "26-11",
-     "p": 12610
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "4100215809",
-     "price": 12610,
-     "ship": 0
-    },
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "E682831240",
-     "price": 13000,
-     "ship": 0
-    },
-    {
-     "mall": "롯데ON",
-     "code": "EE309",
-     "id": "LO2725098956",
-     "price": 15670,
-     "ship": 0
-    },
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "9497494028",
-     "price": 15940,
-     "ship": 0
-    }
-   ],
-   "link": "https://link.coupang.com/a/gchBLhlEWW",
    "web": true
   }
  ]
