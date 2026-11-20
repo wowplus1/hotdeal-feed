@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-20T15:02:27.925+09:00",
+ "updated": "2026-11-20T15:12:29.916+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "4077703188",
+   "mall": "쿠팡",
+   "title": "스프라이트 사이다 300ml 12개",
+   "price": 10370,
+   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/09/10/15/3/0a6c8288-2807-4b41-b88d-c93c1cb76ce5.jpg",
+   "sentAt": "2026-11-20T15:12:29.916+09:00",
+   "saving": 31,
+   "baseline": 15120,
+   "baselineNote": "판매글 9곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 864
+   },
+   "comps": [
+    {
+     "name": "판매글 9곳 최저가",
+     "price": 15120
+    }
+   ],
+   "link": "https://link.coupang.com/a/iPjiYliZNs",
+   "web": true
+  },
   {
    "uid": "2963386504",
    "mall": "롯데온",
@@ -13896,16 +13919,6 @@
     }
    ],
    "link": "http://app.ac/iqD8Iq293",
-   "web": true
-  },
-  {
-   "uid": "8947823780",
-   "mall": "롯데온",
-   "title": "빙그레 붕어싸만코/빵또아 10개+요맘때콘 10개+아이스크림 바 10개",
-   "price": 23900,
-   "image": "https://contents.lotteon.com/itemimage/20260514162804/LO/24/54/75/91/98/_2/45/47/59/22/3/LO2454759198_2454759223_1.jpg",
-   "sentAt": "2026-11-06T14:48:50.983+09:00",
-   "link": "http://app.ac/VjpqLTa93",
    "web": true
   }
  ]
