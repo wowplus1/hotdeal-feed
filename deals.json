@@ -1,7 +1,107 @@
 {
- "updated": "2026-11-20T14:03:39.935+09:00",
+ "updated": "2026-11-20T15:11:39.268+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8473121486",
+   "mall": "쿠팡",
+   "title": "켈로그 콘푸레이크 시리얼, 530g, 1개",
+   "price": 3900,
+   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/585351564718295-401fa965-d415-4185-a058-9c3f271eb11e.jpg",
+   "sentAt": "2026-11-20T15:11:38.494+09:00",
+   "saving": 42,
+   "baseline": 6680,
+   "baselineNote": "파는 곳이 여기 하나",
+   "unit": {
+    "label": "100g당",
+    "value": 736
+   },
+   "check": {
+    "market": 6680,
+    "malls": 1,
+    "ship": 3000,
+    "delivered": 9680
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 4800
+   },
+   "spec": [
+    "저지방",
+    "옥수수88%"
+   ],
+   "comps": [
+    {
+     "name": "파는 곳이 여기 하나",
+     "price": 6680
+    },
+    {
+     "name": "배송비 3,000원 포함",
+     "price": 9680
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 4800
+    },
+    {
+     "m": "26-01",
+     "p": 4800
+    },
+    {
+     "m": "26-02",
+     "p": 4800
+    },
+    {
+     "m": "26-03",
+     "p": 4800
+    },
+    {
+     "m": "26-04",
+     "p": 4800
+    },
+    {
+     "m": "26-05",
+     "p": 4800
+    },
+    {
+     "m": "26-06",
+     "p": 6680
+    },
+    {
+     "m": "26-07",
+     "p": 6680
+    },
+    {
+     "m": "26-08",
+     "p": 6680
+    },
+    {
+     "m": "26-09",
+     "p": 6680
+    },
+    {
+     "m": "26-10",
+     "p": 6680
+    },
+    {
+     "m": "26-11",
+     "p": 6680
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "롯데마트몰",
+     "code": "TU14D",
+     "id": "OS8801083421438",
+     "price": 6680,
+     "ship": 3000
+    }
+   ],
+   "link": "https://link.coupang.com/a/iPjeCc5dFA"
+  },
   {
    "uid": "7247883514",
    "mall": "지마켓",
@@ -3662,28 +3762,6 @@
     }
    ],
    "link": "http://app.ac/9EwLu4S63"
-  },
-  {
-   "uid": "6928403952",
-   "mall": "쿠팡",
-   "title": "컨피던스 비타민음료, 250ml, 30개",
-   "price": 12400,
-   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/1025_amir_coupang_oct_80k/5116/74434a02ece71d219667058c984c7cb349a52b507de60256045b693773a6.jpg",
-   "sentAt": "2026-11-17T14:11:55.926+09:00",
-   "saving": 26,
-   "baseline": 16830,
-   "baselineNote": "판매글 9곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 413
-   },
-   "comps": [
-    {
-     "name": "판매글 9곳 최저가",
-     "price": 16830
-    }
-   ],
-   "link": "https://link.coupang.com/a/iKgftMUPgy"
   }
  ]
 }
