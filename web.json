@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-20T15:47:37.394+09:00",
+ "updated": "2026-11-20T19:07:48.910+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "7974815380",
+   "mall": "지마켓",
+   "title": "칠성사이다 오리지널 350ml 48캔 + 짐색 증정",
+   "price": 29900,
+   "image": "https://gdimg.gmarket.co.kr/4553648588/goodsimage",
+   "sentAt": "2026-11-20T19:07:48.910+09:00",
+   "saving": 12,
+   "baseline": 33900,
+   "baselineNote": "판매글 17곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 17곳 최저가",
+     "price": 33900
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4553648588",
+   "web": true
+  },
   {
    "uid": "8952105741",
    "mall": "쿠팡",
@@ -13955,29 +13974,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/gchBLhlEWW",
-   "web": true
-  },
-  {
-   "uid": "1526235100",
-   "mall": "쿠팡",
-   "title": "오리온 돌아온 태양의 맛 썬, 135g, 5개",
-   "price": 8060,
-   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/58727107952865-ef56b79b-f846-494a-b509-53c99995367c.jpg",
-   "sentAt": "2026-11-06T22:34:27.160+09:00",
-   "saving": 62,
-   "baseline": 21156,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 1612
-   },
-   "comps": [
-    {
-     "name": "판매글 5곳 최저가",
-     "price": 21156
-    }
-   ],
-   "link": "https://link.coupang.com/a/isAr1DOVDo",
    "web": true
   }
  ]
