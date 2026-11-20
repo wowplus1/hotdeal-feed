@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-20T08:22:19.236+09:00",
+ "updated": "2026-11-20T10:46:37.290+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8033889607",
+   "mall": "쿠팡",
+   "title": "퀘이커 마시는 오트밀 오트 앤 그레인 낱봉팩, 50g, 20개",
+   "price": 12110,
+   "image": "https://t3a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/03/06/13/1/f811d58d-58ca-4ad4-a9e1-d744f8395a0b.jpg",
+   "sentAt": "2026-11-20T10:46:36.442+09:00",
+   "saving": 57,
+   "baseline": 27860,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 606
+   },
+   "comps": [
+    {
+     "name": "판매글 3곳 최저가",
+     "price": 27860
+    }
+   ],
+   "link": "https://link.coupang.com/a/hsfTDl2nBI"
+  },
   {
    "uid": "6757896090",
    "mall": "쿠팡",
@@ -3652,146 +3674,6 @@
     }
    ],
    "link": "http://app.ac/MjwzzSa73"
-  },
-  {
-   "uid": "9501109398",
-   "mall": "쿠팡",
-   "title": "오리온 도도한 나쵸 샤워크림 어니언 92g, 12개",
-   "price": 12530,
-   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/5061709653066101-84f5d453-b507-4f37-b41a-97719fbaf879.jpg",
-   "sentAt": "2026-11-17T12:21:18.244+09:00",
-   "saving": 21,
-   "baseline": 15800,
-   "baselineNote": "15곳 중 최저 · 무료배송",
-   "unit": {
-    "label": "개당",
-    "value": 1044
-   },
-   "check": {
-    "market": 15800,
-    "malls": 15,
-    "ship": 0
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": false,
-    "low": 10790
-   },
-   "comps": [
-    {
-     "name": "15곳 중 최저 · 무료배송",
-     "price": 15800
-    }
-   ],
-   "trend": [
-    {
-     "m": "25-12",
-     "p": 13910
-    },
-    {
-     "m": "26-01",
-     "p": 13190
-    },
-    {
-     "m": "26-02",
-     "p": 12100
-    },
-    {
-     "m": "26-03",
-     "p": 11290
-    },
-    {
-     "m": "26-04",
-     "p": 11290
-    },
-    {
-     "m": "26-05",
-     "p": 11290
-    },
-    {
-     "m": "26-06",
-     "p": 10790
-    },
-    {
-     "m": "26-07",
-     "p": 11750
-    },
-    {
-     "m": "26-08",
-     "p": 13200
-    },
-    {
-     "m": "26-09",
-     "p": 13190
-    },
-    {
-     "m": "26-10",
-     "p": 15800
-    },
-    {
-     "m": "26-11",
-     "p": 15800
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "F315746918",
-     "price": 15800,
-     "ship": 0
-    },
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "4502633556",
-     "price": 16000,
-     "ship": 0
-    },
-    {
-     "mall": "패션플러스",
-     "code": "TH002",
-     "id": "429203348",
-     "price": 16890,
-     "ship": 0
-    },
-    {
-     "mall": "하프클럽",
-     "code": "TZ6171",
-     "id": "403874803",
-     "price": 17240,
-     "ship": 0
-    },
-    {
-     "mall": "신세계몰",
-     "code": "ED901",
-     "id": "1000832092291",
-     "price": 17450,
-     "ship": 0
-    },
-    {
-     "mall": "이마트몰",
-     "code": "EE311",
-     "id": "1000832092291",
-     "price": 17450,
-     "ship": 0
-    },
-    {
-     "mall": "SSG.COM",
-     "code": "TN118",
-     "id": "1000832092291",
-     "price": 17450,
-     "ship": 0
-    },
-    {
-     "mall": "롯데ON",
-     "code": "EE309",
-     "id": "LO2689191287",
-     "price": 17860,
-     "ship": 0
-    }
-   ],
-   "link": "https://link.coupang.com/a/iJ8nEvR18S"
   }
  ]
 }
