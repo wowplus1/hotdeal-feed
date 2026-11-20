@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-20T17:17:24.350+09:00",
+ "updated": "2026-11-20T18:48:24.072+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9410149349",
+   "mall": "쿠팡",
+   "title": "프로쉬 알로에베라 고농축 섬유유연제 본품 750ml 3개",
+   "price": 17740,
+   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/6192392104097-485eb50f-d2c0-4058-9577-1abf5240ba95.jpg",
+   "sentAt": "2026-11-20T18:48:23.194+09:00",
+   "saving": 48,
+   "baseline": 34060,
+   "baselineNote": "판매글 13곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 5913
+   },
+   "comps": [
+    {
+     "name": "판매글 13곳 최저가",
+     "price": 34060
+    }
+   ],
+   "link": "https://link.coupang.com/a/iPyJUyo2iO"
+  },
   {
    "uid": "7549406487",
    "mall": "롯데온",
@@ -3597,24 +3619,6 @@
     }
    ],
    "link": "http://app.ac/0qDXBz283"
-  },
-  {
-   "uid": "9720480733",
-   "mall": "롯데온",
-   "title": "당일손질 냉장 닭다리살 1kg+1kg",
-   "price": 18820,
-   "image": "https://contents.lotteon.com/itemimage/20261116174007/LO/28/15/78/63/83/_2/81/57/86/38/4/LO2815786383_2815786384_1.jpg",
-   "sentAt": "2026-11-17T19:52:33.082+09:00",
-   "saving": 47,
-   "baseline": 35570,
-   "baselineNote": "판매글 12곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 12곳 최저가",
-     "price": 35570
-    }
-   ],
-   "link": "http://app.ac/O3Ce0zJ63"
   }
  ]
 }
