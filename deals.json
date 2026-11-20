@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-20T10:46:37.290+09:00",
+ "updated": "2026-11-20T11:42:37.728+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9358754988",
+   "mall": "쿠팡",
+   "title": "카시오 리니지 LIW-120DEJ-1AJF 솔라 시계",
+   "price": 115810,
+   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/dd48/0bcc29f18cd56f5783509b56f1d9e30427d887c5b9baf77ce464568d77fa.jpg",
+   "sentAt": "2026-11-20T11:42:36.885+09:00",
+   "saving": 22,
+   "baseline": 147740,
+   "baselineNote": "판매글 5곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 5곳 최저가",
+     "price": 147740
+    }
+   ],
+   "link": "https://link.coupang.com/a/iO4iDvBGFM"
+  },
   {
    "uid": "8033889607",
    "mall": "쿠팡",
@@ -3652,28 +3670,6 @@
     "value": 429
    },
    "link": "https://link.coupang.com/a/hV7OL25ShM"
-  },
-  {
-   "uid": "9086535662",
-   "mall": "롯데온",
-   "title": "쉐프컬렉션 넘버원 양꼬치 쫀득 꿔바로우 600g x 3팩",
-   "price": 14600,
-   "image": "https://contents.lotteon.com/itemimage/20261001111506/LO/27/82/38/34/50/_2/78/23/83/45/1/LO2782383450_2782383451_1.jpg",
-   "sentAt": "2026-11-17T12:52:21.476+09:00",
-   "saving": 54,
-   "baseline": 31450,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 4867
-   },
-   "comps": [
-    {
-     "name": "판매글 3곳 최저가",
-     "price": 31450
-    }
-   ],
-   "link": "http://app.ac/MjwzzSa73"
   }
  ]
 }
