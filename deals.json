@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-20T16:02:31.593+09:00",
+ "updated": "2026-11-20T16:57:54.788+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7620342566",
+   "mall": "롯데온",
+   "title": "오랄비 성인 칫솔 기능 별 대표 칫솔 12입",
+   "price": 11830,
+   "image": "https://contents.lotteon.com/itemimage/20260515175252/LO/25/01/95/85/58/_2/50/19/58/56/0/LO2501958558_2501958560_1.jpg",
+   "sentAt": "2026-11-20T16:57:53.526+09:00",
+   "saving": 23,
+   "baseline": 15440,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 986
+   },
+   "comps": [
+    {
+     "name": "판매글 3곳 최저가",
+     "price": 15440
+    }
+   ],
+   "link": "http://app.ac/GEwcJSS13"
+  },
   {
    "uid": "7886235444",
    "mall": "지마켓",
@@ -3589,19 +3611,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/g5U8TmHVHU"
-  },
-  {
-   "uid": "6387740760",
-   "mall": "쿠팡",
-   "title": "세균아 꼼짝마 3.5L",
-   "price": 15520,
-   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1921571935051-76244c47-7b50-4c7f-b071-8c2b8f0f4e46.jpg",
-   "sentAt": "2026-11-17T17:22:18.829+09:00",
-   "alt": {
-    "price": 18900,
-    "where": "115곳 중 최저"
-   },
-   "link": "https://link.coupang.com/a/iKtSOxVjob"
   }
  ]
 }
