@@ -1,7 +1,148 @@
 {
- "updated": "2026-11-21T00:32:01.879+09:00",
+ "updated": "2026-11-21T00:32:04.792+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "8812392843",
+   "mall": "쿠팡",
+   "title": "크라운 참쌀 누룽지, 216g, 3개",
+   "price": 8070,
+   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/7468316806486-3cc9e47c-39bc-45cc-94c6-ce6b573d6391.jpg",
+   "sentAt": "2026-11-21T00:32:04.792+09:00",
+   "saving": 40,
+   "baseline": 13380,
+   "baselineNote": "45곳 중 최저 · 무료배송",
+   "unit": {
+    "label": "개당",
+    "value": 2690
+   },
+   "check": {
+    "market": 13380,
+    "malls": 45,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 9150
+   },
+   "comps": [
+    {
+     "name": "45곳 중 최저 · 무료배송",
+     "price": 13380
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 11520
+    },
+    {
+     "m": "26-01",
+     "p": 11340
+    },
+    {
+     "m": "26-02",
+     "p": 11200
+    },
+    {
+     "m": "26-03",
+     "p": 11270
+    },
+    {
+     "m": "26-04",
+     "p": 11280
+    },
+    {
+     "m": "26-05",
+     "p": 10590
+    },
+    {
+     "m": "26-06",
+     "p": 10590
+    },
+    {
+     "m": "26-07",
+     "p": 10590
+    },
+    {
+     "m": "26-08",
+     "p": 10410
+    },
+    {
+     "m": "26-09",
+     "p": 9150
+    },
+    {
+     "m": "26-10",
+     "p": 12730
+    },
+    {
+     "m": "26-11",
+     "p": 12680
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "E741796041",
+     "price": 13380,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4159717929",
+     "price": 13380,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2734364807",
+     "price": 13680,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9521122625",
+     "price": 13870,
+     "ship": 0
+    },
+    {
+     "mall": "오늘의집",
+     "code": "TU710C",
+     "id": "2961593-22325045",
+     "price": 14600,
+     "ship": 0
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000628479133",
+     "price": 15066,
+     "ship": 0
+    },
+    {
+     "mall": "GS SHOP",
+     "code": "ED908",
+     "id": "1068907053",
+     "price": 15070,
+     "ship": 0
+    },
+    {
+     "mall": "nsmall",
+     "code": "ED904",
+     "id": "36078360",
+     "price": 15300,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/iPXgWvcatM",
+   "web": true
+  },
   {
    "uid": "6594922083",
    "mall": "지마켓",
@@ -14037,29 +14178,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4419346043",
-   "web": true
-  },
-  {
-   "uid": "1803769407",
-   "mall": "지마켓",
-   "title": "농부의아침 쌀10kg 상등급",
-   "price": 26950,
-   "image": "https://gdimg.gmarket.co.kr/484828506/goodsimage",
-   "sentAt": "2026-11-07T00:32:59.370+09:00",
-   "saving": 21,
-   "baseline": 33900,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": {
-    "label": "100g당",
-    "value": 270
-   },
-   "comps": [
-    {
-     "name": "판매글 4곳 최저가",
-     "price": 33900
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=484828506",
    "web": true
   }
  ]
