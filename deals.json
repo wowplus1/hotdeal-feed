@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-20T15:11:39.268+09:00",
+ "updated": "2026-11-20T15:21:21.342+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4009094420",
+   "mall": "롯데온",
+   "title": "꽃보다오징어 오리지날 230g+230g",
+   "price": 30620,
+   "image": "https://contents.lotteon.com/itemimage/20260806105528/LO/27/24/23/01/60/_2/72/42/30/16/1/LO2724230160_2724230161_1.jpg",
+   "sentAt": "2026-11-20T15:21:20.729+09:00",
+   "saving": 28,
+   "baseline": 42300,
+   "baselineNote": "판매글 10곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 10곳 최저가",
+     "price": 42300
+    }
+   ],
+   "link": "http://app.ac/R3MtilJ63"
+  },
   {
    "uid": "8473121486",
    "mall": "쿠팡",
@@ -3740,28 +3758,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iKl6ozBl5o"
-  },
-  {
-   "uid": "2572175529",
-   "mall": "롯데온",
-   "title": "울샴푸 실내건조 중성세제 오리지널 용기 1L*2개",
-   "price": 8750,
-   "image": "https://contents.lotteon.com/itemimage/20261113141522/LO/28/11/97/98/57/_2/81/19/79/85/8/LO2811979857_2811979858_1.png",
-   "sentAt": "2026-11-17T14:47:39.685+09:00",
-   "saving": 21,
-   "baseline": 11130,
-   "baselineNote": "판매글 10곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 4375
-   },
-   "comps": [
-    {
-     "name": "판매글 10곳 최저가",
-     "price": 11130
-    }
-   ],
-   "link": "http://app.ac/9EwLu4S63"
   }
  ]
 }
