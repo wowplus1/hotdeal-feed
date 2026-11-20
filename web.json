@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-20T23:28:13.662+09:00",
+ "updated": "2026-11-21T00:32:01.879+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "6594922083",
+   "mall": "지마켓",
+   "title": "안흥 할매 쌀 찐빵 30개",
+   "price": 10970,
+   "image": "https://gdimg.gmarket.co.kr/197096950/goodsimage",
+   "sentAt": "2026-11-21T00:32:01.879+09:00",
+   "saving": 21,
+   "baseline": 13811,
+   "baselineNote": "판매글 10곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 366
+   },
+   "comps": [
+    {
+     "name": "판매글 10곳 최저가",
+     "price": 13811
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=197096950",
+   "web": true
+  },
   {
    "uid": "5935947117",
    "mall": "11번가",
@@ -14037,25 +14060,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=484828506",
-   "web": true
-  },
-  {
-   "uid": "8357495935",
-   "mall": "11번가",
-   "title": "스너글 초고농축 섬유유연제 허거블코튼 용기, 2L, 1개 + 리필, 2.6L , 1개",
-   "price": 15150,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/7565511404/B.webp?441091743",
-   "sentAt": "2026-11-07T00:20:13.372+09:00",
-   "saving": 35,
-   "baseline": 23160,
-   "baselineNote": "판매글 9곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 9곳 최저가",
-     "price": 23160
-    }
-   ],
-   "link": "http://app.ac/LtnK9WM93",
    "web": true
   }
  ]
