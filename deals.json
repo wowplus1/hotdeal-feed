@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-20T11:42:37.728+09:00",
+ "updated": "2026-11-20T12:27:53.282+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8138908563",
+   "mall": "11번가",
+   "title": "해남 햇 호박고구마 5kg 특상호풍미",
+   "price": 11860,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9623511797/B.webp?35502021",
+   "sentAt": "2026-11-20T12:27:52.264+09:00",
+   "saving": 25,
+   "baseline": 15830,
+   "baselineNote": "판매글 14곳 최저가",
+   "unit": {
+    "label": "100g당",
+    "value": 237
+   },
+   "comps": [
+    {
+     "name": "판매글 14곳 최저가",
+     "price": 15830
+    }
+   ],
+   "link": "http://app.ac/X3MF1xJ13"
+  },
   {
    "uid": "9358754988",
    "mall": "쿠팡",
@@ -3657,19 +3679,6 @@
     "where": "533곳 중 최저"
    },
    "link": "https://link.coupang.com/a/gcbVnVLyUu"
-  },
-  {
-   "uid": "4013898697",
-   "mall": "쿠팡",
-   "title": "해태htb 갈배사이다 355ml 24개",
-   "price": 10300,
-   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/1a37/20b87b6b721eb1c17839ccb8de429282fefef017fa3ae9fb3bf999a6c7e0.jpg",
-   "sentAt": "2026-11-17T13:37:17.108+09:00",
-   "unit": {
-    "label": "개당",
-    "value": 429
-   },
-   "link": "https://link.coupang.com/a/hV7OL25ShM"
   }
  ]
 }
