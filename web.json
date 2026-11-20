@@ -1,7 +1,119 @@
 {
- "updated": "2026-11-21T00:32:04.792+09:00",
+ "updated": "2026-11-21T00:34:16.985+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "9447353994",
+   "mall": "쿠팡",
+   "title": "오리온 미쯔 황치즈 6p 222g 2개",
+   "price": 6720,
+   "image": "https://thumbnail1.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/4f1a94ee-e9ab-4e85-bf80-6c4cb58b39b78163685498903593492.png",
+   "sentAt": "2026-11-21T00:34:16.985+09:00",
+   "saving": 39,
+   "baseline": 11080,
+   "baselineNote": "57곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 3360
+   },
+   "check": {
+    "market": 11080,
+    "malls": 57
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": false,
+    "low": 6720
+   },
+   "comps": [
+    {
+     "name": "57곳 중 최저",
+     "price": 11080
+    }
+   ],
+   "trend": [
+    {
+     "m": "26-07",
+     "p": 10080
+    },
+    {
+     "m": "26-08",
+     "p": 6720
+    },
+    {
+     "m": "26-09",
+     "p": 6720
+    },
+    {
+     "m": "26-10",
+     "p": 11210
+    },
+    {
+     "m": "26-11",
+     "p": 11080
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9491325263",
+     "price": 11080,
+     "ship": 3000
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4803891894",
+     "price": 11090,
+     "ship": 3000
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2722650782",
+     "price": 14080,
+     "ship": 0
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F673025139",
+     "price": 20360,
+     "ship": 0
+    },
+    {
+     "mall": "주식회사 신세계라이브쇼핑",
+     "code": "TRB03",
+     "id": "1004696341",
+     "price": 20740,
+     "ship": 0
+    },
+    {
+     "mall": "현대Hmall",
+     "code": "ED907",
+     "id": "2254099084",
+     "price": 20930,
+     "ship": 0
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000876451944",
+     "price": 21669,
+     "ship": 0
+    },
+    {
+     "mall": "SK스토아",
+     "code": "TSB275",
+     "id": "68820734",
+     "price": 21670,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/hpiBScsju0",
+   "web": true
+  },
   {
    "uid": "8812392843",
    "mall": "쿠팡",
@@ -14155,29 +14267,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/isLWZVGwRU",
-   "web": true
-  },
-  {
-   "uid": "5096167479",
-   "mall": "지마켓",
-   "title": "신대장 떡볶이 5팩",
-   "price": 7340,
-   "image": "https://gdimg.gmarket.co.kr/4419346043/goodsimage",
-   "sentAt": "2026-11-07T00:44:06.725+09:00",
-   "saving": 40,
-   "baseline": 12270,
-   "baselineNote": "판매글 7곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 1468
-   },
-   "comps": [
-    {
-     "name": "판매글 7곳 최저가",
-     "price": 12270
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4419346043",
    "web": true
   }
  ]
