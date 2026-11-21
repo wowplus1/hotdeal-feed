@@ -1,7 +1,142 @@
 {
- "updated": "2026-11-22T00:07:05.888+09:00",
+ "updated": "2026-11-22T00:28:38.574+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "8505403514",
+   "mall": "쿠팡",
+   "title": "프링글스 치즈맛 110g 12개",
+   "price": 16320,
+   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/108569481214268-23f2dc8f-ff8b-44ab-b8d2-2394b4274abb.jpg",
+   "sentAt": "2026-11-22T00:28:38.574+09:00",
+   "saving": 15,
+   "baseline": 19185,
+   "baselineNote": "398곳 중 최저 · 무료배송",
+   "unit": {
+    "label": "개당",
+    "value": 1360
+   },
+   "check": {
+    "market": 19185,
+    "malls": 398,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 17412
+   },
+   "review": {
+    "score": 4.7,
+    "count": 540,
+    "low": 8
+   },
+   "spec": [
+    "감자칩",
+    "대두, 밀, 우유",
+    "말레이시아"
+   ],
+   "comps": [
+    {
+     "name": "398곳 중 최저 · 무료배송",
+     "price": 19185
+    }
+   ],
+   "trend": [
+    {
+     "m": "26-04",
+     "p": 19360
+    },
+    {
+     "m": "26-05",
+     "p": 19360
+    },
+    {
+     "m": "26-06",
+     "p": 20010
+    },
+    {
+     "m": "26-07",
+     "p": 18830
+    },
+    {
+     "m": "26-08",
+     "p": 18900
+    },
+    {
+     "m": "26-09",
+     "p": 19700
+    },
+    {
+     "m": "26-10",
+     "p": 17412
+    },
+    {
+     "m": "26-11",
+     "p": 19193
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000178321900",
+     "price": 19185,
+     "ship": 0
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "E641974153",
+     "price": 19980,
+     "ship": 0
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4055853468",
+     "price": 19980,
+     "ship": 0
+    },
+    {
+     "mall": "현대Hmall",
+     "code": "ED907",
+     "id": "2215080252",
+     "price": 20430,
+     "ship": 0
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000178321900",
+     "price": 20628,
+     "ship": 0
+    },
+    {
+     "mall": "신세계몰",
+     "code": "ED901",
+     "id": "1000178321900",
+     "price": 20628,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "3745286899",
+     "price": 21520,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2346677328",
+     "price": 21650,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/iRBWi0XqkC",
+   "web": true
+  },
   {
    "uid": "6797457249",
    "mall": "지마켓",
@@ -13947,103 +14082,6 @@
     }
    ],
    "link": "http://app.ac/z3CEkcJ33",
-   "web": true
-  },
-  {
-   "uid": "5992668840",
-   "mall": "지마켓",
-   "title": "차일드라이프 액상 칼슘 마그네슘 오렌지맛 473ml 2개 40,060원",
-   "price": 40060,
-   "image": "https://gdimg.gmarket.co.kr/3252000537/goodsimage",
-   "sentAt": "2026-11-07T13:01:12.776+09:00",
-   "saving": 16,
-   "baseline": 47660,
-   "baselineNote": "38곳 중 최저 · 무료배송",
-   "unit": {
-    "label": "개당",
-    "value": 20030
-   },
-   "check": {
-    "market": 47660,
-    "malls": 38,
-    "ship": 0
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": true,
-    "low": 41500
-   },
-   "review": {
-    "score": 4.6,
-    "count": 179,
-    "low": 1
-   },
-   "comps": [
-    {
-     "name": "38곳 중 최저 · 무료배송",
-     "price": 47660
-    }
-   ],
-   "trend": [
-    {
-     "m": "26-07",
-     "p": 47700
-    },
-    {
-     "m": "26-08",
-     "p": 45920
-    },
-    {
-     "m": "26-09",
-     "p": 41500
-    },
-    {
-     "m": "26-10",
-     "p": 44700
-    },
-    {
-     "m": "26-11",
-     "p": 47660
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "2930844921",
-     "price": 47660,
-     "ship": 0
-    },
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "3252000537",
-     "price": 47670,
-     "ship": 0
-    },
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "D666810887",
-     "price": 52260,
-     "ship": 0
-    },
-    {
-     "mall": "TY4C4",
-     "code": "TY4C4",
-     "id": "13338693992",
-     "price": 59000,
-     "ship": 9900
-    },
-    {
-     "mall": "롯데ON",
-     "code": "EE309",
-     "id": "LO2207991109",
-     "price": 64000,
-     "ship": 0
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=3252000537",
    "web": true
   }
  ]
