@@ -1,7 +1,79 @@
 {
- "updated": "2026-11-21T09:22:25.356+09:00",
+ "updated": "2026-11-21T09:41:54.474+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4642355354",
+   "mall": "쿠팡",
+   "title": "맑은내일 양파껍질차, 500ml, 24개",
+   "price": 20930,
+   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/image_audit/prod/99200944-08c7-4db5-844f-978cf336e1b3_fixing_v2.png",
+   "sentAt": "2026-11-21T09:41:53.876+09:00",
+   "saving": 43,
+   "baseline": 36940,
+   "baselineNote": "판매글 7곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 872
+   },
+   "comps": [
+    {
+     "name": "판매글 7곳 최저가",
+     "price": 36940
+    }
+   ],
+   "link": "https://link.coupang.com/a/gzwwOzrU84"
+  },
+  {
+   "uid": "3768456788",
+   "mall": "쿠팡",
+   "title": "클룹 애사비소다 화이바 제로 탄산음료 500ml 20개",
+   "price": 15170,
+   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/75736681051792-1e631e15-1bf4-4885-b50b-c01e6fa954e8.jpg",
+   "sentAt": "2026-11-21T09:41:53.876+09:00",
+   "saving": 26,
+   "baseline": 20500,
+   "baselineNote": "15곳 중 최저 · 무료배송",
+   "unit": {
+    "label": "개당",
+    "value": 759
+   },
+   "check": {
+    "market": 20500,
+    "malls": 15,
+    "ship": 0
+   },
+   "comps": [
+    {
+     "name": "15곳 중 최저 · 무료배송",
+     "price": 20500
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4880985526",
+     "price": 20500,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9769339144",
+     "price": 32620,
+     "ship": 3000
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F665791357",
+     "price": 33100,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/iQAAVnoDcq"
+  },
   {
    "uid": "1782907575",
    "mall": "쿠팡",
@@ -3464,152 +3536,6 @@
     }
    ],
    "link": "https://toss.shopping/_m/JaZF1CH6"
-  },
-  {
-   "uid": "2615627922",
-   "mall": "쿠팡",
-   "title": "해태제과 에이스 과자, 218g, 4개",
-   "price": 6510,
-   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/37082649193082-6d3e72a4-b4fd-4460-84b8-a65cf014b86b.jpg",
-   "sentAt": "2026-11-18T08:21:55.267+09:00",
-   "saving": 42,
-   "baseline": 11240,
-   "baselineNote": "47곳 중 최저 · 무료배송",
-   "unit": {
-    "label": "개당",
-    "value": 1628
-   },
-   "check": {
-    "market": 11240,
-    "malls": 47,
-    "ship": 0
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": true,
-    "low": 6900
-   },
-   "comps": [
-    {
-     "name": "47곳 중 최저 · 무료배송",
-     "price": 11240
-    }
-   ],
-   "trend": [
-    {
-     "m": "26-04",
-     "p": 10980
-    },
-    {
-     "m": "26-05",
-     "p": 10980
-    },
-    {
-     "m": "26-06",
-     "p": 7420
-    },
-    {
-     "m": "26-07",
-     "p": 7420
-    },
-    {
-     "m": "26-08",
-     "p": 7420
-    },
-    {
-     "m": "26-09",
-     "p": 6900
-    },
-    {
-     "m": "26-10",
-     "p": 10650
-    },
-    {
-     "m": "26-11",
-     "p": 10690
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "8031000787",
-     "price": 11240,
-     "ship": 0
-    },
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "F670318459",
-     "price": 11250,
-     "ship": 0
-    },
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "4862669305",
-     "price": 11260,
-     "ship": 0
-    },
-    {
-     "mall": "롯데ON",
-     "code": "EE309",
-     "id": "LO2779010866",
-     "price": 11350,
-     "ship": 0
-    },
-    {
-     "mall": "SSG.COM",
-     "code": "TN118",
-     "id": "1000884050486",
-     "price": 11427,
-     "ship": 0
-    },
-    {
-     "mall": "이마트몰",
-     "code": "EE311",
-     "id": "1000653917253",
-     "price": 11926,
-     "ship": 0
-    },
-    {
-     "mall": "신세계몰",
-     "code": "ED901",
-     "id": "1000653917253",
-     "price": 11926,
-     "ship": 0
-    },
-    {
-     "mall": "W쇼핑",
-     "code": "TZ9CF",
-     "id": "20280894",
-     "price": 12060,
-     "ship": 0
-    }
-   ],
-   "link": "https://link.coupang.com/a/iLv7Wkckai"
-  },
-  {
-   "uid": "5640942735",
-   "mall": "쿠팡",
-   "title": "코카콜라 오리지널, 490ml, 24개",
-   "price": 19840,
-   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2918734753703087-096f0cda-b353-4cae-b267-5146a90df5ba.jpg",
-   "sentAt": "2026-11-18T07:31:11.761+09:00",
-   "saving": 30,
-   "baseline": 28300,
-   "baselineNote": "판매글 34곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 827
-   },
-   "comps": [
-    {
-     "name": "판매글 34곳 최저가",
-     "price": 28300
-    }
-   ],
-   "link": "https://link.coupang.com/a/iLsyrVzII0"
   }
  ]
 }
