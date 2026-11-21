@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-21T09:41:54.474+09:00",
+ "updated": "2026-11-21T10:58:10.715+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7428520789",
+   "mall": "롯데온",
+   "title": "필라델피아 치즈케익 28OZ 794g",
+   "price": 19510,
+   "image": "https://contents.lotteon.com/itemimage/20260805111120/LO/20/49/79/00/89/_2/04/97/90/09/4/LO2049790089_2049790094_1.jpg",
+   "sentAt": "2026-11-21T10:58:09.921+09:00",
+   "saving": 21,
+   "baseline": 24840,
+   "baselineNote": "판매글 10곳 최저가",
+   "unit": {
+    "label": "100g당",
+    "value": 2457
+   },
+   "comps": [
+    {
+     "name": "판매글 10곳 최저가",
+     "price": 24840
+    }
+   ],
+   "link": "http://app.ac/KAGKIq543"
+  },
   {
    "uid": "4642355354",
    "mall": "쿠팡",
@@ -3514,28 +3536,6 @@
     }
    ],
    "link": "https://toss.shopping/_m/dizfkv6d"
-  },
-  {
-   "uid": "4514302731",
-   "mall": "토스쇼핑",
-   "title": "배스킨라빈스 쫀떡궁합 파이, 264g, 3개",
-   "price": 9908,
-   "image": "https://shopping.toss.im/live/temp/2024-10-23/4a01685e-d2aa-41c0-98fb-dcc237575d75.jpeg",
-   "sentAt": "2026-11-18T09:27:08.706+09:00",
-   "saving": 37,
-   "baseline": 15700,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 3303
-   },
-   "comps": [
-    {
-     "name": "판매글 5곳 최저가",
-     "price": 15700
-    }
-   ],
-   "link": "https://toss.shopping/_m/JaZF1CH6"
   }
  ]
 }
