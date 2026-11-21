@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-21T15:31:21.665+09:00",
+ "updated": "2026-11-21T16:56:36.962+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8574037819",
+   "mall": "11번가",
+   "title": "12brix이상 제주 노지 조생 타이벡 감귤 로얄과 3kg 외",
+   "price": 8960,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/pd/v2/3/1/2/1/5/4/aTUKY/9725312154_B.webp",
+   "sentAt": "2026-11-21T16:56:36.000+09:00",
+   "saving": 47,
+   "baseline": 16920,
+   "baselineNote": "판매글 8곳 최저가",
+   "unit": {
+    "label": "100g당",
+    "value": 299
+   },
+   "comps": [
+    {
+     "name": "판매글 8곳 최저가",
+     "price": 16920
+    }
+   ],
+   "link": "http://app.ac/KtnIPiM23"
+  },
   {
    "uid": "6552521468",
    "mall": "지마켓",
@@ -3418,24 +3440,6 @@
     }
    ],
    "link": "https://toss.im/_m/Pg1oliwn"
-  },
-  {
-   "uid": "4481964100",
-   "mall": "GS SHOP",
-   "title": "깨끗한나라 휴대용 미용티슈70매 x 10팩",
-   "price": 6210,
-   "image": "https://asset.m-gs.kr/prod/1125697537/1/280",
-   "sentAt": "2026-11-18T12:16:56.375+09:00",
-   "saving": 26,
-   "baseline": 8360,
-   "baselineNote": "판매글 6곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 6곳 최저가",
-     "price": 8360
-    }
-   ],
-   "link": "http://app.ac/PjpcX7a53"
   }
  ]
 }
