@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-21T19:07:36.200+09:00",
+ "updated": "2026-11-21T21:31:34.996+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9521493978",
+   "mall": "토스쇼핑",
+   "title": "블루나 본 물티슈 퓨어 캡형 저자극 대용량, 100매, 10팩, 1박스",
+   "price": 6006,
+   "image": "https://shopping.toss.im/live/temp/2026-08-07/be8b0c00-e279-4ee3-9860-66dfd269c3d1.jpeg",
+   "sentAt": "2026-11-21T21:31:34.180+09:00",
+   "saving": 30,
+   "baseline": 8560,
+   "baselineNote": "판매글 7곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 7곳 최저가",
+     "price": 8560
+    }
+   ],
+   "link": "https://toss.shopping/_m/Z0dHMA9l"
+  },
   {
    "uid": "1798825059",
    "mall": "쿠팡",
@@ -3391,24 +3409,6 @@
     }
    ],
    "link": "http://app.ac/GbG5wul03"
-  },
-  {
-   "uid": "3875252067",
-   "mall": "토스쇼핑",
-   "title": "모나리자 에코 미용티슈, 300매, 12입, 1박스",
-   "price": 11900,
-   "image": "https://shopping.toss.im/live/temp/2026-09-08/131ff3ca-add9-4eb4-887d-a5bfc5f03ac0.jpeg",
-   "sentAt": "2026-11-18T14:11:40.808+09:00",
-   "saving": 59,
-   "baseline": 29200,
-   "baselineNote": "판매글 4곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 4곳 최저가",
-     "price": 29200
-    }
-   ],
-   "link": "https://toss.shopping/_m/fwlk6mt3"
   }
  ]
 }
