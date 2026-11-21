@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-21T16:56:36.962+09:00",
+ "updated": "2026-11-21T17:07:02.445+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2265294011",
+   "mall": "지마켓",
+   "title": "웰치스 소다 355ml 총 24캔",
+   "price": 14370,
+   "image": "https://gdimg.gmarket.co.kr/4428804789/goodsimage",
+   "sentAt": "2026-11-21T17:07:01.870+09:00",
+   "saving": 30,
+   "baseline": 20640,
+   "baselineNote": "판매글 11곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 599
+   },
+   "comps": [
+    {
+     "name": "판매글 11곳 최저가",
+     "price": 20640
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4428804789"
+  },
   {
    "uid": "8574037819",
    "mall": "11번가",
@@ -3422,24 +3444,6 @@
     }
    ],
    "link": "http://app.ac/gAViMa513"
-  },
-  {
-   "uid": "6063317362",
-   "mall": "토스쇼핑",
-   "title": "에어보나 LED 스탠드, AB 578LS, 화이트, 1개",
-   "price": 8460,
-   "image": "https://shopping.toss.im/live/temp/2025-07-25/1226c7e7-f6ba-4b49-9895-1390ec796e69.jpeg",
-   "sentAt": "2026-11-18T12:57:21.743+09:00",
-   "saving": 57,
-   "baseline": 19570,
-   "baselineNote": "판매글 4곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 4곳 최저가",
-     "price": 19570
-    }
-   ],
-   "link": "https://toss.im/_m/Pg1oliwn"
   }
  ]
 }
