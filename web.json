@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-21T09:43:34.938+09:00",
+ "updated": "2026-11-21T10:57:11.854+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "1428785980",
+   "mall": "지마켓",
+   "title": "훈제 메추리알 15g 40개입",
+   "price": 21460,
+   "image": "https://gdimg.gmarket.co.kr/4717154401/goodsimage",
+   "sentAt": "2026-11-21T10:57:11.854+09:00",
+   "saving": 17,
+   "baseline": 25840,
+   "baselineNote": "판매글 8곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 537
+   },
+   "comps": [
+    {
+     "name": "판매글 8곳 최저가",
+     "price": 25840
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4717154401",
+   "web": true
+  },
   {
    "uid": "9795879176",
    "mall": "쿠팡",
@@ -8796,29 +8819,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iz6Fv5ZYLQ",
-   "web": true
-  },
-  {
-   "uid": "1428785980",
-   "mall": "지마켓",
-   "title": "훈제 메추리알 15g 40개입",
-   "price": 19900,
-   "image": "https://gdimg.gmarket.co.kr/4717154401/goodsimage",
-   "sentAt": "2026-11-11T11:09:41.526+09:00",
-   "saving": 23,
-   "baseline": 25840,
-   "baselineNote": "판매글 6곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 498
-   },
-   "comps": [
-    {
-     "name": "판매글 6곳 최저가",
-     "price": 25840
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4717154401",
    "web": true
   },
   {
