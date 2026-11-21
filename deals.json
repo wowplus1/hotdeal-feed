@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-21T15:08:22.875+09:00",
+ "updated": "2026-11-21T15:31:21.665+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6552521468",
+   "mall": "지마켓",
+   "title": "삼성 정품 60W 충전기 EP-T6010NBKGKR",
+   "price": 37020,
+   "image": "https://gdimg.gmarket.co.kr/4727413781/goodsimage",
+   "sentAt": "2026-11-21T15:31:20.951+09:00",
+   "saving": 36,
+   "baseline": 58100,
+   "baselineNote": "판매글 3곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 3곳 최저가",
+     "price": 58100
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4727413781"
+  },
   {
    "uid": "2706340251",
    "mall": "쿠팡",
@@ -3418,28 +3436,6 @@
     }
    ],
    "link": "http://app.ac/PjpcX7a53"
-  },
-  {
-   "uid": "8597167292",
-   "mall": "쿠팡",
-   "title": "백설 부침가루 1kg 2개",
-   "price": 4650,
-   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/09f0/704f916bb5a7da6c8866a1fcf069445b10c2e9118d396db92f1ca986cc3b.jpg",
-   "sentAt": "2026-11-18T11:58:25.181+09:00",
-   "saving": 43,
-   "baseline": 8090,
-   "baselineNote": "판매글 7곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 2325
-   },
-   "comps": [
-    {
-     "name": "판매글 7곳 최저가",
-     "price": 8090
-    }
-   ],
-   "link": "https://link.coupang.com/a/iLLDgkHEPc"
   }
  ]
 }
