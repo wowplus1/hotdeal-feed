@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-21T10:57:11.854+09:00",
+ "updated": "2026-11-21T11:02:57.695+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "5834251095",
+   "mall": "쿠팡",
+   "title": "코카콜라 오리지널, 300ml, 24개",
+   "price": 15990,
+   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/product/image/vendoritem/2019/02/27/3000333188/e9f052e6-5ae6-45e6-a2b0-e60fe3dbe7ac.jpg",
+   "sentAt": "2026-11-21T11:02:57.695+09:00",
+   "saving": 27,
+   "baseline": 22050,
+   "baselineNote": "판매글 28곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 666
+   },
+   "comps": [
+    {
+     "name": "판매글 28곳 최저가",
+     "price": 22050
+    }
+   ],
+   "link": "https://link.coupang.com/a/giK9GtXE4q",
+   "web": true
+  },
   {
    "uid": "1428785980",
    "mall": "지마켓",
@@ -14250,29 +14273,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/itnxBiwGlM",
-   "web": true
-  },
-  {
-   "uid": "7806469805",
-   "mall": "쿠팡",
-   "title": "고추나라 맛다시 양념, 90g, 10개",
-   "price": 9450,
-   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/f4b1/64267870230f8ce91ff7aa71ef46439a18c93886ec331c056686a451ed7e.jpg",
-   "sentAt": "2026-11-07T08:40:27.347+09:00",
-   "saving": 38,
-   "baseline": 15320,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 945
-   },
-   "comps": [
-    {
-     "name": "판매글 3곳 최저가",
-     "price": 15320
-    }
-   ],
-   "link": "https://link.coupang.com/a/gjLHHLSiIu",
    "web": true
   }
  ]
