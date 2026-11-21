@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-22T00:28:38.574+09:00",
+ "updated": "2026-11-22T01:52:55.824+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "6102853664",
+   "mall": "쿠팡",
+   "title": "존바바토스 아티산 오 드 뚜왈렛 125ml",
+   "price": 35610,
+   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/1025_amir_coupang_oct_80k/ecdb/0f30ab25ff79e5b8d06f96a76fc084bc19d77189c0765077aad909779615.jpg",
+   "sentAt": "2026-11-22T01:52:55.824+09:00",
+   "saving": 28,
+   "baseline": 49760,
+   "baselineNote": "판매글 15곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 15곳 최저가",
+     "price": 49760
+    }
+   ],
+   "link": "https://link.coupang.com/a/h3mwwLdmSW",
+   "web": true
+  },
   {
    "uid": "8505403514",
    "mall": "쿠팡",
@@ -14063,25 +14082,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/itBo2tYnuu",
-   "web": true
-  },
-  {
-   "uid": "9877883046",
-   "mall": "11번가",
-   "title": "비트 스트롱세븐 일반 3L 용기, 1개 + 일반드럼겸용 2.22L 리필, 3개",
-   "price": 16840,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/7278016319/B.webp?26424105",
-   "sentAt": "2026-11-07T13:25:06.802+09:00",
-   "saving": 15,
-   "baseline": 19900,
-   "baselineNote": "판매글 8곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 8곳 최저가",
-     "price": 19900
-    }
-   ],
-   "link": "http://app.ac/z3CEkcJ33",
    "web": true
   }
  ]
