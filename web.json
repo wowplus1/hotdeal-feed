@@ -1,7 +1,93 @@
 {
- "updated": "2026-11-22T16:38:08.529+09:00",
+ "updated": "2026-11-22T18:01:46.440+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "2810548633",
+   "mall": "지마켓",
+   "title": "오늘도 신동진 10kg 26년 햅쌀 옥구농협 상등급 단일품종",
+   "price": 27710,
+   "image": "https://gdimg.gmarket.co.kr/2826955382/goodsimage",
+   "sentAt": "2026-11-22T18:01:46.440+09:00",
+   "saving": 16,
+   "baseline": 33130,
+   "baselineNote": "25곳 중 최저 · 무료배송",
+   "unit": {
+    "label": "100g당",
+    "value": 277
+   },
+   "check": {
+    "market": 33130,
+    "malls": 25,
+    "ship": 0
+   },
+   "comps": [
+    {
+     "name": "25곳 중 최저 · 무료배송",
+     "price": 33130
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4187587930",
+     "price": 33130,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9538619133",
+     "price": 33840,
+     "ship": 0
+    },
+    {
+     "mall": "배민상회",
+     "code": "TWB192",
+     "id": "422569",
+     "price": 33853,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2741410040",
+     "price": 33860,
+     "ship": 0
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "E768072378",
+     "price": 35500,
+     "ship": 0
+    },
+    {
+     "mall": "GS SHOP",
+     "code": "ED908",
+     "id": "1032875251",
+     "price": 36580,
+     "ship": 0
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000548093806",
+     "price": 37107,
+     "ship": 0
+    },
+    {
+     "mall": "nsmall",
+     "code": "ED904",
+     "id": "36095228",
+     "price": 37900,
+     "ship": 0
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=2826955382",
+   "web": true
+  },
   {
    "uid": "8164639675",
    "mall": "지마켓",
@@ -13764,148 +13850,6 @@
     }
    ],
    "link": "http://app.ac/h3Ct3kJ93",
-   "web": true
-  },
-  {
-   "uid": "8655260708",
-   "mall": "쿠팡",
-   "title": "풀무원 평양 물냉면 4인분, 1.692kg, 1개",
-   "price": 3480,
-   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/3758552110781742-781988b0-aa57-4e97-8dfe-ebebd9927449.jpg",
-   "sentAt": "2026-11-07T22:34:01.700+09:00",
-   "saving": 64,
-   "baseline": 9570,
-   "baselineNote": "21곳 중 최저",
-   "unit": {
-    "label": "100g당",
-    "value": 206
-   },
-   "check": {
-    "market": 9570,
-    "malls": 21,
-    "ship": 3000,
-    "delivered": 12570
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": true,
-    "low": 6630
-   },
-   "review": {
-    "score": 4.9,
-    "count": 6383,
-    "low": 4
-   },
-   "spec": [
-    "즉석면요리",
-    "생면",
-    "냉장보관"
-   ],
-   "comps": [
-    {
-     "name": "21곳 중 최저",
-     "price": 9570
-    },
-    {
-     "name": "배송비 3,000원 포함",
-     "price": 12570
-    }
-   ],
-   "trend": [
-    {
-     "m": "25-12",
-     "p": 8620
-    },
-    {
-     "m": "26-01",
-     "p": 6630
-    },
-    {
-     "m": "26-02",
-     "p": 8640
-    },
-    {
-     "m": "26-03",
-     "p": 8830
-    },
-    {
-     "m": "26-04",
-     "p": 8800
-    },
-    {
-     "m": "26-05",
-     "p": 6980
-    },
-    {
-     "m": "26-06",
-     "p": 6980
-    },
-    {
-     "m": "26-07",
-     "p": 6880
-    },
-    {
-     "m": "26-08",
-     "p": 6880
-    },
-    {
-     "m": "26-09",
-     "p": 6980
-    },
-    {
-     "m": "26-10",
-     "p": 9570
-    },
-    {
-     "m": "26-11",
-     "p": 9650
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "3986097754",
-     "price": 9570,
-     "ship": 3000
-    },
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "E580746293",
-     "price": 9570,
-     "ship": 3000
-    },
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "8233702327",
-     "price": 9790,
-     "ship": 3000
-    },
-    {
-     "mall": "SSG.COM",
-     "code": "TN118",
-     "id": "0000008231600",
-     "price": 9980,
-     "ship": 3000
-    },
-    {
-     "mall": "이마트몰",
-     "code": "EE311",
-     "id": "0000008231600",
-     "price": 9980,
-     "ship": 3000
-    },
-    {
-     "mall": "롯데ON",
-     "code": "EE309",
-     "id": "LO2701476889",
-     "price": 11370,
-     "ship": 3000
-    }
-   ],
-   "link": "https://link.coupang.com/a/iuflDGWc1c",
    "web": true
   }
  ]
