@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-22T11:12:38.510+09:00",
+ "updated": "2026-11-22T12:32:01.257+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9626072550",
+   "mall": "토스쇼핑",
+   "title": "베라 4ZERO 팝업 뽑아쓰는 키친타올, 3겹, 100매, 9팩",
+   "price": 6200,
+   "image": "https://shopping.toss.im/live/taca/ai/v2/ODQyMGY2/SXl3OGIza2VYQk9jdzhNRWdPR2g3RXVValp0NmNKeHhad2RlRUdjT1BsND0.png",
+   "sentAt": "2026-11-22T12:32:00.463+09:00",
+   "saving": 40,
+   "baseline": 10260,
+   "baselineNote": "판매글 28곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 28곳 최저가",
+     "price": 10260
+    }
+   ],
+   "link": "https://toss.shopping/_m/NWkR52d6"
+  },
   {
    "uid": "7060821273",
    "mall": "토스쇼핑",
@@ -3481,28 +3499,6 @@
     }
    ],
    "link": "https://toss.shopping/_m/bQNxjWI1"
-  },
-  {
-   "uid": "2787702477",
-   "mall": "GS SHOP",
-   "title": "도브 대용량 비누 135g x 10개",
-   "price": 9078,
-   "image": "https://asset.m-gs.kr/prod/54750180/1/280",
-   "sentAt": "2026-11-18T17:26:31.482+09:00",
-   "saving": 40,
-   "baseline": 15060,
-   "baselineNote": "판매글 34곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 908
-   },
-   "comps": [
-    {
-     "name": "판매글 34곳 최저가",
-     "price": 15060
-    }
-   ],
-   "link": "http://app.ac/RqDgk0223"
   }
  ]
 }
