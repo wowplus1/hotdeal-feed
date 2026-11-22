@@ -1,7 +1,47 @@
 {
- "updated": "2026-11-21T21:31:34.996+09:00",
+ "updated": "2026-11-22T09:06:55.702+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2297755333",
+   "mall": "쿠팡",
+   "title": "스프라이트 사이다, 190ml, 30개",
+   "price": 12000,
+   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/472282660049551-2c914374-9b9d-4629-8e4f-ae06c0e41039.jpg",
+   "sentAt": "2026-11-22T09:06:54.925+09:00",
+   "saving": 36,
+   "baseline": 18879,
+   "baselineNote": "판매글 10곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 400
+   },
+   "comps": [
+    {
+     "name": "판매글 10곳 최저가",
+     "price": 18879
+    }
+   ],
+   "link": "https://link.coupang.com/a/hHauQSVcK4"
+  },
+  {
+   "uid": "2347167382",
+   "mall": "쿠팡",
+   "title": "배스킨라빈스 민트초코 우유 190ml*24개",
+   "price": 11900,
+   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1155570306024914-e9962cfd-802d-46a3-8836-be46bf1e68cf.jpg",
+   "sentAt": "2026-11-22T09:06:54.925+09:00",
+   "unit": {
+    "label": "개당",
+    "value": 496
+   },
+   "alt": {
+    "price": 16810,
+    "where": "140곳 중 최저",
+    "ship": 0
+   },
+   "link": "https://link.coupang.com/a/hL1EGVlYxo"
+  },
   {
    "uid": "9521493978",
    "mall": "토스쇼핑",
@@ -3365,50 +3405,6 @@
     }
    ],
    "link": "http://app.ac/oAGKCP503"
-  },
-  {
-   "uid": "3272032410",
-   "mall": "쿠팡",
-   "title": "광동제약 아이스웨일 플레인 제로 탄산수, 500ml, 40개",
-   "price": 13300,
-   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/441750504779171-37c18c41-61b7-4f4f-91ab-58c9a19d4345.jpg",
-   "sentAt": "2026-11-18T15:16:49.705+09:00",
-   "saving": 42,
-   "baseline": 23020,
-   "baselineNote": "판매글 16곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 333
-   },
-   "comps": [
-    {
-     "name": "판매글 16곳 최저가",
-     "price": 23020
-    }
-   ],
-   "link": "https://link.coupang.com/a/iLZMQiKglE"
-  },
-  {
-   "uid": "2818120660",
-   "mall": "롯데온",
-   "title": "몽베스트 무라벨 생수 2Lx24병",
-   "price": 12990,
-   "image": "https://contents.lotteon.com/itemimage/20261118134228/LO/28/15/01/53/85/_2/81/50/15/38/6/LO2815015385_2815015386_1.jpg",
-   "sentAt": "2026-11-18T15:01:51.928+09:00",
-   "saving": 29,
-   "baseline": 18200,
-   "baselineNote": "판매글 19곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 541
-   },
-   "comps": [
-    {
-     "name": "판매글 19곳 최저가",
-     "price": 18200
-    }
-   ],
-   "link": "http://app.ac/GbG5wul03"
   }
  ]
 }
