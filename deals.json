@@ -1,7 +1,151 @@
 {
- "updated": "2026-11-23T07:47:18.586+09:00",
+ "updated": "2026-11-23T08:43:12.984+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6661573010",
+   "mall": "쿠팡",
+   "title": "불닭볶음면 140g 5개",
+   "price": 3570,
+   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/344801787593852-567aaca7-a965-4d97-adc9-4214051864f5.png",
+   "sentAt": "2026-11-23T08:43:12.185+09:00",
+   "saving": 20,
+   "baseline": 4462,
+   "baselineNote": "193곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 714
+   },
+   "check": {
+    "market": 4462,
+    "malls": 193
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": false,
+    "low": 2350
+   },
+   "review": {
+    "score": 4.9,
+    "count": 58262,
+    "low": 0
+   },
+   "comps": [
+    {
+     "name": "193곳 중 최저",
+     "price": 4462
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 4310
+    },
+    {
+     "m": "26-01",
+     "p": 4110
+    },
+    {
+     "m": "26-02",
+     "p": 2400
+    },
+    {
+     "m": "26-03",
+     "p": 2350
+    },
+    {
+     "m": "26-04",
+     "p": 3850
+    },
+    {
+     "m": "26-05",
+     "p": 4010
+    },
+    {
+     "m": "26-06",
+     "p": 4390
+    },
+    {
+     "m": "26-07",
+     "p": 4390
+    },
+    {
+     "m": "26-08",
+     "p": 4390
+    },
+    {
+     "m": "26-09",
+     "p": 4590
+    },
+    {
+     "m": "26-10",
+     "p": 4591
+    },
+    {
+     "m": "26-11",
+     "p": 4462
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "배민상회",
+     "code": "TWB192",
+     "id": "115921",
+     "price": 4462,
+     "ship": 3000
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F260447965",
+     "price": 4540,
+     "ship": 3000
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4458138181",
+     "price": 4560,
+     "ship": 3000
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000214819871",
+     "price": 4650,
+     "ship": 3000
+    },
+    {
+     "mall": "보리보리",
+     "code": "TG021",
+     "id": "342948082",
+     "price": 4700,
+     "ship": 3000
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9718495257",
+     "price": 4790,
+     "ship": 3000
+    },
+    {
+     "mall": "하프클럽",
+     "code": "TZ6171",
+     "id": "406788352",
+     "price": 4880,
+     "ship": 2700
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2682492899",
+     "price": 4900,
+     "ship": 3000
+    }
+   ],
+   "link": "https://link.coupang.com/a/iTQdjMgXbU"
+  },
   {
    "uid": "2699539564",
    "mall": "쿠팡",
@@ -3057,56 +3201,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4296468513"
-  },
-  {
-   "uid": "3986351934",
-   "mall": "쿠팡",
-   "title": "클룹 오프아워 라임브리즈 350ml, 6개",
-   "price": 7910,
-   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/53119215622157-8a60fb62-8497-4a42-9c56-981130cd9655.jpg",
-   "sentAt": "2026-11-19T08:55:49.302+09:00",
-   "saving": 56,
-   "baseline": 18000,
-   "baselineNote": "4곳 중 최저 · 무료배송",
-   "unit": {
-    "label": "개당",
-    "value": 1318
-   },
-   "check": {
-    "market": 18000,
-    "malls": 4,
-    "ship": 0
-   },
-   "comps": [
-    {
-     "name": "4곳 중 최저 · 무료배송",
-     "price": 18000
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "F708313879",
-     "price": 18000,
-     "ship": 0
-    },
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "9692109519",
-     "price": 19230,
-     "ship": 0
-    },
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "4869305180",
-     "price": 21470,
-     "ship": 0
-    }
-   ],
-   "link": "https://link.coupang.com/a/iNdoNgGtno"
   }
  ]
 }
