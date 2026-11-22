@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-22T12:36:24.950+09:00",
+ "updated": "2026-11-22T13:26:35.156+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1011128341",
+   "mall": "지마켓",
+   "title": "나이키 FQ5815-010 크로스백",
+   "price": 15440,
+   "image": "https://gdimg.gmarket.co.kr/3099706825/goodsimage",
+   "sentAt": "2026-11-22T13:26:34.600+09:00",
+   "saving": 29,
+   "baseline": 21600,
+   "baselineNote": "판매글 39곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 39곳 최저가",
+     "price": 21600
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=3099706825"
+  },
   {
    "uid": "6445924169",
    "mall": "지마켓",
@@ -3359,28 +3377,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4896819280"
-  },
-  {
-   "uid": "2852536998",
-   "mall": "지마켓",
-   "title": "대추방울토마토 소과 2kg",
-   "price": 7400,
-   "image": "https://gdimg.gmarket.co.kr/4780838614/goodsimage",
-   "sentAt": "2026-11-18T19:01:35.949+09:00",
-   "saving": 31,
-   "baseline": 10710,
-   "baselineNote": "판매글 13곳 최저가",
-   "unit": {
-    "label": "100g당",
-    "value": 370
-   },
-   "comps": [
-    {
-     "name": "판매글 13곳 최저가",
-     "price": 10710
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4780838614"
   }
  ]
 }
