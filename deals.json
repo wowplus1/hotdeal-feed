@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-23T08:43:12.984+09:00",
+ "updated": "2026-11-23T08:58:23.527+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2654197530",
+   "mall": "지마켓",
+   "title": "항아리반찬 낙지젓 1kg",
+   "price": 15530,
+   "image": "https://gdimg.gmarket.co.kr/4233699303/goodsimage",
+   "sentAt": "2026-11-23T08:58:22.916+09:00",
+   "saving": 30,
+   "baseline": 22170,
+   "baselineNote": "판매글 7곳 최저가",
+   "unit": {
+    "label": "100g당",
+    "value": 1553
+   },
+   "comps": [
+    {
+     "name": "판매글 7곳 최저가",
+     "price": 22170
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4233699303"
+  },
   {
    "uid": "6661573010",
    "mall": "쿠팡",
@@ -3183,24 +3205,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iNiTSg5kE8"
-  },
-  {
-   "uid": "7303703436",
-   "mall": "지마켓",
-   "title": "2+1 킷캣 미니녹차 7개입 x 3팩",
-   "price": 12920,
-   "image": "https://gdimg.gmarket.co.kr/4296468513/goodsimage",
-   "sentAt": "2026-11-19T10:01:25.842+09:00",
-   "saving": 35,
-   "baseline": 19870,
-   "baselineNote": "판매글 4곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 4곳 최저가",
-     "price": 19870
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4296468513"
   }
  ]
 }
