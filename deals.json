@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-22T19:51:30.600+09:00",
+ "updated": "2026-11-22T21:01:08.426+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6291806613",
+   "mall": "토스쇼핑",
+   "title": "국내산 가정용 꿀부사 사과, 22과내외, 4kg, 1박스",
+   "price": 9400,
+   "image": "https://shopping.toss.im/live/temp/2026-11-09/93dc3915-082b-4831-a988-7c6a80ea7f97.jpeg",
+   "sentAt": "2026-11-22T21:01:07.646+09:00",
+   "saving": 30,
+   "baseline": 13430,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": {
+    "label": "100g당",
+    "value": 235
+   },
+   "comps": [
+    {
+     "name": "판매글 5곳 최저가",
+     "price": 13430
+    }
+   ],
+   "link": "https://toss.shopping/_m/3qO3tPko"
+  },
   {
    "uid": "2387768505",
    "mall": "롯데온",
@@ -3217,28 +3239,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iNcaEvyDhk"
-  },
-  {
-   "uid": "8104737097",
-   "mall": "쿠팡",
-   "title": "스프라이트 제로 사이다, 250ml, 30개",
-   "price": 12290,
-   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/3057/8476349e6225fc49f978d71fc1ac8c504952e508d2c628f5463340b194b2.png",
-   "sentAt": "2026-11-19T07:18:19.174+09:00",
-   "saving": 27,
-   "baseline": 16920,
-   "baselineNote": "판매글 11곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 410
-   },
-   "comps": [
-    {
-     "name": "판매글 11곳 최저가",
-     "price": 16920
-    }
-   ],
-   "link": "https://link.coupang.com/a/gaqS8zDclM"
   }
  ]
 }
