@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-22T13:58:27.461+09:00",
+ "updated": "2026-11-22T17:12:35.491+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2151559543",
+   "mall": "쿠팡",
+   "title": "도브 시어버터 뷰티 바 클렌징 비누 90g 12개입",
+   "price": 10990,
+   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/3a5834c0-c13a-4678-a832-8b4d5960d5bd16733373509575919905.png",
+   "sentAt": "2026-11-22T17:12:34.561+09:00",
+   "saving": 32,
+   "baseline": 16270,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 916
+   },
+   "comps": [
+    {
+     "name": "판매글 3곳 최저가",
+     "price": 16270
+    }
+   ],
+   "link": "https://link.coupang.com/a/iSLHZV6zPU"
+  },
   {
    "uid": "9800845282",
    "mall": "쿠팡",
@@ -3343,19 +3365,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/hSbGD7AOJM"
-  },
-  {
-   "uid": "5647985769",
-   "mall": "11번가",
-   "title": "아삭달콤 가정용 부사사과 중대과 3kg",
-   "price": 9070,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/pd/v2/8/5/0/2/4/1/pvVdq/8782850241_B.webp",
-   "sentAt": "2026-11-18T20:27:05.478+09:00",
-   "unit": {
-    "label": "100g당",
-    "value": 302
-   },
-   "link": "http://app.ac/SqDg1v273"
   }
  ]
 }
