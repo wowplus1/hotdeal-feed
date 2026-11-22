@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-22T14:27:34.013+09:00",
+ "updated": "2026-11-22T16:38:08.529+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "8164639675",
+   "mall": "지마켓",
+   "title": "특등급 수향미 10kg 골든퀸3호",
+   "price": 37570,
+   "image": "https://gdimg.gmarket.co.kr/4716708002/goodsimage",
+   "sentAt": "2026-11-22T16:38:08.529+09:00",
+   "saving": 20,
+   "baseline": 47060,
+   "baselineNote": "판매글 19곳 최저가",
+   "unit": {
+    "label": "100g당",
+    "value": 376
+   },
+   "comps": [
+    {
+     "name": "판매글 19곳 최저가",
+     "price": 47060
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4716708002",
+   "web": true
+  },
   {
    "uid": "3260787279",
    "mall": "쿠팡",
@@ -13883,25 +13906,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iuflDGWc1c",
-   "web": true
-  },
-  {
-   "uid": "8979870720",
-   "mall": "지마켓",
-   "title": "삼성 비스포크 ai 키친핏 4도어 냉장고 640l",
-   "price": 2059000,
-   "image": "https://gdimg.gmarket.co.kr/4862148208/goodsimage",
-   "sentAt": "2026-11-07T22:00:17.366+09:00",
-   "saving": 21,
-   "baseline": 2612610,
-   "baselineNote": "판매글 5곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 5곳 최저가",
-     "price": 2612610
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4862148208",
    "web": true
   }
  ]
