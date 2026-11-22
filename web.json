@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-23T00:46:21.849+09:00",
+ "updated": "2026-11-23T01:52:13.646+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "3303786753",
+   "mall": "지마켓",
+   "title": "난각번호 1번 자연방사 무항생제 인증 유정란 60구",
+   "price": 20900,
+   "image": "https://gdimg.gmarket.co.kr/4868559792/goodsimage",
+   "sentAt": "2026-11-23T01:52:13.646+09:00",
+   "saving": 29,
+   "baseline": 29370,
+   "baselineNote": "판매글 4곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 348
+   },
+   "comps": [
+    {
+     "name": "판매글 4곳 최저가",
+     "price": 29370
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4868559792",
+   "web": true
+  },
   {
    "uid": "9277721612",
    "mall": "지마켓",
@@ -13844,25 +13867,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iuSVmSEI3w",
-   "web": true
-  },
-  {
-   "uid": "1648310062",
-   "mall": "11번가",
-   "title": "뉴! 쟌슨빌 부대찌개 500g 2+2팩 외",
-   "price": 14420,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/2247363143/B.webp",
-   "sentAt": "2026-11-08T00:19:22.628+09:00",
-   "saving": 32,
-   "baseline": 21200,
-   "baselineNote": "판매글 5곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 5곳 최저가",
-     "price": 21200
-    }
-   ],
-   "link": "http://app.ac/YbpWX0l53",
    "web": true
   }
  ]
