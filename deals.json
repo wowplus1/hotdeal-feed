@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-22T09:06:55.702+09:00",
+ "updated": "2026-11-22T10:12:39.933+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9387018089",
+   "mall": "쿠팡",
+   "title": "사무실 과자세트 스낵 비스킷쿠키 21입 세트 2호",
+   "price": 22820,
+   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/159961493397989-bd7130e7-341f-44f2-9aef-28a4e31916eb.png",
+   "sentAt": "2026-11-22T10:12:39.077+09:00",
+   "saving": 53,
+   "baseline": 48950,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 1087
+   },
+   "comps": [
+    {
+     "name": "판매글 3곳 최저가",
+     "price": 48950
+    }
+   ],
+   "link": "https://link.coupang.com/a/gm4XvrDF4S"
+  },
   {
    "uid": "2297755333",
    "mall": "쿠팡",
@@ -3383,28 +3405,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iL5u6oaZmS"
-  },
-  {
-   "uid": "5503577201",
-   "mall": "롯데온",
-   "title": "동원 덴마크 인포켓치즈 오리지널/라이트 2종 20g 50개 골라담기",
-   "price": 26670,
-   "image": "https://contents.lotteon.com/itemimage/20260807173151/LO/26/62/39/04/19/_2/66/23/90/42/0/LO2662390419_2662390420_1.jpg",
-   "sentAt": "2026-11-18T16:08:48.601+09:00",
-   "saving": 25,
-   "baseline": 35660,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 533
-   },
-   "comps": [
-    {
-     "name": "판매글 5곳 최저가",
-     "price": 35660
-    }
-   ],
-   "link": "http://app.ac/oAGKCP503"
   }
  ]
 }
