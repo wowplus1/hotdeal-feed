@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-23T07:12:07.380+09:00",
+ "updated": "2026-11-23T07:47:18.586+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2699539564",
+   "mall": "쿠팡",
+   "title": "파워에이드 마운틴블라스트 무라벨, 355ml, 20개",
+   "price": 13620,
+   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/3791012530342-62232d3f-aa6f-4929-98e6-09442c8e391d.jpg",
+   "sentAt": "2026-11-23T07:47:17.805+09:00",
+   "unit": {
+    "label": "개당",
+    "value": 681
+   },
+   "alt": {
+    "price": 16220,
+    "where": "677곳 중 최저",
+    "ship": 0
+   },
+   "link": "https://link.coupang.com/a/gnRAgAQf3k"
+  },
   {
    "uid": "1149175171",
    "mall": "쿠팡",
@@ -3089,28 +3107,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iNdoNgGtno"
-  },
-  {
-   "uid": "9864450523",
-   "mall": "쿠팡",
-   "title": "델포유 오븐에 구운 십센치 파운드 케이크 50g 50g 25개",
-   "price": 14900,
-   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/ac64/8fc3231c6713ce3f7f7cf59723d5e009d149d64ea0d0d8bb9d48894d9606.jpg",
-   "sentAt": "2026-11-19T08:55:49.302+09:00",
-   "saving": 46,
-   "baseline": 27840,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 596
-   },
-   "comps": [
-    {
-     "name": "판매글 4곳 최저가",
-     "price": 27840
-    }
-   ],
-   "link": "https://link.coupang.com/a/iNdmMBEMCG"
   }
  ]
 }
