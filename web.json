@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-22T18:01:46.440+09:00",
+ "updated": "2026-11-23T00:13:47.660+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "6770302563",
+   "mall": "11번가",
+   "title": "26년 햅쌀 고시히카리 10kg",
+   "price": 31590,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/6/5/2/4/4/3/olSDe/8832652443_241828791.webp",
+   "sentAt": "2026-11-23T00:13:47.660+09:00",
+   "saving": 17,
+   "baseline": 38240,
+   "baselineNote": "다른 곳 최저",
+   "unit": {
+    "label": "100g당",
+    "value": 316
+   },
+   "comps": [
+    {
+     "name": "다른 곳 최저",
+     "price": 38240
+    }
+   ],
+   "link": "http://app.ac/mjwQmea53",
+   "web": true
+  },
   {
    "uid": "2810548633",
    "mall": "지마켓",
@@ -13831,25 +13854,6 @@
     "value": 1543
    },
    "link": "http://app.ac/JjwyqLa53",
-   "web": true
-  },
-  {
-   "uid": "9498279384",
-   "mall": "11번가",
-   "title": "뱅 에너지 체리바닐라 355ml, 24입 + 증정",
-   "price": 23660,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9633317492/B.webp?769939692",
-   "sentAt": "2026-11-07T23:20:42.643+09:00",
-   "saving": 33,
-   "baseline": 35250,
-   "baselineNote": "판매글 8곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 8곳 최저가",
-     "price": 35250
-    }
-   ],
-   "link": "http://app.ac/h3Ct3kJ93",
    "web": true
   }
  ]
