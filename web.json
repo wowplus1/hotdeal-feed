@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-22T09:23:16.382+09:00",
+ "updated": "2026-11-22T14:27:34.013+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "3260787279",
+   "mall": "쿠팡",
+   "title": "시티즌 녹판 BM8180-71W 남자시계",
+   "price": 138570,
+   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/f4e1/9ad4b43dcd2e28bbf7e90e160252c750b9de8b6c2abd7001373218203077.jpg",
+   "sentAt": "2026-11-22T14:27:34.013+09:00",
+   "saving": 10,
+   "baseline": 154700,
+   "baselineNote": "판매글 38곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 38곳 최저가",
+     "price": 154700
+    }
+   ],
+   "link": "https://link.coupang.com/a/hslctFoiWG",
+   "web": true
+  },
   {
    "uid": "1492824191",
    "mall": "지마켓",
@@ -13883,25 +13902,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4862148208",
-   "web": true
-  },
-  {
-   "uid": "1343023715",
-   "mall": "11번가",
-   "title": "비트 딥클린 파워 액체세제, 일반, 용기, 3L, 1개 + 일반드럼겸용 리필, 2L, 3개",
-   "price": 16840,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/5496023624/B.webp",
-   "sentAt": "2026-11-07T20:10:43.667+09:00",
-   "saving": 15,
-   "baseline": 19900,
-   "baselineNote": "판매글 5곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 5곳 최저가",
-     "price": 19900
-    }
-   ],
-   "link": "http://app.ac/0jwls8a43",
    "web": true
   }
  ]
