@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-23T21:23:56.289+09:00",
+ "updated": "2026-11-23T21:28:23.780+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4063735598",
+   "mall": "쿠팡",
+   "title": "오뚜기 프레스코 미트 파스타 소스 600g 2개",
+   "price": 7840,
+   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/113880030386417-d3ee0828-793d-4764-8e3a-1c07bb381ea0.jpg",
+   "sentAt": "2026-11-23T21:28:23.168+09:00",
+   "saving": 54,
+   "baseline": 17120,
+   "baselineNote": "판매글 12곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 3920
+   },
+   "comps": [
+    {
+     "name": "판매글 12곳 최저가",
+     "price": 17120
+    }
+   ],
+   "link": "https://link.coupang.com/a/iUISPlR7S0"
+  },
   {
    "uid": "5974875321",
    "mall": "롯데온",
@@ -3099,28 +3121,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4871733112"
-  },
-  {
-   "uid": "8138908563",
-   "mall": "11번가",
-   "title": "해남 햇 호박고구마 5kg 특상호풍미",
-   "price": 11860,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9623511797/B.webp?35502021",
-   "sentAt": "2026-11-20T12:27:52.264+09:00",
-   "saving": 25,
-   "baseline": 15830,
-   "baselineNote": "판매글 14곳 최저가",
-   "unit": {
-    "label": "100g당",
-    "value": 237
-   },
-   "comps": [
-    {
-     "name": "판매글 14곳 최저가",
-     "price": 15830
-    }
-   ],
-   "link": "http://app.ac/X3MF1xJ13"
   }
  ]
 }
