@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-23T18:02:17.203+09:00",
+ "updated": "2026-11-23T19:47:48.084+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8147828492",
+   "mall": "쿠팡",
+   "title": "오리온 비쵸비 비스켓, 125g, 2개",
+   "price": 4000,
+   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/32994e93-8480-45b2-afb9-b4e092d11ce917453099966086297039.png",
+   "sentAt": "2026-11-23T19:47:47.263+09:00",
+   "saving": 39,
+   "baseline": 6520,
+   "baselineNote": "판매글 30곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 2000
+   },
+   "comps": [
+    {
+     "name": "판매글 30곳 최저가",
+     "price": 6520
+    }
+   ],
+   "link": "https://link.coupang.com/a/h9UI879HBQ"
+  },
   {
    "uid": "6945705350",
    "mall": "지마켓",
@@ -3108,150 +3130,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/garbm8eGxo"
-  },
-  {
-   "uid": "3518779033",
-   "mall": "쿠팡",
-   "title": "오랄비 치실 50m 8개 8 400",
-   "price": 8400,
-   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/674709436773140-e4cce27d-f303-49e9-a4f3-556899c121f9.jpg",
-   "sentAt": "2026-11-20T07:08:29.301+09:00",
-   "saving": 47,
-   "baseline": 15870,
-   "baselineNote": "169곳 중 최저",
-   "unit": {
-    "label": "개당",
-    "value": 1050
-   },
-   "check": {
-    "market": 15870,
-    "malls": 169
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": true,
-    "low": 10600
-   },
-   "review": {
-    "score": 4.7,
-    "count": 641,
-    "low": 7
-   },
-   "comps": [
-    {
-     "name": "169곳 중 최저",
-     "price": 15870
-    }
-   ],
-   "trend": [
-    {
-     "m": "25-12",
-     "p": 13200
-    },
-    {
-     "m": "26-01",
-     "p": 10600
-    },
-    {
-     "m": "26-02",
-     "p": 12500
-    },
-    {
-     "m": "26-03",
-     "p": 10600
-    },
-    {
-     "m": "26-04",
-     "p": 12960
-    },
-    {
-     "m": "26-05",
-     "p": 13000
-    },
-    {
-     "m": "26-06",
-     "p": 13000
-    },
-    {
-     "m": "26-07",
-     "p": 13000
-    },
-    {
-     "m": "26-08",
-     "p": 13700
-    },
-    {
-     "m": "26-09",
-     "p": 13000
-    },
-    {
-     "m": "26-10",
-     "p": 15210
-    },
-    {
-     "m": "26-11",
-     "p": 15550
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "F642920507",
-     "price": 15870,
-     "ship": 3000
-    },
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "4835530384",
-     "price": 15890,
-     "ship": 3000
-    },
-    {
-     "mall": "롯데홈쇼핑",
-     "code": "ED903",
-     "id": "3399251476",
-     "price": 16560,
-     "ship": 3000
-    },
-    {
-     "mall": "롯데ON",
-     "code": "EE309",
-     "id": "LI3399251476",
-     "price": 17620,
-     "ship": 3000
-    },
-    {
-     "mall": "TX591",
-     "code": "TX591",
-     "id": "10268609783",
-     "price": 17630,
-     "ship": 0
-    },
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "6889290335",
-     "price": 17710,
-     "ship": 0
-    },
-    {
-     "mall": "SSG.COM",
-     "code": "TN118",
-     "id": "1000873126160",
-     "price": 18405,
-     "ship": 0
-    },
-    {
-     "mall": "SK스토아",
-     "code": "TSB275",
-     "id": "68376119",
-     "price": 18540,
-     "ship": 3000
-    }
-   ],
-   "link": "https://link.coupang.com/a/iOKIk5Og7o"
   }
  ]
 }
