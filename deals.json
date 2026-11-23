@@ -1,7 +1,114 @@
 {
- "updated": "2026-11-23T12:52:39.674+09:00",
+ "updated": "2026-11-23T13:28:14.332+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7744918798",
+   "mall": "쿠팡",
+   "title": "쿠크다스 쵸코케이크, 202g, 2개",
+   "price": 6270,
+   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/4e62f94b-613c-4e9c-aa57-cbd6e978147f11262951870454488057.png",
+   "sentAt": "2026-11-23T13:28:13.360+09:00",
+   "saving": 30,
+   "baseline": 8970,
+   "baselineNote": "97곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 3135
+   },
+   "check": {
+    "market": 8970,
+    "malls": 97
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 7820
+   },
+   "comps": [
+    {
+     "name": "97곳 중 최저",
+     "price": 8970
+    }
+   ],
+   "trend": [
+    {
+     "m": "26-08",
+     "p": 9000
+    },
+    {
+     "m": "26-09",
+     "p": 7820
+    },
+    {
+     "m": "26-10",
+     "p": 9070
+    },
+    {
+     "m": "26-11",
+     "p": 8970
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9566987241",
+     "price": 8970,
+     "ship": 3000
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4835114760",
+     "price": 8980,
+     "ship": 3000
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F653889361",
+     "price": 9320,
+     "ship": 3000
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2752416331",
+     "price": 9820,
+     "ship": 3000
+    },
+    {
+     "mall": "롯데홈쇼핑",
+     "code": "ED903",
+     "id": "3398765439",
+     "price": 9960,
+     "ship": 3000
+    },
+    {
+     "mall": "현대Hmall",
+     "code": "ED907",
+     "id": "2253225749",
+     "price": 9960,
+     "ship": 3000
+    },
+    {
+     "mall": "하프클럽",
+     "code": "TZ6171",
+     "id": "435249557",
+     "price": 10070,
+     "ship": 3000
+    },
+    {
+     "mall": "주식회사 신세계라이브쇼핑",
+     "code": "TRB03",
+     "id": "1007916069",
+     "price": 10290,
+     "ship": 3000
+    }
+   ],
+   "link": "https://link.coupang.com/a/hC9RfXbtDg"
+  },
   {
    "uid": "9120160445",
    "mall": "쿠팡",
@@ -3170,24 +3277,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iNVZgbNsjY"
-  },
-  {
-   "uid": "1501123353",
-   "mall": "11번가",
-   "title": "펨 도피러스 알엑스 100억 여성 유산균 프로바이오틱스 60캡슐 1개",
-   "price": 29900,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/8564246733/B.webp",
-   "sentAt": "2026-11-19T19:13:09.148+09:00",
-   "saving": 24,
-   "baseline": 39210,
-   "baselineNote": "판매글 3곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 3곳 최저가",
-     "price": 39210
-    }
-   ],
-   "link": "http://app.ac/RECqw6S63"
   }
  ]
 }
