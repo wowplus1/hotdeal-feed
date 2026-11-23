@@ -1,7 +1,96 @@
 {
- "updated": "2026-11-23T13:47:31.308+09:00",
+ "updated": "2026-11-23T14:26:21.532+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3102203126",
+   "mall": "쿠팡",
+   "title": "메르바 더블 초콜릿 쿠키, 200g, 1개",
+   "price": 4890,
+   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/image_audit/prod/93f00fdd-c98c-4e29-b386-83d1a6cb4e45_fixing_v2.png",
+   "sentAt": "2026-11-23T14:26:20.940+09:00",
+   "saving": 32,
+   "baseline": 7210,
+   "baselineNote": "2곳 중 최저",
+   "unit": {
+    "label": "100g당",
+    "value": 2445
+   },
+   "check": {
+    "market": 7210,
+    "malls": 2
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 6450
+   },
+   "comps": [
+    {
+     "name": "2곳 중 최저",
+     "price": 7210
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 7280
+    },
+    {
+     "m": "26-03",
+     "p": 6450
+    },
+    {
+     "m": "26-04",
+     "p": 7590
+    },
+    {
+     "m": "26-05",
+     "p": 6830
+    },
+    {
+     "m": "26-06",
+     "p": 6830
+    },
+    {
+     "m": "26-07",
+     "p": 6830
+    },
+    {
+     "m": "26-08",
+     "p": 6830
+    },
+    {
+     "m": "26-09",
+     "p": 6980
+    },
+    {
+     "m": "26-10",
+     "p": 6830
+    },
+    {
+     "m": "26-11",
+     "p": 6910
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "1894659985",
+     "price": 7210,
+     "ship": 3000
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "E715214379",
+     "price": 7590,
+     "ship": 3000
+    }
+   ],
+   "link": "https://link.coupang.com/a/iUeJICBCeW"
+  },
   {
    "uid": "3833407123",
    "mall": "쿠팡",
@@ -3149,24 +3238,6 @@
     }
    ],
    "link": "http://app.ac/lAVXIj513"
-  },
-  {
-   "uid": "1753472396",
-   "mall": "11번가",
-   "title": "코디 기름먹는 UKP 키친타월, 140매, 4롤, 3개",
-   "price": 9230,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/6905636071/B.webp?119741585",
-   "sentAt": "2026-11-19T19:43:25.952+09:00",
-   "saving": 24,
-   "baseline": 12090,
-   "baselineNote": "판매글 34곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 34곳 최저가",
-     "price": 12090
-    }
-   ],
-   "link": "http://app.ac/OqDIgx223"
   }
  ]
 }
