@@ -1,7 +1,123 @@
 {
- "updated": "2026-11-23T17:53:25.149+09:00",
+ "updated": "2026-11-23T18:01:10.622+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4602652177",
+   "mall": "쿠팡",
+   "title": "오뚜기 팥칼국수, 120g, 4개",
+   "price": 3570,
+   "image": "https://thumbnail1.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/image_audit/prod/f346b140-eba3-4336-b00d-4fe2ca2e92b2_fixing_v2.png",
+   "sentAt": "2026-11-23T18:01:10.035+09:00",
+   "saving": 24,
+   "baseline": 4720,
+   "baselineNote": "27곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 893
+   },
+   "check": {
+    "market": 4720,
+    "malls": 27
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 3810
+   },
+   "review": {
+    "score": 4.9,
+    "count": 1259,
+    "low": 0
+   },
+   "comps": [
+    {
+     "name": "27곳 중 최저",
+     "price": 4720
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 3910
+    },
+    {
+     "m": "26-01",
+     "p": 3910
+    },
+    {
+     "m": "26-02",
+     "p": 3910
+    },
+    {
+     "m": "26-03",
+     "p": 3810
+    },
+    {
+     "m": "26-04",
+     "p": 3810
+    },
+    {
+     "m": "26-05",
+     "p": 3910
+    },
+    {
+     "m": "26-06",
+     "p": 3910
+    },
+    {
+     "m": "26-07",
+     "p": 4080
+    },
+    {
+     "m": "26-08",
+     "p": 4080
+    },
+    {
+     "m": "26-09",
+     "p": 3950
+    },
+    {
+     "m": "26-10",
+     "p": 4680
+    },
+    {
+     "m": "26-11",
+     "p": 4720
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "2831640227",
+     "price": 4720,
+     "ship": 3000
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "D225662345",
+     "price": 4720,
+     "ship": 3000
+    },
+    {
+     "mall": "TW711B",
+     "code": "TW711B",
+     "id": "9693301032",
+     "price": 4820,
+     "ship": 3000
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "6544839309",
+     "price": 8120,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/iUt5YvCLoy"
+  },
   {
    "uid": "9876811617",
    "mall": "지마켓",
@@ -3225,24 +3341,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iN6gXbkIjQ"
-  },
-  {
-   "uid": "7703040740",
-   "mall": "롯데온",
-   "title": "한영석 도한 청명주 13.8도375ml",
-   "price": 18840,
-   "image": "https://contents.lotteon.com/itemimage/20261119161721/LO/28/20/23/78/77/bndl_img/LO2820237877_1.jpg",
-   "sentAt": "2026-11-19T21:31:36.232+09:00",
-   "saving": 36,
-   "baseline": 29500,
-   "baselineNote": "판매글 4곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 4곳 최저가",
-     "price": 29500
-    }
-   ],
-   "link": "http://app.ac/Tjp5gla63"
   }
  ]
 }
