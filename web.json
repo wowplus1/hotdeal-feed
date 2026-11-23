@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-23T17:51:43.207+09:00",
+ "updated": "2026-11-23T18:56:21.081+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "6623712475",
+   "mall": "지마켓",
+   "title": "피죤 섬유유연제 피죤 3100ml x3개+2300mlx1개",
+   "price": 14820,
+   "image": "https://gdimg.gmarket.co.kr/1928172559/goodsimage",
+   "sentAt": "2026-11-23T18:56:21.081+09:00",
+   "saving": 22,
+   "baseline": 18930,
+   "baselineNote": "판매글 5곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 5곳 최저가",
+     "price": 18930
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=1928172559",
+   "web": true
+  },
   {
    "uid": "4157535364",
    "mall": "쿠팡",
@@ -13946,25 +13965,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4897143374",
-   "web": true
-  },
-  {
-   "uid": "1930314242",
-   "mall": "지마켓",
-   "title": "하기스 보송보송 기저귀 2박스 64,430원",
-   "price": 64430,
-   "image": "https://gdimg.gmarket.co.kr/4578284283/goodsimage",
-   "sentAt": "2026-11-08T19:01:28.916+09:00",
-   "saving": 16,
-   "baseline": 76912,
-   "baselineNote": "판매글 11곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 11곳 최저가",
-     "price": 76912
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4578284283",
    "web": true
   }
  ]
