@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-23T21:23:10.936+09:00",
+ "updated": "2026-11-23T21:23:56.289+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5974875321",
+   "mall": "롯데온",
+   "title": "무주 반디품은사과즙 30팩 NFC착즙 선물포장",
+   "price": 10130,
+   "image": "https://contents.lotteon.com/itemimage/20261119151340/LO/28/20/16/49/04/bndl_img/LO2820164904_1.jpg",
+   "sentAt": "2026-11-23T21:23:55.571+09:00",
+   "unit": {
+    "label": "개당",
+    "value": 338
+   },
+   "link": "http://app.ac/NjpXhNa63"
+  },
   {
    "uid": "9113727224",
    "mall": "지마켓",
@@ -3108,24 +3121,6 @@
     }
    ],
    "link": "http://app.ac/X3MF1xJ13"
-  },
-  {
-   "uid": "9358754988",
-   "mall": "쿠팡",
-   "title": "카시오 리니지 LIW-120DEJ-1AJF 솔라 시계",
-   "price": 115810,
-   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/dd48/0bcc29f18cd56f5783509b56f1d9e30427d887c5b9baf77ce464568d77fa.jpg",
-   "sentAt": "2026-11-20T11:42:36.885+09:00",
-   "saving": 22,
-   "baseline": 147740,
-   "baselineNote": "판매글 5곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 5곳 최저가",
-     "price": 147740
-    }
-   ],
-   "link": "https://link.coupang.com/a/iO4iDvBGFM"
   }
  ]
 }
