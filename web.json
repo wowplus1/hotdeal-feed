@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-23T09:58:24.893+09:00",
+ "updated": "2026-11-23T10:03:18.596+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "7616229861",
+   "mall": "쿠팡",
+   "title": "제닉스 stormx vm air2 무선 저중량 저소음 버티컬마우스",
+   "price": 19900,
+   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/cc2e/dc8e2d090d2a52a366de55948d5360edca6b4df7a867ece4058cfd00e384.jpg",
+   "sentAt": "2026-11-23T10:03:18.596+09:00",
+   "saving": 33,
+   "baseline": 29890,
+   "baselineNote": "다른 곳 최저",
+   "comps": [
+    {
+     "name": "다른 곳 최저",
+     "price": 29890
+    }
+   ],
+   "link": "https://link.coupang.com/a/iTVVS4eaui",
+   "web": true
+  },
   {
    "uid": "4959591053",
    "mall": "쿠팡",
@@ -13661,25 +13680,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/gv1vNp8Btk",
-   "web": true
-  },
-  {
-   "uid": "9813493410",
-   "mall": "지마켓",
-   "title": "오리온 스윙칩 볶음고추장 60g X 12입",
-   "price": 11880,
-   "image": "https://gdimg.gmarket.co.kr/2026468774/goodsimage",
-   "sentAt": "2026-11-08T09:58:15.167+09:00",
-   "unit": {
-    "label": "개당",
-    "value": 990
-   },
-   "alt": {
-    "price": 13990,
-    "where": "275곳 중 최저",
-    "ship": 0
-   },
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2026468774",
    "web": true
   }
  ]
