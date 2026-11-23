@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-23T10:43:17.145+09:00",
+ "updated": "2026-11-23T11:12:21.756+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3984071847",
+   "mall": "토스쇼핑",
+   "title": "에브리워터 무라벨, 500ml, 40개",
+   "price": 6290,
+   "image": "https://shopping.toss.im/live/temp/2026-02-17/32d41410-98f1-42d9-a442-9e8820fad904.jpeg",
+   "sentAt": "2026-11-23T11:12:20.883+09:00",
+   "saving": 29,
+   "baseline": 8850,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 157
+   },
+   "comps": [
+    {
+     "name": "판매글 5곳 최저가",
+     "price": 8850
+    }
+   ],
+   "link": "https://toss.im/_m/RUaM6ddq"
+  },
   {
    "uid": "3527400050",
    "mall": "GS SHOP",
@@ -3174,19 +3196,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/gk7sv7OJNY"
-  },
-  {
-   "uid": "1621251042",
-   "mall": "지마켓",
-   "title": "라이프익스텐션 투퍼데이 V2 타블렛 120정 3개",
-   "price": 54500,
-   "image": "https://gdimg.gmarket.co.kr/4242852685/goodsimage",
-   "sentAt": "2026-11-19T14:07:25.377+09:00",
-   "unit": {
-    "label": "개당",
-    "value": 18167
-   },
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4242852685"
   }
  ]
 }
