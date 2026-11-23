@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-23T12:22:39.946+09:00",
+ "updated": "2026-11-23T12:52:39.674+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9120160445",
+   "mall": "쿠팡",
+   "title": "오뚜기 진라면 매운맛 컵 65g, 12개",
+   "price": 7150,
+   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/409688058790195-f5f62019-8163-40c4-a6f4-3facb87bce1e.jpg",
+   "sentAt": "2026-11-23T12:52:39.078+09:00",
+   "saving": 27,
+   "baseline": 9810,
+   "baselineNote": "판매글 8곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 596
+   },
+   "comps": [
+    {
+     "name": "판매글 8곳 최저가",
+     "price": 9810
+    }
+   ],
+   "link": "https://link.coupang.com/a/iT70645VrU"
+  },
   {
    "uid": "1163691225",
    "mall": "쿠팡",
@@ -3166,24 +3188,6 @@
     }
    ],
    "link": "http://app.ac/RECqw6S63"
-  },
-  {
-   "uid": "6946845889",
-   "mall": "롯데온",
-   "title": "헤드앤숄더 샴푸/트리트먼트 850,800ml 3개 + 트리트먼트 220ml증정",
-   "price": 24730,
-   "image": "https://contents.lotteon.com/itemimage/20261119133856/LO/26/75/22/66/08/_2/67/52/26/60/9/LO2675226608_2675226609_1.jpg",
-   "sentAt": "2026-11-19T17:56:34.616+09:00",
-   "saving": 47,
-   "baseline": 47030,
-   "baselineNote": "판매글 13곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 13곳 최저가",
-     "price": 47030
-    }
-   ],
-   "link": "http://app.ac/cqDI58213"
   }
  ]
 }
