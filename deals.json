@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-23T10:36:47.542+09:00",
+ "updated": "2026-11-23T10:43:17.145+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3527400050",
+   "mall": "GS SHOP",
+   "title": "피죤 초고농축 섬유유연제 포켓몬에디션 본품1L+리필1.3L*2개",
+   "price": 11900,
+   "image": "https://asset.m-gs.kr/prod/1123494559/1/550",
+   "sentAt": "2026-11-23T10:43:16.565+09:00",
+   "saving": 29,
+   "baseline": 16830,
+   "baselineNote": "판매글 18곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 18곳 최저가",
+     "price": 16830
+    }
+   ],
+   "link": "http://app.ac/yEwirMS73"
+  },
   {
    "uid": "9703276879",
    "mall": "지마켓",
@@ -3169,28 +3187,6 @@
     "value": 18167
    },
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4242852685"
-  },
-  {
-   "uid": "5487961593",
-   "mall": "지마켓",
-   "title": "알카라인 건전지 AA,AAA 48개입",
-   "price": 12720,
-   "image": "https://gdimg.gmarket.co.kr/4863164675/goodsimage",
-   "sentAt": "2026-11-19T12:47:22.835+09:00",
-   "saving": 51,
-   "baseline": 25990,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 265
-   },
-   "comps": [
-    {
-     "name": "판매글 5곳 최저가",
-     "price": 25990
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4863164675"
   }
  ]
 }
