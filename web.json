@@ -1,7 +1,153 @@
 {
- "updated": "2026-11-24T03:06:23.066+09:00",
+ "updated": "2026-11-24T08:11:22.277+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "2911123102",
+   "mall": "쿠팡",
+   "title": "코카콜라 제로, 490ml, 24개",
+   "price": 20390,
+   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/e59b/d9ba6390ccc9ffb059c4c22328bc5591c0fea92ab67dd81f6ac13f098650.png",
+   "sentAt": "2026-11-24T08:11:22.277+09:00",
+   "saving": 12,
+   "baseline": 23270,
+   "baselineNote": "198곳 중 최저 · 무료배송",
+   "unit": {
+    "label": "개당",
+    "value": 850
+   },
+   "check": {
+    "market": 23270,
+    "malls": 198,
+    "ship": 0
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": false,
+    "low": 15840
+   },
+   "review": {
+    "score": 4.8,
+    "count": 4238,
+    "low": 33
+   },
+   "comps": [
+    {
+     "name": "198곳 중 최저 · 무료배송",
+     "price": 23270
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 21000
+    },
+    {
+     "m": "26-01",
+     "p": 15840
+    },
+    {
+     "m": "26-02",
+     "p": 19490
+    },
+    {
+     "m": "26-03",
+     "p": 22240
+    },
+    {
+     "m": "26-04",
+     "p": 23190
+    },
+    {
+     "m": "26-05",
+     "p": 22830
+    },
+    {
+     "m": "26-06",
+     "p": 25620
+    },
+    {
+     "m": "26-07",
+     "p": 23200
+    },
+    {
+     "m": "26-08",
+     "p": 22570
+    },
+    {
+     "m": "26-09",
+     "p": 21200
+    },
+    {
+     "m": "26-10",
+     "p": 27080
+    },
+    {
+     "m": "26-11",
+     "p": 21260
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4911592613",
+     "price": 23270,
+     "ship": 0
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F720167420",
+     "price": 23270,
+     "ship": 0
+    },
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2822058956",
+     "price": 23270,
+     "ship": 0
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9774350367",
+     "price": 27700,
+     "ship": 0
+    },
+    {
+     "mall": "TX815D",
+     "code": "TX815D",
+     "id": "10870290869",
+     "price": 29900,
+     "ship": 3000
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000808307321",
+     "price": 34020,
+     "ship": 0
+    },
+    {
+     "mall": "패션플러스",
+     "code": "TH002",
+     "id": "407155288",
+     "price": 34430,
+     "ship": 0
+    },
+    {
+     "mall": "주식회사 신세계라이브쇼핑",
+     "code": "TRB03",
+     "id": "93629768",
+     "price": 35810,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/f9zmAX1HOK",
+   "web": true
+  },
   {
    "uid": "5954821081",
    "mall": "지마켓",
@@ -13790,25 +13936,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iwV9BORSlE",
-   "web": true
-  },
-  {
-   "uid": "5299537495",
-   "mall": "지마켓",
-   "title": "파워에이드 355ml x 20페트",
-   "price": 14280,
-   "image": "https://gdimg.gmarket.co.kr/4898862444/goodsimage",
-   "sentAt": "2026-11-09T10:40:39.696+09:00",
-   "saving": 18,
-   "baseline": 17470,
-   "baselineNote": "판매글 3곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 3곳 최저가",
-     "price": 17470
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4898862444",
    "web": true
   }
  ]
