@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-23T20:16:18.979+09:00",
+ "updated": "2026-11-23T21:46:30.779+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "2048401604",
+   "mall": "롯데온",
+   "title": "기모 후드 티셔츠 M-RTEE50",
+   "price": 51820,
+   "image": "https://contents.lotteon.com/itemimage/20261119162606/LO/27/66/54/97/51/bndl_img/LO2766549751_1.jpg",
+   "sentAt": "2026-11-23T21:46:30.779+09:00",
+   "saving": 12,
+   "baseline": 59160,
+   "baselineNote": "판매글 40곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 40곳 최저가",
+     "price": 59160
+    }
+   ],
+   "link": "http://app.ac/NjpXY1a83",
+   "web": true
+  },
   {
    "uid": "6496037776",
    "mall": "11번가",
@@ -13816,24 +13835,6 @@
     }
    ],
    "link": "http://app.ac/Iqn2Q9253",
-   "web": true
-  },
-  {
-   "uid": "4829624911",
-   "mall": "롯데온",
-   "title": "닥터페퍼 제로 350ml캔 24입",
-   "price": 12800,
-   "image": "https://contents.lotteon.com/itemimage/20260520145953/LO/25/71/65/33/86/_2/57/16/53/38/7/LO2571653386_2571653387_1.jpg",
-   "sentAt": "2026-11-08T23:04:56.095+09:00",
-   "unit": {
-    "label": "개당",
-    "value": 533
-   },
-   "alt": {
-    "price": 15350,
-    "where": "414곳 중 최저"
-   },
-   "link": "http://app.ac/q3CtxiJ03",
    "web": true
   }
  ]
