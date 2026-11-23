@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-23T20:07:00.925+09:00",
+ "updated": "2026-11-23T20:17:47.269+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4328435797",
+   "mall": "쿠팡",
+   "title": "HP 옴니북 5 16-bm0011TU 512GB/16GB/win11 home",
+   "price": 1249000,
+   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/04/27/15/9/5d0b12f2-aa4a-4814-8cc3-61a22c9d136b.jpg",
+   "sentAt": "2026-11-23T20:17:46.700+09:00",
+   "saving": 26,
+   "baseline": 1695990,
+   "baselineNote": "판매글 23곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 23곳 최저가",
+     "price": 1695990
+    }
+   ],
+   "link": "https://link.coupang.com/a/iUDOvGaZwa"
+  },
   {
    "uid": "1705181770",
    "mall": "쿠팡",
@@ -3108,24 +3126,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/hsfTDl2nBI"
-  },
-  {
-   "uid": "6757896090",
-   "mall": "쿠팡",
-   "title": "카시오 웨이브셉터 멀티밴드5 시계 WV-59R-1AJF",
-   "price": 31820,
-   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/a951/046496bd7c05f09ed54bde060e301ce944a108ccf6a550f054f6a6f19820.jpg",
-   "sentAt": "2026-11-20T08:22:18.663+09:00",
-   "saving": 20,
-   "baseline": 39900,
-   "baselineNote": "판매글 16곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 16곳 최저가",
-     "price": 39900
-    }
-   ],
-   "link": "https://link.coupang.com/a/iOP0ebvzjg"
   }
  ]
 }
