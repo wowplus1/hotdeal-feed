@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-23T19:47:48.084+09:00",
+ "updated": "2026-11-23T20:07:00.925+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1705181770",
+   "mall": "쿠팡",
+   "title": "쿡테크 55W 20000mAh 대용량 일체형 고속충전 보조배터리",
+   "price": 29900,
+   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/image_audit/prod/4b377c22-e7d1-4db9-bae4-84733d94cd55_fixing_v2.png",
+   "sentAt": "2026-11-23T20:07:00.231+09:00",
+   "saving": 22,
+   "baseline": 38390,
+   "baselineNote": "판매글 6곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 6곳 최저가",
+     "price": 38390
+    }
+   ],
+   "link": "https://link.coupang.com/a/gVfqs6f4Q8"
+  },
   {
    "uid": "8147828492",
    "mall": "쿠팡",
@@ -3108,28 +3126,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iOP0ebvzjg"
-  },
-  {
-   "uid": "5501648467",
-   "mall": "쿠팡",
-   "title": "토레타 이온음료, 500ml, 24개",
-   "price": 15540,
-   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/100102027674102-8cc77207-4f19-4e83-9119-7301407b36e3.jpg",
-   "sentAt": "2026-11-20T08:12:37.405+09:00",
-   "saving": 32,
-   "baseline": 22860,
-   "baselineNote": "판매글 12곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 648
-   },
-   "comps": [
-    {
-     "name": "판매글 12곳 최저가",
-     "price": 22860
-    }
-   ],
-   "link": "https://link.coupang.com/a/garbm8eGxo"
   }
  ]
 }
