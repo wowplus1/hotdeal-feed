@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-23T23:11:09.783+09:00",
+ "updated": "2026-11-23T23:21:11.405+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "9917420203",
+   "mall": "지마켓",
+   "title": "질레트 호환용 스윙 면도기+신형 프로글라이드 면도날 3팩 블랙주황",
+   "price": 9120,
+   "image": "https://gdimg.gmarket.co.kr/4216984986/goodsimage",
+   "sentAt": "2026-11-23T23:21:11.405+09:00",
+   "saving": 55,
+   "baseline": 20098,
+   "baselineNote": "판매글 4곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 4곳 최저가",
+     "price": 20098
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4216984986",
+   "web": true
+  },
   {
    "uid": "1807840179",
    "mall": "쿠팡",
@@ -14044,29 +14063,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/f9Aqrmqpk4",
-   "web": true
-  },
-  {
-   "uid": "4938312662",
-   "mall": "롯데온",
-   "title": "광동 옥수수수염차 1.85L 6입",
-   "price": 5830,
-   "image": "https://contents.lotteon.com/itemimage/20261014150923/LO/27/93/28/30/58/_2/79/32/83/05/9/LO2793283058_2793283059_1.jpg",
-   "sentAt": "2026-11-09T00:35:02.258+09:00",
-   "saving": 42,
-   "baseline": 10032,
-   "baselineNote": "판매글 39곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 972
-   },
-   "comps": [
-    {
-     "name": "판매글 39곳 최저가",
-     "price": 10032
-    }
-   ],
-   "link": "http://app.ac/2bpSS7l63",
    "web": true
   }
  ]
