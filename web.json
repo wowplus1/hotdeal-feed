@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-23T23:21:11.405+09:00",
+ "updated": "2026-11-24T00:13:11.084+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "9187119240",
+   "mall": "지마켓",
+   "title": "찬예찬 무색소프리미엄 백명란 파치1kg",
+   "price": 13990,
+   "image": "https://gdimg.gmarket.co.kr/1888409015/goodsimage",
+   "sentAt": "2026-11-24T00:13:11.084+09:00",
+   "saving": 47,
+   "baseline": 26370,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": {
+    "label": "100g당",
+    "value": 1399
+   },
+   "comps": [
+    {
+     "name": "판매글 3곳 최저가",
+     "price": 26370
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=1888409015",
+   "web": true
+  },
   {
    "uid": "9917420203",
    "mall": "지마켓",
@@ -8355,20 +8378,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4627079578",
-   "web": true
-  },
-  {
-   "uid": "9187119240",
-   "mall": "지마켓",
-   "title": "찬예찬 무색소프리미엄 백명란 파치1kg",
-   "price": 14500,
-   "image": "https://gdimg.gmarket.co.kr/1888409015/goodsimage",
-   "sentAt": "2026-11-13T19:26:30.435+09:00",
-   "unit": {
-    "label": "100g당",
-    "value": 1450
-   },
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=1888409015",
    "web": true
   },
   {
