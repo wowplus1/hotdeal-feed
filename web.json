@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-23T18:58:11.326+09:00",
+ "updated": "2026-11-23T20:16:18.979+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "6496037776",
+   "mall": "11번가",
+   "title": "앙블랑 아기물티슈 그랜드 네이비 캡형 70매X20팩",
+   "price": 25440,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/7407909161/B.webp",
+   "sentAt": "2026-11-23T20:16:18.979+09:00",
+   "saving": 19,
+   "baseline": 31490,
+   "baselineNote": "판매글 27곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 27곳 최저가",
+     "price": 31490
+    }
+   ],
+   "link": "http://app.ac/5AGKnn583",
+   "web": true
+  },
   {
    "uid": "6958158645",
    "mall": "롯데온",
@@ -13815,20 +13834,6 @@
     "where": "414곳 중 최저"
    },
    "link": "http://app.ac/q3CtxiJ03",
-   "web": true
-  },
-  {
-   "uid": "1028292575",
-   "mall": "쿠팡",
-   "title": "프링글스 감자스낵 스모키 바비큐 피자맛, 102g, 2개",
-   "price": 3500,
-   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/685320094513311-71098453-2fee-4fd8-804b-9ae361ef8db8.png",
-   "sentAt": "2026-11-08T22:01:23.979+09:00",
-   "unit": {
-    "label": "개당",
-    "value": 1750
-   },
-   "link": "https://link.coupang.com/a/gtuin89gWq",
    "web": true
   }
  ]
