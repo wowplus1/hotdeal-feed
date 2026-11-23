@@ -1,7 +1,148 @@
 {
- "updated": "2026-11-23T12:58:11.921+09:00",
+ "updated": "2026-11-23T14:02:03.922+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "3347960542",
+   "mall": "쿠팡",
+   "title": "듀이트리 하이 아미노 올 클렌징 밀크 200ml 2개",
+   "price": 10070,
+   "image": "https://t3a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/312115903653113-59782d30-0580-4dd4-afa4-a8fbabf6289c.jpg",
+   "sentAt": "2026-11-23T14:02:03.922+09:00",
+   "saving": 11,
+   "baseline": 11340,
+   "baselineNote": "92곳 중 최저 · 무료배송",
+   "unit": {
+    "label": "개당",
+    "value": 5035
+   },
+   "check": {
+    "market": 11340,
+    "malls": 92,
+    "ship": 0
+   },
+   "review": {
+    "score": 4.6,
+    "count": 160,
+    "low": 2
+   },
+   "comps": [
+    {
+     "name": "92곳 중 최저 · 무료배송",
+     "price": 11340
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 15570
+    },
+    {
+     "m": "26-01",
+     "p": 15000
+    },
+    {
+     "m": "26-02",
+     "p": 14500
+    },
+    {
+     "m": "26-03",
+     "p": 14420
+    },
+    {
+     "m": "26-04",
+     "p": 14700
+    },
+    {
+     "m": "26-05",
+     "p": 16500
+    },
+    {
+     "m": "26-06",
+     "p": 15900
+    },
+    {
+     "m": "26-07",
+     "p": 16910
+    },
+    {
+     "m": "26-08",
+     "p": 13970
+    },
+    {
+     "m": "26-09",
+     "p": 12820
+    },
+    {
+     "m": "26-10",
+     "p": 17070
+    },
+    {
+     "m": "26-11",
+     "p": 10780
+    }
+   ],
+   "sellers": [
+    {
+     "mall": "롯데ON",
+     "code": "EE309",
+     "id": "LO2658085438",
+     "price": 11340,
+     "ship": 0
+    },
+    {
+     "mall": "옥션",
+     "code": "EE715",
+     "id": "F534960859",
+     "price": 18160,
+     "ship": 3500
+    },
+    {
+     "mall": "G마켓",
+     "code": "EE128",
+     "id": "4727538533",
+     "price": 18180,
+     "ship": 3500
+    },
+    {
+     "mall": "11번가",
+     "code": "TH201",
+     "id": "9411827326",
+     "price": 19410,
+     "ship": 3000
+    },
+    {
+     "mall": "TX815D",
+     "code": "TX815D",
+     "id": "10465113052",
+     "price": 23900,
+     "ship": 3000
+    },
+    {
+     "mall": "SSG.COM",
+     "code": "TN118",
+     "id": "1000815070538",
+     "price": 28086,
+     "ship": 0
+    },
+    {
+     "mall": "이마트몰",
+     "code": "EE311",
+     "id": "1000787085678",
+     "price": 29032,
+     "ship": 0
+    },
+    {
+     "mall": "신세계몰",
+     "code": "ED901",
+     "id": "1000787085678",
+     "price": 29032,
+     "ship": 0
+    }
+   ],
+   "link": "https://link.coupang.com/a/iUc0YGzWEe",
+   "web": true
+  },
   {
    "uid": "3607708011",
    "mall": "쿠팡",
@@ -13580,16 +13721,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4240795981",
-   "web": true
-  },
-  {
-   "uid": "4812571600",
-   "mall": "쿠팡",
-   "title": "더순삭 대용량 강력분쇄 내솥 자동세척 모드 음식물 처리기 가정용 4L",
-   "price": 146410,
-   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2024/11/18/13/3/b3d661a3-531d-4c93-ad7e-40e16749d01e.jpg",
-   "sentAt": "2026-11-08T15:12:06.352+09:00",
-   "link": "https://link.coupang.com/a/ivoGtaaQOi",
    "web": true
   }
  ]
