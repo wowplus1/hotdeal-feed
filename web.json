@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-25T00:08:36.094+09:00",
+ "updated": "2026-11-25T00:16:20.469+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "3642816888",
+   "mall": "지마켓",
+   "title": "경북 부사 햇사과 5kg",
+   "price": 9890,
+   "image": "https://gdimg.gmarket.co.kr/4913348591/goodsimage",
+   "sentAt": "2026-11-25T00:16:20.469+09:00",
+   "saving": 31,
+   "baseline": 14350,
+   "baselineNote": "판매글 11곳 최저가",
+   "unit": {
+    "label": "100g당",
+    "value": 198
+   },
+   "comps": [
+    {
+     "name": "판매글 11곳 최저가",
+     "price": 14350
+    }
+   ],
+   "link": "https://item.gmarket.co.kr/Item?goodscode=4913348591",
+   "web": true
+  },
   {
    "uid": "7220596954",
    "mall": "지마켓",
@@ -13839,20 +13862,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iyl2Bvu70S",
-   "web": true
-  },
-  {
-   "uid": "2680034523",
-   "mall": "쿠팡",
-   "title": "재미스 잼있는 미니사과쿠키, 16g, 100개",
-   "price": 8220,
-   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/464b/b3708beef90e6d71d60536bfa28ef9097f994aa00409ad335547dc999095.jpg",
-   "sentAt": "2026-11-10T06:50:26.562+09:00",
-   "unit": {
-    "label": "개당",
-    "value": 82
-   },
-   "link": "https://link.coupang.com/a/ix8DQ9r2qa",
    "web": true
   }
  ]
