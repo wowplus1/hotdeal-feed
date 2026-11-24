@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-24T16:18:26.647+09:00",
+ "updated": "2026-11-24T17:04:35.411+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9918494116",
+   "mall": "쿠팡",
+   "title": "스탠리 이지 캐리 쿨러 아이스박스 15.1L 로즈 쿼츠",
+   "price": 44840,
+   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/96406349647890-18f6a03e-03e1-45aa-bcdf-7ca2f09697b9.png",
+   "sentAt": "2026-11-24T17:04:34.621+09:00",
+   "saving": 46,
+   "baseline": 83440,
+   "baselineNote": "7곳 중 최저",
+   "check": {
+    "market": 83440,
+    "malls": 7
+   },
+   "comps": [
+    {
+     "name": "7곳 중 최저",
+     "price": 83440
+    }
+   ],
+   "link": "https://link.coupang.com/a/h9ZFXAF9nE"
+  },
   {
    "uid": "8612574249",
    "mall": "롯데온",
@@ -3064,28 +3086,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iQzcdFH8w0"
-  },
-  {
-   "uid": "9410149349",
-   "mall": "쿠팡",
-   "title": "프로쉬 알로에베라 고농축 섬유유연제 본품 750ml 3개",
-   "price": 17740,
-   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/6192392104097-485eb50f-d2c0-4058-9577-1abf5240ba95.jpg",
-   "sentAt": "2026-11-20T18:48:23.194+09:00",
-   "saving": 48,
-   "baseline": 34060,
-   "baselineNote": "판매글 13곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 5913
-   },
-   "comps": [
-    {
-     "name": "판매글 13곳 최저가",
-     "price": 34060
-    }
-   ],
-   "link": "https://link.coupang.com/a/iPyJUyo2iO"
   }
  ]
 }
