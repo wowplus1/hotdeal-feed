@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-25T00:21:33.376+09:00",
+ "updated": "2026-11-25T04:08:10.975+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "4273620910",
+   "mall": "쿠팡",
+   "title": "웰치스 제로 애플망고맛 355ml 24개",
+   "price": 11600,
+   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/03/03/16/6/89d723b8-4ff0-4fe0-b7d3-1b265d0286cd.png",
+   "sentAt": "2026-11-25T04:08:10.975+09:00",
+   "saving": 23,
+   "baseline": 15100,
+   "baselineNote": "판매글 35곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 483
+   },
+   "comps": [
+    {
+     "name": "판매글 35곳 최저가",
+     "price": 15100
+    }
+   ],
+   "link": "https://link.coupang.com/a/iWQnLbTVmu",
+   "web": true
+  },
   {
    "uid": "7482880767",
    "mall": "지마켓",
@@ -13722,16 +13745,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4829984233",
-   "web": true
-  },
-  {
-   "uid": "1106238610",
-   "mall": "지마켓",
-   "title": "백산수 2L 24펫",
-   "price": 16900,
-   "image": "https://gdimg.gmarket.co.kr/4174542188/goodsimage",
-   "sentAt": "2026-11-10T12:24:08.293+09:00",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4174542188",
    "web": true
   }
  ]
