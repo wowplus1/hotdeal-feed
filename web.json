@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-25T00:18:38.811+09:00",
+ "updated": "2026-11-25T00:21:33.376+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "7482880767",
+   "mall": "지마켓",
+   "title": "베티스 스페인 엑스트라버진 올리브오일 750ml+750ml",
+   "price": 21420,
+   "image": "https://gdimg.gmarket.co.kr/4532470170/goodsimage",
+   "sentAt": "2026-11-25T00:21:33.376+09:00",
+   "saving": 23,
+   "baseline": 27950,
+   "baselineNote": "판매글 7곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 7곳 최저가",
+     "price": 27950
+    }
+   ],
+   "link": "https://item.gmarket.co.kr/Item?goodscode=4532470170",
+   "web": true
+  },
   {
    "uid": "4179528553",
    "mall": "지마켓",
@@ -13713,29 +13732,6 @@
    "image": "https://gdimg.gmarket.co.kr/4174542188/goodsimage",
    "sentAt": "2026-11-10T12:24:08.293+09:00",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4174542188",
-   "web": true
-  },
-  {
-   "uid": "2561018295",
-   "mall": "지마켓",
-   "title": "파스퇴르 무항생제 바른목장우유 195mL 20입 x 2박스",
-   "price": 25360,
-   "image": "https://gdimg.gmarket.co.kr/1738068170/goodsimage",
-   "sentAt": "2026-11-10T11:02:28.310+09:00",
-   "saving": 11,
-   "baseline": 28620,
-   "baselineNote": "판매글 36곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 1268
-   },
-   "comps": [
-    {
-     "name": "판매글 36곳 최저가",
-     "price": 28620
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=1738068170",
    "web": true
   }
  ]
