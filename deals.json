@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-24T10:02:36.971+09:00",
+ "updated": "2026-11-24T10:13:13.500+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5210470935",
+   "mall": "쿠팡",
+   "title": "해태제과 계란 과자 45g 5개",
+   "price": 3780,
+   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/3897887030244373-136f30c9-eba0-44e3-8f60-25c2122f1ec6.jpg",
+   "sentAt": "2026-11-24T10:13:12.949+09:00",
+   "saving": 40,
+   "baseline": 6310,
+   "baselineNote": "다른 곳 최저",
+   "unit": {
+    "label": "개당",
+    "value": 756
+   },
+   "comps": [
+    {
+     "name": "다른 곳 최저",
+     "price": 6310
+    }
+   ],
+   "link": "https://link.coupang.com/a/iVBx7cuJTU"
+  },
   {
    "uid": "9432917479",
    "mall": "토스쇼핑",
@@ -3129,28 +3151,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/hP6jtdglCS"
-  },
-  {
-   "uid": "1228161459",
-   "mall": "토스쇼핑",
-   "title": "필라델피아 크림치즈 미니, 41g, 16개",
-   "price": 8500,
-   "image": "https://shopping.toss.im/live/temp/2026-09-10/98b2e69b-64da-4282-86df-cad87d94e929.jpeg",
-   "sentAt": "2026-11-20T15:41:17.016+09:00",
-   "saving": 33,
-   "baseline": 12730,
-   "baselineNote": "판매글 4곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 531
-   },
-   "comps": [
-    {
-     "name": "판매글 4곳 최저가",
-     "price": 12730
-    }
-   ],
-   "link": "https://toss.im/_m/jfygiXT5"
   }
  ]
 }
