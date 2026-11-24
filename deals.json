@@ -1,7 +1,33 @@
 {
- "updated": "2026-11-24T17:57:31.068+09:00",
+ "updated": "2026-11-24T18:26:31.784+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6155498511",
+   "mall": "쿠팡",
+   "title": "켈로그 단백질바K, 450g, 1개",
+   "price": 7870,
+   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/03/24/13/5/3c620f77-a0a6-417b-9ecf-3f2299276831.jpg",
+   "sentAt": "2026-11-24T18:26:30.895+09:00",
+   "saving": 39,
+   "baseline": 12900,
+   "baselineNote": "12곳 중 최저",
+   "unit": {
+    "label": "100g당",
+    "value": 1749
+   },
+   "check": {
+    "market": 12900,
+    "malls": 12
+   },
+   "comps": [
+    {
+     "name": "12곳 중 최저",
+     "price": 12900
+    }
+   ],
+   "link": "https://link.coupang.com/a/iWaNjfMoHk"
+  },
   {
    "uid": "9479964960",
    "mall": "쿠팡",
@@ -2910,28 +2936,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iQH71pM8Wq"
-  },
-  {
-   "uid": "7428520789",
-   "mall": "롯데온",
-   "title": "필라델피아 치즈케익 28OZ 794g",
-   "price": 19510,
-   "image": "https://contents.lotteon.com/itemimage/20260805111120/LO/20/49/79/00/89/_2/04/97/90/09/4/LO2049790089_2049790094_1.jpg",
-   "sentAt": "2026-11-21T10:58:09.921+09:00",
-   "saving": 21,
-   "baseline": 24840,
-   "baselineNote": "판매글 10곳 최저가",
-   "unit": {
-    "label": "100g당",
-    "value": 2457
-   },
-   "comps": [
-    {
-     "name": "판매글 10곳 최저가",
-     "price": 24840
-    }
-   ],
-   "link": "http://app.ac/KAGKIq543"
   }
  ]
 }
