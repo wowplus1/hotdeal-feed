@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-23T21:28:23.780+09:00",
+ "updated": "2026-11-24T09:58:06.891+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2119273961",
+   "mall": "지마켓",
+   "title": "스테비아 방울 토마토 2kg",
+   "price": 10970,
+   "image": "https://gdimg.gmarket.co.kr/4883460176/goodsimage",
+   "sentAt": "2026-11-24T09:58:06.070+09:00",
+   "saving": 26,
+   "baseline": 14880,
+   "baselineNote": "판매글 10곳 최저가",
+   "unit": {
+    "label": "100g당",
+    "value": 549
+   },
+   "comps": [
+    {
+     "name": "판매글 10곳 최저가",
+     "price": 14880
+    }
+   ],
+   "link": "https://ad0981.kr/link/2463553347?gmarket2=4883460176"
+  },
   {
    "uid": "4063735598",
    "mall": "쿠팡",
@@ -3099,28 +3121,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iPjeCc5dFA"
-  },
-  {
-   "uid": "7247883514",
-   "mall": "지마켓",
-   "title": "솔루션 구취케어 고불소 치약 130g 4개",
-   "price": 7400,
-   "image": "https://gdimg.gmarket.co.kr/4871733112/goodsimage",
-   "sentAt": "2026-11-20T14:03:39.136+09:00",
-   "saving": 46,
-   "baseline": 13710,
-   "baselineNote": "판매글 8곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 1850
-   },
-   "comps": [
-    {
-     "name": "판매글 8곳 최저가",
-     "price": 13710
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4871733112"
   }
  ]
 }
