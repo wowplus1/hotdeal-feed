@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-24T19:08:11.335+09:00",
+ "updated": "2026-11-24T20:46:27.169+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1941617641",
+   "mall": "롯데온",
+   "title": "이기춘명인 문배술 헤리티지 40도 500ml",
+   "price": 19850,
+   "image": "https://contents.lotteon.com/itemimage/20261123113518/LO/26/39/26/21/00/_2/63/92/62/10/1/LO2639262100_2639262101_1.jpg",
+   "sentAt": "2026-11-24T20:46:26.332+09:00",
+   "saving": 22,
+   "baseline": 25410,
+   "baselineNote": "판매글 7곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 7곳 최저가",
+     "price": 25410
+    }
+   ],
+   "link": "http://app.ac/yEwXpNS63"
+  },
   {
    "uid": "1542130485",
    "mall": "롯데온",
@@ -2666,28 +2684,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4727413781"
-  },
-  {
-   "uid": "2706340251",
-   "mall": "쿠팡",
-   "title": "다르다팝콘 시네마 믹스, 30g, 15개",
-   "price": 9410,
-   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/243de237-d5cd-4dfa-b7a9-52eb1bbc84b25665894059941718845.png",
-   "sentAt": "2026-11-21T15:08:22.118+09:00",
-   "saving": 39,
-   "baseline": 15310,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 627
-   },
-   "comps": [
-    {
-     "name": "판매글 3곳 최저가",
-     "price": 15310
-    }
-   ],
-   "link": "https://link.coupang.com/a/gzxr0lsOPs"
   }
  ]
 }
