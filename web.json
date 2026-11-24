@@ -1,7 +1,34 @@
 {
- "updated": "2026-11-24T22:58:18.782+09:00",
+ "updated": "2026-11-24T23:47:51.640+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "5483694596",
+   "mall": "쿠팡",
+   "title": "티로그 납작복숭아 아이스티 홍차 제로, 500ml, 24개",
+   "price": 14460,
+   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/25450933313321-33f6a78b-7d64-43da-948a-5885cdcdd57a.jpg",
+   "sentAt": "2026-11-24T23:47:51.640+09:00",
+   "saving": 22,
+   "baseline": 18450,
+   "baselineNote": "85곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 603
+   },
+   "check": {
+    "market": 18450,
+    "malls": 85
+   },
+   "comps": [
+    {
+     "name": "85곳 중 최저",
+     "price": 18450
+    }
+   ],
+   "link": "https://link.coupang.com/a/hIOjR1AzD2",
+   "web": true
+  },
   {
    "uid": "1592459571",
    "mall": "11번가",
@@ -13826,29 +13853,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4715896689",
-   "web": true
-  },
-  {
-   "uid": "1719879838",
-   "mall": "지마켓",
-   "title": "감귤 10KG 중대과",
-   "price": 8420,
-   "image": "https://gdimg.gmarket.co.kr/628809631/goodsimage",
-   "sentAt": "2026-11-10T00:09:24.744+09:00",
-   "saving": 45,
-   "baseline": 15390,
-   "baselineNote": "판매글 7곳 최저가",
-   "unit": {
-    "label": "100g당",
-    "value": 84
-   },
-   "comps": [
-    {
-     "name": "판매글 7곳 최저가",
-     "price": 15390
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=628809631",
    "web": true
   }
  ]
