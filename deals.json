@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-24T20:46:27.169+09:00",
+ "updated": "2026-11-24T21:04:10.827+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5549088790",
+   "mall": "쿠팡",
+   "title": "한샘 클리어 올스텐304 설거지통 10L 10,300원",
+   "price": 10300,
+   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/rs_quotation_api/jm6rurtr/48d312c4dad64e938c37a62a5ddb5b37.jpg",
+   "sentAt": "2026-11-24T21:04:10.219+09:00",
+   "saving": 54,
+   "baseline": 22220,
+   "baselineNote": "판매글 40곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 40곳 최저가",
+     "price": 22220
+    }
+   ],
+   "link": "https://link.coupang.com/a/iWl4rODX2W"
+  },
   {
    "uid": "1941617641",
    "mall": "롯데온",
@@ -2666,24 +2684,6 @@
     }
    ],
    "link": "http://app.ac/KtnIPiM23"
-  },
-  {
-   "uid": "6552521468",
-   "mall": "지마켓",
-   "title": "삼성 정품 60W 충전기 EP-T6010NBKGKR",
-   "price": 37020,
-   "image": "https://gdimg.gmarket.co.kr/4727413781/goodsimage",
-   "sentAt": "2026-11-21T15:31:20.951+09:00",
-   "saving": 36,
-   "baseline": 58100,
-   "baselineNote": "판매글 3곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 3곳 최저가",
-     "price": 58100
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4727413781"
   }
  ]
 }
