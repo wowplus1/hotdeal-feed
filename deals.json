@@ -1,7 +1,24 @@
 {
- "updated": "2026-11-25T08:11:22.178+09:00",
+ "updated": "2026-11-25T08:11:59.485+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1841318846",
+   "mall": "쿠팡",
+   "title": "파스퇴르 우유 바나나, 190ml, 24개",
+   "price": 11080,
+   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/264541401484743-04416303-6bd2-46db-8c9c-5e537393739f.png",
+   "sentAt": "2026-11-25T08:11:58.932+09:00",
+   "unit": {
+    "label": "개당",
+    "value": 462
+   },
+   "alt": {
+    "price": 13850,
+    "where": "159곳 중 최저"
+   },
+   "link": "https://link.coupang.com/a/iW7K1fkaeO"
+  },
   {
    "uid": "3952330154",
    "mall": "쿠팡",
@@ -2573,24 +2590,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/hHauQSVcK4"
-  },
-  {
-   "uid": "2347167382",
-   "mall": "쿠팡",
-   "title": "배스킨라빈스 민트초코 우유 190ml*24개",
-   "price": 11900,
-   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1155570306024914-e9962cfd-802d-46a3-8836-be46bf1e68cf.jpg",
-   "sentAt": "2026-11-22T09:06:54.925+09:00",
-   "unit": {
-    "label": "개당",
-    "value": 496
-   },
-   "alt": {
-    "price": 16810,
-    "where": "140곳 중 최저",
-    "ship": 0
-   },
-   "link": "https://link.coupang.com/a/hL1EGVlYxo"
   }
  ]
 }
