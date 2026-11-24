@@ -1,7 +1,33 @@
 {
- "updated": "2026-11-24T17:11:26.751+09:00",
+ "updated": "2026-11-24T17:13:21.970+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9892826940",
+   "mall": "지마켓",
+   "title": "바른생활 아트컬렉션 초극세모 칫솔 24입",
+   "price": 6910,
+   "image": "https://gdimg.gmarket.co.kr/2562073413/goodsimage",
+   "sentAt": "2026-11-24T17:13:21.100+09:00",
+   "saving": 30,
+   "baseline": 9920,
+   "baselineNote": "28곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 288
+   },
+   "check": {
+    "market": 9920,
+    "malls": 28
+   },
+   "comps": [
+    {
+     "name": "28곳 중 최저",
+     "price": 9920
+    }
+   ],
+   "link": "https://item.gmarket.co.kr/Item?goodscode=2562073413"
+  },
   {
    "uid": "5146081927",
    "mall": "롯데온",
@@ -2911,56 +2937,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/gzwwOzrU84"
-  },
-  {
-   "uid": "3768456788",
-   "mall": "쿠팡",
-   "title": "클룹 애사비소다 화이바 제로 탄산음료 500ml 20개",
-   "price": 15170,
-   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/75736681051792-1e631e15-1bf4-4885-b50b-c01e6fa954e8.jpg",
-   "sentAt": "2026-11-21T09:41:53.876+09:00",
-   "saving": 26,
-   "baseline": 20500,
-   "baselineNote": "15곳 중 최저 · 무료배송",
-   "unit": {
-    "label": "개당",
-    "value": 759
-   },
-   "check": {
-    "market": 20500,
-    "malls": 15,
-    "ship": 0
-   },
-   "comps": [
-    {
-     "name": "15곳 중 최저 · 무료배송",
-     "price": 20500
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "4880985526",
-     "price": 20500,
-     "ship": 0
-    },
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "9769339144",
-     "price": 32620,
-     "ship": 3000
-    },
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "F665791357",
-     "price": 33100,
-     "ship": 0
-    }
-   ],
-   "link": "https://link.coupang.com/a/iQAAVnoDcq"
   }
  ]
 }
