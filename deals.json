@@ -1,7 +1,24 @@
 {
- "updated": "2026-11-24T21:11:16.150+09:00",
+ "updated": "2026-11-25T07:18:37.259+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3003511862",
+   "mall": "쿠팡",
+   "title": "파워에이드 제로, 600ml, 20개",
+   "price": 14890,
+   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/d77e/88d466dc26c13c045b856ce57de86fc3f5d4cd73918872e45715916b167b.jpg",
+   "sentAt": "2026-11-25T07:18:36.296+09:00",
+   "unit": {
+    "label": "개당",
+    "value": 745
+   },
+   "alt": {
+    "price": 16850,
+    "where": "393곳 중 최저"
+   },
+   "link": "https://link.coupang.com/a/f9zlPT8PnM"
+  },
   {
    "uid": "1231276411",
    "mall": "롯데온",
@@ -2662,28 +2679,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/guskJedX5M"
-  },
-  {
-   "uid": "2265294011",
-   "mall": "지마켓",
-   "title": "웰치스 소다 355ml 총 24캔",
-   "price": 14370,
-   "image": "https://gdimg.gmarket.co.kr/4428804789/goodsimage",
-   "sentAt": "2026-11-21T17:07:01.870+09:00",
-   "saving": 30,
-   "baseline": 20640,
-   "baselineNote": "판매글 11곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 599
-   },
-   "comps": [
-    {
-     "name": "판매글 11곳 최저가",
-     "price": 20640
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4428804789"
   }
  ]
 }
