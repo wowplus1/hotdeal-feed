@@ -1,7 +1,49 @@
 {
- "updated": "2026-11-25T00:16:20.469+09:00",
+ "updated": "2026-11-25T00:18:38.811+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "4179528553",
+   "mall": "지마켓",
+   "title": "1++ 등급 투뿔한우 국거리 200g+200g",
+   "price": 17790,
+   "image": "https://gdimg.gmarket.co.kr/2843163641/goodsimage",
+   "sentAt": "2026-11-25T00:18:38.811+09:00",
+   "saving": 43,
+   "baseline": 31260,
+   "baselineNote": "판매글 6곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 6곳 최저가",
+     "price": 31260
+    }
+   ],
+   "link": "https://item.gmarket.co.kr/Item?goodscode=2843163641",
+   "web": true
+  },
+  {
+   "uid": "9232069454",
+   "mall": "지마켓",
+   "title": "제주 감귤 로얄과 5kg",
+   "price": 7580,
+   "image": "https://gdimg.gmarket.co.kr/4868367031/goodsimage",
+   "sentAt": "2026-11-25T00:18:38.811+09:00",
+   "saving": 29,
+   "baseline": 10710,
+   "baselineNote": "판매글 17곳 최저가",
+   "unit": {
+    "label": "100g당",
+    "value": 152
+   },
+   "comps": [
+    {
+     "name": "판매글 17곳 최저가",
+     "price": 10710
+    }
+   ],
+   "link": "https://item.gmarket.co.kr/Item?goodscode=4868367031",
+   "web": true
+  },
   {
    "uid": "3642816888",
    "mall": "지마켓",
@@ -13694,174 +13736,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=1738068170",
-   "web": true
-  },
-  {
-   "uid": "8382112805",
-   "mall": "지마켓",
-   "title": "라이프익스텐션 종합비타민 투퍼데이 V2 120정 2개",
-   "price": 41530,
-   "image": "https://gdimg.gmarket.co.kr/4242849318/goodsimage",
-   "sentAt": "2026-11-10T10:20:09.572+09:00",
-   "unit": {
-    "label": "개당",
-    "value": 20765
-   },
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4242849318",
-   "web": true
-  },
-  {
-   "uid": "7731968406",
-   "mall": "쿠팡",
-   "title": "홈스타 맥스프레쉬 뿌리는 곰팡이 싹 세정제, 900ml, 1개",
-   "price": 2990,
-   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/f13c6b52-262a-476e-b31b-3e5753ec3b80177388030704765815.png",
-   "sentAt": "2026-11-10T09:58:33.576+09:00",
-   "saving": 15,
-   "baseline": 3520,
-   "baselineNote": "58곳 중 최저",
-   "check": {
-    "market": 3520,
-    "malls": 58,
-    "ship": 3000,
-    "delivered": 6520
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": true,
-    "low": 3480
-   },
-   "review": {
-    "score": 4.9,
-    "count": 19963,
-    "low": 11
-   },
-   "spec": [
-    "곰팡이제거제",
-    "스프레이형",
-    "본품",
-    "살균",
-    "탈취"
-   ],
-   "comps": [
-    {
-     "name": "58곳 중 최저",
-     "price": 3520
-    },
-    {
-     "name": "배송비 3,000원 포함",
-     "price": 6520
-    }
-   ],
-   "trend": [
-    {
-     "m": "25-12",
-     "p": 3520
-    },
-    {
-     "m": "26-01",
-     "p": 3570
-    },
-    {
-     "m": "26-02",
-     "p": 3480
-    },
-    {
-     "m": "26-03",
-     "p": 3490
-    },
-    {
-     "m": "26-04",
-     "p": 3490
-    },
-    {
-     "m": "26-05",
-     "p": 3560
-    },
-    {
-     "m": "26-06",
-     "p": 3550
-    },
-    {
-     "m": "26-07",
-     "p": 3780
-    },
-    {
-     "m": "26-08",
-     "p": 3660
-    },
-    {
-     "m": "26-09",
-     "p": 3710
-    },
-    {
-     "m": "26-10",
-     "p": 3550
-    },
-    {
-     "m": "26-11",
-     "p": 3630
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "3685484398",
-     "price": 3520,
-     "ship": 3000
-    },
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "E304214305",
-     "price": 3520,
-     "ship": 3000
-    },
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "7001694318",
-     "price": 3650,
-     "ship": 3000
-    },
-    {
-     "mall": "롯데ON",
-     "code": "EE309",
-     "id": "LO2719023759",
-     "price": 4000,
-     "ship": 3000
-    },
-    {
-     "mall": "신세계몰",
-     "code": "ED901",
-     "id": "1000598652325",
-     "price": 5300,
-     "ship": 3000
-    },
-    {
-     "mall": "이마트몰",
-     "code": "EE311",
-     "id": "1000598652325",
-     "price": 5300,
-     "ship": 3000
-    },
-    {
-     "mall": "SSG.COM",
-     "code": "TN118",
-     "id": "1000598652325",
-     "price": 5300,
-     "ship": 3000
-    },
-    {
-     "mall": "GS SHOP",
-     "code": "ED908",
-     "id": "1056410100",
-     "price": 5350,
-     "ship": 3000
-    }
-   ],
-   "link": "https://link.coupang.com/a/iyl2Bvu70S",
    "web": true
   }
  ]
