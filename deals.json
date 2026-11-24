@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-24T21:04:10.827+09:00",
+ "updated": "2026-11-24T21:11:16.150+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1231276411",
+   "mall": "롯데온",
+   "title": "6시내고향 2년연속 출연 / 익산구시장 백년가게 춘포수산 국산 / 수입 홍어회무침 홍어무침 1kg",
+   "price": 11400,
+   "image": "https://contents.lotteon.com/itemimage/20260812114404/LO/27/46/18/31/35/_2/74/61/83/13/6/LO2746183135_2746183136_1.png",
+   "sentAt": "2026-11-24T21:11:15.499+09:00",
+   "saving": 40,
+   "baseline": 19000,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": {
+    "label": "100g당",
+    "value": 1140
+   },
+   "comps": [
+    {
+     "name": "판매글 3곳 최저가",
+     "price": 19000
+    }
+   ],
+   "link": "http://app.ac/ntVczGM33"
+  },
   {
    "uid": "5549088790",
    "mall": "쿠팡",
@@ -2662,28 +2684,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4428804789"
-  },
-  {
-   "uid": "8574037819",
-   "mall": "11번가",
-   "title": "12brix이상 제주 노지 조생 타이벡 감귤 로얄과 3kg 외",
-   "price": 8960,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/pd/v2/3/1/2/1/5/4/aTUKY/9725312154_B.webp",
-   "sentAt": "2026-11-21T16:56:36.000+09:00",
-   "saving": 47,
-   "baseline": 16920,
-   "baselineNote": "판매글 8곳 최저가",
-   "unit": {
-    "label": "100g당",
-    "value": 299
-   },
-   "comps": [
-    {
-     "name": "판매글 8곳 최저가",
-     "price": 16920
-    }
-   ],
-   "link": "http://app.ac/KtnIPiM23"
   }
  ]
 }
