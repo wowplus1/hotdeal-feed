@@ -1,7 +1,24 @@
 {
- "updated": "2026-11-24T17:13:21.970+09:00",
+ "updated": "2026-11-24T17:57:31.068+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9479964960",
+   "mall": "쿠팡",
+   "title": "열라면 10개",
+   "price": 5530,
+   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/5484206776317-f32b13fb-ed2d-4d21-a3ca-7d37524e7a65.jpg",
+   "sentAt": "2026-11-24T17:57:30.264+09:00",
+   "unit": {
+    "label": "개당",
+    "value": 553
+   },
+   "alt": {
+    "price": 6210,
+    "where": "230곳 중 최저"
+   },
+   "link": "https://link.coupang.com/a/iTZ6Zv9xcG"
+  },
   {
    "uid": "9892826940",
    "mall": "지마켓",
@@ -2915,28 +2932,6 @@
     }
    ],
    "link": "http://app.ac/KAGKIq543"
-  },
-  {
-   "uid": "4642355354",
-   "mall": "쿠팡",
-   "title": "맑은내일 양파껍질차, 500ml, 24개",
-   "price": 20930,
-   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/image_audit/prod/99200944-08c7-4db5-844f-978cf336e1b3_fixing_v2.png",
-   "sentAt": "2026-11-21T09:41:53.876+09:00",
-   "saving": 43,
-   "baseline": 36940,
-   "baselineNote": "판매글 7곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 872
-   },
-   "comps": [
-    {
-     "name": "판매글 7곳 최저가",
-     "price": 36940
-    }
-   ],
-   "link": "https://link.coupang.com/a/gzwwOzrU84"
   }
  ]
 }
