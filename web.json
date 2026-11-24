@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-24T23:47:51.640+09:00",
+ "updated": "2026-11-25T00:08:36.094+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "7220596954",
+   "mall": "지마켓",
+   "title": "물걸레청소포 대형 30매 5팩",
+   "price": 6710,
+   "image": "https://gdimg.gmarket.co.kr/4892121855/goodsimage",
+   "sentAt": "2026-11-25T00:08:36.094+09:00",
+   "saving": 39,
+   "baseline": 11000,
+   "baselineNote": "다른 곳 최저",
+   "comps": [
+    {
+     "name": "다른 곳 최저",
+     "price": 11000
+    }
+   ],
+   "link": "https://item.gmarket.co.kr/Item?goodscode=4892121855",
+   "web": true
+  },
   {
    "uid": "5483694596",
    "mall": "쿠팡",
@@ -13834,25 +13853,6 @@
     "value": 82
    },
    "link": "https://link.coupang.com/a/ix8DQ9r2qa",
-   "web": true
-  },
-  {
-   "uid": "2869592129",
-   "mall": "지마켓",
-   "title": "코카콜라제로+스프라이트제로+환타제로파인 190ml 90캔",
-   "price": 33140,
-   "image": "https://gdimg.gmarket.co.kr/4715896689/goodsimage",
-   "sentAt": "2026-11-10T00:19:19.917+09:00",
-   "saving": 10,
-   "baseline": 36880,
-   "baselineNote": "판매글 4곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 4곳 최저가",
-     "price": 36880
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4715896689",
    "web": true
   }
  ]
