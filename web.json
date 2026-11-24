@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-25T04:08:10.975+09:00",
+ "updated": "2026-11-25T07:47:18.590+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "6735911050",
+   "mall": "쿠팡",
+   "title": "코카콜라 오리지널, 190ml, 30개",
+   "price": 13280,
+   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/89720961368927-a2bc7a57-cb63-4376-b222-56cce7c5c2fd.jpg",
+   "sentAt": "2026-11-25T07:47:18.590+09:00",
+   "saving": 36,
+   "baseline": 20830,
+   "baselineNote": "판매글 7곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 443
+   },
+   "comps": [
+    {
+     "name": "판매글 7곳 최저가",
+     "price": 20830
+    }
+   ],
+   "link": "https://link.coupang.com/a/gfBAmA2fkq",
+   "web": true
+  },
   {
    "uid": "4273620910",
    "mall": "쿠팡",
@@ -13726,25 +13749,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4483907663",
-   "web": true
-  },
-  {
-   "uid": "8648169776",
-   "mall": "지마켓",
-   "title": "한경희 2in1 건식겸용 스팀다리미 hri d110",
-   "price": 69900,
-   "image": "https://gdimg.gmarket.co.kr/4829984233/goodsimage",
-   "sentAt": "2026-11-10T12:49:55.842+09:00",
-   "saving": 18,
-   "baseline": 84830,
-   "baselineNote": "판매글 16곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 16곳 최저가",
-     "price": 84830
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4829984233",
    "web": true
   }
  ]
