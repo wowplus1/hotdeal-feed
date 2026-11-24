@@ -1,7 +1,33 @@
 {
- "updated": "2026-11-24T13:42:15.074+09:00",
+ "updated": "2026-11-24T13:48:34.702+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3780629168",
+   "mall": "쿠팡",
+   "title": "몰티져스 밀크초콜렛 버켓, 465g, 1개",
+   "price": 10890,
+   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1135901514571423-2c95bffa-1bf8-4e50-9193-f0b9e1b046bc.jpg",
+   "sentAt": "2026-11-24T13:48:34.011+09:00",
+   "saving": 29,
+   "baseline": 15300,
+   "baselineNote": "243곳 중 최저",
+   "unit": {
+    "label": "100g당",
+    "value": 2342
+   },
+   "check": {
+    "market": 15300,
+    "malls": 243
+   },
+   "comps": [
+    {
+     "name": "243곳 중 최저",
+     "price": 15300
+    }
+   ],
+   "link": "https://link.coupang.com/a/hNfMYm7vmC"
+  },
   {
    "uid": "5079216827",
    "mall": "11번가",
@@ -3069,24 +3095,6 @@
     }
    ],
    "link": "http://app.ac/GEwcJSS13"
-  },
-  {
-   "uid": "7886235444",
-   "mall": "지마켓",
-   "title": "베르데 엑스트라 버진 핸드피킹 올리브오일 1000ml",
-   "price": 19300,
-   "image": "https://gdimg.gmarket.co.kr/4580267746/goodsimage",
-   "sentAt": "2026-11-20T16:02:30.988+09:00",
-   "saving": 28,
-   "baseline": 26820,
-   "baselineNote": "판매글 20곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 20곳 최저가",
-     "price": 26820
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4580267746"
   }
  ]
 }
