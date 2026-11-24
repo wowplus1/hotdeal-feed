@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-24T15:07:28.600+09:00",
+ "updated": "2026-11-24T16:18:26.647+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8612574249",
+   "mall": "롯데온",
+   "title": "트리오 대용량 주방세제 14kg",
+   "price": 12480,
+   "image": "https://contents.lotteon.com/itemimage/20261012174953/LO/25/45/30/68/42/_2/54/53/06/84/3/LO2545306842_2545306843_1.jpg",
+   "sentAt": "2026-11-24T16:18:25.847+09:00",
+   "saving": 47,
+   "baseline": 23500,
+   "baselineNote": "판매글 21곳 최저가",
+   "unit": {
+    "label": "100g당",
+    "value": 89
+   },
+   "comps": [
+    {
+     "name": "판매글 21곳 최저가",
+     "price": 23500
+    }
+   ],
+   "link": "http://app.ac/lAGSFA543"
+  },
   {
    "uid": "6283951925",
    "mall": "롯데온",
@@ -3064,28 +3086,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iPyJUyo2iO"
-  },
-  {
-   "uid": "7549406487",
-   "mall": "롯데온",
-   "title": "코디 에코그린 화장지 30m*30롤 3팩",
-   "price": 27360,
-   "image": "https://contents.lotteon.com/itemimage/20261117154934/LO/28/13/13/29/22/_2/81/31/32/92/3/LO2813132922_2813132923_1.jpg",
-   "sentAt": "2026-11-20T17:17:23.645+09:00",
-   "saving": 27,
-   "baseline": 37370,
-   "baselineNote": "판매글 10곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 9120
-   },
-   "comps": [
-    {
-     "name": "판매글 10곳 최저가",
-     "price": 37370
-    }
-   ],
-   "link": "http://app.ac/XbGi7kl33"
   }
  ]
 }
