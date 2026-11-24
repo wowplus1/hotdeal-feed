@@ -1,7 +1,34 @@
 {
- "updated": "2026-11-24T22:38:16.030+09:00",
+ "updated": "2026-11-24T22:58:18.782+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "1592459571",
+   "mall": "11번가",
+   "title": "마이핫 보온대 160g 30개",
+   "price": 14950,
+   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/9746300590/B.webp?465979495",
+   "sentAt": "2026-11-24T22:58:18.782+09:00",
+   "saving": 33,
+   "baseline": 22240,
+   "baselineNote": "147곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 498
+   },
+   "check": {
+    "market": 22240,
+    "malls": 147
+   },
+   "comps": [
+    {
+     "name": "147곳 중 최저",
+     "price": 22240
+    }
+   ],
+   "link": "http://app.ac/8bGewLl83",
+   "web": true
+  },
   {
    "uid": "8846879654",
    "mall": "지마켓",
@@ -13822,29 +13849,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=628809631",
-   "web": true
-  },
-  {
-   "uid": "1877250841",
-   "mall": "지마켓",
-   "title": "스텐 밀폐용기 반찬통 5개 세트",
-   "price": 5490,
-   "image": "https://gdimg.gmarket.co.kr/4379692682/goodsimage",
-   "sentAt": "2026-11-10T00:04:07.054+09:00",
-   "saving": 64,
-   "baseline": 15050,
-   "baselineNote": "판매글 8곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 1098
-   },
-   "comps": [
-    {
-     "name": "판매글 8곳 최저가",
-     "price": 15050
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4379692682",
    "web": true
   }
  ]
