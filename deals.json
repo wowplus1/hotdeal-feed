@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-25T08:11:59.485+09:00",
+ "updated": "2026-11-25T10:03:33.525+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7232763742",
+   "mall": "지마켓",
+   "title": "파라다이스 그레인 60정 3통",
+   "price": 16990,
+   "image": "https://gdimg.gmarket.co.kr/4794812716/goodsimage",
+   "sentAt": "2026-11-25T10:03:32.729+09:00",
+   "saving": 51,
+   "baseline": 34650,
+   "baselineNote": "판매글 4곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 4곳 최저가",
+     "price": 34650
+    }
+   ],
+   "link": "https://item.gmarket.co.kr/Item?goodscode=4794812716"
+  },
   {
    "uid": "1841318846",
    "mall": "쿠팡",
@@ -2568,28 +2586,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/gm4XvrDF4S"
-  },
-  {
-   "uid": "2297755333",
-   "mall": "쿠팡",
-   "title": "스프라이트 사이다, 190ml, 30개",
-   "price": 12000,
-   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/472282660049551-2c914374-9b9d-4629-8e4f-ae06c0e41039.jpg",
-   "sentAt": "2026-11-22T09:06:54.925+09:00",
-   "saving": 36,
-   "baseline": 18879,
-   "baselineNote": "판매글 10곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 400
-   },
-   "comps": [
-    {
-     "name": "판매글 10곳 최저가",
-     "price": 18879
-    }
-   ],
-   "link": "https://link.coupang.com/a/hHauQSVcK4"
   }
  ]
 }
