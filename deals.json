@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-25T15:36:39.760+09:00",
+ "updated": "2026-11-25T16:08:33.439+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1875683727",
+   "mall": "롯데온",
+   "title": "전라도 해남 절임배추 20kg",
+   "price": 24150,
+   "image": "https://contents.lotteon.com/itemimage/20261125155044/LO/28/14/87/95/71/_2/81/48/79/58/2/LO2814879571_2814879582_1.jpg",
+   "sentAt": "2026-11-25T16:08:32.516+09:00",
+   "saving": 22,
+   "baseline": 31110,
+   "baselineNote": "판매글 15곳 최저가",
+   "unit": {
+    "label": "100g당",
+    "value": 121
+   },
+   "comps": [
+    {
+     "name": "판매글 15곳 최저가",
+     "price": 31110
+    }
+   ],
+   "link": "http://app.ac/CEwXFqS33"
+  },
   {
    "uid": "3545911130",
    "mall": "쿠팡",
@@ -2498,28 +2520,6 @@
     "where": "197곳 중 최저"
    },
    "link": "https://link.coupang.com/a/gwghyKPSNM"
-  },
-  {
-   "uid": "6291806613",
-   "mall": "토스쇼핑",
-   "title": "국내산 가정용 꿀부사 사과, 22과내외, 4kg, 1박스",
-   "price": 9400,
-   "image": "https://shopping.toss.im/live/temp/2026-11-09/93dc3915-082b-4831-a988-7c6a80ea7f97.jpeg",
-   "sentAt": "2026-11-22T21:01:07.646+09:00",
-   "saving": 30,
-   "baseline": 13430,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": {
-    "label": "100g당",
-    "value": 235
-   },
-   "comps": [
-    {
-     "name": "판매글 5곳 최저가",
-     "price": 13430
-    }
-   ],
-   "link": "https://toss.shopping/_m/3qO3tPko"
   }
  ]
 }
