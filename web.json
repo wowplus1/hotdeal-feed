@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-26T00:06:35.628+09:00",
+ "updated": "2026-11-26T00:42:13.329+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "3684216574",
+   "mall": "쿠팡",
+   "title": "도루코 페이스 파이브 5중 면도날 4개입",
+   "price": 4280,
+   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/37140519129075-100b73e6-70bf-4e7c-9457-0dbfb9ea988b.jpg",
+   "sentAt": "2026-11-26T00:42:13.329+09:00",
+   "saving": 68,
+   "baseline": 13210,
+   "baselineNote": "판매글 9곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 1070
+   },
+   "comps": [
+    {
+     "name": "판매글 9곳 최저가",
+     "price": 13210
+    }
+   ],
+   "link": "https://link.coupang.com/a/iYgyxQBCSa",
+   "web": true
+  },
   {
    "uid": "1131768212",
    "mall": "지마켓",
@@ -13474,25 +13497,6 @@
     }
    ],
    "link": "http://app.ac/JtneBkM23",
-   "web": true
-  },
-  {
-   "uid": "3435514950",
-   "mall": "지마켓",
-   "title": "비비고 왕교자1.05kg x3개 + 315g x1개",
-   "price": 23200,
-   "image": "https://gdimg.gmarket.co.kr/4467917687/goodsimage",
-   "sentAt": "2026-11-10T17:04:10.590+09:00",
-   "saving": 40,
-   "baseline": 38680,
-   "baselineNote": "판매글 5곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 5곳 최저가",
-     "price": 38680
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4467917687",
    "web": true
   }
  ]
