@@ -1,7 +1,33 @@
 {
- "updated": "2026-11-25T14:57:23.124+09:00",
+ "updated": "2026-11-25T15:27:51.658+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8080120195",
+   "mall": "쿠팡",
+   "title": "해태제과 맛동산, 90g, 10개",
+   "price": 10480,
+   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/411233890095199-0889751e-2786-427e-b38c-c1e4edeb277a.jpg",
+   "sentAt": "2026-11-25T15:27:50.910+09:00",
+   "saving": 22,
+   "baseline": 13470,
+   "baselineNote": "57곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 1048
+   },
+   "check": {
+    "market": 13470,
+    "malls": 57
+   },
+   "comps": [
+    {
+     "name": "57곳 중 최저",
+     "price": 13470
+    }
+   ],
+   "link": "https://link.coupang.com/a/iXCQwH7uF2"
+  },
   {
    "uid": "5159987104",
    "mall": "롯데온",
@@ -2490,28 +2516,6 @@
     }
    ],
    "link": "http://app.ac/MjpX3ta53"
-  },
-  {
-   "uid": "2151559543",
-   "mall": "쿠팡",
-   "title": "도브 시어버터 뷰티 바 클렌징 비누 90g 12개입",
-   "price": 10990,
-   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/3a5834c0-c13a-4678-a832-8b4d5960d5bd16733373509575919905.png",
-   "sentAt": "2026-11-22T17:12:34.561+09:00",
-   "saving": 32,
-   "baseline": 16270,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 916
-   },
-   "comps": [
-    {
-     "name": "판매글 3곳 최저가",
-     "price": 16270
-    }
-   ],
-   "link": "https://link.coupang.com/a/iSLHZV6zPU"
   }
  ]
 }
