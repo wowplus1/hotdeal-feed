@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-25T16:02:12.188+09:00",
+ "updated": "2026-11-25T17:08:35.751+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "9413401906",
+   "mall": "지마켓",
+   "title": "씽크웨이 토체프 101 108키 기계식 유무선 키보드",
+   "price": 49910,
+   "image": "https://gdimg.gmarket.co.kr/4810261225/goodsimage",
+   "sentAt": "2026-11-25T17:08:35.751+09:00",
+   "saving": 38,
+   "baseline": 79900,
+   "baselineNote": "판매글 7곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 7곳 최저가",
+     "price": 79900
+    }
+   ],
+   "link": "https://item.gmarket.co.kr/Item?goodscode=4810261225",
+   "web": true
+  },
   {
    "uid": "5230114323",
    "mall": "하이마트",
@@ -13598,25 +13617,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iyLLPcqVem",
-   "web": true
-  },
-  {
-   "uid": "9058448622",
-   "mall": "지마켓",
-   "title": "9850x3d rx9070xt 16gb 32gb 1tb",
-   "price": 1500000,
-   "image": "https://gdimg.gmarket.co.kr/4463680822/goodsimage",
-   "sentAt": "2026-11-10T15:20:15.988+09:00",
-   "saving": 50,
-   "baseline": 3028170,
-   "baselineNote": "판매글 29곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 29곳 최저가",
-     "price": 3028170
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4463680822",
    "web": true
   }
  ]
