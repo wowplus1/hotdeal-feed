@@ -1,7 +1,33 @@
 {
- "updated": "2026-11-25T19:08:47.325+09:00",
+ "updated": "2026-11-25T21:17:18.990+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7726261756",
+   "mall": "쿠팡",
+   "title": "탐스제로 탄산음료 사과, 355ml, 48개",
+   "price": 20210,
+   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/8c571a20-51a4-4f66-87a7-389157515b823700061183402753951.png",
+   "sentAt": "2026-11-25T21:17:18.159+09:00",
+   "saving": 35,
+   "baseline": 31320,
+   "baselineNote": "49곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 421
+   },
+   "check": {
+    "market": 31320,
+    "malls": 49
+   },
+   "comps": [
+    {
+     "name": "49곳 중 최저",
+     "price": 31320
+    }
+   ],
+   "link": "https://link.coupang.com/a/iX1Uz38p7k"
+  },
   {
    "uid": "2268254335",
    "mall": "11번가",
@@ -2263,28 +2289,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/ioscAMctaK"
-  },
-  {
-   "uid": "2686721436",
-   "mall": "쿠팡",
-   "title": "오뚜기 흰밥, 210g, 12개",
-   "price": 8400,
-   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/42b9/927f66e794d86f61940c6faf1c90576f9647101e3b4d950218880f6b2a82.jpg",
-   "sentAt": "2026-11-23T10:03:22.811+09:00",
-   "saving": 59,
-   "baseline": 20690,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 700
-   },
-   "comps": [
-    {
-     "name": "판매글 3곳 최저가",
-     "price": 20690
-    }
-   ],
-   "link": "https://link.coupang.com/a/h9pvJh3uo0"
   }
  ]
 }
