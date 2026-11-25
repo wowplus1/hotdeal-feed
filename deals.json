@@ -1,7 +1,24 @@
 {
- "updated": "2026-11-25T10:03:33.525+09:00",
+ "updated": "2026-11-25T10:12:38.953+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4172879015",
+   "mall": "지마켓",
+   "title": "비타500 100ml 50병 골라담기",
+   "price": 21090,
+   "image": "https://gdimg.gmarket.co.kr/3028584124/goodsimage",
+   "sentAt": "2026-11-25T10:12:38.193+09:00",
+   "unit": {
+    "label": "개당",
+    "value": 422
+   },
+   "alt": {
+    "price": 24458,
+    "where": "401곳 중 최저"
+   },
+   "link": "https://item.gmarket.co.kr/Item?goodscode=3028584124"
+  },
   {
    "uid": "7232763742",
    "mall": "지마켓",
@@ -2564,28 +2581,6 @@
     }
    ],
    "link": "https://toss.im/_m/lOMja1vy"
-  },
-  {
-   "uid": "9387018089",
-   "mall": "쿠팡",
-   "title": "사무실 과자세트 스낵 비스킷쿠키 21입 세트 2호",
-   "price": 22820,
-   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/159961493397989-bd7130e7-341f-44f2-9aef-28a4e31916eb.png",
-   "sentAt": "2026-11-22T10:12:39.077+09:00",
-   "saving": 53,
-   "baseline": 48950,
-   "baselineNote": "판매글 3곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 1087
-   },
-   "comps": [
-    {
-     "name": "판매글 3곳 최저가",
-     "price": 48950
-    }
-   ],
-   "link": "https://link.coupang.com/a/gm4XvrDF4S"
   }
  ]
 }
