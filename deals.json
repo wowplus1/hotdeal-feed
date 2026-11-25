@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-25T15:27:51.658+09:00",
+ "updated": "2026-11-25T15:36:39.760+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3545911130",
+   "mall": "쿠팡",
+   "title": "오레오오즈 시리얼, 450g, 2개",
+   "price": 10310,
+   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/239114803017380-dc4ab663-350c-4501-b274-3b2970c32128.jpg",
+   "sentAt": "2026-11-25T15:36:38.071+09:00",
+   "saving": 48,
+   "baseline": 19950,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 5155
+   },
+   "comps": [
+    {
+     "name": "판매글 5곳 최저가",
+     "price": 19950
+    }
+   ],
+   "link": "https://link.coupang.com/a/gK2hKKhp3Q"
+  },
   {
    "uid": "8080120195",
    "mall": "쿠팡",
@@ -2498,24 +2520,6 @@
     }
    ],
    "link": "https://toss.shopping/_m/3qO3tPko"
-  },
-  {
-   "uid": "2387768505",
-   "mall": "롯데온",
-   "title": "남여공용 겨울 베이직 소프트 터틀넥 목폴라 티셔츠 MVT5476",
-   "price": 9660,
-   "image": "https://contents.lotteon.com/itemimage/20261023150251/LO/25/72/17/68/54/_2/57/21/76/85/5/LO2572176854_2572176855_1.jpg",
-   "sentAt": "2026-11-22T19:51:29.751+09:00",
-   "saving": 30,
-   "baseline": 13890,
-   "baselineNote": "판매글 8곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 8곳 최저가",
-     "price": 13890
-    }
-   ],
-   "link": "http://app.ac/MjpX3ta53"
   }
  ]
 }
