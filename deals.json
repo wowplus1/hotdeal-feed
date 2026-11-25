@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-25T16:08:33.439+09:00",
+ "updated": "2026-11-25T16:31:18.823+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6791421739",
+   "mall": "지마켓",
+   "title": "국산콩 100% 시골집 청국장 180g x 6개",
+   "price": 12800,
+   "image": "https://gdimg.gmarket.co.kr/4318086821/goodsimage",
+   "sentAt": "2026-11-25T16:31:18.056+09:00",
+   "saving": 34,
+   "baseline": 19380,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 2133
+   },
+   "comps": [
+    {
+     "name": "판매글 3곳 최저가",
+     "price": 19380
+    }
+   ],
+   "link": "https://item.gmarket.co.kr/Item?goodscode=4318086821"
+  },
   {
    "uid": "1875683727",
    "mall": "롯데온",
@@ -2503,23 +2525,6 @@
     "ship": 0
    },
    "link": "https://link.coupang.com/a/gnRAgAQf3k"
-  },
-  {
-   "uid": "1149175171",
-   "mall": "쿠팡",
-   "title": "센소다인 멀티케어 치약, 100g, 3개",
-   "price": 8250,
-   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/image_audit/prod/abd2de5f-ea0c-4c97-953c-47efda0bd4ae_fixing_v2.png",
-   "sentAt": "2026-11-23T07:12:06.617+09:00",
-   "unit": {
-    "label": "개당",
-    "value": 2750
-   },
-   "alt": {
-    "price": 11300,
-    "where": "197곳 중 최저"
-   },
-   "link": "https://link.coupang.com/a/gwghyKPSNM"
   }
  ]
 }
