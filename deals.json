@@ -1,7 +1,33 @@
 {
- "updated": "2026-11-25T18:02:32.344+09:00",
+ "updated": "2026-11-25T18:52:52.519+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6662945169",
+   "mall": "쿠팡",
+   "title": "첵스초코 오곡으로 만든 스노우초코볼 시리얼, 420g, 2개",
+   "price": 6780,
+   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/112424934310863-562c7453-2d90-434f-90e6-d1e72aa23192.jpg",
+   "sentAt": "2026-11-25T18:52:51.749+09:00",
+   "saving": 48,
+   "baseline": 12940,
+   "baselineNote": "20곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 3390
+   },
+   "check": {
+    "market": 12940,
+    "malls": 20
+   },
+   "comps": [
+    {
+     "name": "20곳 중 최저",
+     "price": 12940
+    }
+   ],
+   "link": "https://link.coupang.com/a/gfCAogps16"
+  },
   {
    "uid": "7585935332",
    "mall": "11번가",
@@ -2381,28 +2407,6 @@
     }
    ],
    "link": "https://hotdeal.best/3866839249?utm_source=kakao"
-  },
-  {
-   "uid": "2654197530",
-   "mall": "지마켓",
-   "title": "항아리반찬 낙지젓 1kg",
-   "price": 15530,
-   "image": "https://gdimg.gmarket.co.kr/4233699303/goodsimage",
-   "sentAt": "2026-11-23T08:58:22.916+09:00",
-   "saving": 30,
-   "baseline": 22170,
-   "baselineNote": "판매글 7곳 최저가",
-   "unit": {
-    "label": "100g당",
-    "value": 1553
-   },
-   "comps": [
-    {
-     "name": "판매글 7곳 최저가",
-     "price": 22170
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4233699303"
   }
  ]
 }
