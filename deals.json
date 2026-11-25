@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-25T12:21:23.187+09:00",
+ "updated": "2026-11-25T14:04:15.031+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4200103756",
+   "mall": "쿠팡",
+   "title": "웅진 유기농 순한작두콩차 200ml 24개 10,800원",
+   "price": 10800,
+   "image": "https://thumbnail1.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/fc57/0773b555ef24a4d5920ab2c49c4268d4756ec3b02d4c935acb2ffcfc7373.jpg",
+   "sentAt": "2026-11-25T14:04:14.252+09:00",
+   "saving": 35,
+   "baseline": 16500,
+   "baselineNote": "판매글 3곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 450
+   },
+   "comps": [
+    {
+     "name": "판매글 3곳 최저가",
+     "price": 16500
+    }
+   ],
+   "link": "https://link.coupang.com/a/iXwXwDIPiS"
+  },
   {
    "uid": "8037661588",
    "mall": "GS SHOP",
@@ -2478,15 +2500,6 @@
     "ship": 3000
    },
    "link": "https://link.coupang.com/a/iSxOYjaNgG"
-  },
-  {
-   "uid": "2494229029",
-   "mall": "지마켓",
-   "title": "하림 양푼김치찌개 8입+훌라면 4입+닭칼국수 4입",
-   "price": 12510,
-   "image": "https://gdimg.gmarket.co.kr/4672937495/goodsimage",
-   "sentAt": "2026-11-22T13:57:29.333+09:00",
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4672937495"
   }
  ]
 }
