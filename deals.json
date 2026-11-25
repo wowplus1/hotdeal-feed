@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-25T10:12:38.953+09:00",
+ "updated": "2026-11-25T10:41:43.148+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5525558635",
+   "mall": "쿠팡",
+   "title": "홍영의 금참치액, 480ml, 1개",
+   "price": 6650,
+   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/172813169066104-25fc18af-84e9-41c1-8b94-80eb2bc989b4.jpg",
+   "sentAt": "2026-11-25T10:41:42.585+09:00",
+   "saving": 53,
+   "baseline": 14160,
+   "baselineNote": "판매글 12곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 12곳 최저가",
+     "price": 14160
+    }
+   ],
+   "link": "https://link.coupang.com/a/iXisYZzx5U"
+  },
   {
    "uid": "4172879015",
    "mall": "지마켓",
@@ -2465,122 +2483,6 @@
     }
    ],
    "link": "https://toss.shopping/_m/NWkR52d6"
-  },
-  {
-   "uid": "7060821273",
-   "mall": "토스쇼핑",
-   "title": "한라식품 참치액, 900ml, 3개",
-   "price": 17900,
-   "image": "https://shopping.toss.im/live/taca/ai/NGRmYTY3/QUo4REQvRnd2UDhQNHZ5Qi9oOERlbEdCNngrdTlFdmx6eHUwWDYvdVZQaHg.png",
-   "sentAt": "2026-11-22T11:12:37.734+09:00",
-   "saving": 31,
-   "baseline": 26090,
-   "baselineNote": "18곳 중 최저 · 무료배송",
-   "unit": {
-    "label": "개당",
-    "value": 5967
-   },
-   "check": {
-    "market": 26090,
-    "malls": 18,
-    "ship": 0
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": false,
-    "low": 17710
-   },
-   "spec": [
-    "플라스틱",
-    "훈연참치추출액 71%"
-   ],
-   "comps": [
-    {
-     "name": "18곳 중 최저 · 무료배송",
-     "price": 26090
-    }
-   ],
-   "trend": [
-    {
-     "m": "25-12",
-     "p": 17740
-    },
-    {
-     "m": "26-01",
-     "p": 17710
-    },
-    {
-     "m": "26-02",
-     "p": 17730
-    },
-    {
-     "m": "26-03",
-     "p": 20150
-    },
-    {
-     "m": "26-04",
-     "p": 19200
-    },
-    {
-     "m": "26-05",
-     "p": 19320
-    },
-    {
-     "m": "26-06",
-     "p": 19950
-    },
-    {
-     "m": "26-07",
-     "p": 18890
-    },
-    {
-     "m": "26-08",
-     "p": 18890
-    },
-    {
-     "m": "26-09",
-     "p": 25050
-    },
-    {
-     "m": "26-10",
-     "p": 24290
-    },
-    {
-     "m": "26-11",
-     "p": 23200
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "11번가",
-     "code": "TH201",
-     "id": "9691484876",
-     "price": 26090,
-     "ship": 0
-    },
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "F691732675",
-     "price": 26100,
-     "ship": 0
-    },
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "4882593883",
-     "price": 26100,
-     "ship": 0
-    },
-    {
-     "mall": "롯데ON",
-     "code": "EE309",
-     "id": "LO2764272528",
-     "price": 67390,
-     "ship": 3000
-    }
-   ],
-   "link": "https://toss.im/_m/lOMja1vy"
   }
  ]
 }
