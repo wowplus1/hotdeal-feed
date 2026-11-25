@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-25T11:16:23.563+09:00",
+ "updated": "2026-11-25T11:27:30.544+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2534351097",
+   "mall": "토스쇼핑",
+   "title": "국산 영천 깐마늘, 중, 3kg, 1팩",
+   "price": 19890,
+   "image": "https://shopping.toss.im/live/taca/ai/NmRhZTA2/UVMwNDJFOW4xYXh5UGpKcWpUSzNYcmFaWGRDUk1BUXRpZDVzM1FwV3dIST0.png",
+   "sentAt": "2026-11-25T11:27:30.007+09:00",
+   "saving": 48,
+   "baseline": 38160,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": {
+    "label": "100g당",
+    "value": 663
+   },
+   "comps": [
+    {
+     "name": "판매글 5곳 최저가",
+     "price": 38160
+    }
+   ],
+   "link": "https://toss.shopping/_m/x1ARrZgB"
+  },
   {
    "uid": "9880283326",
    "mall": "지마켓",
@@ -2465,28 +2487,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=3099706825"
-  },
-  {
-   "uid": "6445924169",
-   "mall": "지마켓",
-   "title": "코디 천연펄프 시카 로션 화장지 30m 30롤 2팩",
-   "price": 28960,
-   "image": "https://gdimg.gmarket.co.kr/4849466429/goodsimage",
-   "sentAt": "2026-11-22T12:36:24.416+09:00",
-   "saving": 22,
-   "baseline": 36900,
-   "baselineNote": "판매글 20곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 14480
-   },
-   "comps": [
-    {
-     "name": "판매글 20곳 최저가",
-     "price": 36900
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4849466429"
   }
  ]
 }
