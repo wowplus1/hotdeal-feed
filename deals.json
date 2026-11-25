@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-25T16:31:18.823+09:00",
+ "updated": "2026-11-25T17:44:42.529+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "3504600435",
+   "mall": "토스쇼핑",
+   "title": "켈로그 콘푸로스트, 600g, 1개 + 첵스초코, 570g, 1개",
+   "price": 9980,
+   "image": "https://shopping.toss.im/live/taca/ai/v2/MTdkYTMy/QUxXeGx2S1kxTW42bmhITXM4eTBPUHp4K0l0U1BvUnl5MlQ4cGZRN1JsNEw.png",
+   "sentAt": "2026-11-25T17:44:41.713+09:00",
+   "saving": 32,
+   "baseline": 14690,
+   "baselineNote": "판매글 3곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 3곳 최저가",
+     "price": 14690
+    }
+   ],
+   "link": "https://toss.shopping/_m/TEzReuR2"
+  },
   {
    "uid": "6791421739",
    "mall": "지마켓",
@@ -2507,24 +2525,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iTQdjMgXbU"
-  },
-  {
-   "uid": "2699539564",
-   "mall": "쿠팡",
-   "title": "파워에이드 마운틴블라스트 무라벨, 355ml, 20개",
-   "price": 13620,
-   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/3791012530342-62232d3f-aa6f-4929-98e6-09442c8e391d.jpg",
-   "sentAt": "2026-11-23T07:47:17.805+09:00",
-   "unit": {
-    "label": "개당",
-    "value": 681
-   },
-   "alt": {
-    "price": 16220,
-    "where": "677곳 중 최저",
-    "ship": 0
-   },
-   "link": "https://link.coupang.com/a/gnRAgAQf3k"
   }
  ]
 }
