@@ -1,7 +1,33 @@
 {
- "updated": "2026-11-25T14:04:15.031+09:00",
+ "updated": "2026-11-25T14:57:23.124+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "5159987104",
+   "mall": "롯데온",
+   "title": "플레이보이 패키지 드로즈 10매입 세트",
+   "price": 20270,
+   "image": "https://contents.lotteon.com/itemimage/20260408113107/LO/26/52/83/10/24/_2/65/28/31/02/5/LO2652831024_2652831025_1.jpg",
+   "sentAt": "2026-11-25T14:57:22.353+09:00",
+   "saving": 32,
+   "baseline": 29930,
+   "baselineNote": "14곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 2027
+   },
+   "check": {
+    "market": 29930,
+    "malls": 14
+   },
+   "comps": [
+    {
+     "name": "14곳 중 최저",
+     "price": 29930
+    }
+   ],
+   "link": "http://app.ac/fqnn7n253"
+  },
   {
    "uid": "4200103756",
    "mall": "쿠팡",
@@ -2486,20 +2512,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iSLHZV6zPU"
-  },
-  {
-   "uid": "9800845282",
-   "mall": "쿠팡",
-   "title": "다슈 데일리 비타플렉스 올인원 바디워시 500ml",
-   "price": 7750,
-   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/22575869423725-b8a60c66-1562-4e7d-b5b8-31567b8d7f81.jpg",
-   "sentAt": "2026-11-22T13:58:26.567+09:00",
-   "alt": {
-    "price": 13920,
-    "where": "66곳 중 최저",
-    "ship": 3000
-   },
-   "link": "https://link.coupang.com/a/iSxOYjaNgG"
   }
  ]
 }
