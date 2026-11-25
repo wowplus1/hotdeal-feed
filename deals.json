@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-25T11:27:30.544+09:00",
+ "updated": "2026-11-25T12:21:23.187+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "8037661588",
+   "mall": "GS SHOP",
+   "title": "네이처 센시티브 아기물티슈 70매 캡 10팩",
+   "price": 12900,
+   "image": "https://asset.m-gs.kr/prod/1037220347/1/550",
+   "sentAt": "2026-11-25T12:21:22.109+09:00",
+   "saving": 52,
+   "baseline": 26900,
+   "baselineNote": "판매글 4곳 최저가",
+   "comps": [
+    {
+     "name": "판매글 4곳 최저가",
+     "price": 26900
+    }
+   ],
+   "link": "http://app.ac/KqD64R233"
+  },
   {
    "uid": "2534351097",
    "mall": "토스쇼핑",
@@ -2469,24 +2487,6 @@
    "image": "https://gdimg.gmarket.co.kr/4672937495/goodsimage",
    "sentAt": "2026-11-22T13:57:29.333+09:00",
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4672937495"
-  },
-  {
-   "uid": "1011128341",
-   "mall": "지마켓",
-   "title": "나이키 FQ5815-010 크로스백",
-   "price": 15440,
-   "image": "https://gdimg.gmarket.co.kr/3099706825/goodsimage",
-   "sentAt": "2026-11-22T13:26:34.600+09:00",
-   "saving": 29,
-   "baseline": 21600,
-   "baselineNote": "판매글 39곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 39곳 최저가",
-     "price": 21600
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=3099706825"
   }
  ]
 }
