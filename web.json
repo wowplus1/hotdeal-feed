@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-25T08:41:32.330+09:00",
+ "updated": "2026-11-25T10:04:34.997+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "9222155847",
+   "mall": "쿠팡",
+   "title": "뷰카 오브제 듀얼 초미세 탄력모 칫솔 18개입 7,860원",
+   "price": 7860,
+   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/10/02/11/4/1b955b0d-6599-4e49-8a89-8aa06c9cc68d.jpg",
+   "sentAt": "2026-11-25T10:04:34.997+09:00",
+   "saving": 64,
+   "baseline": 21990,
+   "baselineNote": "판매글 5곳 최저가",
+   "unit": {
+    "label": "개당",
+    "value": 437
+   },
+   "comps": [
+    {
+     "name": "판매글 5곳 최저가",
+     "price": 21990
+    }
+   ],
+   "link": "https://link.coupang.com/a/iXfPPqe7xc",
+   "web": true
+  },
   {
    "uid": "4343646173",
    "mall": "쿠팡",
@@ -13603,25 +13626,6 @@
     }
    ],
    "link": "http://app.ac/O3CqJMJ13",
-   "web": true
-  },
-  {
-   "uid": "9731367151",
-   "mall": "지마켓",
-   "title": "atk a9 ultimate 마스터 8k 무선 마우스 paw3955 마스터 얼티메이트 플러스",
-   "price": 56410,
-   "image": "https://gdimg.gmarket.co.kr/4894955728/goodsimage",
-   "sentAt": "2026-11-10T13:35:01.929+09:00",
-   "saving": 38,
-   "baseline": 90340,
-   "baselineNote": "판매글 15곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 15곳 최저가",
-     "price": 90340
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4894955728",
    "web": true
   }
  ]
