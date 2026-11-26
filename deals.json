@@ -1,7 +1,33 @@
 {
- "updated": "2026-11-26T13:58:03.587+09:00",
+ "updated": "2026-11-26T17:18:19.120+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4897317626",
+   "mall": "쿠팡",
+   "title": "오리온 오감자 감자그라탕맛 95g 3개",
+   "price": 3950,
+   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/340491695397345-665fbbdc-9dcf-4563-8a96-9e6d7ae9bc83.jpg",
+   "sentAt": "2026-11-26T17:18:18.325+09:00",
+   "saving": 58,
+   "baseline": 9340,
+   "baselineNote": "22곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 1317
+   },
+   "check": {
+    "market": 9340,
+    "malls": 22
+   },
+   "comps": [
+    {
+     "name": "22곳 중 최저",
+     "price": 9340
+    }
+   ],
+   "link": "https://link.coupang.com/a/iZpJwD4orA"
+  },
   {
    "uid": "4183615862",
    "mall": "지마켓",
@@ -2159,23 +2185,6 @@
     }
    ],
    "link": "http://app.ac/yEwirMS73"
-  },
-  {
-   "uid": "9703276879",
-   "mall": "지마켓",
-   "title": "매콤 무뼈족발 300g x 3팩",
-   "price": 12730,
-   "image": "https://gdimg.gmarket.co.kr/2091077573/goodsimage",
-   "sentAt": "2026-11-23T10:36:46.986+09:00",
-   "unit": {
-    "label": "개당",
-    "value": 4243
-   },
-   "alt": {
-    "price": 14180,
-    "where": "25곳 중 최저"
-   },
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2091077573"
   }
  ]
 }
