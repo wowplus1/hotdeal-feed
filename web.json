@@ -1,7 +1,89 @@
 {
- "updated": "2026-11-26T16:12:31.999+09:00",
+ "updated": "2026-11-26T20:56:57.735+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "5722600717",
+   "mall": "쿠팡",
+   "title": "이니스프리 유채꿀 초보습 립밤 2개",
+   "price": 7100,
+   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1252132436498334-e861791b-12c0-4bca-be83-689a7c900c66.jpg",
+   "sentAt": "2026-11-26T20:56:57.735+09:00",
+   "saving": 39,
+   "baseline": 11710,
+   "baselineNote": "최근 한 달 시세 · 36곳",
+   "unit": {
+    "label": "개당",
+    "value": 3550
+   },
+   "check": {
+    "market": 11710,
+    "malls": 36
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 8400
+   },
+   "comps": [
+    {
+     "name": "최근 한 달 시세 · 36곳",
+     "price": 11710
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 8400
+    },
+    {
+     "m": "26-01",
+     "p": 9010
+    },
+    {
+     "m": "26-02",
+     "p": 10000
+    },
+    {
+     "m": "26-03",
+     "p": 9120
+    },
+    {
+     "m": "26-04",
+     "p": 11640
+    },
+    {
+     "m": "26-05",
+     "p": 11810
+    },
+    {
+     "m": "26-06",
+     "p": 11810
+    },
+    {
+     "m": "26-07",
+     "p": 12260
+    },
+    {
+     "m": "26-08",
+     "p": 11980
+    },
+    {
+     "m": "26-09",
+     "p": 11890
+    },
+    {
+     "m": "26-10",
+     "p": 11890
+    },
+    {
+     "m": "26-11",
+     "p": 11150
+    }
+   ],
+   "link": "https://link.coupang.com/a/iZqnosKE1Y",
+   "web": true
+  },
   {
    "uid": "3514489984",
    "mall": "지마켓",
@@ -13241,21 +13323,6 @@
     }
    ],
    "link": "http://app.ac/pAV8Ek593",
-   "web": true
-  },
-  {
-   "uid": "6597383007",
-   "mall": "지마켓",
-   "title": "마니커 버팔로 치킨윙봉 1kg+1kg",
-   "price": 15640,
-   "image": "https://gdimg.gmarket.co.kr/1695859677/goodsimage",
-   "sentAt": "2026-11-10T17:30:14.807+09:00",
-   "alt": {
-    "price": 20410,
-    "where": "87곳 중 최저",
-    "ship": 0
-   },
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=1695859677",
    "web": true
   }
  ]
