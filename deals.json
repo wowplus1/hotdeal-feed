@@ -1,7 +1,60 @@
 {
- "updated": "2026-11-26T18:28:46.180+09:00",
+ "updated": "2026-11-26T19:11:53.655+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9447353994",
+   "mall": "쿠팡",
+   "title": "오리온 미쯔 황치즈 6p 222g 2개",
+   "price": 4100,
+   "image": "https://thumbnail1.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/4f1a94ee-e9ab-4e85-bf80-6c4cb58b39b78163685498903593492.png",
+   "sentAt": "2026-11-26T19:11:53.001+09:00",
+   "saving": 63,
+   "baseline": 11080,
+   "baselineNote": "최근 한 달 시세 · 51곳",
+   "unit": {
+    "label": "개당",
+    "value": 2050
+   },
+   "check": {
+    "market": 11080,
+    "malls": 51
+   },
+   "hist": {
+    "months": 3,
+    "cheaper": true,
+    "low": 11080
+   },
+   "comps": [
+    {
+     "name": "최근 한 달 시세 · 51곳",
+     "price": 11080
+    }
+   ],
+   "trend": [
+    {
+     "m": "26-07",
+     "p": 11610
+    },
+    {
+     "m": "26-08",
+     "p": 11080
+    },
+    {
+     "m": "26-09",
+     "p": 11150
+    },
+    {
+     "m": "26-10",
+     "p": 11210
+    },
+    {
+     "m": "26-11",
+     "p": 11080
+    }
+   ],
+   "link": "https://link.coupang.com/a/hpiBScsju0"
+  },
   {
    "uid": "5295569840",
    "mall": "쿠팡",
@@ -2226,28 +2279,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/h0vATBZa8a"
-  },
-  {
-   "uid": "3984071847",
-   "mall": "토스쇼핑",
-   "title": "에브리워터 무라벨, 500ml, 40개",
-   "price": 6290,
-   "image": "https://shopping.toss.im/live/temp/2026-02-17/32d41410-98f1-42d9-a442-9e8820fad904.jpeg",
-   "sentAt": "2026-11-23T11:12:20.883+09:00",
-   "saving": 29,
-   "baseline": 8850,
-   "baselineNote": "판매글 5곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 157
-   },
-   "comps": [
-    {
-     "name": "판매글 5곳 최저가",
-     "price": 8850
-    }
-   ],
-   "link": "https://toss.im/_m/RUaM6ddq"
   }
  ]
 }
