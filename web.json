@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-26T12:59:11.094+09:00",
+ "updated": "2026-11-26T16:12:31.999+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "3514489984",
+   "mall": "지마켓",
+   "title": "피오 FT1헤드폰 HIFI 밀폐형 헤드폰",
+   "price": 145540,
+   "image": "https://gdimg.gmarket.co.kr/4387366803/goodsimage",
+   "sentAt": "2026-11-26T16:12:31.999+09:00",
+   "saving": 10,
+   "baseline": 160923,
+   "baselineNote": "103곳 중 최저",
+   "check": {
+    "market": 160923,
+    "malls": 103
+   },
+   "comps": [
+    {
+     "name": "103곳 중 최저",
+     "price": 160923
+    }
+   ],
+   "link": "https://item.gmarket.co.kr/Item?goodscode=4387366803",
+   "web": true
+  },
   {
    "uid": "9180406235",
    "mall": "지마켓",
@@ -13233,29 +13256,6 @@
     "ship": 0
    },
    "link": "https://ad0981.kr/link/2463553347?gmarket2=1695859677",
-   "web": true
-  },
-  {
-   "uid": "7940701034",
-   "mall": "11번가",
-   "title": "광천김 3대째 달인 김자반 60g x 5봉",
-   "price": 7850,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/4583662575/B.webp",
-   "sentAt": "2026-11-10T17:29:16.376+09:00",
-   "saving": 33,
-   "baseline": 11690,
-   "baselineNote": "다른 곳 최저",
-   "unit": {
-    "label": "개당",
-    "value": 1570
-   },
-   "comps": [
-    {
-     "name": "다른 곳 최저",
-     "price": 11690
-    }
-   ],
-   "link": "http://app.ac/p3MW2SJ93",
    "web": true
   }
  ]
