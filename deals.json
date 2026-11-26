@@ -1,7 +1,33 @@
 {
- "updated": "2026-11-25T21:17:18.990+09:00",
+ "updated": "2026-11-26T13:58:03.587+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "4183615862",
+   "mall": "지마켓",
+   "title": "국내산 동치미 5kg",
+   "price": 8890,
+   "image": "https://gdimg.gmarket.co.kr/4910591868/goodsimage",
+   "sentAt": "2026-11-26T13:58:02.672+09:00",
+   "saving": 41,
+   "baseline": 15180,
+   "baselineNote": "90곳 중 최저",
+   "unit": {
+    "label": "100g당",
+    "value": 178
+   },
+   "check": {
+    "market": 15180,
+    "malls": 90
+   },
+   "comps": [
+    {
+     "name": "90곳 중 최저",
+     "price": 15180
+    }
+   ],
+   "link": "https://item.gmarket.co.kr/Item?goodscode=4910591868"
+  },
   {
    "uid": "7726261756",
    "mall": "쿠팡",
@@ -2150,145 +2176,6 @@
     "where": "25곳 중 최저"
    },
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2091077573"
-  },
-  {
-   "uid": "6633180315",
-   "mall": "쿠팡",
-   "title": "하인즈 토마토 케찹, 650g, 1개",
-   "price": 2570,
-   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/1025_amir_coupang_oct_80k/7baa/a3bfdb9a9b4cefaf3aab20cf94f6012a7aa42ed7d782eb1e4b23cc987f89.jpg",
-   "sentAt": "2026-11-23T10:23:22.865+09:00",
-   "saving": 44,
-   "baseline": 4610,
-   "baselineNote": "31곳 중 최저",
-   "unit": {
-    "label": "100g당",
-    "value": 395
-   },
-   "check": {
-    "market": 4610,
-    "malls": 31
-   },
-   "hist": {
-    "months": 12,
-    "cheaper": true,
-    "low": 3530
-   },
-   "comps": [
-    {
-     "name": "31곳 중 최저",
-     "price": 4610
-    }
-   ],
-   "trend": [
-    {
-     "m": "25-12",
-     "p": 4110
-    },
-    {
-     "m": "26-01",
-     "p": 3580
-    },
-    {
-     "m": "26-02",
-     "p": 3570
-    },
-    {
-     "m": "26-03",
-     "p": 3530
-    },
-    {
-     "m": "26-04",
-     "p": 3550
-    },
-    {
-     "m": "26-05",
-     "p": 3550
-    },
-    {
-     "m": "26-06",
-     "p": 3830
-    },
-    {
-     "m": "26-07",
-     "p": 4210
-    },
-    {
-     "m": "26-08",
-     "p": 4090
-    },
-    {
-     "m": "26-09",
-     "p": 3960
-    },
-    {
-     "m": "26-10",
-     "p": 4610
-    },
-    {
-     "m": "26-11",
-     "p": 4610
-    }
-   ],
-   "sellers": [
-    {
-     "mall": "옥션",
-     "code": "EE715",
-     "id": "E515356095",
-     "price": 4610,
-     "ship": 3000
-    },
-    {
-     "mall": "G마켓",
-     "code": "EE128",
-     "id": "3912732865",
-     "price": 4610,
-     "ship": 3000
-    },
-    {
-     "mall": "SSG.COM",
-     "code": "TN118",
-     "id": "1000675376382",
-     "price": 7608,
-     "ship": 4000
-    },
-    {
-     "mall": "이마트몰",
-     "code": "EE311",
-     "id": "1000675376382",
-     "price": 8180,
-     "ship": 4000
-    },
-    {
-     "mall": "신세계몰",
-     "code": "ED901",
-     "id": "1000675376382",
-     "price": 8180,
-     "ship": 4000
-    },
-    {
-     "mall": "SK스토아",
-     "code": "TSB275",
-     "id": "46618526",
-     "price": 8360,
-     "ship": 4000
-    },
-    {
-     "mall": "CJ온스타일",
-     "code": "ED909",
-     "id": "2028441774",
-     "price": 9000,
-     "ship": 3000
-    },
-    {
-     "mall": "쇼핑엔티",
-     "code": "TTC2DF",
-     "id": "20315143",
-     "price": 9400,
-     "ship": 4000
-    }
-   ],
-   "link": "https://link.coupang.com/a/ioscAMctaK"
   }
  ]
 }
