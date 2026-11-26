@@ -1,7 +1,53 @@
 {
- "updated": "2026-11-27T01:32:14.781+09:00",
+ "updated": "2026-11-27T08:53:20.035+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "6781523086",
+   "mall": "지마켓",
+   "title": "자연담음 해썹인증 해남 절임배추 20kg",
+   "price": 24840,
+   "image": "https://gdimg.gmarket.co.kr/4187486520/goodsimage",
+   "sentAt": "2026-11-27T08:53:20.035+09:00",
+   "saving": 14,
+   "baseline": 28720,
+   "baselineNote": "41곳 중 최저",
+   "unit": {
+    "label": "100g당",
+    "value": 124
+   },
+   "check": {
+    "market": 28720,
+    "malls": 41
+   },
+   "hist": {
+    "months": 1,
+    "cheaper": true,
+    "low": 28720
+   },
+   "comps": [
+    {
+     "name": "41곳 중 최저",
+     "price": 28720
+    }
+   ],
+   "trend": [
+    {
+     "m": "26-09",
+     "p": 46910
+    },
+    {
+     "m": "26-10",
+     "p": 32310
+    },
+    {
+     "m": "26-11",
+     "p": 28720
+    }
+   ],
+   "link": "https://item.gmarket.co.kr/Item?goodscode=4187486520",
+   "web": true
+  },
   {
    "uid": "9549596103",
    "mall": "쿠팡",
@@ -13246,29 +13292,6 @@
     }
    ],
    "link": "http://app.ac/MjpKlGa03",
-   "web": true
-  },
-  {
-   "uid": "8945450861",
-   "mall": "쿠팡",
-   "title": "박카스 얼박사 355ml 24개",
-   "price": 9810,
-   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/0781/f1241ba65efa9494eb619c3e1d4a74295683dcbf7f5198c3d2ba0a253fa8.jpg",
-   "sentAt": "2026-11-10T22:54:52.494+09:00",
-   "saving": 56,
-   "baseline": 22420,
-   "baselineNote": "판매글 27곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 409
-   },
-   "comps": [
-    {
-     "name": "판매글 27곳 최저가",
-     "price": 22420
-    }
-   ],
-   "link": "https://link.coupang.com/a/izfy7Tgbnw",
    "web": true
   }
  ]
