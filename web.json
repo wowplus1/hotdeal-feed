@@ -1,7 +1,85 @@
 {
- "updated": "2026-11-27T12:03:18.421+09:00",
+ "updated": "2026-11-27T18:03:30.445+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "2132427366",
+   "mall": "지마켓",
+   "title": "필립스 에브니아 32M2N8800 UHD 4K OLED 240Hz 게이밍 화이트 모니터",
+   "price": 734085,
+   "image": "https://gdimg.gmarket.co.kr/4212758930/goodsimage",
+   "sentAt": "2026-11-27T18:03:30.445+09:00",
+   "saving": 14,
+   "baseline": 849000,
+   "baselineNote": "32곳 중 최저",
+   "check": {
+    "market": 849000,
+    "malls": 32
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 834510
+   },
+   "comps": [
+    {
+     "name": "32곳 중 최저",
+     "price": 849000
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 1090000
+    },
+    {
+     "m": "26-01",
+     "p": 1090000
+    },
+    {
+     "m": "26-02",
+     "p": 1090000
+    },
+    {
+     "m": "26-03",
+     "p": 1090000
+    },
+    {
+     "m": "26-04",
+     "p": 1090000
+    },
+    {
+     "m": "26-05",
+     "p": 1090000
+    },
+    {
+     "m": "26-06",
+     "p": 1090000
+    },
+    {
+     "m": "26-07",
+     "p": 834510
+    },
+    {
+     "m": "26-08",
+     "p": 909000
+    },
+    {
+     "m": "26-09",
+     "p": 936030
+    },
+    {
+     "m": "26-10",
+     "p": 934370
+    },
+    {
+     "m": "26-11",
+     "p": 849000
+    }
+   ],
+   "link": "https://item.gmarket.co.kr/Item?goodscode=4212758930",
+   "web": true
+  },
   {
    "uid": "4744415720",
    "mall": "지마켓",
@@ -13324,29 +13402,6 @@
     }
    ],
    "link": "http://app.ac/YtnLLmM93",
-   "web": true
-  },
-  {
-   "uid": "4624670743",
-   "mall": "쿠팡",
-   "title": "튀김우동 컵면, 62g, 6개",
-   "price": 5480,
-   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/308588647525049-f593698b-72ab-4405-8085-56fe511a863b.jpg",
-   "sentAt": "2026-11-10T23:33:29.726+09:00",
-   "saving": 24,
-   "baseline": 7190,
-   "baselineNote": "판매글 27곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 913
-   },
-   "comps": [
-    {
-     "name": "판매글 27곳 최저가",
-     "price": 7190
-    }
-   ],
-   "link": "https://link.coupang.com/a/hKXAqj4jHo",
    "web": true
   }
  ]
