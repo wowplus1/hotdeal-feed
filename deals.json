@@ -1,7 +1,64 @@
 {
- "updated": "2026-11-26T21:11:17.684+09:00",
+ "updated": "2026-11-27T10:53:04.076+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "2945153045",
+   "mall": "쿠팡",
+   "title": "이클립스 페퍼민트향 캔디, 34g, 10개",
+   "price": 12600,
+   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/ab88/56778d66958976ef08714f7cccc201e00cc1bc185f9ef063743ced4750f0.jpg",
+   "sentAt": "2026-11-27T10:53:03.302+09:00",
+   "saving": 33,
+   "baseline": 18680,
+   "baselineNote": "40곳 중 최저",
+   "unit": {
+    "label": "개당",
+    "value": 1260
+   },
+   "check": {
+    "market": 18680,
+    "malls": 40
+   },
+   "hist": {
+    "months": 3,
+    "cheaper": true,
+    "low": 18900
+   },
+   "comps": [
+    {
+     "name": "40곳 중 최저",
+     "price": 18680
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 27150
+    },
+    {
+     "m": "26-01",
+     "p": 27760
+    },
+    {
+     "m": "26-04",
+     "p": 19600
+    },
+    {
+     "m": "26-05",
+     "p": 19440
+    },
+    {
+     "m": "26-10",
+     "p": 20650
+    },
+    {
+     "m": "26-11",
+     "p": 18900
+    }
+   ],
+   "link": "https://link.coupang.com/a/g1NOr20SYu"
+  },
   {
    "uid": "2880560029",
    "mall": "쿠팡",
@@ -2147,28 +2204,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/hC9RfXbtDg"
-  },
-  {
-   "uid": "9120160445",
-   "mall": "쿠팡",
-   "title": "오뚜기 진라면 매운맛 컵 65g, 12개",
-   "price": 7150,
-   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/409688058790195-f5f62019-8163-40c4-a6f4-3facb87bce1e.jpg",
-   "sentAt": "2026-11-23T12:52:39.078+09:00",
-   "saving": 27,
-   "baseline": 9810,
-   "baselineNote": "판매글 8곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 596
-   },
-   "comps": [
-    {
-     "name": "판매글 8곳 최저가",
-     "price": 9810
-    }
-   ],
-   "link": "https://link.coupang.com/a/iT70645VrU"
   }
  ]
 }
