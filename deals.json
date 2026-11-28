@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-28T14:01:06.437+09:00",
+ "updated": "2026-11-28T15:01:31.787+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "9284871707",
+   "mall": "롯데온",
+   "title": "한끼 갈비탕 700g*5팩 딜크릿",
+   "price": 36720,
+   "image": "https://contents.lotteon.com/itemimage/20261106105539/LO/27/27/76/92/88/_2/72/77/69/28/9/LO2727769288_2727769289_1.jpg",
+   "sentAt": "2026-11-28T15:01:31.058+09:00",
+   "unit": {
+    "label": "개당",
+    "value": 7344
+   },
+   "link": "http://app.ac/yqDgxK283"
+  },
   {
    "uid": "1372671171",
    "mall": "지마켓",
@@ -1933,24 +1946,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iUDOvGaZwa"
-  },
-  {
-   "uid": "1705181770",
-   "mall": "쿠팡",
-   "title": "쿡테크 55W 20000mAh 대용량 일체형 고속충전 보조배터리",
-   "price": 29900,
-   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/image_audit/prod/4b377c22-e7d1-4db9-bae4-84733d94cd55_fixing_v2.png",
-   "sentAt": "2026-11-23T20:07:00.231+09:00",
-   "saving": 22,
-   "baseline": 38390,
-   "baselineNote": "판매글 6곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 6곳 최저가",
-     "price": 38390
-    }
-   ],
-   "link": "https://link.coupang.com/a/gVfqs6f4Q8"
   }
  ]
 }
