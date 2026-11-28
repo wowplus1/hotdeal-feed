@@ -1,7 +1,88 @@
 {
- "updated": "2026-11-28T15:01:31.787+09:00",
+ "updated": "2026-11-28T16:04:38.652+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1561604362",
+   "mall": "쿠팡",
+   "title": "몰티져스 펀사이즈 믹스팩 600g 1개",
+   "price": 12500,
+   "image": "https://t3a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/1c34/d178d5bedde2f92f42ffc83d0f30120bf085a91f09a9a8d56010b5064477.jpg",
+   "sentAt": "2026-11-28T16:04:37.795+09:00",
+   "saving": 36,
+   "baseline": 19460,
+   "baselineNote": "37곳 중 최저",
+   "unit": {
+    "label": "100g당",
+    "value": 2083
+   },
+   "check": {
+    "market": 19460,
+    "malls": 37
+   },
+   "hist": {
+    "months": 12,
+    "cheaper": true,
+    "low": 16520
+   },
+   "comps": [
+    {
+     "name": "37곳 중 최저",
+     "price": 19460
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 17730
+    },
+    {
+     "m": "26-01",
+     "p": 17510
+    },
+    {
+     "m": "26-02",
+     "p": 17580
+    },
+    {
+     "m": "26-03",
+     "p": 18320
+    },
+    {
+     "m": "26-04",
+     "p": 18320
+    },
+    {
+     "m": "26-05",
+     "p": 16520
+    },
+    {
+     "m": "26-06",
+     "p": 16520
+    },
+    {
+     "m": "26-07",
+     "p": 19460
+    },
+    {
+     "m": "26-08",
+     "p": 19460
+    },
+    {
+     "m": "26-09",
+     "p": 18150
+    },
+    {
+     "m": "26-10",
+     "p": 18540
+    },
+    {
+     "m": "26-11",
+     "p": 19100
+    }
+   ],
+   "link": "https://link.coupang.com/a/ibdXMVhriu"
+  },
   {
    "uid": "9284871707",
    "mall": "롯데온",
@@ -1928,24 +2009,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=2738892896"
-  },
-  {
-   "uid": "4328435797",
-   "mall": "쿠팡",
-   "title": "HP 옴니북 5 16-bm0011TU 512GB/16GB/win11 home",
-   "price": 1249000,
-   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/04/27/15/9/5d0b12f2-aa4a-4814-8cc3-61a22c9d136b.jpg",
-   "sentAt": "2026-11-23T20:17:46.700+09:00",
-   "saving": 26,
-   "baseline": 1695990,
-   "baselineNote": "판매글 23곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 23곳 최저가",
-     "price": 1695990
-    }
-   ],
-   "link": "https://link.coupang.com/a/iUDOvGaZwa"
   }
  ]
 }
