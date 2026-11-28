@@ -1,7 +1,16 @@
 {
- "updated": "2026-11-28T12:46:35.589+09:00",
+ "updated": "2026-11-28T13:02:13.938+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6974036363",
+   "mall": "지마켓",
+   "title": "한입삼겹살 500g x 4팩 총 2kg",
+   "price": 18810,
+   "image": "https://gdimg.gmarket.co.kr/4808106255/goodsimage",
+   "sentAt": "2026-11-28T13:02:13.268+09:00",
+   "link": "https://item.gmarket.co.kr/Item?goodscode=4808106255"
+  },
   {
    "uid": "7740634547",
    "mall": "롯데온",
@@ -1951,24 +1960,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/h9UI879HBQ"
-  },
-  {
-   "uid": "6945705350",
-   "mall": "지마켓",
-   "title": "해피콜 플렉스팬 IH 와이드 인덕션 후라이팬 20cm",
-   "price": 14900,
-   "image": "https://gdimg.gmarket.co.kr/2647573160/goodsimage",
-   "sentAt": "2026-11-23T18:02:16.631+09:00",
-   "saving": 31,
-   "baseline": 21510,
-   "baselineNote": "판매글 10곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 10곳 최저가",
-     "price": 21510
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2647573160"
   }
  ]
 }
