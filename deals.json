@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-28T17:01:18.216+09:00",
+ "updated": "2026-11-28T18:02:16.393+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7764588266",
+   "mall": "롯데온",
+   "title": "국내산 대패 냉동 돈삼겹살 1kg",
+   "price": 13610,
+   "image": "https://contents.lotteon.com/itemimage/20261128170050/LO/28/14/03/45/71/_2/81/40/34/57/2/LO2814034571_2814034572_1.jpg",
+   "sentAt": "2026-11-28T18:02:15.434+09:00",
+   "unit": {
+    "label": "100g당",
+    "value": 1361
+   },
+   "link": "http://app.ac/LEwISoS23"
+  },
   {
    "uid": "6220739994",
    "mall": "지마켓",
@@ -1983,19 +1996,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/iUISPlR7S0"
-  },
-  {
-   "uid": "5974875321",
-   "mall": "롯데온",
-   "title": "무주 반디품은사과즙 30팩 NFC착즙 선물포장",
-   "price": 10130,
-   "image": "https://contents.lotteon.com/itemimage/20261119151340/LO/28/20/16/49/04/bndl_img/LO2820164904_1.jpg",
-   "sentAt": "2026-11-23T21:23:55.571+09:00",
-   "unit": {
-    "label": "개당",
-    "value": 338
-   },
-   "link": "http://app.ac/NjpXhNa63"
   }
  ]
 }
