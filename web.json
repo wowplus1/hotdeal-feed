@@ -1,7 +1,85 @@
 {
- "updated": "2026-11-27T18:03:30.445+09:00",
+ "updated": "2026-11-28T18:06:15.590+09:00",
  "count": 200,
  "items": [
+  {
+   "uid": "1526260005",
+   "mall": "지마켓",
+   "title": "서린공식 Apacer DDR5-6000 CL38 NOX WHITE 패키지 (32GB(16...",
+   "price": 608480,
+   "image": "https://gdimg.gmarket.co.kr/4598271392/goodsimage",
+   "sentAt": "2026-11-28T18:06:15.590+09:00",
+   "saving": 22,
+   "baseline": 780500,
+   "baselineNote": "52곳 중 최저",
+   "check": {
+    "market": 780500,
+    "malls": 52
+   },
+   "hist": {
+    "months": 6,
+    "cheaper": false,
+    "low": 561090
+   },
+   "comps": [
+    {
+     "name": "52곳 중 최저",
+     "price": 780500
+    }
+   ],
+   "trend": [
+    {
+     "m": "25-12",
+     "p": 561090
+    },
+    {
+     "m": "26-01",
+     "p": 719000
+    },
+    {
+     "m": "26-02",
+     "p": 606245
+    },
+    {
+     "m": "26-03",
+     "p": 598990
+    },
+    {
+     "m": "26-04",
+     "p": 609510
+    },
+    {
+     "m": "26-05",
+     "p": 678990
+    },
+    {
+     "m": "26-06",
+     "p": 698990
+    },
+    {
+     "m": "26-07",
+     "p": 671490
+    },
+    {
+     "m": "26-08",
+     "p": 690500
+    },
+    {
+     "m": "26-09",
+     "p": 689000
+    },
+    {
+     "m": "26-10",
+     "p": 690490
+    },
+    {
+     "m": "26-11",
+     "p": 731500
+    }
+   ],
+   "link": "https://item.gmarket.co.kr/Item?goodscode=4598271392",
+   "web": true
+  },
   {
    "uid": "2132427366",
    "mall": "지마켓",
@@ -13383,25 +13461,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/hTxCajxw7h",
-   "web": true
-  },
-  {
-   "uid": "4629012236",
-   "mall": "11번가",
-   "title": "자포니카 민물장어1kg 손질후 700g /생강채/소스",
-   "price": 12980,
-   "image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/dl/v2/1/5/9/9/9/5/TdakL/8705159995_243024041.webp",
-   "sentAt": "2026-11-11T00:35:29.105+09:00",
-   "saving": 41,
-   "baseline": 21830,
-   "baselineNote": "판매글 5곳 최저가",
-   "comps": [
-    {
-     "name": "판매글 5곳 최저가",
-     "price": 21830
-    }
-   ],
-   "link": "http://app.ac/YtnLLmM93",
    "web": true
   }
  ]
