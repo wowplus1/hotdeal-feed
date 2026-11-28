@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-28T13:02:13.938+09:00",
+ "updated": "2026-11-28T14:01:06.437+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "1372671171",
+   "mall": "지마켓",
+   "title": "크리넥스 3겹 데코앤소프트 화이트 25MX30롤 2팩",
+   "price": 26510,
+   "image": "https://gdimg.gmarket.co.kr/4157511492/goodsimage",
+   "sentAt": "2026-11-28T14:01:05.614+09:00",
+   "unit": {
+    "label": "개당",
+    "value": 13255
+   },
+   "link": "https://item.gmarket.co.kr/Item?goodscode=4157511492"
+  },
   {
    "uid": "6974036363",
    "mall": "지마켓",
@@ -1938,28 +1951,6 @@
     }
    ],
    "link": "https://link.coupang.com/a/gVfqs6f4Q8"
-  },
-  {
-   "uid": "8147828492",
-   "mall": "쿠팡",
-   "title": "오리온 비쵸비 비스켓, 125g, 2개",
-   "price": 4000,
-   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/32994e93-8480-45b2-afb9-b4e092d11ce917453099966086297039.png",
-   "sentAt": "2026-11-23T19:47:47.263+09:00",
-   "saving": 39,
-   "baseline": 6520,
-   "baselineNote": "판매글 30곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 2000
-   },
-   "comps": [
-    {
-     "name": "판매글 30곳 최저가",
-     "price": 6520
-    }
-   ],
-   "link": "https://link.coupang.com/a/h9UI879HBQ"
   }
  ]
 }
