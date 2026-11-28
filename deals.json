@@ -1,7 +1,16 @@
 {
- "updated": "2026-11-28T19:03:40.545+09:00",
+ "updated": "2026-11-28T20:03:04.503+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "7320312496",
+   "mall": "롯데온",
+   "title": "데일리 치노 팬츠",
+   "price": 21910,
+   "image": "https://contents.lotteon.com/itemimage/20261022111753/LE/12/22/74/51/74/_1/33/83/37/93/7/LE1222745174_1338337937_1.jpg",
+   "sentAt": "2026-11-28T20:03:03.723+09:00",
+   "link": "http://app.ac/1tnMQZM23"
+  },
   {
    "uid": "2852536998",
    "mall": "지마켓",
@@ -1965,28 +1974,6 @@
     }
    ],
    "link": "https://ad0981.kr/link/2463553347?gmarket2=4047940691"
-  },
-  {
-   "uid": "2119273961",
-   "mall": "지마켓",
-   "title": "스테비아 방울 토마토 2kg",
-   "price": 10970,
-   "image": "https://gdimg.gmarket.co.kr/4883460176/goodsimage",
-   "sentAt": "2026-11-24T09:58:06.070+09:00",
-   "saving": 26,
-   "baseline": 14880,
-   "baselineNote": "판매글 10곳 최저가",
-   "unit": {
-    "label": "100g당",
-    "value": 549
-   },
-   "comps": [
-    {
-     "name": "판매글 10곳 최저가",
-     "price": 14880
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=4883460176"
   }
  ]
 }
