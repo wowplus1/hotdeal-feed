@@ -1,7 +1,16 @@
 {
- "updated": "2026-11-28T16:04:38.652+09:00",
+ "updated": "2026-11-28T17:01:18.216+09:00",
  "count": 60,
  "items": [
+  {
+   "uid": "6220739994",
+   "mall": "지마켓",
+   "title": "세븐에이트 새치 염색약 2개+염색도구+샴푸5매",
+   "price": 9900,
+   "image": "https://gdimg.gmarket.co.kr/122773099/goodsimage",
+   "sentAt": "2026-11-28T17:01:17.637+09:00",
+   "link": "https://item.gmarket.co.kr/Item?goodscode=122773099"
+  },
   {
    "uid": "1561604362",
    "mall": "쿠팡",
@@ -1987,28 +1996,6 @@
     "value": 338
    },
    "link": "http://app.ac/NjpXhNa63"
-  },
-  {
-   "uid": "9113727224",
-   "mall": "지마켓",
-   "title": "밀카 초코무 40g 24개",
-   "price": 14800,
-   "image": "https://gdimg.gmarket.co.kr/2738892896/goodsimage",
-   "sentAt": "2026-11-23T21:23:10.118+09:00",
-   "saving": 29,
-   "baseline": 20900,
-   "baselineNote": "판매글 15곳 최저가",
-   "unit": {
-    "label": "개당",
-    "value": 617
-   },
-   "comps": [
-    {
-     "name": "판매글 15곳 최저가",
-     "price": 20900
-    }
-   ],
-   "link": "https://ad0981.kr/link/2463553347?gmarket2=2738892896"
   }
  ]
 }
